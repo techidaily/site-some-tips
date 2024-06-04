@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Secrets to Perfect Green Screen in Kinemaster"
-date: 2024-06-02 23:48:41
-updated: 2024-06-03 11:14:35
+date: 2024-06-03T03:49:43.678Z
+updated: 2024-06-04T03:49:43.678Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Troubleshooting Companion  Restoring SRT Functionality in Premiere\""
-date: 2024-05-29 14:16:13
-updated: 2024-06-01 10:24:35
+date: 2024-06-03T03:57:04.530Z
+updated: 2024-06-04T03:57:04.530Z
 tags: 
   - screen-recording
   - ai video

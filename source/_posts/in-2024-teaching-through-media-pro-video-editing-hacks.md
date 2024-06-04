@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Teaching Through Media  Pro Video Editing Hacks\""
-date: 2024-05-30 20:23:33
-updated: 2024-05-31 11:19:28
+date: 2024-06-03T04:17:16.421Z
+updated: 2024-06-04T04:17:16.421Z
 tags: 
   - screen-recording
   - ai video

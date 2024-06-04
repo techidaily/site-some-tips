@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essentials of Crafting Impactful Spotify Ads"
-date: 2024-05-31 12:42:18
-updated: 2024-06-01 10:10:11
+date: 2024-06-03T04:06:40.180Z
+updated: 2024-06-04T04:06:40.180Z
 tags: 
   - screen-recording
   - ai video

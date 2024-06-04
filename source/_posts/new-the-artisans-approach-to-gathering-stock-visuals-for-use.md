@@ -1,7 +1,7 @@
 ---
 title: "[New] The Artisan's Approach to Gathering Stock Visuals for Use"
-date: 2024-05-31 20:48:43
-updated: 2024-06-01 11:14:21
+date: 2024-06-03T04:22:40.667Z
+updated: 2024-06-04T04:22:40.667Z
 tags: 
   - screen-recording
   - ai video

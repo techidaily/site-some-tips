@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Blueprint for Transferring Large Videos Between Apple Devices"
-date: 2024-05-30 23:27:51
-updated: 2024-06-01 12:12:57
+date: 2024-06-03T03:56:34.110Z
+updated: 2024-06-04T03:56:34.110Z
 tags: 
   - screen-recording
   - ai video

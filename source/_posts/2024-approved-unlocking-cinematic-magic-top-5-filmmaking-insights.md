@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Cinematic Magic  Top 5 Filmmaking Insights\""
-date: 2024-06-01 21:26:44
-updated: 2024-06-03 11:18:43
+date: 2024-06-03T03:55:26.773Z
+updated: 2024-06-04T03:55:26.773Z
 tags: 
   - screen-recording
   - ai video

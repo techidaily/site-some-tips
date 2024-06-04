@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Vector Artistry Unleashed  Picks of the Year for Designers\""
-date: 2024-06-02 13:11:52
-updated: 2024-06-03 12:20:41
+date: 2024-06-03T03:44:26.984Z
+updated: 2024-06-04T03:44:26.984Z
 tags: 
   - screen-recording
   - ai video

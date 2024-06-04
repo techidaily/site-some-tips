@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Seamless Content Consumption  Configuring PIP for YouTube on iPhone\""
-date: 2024-05-28 14:17:49
-updated: 2024-05-30 11:32:54
+date: 2024-06-03T04:14:03.693Z
+updated: 2024-06-04T04:14:03.693Z
 tags: 
   - screen-recording
   - ai video

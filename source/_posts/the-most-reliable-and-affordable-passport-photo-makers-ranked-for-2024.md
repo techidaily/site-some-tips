@@ -1,7 +1,7 @@
 ---
 title: "The Most Reliable and Affordable Passport Photo Makers Ranked for 2024"
-date: 2024-05-31 20:52:58
-updated: 2024-06-01 11:37:38
+date: 2024-06-03T04:12:42.588Z
+updated: 2024-06-04T04:12:42.588Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artistic Eye with Toolwiz  An In-Depth Look at the PhotosApp, 2023 Edition\""
-date: 2024-05-31 15:13:17
-updated: 2024-06-01 12:29:41
+date: 2024-06-03T04:48:56.550Z
+updated: 2024-06-04T04:48:56.550Z
 tags: 
   - screen-recording
   - ai video

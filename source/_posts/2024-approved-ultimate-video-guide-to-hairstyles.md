@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Video Guide to Hairstyles\""
-date: 2024-06-01 17:20:47
-updated: 2024-06-02 11:34:39
+date: 2024-06-03T04:03:26.851Z
+updated: 2024-06-04T04:03:26.851Z
 tags: 
   - screen-recording
   - ai video

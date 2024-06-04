@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema for 2024\""
-date: 2024-05-31 15:15:11
-updated: 2024-06-01 10:12:23
+date: 2024-06-03T03:49:20.528Z
+updated: 2024-06-04T03:49:20.528Z
 tags: 
   - screen-recording
   - ai video

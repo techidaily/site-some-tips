@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Choosing Between M1 MacBooks"
-date: 2024-05-30 13:25:16
-updated: 2024-06-01 11:46:22
+date: 2024-06-03T04:52:02.852Z
+updated: 2024-06-04T04:52:02.852Z
 tags: 
   - screen-recording
   - ai video

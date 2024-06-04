@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Creating Smooth Audio Cuts"
-date: 2024-05-30 16:17:51
-updated: 2024-06-01 11:45:25
+date: 2024-06-03T04:25:29.627Z
+updated: 2024-06-04T04:25:29.627Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editor's Echo Chamber\""
-date: 2024-05-31 14:38:15
-updated: 2024-06-01 12:15:18
+date: 2024-06-03T04:25:05.876Z
+updated: 2024-06-04T04:25:05.876Z
 tags: 
   - screen-recording
   - ai video

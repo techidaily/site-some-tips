@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Allure of BenQ SW320 4K Pro Display\""
-date: 2024-05-29 21:52:10
-updated: 2024-06-01 12:10:33
+date: 2024-06-03T03:47:54.024Z
+updated: 2024-06-04T03:47:54.024Z
 tags: 
   - screen-recording
   - ai video

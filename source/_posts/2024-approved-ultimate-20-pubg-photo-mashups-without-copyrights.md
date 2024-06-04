@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate 20 PUBG Photo Mashups, Without Copyrights\""
-date: 2024-05-30 17:30:20
-updated: 2024-06-02 11:39:20
+date: 2024-06-03T04:15:38.465Z
+updated: 2024-06-04T04:15:38.465Z
 tags: 
   - screen-recording
   - ai video

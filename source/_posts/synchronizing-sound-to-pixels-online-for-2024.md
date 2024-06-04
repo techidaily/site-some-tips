@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Sound to Pixels Online for 2024"
-date: 2024-05-30 17:13:28
-updated: 2024-05-31 10:48:56
+date: 2024-06-03T04:16:22.959Z
+updated: 2024-06-04T04:16:22.959Z
 tags: 
   - screen-recording
   - ai video

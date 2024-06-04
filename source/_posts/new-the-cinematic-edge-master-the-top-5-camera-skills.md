@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Cinematic Edge  Master the Top 5 Camera Skills\""
-date: 2024-05-30 16:42:48
-updated: 2024-06-01 12:22:39
+date: 2024-06-03T03:47:34.553Z
+updated: 2024-06-04T03:47:34.553Z
 tags: 
   - screen-recording
   - ai video

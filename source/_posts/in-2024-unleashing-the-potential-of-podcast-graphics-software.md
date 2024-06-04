@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleashing the Potential of Podcast Graphics Software"
-date: 2024-06-01 21:43:57
-updated: 2024-06-03 10:44:15
+date: 2024-06-03T04:50:08.616Z
+updated: 2024-06-04T04:50:08.616Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Best Editing Software for Professional DJi Videos"
-date: 2024-05-29 14:34:21
-updated: 2024-06-01 11:36:33
+date: 2024-06-03T03:57:42.492Z
+updated: 2024-06-04T03:57:42.492Z
 tags: 
   - screen-recording
   - ai video

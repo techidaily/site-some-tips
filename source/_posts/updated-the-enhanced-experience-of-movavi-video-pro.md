@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Enhanced Experience of Movavi Video Pro"
-date: 2024-05-29 22:39:35
-updated: 2024-06-01 11:47:47
+date: 2024-06-03T04:23:56.747Z
+updated: 2024-06-04T04:23:56.747Z
 tags: 
   - screen-recording
   - ai video

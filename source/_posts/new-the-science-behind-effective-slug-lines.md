@@ -1,7 +1,7 @@
 ---
 title: "[New] The Science Behind Effective Slug Lines"
-date: 2024-05-30 22:47:50
-updated: 2024-06-01 10:29:27
+date: 2024-06-03T03:55:03.158Z
+updated: 2024-06-04T03:55:03.158Z
 tags: 
   - screen-recording
   - ai video

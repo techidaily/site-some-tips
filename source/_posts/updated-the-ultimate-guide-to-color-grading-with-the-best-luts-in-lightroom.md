@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Color Grading with the Best LUTs in LightRoom"
-date: 2024-05-31 18:39:38
-updated: 2024-06-01 10:40:35
+date: 2024-06-03T04:32:29.986Z
+updated: 2024-06-04T04:32:29.986Z
 tags: 
   - screen-recording
   - ai video

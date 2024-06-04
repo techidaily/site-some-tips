@@ -1,7 +1,7 @@
 ---
 title: "Fade To Black In Premiere Pro for 2024"
-date: 2024-05-23 19:37:30
-updated: 2024-05-26 10:25:31
+date: 2024-06-03T04:11:21.305Z
+updated: 2024-06-04T04:11:21.305Z
 tags: 
   - screen-recording
   - ai video

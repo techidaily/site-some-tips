@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Role of Visual Aids in Pedagogy"
-date: 2024-05-29 14:57:39
-updated: 2024-06-01 11:24:45
+date: 2024-06-03T04:38:12.025Z
+updated: 2024-06-04T04:38:12.025Z
 tags: 
   - screen-recording
   - ai video

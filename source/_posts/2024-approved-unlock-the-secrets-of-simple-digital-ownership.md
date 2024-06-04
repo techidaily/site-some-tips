@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Secrets of Simple Digital Ownership\""
-date: 2024-06-01 21:51:13
-updated: 2024-06-03 10:33:13
+date: 2024-06-03T04:17:42.881Z
+updated: 2024-06-04T04:17:42.881Z
 tags: 
   - screen-recording
   - ai video

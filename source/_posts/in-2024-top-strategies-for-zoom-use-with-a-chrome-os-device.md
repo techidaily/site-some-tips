@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Strategies for Zoom Use with a Chrome OS Device"
-date: 2024-05-30 10:22:30
-updated: 2024-06-02 12:19:37
+date: 2024-06-03T04:09:16.474Z
+updated: 2024-06-04T04:09:16.474Z
 tags: 
   - screen-recording
   - ai video

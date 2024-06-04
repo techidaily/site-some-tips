@@ -1,7 +1,7 @@
 ---
 title: "\"Top 10 Best Performers  Elite 4K Laptops for 2024\""
-date: 2024-06-01 22:53:15
-updated: 2024-06-02 11:33:48
+date: 2024-06-03T04:39:41.223Z
+updated: 2024-06-04T04:39:41.223Z
 tags: 
   - screen-recording
   - ai video

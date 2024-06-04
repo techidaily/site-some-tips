@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Stretching YouTube Videos to Full Display"
-date: 2024-05-30 16:19:12
-updated: 2024-05-31 11:30:43
+date: 2024-06-03T04:04:31.836Z
+updated: 2024-06-04T04:04:31.836Z
 tags: 
   - screen-recording
   - ai video

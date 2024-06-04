@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Approach  Expert Color Alteration Tactics\""
-date: 2024-05-31 23:41:18
-updated: 2024-06-01 12:50:53
+date: 2024-06-03T04:22:57.701Z
+updated: 2024-06-04T04:22:57.701Z
 tags: 
   - screen-recording
   - ai video

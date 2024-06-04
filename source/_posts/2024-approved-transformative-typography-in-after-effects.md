@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transformative Typography in After Effects\""
-date: 2024-05-30 22:24:55
-updated: 2024-06-02 12:59:37
+date: 2024-06-03T04:40:31.196Z
+updated: 2024-06-04T04:40:31.196Z
 tags: 
   - screen-recording
   - ai video

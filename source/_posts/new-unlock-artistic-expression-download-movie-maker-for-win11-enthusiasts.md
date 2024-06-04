@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Artistic Expression  Download Movie Maker for Win11 Enthusiasts\""
-date: 2024-06-01 20:40:55
-updated: 2024-06-03 12:14:35
+date: 2024-06-03T04:00:58.612Z
+updated: 2024-06-04T04:00:58.612Z
 tags: 
   - screen-recording
   - ai video

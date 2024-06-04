@@ -1,7 +1,7 @@
 ---
 title: "\"Sweet Slumber Scenes  Video Critique for 2024\""
-date: 2024-05-28 21:39:42
-updated: 2024-05-31 11:55:43
+date: 2024-06-03T03:46:34.806Z
+updated: 2024-06-04T03:46:34.806Z
 tags: 
   - screen-recording
   - ai video

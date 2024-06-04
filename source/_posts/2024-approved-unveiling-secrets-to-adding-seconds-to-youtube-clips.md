@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Secrets to Adding Seconds to YouTube Clips\""
-date: 2024-06-01 19:51:19
-updated: 2024-06-03 10:43:31
+date: 2024-06-03T04:35:10.944Z
+updated: 2024-06-04T04:35:10.944Z
 tags: 
   - screen-recording
   - ai video

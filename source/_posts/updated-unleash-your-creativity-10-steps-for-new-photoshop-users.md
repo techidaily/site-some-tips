@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleash Your Creativity  10 Steps for New Photoshop Users\""
-date: 2024-06-01 23:58:18
-updated: 2024-06-02 11:34:21
+date: 2024-06-03T03:53:08.169Z
+updated: 2024-06-04T03:53:08.169Z
 tags: 
   - screen-recording
   - ai video

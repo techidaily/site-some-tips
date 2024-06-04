@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tech-Savvy Pilots' Guide to Attentive Drones\""
-date: 2024-05-29 21:19:51
-updated: 2024-05-31 11:26:42
+date: 2024-06-03T04:03:31.154Z
+updated: 2024-06-04T04:03:31.154Z
 tags: 
   - screen-recording
   - ai video

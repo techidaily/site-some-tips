@@ -1,7 +1,7 @@
 ---
 title: "The Art of Gathering Free Photo Display Videos for 2024"
-date: 2024-05-29 23:55:56
-updated: 2024-06-01 12:56:28
+date: 2024-06-03T03:48:45.971Z
+updated: 2024-06-04T03:48:45.971Z
 tags: 
   - screen-recording
   - ai video

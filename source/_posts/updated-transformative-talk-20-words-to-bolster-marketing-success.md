@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transformative Talk  20 Words to Bolster Marketing Success\""
-date: 2024-06-01 18:46:49
-updated: 2024-06-02 12:27:53
+date: 2024-06-03T04:50:25.984Z
+updated: 2024-06-04T04:50:25.984Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Photobooth Frustration  Unfreezing Video Playback for 2024\""
-date: 2024-05-26 20:59:58
-updated: 2024-05-29 12:25:12
+date: 2024-06-03T04:40:44.355Z
+updated: 2024-06-04T04:40:44.355Z
 tags: 
   - screen-recording
   - ai video

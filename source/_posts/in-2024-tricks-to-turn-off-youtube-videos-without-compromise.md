@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tricks to Turn Off YouTube Videos Without Compromise"
-date: 2024-05-30 10:45:32
-updated: 2024-06-02 10:57:29
+date: 2024-06-03T04:30:05.623Z
+updated: 2024-06-04T04:30:05.623Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlined Playback  Import Tunes Into InShot\""
-date: 2024-05-28 23:16:28
-updated: 2024-05-31 10:59:17
+date: 2024-06-03T03:43:33.634Z
+updated: 2024-06-04T03:43:33.634Z
 tags: 
   - screen-recording
   - ai video

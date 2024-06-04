@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash the Potential of GoPro Hero 7 & 8 with Top SD Cards"
-date: 2024-05-30 19:31:15
-updated: 2024-06-02 11:50:30
+date: 2024-06-03T04:05:37.305Z
+updated: 2024-06-04T04:05:37.305Z
 tags: 
   - screen-recording
   - ai video

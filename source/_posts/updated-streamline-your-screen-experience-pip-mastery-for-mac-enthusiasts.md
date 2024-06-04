@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Your Screen Experience  PIP Mastery for Mac Enthusiasts\""
-date: 2024-05-29 19:36:17
-updated: 2024-05-31 11:26:24
+date: 2024-06-03T04:50:21.121Z
+updated: 2024-06-04T04:50:21.121Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate iPad Slow Motion Techniques for Filming and Video Modification\""
-date: 2024-05-30 13:27:37
-updated: 2024-06-01 11:23:17
+date: 2024-06-03T03:49:33.330Z
+updated: 2024-06-04T03:49:33.330Z
 tags: 
   - screen-recording
   - ai video

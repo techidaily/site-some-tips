@@ -1,7 +1,7 @@
 ---
 title: "[New] Unraveling VR's Impact on Digital Cinema"
-date: 2024-05-31 20:20:37
-updated: 2024-06-03 11:43:13
+date: 2024-06-03T03:58:25.211Z
+updated: 2024-06-04T03:58:25.211Z
 tags: 
   - screen-recording
   - ai video

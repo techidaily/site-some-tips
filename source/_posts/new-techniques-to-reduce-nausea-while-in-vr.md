@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques to Reduce Nausea While In VR"
-date: 2024-05-30 23:56:10
-updated: 2024-05-31 10:34:17
+date: 2024-06-03T04:50:43.798Z
+updated: 2024-06-04T04:50:43.798Z
 tags: 
   - screen-recording
   - ai video

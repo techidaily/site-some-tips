@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Swift Steps  Assembling a Photobook with Mac\""
-date: 2024-05-28 14:26:37
-updated: 2024-05-31 12:35:37
+date: 2024-06-03T03:51:09.167Z
+updated: 2024-06-04T03:51:09.167Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Vectors Demystified  Starting Point & Software Selection Tips\""
-date: 2024-05-31 20:50:48
-updated: 2024-06-03 10:51:13
+date: 2024-06-03T04:23:50.644Z
+updated: 2024-06-04T04:23:50.644Z
 tags: 
   - screen-recording
   - ai video

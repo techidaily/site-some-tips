@@ -1,7 +1,7 @@
 ---
 title: "The Unmarked Manual for Instagram's Livestream Privacy for 2024"
-date: 2024-05-30 12:52:52
-updated: 2024-06-01 12:37:57
+date: 2024-06-03T04:20:39.736Z
+updated: 2024-06-04T04:20:39.736Z
 tags: 
   - screen-recording
   - ai video

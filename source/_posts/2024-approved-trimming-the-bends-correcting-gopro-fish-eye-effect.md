@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trimming the Bends  Correcting GoPro Fish Eye Effect\""
-date: 2024-06-01 13:34:49
-updated: 2024-06-02 11:33:50
+date: 2024-06-03T04:15:04.581Z
+updated: 2024-06-04T04:15:04.581Z
 tags: 
   - screen-recording
   - ai video

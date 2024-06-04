@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prime Software for Cutting Action Camera Videos\""
-date: 2024-05-28 12:46:30
-updated: 2024-05-30 11:58:37
+date: 2024-06-03T04:24:02.429Z
+updated: 2024-06-04T04:24:02.429Z
 tags: 
   - screen-recording
   - ai video

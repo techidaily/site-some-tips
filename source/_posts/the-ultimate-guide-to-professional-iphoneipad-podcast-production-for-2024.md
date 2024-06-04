@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Professional iPhone/iPad Podcast Production for 2024"
-date: 2024-05-30 20:23:59
-updated: 2024-06-01 10:58:19
+date: 2024-06-03T04:41:17.312Z
+updated: 2024-06-04T04:41:17.312Z
 tags: 
   - screen-recording
   - ai video

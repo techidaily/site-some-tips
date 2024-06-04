@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Expert's List of Tools for Accelerating Your Facebook Vids"
-date: 2024-05-29 16:43:49
-updated: 2024-06-01 11:50:39
+date: 2024-06-03T04:20:55.280Z
+updated: 2024-06-04T04:20:55.280Z
 tags: 
   - screen-recording
   - ai video

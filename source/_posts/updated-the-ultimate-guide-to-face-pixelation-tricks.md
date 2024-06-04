@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Face Pixelation Tricks"
-date: 2024-05-31 14:56:20
-updated: 2024-06-01 12:16:40
+date: 2024-06-03T04:48:18.676Z
+updated: 2024-06-04T04:48:18.676Z
 tags: 
   - screen-recording
   - ai video

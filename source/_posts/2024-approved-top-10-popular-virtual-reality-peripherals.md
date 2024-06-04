@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Popular Virtual Reality Peripherals\""
-date: 2024-05-30 21:42:24
-updated: 2024-06-02 12:30:52
+date: 2024-06-03T04:39:55.781Z
+updated: 2024-06-04T04:39:55.781Z
 tags: 
   - screen-recording
   - ai video

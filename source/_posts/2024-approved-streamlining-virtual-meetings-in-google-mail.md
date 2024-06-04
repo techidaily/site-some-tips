@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Virtual Meetings in Google Mail\""
-date: 2024-05-30 12:30:19
-updated: 2024-05-31 12:30:36
+date: 2024-06-03T04:28:17.009Z
+updated: 2024-06-04T04:28:17.009Z
 tags: 
   - screen-recording
   - ai video

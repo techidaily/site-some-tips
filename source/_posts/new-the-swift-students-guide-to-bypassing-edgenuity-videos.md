@@ -1,7 +1,7 @@
 ---
 title: "[New] The Swift Student's Guide to Bypassing Edgenuity Videos"
-date: 2024-05-30 21:31:46
-updated: 2024-06-01 11:49:47
+date: 2024-06-03T04:17:53.232Z
+updated: 2024-06-04T04:17:53.232Z
 tags: 
   - screen-recording
   - ai video

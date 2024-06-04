@@ -1,7 +1,7 @@
 ---
 title: "[New] Unleashing the iPhone's Full Potential with 10 Composition Principles"
-date: 2024-06-01 17:40:25
-updated: 2024-06-03 11:14:10
+date: 2024-06-03T03:48:43.139Z
+updated: 2024-06-04T03:48:43.139Z
 tags: 
   - screen-recording
   - ai video

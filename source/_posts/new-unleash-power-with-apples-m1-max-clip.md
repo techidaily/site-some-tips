@@ -1,7 +1,7 @@
 ---
 title: "[New] Unleash Power with Apple's M1 Max Clip"
-date: 2024-05-30 16:52:48
-updated: 2024-06-02 10:32:51
+date: 2024-06-03T03:57:13.126Z
+updated: 2024-06-04T03:57:13.126Z
 tags: 
   - screen-recording
   - ai video

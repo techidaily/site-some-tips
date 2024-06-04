@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 20 Free Public Domain PUBG Screenshot Slideshows"
-date: 2024-05-30 13:51:22
-updated: 2024-06-02 10:14:50
+date: 2024-06-03T04:29:47.599Z
+updated: 2024-06-04T04:29:47.599Z
 tags: 
   - screen-recording
   - ai video

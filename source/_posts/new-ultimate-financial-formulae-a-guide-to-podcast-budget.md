@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Financial Formulae  A Guide to Podcast Budget\""
-date: 2024-06-01 19:50:49
-updated: 2024-06-02 10:25:56
+date: 2024-06-03T04:44:54.275Z
+updated: 2024-06-04T04:44:54.275Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Guide to Capturing Life in Sync With Music"
-date: 2024-06-01 14:45:32
-updated: 2024-06-02 11:46:22
+date: 2024-06-03T04:39:49.751Z
+updated: 2024-06-04T04:39:49.751Z
 tags: 
   - screen-recording
   - ai video

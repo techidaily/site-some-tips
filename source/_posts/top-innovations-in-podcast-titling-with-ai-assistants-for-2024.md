@@ -1,7 +1,7 @@
 ---
 title: "Top Innovations in Podcast Titling with AI Assistants for 2024"
-date: 2024-05-30 13:44:48
-updated: 2024-06-02 10:28:53
+date: 2024-06-03T03:46:39.013Z
+updated: 2024-06-04T03:46:39.013Z
 tags: 
   - screen-recording
   - ai video

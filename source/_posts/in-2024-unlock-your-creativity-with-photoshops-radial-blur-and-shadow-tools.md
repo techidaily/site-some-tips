@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools"
-date: 2024-06-01 16:15:56
-updated: 2024-06-03 11:57:52
+date: 2024-06-03T03:45:27.833Z
+updated: 2024-06-04T03:45:27.833Z
 tags: 
   - screen-recording
   - ai video

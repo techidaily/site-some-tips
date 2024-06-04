@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Total Horizon Capture Versus Focused Dimensionality\""
-date: 2024-05-31 14:36:56
-updated: 2024-06-02 11:34:14
+date: 2024-06-03T04:24:05.267Z
+updated: 2024-06-04T04:24:05.267Z
 tags: 
   - screen-recording
   - ai video

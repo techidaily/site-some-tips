@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Vegas Pro's Latest Features in '21"
-date: 2024-05-29 16:45:43
-updated: 2024-06-01 11:47:46
+date: 2024-06-03T04:33:16.820Z
+updated: 2024-06-04T04:33:16.820Z
 tags: 
   - screen-recording
   - ai video

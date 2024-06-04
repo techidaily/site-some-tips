@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Guide to Tapered Music Transitions in Premiere Pro"
-date: 2024-05-30 23:51:40
-updated: 2024-06-01 10:16:10
+date: 2024-06-03T04:43:31.401Z
+updated: 2024-06-04T04:43:31.401Z
 tags: 
   - screen-recording
   - ai video

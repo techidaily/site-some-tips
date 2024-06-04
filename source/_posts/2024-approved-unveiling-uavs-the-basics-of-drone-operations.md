@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling UAVs  The Basics of Drone Operations\""
-date: 2024-05-31 13:42:32
-updated: 2024-06-03 12:18:44
+date: 2024-06-03T03:55:59.363Z
+updated: 2024-06-04T03:55:59.363Z
 tags: 
   - screen-recording
   - ai video

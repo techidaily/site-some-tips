@@ -1,7 +1,7 @@
 ---
 title: "Syncing Images and Footage on iPhone for 2024"
-date: 2024-05-28 10:23:17
-updated: 2024-05-31 12:51:34
+date: 2024-06-03T04:14:50.285Z
+updated: 2024-06-04T04:14:50.285Z
 tags: 
   - screen-recording
   - ai video

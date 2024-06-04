@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Game Screens for PS5 and Xbox Series X Revealed"
-date: 2024-05-30 14:57:18
-updated: 2024-06-02 11:18:15
+date: 2024-06-03T04:52:33.330Z
+updated: 2024-06-04T04:52:33.330Z
 tags: 
   - screen-recording
   - ai video

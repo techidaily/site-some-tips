@@ -1,7 +1,7 @@
 ---
 title: "The Funniest Face Changes in Photography Tools for 2024"
-date: 2024-05-29 11:18:41
-updated: 2024-06-01 12:54:35
+date: 2024-06-03T04:19:00.035Z
+updated: 2024-06-04T04:19:00.035Z
 tags: 
   - screen-recording
   - ai video

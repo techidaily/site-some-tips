@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The First Lessons in Frame Rate and Fidelity for Newbies\""
-date: 2024-05-29 10:58:36
-updated: 2024-06-01 12:24:46
+date: 2024-06-03T03:52:08.060Z
+updated: 2024-06-04T03:52:08.060Z
 tags: 
   - screen-recording
   - ai video

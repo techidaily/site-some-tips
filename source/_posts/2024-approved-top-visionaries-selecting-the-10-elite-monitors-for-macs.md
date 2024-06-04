@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Visionaries  Selecting the #10 Elite Monitors for Macs\""
-date: 2024-05-30 15:47:21
-updated: 2024-06-02 10:23:34
+date: 2024-06-03T04:18:15.334Z
+updated: 2024-06-04T04:18:15.334Z
 tags: 
   - screen-recording
   - ai video

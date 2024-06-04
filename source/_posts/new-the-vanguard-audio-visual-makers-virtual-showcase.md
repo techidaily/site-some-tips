@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Vanguard Audio-Visual Makers' Virtual Showcase\""
-date: 2024-05-29 11:34:41
-updated: 2024-06-01 12:38:20
+date: 2024-06-03T04:24:17.334Z
+updated: 2024-06-04T04:24:17.334Z
 tags: 
   - screen-recording
   - ai video

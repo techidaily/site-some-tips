@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling Clearer Photos  A Guide to Picsart's Bg Eraser\""
-date: 2024-06-01 17:36:35
-updated: 2024-06-03 12:48:16
+date: 2024-06-03T04:09:27.145Z
+updated: 2024-06-04T04:09:27.145Z
 tags: 
   - screen-recording
   - ai video

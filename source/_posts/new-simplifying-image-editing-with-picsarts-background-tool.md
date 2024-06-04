@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplifying Image Editing with Picsart's Background Tool"
-date: 2024-05-30 15:36:14
-updated: 2024-05-31 10:25:21
+date: 2024-06-03T04:41:10.573Z
+updated: 2024-06-04T04:41:10.573Z
 tags: 
   - screen-recording
   - ai video

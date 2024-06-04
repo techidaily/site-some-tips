@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Caption Insertion  Photos App Tutorials for WIN 11\""
-date: 2024-05-30 12:21:55
-updated: 2024-05-31 11:59:49
+date: 2024-06-03T03:45:22.904Z
+updated: 2024-06-04T03:45:22.904Z
 tags: 
   - screen-recording
   - ai video

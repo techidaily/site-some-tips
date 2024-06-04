@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation\""
-date: 2024-06-02 20:22:24
-updated: 2024-06-03 11:16:39
+date: 2024-06-03T03:58:06.951Z
+updated: 2024-06-04T03:58:06.951Z
 tags: 
   - screen-recording
   - ai video

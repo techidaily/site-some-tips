@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tinkering with Technology  A New Sound for Your Phone\""
-date: 2024-05-30 18:27:58
-updated: 2024-06-02 11:37:56
+date: 2024-06-03T04:13:34.935Z
+updated: 2024-06-04T04:13:34.935Z
 tags: 
   - screen-recording
   - ai video

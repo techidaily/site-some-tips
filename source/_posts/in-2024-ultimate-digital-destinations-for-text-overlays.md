@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Digital Destinations for Text Overlays"
-date: 2024-05-30 21:33:37
-updated: 2024-06-02 11:25:48
+date: 2024-06-03T04:00:21.057Z
+updated: 2024-06-04T04:00:21.057Z
 tags: 
   - screen-recording
   - ai video

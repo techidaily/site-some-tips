@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Warping Images Effectively"
-date: 2024-05-30 19:11:49
-updated: 2024-06-01 12:49:51
+date: 2024-06-03T03:56:10.102Z
+updated: 2024-06-04T03:56:10.102Z
 tags: 
   - screen-recording
   - ai video

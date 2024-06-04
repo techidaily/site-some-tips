@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Therapeutic Effects of ASMR for Everyone"
-date: 2024-05-29 14:45:33
-updated: 2024-06-01 11:46:59
+date: 2024-06-03T04:24:30.092Z
+updated: 2024-06-04T04:24:30.092Z
 tags: 
   - screen-recording
   - ai video

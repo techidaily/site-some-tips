@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlining Your Editing Workflow with Final Cut Pro Tips"
-date: 2024-05-28 17:56:42
-updated: 2024-05-31 10:53:32
+date: 2024-06-03T04:49:55.376Z
+updated: 2024-06-04T04:49:55.376Z
 tags: 
   - screen-recording
   - ai video

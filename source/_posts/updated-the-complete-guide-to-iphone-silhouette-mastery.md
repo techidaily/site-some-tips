@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Complete Guide to iPhone Silhouette Mastery"
-date: 2024-05-29 23:40:18
-updated: 2024-06-01 12:21:17
+date: 2024-06-03T04:46:07.300Z
+updated: 2024-06-04T04:46:07.300Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Top 5 Low-Weight Action Recorders List\""
-date: 2024-05-31 20:36:30
-updated: 2024-06-02 11:46:46
+date: 2024-06-03T04:13:23.520Z
+updated: 2024-06-04T04:13:23.520Z
 tags: 
   - screen-recording
   - ai video

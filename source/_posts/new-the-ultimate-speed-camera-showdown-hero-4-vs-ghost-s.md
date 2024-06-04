@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Speed Camera Showdown  Hero 4 VS Ghost-S\""
-date: 2024-05-29 11:15:24
-updated: 2024-06-01 11:21:48
+date: 2024-06-03T04:17:53.948Z
+updated: 2024-06-04T04:17:53.948Z
 tags: 
   - screen-recording
   - ai video

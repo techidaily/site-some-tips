@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Artist's Roadmap to Professional Growth"
-date: 2024-05-29 20:28:34
-updated: 2024-06-01 11:43:30
+date: 2024-06-03T04:27:53.619Z
+updated: 2024-06-04T04:27:53.619Z
 tags: 
   - screen-recording
   - ai video

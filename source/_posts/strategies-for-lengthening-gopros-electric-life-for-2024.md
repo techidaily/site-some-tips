@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Lengthening GoPro's Electric Life for 2024"
-date: 2024-05-28 16:49:53
-updated: 2024-05-31 11:51:16
+date: 2024-06-03T03:54:00.097Z
+updated: 2024-06-04T03:54:00.097Z
 tags: 
   - screen-recording
   - ai video

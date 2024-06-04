@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transform Canvas Into Magic - The Best Mac Drawing Apps\""
-date: 2024-06-01 12:35:45
-updated: 2024-06-02 10:40:21
+date: 2024-06-03T03:44:01.704Z
+updated: 2024-06-04T03:44:01.704Z
 tags: 
   - screen-recording
   - ai video

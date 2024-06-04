@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Key to Unlocking the Best Video Production Talents"
-date: 2024-05-30 13:58:20
-updated: 2024-06-01 10:41:32
+date: 2024-06-03T04:25:43.852Z
+updated: 2024-06-04T04:25:43.852Z
 tags: 
   - screen-recording
   - ai video

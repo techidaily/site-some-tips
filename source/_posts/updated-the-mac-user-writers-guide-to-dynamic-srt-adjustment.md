@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Mac User’ Writers Guide to Dynamic SRT Adjustment"
-date: 2024-05-31 14:17:53
-updated: 2024-06-01 10:41:48
+date: 2024-06-03T03:46:14.029Z
+updated: 2024-06-04T03:46:14.029Z
 tags: 
   - screen-recording
   - ai video

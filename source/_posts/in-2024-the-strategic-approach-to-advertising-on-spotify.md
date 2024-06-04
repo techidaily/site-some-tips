@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Strategic Approach to Advertising on Spotify"
-date: 2024-05-30 21:51:26
-updated: 2024-06-01 11:46:26
+date: 2024-06-03T04:44:14.962Z
+updated: 2024-06-04T04:44:14.962Z
 tags: 
   - screen-recording
   - ai video

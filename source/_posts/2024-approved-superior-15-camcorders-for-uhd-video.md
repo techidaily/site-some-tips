@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior 15 Camcorders for UHD Video\""
-date: 2024-05-28 23:49:57
-updated: 2024-05-31 12:25:39
+date: 2024-06-03T03:54:15.867Z
+updated: 2024-06-04T03:54:15.867Z
 tags: 
   - screen-recording
   - ai video

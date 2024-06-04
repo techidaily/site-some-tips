@@ -1,7 +1,7 @@
 ---
 title: "[New] The Quintessential Collection of Anime Intros"
-date: 2024-05-29 14:53:21
-updated: 2024-06-01 10:21:11
+date: 2024-06-03T04:28:35.730Z
+updated: 2024-06-04T04:28:35.730Z
 tags: 
   - screen-recording
   - ai video

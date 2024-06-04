@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Superior Frameworks for Zooid Creation"
-date: 2024-05-28 11:23:57
-updated: 2024-05-31 12:11:41
+date: 2024-06-03T04:46:18.616Z
+updated: 2024-06-04T04:46:18.616Z
 tags: 
   - screen-recording
   - ai video

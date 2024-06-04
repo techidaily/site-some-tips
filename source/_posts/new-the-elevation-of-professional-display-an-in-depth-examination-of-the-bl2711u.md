@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Elevation of Professional Display  An In-Depth Examination of the BL2711U\""
-date: 2024-05-29 13:54:34
-updated: 2024-06-01 10:19:51
+date: 2024-06-03T04:30:08.463Z
+updated: 2024-06-04T04:30:08.463Z
 tags: 
   - screen-recording
   - ai video

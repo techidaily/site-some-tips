@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unraveling the Secrets of InShot Editing Excellence\""
-date: 2024-06-02 10:35:14
-updated: 2024-06-03 11:21:24
+date: 2024-06-03T04:44:44.363Z
+updated: 2024-06-04T04:44:44.363Z
 tags: 
   - screen-recording
   - ai video

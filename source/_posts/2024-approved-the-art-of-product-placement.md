@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Product Placement\""
-date: 2024-05-29 23:46:43
-updated: 2024-06-01 12:14:58
+date: 2024-06-03T04:26:43.410Z
+updated: 2024-06-04T04:26:43.410Z
 tags: 
   - screen-recording
   - ai video

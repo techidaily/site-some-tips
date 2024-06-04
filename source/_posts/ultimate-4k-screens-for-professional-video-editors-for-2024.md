@@ -1,7 +1,7 @@
 ---
 title: "Ultimate 4K Screens for Professional Video Editors for 2024"
-date: 2024-05-31 23:41:35
-updated: 2024-06-02 12:45:22
+date: 2024-06-03T04:25:57.689Z
+updated: 2024-06-04T04:25:57.689Z
 tags: 
   - screen-recording
   - ai video

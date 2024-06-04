@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate List of 6 Best NFT Platforms for Artists"
-date: 2024-05-29 20:10:29
-updated: 2024-06-01 10:20:48
+date: 2024-06-03T03:45:42.295Z
+updated: 2024-06-04T03:45:42.295Z
 tags: 
   - screen-recording
   - ai video

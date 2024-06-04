@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tactics for Securing Royalty-Free Creative Pieces\""
-date: 2024-05-29 19:47:30
-updated: 2024-05-31 12:48:16
+date: 2024-06-03T04:00:18.916Z
+updated: 2024-06-04T04:00:18.916Z
 tags: 
   - screen-recording
   - ai video

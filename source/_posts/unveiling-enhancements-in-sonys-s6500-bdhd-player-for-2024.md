@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Enhancements in Sony's S6500 BD/HD Player for 2024"
-date: 2024-05-31 19:53:18
-updated: 2024-06-03 11:11:39
+date: 2024-06-03T03:45:08.805Z
+updated: 2024-06-04T03:45:08.805Z
 tags: 
   - screen-recording
   - ai video

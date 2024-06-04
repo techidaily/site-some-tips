@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Compreeved Art of Audio Notes Capture\""
-date: 2024-05-29 12:23:48
-updated: 2024-06-01 12:46:36
+date: 2024-06-03T03:53:44.409Z
+updated: 2024-06-04T03:53:44.409Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Epitome of Visual Perfection - Top 10 Monitors for Mac Users\""
-date: 2024-05-31 18:29:34
-updated: 2024-06-01 11:17:19
+date: 2024-06-03T03:44:47.385Z
+updated: 2024-06-04T03:44:47.385Z
 tags: 
   - screen-recording
   - ai video

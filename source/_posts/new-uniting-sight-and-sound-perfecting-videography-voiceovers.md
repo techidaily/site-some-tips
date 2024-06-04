@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Uniting Sight & Sound  Perfecting Videography Voiceovers\""
-date: 2024-06-01 16:43:43
-updated: 2024-06-02 11:10:39
+date: 2024-06-03T03:59:23.565Z
+updated: 2024-06-04T03:59:23.565Z
 tags: 
   - screen-recording
   - ai video

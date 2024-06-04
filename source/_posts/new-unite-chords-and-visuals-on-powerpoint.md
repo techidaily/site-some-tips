@@ -1,7 +1,7 @@
 ---
 title: "[New] Unite Chords and Visuals on PowerPoint"
-date: 2024-05-31 11:12:59
-updated: 2024-06-02 11:56:29
+date: 2024-06-03T04:08:54.686Z
+updated: 2024-06-04T04:08:54.686Z
 tags: 
   - screen-recording
   - ai video

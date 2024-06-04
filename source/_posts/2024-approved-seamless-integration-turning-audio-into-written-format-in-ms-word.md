@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Seamless Integration  Turning Audio Into Written Format in MS Word\""
-date: 2024-05-27 18:52:32
-updated: 2024-05-30 12:28:11
+date: 2024-06-03T03:58:34.536Z
+updated: 2024-06-04T03:58:34.536Z
 tags: 
   - screen-recording
   - ai video

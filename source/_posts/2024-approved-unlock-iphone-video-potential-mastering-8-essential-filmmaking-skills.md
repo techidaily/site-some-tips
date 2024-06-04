@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock iPhone Video Potential  Mastering 8 Essential Filmmaking Skills\""
-date: 2024-06-01 13:35:34
-updated: 2024-06-03 11:11:22
+date: 2024-06-03T04:22:30.265Z
+updated: 2024-06-04T04:22:30.265Z
 tags: 
   - screen-recording
   - ai video

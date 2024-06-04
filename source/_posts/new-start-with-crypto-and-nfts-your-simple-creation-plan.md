@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Start with Crypto & NFTs  Your Simple Creation Plan\""
-date: 2024-05-29 15:58:57
-updated: 2024-05-31 10:49:50
+date: 2024-06-03T03:48:39.589Z
+updated: 2024-06-04T03:48:39.589Z
 tags: 
   - screen-recording
   - ai video

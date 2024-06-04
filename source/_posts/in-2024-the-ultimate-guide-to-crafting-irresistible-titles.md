@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Crafting Irresistible Titles"
-date: 2024-05-29 10:34:15
-updated: 2024-06-01 10:34:47
+date: 2024-06-03T04:15:12.072Z
+updated: 2024-06-04T04:15:12.072Z
 tags: 
   - screen-recording
   - ai video

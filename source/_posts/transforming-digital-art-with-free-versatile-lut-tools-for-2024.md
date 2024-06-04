@@ -1,7 +1,7 @@
 ---
 title: "Transforming Digital Art with Free, Versatile LUT Tools for 2024"
-date: 2024-05-30 18:26:26
-updated: 2024-06-02 11:45:35
+date: 2024-06-03T04:22:15.403Z
+updated: 2024-06-04T04:22:15.403Z
 tags: 
   - screen-recording
   - ai video

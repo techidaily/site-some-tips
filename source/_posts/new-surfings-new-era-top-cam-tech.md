@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Surfing's New Era - Top Cam Tech\""
-date: 2024-05-30 15:25:56
-updated: 2024-05-31 10:30:15
+date: 2024-06-03T03:44:57.211Z
+updated: 2024-06-04T03:44:57.211Z
 tags: 
   - screen-recording
   - ai video

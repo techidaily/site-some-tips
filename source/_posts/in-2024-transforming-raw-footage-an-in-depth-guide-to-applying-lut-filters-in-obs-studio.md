@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Raw Footage  An In-Depth Guide to Applying LUT Filters in OBS Studio\""
-date: 2024-05-30 22:46:10
-updated: 2024-06-02 11:23:57
+date: 2024-06-03T03:58:11.945Z
+updated: 2024-06-04T03:58:11.945Z
 tags: 
   - screen-recording
   - ai video

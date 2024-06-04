@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Dialogue in Film and Theatre"
-date: 2024-05-29 13:15:28
-updated: 2024-06-01 11:28:23
+date: 2024-06-03T04:04:00.810Z
+updated: 2024-06-04T04:04:00.810Z
 tags: 
   - screen-recording
   - ai video

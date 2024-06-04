@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Haul Video Production and Editing Techniques"
-date: 2024-05-29 15:14:59
-updated: 2024-06-01 11:25:42
+date: 2024-06-03T04:19:54.665Z
+updated: 2024-06-04T04:19:54.665Z
 tags: 
   - screen-recording
   - ai video

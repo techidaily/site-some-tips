@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX\""
-date: 2024-05-31 22:38:45
-updated: 2024-06-03 10:33:53
+date: 2024-06-03T04:20:26.605Z
+updated: 2024-06-04T04:20:26.605Z
 tags: 
   - screen-recording
   - ai video

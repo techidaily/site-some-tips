@@ -1,7 +1,7 @@
 ---
 title: "[New] Synthesizing Best Canon Temporal Videography"
-date: 2024-05-28 18:36:43
-updated: 2024-05-31 12:24:58
+date: 2024-06-03T04:04:40.382Z
+updated: 2024-06-04T04:04:40.382Z
 tags: 
   - screen-recording
   - ai video

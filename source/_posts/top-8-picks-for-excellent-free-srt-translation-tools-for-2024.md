@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Picks for Excellent Free SRT Translation Tools for 2024"
-date: 2024-05-30 22:36:34
-updated: 2024-06-02 11:23:39
+date: 2024-06-03T04:47:07.779Z
+updated: 2024-06-04T04:47:07.779Z
 tags: 
   - screen-recording
   - ai video

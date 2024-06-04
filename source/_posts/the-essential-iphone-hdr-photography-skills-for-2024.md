@@ -1,7 +1,7 @@
 ---
 title: "The Essential iPhone HDR Photography Skills for 2024"
-date: 2024-05-29 15:44:31
-updated: 2024-06-01 11:52:34
+date: 2024-06-03T04:02:38.026Z
+updated: 2024-06-04T04:02:38.026Z
 tags: 
   - screen-recording
   - ai video

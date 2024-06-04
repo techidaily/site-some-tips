@@ -1,7 +1,7 @@
 ---
 title: "\"Speak with Synthetic Voices  Chromebook's Leading Online Text-to-Speech Apps for 2024\""
-date: 2024-05-30 20:47:28
-updated: 2024-05-31 11:19:16
+date: 2024-06-03T04:29:10.471Z
+updated: 2024-06-04T04:29:10.471Z
 tags: 
   - screen-recording
   - ai video

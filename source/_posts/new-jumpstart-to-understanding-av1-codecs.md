@@ -1,7 +1,7 @@
 ---
 title: "[New] Jumpstart to Understanding AV1 Codecs"
-date: 2024-05-25 12:30:22
-updated: 2024-05-28 10:27:51
+date: 2024-06-03T04:46:25.677Z
+updated: 2024-06-04T04:46:25.677Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators"
-date: 2024-06-01 19:57:21
-updated: 2024-06-02 12:28:51
+date: 2024-06-03T04:25:21.840Z
+updated: 2024-06-04T04:25:21.840Z
 tags: 
   - screen-recording
   - ai video

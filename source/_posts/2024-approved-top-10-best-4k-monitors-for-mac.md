@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Best 4K Monitors for Mac\""
-date: 2024-05-31 17:43:16
-updated: 2024-06-02 11:49:48
+date: 2024-06-03T04:27:46.882Z
+updated: 2024-06-04T04:27:46.882Z
 tags: 
   - screen-recording
   - ai video

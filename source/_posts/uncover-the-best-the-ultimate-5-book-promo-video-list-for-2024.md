@@ -1,7 +1,7 @@
 ---
 title: "\"Uncover the Best  The Ultimate 5 Book Promo Video List for 2024\""
-date: 2024-05-30 21:25:31
-updated: 2024-06-02 11:53:57
+date: 2024-06-03T04:41:19.441Z
+updated: 2024-06-04T04:41:19.441Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Synchronizing Melodies with InShot Clips for 2024"
-date: 2024-05-29 15:39:26
-updated: 2024-05-31 11:25:51
+date: 2024-06-03T04:32:50.952Z
+updated: 2024-06-04T04:32:50.952Z
 tags: 
   - screen-recording
   - ai video

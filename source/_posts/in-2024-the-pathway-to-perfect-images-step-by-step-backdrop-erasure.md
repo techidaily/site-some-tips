@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Pathway to Perfect Images  Step-By-Step Backdrop Erasure\""
-date: 2024-05-31 23:57:22
-updated: 2024-06-01 11:25:57
+date: 2024-06-03T04:17:19.273Z
+updated: 2024-06-04T04:17:19.273Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Journey to Crafting Wow-Worthy Collage Art\""
-date: 2024-05-30 16:53:56
-updated: 2024-06-01 11:13:19
+date: 2024-06-03T04:17:03.254Z
+updated: 2024-06-04T04:17:03.254Z
 tags: 
   - screen-recording
   - ai video

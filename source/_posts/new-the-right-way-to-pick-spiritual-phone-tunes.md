@@ -1,7 +1,7 @@
 ---
 title: "[New] The Right Way to Pick Spiritual Phone Tunes"
-date: 2024-05-30 15:55:42
-updated: 2024-06-01 12:35:43
+date: 2024-06-03T04:42:45.101Z
+updated: 2024-06-04T04:42:45.101Z
 tags: 
   - screen-recording
   - ai video

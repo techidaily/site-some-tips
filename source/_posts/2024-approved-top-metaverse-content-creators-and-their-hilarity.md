@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Metaverse Content Creators & Their Hilarity\""
-date: 2024-05-30 23:53:24
-updated: 2024-06-02 11:12:18
+date: 2024-06-03T04:43:41.319Z
+updated: 2024-06-04T04:43:41.319Z
 tags: 
   - screen-recording
   - ai video

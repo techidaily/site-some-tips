@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Wonders of 4K with BenQ BL2711U Review"
-date: 2024-05-31 21:46:33
-updated: 2024-06-03 11:38:48
+date: 2024-06-03T04:24:21.603Z
+updated: 2024-06-04T04:24:21.603Z
 tags: 
   - screen-recording
   - ai video

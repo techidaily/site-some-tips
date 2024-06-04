@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Financial Demands of Music Video Production"
-date: 2024-05-30 23:38:20
-updated: 2024-06-02 11:30:57
+date: 2024-06-03T04:47:16.044Z
+updated: 2024-06-04T04:47:16.044Z
 tags: 
   - screen-recording
   - ai video

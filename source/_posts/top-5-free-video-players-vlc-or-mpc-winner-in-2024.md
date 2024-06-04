@@ -1,7 +1,7 @@
 ---
 title: "\"Top 5 Free Video Players  VLC or MPC Winner, In 2024\""
-date: 2024-05-31 15:32:12
-updated: 2024-06-02 10:49:57
+date: 2024-06-03T03:49:21.959Z
+updated: 2024-06-04T03:49:21.959Z
 tags: 
   - screen-recording
   - ai video

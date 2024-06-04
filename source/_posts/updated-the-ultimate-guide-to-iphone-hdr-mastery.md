@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to iPhone HDR Mastery"
-date: 2024-05-31 21:51:55
-updated: 2024-06-01 10:13:26
+date: 2024-06-03T03:57:58.450Z
+updated: 2024-06-04T03:57:58.450Z
 tags: 
   - screen-recording
   - ai video

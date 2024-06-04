@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to iOS Cropping  Enhancing Your Images for 2024\""
-date: 2024-05-30 13:25:23
-updated: 2024-06-01 11:28:44
+date: 2024-06-03T04:39:40.512Z
+updated: 2024-06-04T04:39:40.512Z
 tags: 
   - screen-recording
   - ai video

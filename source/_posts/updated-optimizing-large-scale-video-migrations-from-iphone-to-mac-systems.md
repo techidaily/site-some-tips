@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Optimizing Large-Scale Video Migrations From iPhone to Mac Systems\""
-date: 2024-05-26 10:52:33
-updated: 2024-05-29 11:46:14
+date: 2024-06-03T04:08:58.963Z
+updated: 2024-06-04T04:08:58.963Z
 tags: 
   - screen-recording
   - ai video

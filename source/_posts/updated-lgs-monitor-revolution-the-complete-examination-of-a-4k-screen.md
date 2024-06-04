@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] LG's Monitor Revolution  The Complete Examination of a 4K Screen\""
-date: 2024-05-27 22:57:42
-updated: 2024-05-28 10:28:34
+date: 2024-06-03T03:51:27.035Z
+updated: 2024-06-04T03:51:27.035Z
 tags: 
   - screen-recording
   - ai video

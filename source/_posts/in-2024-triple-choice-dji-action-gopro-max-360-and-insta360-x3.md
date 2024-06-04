@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Triple Choice  DJi Action, GoPro Max 360, and Insta360 X3\""
-date: 2024-06-01 14:45:44
-updated: 2024-06-02 10:54:38
+date: 2024-06-03T04:09:49.572Z
+updated: 2024-06-04T04:09:49.572Z
 tags: 
   - screen-recording
   - ai video

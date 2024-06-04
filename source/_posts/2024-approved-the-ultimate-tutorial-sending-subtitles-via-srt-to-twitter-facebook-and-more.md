@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Tutorial  Sending Subtitles via SRT to Twitter, Facebook & More\""
-date: 2024-05-29 17:11:52
-updated: 2024-06-01 11:39:29
+date: 2024-06-03T04:34:07.509Z
+updated: 2024-06-04T04:34:07.509Z
 tags: 
   - screen-recording
   - ai video

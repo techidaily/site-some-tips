@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Trim Video in Windows 10 Photos Easily"
-date: 2024-05-31 23:41:31
-updated: 2024-06-02 11:57:35
+date: 2024-06-03T04:11:22.016Z
+updated: 2024-06-04T04:11:22.016Z
 tags: 
   - screen-recording
   - ai video

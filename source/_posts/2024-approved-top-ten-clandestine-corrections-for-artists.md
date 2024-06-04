@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Ten Clandestine Corrections for Artists\""
-date: 2024-05-30 16:24:48
-updated: 2024-06-02 10:35:28
+date: 2024-06-03T03:55:55.759Z
+updated: 2024-06-04T03:55:55.759Z
 tags: 
   - screen-recording
   - ai video

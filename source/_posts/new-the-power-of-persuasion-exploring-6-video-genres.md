@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Power of Persuasion  Exploring 6 Video Genres\""
-date: 2024-05-30 20:10:43
-updated: 2024-06-01 10:21:22
+date: 2024-06-03T04:51:49.901Z
+updated: 2024-06-04T04:51:49.901Z
 tags: 
   - screen-recording
   - ai video

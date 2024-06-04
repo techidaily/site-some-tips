@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Monitors Reimagined  An Insight Into the Z32X\""
-date: 2024-05-30 14:54:48
-updated: 2024-06-01 10:26:26
+date: 2024-06-03T04:04:01.527Z
+updated: 2024-06-04T04:04:01.527Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tales on the Silver Screen  Writing for Cinema\""
-date: 2024-05-30 21:22:22
-updated: 2024-05-31 10:59:51
+date: 2024-06-03T04:30:57.031Z
+updated: 2024-06-04T04:30:57.031Z
 tags: 
   - screen-recording
   - ai video

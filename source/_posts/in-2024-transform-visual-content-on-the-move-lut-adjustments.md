@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Visual Content  On-The-Move LUT Adjustments\""
-date: 2024-05-30 23:33:20
-updated: 2024-06-02 12:22:50
+date: 2024-06-03T03:53:51.498Z
+updated: 2024-06-04T03:53:51.498Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking the Potential of iOS Albums  Ordering & Cloud Syncing Essentials\""
-date: 2024-05-31 11:41:37
-updated: 2024-06-03 11:17:20
+date: 2024-06-03T04:26:22.475Z
+updated: 2024-06-04T04:26:22.475Z
 tags: 
   - screen-recording
   - ai video

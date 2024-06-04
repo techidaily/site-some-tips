@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Slide Show  Enable Voice Input with PowerPoint\""
-date: 2024-05-30 22:49:40
-updated: 2024-05-31 10:24:28
+date: 2024-06-03T04:40:24.102Z
+updated: 2024-06-04T04:40:24.102Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Applying LUTs to AE Projects for 2024"
-date: 2024-06-01 13:15:57
-updated: 2024-06-02 10:27:56
+date: 2024-06-03T04:52:00.041Z
+updated: 2024-06-04T04:52:00.041Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Methods to Revamp Grades in Photoshop"
-date: 2024-05-31 13:38:31
-updated: 2024-06-02 12:11:30
+date: 2024-06-03T04:51:53.071Z
+updated: 2024-06-04T04:51:53.071Z
 tags: 
   - screen-recording
   - ai video

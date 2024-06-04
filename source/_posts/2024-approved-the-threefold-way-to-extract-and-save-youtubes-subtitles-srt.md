@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Threefold Way to Extract and Save YouTube's Subtitles (SRT)\""
-date: 2024-05-31 19:21:31
-updated: 2024-06-01 12:25:51
+date: 2024-06-03T03:45:16.561Z
+updated: 2024-06-04T03:45:16.561Z
 tags: 
   - screen-recording
   - ai video

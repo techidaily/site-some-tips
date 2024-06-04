@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling Major Modifications in Windows Movie Maker"
-date: 2024-06-01 16:15:36
-updated: 2024-06-03 10:10:36
+date: 2024-06-03T04:42:18.555Z
+updated: 2024-06-04T04:42:18.555Z
 tags: 
   - screen-recording
   - ai video

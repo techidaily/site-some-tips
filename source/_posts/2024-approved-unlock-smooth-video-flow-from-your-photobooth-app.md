@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Smooth Video Flow From Your Photobooth App\""
-date: 2024-06-02 12:20:24
-updated: 2024-06-03 11:30:27
+date: 2024-06-03T04:51:38.756Z
+updated: 2024-06-04T04:51:38.756Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Superior Text Tools & After Effects"
-date: 2024-05-30 23:24:47
-updated: 2024-05-31 12:18:50
+date: 2024-06-03T04:26:16.812Z
+updated: 2024-06-04T04:26:16.812Z
 tags: 
   - screen-recording
   - ai video

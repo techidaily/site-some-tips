@@ -1,7 +1,7 @@
 ---
 title: "The Complete iDevice Collage Guidebook for 2024"
-date: 2024-05-30 18:52:40
-updated: 2024-06-01 10:31:57
+date: 2024-06-03T04:33:22.507Z
+updated: 2024-06-04T04:33:22.507Z
 tags: 
   - screen-recording
   - ai video

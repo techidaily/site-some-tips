@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 8 Headsets for an Immersive Virtual World Adventure"
-date: 2024-05-30 11:46:26
-updated: 2024-06-02 10:24:56
+date: 2024-06-03T04:05:25.853Z
+updated: 2024-06-04T04:05:25.853Z
 tags: 
   - screen-recording
   - ai video

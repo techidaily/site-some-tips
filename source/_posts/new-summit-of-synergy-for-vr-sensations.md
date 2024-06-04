@@ -1,7 +1,7 @@
 ---
 title: "[New] Summit of Synergy for VR Sensations"
-date: 2024-05-30 14:55:51
-updated: 2024-05-31 12:10:45
+date: 2024-06-03T04:35:48.157Z
+updated: 2024-06-04T04:35:48.157Z
 tags: 
   - screen-recording
   - ai video

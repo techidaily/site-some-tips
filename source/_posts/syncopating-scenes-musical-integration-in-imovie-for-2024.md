@@ -1,7 +1,7 @@
 ---
 title: "\"Syncopating Scenes  Musical Integration in iMovie for 2024\""
-date: 2024-05-30 13:58:40
-updated: 2024-05-31 12:17:15
+date: 2024-06-03T04:01:35.956Z
+updated: 2024-06-04T04:01:35.956Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamlining Your Social Media Presence with ZOOM & FB Live"
-date: 2024-05-30 16:30:50
-updated: 2024-05-31 12:53:46
+date: 2024-06-03T04:25:10.849Z
+updated: 2024-06-04T04:25:10.849Z
 tags: 
   - screen-recording
   - ai video

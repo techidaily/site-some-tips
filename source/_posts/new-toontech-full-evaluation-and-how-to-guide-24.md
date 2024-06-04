@@ -1,7 +1,7 @@
 ---
 title: "\"[New] ToonTech Full Evaluation & How-To Guide '24\""
-date: 2024-06-01 20:48:16
-updated: 2024-06-02 12:12:27
+date: 2024-06-03T04:37:26.365Z
+updated: 2024-06-04T04:37:26.365Z
 tags: 
   - screen-recording
   - ai video

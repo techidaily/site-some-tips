@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Superior 4Ks"
-date: 2024-05-29 12:14:15
-updated: 2024-06-01 10:47:25
+date: 2024-06-03T04:01:10.378Z
+updated: 2024-06-04T04:01:10.378Z
 tags: 
   - screen-recording
   - ai video

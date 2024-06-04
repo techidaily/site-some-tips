@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Checkpoint  A 2021 Review of Vegas Pro's Latest Features for 2024\""
-date: 2024-05-31 21:22:40
-updated: 2024-06-01 12:13:13
+date: 2024-06-03T04:24:24.430Z
+updated: 2024-06-04T04:24:24.430Z
 tags: 
   - screen-recording
   - ai video

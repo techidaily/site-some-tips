@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art and Science of Writing Smart Slug Lines\""
-date: 2024-05-29 19:59:44
-updated: 2024-06-01 10:43:42
+date: 2024-06-03T04:39:51.859Z
+updated: 2024-06-04T04:39:51.859Z
 tags: 
   - screen-recording
   - ai video

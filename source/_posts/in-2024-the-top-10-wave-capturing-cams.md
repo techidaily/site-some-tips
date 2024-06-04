@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Top 10 Wave-Capturing Cams\""
-date: 2024-05-30 17:15:23
-updated: 2024-06-01 12:21:21
+date: 2024-06-03T04:10:21.647Z
+updated: 2024-06-04T04:10:21.647Z
 tags: 
   - screen-recording
   - ai video

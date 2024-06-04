@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syncopating Soundtracks with Flawless Audio Transitions\""
-date: 2024-05-29 19:55:29
-updated: 2024-05-31 10:19:23
+date: 2024-06-03T04:38:49.234Z
+updated: 2024-06-04T04:38:49.234Z
 tags: 
   - screen-recording
   - ai video

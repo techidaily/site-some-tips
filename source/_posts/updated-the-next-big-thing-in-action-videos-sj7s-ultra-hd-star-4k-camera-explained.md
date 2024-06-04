@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Next Big Thing in Action Videos? SJ7's Ultra HD Star 4K Camera Explained"
-date: 2024-05-30 17:40:55
-updated: 2024-06-01 10:27:13
+date: 2024-06-03T04:13:50.893Z
+updated: 2024-06-04T04:13:50.893Z
 tags: 
   - screen-recording
   - ai video

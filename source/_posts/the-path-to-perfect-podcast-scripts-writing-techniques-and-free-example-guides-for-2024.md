@@ -1,7 +1,7 @@
 ---
 title: "\"The Path to Perfect Podcast Scripts  Writing Techniques & Free Example Guides for 2024\""
-date: 2024-05-30 18:38:18
-updated: 2024-06-01 11:34:12
+date: 2024-06-03T04:42:54.290Z
+updated: 2024-06-04T04:42:54.290Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Tips & Tricks  Elevating Your Images with Text Editing for 2024\""
-date: 2024-05-30 16:10:43
-updated: 2024-06-02 12:55:25
+date: 2024-06-03T03:53:00.983Z
+updated: 2024-06-04T03:53:00.983Z
 tags: 
   - screen-recording
   - ai video

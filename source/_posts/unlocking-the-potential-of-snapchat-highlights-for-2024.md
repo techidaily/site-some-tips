@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Snapchat Highlights for 2024"
-date: 2024-05-31 13:25:56
-updated: 2024-06-03 12:29:55
+date: 2024-06-03T04:28:09.249Z
+updated: 2024-06-04T04:28:09.249Z
 tags: 
   - screen-recording
   - ai video

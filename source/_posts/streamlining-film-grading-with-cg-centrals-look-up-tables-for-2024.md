@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Film Grading with CG Central's Look-Up Tables for 2024\""
-date: 2024-05-29 15:43:12
-updated: 2024-05-31 12:24:29
+date: 2024-06-03T04:35:54.985Z
+updated: 2024-06-04T04:35:54.985Z
 tags: 
   - screen-recording
   - ai video

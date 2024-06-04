@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide to GoPro  Max or Hero 11 for 2024\""
-date: 2024-06-01 15:59:12
-updated: 2024-06-02 10:26:58
+date: 2024-06-03T04:26:34.228Z
+updated: 2024-06-04T04:26:34.228Z
 tags: 
   - screen-recording
   - ai video

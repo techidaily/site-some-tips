@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Rapid Windows Photo Examiner for Enhanced Efficiency\""
-date: 2024-05-28 21:10:20
-updated: 2024-05-30 11:41:41
+date: 2024-06-03T03:43:43.887Z
+updated: 2024-06-04T03:43:43.887Z
 tags: 
   - screen-recording
   - ai video

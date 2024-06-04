@@ -1,7 +1,7 @@
 ---
 title: "[New] The Next Generation of Aerial Artistry with Bebop's Parrot 2"
-date: 2024-05-30 18:55:47
-updated: 2024-06-01 12:49:40
+date: 2024-06-03T04:00:23.894Z
+updated: 2024-06-04T04:00:23.894Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling Facetune's Potential  Photo Editing Like Never Before\""
-date: 2024-06-02 13:11:27
-updated: 2024-06-03 10:24:33
+date: 2024-06-03T04:06:12.621Z
+updated: 2024-06-04T04:06:12.621Z
 tags: 
   - screen-recording
   - ai video

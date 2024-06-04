@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Supercharge Your Screens with Video Enhancer (V2.2)\""
-date: 2024-05-28 11:20:30
-updated: 2024-05-31 10:38:44
+date: 2024-06-03T04:30:56.329Z
+updated: 2024-06-04T04:30:56.329Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming Ideas Into Impactful Scenes Through Dialogue"
-date: 2024-05-30 11:12:42
-updated: 2024-06-02 10:33:39
+date: 2024-06-03T04:27:10.319Z
+updated: 2024-06-04T04:27:10.319Z
 tags: 
   - screen-recording
   - ai video

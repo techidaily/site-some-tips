@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Immersive Era  VR's Progress & Upcoming Struggles for 2024\""
-date: 2024-05-31 16:15:27
-updated: 2024-06-03 11:47:46
+date: 2024-06-03T04:00:35.718Z
+updated: 2024-06-04T04:00:35.718Z
 tags: 
   - screen-recording
   - ai video

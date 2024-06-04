@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essence of Intelligence in Moto Z2 Reviewed"
-date: 2024-05-30 22:29:52
-updated: 2024-06-01 11:34:25
+date: 2024-06-03T04:34:30.211Z
+updated: 2024-06-04T04:34:30.211Z
 tags: 
   - screen-recording
   - ai video

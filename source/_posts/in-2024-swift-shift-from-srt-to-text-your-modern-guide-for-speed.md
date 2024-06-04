@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Swift Shift From SRT to Text  Your Modern Guide for Speed\""
-date: 2024-05-30 14:12:34
-updated: 2024-05-31 10:40:13
+date: 2024-06-03T04:04:32.551Z
+updated: 2024-06-04T04:04:32.551Z
 tags: 
   - screen-recording
   - ai video

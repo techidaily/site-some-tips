@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Catch-Up  Effective Methods for Skipping Edgenuity Courses for 2024\""
-date: 2024-05-27 18:42:12
-updated: 2024-05-30 12:38:51
+date: 2024-06-03T03:51:55.227Z
+updated: 2024-06-04T03:51:55.227Z
 tags: 
   - screen-recording
   - ai video

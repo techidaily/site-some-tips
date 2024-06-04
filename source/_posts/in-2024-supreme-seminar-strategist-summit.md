@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Supreme Seminar Strategist Summit"
-date: 2024-05-29 11:42:29
-updated: 2024-05-31 10:29:39
+date: 2024-06-03T04:36:13.391Z
+updated: 2024-06-04T04:36:13.391Z
 tags: 
   - screen-recording
   - ai video

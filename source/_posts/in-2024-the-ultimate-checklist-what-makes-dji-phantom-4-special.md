@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Checklist  What Makes DJI Phantom 4 Special?\""
-date: 2024-05-29 17:40:38
-updated: 2024-06-01 12:28:53
+date: 2024-06-03T03:53:50.058Z
+updated: 2024-06-04T03:53:50.058Z
 tags: 
   - screen-recording
   - ai video

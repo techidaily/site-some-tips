@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Practicality of Smoothing In-Camera Jitters\""
-date: 2024-05-31 16:30:52
-updated: 2024-06-03 11:48:21
+date: 2024-06-03T04:31:32.813Z
+updated: 2024-06-04T04:31:32.813Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Potential of Wide Angle 360 Photos\""
-date: 2024-06-02 12:33:15
-updated: 2024-06-03 10:41:50
+date: 2024-06-03T04:15:39.174Z
+updated: 2024-06-04T04:15:39.174Z
 tags: 
   - screen-recording
   - ai video

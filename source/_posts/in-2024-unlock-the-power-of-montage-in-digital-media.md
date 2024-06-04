@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock the Power of Montage in Digital Media"
-date: 2024-06-02 16:19:56
-updated: 2024-06-03 11:58:53
+date: 2024-06-03T04:17:22.110Z
+updated: 2024-06-04T04:17:22.110Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Flawless Inshot Edit Transitions"
-date: 2024-05-30 14:14:41
-updated: 2024-06-01 10:38:22
+date: 2024-06-03T04:50:36.853Z
+updated: 2024-06-04T04:50:36.853Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment"
-date: 2024-05-29 17:41:45
-updated: 2024-05-31 11:25:37
+date: 2024-06-03T04:47:12.485Z
+updated: 2024-06-04T04:47:12.485Z
 tags: 
   - screen-recording
   - ai video

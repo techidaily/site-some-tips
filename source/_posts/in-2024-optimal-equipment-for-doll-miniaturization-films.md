@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Optimal Equipment for Doll Miniaturization Films"
-date: 2024-05-26 15:33:20
-updated: 2024-05-29 11:25:11
+date: 2024-06-03T04:39:58.615Z
+updated: 2024-06-04T04:39:58.615Z
 tags: 
   - screen-recording
   - ai video

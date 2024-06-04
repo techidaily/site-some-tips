@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Adding Video Filter Magic to Zoom Meetings for 2024"
-date: 2024-05-31 11:25:12
-updated: 2024-06-01 10:32:24
+date: 2024-06-03T04:50:53.589Z
+updated: 2024-06-04T04:50:53.589Z
 tags: 
   - screen-recording
   - ai video

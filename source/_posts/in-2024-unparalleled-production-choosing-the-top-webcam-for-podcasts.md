@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unparalleled Production  Choosing the Top Webcam for Podcasts\""
-date: 2024-05-31 19:57:26
-updated: 2024-06-03 10:37:24
+date: 2024-06-03T03:57:39.614Z
+updated: 2024-06-04T03:57:39.614Z
 tags: 
   - screen-recording
   - ai video

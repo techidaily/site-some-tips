@@ -1,7 +1,7 @@
 ---
 title: "[Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps for 2024"
-date: 2024-06-01 23:31:15
-updated: 2024-06-02 10:22:28
+date: 2024-06-03T04:10:34.162Z
+updated: 2024-06-04T04:10:34.162Z
 tags: 
   - screen-recording
   - ai video

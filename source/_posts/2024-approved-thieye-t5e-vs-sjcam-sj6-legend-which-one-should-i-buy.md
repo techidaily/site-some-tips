@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Thieye T5e Vs SJCAM SJ6 Legend  Which One Should I Buy\""
-date: 2024-05-31 17:36:43
-updated: 2024-06-01 11:28:12
+date: 2024-06-03T04:31:30.683Z
+updated: 2024-06-04T04:31:30.683Z
 tags: 
   - screen-recording
   - ai video

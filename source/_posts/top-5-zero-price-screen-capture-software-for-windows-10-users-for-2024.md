@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Zero Price Screen Capture Software for Windows 10 Users for 2024"
-date: 2024-05-30 11:24:39
-updated: 2024-06-02 12:10:21
+date: 2024-06-03T04:22:47.759Z
+updated: 2024-06-04T04:22:47.759Z
 tags: 
   - screen-recording
   - ai video

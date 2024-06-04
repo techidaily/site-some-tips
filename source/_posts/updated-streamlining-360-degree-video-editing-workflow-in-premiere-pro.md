@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining 360-Degree Video Editing Workflow in Premiere Pro\""
-date: 2024-05-29 16:10:52
-updated: 2024-05-31 12:53:10
+date: 2024-06-03T04:28:42.812Z
+updated: 2024-06-04T04:28:42.812Z
 tags: 
   - screen-recording
   - ai video

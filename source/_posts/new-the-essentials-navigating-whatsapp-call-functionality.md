@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Essentials  Navigating WhatsApp Call Functionality\""
-date: 2024-05-29 12:37:46
-updated: 2024-06-01 12:32:29
+date: 2024-06-03T03:43:23.792Z
+updated: 2024-06-04T03:43:23.792Z
 tags: 
   - screen-recording
   - ai video

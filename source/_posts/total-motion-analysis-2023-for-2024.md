@@ -1,7 +1,7 @@
 ---
 title: "Total Motion Analysis 2023 for 2024"
-date: 2024-06-01 16:23:50
-updated: 2024-06-02 12:19:34
+date: 2024-06-03T04:11:36.164Z
+updated: 2024-06-04T04:11:36.164Z
 tags: 
   - screen-recording
   - ai video

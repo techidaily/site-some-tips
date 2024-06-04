@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transferring Tactics  Swiftly Send Files to Devices\""
-date: 2024-06-01 11:11:42
-updated: 2024-06-02 12:53:15
+date: 2024-06-03T04:34:03.258Z
+updated: 2024-06-04T04:34:03.258Z
 tags: 
   - screen-recording
   - ai video

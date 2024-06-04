@@ -1,7 +1,7 @@
 ---
 title: "[New] Time Stamping Your Photographs Efficiently"
-date: 2024-05-31 14:28:42
-updated: 2024-06-02 10:31:57
+date: 2024-06-03T04:44:52.859Z
+updated: 2024-06-04T04:44:52.859Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlined Processes for Exporting Video Assets as MP3 on Pinterest"
-date: 2024-05-29 23:10:34
-updated: 2024-05-31 11:39:10
+date: 2024-06-03T04:00:05.398Z
+updated: 2024-06-04T04:00:05.398Z
 tags: 
   - screen-recording
   - ai video

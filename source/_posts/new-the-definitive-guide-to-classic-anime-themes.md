@@ -1,7 +1,7 @@
 ---
 title: "[New] The Definitive Guide to Classic Anime Themes"
-date: 2024-05-29 13:56:41
-updated: 2024-06-01 10:50:53
+date: 2024-06-03T04:17:24.238Z
+updated: 2024-06-04T04:17:24.238Z
 tags: 
   - screen-recording
   - ai video

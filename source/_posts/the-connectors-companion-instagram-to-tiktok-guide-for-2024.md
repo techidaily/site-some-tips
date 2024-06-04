@@ -1,7 +1,7 @@
 ---
 title: "\"The Connector's Companion  Instagram to TikTok Guide for 2024\""
-date: 2024-05-31 20:40:41
-updated: 2024-06-01 10:10:19
+date: 2024-06-03T04:05:48.422Z
+updated: 2024-06-04T04:05:48.422Z
 tags: 
   - screen-recording
   - ai video

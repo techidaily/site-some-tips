@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unravel the Potential of Photoshop's Distortion Features"
-date: 2024-06-01 17:40:15
-updated: 2024-06-03 10:19:58
+date: 2024-06-03T03:49:11.224Z
+updated: 2024-06-04T03:49:11.224Z
 tags: 
   - screen-recording
   - ai video

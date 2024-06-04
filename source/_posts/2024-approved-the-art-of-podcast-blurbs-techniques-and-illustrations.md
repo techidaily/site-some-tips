@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Podcast Blurbs  Techniques and Illustrations\""
-date: 2024-05-29 20:40:30
-updated: 2024-06-01 12:16:39
+date: 2024-06-03T04:50:00.246Z
+updated: 2024-06-04T04:50:00.246Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Premier Monitors  Photo Editing's Future\""
-date: 2024-06-01 16:57:35
-updated: 2024-06-03 10:22:44
+date: 2024-06-03T04:11:45.465Z
+updated: 2024-06-04T04:11:45.465Z
 tags: 
   - screen-recording
   - ai video

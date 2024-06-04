@@ -1,7 +1,7 @@
 ---
 title: "[New] The Power of Quantum HDR in Visual Arts"
-date: 2024-05-30 22:51:36
-updated: 2024-06-01 10:55:55
+date: 2024-06-03T04:24:49.540Z
+updated: 2024-06-04T04:24:49.540Z
 tags: 
   - screen-recording
   - ai video

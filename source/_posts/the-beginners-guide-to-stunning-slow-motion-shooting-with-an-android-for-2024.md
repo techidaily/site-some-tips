@@ -1,7 +1,7 @@
 ---
 title: "\"The Beginner's Guide to Stunning Slow-Motion Shooting with an Android for 2024\""
-date: 2024-05-29 12:36:12
-updated: 2024-06-01 12:17:43
+date: 2024-06-03T04:48:15.842Z
+updated: 2024-06-04T04:48:15.842Z
 tags: 
   - screen-recording
   - ai video

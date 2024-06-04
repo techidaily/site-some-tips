@@ -1,7 +1,7 @@
 ---
 title: "[New] Suggestions for Less Shaky Video Recordings"
-date: 2024-05-30 21:47:58
-updated: 2024-05-31 12:18:36
+date: 2024-06-03T04:11:54.401Z
+updated: 2024-06-04T04:11:54.401Z
 tags: 
   - screen-recording
   - ai video

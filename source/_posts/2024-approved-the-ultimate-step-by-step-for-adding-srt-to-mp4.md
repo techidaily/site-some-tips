@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Step-by-Step for Adding SRT to MP4\""
-date: 2024-05-30 22:33:36
-updated: 2024-06-01 12:59:30
+date: 2024-06-03T04:33:03.702Z
+updated: 2024-06-04T04:33:03.702Z
 tags: 
   - screen-recording
   - ai video

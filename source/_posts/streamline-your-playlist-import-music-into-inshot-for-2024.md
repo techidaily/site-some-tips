@@ -1,7 +1,7 @@
 ---
 title: "\"Streamline Your Playlist  Import Music Into InShot for 2024\""
-date: 2024-05-30 11:33:49
-updated: 2024-05-31 12:16:57
+date: 2024-06-03T04:09:58.820Z
+updated: 2024-06-04T04:09:58.820Z
 tags: 
   - screen-recording
   - ai video

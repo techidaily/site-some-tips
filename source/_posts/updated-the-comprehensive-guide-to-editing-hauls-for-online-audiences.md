@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Comprehensive Guide to Editing Hauls for Online Audiences"
-date: 2024-05-31 12:30:27
-updated: 2024-06-01 12:41:14
+date: 2024-06-03T04:19:40.065Z
+updated: 2024-06-04T04:19:40.065Z
 tags: 
   - screen-recording
   - ai video

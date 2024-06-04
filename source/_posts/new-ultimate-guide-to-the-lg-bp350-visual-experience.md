@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Guide to the LG BP350 Visual Experience"
-date: 2024-06-01 17:50:31
-updated: 2024-06-02 10:40:52
+date: 2024-06-03T03:45:32.068Z
+updated: 2024-06-04T03:45:32.068Z
 tags: 
   - screen-recording
   - ai video

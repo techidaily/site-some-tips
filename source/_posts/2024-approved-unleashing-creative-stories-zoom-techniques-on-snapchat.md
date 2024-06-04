@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creative Stories  Zoom Techniques on Snapchat\""
-date: 2024-06-01 21:56:18
-updated: 2024-06-03 11:38:50
+date: 2024-06-03T03:51:43.144Z
+updated: 2024-06-04T03:51:43.144Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Supreme Storytelling Spanning Eight Movie Types"
-date: 2024-05-30 17:13:37
-updated: 2024-05-31 11:28:23
+date: 2024-06-03T04:30:16.984Z
+updated: 2024-06-04T04:30:16.984Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tongue Treasures  Selecting Superb Audio to Text Applications\""
-date: 2024-06-01 16:42:21
-updated: 2024-06-02 12:39:35
+date: 2024-06-03T04:20:25.194Z
+updated: 2024-06-04T04:20:25.194Z
 tags: 
   - screen-recording
   - ai video

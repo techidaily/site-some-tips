@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Tips for Procuring High-Quality Background Imagery\""
-date: 2024-05-30 16:46:34
-updated: 2024-06-02 12:26:32
+date: 2024-06-03T03:46:29.161Z
+updated: 2024-06-04T03:46:29.161Z
 tags: 
   - screen-recording
   - ai video

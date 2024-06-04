@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Complete Process for Crafting Your Own Ringtone From TikTok Music"
-date: 2024-05-30 12:21:23
-updated: 2024-06-01 11:10:19
+date: 2024-06-03T04:48:17.259Z
+updated: 2024-06-04T04:48:17.259Z
 tags: 
   - screen-recording
   - ai video

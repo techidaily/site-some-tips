@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 16 Best Free Video Players for PC"
-date: 2024-05-30 14:34:17
-updated: 2024-06-02 12:28:53
+date: 2024-06-03T04:39:17.911Z
+updated: 2024-06-04T04:39:17.911Z
 tags: 
   - screen-recording
   - ai video

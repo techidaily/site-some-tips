@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Cheat Sheet for Using Movie Maker on Win11"
-date: 2024-05-30 13:45:15
-updated: 2024-06-01 10:27:45
+date: 2024-06-03T04:37:39.814Z
+updated: 2024-06-04T04:37:39.814Z
 tags: 
   - screen-recording
   - ai video

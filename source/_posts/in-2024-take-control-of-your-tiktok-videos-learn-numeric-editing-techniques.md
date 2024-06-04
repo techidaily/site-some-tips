@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Take Control of Your TikTok Videos  Learn Numeric Editing Techniques\""
-date: 2024-05-29 16:50:49
-updated: 2024-05-31 12:48:53
+date: 2024-06-03T04:39:26.399Z
+updated: 2024-06-04T04:39:26.399Z
 tags: 
   - screen-recording
   - ai video

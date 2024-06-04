@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Undo Motion  Recapturing Video From Mobile Devices\""
-date: 2024-06-01 16:33:18
-updated: 2024-06-02 12:46:50
+date: 2024-06-03T04:31:56.485Z
+updated: 2024-06-04T04:31:56.485Z
 tags: 
   - screen-recording
   - ai video

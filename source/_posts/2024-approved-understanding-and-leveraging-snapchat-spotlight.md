@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding and Leveraging Snapchat Spotlight\""
-date: 2024-06-01 11:48:28
-updated: 2024-06-02 11:36:31
+date: 2024-06-03T03:55:25.327Z
+updated: 2024-06-04T03:55:25.327Z
 tags: 
   - screen-recording
   - ai video

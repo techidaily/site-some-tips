@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Secrets of Professional GoPro Video Filming\""
-date: 2024-06-02 10:19:19
-updated: 2024-06-03 12:47:16
+date: 2024-06-03T03:49:36.903Z
+updated: 2024-06-04T03:49:36.903Z
 tags: 
   - screen-recording
   - ai video

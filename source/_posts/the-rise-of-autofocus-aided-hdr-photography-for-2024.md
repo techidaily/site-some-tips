@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Autofocus Aided HDR Photography for 2024"
-date: 2024-05-31 18:36:46
-updated: 2024-06-01 10:33:57
+date: 2024-06-03T04:02:38.738Z
+updated: 2024-06-04T04:02:38.738Z
 tags: 
   - screen-recording
   - ai video

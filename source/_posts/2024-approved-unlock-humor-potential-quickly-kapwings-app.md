@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Humor Potential Quickly - Kapwing's App\""
-date: 2024-06-02 15:32:41
-updated: 2024-06-03 12:39:52
+date: 2024-06-03T03:54:54.853Z
+updated: 2024-06-04T03:54:54.853Z
 tags: 
   - screen-recording
   - ai video

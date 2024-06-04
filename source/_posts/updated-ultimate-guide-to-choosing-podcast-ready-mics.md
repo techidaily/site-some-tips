@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Guide to Choosing Podcast-Ready Mics\""
-date: 2024-05-30 17:13:47
-updated: 2024-06-02 11:42:48
+date: 2024-06-03T03:59:37.901Z
+updated: 2024-06-04T03:59:37.901Z
 tags: 
   - screen-recording
   - ai video

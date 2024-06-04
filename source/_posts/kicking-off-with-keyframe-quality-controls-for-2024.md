@@ -1,7 +1,7 @@
 ---
 title: "Kicking Off with Keyframe Quality Controls for 2024"
-date: 2024-05-26 11:49:35
-updated: 2024-05-28 12:30:50
+date: 2024-06-03T03:58:16.178Z
+updated: 2024-06-04T03:58:16.178Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Swift Transition  The Ultimate Guide to Sierra on Macs\""
-date: 2024-05-29 18:46:31
-updated: 2024-05-31 12:33:13
+date: 2024-06-03T04:07:11.892Z
+updated: 2024-06-04T04:07:11.892Z
 tags: 
   - screen-recording
   - ai video

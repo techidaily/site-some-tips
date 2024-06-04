@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Choice Video Capture Apps iPhone\""
-date: 2024-06-01 11:13:27
-updated: 2024-06-02 12:59:56
+date: 2024-06-03T04:26:46.959Z
+updated: 2024-06-04T04:26:46.959Z
 tags: 
   - screen-recording
   - ai video

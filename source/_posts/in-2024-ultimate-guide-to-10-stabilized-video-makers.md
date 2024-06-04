@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Guide to 10 Stabilized Video Makers"
-date: 2024-05-31 20:54:52
-updated: 2024-06-02 12:40:32
+date: 2024-06-03T03:50:42.416Z
+updated: 2024-06-04T03:50:42.416Z
 tags: 
   - screen-recording
   - ai video

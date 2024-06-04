@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Gateway Guide  Entering the World of Photo-Video with Pixiz\""
-date: 2024-05-30 18:29:47
-updated: 2024-06-01 11:52:20
+date: 2024-06-03T04:29:53.584Z
+updated: 2024-06-04T04:29:53.584Z
 tags: 
   - screen-recording
   - ai video

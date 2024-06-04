@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Windows Data Evaluation Guide\""
-date: 2024-05-29 22:32:31
-updated: 2024-05-30 11:17:55
+date: 2024-06-03T03:57:30.283Z
+updated: 2024-06-04T03:57:30.283Z
 tags: 
   - screen-recording
   - ai video

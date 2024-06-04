@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Standard Edition Review of DJI's Drone Model 3"
-date: 2024-05-30 19:44:26
-updated: 2024-06-01 11:24:57
+date: 2024-06-03T04:02:45.160Z
+updated: 2024-06-04T04:02:45.160Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Cinematographer's Playbook  Top 5 Creative Strategies\""
-date: 2024-05-29 14:50:29
-updated: 2024-06-01 10:46:57
+date: 2024-06-03T04:47:20.991Z
+updated: 2024-06-04T04:47:20.991Z
 tags: 
   - screen-recording
   - ai video

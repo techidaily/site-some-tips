@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Scripts that Reshape Cinematic History"
-date: 2024-05-27 16:24:34
-updated: 2024-05-30 11:46:26
+date: 2024-06-03T03:47:26.078Z
+updated: 2024-06-04T03:47:26.078Z
 tags: 
   - screen-recording
   - ai video

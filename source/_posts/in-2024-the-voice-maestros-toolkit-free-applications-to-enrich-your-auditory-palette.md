@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Voice Maestro's Toolkit  Free Applications to Enrich Your Auditory Palette\""
-date: 2024-05-29 10:50:31
-updated: 2024-06-01 10:11:38
+date: 2024-06-03T04:35:14.852Z
+updated: 2024-06-04T04:35:14.852Z
 tags: 
   - screen-recording
   - ai video

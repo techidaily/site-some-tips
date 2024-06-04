@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Video Text Upgrades for Professionals for 2024"
-date: 2024-06-01 10:17:12
-updated: 2024-06-02 10:10:41
+date: 2024-06-03T04:04:47.520Z
+updated: 2024-06-04T04:04:47.520Z
 tags: 
   - screen-recording
   - ai video

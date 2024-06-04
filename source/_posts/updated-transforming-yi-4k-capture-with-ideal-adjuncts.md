@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming YI 4K Capture with Ideal Adjuncts"
-date: 2024-05-30 20:50:12
-updated: 2024-06-02 12:24:36
+date: 2024-06-03T04:12:15.711Z
+updated: 2024-06-04T04:12:15.711Z
 tags: 
   - screen-recording
   - ai video

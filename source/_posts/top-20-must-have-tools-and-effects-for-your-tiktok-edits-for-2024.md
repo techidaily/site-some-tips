@@ -1,7 +1,7 @@
 ---
 title: "\"Top 20 Must-Have Tools & Effects for Your TikTok Edits for 2024\""
-date: 2024-06-01 17:18:19
-updated: 2024-06-02 12:53:13
+date: 2024-06-03T04:42:24.247Z
+updated: 2024-06-04T04:42:24.247Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Privacy with Simple Facial Blurs"
-date: 2024-05-29 10:57:10
-updated: 2024-06-01 12:27:11
+date: 2024-06-03T04:34:31.638Z
+updated: 2024-06-04T04:34:31.638Z
 tags: 
   - screen-recording
   - ai video

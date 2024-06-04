@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creativity with Magix Video Pro X\""
-date: 2024-06-02 17:33:10
-updated: 2024-06-03 11:58:44
+date: 2024-06-03T04:19:50.746Z
+updated: 2024-06-04T04:19:50.746Z
 tags: 
   - screen-recording
   - ai video

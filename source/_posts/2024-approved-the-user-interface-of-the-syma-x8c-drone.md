@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The User Interface of the Syma X8C Drone\""
-date: 2024-05-29 14:11:54
-updated: 2024-06-01 12:45:42
+date: 2024-06-03T04:19:12.073Z
+updated: 2024-06-04T04:19:12.073Z
 tags: 
   - screen-recording
   - ai video

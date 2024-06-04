@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Your Photos Into Timeless Slow-Mo Artistry\""
-date: 2024-05-31 13:41:37
-updated: 2024-06-02 12:25:37
+date: 2024-06-03T04:08:14.363Z
+updated: 2024-06-04T04:08:14.363Z
 tags: 
   - screen-recording
   - ai video

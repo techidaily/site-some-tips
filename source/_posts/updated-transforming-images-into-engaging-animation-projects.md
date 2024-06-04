@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming Images Into Engaging Animation Projects"
-date: 2024-06-01 23:48:16
-updated: 2024-06-02 11:17:31
+date: 2024-06-03T04:00:08.243Z
+updated: 2024-06-04T04:00:08.243Z
 tags: 
   - screen-recording
   - ai video

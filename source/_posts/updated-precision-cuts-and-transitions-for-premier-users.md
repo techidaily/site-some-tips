@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Precision Cuts & Transitions for Premier Users"
-date: 2024-05-26 14:15:19
-updated: 2024-05-29 12:28:37
+date: 2024-06-03T04:00:37.134Z
+updated: 2024-06-04T04:00:37.134Z
 tags: 
   - screen-recording
   - ai video

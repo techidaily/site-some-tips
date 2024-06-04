@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Guide to Photo Backdrop Removal in Picsart"
-date: 2024-05-29 11:11:42
-updated: 2024-06-01 12:16:57
+date: 2024-06-03T04:35:14.146Z
+updated: 2024-06-04T04:35:14.146Z
 tags: 
   - screen-recording
   - ai video

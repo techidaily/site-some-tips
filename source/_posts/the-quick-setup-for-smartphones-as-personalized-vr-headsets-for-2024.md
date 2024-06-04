@@ -1,7 +1,7 @@
 ---
 title: "The Quick Setup for Smartphones as Personalized VR Headsets for 2024"
-date: 2024-05-31 23:25:10
-updated: 2024-06-01 10:48:19
+date: 2024-06-03T03:49:19.105Z
+updated: 2024-06-04T03:49:19.105Z
 tags: 
   - screen-recording
   - ai video

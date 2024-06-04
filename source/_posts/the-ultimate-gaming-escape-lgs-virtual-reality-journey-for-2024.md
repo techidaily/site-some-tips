@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Gaming Escape  LG's Virtual Reality Journey for 2024\""
-date: 2024-05-29 16:55:48
-updated: 2024-06-01 10:44:41
+date: 2024-06-03T04:44:25.592Z
+updated: 2024-06-04T04:44:25.592Z
 tags: 
   - screen-recording
   - ai video

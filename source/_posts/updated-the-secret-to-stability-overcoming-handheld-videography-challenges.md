@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Secret to Stability  Overcoming Handheld Videography Challenges\""
-date: 2024-05-30 21:21:49
-updated: 2024-06-01 11:38:34
+date: 2024-06-03T04:26:03.349Z
+updated: 2024-06-04T04:26:03.349Z
 tags: 
   - screen-recording
   - ai video

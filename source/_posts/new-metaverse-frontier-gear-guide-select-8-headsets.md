@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Metaverse Frontier Gear Guide  Select 8 Headsets\""
-date: 2024-05-26 13:44:48
-updated: 2024-05-28 12:30:10
+date: 2024-06-03T04:35:19.784Z
+updated: 2024-06-04T04:35:19.784Z
 tags: 
   - screen-recording
   - ai video

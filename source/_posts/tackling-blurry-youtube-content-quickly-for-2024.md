@@ -1,7 +1,7 @@
 ---
 title: "Tackling Blurry YouTube Content Quickly for 2024"
-date: 2024-05-30 13:21:41
-updated: 2024-05-31 12:21:29
+date: 2024-06-03T03:58:53.821Z
+updated: 2024-06-04T03:58:53.821Z
 tags: 
   - screen-recording
   - ai video

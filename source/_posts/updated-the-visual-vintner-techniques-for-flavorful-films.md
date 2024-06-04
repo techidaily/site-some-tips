@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Visual Vintner  Techniques for Flavorful Films\""
-date: 2024-05-29 19:20:20
-updated: 2024-06-01 12:12:43
+date: 2024-06-03T03:54:10.117Z
+updated: 2024-06-04T03:54:10.117Z
 tags: 
   - screen-recording
   - ai video

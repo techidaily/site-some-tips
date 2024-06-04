@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 11 Brainy Battles  General Knowledge Channels Revealed\""
-date: 2024-05-30 15:45:59
-updated: 2024-06-02 12:46:11
+date: 2024-06-03T03:48:22.624Z
+updated: 2024-06-04T03:48:22.624Z
 tags: 
   - screen-recording
   - ai video

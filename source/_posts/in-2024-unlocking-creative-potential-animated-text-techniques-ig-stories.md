@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Creative Potential  Animated Text Techniques IG Stories\""
-date: 2024-06-01 14:59:57
-updated: 2024-06-03 12:53:55
+date: 2024-06-03T04:45:23.702Z
+updated: 2024-06-04T04:45:23.702Z
 tags: 
   - screen-recording
   - ai video

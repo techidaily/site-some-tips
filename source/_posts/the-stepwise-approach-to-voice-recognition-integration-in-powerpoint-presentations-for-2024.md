@@ -1,7 +1,7 @@
 ---
 title: "The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations for 2024"
-date: 2024-05-29 20:57:51
-updated: 2024-06-01 11:55:53
+date: 2024-06-03T03:57:18.126Z
+updated: 2024-06-04T03:57:18.126Z
 tags: 
   - screen-recording
   - ai video

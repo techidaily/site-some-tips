@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Finest Televisions on the Market – Top Ten 4Ks"
-date: 2024-05-29 14:27:22
-updated: 2024-06-01 12:18:41
+date: 2024-06-03T04:44:05.035Z
+updated: 2024-06-04T04:44:05.035Z
 tags: 
   - screen-recording
   - ai video

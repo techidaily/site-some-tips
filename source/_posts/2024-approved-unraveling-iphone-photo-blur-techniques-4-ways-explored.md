@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unraveling iPhone Photo Blur Techniques - 4 Ways Explored\""
-date: 2024-05-31 15:22:20
-updated: 2024-06-03 11:31:28
+date: 2024-06-03T03:55:58.645Z
+updated: 2024-06-04T03:55:58.645Z
 tags: 
   - screen-recording
   - ai video

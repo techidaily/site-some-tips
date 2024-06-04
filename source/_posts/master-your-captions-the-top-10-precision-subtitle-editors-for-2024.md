@@ -1,7 +1,7 @@
 ---
 title: "\"Master Your Captions  The Top 10 Precision Subtitle Editors for 2024\""
-date: 2024-05-27 16:18:52
-updated: 2024-05-28 11:25:43
+date: 2024-06-03T04:17:50.002Z
+updated: 2024-06-04T04:17:50.002Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding and Mastering Google Chrome’s PIP Functionality"
-date: 2024-05-30 18:35:57
-updated: 2024-06-02 10:14:59
+date: 2024-06-03T03:44:13.108Z
+updated: 2024-06-04T03:44:13.108Z
 tags: 
   - screen-recording
   - ai video

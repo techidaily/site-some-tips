@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips For Adding YouTube Music To Video"
-date: 2024-05-31 23:25:32
-updated: 2024-06-02 10:42:46
+date: 2024-06-03T04:02:34.480Z
+updated: 2024-06-04T04:02:34.480Z
 tags: 
   - screen-recording
   - ai video

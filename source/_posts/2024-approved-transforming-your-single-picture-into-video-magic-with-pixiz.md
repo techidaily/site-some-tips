@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Your Single Picture Into Video Magic with Pixiz\""
-date: 2024-05-30 21:32:29
-updated: 2024-06-02 11:31:16
+date: 2024-06-03T04:26:13.271Z
+updated: 2024-06-04T04:26:13.271Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Shining Spots on Screen  Top Video Lights Strategies for 2024\""
-date: 2024-05-30 18:56:47
-updated: 2024-05-31 10:35:11
+date: 2024-06-03T04:22:09.056Z
+updated: 2024-06-04T04:22:09.056Z
 tags: 
   - screen-recording
   - ai video

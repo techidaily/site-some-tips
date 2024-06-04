@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 7 Free DVD Player Software for Windows/Mac/Phone"
-date: 2024-05-31 21:52:16
-updated: 2024-06-02 11:51:58
+date: 2024-06-03T03:44:11.689Z
+updated: 2024-06-04T03:44:11.689Z
 tags: 
   - screen-recording
   - ai video

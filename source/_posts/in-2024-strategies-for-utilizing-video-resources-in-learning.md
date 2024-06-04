@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies for Utilizing Video Resources in Learning"
-date: 2024-05-29 22:34:20
-updated: 2024-05-31 10:42:19
+date: 2024-06-03T04:18:19.594Z
+updated: 2024-06-04T04:18:19.594Z
 tags: 
   - screen-recording
   - ai video

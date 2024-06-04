@@ -1,7 +1,7 @@
 ---
 title: "The Beginner's Guide to Key Camera Movements in Film for 2024"
-date: 2024-05-29 20:35:28
-updated: 2024-06-01 10:57:11
+date: 2024-06-03T03:54:40.515Z
+updated: 2024-06-04T03:54:40.515Z
 tags: 
   - screen-recording
   - ai video

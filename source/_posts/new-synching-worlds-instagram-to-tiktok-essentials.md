@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Synching Worlds  Instagram to TikTok Essentials\""
-date: 2024-05-30 12:54:52
-updated: 2024-05-31 12:23:57
+date: 2024-06-03T04:22:39.963Z
+updated: 2024-06-04T04:22:39.963Z
 tags: 
   - screen-recording
   - ai video

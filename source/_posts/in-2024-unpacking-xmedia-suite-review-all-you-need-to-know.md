@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unpacking XMedia Suite Review  All You Need to Know\""
-date: 2024-06-02 13:26:29
-updated: 2024-06-03 12:54:28
+date: 2024-06-03T04:50:09.307Z
+updated: 2024-06-04T04:50:09.307Z
 tags: 
   - screen-recording
   - ai video

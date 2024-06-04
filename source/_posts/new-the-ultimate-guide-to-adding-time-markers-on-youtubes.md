@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Adding Time Markers on YouTubes"
-date: 2024-05-30 10:32:20
-updated: 2024-06-01 11:15:33
+date: 2024-06-03T04:06:45.881Z
+updated: 2024-06-04T04:06:45.881Z
 tags: 
   - screen-recording
   - ai video

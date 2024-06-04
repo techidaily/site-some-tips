@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of SRT to SUBC  Innovative Techniques Explored\""
-date: 2024-05-29 15:11:16
-updated: 2024-06-01 10:45:21
+date: 2024-06-03T04:44:41.525Z
+updated: 2024-06-04T04:44:41.525Z
 tags: 
   - screen-recording
   - ai video

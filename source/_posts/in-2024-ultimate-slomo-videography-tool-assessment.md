@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate SloMo Videography Tool Assessment"
-date: 2024-05-30 18:58:58
-updated: 2024-06-02 12:35:59
+date: 2024-06-03T04:03:38.983Z
+updated: 2024-06-04T04:03:38.983Z
 tags: 
   - screen-recording
   - ai video

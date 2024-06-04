@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategic VR Marketing Manifesto"
-date: 2024-05-29 19:54:37
-updated: 2024-05-31 11:13:14
+date: 2024-06-03T04:26:49.084Z
+updated: 2024-06-04T04:26:49.084Z
 tags: 
   - screen-recording
   - ai video

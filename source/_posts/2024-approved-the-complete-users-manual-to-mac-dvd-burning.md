@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete User's Manual to Mac DVD Burning\""
-date: 2024-05-31 14:27:19
-updated: 2024-06-01 12:17:21
+date: 2024-06-03T04:10:12.385Z
+updated: 2024-06-04T04:10:12.385Z
 tags: 
   - screen-recording
   - ai video

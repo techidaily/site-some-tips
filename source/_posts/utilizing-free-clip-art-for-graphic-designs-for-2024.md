@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Free Clip Art for Graphic Designs for 2024"
-date: 2024-06-01 13:27:19
-updated: 2024-06-03 12:47:56
+date: 2024-06-03T04:12:51.116Z
+updated: 2024-06-04T04:12:51.116Z
 tags: 
   - screen-recording
   - ai video

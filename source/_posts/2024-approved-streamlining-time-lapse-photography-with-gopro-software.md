@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Time-Lapse Photography with GoPro Software\""
-date: 2024-05-28 17:34:13
-updated: 2024-05-31 11:59:31
+date: 2024-06-03T04:23:30.096Z
+updated: 2024-06-04T04:23:30.096Z
 tags: 
   - screen-recording
   - ai video

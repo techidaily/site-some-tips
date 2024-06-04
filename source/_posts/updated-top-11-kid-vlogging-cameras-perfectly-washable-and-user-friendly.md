@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 11 Kid Vlogging Cameras, Perfectly Washable & User-Friendly\""
-date: 2024-05-31 22:31:40
-updated: 2024-06-02 12:53:15
+date: 2024-06-03T03:54:10.837Z
+updated: 2024-06-04T03:54:10.837Z
 tags: 
   - screen-recording
   - ai video

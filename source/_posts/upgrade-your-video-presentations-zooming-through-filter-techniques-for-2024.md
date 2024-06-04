@@ -1,7 +1,7 @@
 ---
 title: "\"Upgrade Your Video Presentations  Zooming Through Filter Techniques for 2024\""
-date: 2024-06-01 13:54:53
-updated: 2024-06-03 10:18:40
+date: 2024-06-03T04:23:28.665Z
+updated: 2024-06-04T04:23:28.665Z
 tags: 
   - screen-recording
   - ai video

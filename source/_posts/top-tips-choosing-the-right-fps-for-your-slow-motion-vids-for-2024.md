@@ -1,7 +1,7 @@
 ---
 title: "\"Top Tips  Choosing the Right FPS for Your Slow Motion Vids for 2024\""
-date: 2024-06-01 13:14:35
-updated: 2024-06-02 10:52:26
+date: 2024-06-03T04:50:56.376Z
+updated: 2024-06-04T04:50:56.376Z
 tags: 
   - screen-recording
   - ai video

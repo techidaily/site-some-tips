@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Synergistic Campaigns  Brands & YouTube Hand in Hand\""
-date: 2024-05-28 14:18:43
-updated: 2024-05-31 11:42:30
+date: 2024-06-03T03:47:27.480Z
+updated: 2024-06-04T03:47:27.480Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Luxury Cosmetics Series for 2024"
-date: 2024-05-30 19:59:57
-updated: 2024-06-02 10:39:48
+date: 2024-06-03T04:13:13.564Z
+updated: 2024-06-04T04:13:13.564Z
 tags: 
   - screen-recording
   - ai video

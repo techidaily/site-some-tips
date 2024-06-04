@@ -1,7 +1,7 @@
 ---
 title: "[New] Subtlety Savvy Sound Settings for Garageband"
-date: 2024-05-30 21:10:28
-updated: 2024-05-31 12:16:56
+date: 2024-06-03T04:11:30.489Z
+updated: 2024-06-04T04:11:30.489Z
 tags: 
   - screen-recording
   - ai video

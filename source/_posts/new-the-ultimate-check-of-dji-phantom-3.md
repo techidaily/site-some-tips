@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Check of DJI Phantom 3"
-date: 2024-05-29 14:59:45
-updated: 2024-06-01 11:15:15
+date: 2024-06-03T04:32:14.863Z
+updated: 2024-06-04T04:32:14.863Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Secrets to Download YouTube's Subtitles"
-date: 2024-05-31 18:11:55
-updated: 2024-06-03 12:24:30
+date: 2024-06-03T04:15:45.564Z
+updated: 2024-06-04T04:15:45.564Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Virtuoso's Journey  Transforming Zoom Live Streams on YouTube for 2024\""
-date: 2024-05-30 15:10:45
-updated: 2024-06-01 12:46:12
+date: 2024-06-03T04:40:14.882Z
+updated: 2024-06-04T04:40:14.882Z
 tags: 
   - screen-recording
   - ai video

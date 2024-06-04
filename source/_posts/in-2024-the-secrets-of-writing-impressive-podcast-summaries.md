@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Secrets of Writing Impressive Podcast Summaries"
-date: 2024-05-30 23:13:51
-updated: 2024-06-01 11:18:35
+date: 2024-06-03T03:46:59.454Z
+updated: 2024-06-04T03:46:59.454Z
 tags: 
   - screen-recording
   - ai video

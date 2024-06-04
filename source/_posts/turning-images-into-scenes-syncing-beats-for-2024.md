@@ -1,7 +1,7 @@
 ---
 title: "Turning Images Into Scenes, Syncing Beats for 2024"
-date: 2024-05-30 12:12:36
-updated: 2024-06-02 10:45:24
+date: 2024-06-03T04:01:02.893Z
+updated: 2024-06-04T04:01:02.893Z
 tags: 
   - screen-recording
   - ai video

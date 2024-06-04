@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SJCam SJ6 Legend Action Camera Complete Review\""
-date: 2024-05-28 20:40:54
-updated: 2024-05-31 12:38:59
+date: 2024-06-03T04:13:55.896Z
+updated: 2024-06-04T04:13:55.896Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal Zooctorial Design Arrays"
-date: 2024-05-26 15:13:32
-updated: 2024-05-29 12:58:37
+date: 2024-06-03T04:15:17.047Z
+updated: 2024-06-04T04:15:17.047Z
 tags: 
   - screen-recording
   - ai video

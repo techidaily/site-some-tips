@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to Internet-Based Image Trimming\""
-date: 2024-05-29 11:43:16
-updated: 2024-06-01 12:43:23
+date: 2024-06-03T04:24:59.489Z
+updated: 2024-06-04T04:24:59.489Z
 tags: 
   - screen-recording
   - ai video

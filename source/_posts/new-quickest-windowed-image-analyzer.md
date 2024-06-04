@@ -1,7 +1,7 @@
 ---
 title: "[New] Quickest Windowed Image Analyzer"
-date: 2024-05-28 11:47:24
-updated: 2024-05-30 12:15:25
+date: 2024-06-03T04:27:26.267Z
+updated: 2024-06-04T04:27:26.267Z
 tags: 
   - screen-recording
   - ai video

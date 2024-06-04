@@ -1,7 +1,7 @@
 ---
 title: "The Fundamentals of Creating Dynamic Podcast Feeds for 2024"
-date: 2024-05-30 15:25:42
-updated: 2024-06-01 12:11:39
+date: 2024-06-03T03:56:15.845Z
+updated: 2024-06-04T03:56:15.845Z
 tags: 
   - screen-recording
   - ai video

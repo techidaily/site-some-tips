@@ -1,7 +1,7 @@
 ---
 title: "Swinging Sparrow Suites for 2024"
-date: 2024-05-29 17:28:32
-updated: 2024-05-31 11:53:52
+date: 2024-06-03T03:43:02.359Z
+updated: 2024-06-04T03:43:02.359Z
 tags: 
   - screen-recording
   - ai video

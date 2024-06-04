@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Comic Editor App"
-date: 2024-05-30 18:40:47
-updated: 2024-06-02 12:21:44
+date: 2024-06-03T04:10:54.032Z
+updated: 2024-06-04T04:10:54.032Z
 tags: 
   - screen-recording
   - ai video

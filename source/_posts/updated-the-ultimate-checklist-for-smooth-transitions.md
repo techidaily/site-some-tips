@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Checklist for Smooth Transitions"
-date: 2024-05-30 23:32:11
-updated: 2024-06-01 10:20:58
+date: 2024-06-03T03:44:41.037Z
+updated: 2024-06-04T03:44:41.037Z
 tags: 
   - screen-recording
   - ai video

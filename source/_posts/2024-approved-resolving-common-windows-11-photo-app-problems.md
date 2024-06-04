@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Resolving Common Windows 11 Photo App Problems\""
-date: 2024-05-28 17:51:18
-updated: 2024-05-30 10:24:22
+date: 2024-06-03T04:16:37.579Z
+updated: 2024-06-04T04:16:37.579Z
 tags: 
   - screen-recording
   - ai video

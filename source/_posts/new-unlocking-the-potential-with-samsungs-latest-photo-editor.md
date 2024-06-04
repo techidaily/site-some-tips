@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking the Potential with Samsung's Latest Photo Editor"
-date: 2024-06-01 22:30:32
-updated: 2024-06-03 10:26:25
+date: 2024-06-03T04:17:58.244Z
+updated: 2024-06-04T04:17:58.244Z
 tags: 
   - screen-recording
   - ai video

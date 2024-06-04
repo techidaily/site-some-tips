@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Threefold Stabilization to Shine Your iPhone Videos"
-date: 2024-05-31 21:25:57
-updated: 2024-06-01 12:32:22
+date: 2024-06-03T03:47:50.493Z
+updated: 2024-06-04T03:47:50.493Z
 tags: 
   - screen-recording
   - ai video

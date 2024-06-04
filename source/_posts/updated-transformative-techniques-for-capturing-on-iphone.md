@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transformative Techniques for Capturing on iPhone"
-date: 2024-06-01 12:38:53
-updated: 2024-06-02 11:13:35
+date: 2024-06-03T04:09:05.373Z
+updated: 2024-06-04T04:09:05.373Z
 tags: 
   - screen-recording
   - ai video

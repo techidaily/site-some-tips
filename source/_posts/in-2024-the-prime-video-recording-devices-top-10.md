@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Prime Video Recording Devices  Top 10\""
-date: 2024-05-31 15:12:59
-updated: 2024-06-01 10:37:11
+date: 2024-06-03T04:43:14.452Z
+updated: 2024-06-04T04:43:14.452Z
 tags: 
   - screen-recording
   - ai video

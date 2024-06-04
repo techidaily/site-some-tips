@@ -1,7 +1,7 @@
 ---
 title: "\"Studio Masterclass Journey  Extended XVideoExplore for 2024\""
-date: 2024-05-28 11:28:35
-updated: 2024-05-31 10:58:58
+date: 2024-06-03T03:58:25.922Z
+updated: 2024-06-04T03:58:25.922Z
 tags: 
   - screen-recording
   - ai video

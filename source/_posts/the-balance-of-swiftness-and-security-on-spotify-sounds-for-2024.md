@@ -1,7 +1,7 @@
 ---
 title: "The Balance of Swiftness and Security on Spotify Sounds for 2024"
-date: 2024-05-31 15:27:35
-updated: 2024-06-01 11:36:29
+date: 2024-06-03T03:48:46.674Z
+updated: 2024-06-04T03:48:46.674Z
 tags: 
   - screen-recording
   - ai video

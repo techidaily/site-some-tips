@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syncopate Scenes  Adding Music to Videos in the Windows 11 Era\""
-date: 2024-05-30 10:42:18
-updated: 2024-05-31 10:36:39
+date: 2024-06-03T04:30:24.062Z
+updated: 2024-06-04T04:30:24.062Z
 tags: 
   - screen-recording
   - ai video

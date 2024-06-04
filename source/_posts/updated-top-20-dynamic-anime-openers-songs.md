@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 20 Dynamic Anime Openers' Songs"
-date: 2024-05-31 18:15:22
-updated: 2024-06-02 10:52:59
+date: 2024-06-03T04:02:12.734Z
+updated: 2024-06-04T04:02:12.734Z
 tags: 
   - screen-recording
   - ai video

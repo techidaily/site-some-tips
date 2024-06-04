@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Amusement – Master Memes with Kapwing\""
-date: 2024-05-30 13:51:15
-updated: 2024-06-01 11:37:22
+date: 2024-06-03T04:18:11.763Z
+updated: 2024-06-04T04:18:11.763Z
 tags: 
   - screen-recording
   - ai video

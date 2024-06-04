@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Ranked Text Enhancers for After Effects\""
-date: 2024-05-30 23:41:44
-updated: 2024-06-02 12:32:56
+date: 2024-06-03T04:43:49.110Z
+updated: 2024-06-04T04:43:49.110Z
 tags: 
   - screen-recording
   - ai video

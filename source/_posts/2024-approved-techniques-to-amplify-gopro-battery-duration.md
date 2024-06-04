@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Techniques to Amplify GoPro Battery Duration\""
-date: 2024-05-28 21:30:19
-updated: 2024-05-31 12:48:56
+date: 2024-06-03T03:51:05.612Z
+updated: 2024-06-04T03:51:05.612Z
 tags: 
   - screen-recording
   - ai video

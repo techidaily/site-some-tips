@@ -1,7 +1,7 @@
 ---
 title: "\"Taking Flight  In-Depth Review of the X4 FPV Quadcopter for 2024\""
-date: 2024-05-29 22:39:59
-updated: 2024-05-31 12:42:23
+date: 2024-06-03T04:42:20.688Z
+updated: 2024-06-04T04:42:20.688Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the ASUS MG28UQ  The Future of 4K Gaming Screens\""
-date: 2024-06-02 16:25:48
-updated: 2024-06-03 10:39:14
+date: 2024-06-03T03:55:18.197Z
+updated: 2024-06-04T03:55:18.197Z
 tags: 
   - screen-recording
   - ai video

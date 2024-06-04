@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Vanguard 20 Top Anime Song Starters"
-date: 2024-05-31 14:55:41
-updated: 2024-06-03 12:32:49
+date: 2024-06-03T04:31:26.420Z
+updated: 2024-06-04T04:31:26.420Z
 tags: 
   - screen-recording
   - ai video

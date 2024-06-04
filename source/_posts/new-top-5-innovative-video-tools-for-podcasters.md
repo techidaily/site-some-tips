@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 5 Innovative Video Tools for Podcasters"
-date: 2024-05-30 22:43:23
-updated: 2024-06-02 10:37:20
+date: 2024-06-03T04:27:30.547Z
+updated: 2024-06-04T04:27:30.547Z
 tags: 
   - screen-recording
   - ai video

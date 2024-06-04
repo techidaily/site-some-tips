@@ -1,7 +1,7 @@
 ---
 title: "Tips for Less Jittery iPhone Movie Filming for 2024"
-date: 2024-05-31 22:36:47
-updated: 2024-06-02 10:56:10
+date: 2024-06-03T04:51:22.018Z
+updated: 2024-06-04T04:51:22.018Z
 tags: 
   - screen-recording
   - ai video

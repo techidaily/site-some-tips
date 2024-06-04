@@ -1,7 +1,7 @@
 ---
 title: "Ten Tips for Smooth Facebook Videos in Safari and Firefox for 2024"
-date: 2024-05-29 21:14:56
-updated: 2024-06-01 11:30:47
+date: 2024-06-03T04:14:51.008Z
+updated: 2024-06-04T04:14:51.008Z
 tags: 
   - screen-recording
   - ai video

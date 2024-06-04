@@ -1,7 +1,7 @@
 ---
 title: "[New] The Science of Perfectly Timed Episodes"
-date: 2024-05-30 14:53:33
-updated: 2024-06-01 10:55:37
+date: 2024-06-03T04:50:44.491Z
+updated: 2024-06-04T04:50:44.491Z
 tags: 
   - screen-recording
   - ai video

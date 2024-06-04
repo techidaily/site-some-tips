@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding Auto HDR Techniques in Modern Cameras"
-date: 2024-06-01 21:32:29
-updated: 2024-06-02 11:24:58
+date: 2024-06-03T03:59:51.083Z
+updated: 2024-06-04T03:59:51.083Z
 tags: 
   - screen-recording
   - ai video

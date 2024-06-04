@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tutorial Guide To Fade Out Music In Premiere Pro\""
-date: 2024-06-01 10:23:13
-updated: 2024-06-02 10:39:46
+date: 2024-06-03T04:03:25.423Z
+updated: 2024-06-04T04:03:25.423Z
 tags: 
   - screen-recording
   - ai video

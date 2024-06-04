@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate FPV Headsets Guidebook for Racing Drones"
-date: 2024-05-29 13:59:53
-updated: 2024-06-01 12:51:29
+date: 2024-06-03T04:07:28.994Z
+updated: 2024-06-04T04:07:28.994Z
 tags: 
   - screen-recording
   - ai video

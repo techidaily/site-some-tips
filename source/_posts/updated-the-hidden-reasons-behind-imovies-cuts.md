@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Hidden Reasons Behind iMovie’s Cuts"
-date: 2024-05-30 19:10:48
-updated: 2024-06-01 10:30:35
+date: 2024-06-03T03:43:07.165Z
+updated: 2024-06-04T03:43:07.165Z
 tags: 
   - screen-recording
   - ai video

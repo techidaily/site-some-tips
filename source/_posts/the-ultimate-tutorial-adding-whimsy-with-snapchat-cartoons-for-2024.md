@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Tutorial  Adding Whimsy with Snapchat Cartoons for 2024\""
-date: 2024-05-31 23:54:58
-updated: 2024-06-01 11:13:49
+date: 2024-06-03T04:11:34.739Z
+updated: 2024-06-04T04:11:34.739Z
 tags: 
   - screen-recording
   - ai video

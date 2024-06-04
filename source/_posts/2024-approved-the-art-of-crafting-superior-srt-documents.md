@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Crafting Superior SRT Documents\""
-date: 2024-05-29 21:46:55
-updated: 2024-06-01 10:50:25
+date: 2024-06-03T03:53:43.001Z
+updated: 2024-06-04T03:53:43.001Z
 tags: 
   - screen-recording
   - ai video

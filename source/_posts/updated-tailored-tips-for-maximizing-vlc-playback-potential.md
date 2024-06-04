@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tailored Tips for Maximizing VLC Playback Potential"
-date: 2024-05-29 12:53:13
-updated: 2024-05-31 11:13:38
+date: 2024-06-03T04:37:09.029Z
+updated: 2024-06-04T04:37:09.029Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Value in the Air  The Cheapest Yet Effective Drones\""
-date: 2024-06-01 18:38:31
-updated: 2024-06-03 12:48:20
+date: 2024-06-03T04:29:09.760Z
+updated: 2024-06-04T04:29:09.760Z
 tags: 
   - screen-recording
   - ai video

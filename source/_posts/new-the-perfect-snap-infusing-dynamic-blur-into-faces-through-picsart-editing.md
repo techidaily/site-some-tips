@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Perfect Snap  Infusing Dynamic Blur Into Faces Through Picsart Editing\""
-date: 2024-05-29 23:25:57
-updated: 2024-06-01 11:24:46
+date: 2024-06-03T03:44:00.279Z
+updated: 2024-06-04T03:44:00.279Z
 tags: 
   - screen-recording
   - ai video

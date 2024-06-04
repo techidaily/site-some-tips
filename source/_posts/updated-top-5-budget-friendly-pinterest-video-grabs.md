@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 5 Budget-Friendly Pinterest Video Grabs\""
-date: 2024-05-30 18:28:13
-updated: 2024-06-02 12:44:12
+date: 2024-06-03T04:41:57.310Z
+updated: 2024-06-04T04:41:57.310Z
 tags: 
   - screen-recording
   - ai video

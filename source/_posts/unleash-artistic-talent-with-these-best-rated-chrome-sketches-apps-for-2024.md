@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Artistic Talent with These Best-Rated Chrome Sketches Apps for 2024\""
-date: 2024-05-30 15:47:41
-updated: 2024-06-02 10:55:33
+date: 2024-06-03T04:33:59.014Z
+updated: 2024-06-04T04:33:59.014Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Images Into Engaging Animation Projects\""
-date: 2024-05-31 11:11:18
-updated: 2024-06-02 10:47:53
+date: 2024-06-03T04:47:56.015Z
+updated: 2024-06-04T04:47:56.015Z
 tags: 
   - screen-recording
   - ai video

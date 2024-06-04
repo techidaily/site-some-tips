@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full Potential of Mac's Preview Tool for 2024"
-date: 2024-06-01 19:37:40
-updated: 2024-06-03 10:12:19
+date: 2024-06-03T04:39:43.362Z
+updated: 2024-06-04T04:39:43.362Z
 tags: 
   - screen-recording
   - ai video

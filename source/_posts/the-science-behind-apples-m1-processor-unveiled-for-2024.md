@@ -1,7 +1,7 @@
 ---
 title: "The Science Behind Apple’s M1 Processor Unveiled for 2024"
-date: 2024-05-31 20:13:43
-updated: 2024-06-01 10:33:34
+date: 2024-06-03T04:22:11.865Z
+updated: 2024-06-04T04:22:11.865Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate List for Sound Alteration Applications in VTubing"
-date: 2024-05-31 16:57:38
-updated: 2024-06-01 12:33:40
+date: 2024-06-03T03:49:47.938Z
+updated: 2024-06-04T03:49:47.938Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Evolution and Alternatives to Google's AR Stickers"
-date: 2024-05-31 14:36:12
-updated: 2024-06-01 11:51:15
+date: 2024-06-03T04:32:29.263Z
+updated: 2024-06-04T04:32:29.263Z
 tags: 
   - screen-recording
   - ai video

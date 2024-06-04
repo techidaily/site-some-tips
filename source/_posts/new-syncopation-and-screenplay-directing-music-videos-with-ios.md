@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Syncopation & Screenplay  Directing Music Videos with iOS\""
-date: 2024-05-29 11:16:50
-updated: 2024-05-31 12:27:11
+date: 2024-06-03T04:06:45.177Z
+updated: 2024-06-04T04:06:45.177Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG"
-date: 2024-05-31 16:23:17
-updated: 2024-06-01 12:15:28
+date: 2024-06-03T04:38:45.690Z
+updated: 2024-06-04T04:38:45.690Z
 tags: 
   - screen-recording
   - ai video

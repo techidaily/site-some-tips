@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlined Savings for Cloud Storage Costs Analysis\""
-date: 2024-05-28 15:48:14
-updated: 2024-05-31 11:52:28
+date: 2024-06-03T04:08:35.446Z
+updated: 2024-06-04T04:08:35.446Z
 tags: 
   - screen-recording
   - ai video

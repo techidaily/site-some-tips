@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Adventure Begins with Panasonic's HX-A1 Action Recorder\""
-date: 2024-05-30 14:15:38
-updated: 2024-06-01 10:29:36
+date: 2024-06-03T04:50:58.471Z
+updated: 2024-06-04T04:50:58.471Z
 tags: 
   - screen-recording
   - ai video

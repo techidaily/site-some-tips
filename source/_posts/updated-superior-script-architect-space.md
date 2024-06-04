@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Superior Script Architect Space"
-date: 2024-05-28 23:55:50
-updated: 2024-05-31 12:27:14
+date: 2024-06-03T04:33:30.278Z
+updated: 2024-06-04T04:33:30.278Z
 tags: 
   - screen-recording
   - ai video

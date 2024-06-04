@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Sound  Key Audio Interfaces for Podcasters\""
-date: 2024-05-30 23:43:12
-updated: 2024-05-31 12:36:19
+date: 2024-06-03T03:46:49.549Z
+updated: 2024-06-04T03:46:49.549Z
 tags: 
   - screen-recording
   - ai video

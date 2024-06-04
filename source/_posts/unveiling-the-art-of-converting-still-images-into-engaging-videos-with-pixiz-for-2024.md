@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz for 2024"
-date: 2024-06-01 14:16:41
-updated: 2024-06-03 12:53:36
+date: 2024-06-03T04:14:19.351Z
+updated: 2024-06-04T04:14:19.351Z
 tags: 
   - screen-recording
   - ai video

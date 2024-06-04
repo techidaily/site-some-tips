@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Pathway to Perfected Kinemaster Edits\""
-date: 2024-05-29 12:16:12
-updated: 2024-06-01 12:50:56
+date: 2024-06-03T04:41:30.779Z
+updated: 2024-06-04T04:41:30.779Z
 tags: 
   - screen-recording
   - ai video

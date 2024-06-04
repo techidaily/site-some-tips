@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Funimate Guidebook"
-date: 2024-05-31 13:40:46
-updated: 2024-06-01 10:39:54
+date: 2024-06-03T04:51:26.881Z
+updated: 2024-06-04T04:51:26.881Z
 tags: 
   - screen-recording
   - ai video

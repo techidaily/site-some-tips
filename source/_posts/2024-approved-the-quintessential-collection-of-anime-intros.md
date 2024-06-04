@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Quintessential Collection of Anime Intros\""
-date: 2024-05-30 14:29:29
-updated: 2024-06-01 10:36:36
+date: 2024-06-03T04:43:08.431Z
+updated: 2024-06-04T04:43:08.431Z
 tags: 
   - screen-recording
   - ai video

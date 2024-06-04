@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Crème De La Crème of VR Development Talent"
-date: 2024-05-29 22:22:28
-updated: 2024-06-01 10:27:15
+date: 2024-06-03T04:46:08.005Z
+updated: 2024-06-04T04:46:08.005Z
 tags: 
   - screen-recording
   - ai video

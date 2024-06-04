@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Mi Drone 4K Experience"
-date: 2024-05-29 18:46:14
-updated: 2024-06-01 10:57:51
+date: 2024-06-03T03:49:47.228Z
+updated: 2024-06-04T03:49:47.228Z
 tags: 
   - screen-recording
   - ai video

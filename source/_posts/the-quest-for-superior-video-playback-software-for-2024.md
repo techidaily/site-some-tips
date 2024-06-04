@@ -1,7 +1,7 @@
 ---
 title: "The Quest for Superior Video Playback Software for 2024"
-date: 2024-05-30 15:18:49
-updated: 2024-06-01 10:49:31
+date: 2024-06-03T04:10:32.741Z
+updated: 2024-06-04T04:10:32.741Z
 tags: 
   - screen-recording
   - ai video

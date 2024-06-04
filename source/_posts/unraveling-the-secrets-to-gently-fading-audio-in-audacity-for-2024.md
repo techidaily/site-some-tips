@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Secrets to Gently Fading Audio in Audacity for 2024"
-date: 2024-05-31 17:35:51
-updated: 2024-06-03 12:19:11
+date: 2024-06-03T04:19:37.946Z
+updated: 2024-06-04T04:19:37.946Z
 tags: 
   - screen-recording
   - ai video

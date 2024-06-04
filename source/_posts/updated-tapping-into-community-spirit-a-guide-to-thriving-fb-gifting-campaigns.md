@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tapping Into Community Spirit  A Guide to Thriving FB Gifting Campaigns\""
-date: 2024-05-28 15:23:15
-updated: 2024-05-31 10:45:19
+date: 2024-06-03T04:41:52.345Z
+updated: 2024-06-04T04:41:52.345Z
 tags: 
   - screen-recording
   - ai video

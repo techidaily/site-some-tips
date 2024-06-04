@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Art of Fiction Creation"
-date: 2024-05-30 15:20:16
-updated: 2024-06-02 10:44:29
+date: 2024-06-03T04:45:09.868Z
+updated: 2024-06-04T04:45:09.868Z
 tags: 
   - screen-recording
   - ai video

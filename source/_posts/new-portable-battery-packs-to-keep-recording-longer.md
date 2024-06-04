@@ -1,7 +1,7 @@
 ---
 title: "[New] Portable Battery Packs to Keep Recording Longer"
-date: 2024-05-28 17:15:56
-updated: 2024-05-29 11:59:34
+date: 2024-06-03T04:01:57.740Z
+updated: 2024-06-04T04:01:57.740Z
 tags: 
   - screen-recording
   - ai video

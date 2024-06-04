@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Online Seminar Creation Assistant for 2024"
-date: 2024-05-30 17:13:48
-updated: 2024-06-02 12:11:15
+date: 2024-06-03T04:34:23.824Z
+updated: 2024-06-04T04:34:23.824Z
 tags: 
   - screen-recording
   - ai video

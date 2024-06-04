@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilizing LUTs for Professional Color Grading"
-date: 2024-05-31 16:33:29
-updated: 2024-06-03 10:16:24
+date: 2024-06-03T04:06:29.472Z
+updated: 2024-06-04T04:06:29.472Z
 tags: 
   - screen-recording
   - ai video

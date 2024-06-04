@@ -1,7 +1,7 @@
 ---
 title: "[New] The Basics of Electronic Story Craftsmanship"
-date: 2024-05-29 18:42:43
-updated: 2024-06-01 12:12:54
+date: 2024-06-03T04:19:26.574Z
+updated: 2024-06-04T04:19:26.574Z
 tags: 
   - screen-recording
   - ai video

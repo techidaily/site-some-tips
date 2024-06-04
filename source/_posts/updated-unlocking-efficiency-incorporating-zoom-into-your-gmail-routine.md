@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Efficiency  Incorporating Zoom Into Your Gmail Routine\""
-date: 2024-06-01 14:58:46
-updated: 2024-06-03 11:13:52
+date: 2024-06-03T04:18:40.662Z
+updated: 2024-06-04T04:18:40.662Z
 tags: 
   - screen-recording
   - ai video

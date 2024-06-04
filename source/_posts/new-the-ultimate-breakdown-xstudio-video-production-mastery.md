@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Breakdown  XStudio Video Production Mastery\""
-date: 2024-05-30 21:23:49
-updated: 2024-06-01 11:28:38
+date: 2024-06-03T04:07:19.717Z
+updated: 2024-06-04T04:07:19.717Z
 tags: 
   - screen-recording
   - ai video

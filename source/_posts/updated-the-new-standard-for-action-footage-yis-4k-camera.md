@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The New Standard for Action Footage - Yi’s 4K Camera\""
-date: 2024-05-29 12:46:50
-updated: 2024-06-01 12:22:49
+date: 2024-06-03T04:47:47.173Z
+updated: 2024-06-04T04:47:47.173Z
 tags: 
   - screen-recording
   - ai video

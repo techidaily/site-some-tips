@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 5 High-Quality Low-Speed Video Gear\""
-date: 2024-05-30 20:24:53
-updated: 2024-06-02 11:14:32
+date: 2024-06-03T04:23:10.471Z
+updated: 2024-06-04T04:23:10.471Z
 tags: 
   - screen-recording
   - ai video

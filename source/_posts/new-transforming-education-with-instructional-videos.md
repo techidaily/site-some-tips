@@ -1,7 +1,7 @@
 ---
 title: "[New] Transforming Education with Instructional Videos"
-date: 2024-05-31 19:15:28
-updated: 2024-06-02 11:22:45
+date: 2024-06-03T03:57:45.662Z
+updated: 2024-06-04T03:57:45.662Z
 tags: 
   - screen-recording
   - ai video

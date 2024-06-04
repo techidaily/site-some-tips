@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Mac-Exclusive Free Drawing Platforms\""
-date: 2024-06-01 23:26:28
-updated: 2024-06-02 11:17:47
+date: 2024-06-03T04:24:36.801Z
+updated: 2024-06-04T04:24:36.801Z
 tags: 
   - screen-recording
   - ai video

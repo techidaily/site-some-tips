@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Quest for Perfect Balance  Top Gimbals in Dronescapes\""
-date: 2024-05-30 22:48:37
-updated: 2024-06-01 10:36:40
+date: 2024-06-03T04:50:37.547Z
+updated: 2024-06-04T04:50:37.547Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024"
-date: 2024-05-30 16:52:12
-updated: 2024-06-02 12:35:27
+date: 2024-06-03T04:06:54.416Z
+updated: 2024-06-04T04:06:54.416Z
 tags: 
   - screen-recording
   - ai video

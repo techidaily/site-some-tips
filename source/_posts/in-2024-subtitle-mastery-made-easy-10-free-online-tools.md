@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Subtitle Mastery Made Easy - 10 Free Online Tools\""
-date: 2024-05-28 10:18:26
-updated: 2024-05-31 11:10:32
+date: 2024-06-03T04:07:11.182Z
+updated: 2024-06-04T04:07:11.182Z
 tags: 
   - screen-recording
   - ai video

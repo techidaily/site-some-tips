@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Smoothest Gameplay with LG 27UHD68 FreeSync TV\""
-date: 2024-05-31 12:37:12
-updated: 2024-06-01 10:15:39
+date: 2024-06-03T04:16:39.726Z
+updated: 2024-06-04T04:16:39.726Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate List of 3D Typographic Sites\""
-date: 2024-06-01 11:27:36
-updated: 2024-06-02 12:20:24
+date: 2024-06-03T04:35:08.814Z
+updated: 2024-06-04T04:35:08.814Z
 tags: 
   - screen-recording
   - ai video

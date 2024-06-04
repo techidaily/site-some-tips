@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Huawei P10  A Deep Dive Into Its Artificial Intelligence Capabilities\""
-date: 2024-05-29 14:20:46
-updated: 2024-06-01 12:10:18
+date: 2024-06-03T03:50:36.650Z
+updated: 2024-06-04T03:50:36.650Z
 tags: 
   - screen-recording
   - ai video

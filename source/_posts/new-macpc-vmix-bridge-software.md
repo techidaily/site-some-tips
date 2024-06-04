@@ -1,7 +1,7 @@
 ---
 title: "[New] MacPC VMix Bridge Software"
-date: 2024-05-26 22:45:15
-updated: 2024-05-28 12:34:12
+date: 2024-06-03T03:56:39.857Z
+updated: 2024-06-04T03:56:39.857Z
 tags: 
   - screen-recording
   - ai video

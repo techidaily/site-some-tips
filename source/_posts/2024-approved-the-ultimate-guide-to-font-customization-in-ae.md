@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Font Customization in AE\""
-date: 2024-05-30 18:24:33
-updated: 2024-06-01 12:22:57
+date: 2024-06-03T04:21:54.231Z
+updated: 2024-06-04T04:21:54.231Z
 tags: 
   - screen-recording
   - ai video

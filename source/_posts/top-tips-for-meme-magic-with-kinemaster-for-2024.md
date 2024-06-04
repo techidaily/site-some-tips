@@ -1,7 +1,7 @@
 ---
 title: "Top Tips for Meme Magic with KineMaster for 2024"
-date: 2024-06-01 13:24:36
-updated: 2024-06-02 11:29:59
+date: 2024-06-03T04:12:09.302Z
+updated: 2024-06-04T04:12:09.302Z
 tags: 
   - screen-recording
   - ai video

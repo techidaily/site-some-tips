@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Future of Mobile Videography  6 Pioneering Apps Beyond Periscope\""
-date: 2024-05-31 13:19:31
-updated: 2024-06-01 12:43:28
+date: 2024-06-03T03:57:03.813Z
+updated: 2024-06-04T03:57:03.813Z
 tags: 
   - screen-recording
   - ai video

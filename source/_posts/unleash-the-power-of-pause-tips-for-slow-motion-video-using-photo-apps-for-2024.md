@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash the Power of Pause  Tips for Slow-Motion Video Using Photo Apps for 2024\""
-date: 2024-05-30 19:41:14
-updated: 2024-06-02 10:46:43
+date: 2024-06-03T04:13:47.730Z
+updated: 2024-06-04T04:13:47.730Z
 tags: 
   - screen-recording
   - ai video

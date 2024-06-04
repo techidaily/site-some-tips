@@ -1,7 +1,7 @@
 ---
 title: "[New] Ten Practical Ways to Prevent VR Sickness"
-date: 2024-05-31 15:36:19
-updated: 2024-06-01 11:13:22
+date: 2024-06-03T04:05:39.456Z
+updated: 2024-06-04T04:05:39.456Z
 tags: 
   - screen-recording
   - ai video

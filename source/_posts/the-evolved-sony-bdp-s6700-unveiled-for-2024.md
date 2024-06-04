@@ -1,7 +1,7 @@
 ---
 title: "\"The Evolved Sony BDP-S6700 Unveiled for 2024\""
-date: 2024-05-29 18:39:16
-updated: 2024-06-01 10:20:20
+date: 2024-06-03T03:47:10.520Z
+updated: 2024-06-04T03:47:10.520Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Topic Titling Artisan's Assistant"
-date: 2024-06-01 12:48:55
-updated: 2024-06-02 10:24:14
+date: 2024-06-03T04:16:17.938Z
+updated: 2024-06-04T04:16:17.938Z
 tags: 
   - screen-recording
   - ai video

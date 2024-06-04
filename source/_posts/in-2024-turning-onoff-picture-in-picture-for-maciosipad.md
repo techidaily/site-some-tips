@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Turning On/Off Picture-in-Picture for Mac/iOS/iPad\""
-date: 2024-05-31 19:43:34
-updated: 2024-06-02 10:57:28
+date: 2024-06-03T04:35:16.968Z
+updated: 2024-06-04T04:35:16.968Z
 tags: 
   - screen-recording
   - ai video

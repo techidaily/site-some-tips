@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques for Selective Image Softening PC/Mobile"
-date: 2024-05-30 12:53:31
-updated: 2024-05-31 12:50:18
+date: 2024-06-03T03:47:49.076Z
+updated: 2024-06-04T03:47:49.076Z
 tags: 
   - screen-recording
   - ai video

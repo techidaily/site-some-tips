@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Podcast Startup Financials\""
-date: 2024-06-02 21:23:34
-updated: 2024-06-03 11:41:33
+date: 2024-06-03T04:01:50.542Z
+updated: 2024-06-04T04:01:50.542Z
 tags: 
   - screen-recording
   - ai video

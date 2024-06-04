@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Timing Translation  From 20Mb to Seconds Measurement\""
-date: 2024-06-01 14:41:41
-updated: 2024-06-02 11:15:21
+date: 2024-06-03T04:31:07.686Z
+updated: 2024-06-04T04:31:07.686Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring\""
-date: 2024-05-30 12:20:31
-updated: 2024-06-01 12:31:19
+date: 2024-06-03T04:30:51.340Z
+updated: 2024-06-04T04:30:51.340Z
 tags: 
   - screen-recording
   - ai video

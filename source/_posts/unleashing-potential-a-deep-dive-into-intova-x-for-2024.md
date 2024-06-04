@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Potential  A Deep Dive Into Intova X for 2024\""
-date: 2024-05-31 23:15:20
-updated: 2024-06-03 12:27:52
+date: 2024-06-03T04:46:39.447Z
+updated: 2024-06-04T04:46:39.447Z
 tags: 
   - screen-recording
   - ai video

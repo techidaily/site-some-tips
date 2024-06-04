@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleashing Your Inner Artist  Creating Spectacular iPhone Collages\""
-date: 2024-06-01 12:13:38
-updated: 2024-06-03 10:35:57
+date: 2024-06-03T04:01:54.159Z
+updated: 2024-06-04T04:01:54.159Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Art of Capturing Intimate Film Moments for 2024"
-date: 2024-05-30 23:55:28
-updated: 2024-06-01 10:39:57
+date: 2024-06-03T04:36:56.318Z
+updated: 2024-06-04T04:36:56.318Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers"
-date: 2024-06-02 18:58:21
-updated: 2024-06-03 12:44:59
+date: 2024-06-03T04:06:14.056Z
+updated: 2024-06-04T04:06:14.056Z
 tags: 
   - screen-recording
   - ai video

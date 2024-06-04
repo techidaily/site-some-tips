@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Screen Capabilities  Building In-Frame Video Experiences on Sierra\""
-date: 2024-05-29 15:56:46
-updated: 2024-05-31 11:27:10
+date: 2024-06-03T04:29:34.185Z
+updated: 2024-06-04T04:29:34.185Z
 tags: 
   - screen-recording
   - ai video

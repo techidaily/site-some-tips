@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Foundation of Motion Visualization"
-date: 2024-06-01 14:12:57
-updated: 2024-06-02 10:23:47
+date: 2024-06-03T04:19:42.910Z
+updated: 2024-06-04T04:19:42.910Z
 tags: 
   - screen-recording
   - ai video

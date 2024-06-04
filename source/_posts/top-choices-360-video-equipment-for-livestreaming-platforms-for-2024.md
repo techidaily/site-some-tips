@@ -1,7 +1,7 @@
 ---
 title: "\"Top Choices  360° Video Equipment for Livestreaming Platforms for 2024\""
-date: 2024-06-01 14:14:25
-updated: 2024-06-02 12:21:15
+date: 2024-06-03T04:37:01.293Z
+updated: 2024-06-04T04:37:01.293Z
 tags: 
   - screen-recording
   - ai video

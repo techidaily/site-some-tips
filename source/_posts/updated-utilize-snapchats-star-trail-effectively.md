@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilize Snapchat's Star Trail Effectively"
-date: 2024-05-31 22:41:15
-updated: 2024-06-03 11:17:13
+date: 2024-06-03T04:26:41.303Z
+updated: 2024-06-04T04:26:41.303Z
 tags: 
   - screen-recording
   - ai video

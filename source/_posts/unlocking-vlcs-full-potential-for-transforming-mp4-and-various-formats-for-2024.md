@@ -1,7 +1,7 @@
 ---
 title: "Unlocking VLC's Full Potential for Transforming MP4 & Various Formats for 2024"
-date: 2024-05-31 10:23:18
-updated: 2024-06-03 10:36:40
+date: 2024-06-03T03:45:37.705Z
+updated: 2024-06-04T03:45:37.705Z
 tags: 
   - screen-recording
   - ai video

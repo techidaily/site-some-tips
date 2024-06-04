@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Recorder's Bible for Clear Conversations"
-date: 2024-05-29 14:53:46
-updated: 2024-06-01 11:30:24
+date: 2024-06-03T04:27:07.510Z
+updated: 2024-06-04T04:27:07.510Z
 tags: 
   - screen-recording
   - ai video

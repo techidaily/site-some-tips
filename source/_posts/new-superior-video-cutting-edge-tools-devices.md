@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Superior Video Cutting-Edge Tools (Devices)\""
-date: 2024-05-28 22:28:40
-updated: 2024-05-31 11:31:10
+date: 2024-06-03T04:22:02.697Z
+updated: 2024-06-04T04:22:02.697Z
 tags: 
   - screen-recording
   - ai video

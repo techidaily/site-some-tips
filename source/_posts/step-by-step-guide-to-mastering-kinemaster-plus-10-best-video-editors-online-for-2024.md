@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online for 2024\""
-date: 2024-05-29 21:14:43
-updated: 2024-05-31 12:23:55
+date: 2024-06-03T04:04:44.658Z
+updated: 2024-06-04T04:04:44.658Z
 tags: 
   - screen-recording
   - ai video

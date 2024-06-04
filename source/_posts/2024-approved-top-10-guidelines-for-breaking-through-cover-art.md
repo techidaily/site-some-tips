@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Guidelines for Breaking Through Cover Art\""
-date: 2024-06-01 10:55:34
-updated: 2024-06-02 10:23:27
+date: 2024-06-03T04:14:36.126Z
+updated: 2024-06-04T04:14:36.126Z
 tags: 
   - screen-recording
   - ai video

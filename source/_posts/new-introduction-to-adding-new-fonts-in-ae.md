@@ -1,7 +1,7 @@
 ---
 title: "[New] Introduction to Adding New Fonts in AE"
-date: 2024-05-26 22:49:29
-updated: 2024-05-27 12:57:24
+date: 2024-06-03T04:08:49.708Z
+updated: 2024-06-04T04:08:49.708Z
 tags: 
   - screen-recording
   - ai video

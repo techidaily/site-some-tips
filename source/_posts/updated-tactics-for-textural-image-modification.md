@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tactics for Textural Image Modification"
-date: 2024-05-29 13:22:26
-updated: 2024-05-31 10:15:17
+date: 2024-06-03T04:13:17.113Z
+updated: 2024-06-04T04:13:17.113Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Tech Trial  VLLE Outlook on Apps for 2024\""
-date: 2024-05-28 10:40:40
-updated: 2024-05-31 10:16:53
+date: 2024-06-03T03:55:06.722Z
+updated: 2024-06-04T03:55:06.722Z
 tags: 
   - screen-recording
   - ai video

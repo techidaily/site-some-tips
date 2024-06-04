@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Path to Richer Textual Design in AE\""
-date: 2024-05-30 12:29:32
-updated: 2024-06-01 11:28:59
+date: 2024-06-03T04:48:58.653Z
+updated: 2024-06-04T04:48:58.653Z
 tags: 
   - screen-recording
   - ai video

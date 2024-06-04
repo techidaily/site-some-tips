@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essence of Scripting for Film"
-date: 2024-05-31 15:34:14
-updated: 2024-06-01 12:33:23
+date: 2024-06-03T03:53:37.563Z
+updated: 2024-06-04T03:53:37.563Z
 tags: 
   - screen-recording
   - ai video

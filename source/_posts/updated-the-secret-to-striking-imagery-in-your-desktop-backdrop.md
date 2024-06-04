@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Secret to Striking Imagery in Your Desktop Backdrop"
-date: 2024-05-30 17:37:15
-updated: 2024-06-01 12:18:58
+date: 2024-06-03T04:51:29.684Z
+updated: 2024-06-04T04:51:29.684Z
 tags: 
   - screen-recording
   - ai video

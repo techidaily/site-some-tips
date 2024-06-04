@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Photographer's Toolkit  Essential Tips for Cutting-Edge Edits\""
-date: 2024-05-29 16:13:31
-updated: 2024-06-01 11:51:30
+date: 2024-06-03T04:16:52.565Z
+updated: 2024-06-04T04:16:52.565Z
 tags: 
   - screen-recording
   - ai video

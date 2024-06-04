@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Beginner’s Guide to Converting Spoken Words to Written Form (MS Word)"
-date: 2024-05-31 23:55:50
-updated: 2024-06-01 10:47:51
+date: 2024-06-03T04:41:37.855Z
+updated: 2024-06-04T04:41:37.855Z
 tags: 
   - screen-recording
   - ai video

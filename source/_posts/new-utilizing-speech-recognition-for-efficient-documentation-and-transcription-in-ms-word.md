@@ -1,7 +1,7 @@
 ---
 title: "[New] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word"
-date: 2024-06-01 23:42:19
-updated: 2024-06-03 11:55:29
+date: 2024-06-03T04:43:57.246Z
+updated: 2024-06-04T04:43:57.246Z
 tags: 
   - screen-recording
   - ai video

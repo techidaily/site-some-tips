@@ -1,7 +1,7 @@
 ---
 title: "[New] Tailoring Battery Choices for Exceptional Drone Performance"
-date: 2024-05-29 16:26:12
-updated: 2024-05-31 10:34:30
+date: 2024-06-03T04:42:42.981Z
+updated: 2024-06-04T04:42:42.981Z
 tags: 
   - screen-recording
   - ai video

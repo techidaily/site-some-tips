@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Docs' Transcription Feature  A Beginner’s Guide\""
-date: 2024-06-02 16:45:23
-updated: 2024-06-03 10:21:27
+date: 2024-06-03T03:45:14.448Z
+updated: 2024-06-04T03:45:14.448Z
 tags: 
   - screen-recording
   - ai video

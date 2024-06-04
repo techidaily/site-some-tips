@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unfold Your Artistic Journey  Perfect Collages\""
-date: 2024-06-01 10:52:29
-updated: 2024-06-02 11:22:40
+date: 2024-06-03T04:24:31.518Z
+updated: 2024-06-04T04:24:31.518Z
 tags: 
   - screen-recording
   - ai video

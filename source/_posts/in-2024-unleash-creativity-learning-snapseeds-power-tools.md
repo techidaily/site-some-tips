@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleash Creativity  Learning Snapseed's Power Tools\""
-date: 2024-05-31 23:26:26
-updated: 2024-06-02 12:43:56
+date: 2024-06-03T03:56:05.078Z
+updated: 2024-06-04T03:56:05.078Z
 tags: 
   - screen-recording
   - ai video

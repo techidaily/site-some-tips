@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery\""
-date: 2024-05-31 17:36:17
-updated: 2024-06-02 11:44:52
+date: 2024-06-03T04:12:14.271Z
+updated: 2024-06-04T04:12:14.271Z
 tags: 
   - screen-recording
   - ai video

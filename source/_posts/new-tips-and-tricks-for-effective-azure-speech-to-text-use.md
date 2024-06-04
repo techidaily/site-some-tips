@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tips and Tricks for Effective Azure Speech-to-Text Use\""
-date: 2024-05-31 22:21:53
-updated: 2024-06-02 10:32:56
+date: 2024-06-03T04:02:33.764Z
+updated: 2024-06-04T04:02:33.764Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea\""
-date: 2024-05-30 20:47:55
-updated: 2024-06-01 12:25:16
+date: 2024-06-03T04:32:28.545Z
+updated: 2024-06-04T04:32:28.545Z
 tags: 
   - screen-recording
   - ai video

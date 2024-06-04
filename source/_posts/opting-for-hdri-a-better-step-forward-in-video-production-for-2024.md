@@ -1,7 +1,7 @@
 ---
 title: "\"Opting for HDRI  A Better Step Forward in Video Production for 2024\""
-date: 2024-05-27 10:46:52
-updated: 2024-05-29 11:39:32
+date: 2024-06-03T04:06:50.855Z
+updated: 2024-06-04T04:06:50.856Z
 tags: 
   - screen-recording
   - ai video

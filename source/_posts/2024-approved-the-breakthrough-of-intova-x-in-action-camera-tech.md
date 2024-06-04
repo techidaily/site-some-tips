@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Breakthrough of Intova X in Action Camera Tech\""
-date: 2024-05-29 23:25:13
-updated: 2024-06-01 12:45:41
+date: 2024-06-03T04:04:27.557Z
+updated: 2024-06-04T04:04:27.557Z
 tags: 
   - screen-recording
   - ai video

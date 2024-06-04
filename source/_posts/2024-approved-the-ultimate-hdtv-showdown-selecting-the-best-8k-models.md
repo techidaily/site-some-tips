@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate HDTV Showdown  Selecting the Best 8K Models\""
-date: 2024-05-31 19:31:25
-updated: 2024-06-01 11:51:24
+date: 2024-06-03T04:29:55.711Z
+updated: 2024-06-04T04:29:55.711Z
 tags: 
   - screen-recording
   - ai video

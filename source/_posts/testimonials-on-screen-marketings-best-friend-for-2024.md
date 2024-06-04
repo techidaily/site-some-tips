@@ -1,7 +1,7 @@
 ---
 title: "\"Testimonials on Screen  Marketing's Best Friend for 2024\""
-date: 2024-05-31 20:34:31
-updated: 2024-06-01 11:31:56
+date: 2024-06-03T04:40:45.756Z
+updated: 2024-06-04T04:40:45.756Z
 tags: 
   - screen-recording
   - ai video

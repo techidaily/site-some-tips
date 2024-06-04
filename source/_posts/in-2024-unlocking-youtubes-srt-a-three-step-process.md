@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking YouTube’s SRT  A Three-Step Process\""
-date: 2024-06-01 21:21:29
-updated: 2024-06-03 10:36:13
+date: 2024-06-03T04:43:17.278Z
+updated: 2024-06-04T04:43:17.278Z
 tags: 
   - screen-recording
   - ai video

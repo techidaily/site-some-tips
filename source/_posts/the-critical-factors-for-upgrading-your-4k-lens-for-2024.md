@@ -1,7 +1,7 @@
 ---
 title: "The Critical Factors for Upgrading Your 4K Lens for 2024"
-date: 2024-05-31 12:15:11
-updated: 2024-06-01 12:55:22
+date: 2024-06-03T04:15:49.836Z
+updated: 2024-06-04T04:15:49.836Z
 tags: 
   - screen-recording
   - ai video

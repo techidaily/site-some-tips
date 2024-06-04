@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your Videos Swiftly with These Top 8 iPhone Apps"
-date: 2024-06-01 21:30:19
-updated: 2024-06-02 11:54:17
+date: 2024-06-03T04:22:35.687Z
+updated: 2024-06-04T04:22:35.687Z
 tags: 
   - screen-recording
   - ai video

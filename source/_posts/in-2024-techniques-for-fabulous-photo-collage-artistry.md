@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques for Fabulous Photo Collage Artistry"
-date: 2024-05-30 19:42:42
-updated: 2024-05-31 10:27:11
+date: 2024-06-03T04:43:13.016Z
+updated: 2024-06-04T04:43:13.016Z
 tags: 
   - screen-recording
   - ai video

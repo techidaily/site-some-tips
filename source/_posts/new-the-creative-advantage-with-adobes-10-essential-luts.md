@@ -1,7 +1,7 @@
 ---
 title: "[New] The Creative Advantage with Adobe's 10 Essential LUTs"
-date: 2024-05-31 21:21:17
-updated: 2024-06-01 10:23:50
+date: 2024-06-03T04:07:19.012Z
+updated: 2024-06-04T04:07:19.012Z
 tags: 
   - screen-recording
   - ai video

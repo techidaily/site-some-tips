@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Snaps with Smart Zoom Usage in Snapchat\""
-date: 2024-05-31 22:21:36
-updated: 2024-06-02 11:49:18
+date: 2024-06-03T04:30:59.151Z
+updated: 2024-06-04T04:30:59.151Z
 tags: 
   - screen-recording
   - ai video

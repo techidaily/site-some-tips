@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Selection of Excellent 5K Displays - Ranked #8\""
-date: 2024-05-30 10:23:28
-updated: 2024-06-02 10:42:11
+date: 2024-06-03T04:49:30.503Z
+updated: 2024-06-04T04:49:30.503Z
 tags: 
   - screen-recording
   - ai video

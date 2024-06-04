@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features\""
-date: 2024-06-01 22:46:29
-updated: 2024-06-02 11:10:16
+date: 2024-06-03T04:36:42.843Z
+updated: 2024-06-04T04:36:42.843Z
 tags: 
   - screen-recording
   - ai video

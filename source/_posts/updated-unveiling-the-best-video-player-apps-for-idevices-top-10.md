@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Best Video Player Apps for iDevices (Top 10)"
-date: 2024-06-02 10:12:38
-updated: 2024-06-03 12:18:43
+date: 2024-06-03T04:10:41.979Z
+updated: 2024-06-04T04:10:41.979Z
 tags: 
   - screen-recording
   - ai video

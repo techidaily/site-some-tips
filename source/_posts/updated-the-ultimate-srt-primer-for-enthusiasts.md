@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate SRT Primer for Enthusiasts"
-date: 2024-05-29 14:56:16
-updated: 2024-06-01 12:12:16
+date: 2024-06-03T03:59:34.305Z
+updated: 2024-06-04T03:59:34.305Z
 tags: 
   - screen-recording
   - ai video

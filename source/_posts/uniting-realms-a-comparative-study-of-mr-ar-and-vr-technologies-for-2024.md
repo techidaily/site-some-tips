@@ -1,7 +1,7 @@
 ---
 title: "\"Uniting Realms  A Comparative Study of MR, AR, and VR Technologies for 2024\""
-date: 2024-05-31 17:36:32
-updated: 2024-06-02 12:22:15
+date: 2024-06-03T03:52:00.929Z
+updated: 2024-06-04T03:52:00.929Z
 tags: 
   - screen-recording
   - ai video

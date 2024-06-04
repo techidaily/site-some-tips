@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Education with Instructional Videos\""
-date: 2024-06-01 22:29:20
-updated: 2024-06-02 10:18:29
+date: 2024-06-03T04:07:36.854Z
+updated: 2024-06-04T04:07:36.854Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Potential of Drone Footage Through Editing"
-date: 2024-06-02 12:30:59
-updated: 2024-06-03 11:44:34
+date: 2024-06-03T04:34:17.439Z
+updated: 2024-06-04T04:34:17.439Z
 tags: 
   - screen-recording
   - ai video

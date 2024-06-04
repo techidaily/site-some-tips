@@ -1,7 +1,7 @@
 ---
 title: "[New] The Comprehensive Guide to Legally Sharing Music on Instagram"
-date: 2024-05-30 14:40:28
-updated: 2024-06-01 10:21:42
+date: 2024-06-03T03:51:14.883Z
+updated: 2024-06-04T03:51:14.883Z
 tags: 
   - screen-recording
   - ai video

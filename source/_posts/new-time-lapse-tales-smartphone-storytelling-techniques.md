@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Time-Lapse Tales  Smartphone Storytelling Techniques\""
-date: 2024-05-31 22:33:31
-updated: 2024-06-02 10:55:15
+date: 2024-06-03T04:43:18.671Z
+updated: 2024-06-04T04:43:18.671Z
 tags: 
   - screen-recording
   - ai video

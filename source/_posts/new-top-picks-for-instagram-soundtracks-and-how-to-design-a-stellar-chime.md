@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Picks for Instagram Soundtracks & How to Design a Stellar Chime"
-date: 2024-05-30 16:22:19
-updated: 2024-06-02 12:50:10
+date: 2024-06-03T04:35:52.391Z
+updated: 2024-06-04T04:35:52.391Z
 tags: 
   - screen-recording
   - ai video

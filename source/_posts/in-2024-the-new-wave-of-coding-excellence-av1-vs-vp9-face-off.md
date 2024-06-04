@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The New Wave of Coding Excellence  AV1 vs VP9 Face-Off\""
-date: 2024-05-29 21:45:56
-updated: 2024-06-01 10:17:29
+date: 2024-06-03T04:36:47.800Z
+updated: 2024-06-04T04:36:47.800Z
 tags: 
   - screen-recording
   - ai video

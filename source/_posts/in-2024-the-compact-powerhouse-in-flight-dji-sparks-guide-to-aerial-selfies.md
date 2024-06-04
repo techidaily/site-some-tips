@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Compact Powerhouse in Flight  DJI Spark's Guide to Aerial Selfies\""
-date: 2024-05-30 19:46:23
-updated: 2024-06-01 10:57:30
+date: 2024-06-03T04:44:47.915Z
+updated: 2024-06-04T04:44:47.915Z
 tags: 
   - screen-recording
   - ai video

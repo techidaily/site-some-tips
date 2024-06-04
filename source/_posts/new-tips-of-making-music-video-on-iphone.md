@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips of Making Music Video on iPhone"
-date: 2024-05-30 21:52:42
-updated: 2024-06-02 11:37:31
+date: 2024-06-03T04:20:33.351Z
+updated: 2024-06-04T04:20:33.351Z
 tags: 
   - screen-recording
   - ai video

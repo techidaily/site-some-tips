@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Textual Treasures  AE Font Exploration\""
-date: 2024-06-01 20:26:50
-updated: 2024-06-02 10:13:39
+date: 2024-06-03T04:26:12.560Z
+updated: 2024-06-04T04:26:12.560Z
 tags: 
   - screen-recording
   - ai video

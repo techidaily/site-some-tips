@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Potential  A Complete Review of PowerDirector 2024\""
-date: 2024-06-02 11:33:31
-updated: 2024-06-03 10:35:49
+date: 2024-06-03T04:42:00.863Z
+updated: 2024-06-04T04:42:00.863Z
 tags: 
   - screen-recording
   - ai video

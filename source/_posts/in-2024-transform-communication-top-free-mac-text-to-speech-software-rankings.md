@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Communication  Top Free Mac Text-to-Speech Software Rankings\""
-date: 2024-05-30 15:50:54
-updated: 2024-06-02 10:28:27
+date: 2024-06-03T04:43:49.818Z
+updated: 2024-06-04T04:43:49.818Z
 tags: 
   - screen-recording
   - ai video

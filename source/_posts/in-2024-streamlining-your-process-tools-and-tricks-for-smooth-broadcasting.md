@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Your Process  Tools and Tricks for Smooth Broadcasting\""
-date: 2024-05-30 14:54:41
-updated: 2024-05-31 11:55:50
+date: 2024-06-03T04:32:40.279Z
+updated: 2024-06-04T04:32:40.279Z
 tags: 
   - screen-recording
   - ai video

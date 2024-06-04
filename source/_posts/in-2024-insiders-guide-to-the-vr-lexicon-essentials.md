@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Insider's Guide to the VR Lexicon Essentials"
-date: 2024-05-25 15:40:36
-updated: 2024-05-27 11:12:53
+date: 2024-06-03T04:41:35.029Z
+updated: 2024-06-04T04:41:35.029Z
 tags: 
   - screen-recording
   - ai video

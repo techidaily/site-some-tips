@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fundamentals of Creating Breathtaking Canon Time-Lapses\""
-date: 2024-05-31 13:18:36
-updated: 2024-06-01 11:31:31
+date: 2024-06-03T04:50:01.637Z
+updated: 2024-06-04T04:50:01.637Z
 tags: 
   - screen-recording
   - ai video

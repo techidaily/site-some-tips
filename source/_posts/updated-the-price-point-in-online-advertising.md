@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Price Point in Online Advertising"
-date: 2024-05-30 12:15:12
-updated: 2024-06-01 12:31:32
+date: 2024-06-03T04:26:36.359Z
+updated: 2024-06-04T04:26:36.359Z
 tags: 
   - screen-recording
   - ai video

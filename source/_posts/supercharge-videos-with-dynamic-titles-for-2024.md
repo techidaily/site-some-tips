@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Videos with Dynamic Titles for 2024"
-date: 2024-05-28 12:57:14
-updated: 2024-05-31 12:43:20
+date: 2024-06-03T04:36:24.017Z
+updated: 2024-06-04T04:36:24.017Z
 tags: 
   - screen-recording
   - ai video

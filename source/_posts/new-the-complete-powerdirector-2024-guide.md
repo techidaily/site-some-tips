@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete PowerDirector 2024 Guide"
-date: 2024-05-29 10:14:35
-updated: 2024-06-01 12:10:25
+date: 2024-06-03T04:37:59.287Z
+updated: 2024-06-04T04:37:59.287Z
 tags: 
   - screen-recording
   - ai video

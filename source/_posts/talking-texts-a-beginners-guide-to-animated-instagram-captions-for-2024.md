@@ -1,7 +1,7 @@
 ---
 title: "\"Talking Texts  A Beginner's Guide to Animated Instagram Captions for 2024\""
-date: 2024-05-28 19:10:23
-updated: 2024-05-31 10:12:11
+date: 2024-06-03T03:58:54.528Z
+updated: 2024-06-04T03:58:54.528Z
 tags: 
   - screen-recording
   - ai video

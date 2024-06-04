@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding HDR Techniques in Modern Photoshoots"
-date: 2024-06-01 19:22:44
-updated: 2024-06-02 10:31:28
+date: 2024-06-03T04:47:49.298Z
+updated: 2024-06-04T04:47:49.298Z
 tags: 
   - screen-recording
   - ai video

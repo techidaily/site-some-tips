@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Essential Guide to Motion Blur  From Theory to Practice in PS\""
-date: 2024-05-30 17:57:21
-updated: 2024-06-01 10:47:12
+date: 2024-06-03T03:52:04.498Z
+updated: 2024-06-04T03:52:04.498Z
 tags: 
   - screen-recording
   - ai video

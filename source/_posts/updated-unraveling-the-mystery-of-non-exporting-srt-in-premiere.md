@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unraveling the Mystery of Non-Exporting SRT in Premiere\""
-date: 2024-05-31 17:10:59
-updated: 2024-06-03 11:46:51
+date: 2024-06-03T04:52:05.637Z
+updated: 2024-06-04T04:52:05.637Z
 tags: 
   - screen-recording
   - ai video

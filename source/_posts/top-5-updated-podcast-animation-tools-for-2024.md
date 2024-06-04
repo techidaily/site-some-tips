@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Updated Podcast Animation Tools for 2024"
-date: 2024-05-31 10:13:23
-updated: 2024-06-02 10:11:24
+date: 2024-06-03T04:51:22.723Z
+updated: 2024-06-04T04:51:22.723Z
 tags: 
   - screen-recording
   - ai video

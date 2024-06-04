@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Glossary for Google's Voice-to-Text Feature\""
-date: 2024-05-31 16:45:36
-updated: 2024-06-02 12:59:49
+date: 2024-06-03T04:20:36.206Z
+updated: 2024-06-04T04:20:36.206Z
 tags: 
   - screen-recording
   - ai video

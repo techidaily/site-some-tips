@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Your Drone Footage with Advanced Techniques for 2024"
-date: 2024-05-29 15:35:37
-updated: 2024-05-31 10:52:29
+date: 2024-06-03T04:40:10.644Z
+updated: 2024-06-04T04:40:10.644Z
 tags: 
   - screen-recording
   - ai video

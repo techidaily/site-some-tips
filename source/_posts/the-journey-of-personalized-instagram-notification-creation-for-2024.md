@@ -1,7 +1,7 @@
 ---
 title: "The Journey of Personalized Instagram Notification Creation for 2024"
-date: 2024-05-31 14:19:43
-updated: 2024-06-01 11:55:32
+date: 2024-06-03T04:24:23.014Z
+updated: 2024-06-04T04:24:23.014Z
 tags: 
   - screen-recording
   - ai video

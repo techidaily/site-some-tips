@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Creativity  The Top 10 After Effects Templates for 2024\""
-date: 2024-06-01 12:32:19
-updated: 2024-06-03 12:25:56
+date: 2024-06-03T04:22:49.180Z
+updated: 2024-06-04T04:22:49.180Z
 tags: 
   - screen-recording
   - ai video

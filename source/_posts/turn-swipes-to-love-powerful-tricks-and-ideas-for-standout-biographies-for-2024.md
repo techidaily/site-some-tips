@@ -1,7 +1,7 @@
 ---
 title: "\"Turn Swipes to Love  Powerful Tricks and Ideas for Standout Biographies for 2024\""
-date: 2024-06-01 12:52:35
-updated: 2024-06-02 10:17:41
+date: 2024-06-03T04:16:27.248Z
+updated: 2024-06-04T04:16:27.248Z
 tags: 
   - screen-recording
   - ai video

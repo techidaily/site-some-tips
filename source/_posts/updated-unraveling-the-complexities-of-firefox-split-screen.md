@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unraveling the Complexities of Firefox Split Screen"
-date: 2024-06-01 19:32:34
-updated: 2024-06-03 10:43:10
+date: 2024-06-03T04:39:50.453Z
+updated: 2024-06-04T04:39:50.453Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Filmora’s Route to Convert AVI to Eye-Catching GIFs\""
-date: 2024-05-25 18:48:26
-updated: 2024-05-26 11:10:20
+date: 2024-06-03T04:46:42.975Z
+updated: 2024-06-04T04:46:42.975Z
 tags: 
   - screen-recording
   - ai video

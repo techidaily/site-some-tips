@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling the Specs  HP Envy 27'S 4K Capabilities\""
-date: 2024-06-01 12:41:18
-updated: 2024-06-03 10:43:22
+date: 2024-06-03T04:46:33.784Z
+updated: 2024-06-04T04:46:33.784Z
 tags: 
   - screen-recording
   - ai video

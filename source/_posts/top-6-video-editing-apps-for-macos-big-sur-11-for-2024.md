@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Video Editing Apps for macOS Big Sur 11 for 2024"
-date: 2024-05-31 23:26:19
-updated: 2024-06-02 10:24:42
+date: 2024-06-03T04:06:55.124Z
+updated: 2024-06-04T04:06:55.124Z
 tags: 
   - screen-recording
   - ai video

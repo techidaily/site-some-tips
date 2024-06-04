@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 5 Free Screen Recorders on Windows 10"
-date: 2024-05-31 10:17:21
-updated: 2024-06-02 10:32:14
+date: 2024-06-03T04:37:21.421Z
+updated: 2024-06-04T04:37:21.421Z
 tags: 
   - screen-recording
   - ai video

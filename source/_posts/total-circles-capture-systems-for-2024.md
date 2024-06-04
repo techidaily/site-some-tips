@@ -1,7 +1,7 @@
 ---
 title: "Total Circles Capture Systems for 2024"
-date: 2024-06-01 12:22:11
-updated: 2024-06-02 12:19:41
+date: 2024-06-03T04:25:56.966Z
+updated: 2024-06-04T04:25:56.966Z
 tags: 
   - screen-recording
   - ai video

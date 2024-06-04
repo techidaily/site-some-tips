@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving SRT Export Woes in Adobe Premiere"
-date: 2024-05-29 23:48:46
-updated: 2024-05-30 11:37:21
+date: 2024-06-03T04:20:43.268Z
+updated: 2024-06-04T04:20:43.268Z
 tags: 
   - screen-recording
   - ai video

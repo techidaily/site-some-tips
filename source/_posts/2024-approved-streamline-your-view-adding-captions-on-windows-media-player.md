@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your View  Adding Captions on Windows Media Player\""
-date: 2024-05-28 13:59:14
-updated: 2024-05-31 12:26:27
+date: 2024-06-03T04:37:45.466Z
+updated: 2024-06-04T04:37:45.466Z
 tags: 
   - screen-recording
   - ai video

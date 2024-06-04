@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Art of Closer Views on Microsoft Teams"
-date: 2024-05-31 15:33:42
-updated: 2024-06-03 10:52:16
+date: 2024-06-03T04:47:18.164Z
+updated: 2024-06-04T04:47:18.164Z
 tags: 
   - screen-recording
   - ai video

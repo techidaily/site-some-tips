@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Switch to Picture-in-Picture for YouTube Videos on iPhones\""
-date: 2024-05-30 14:58:22
-updated: 2024-05-31 10:38:29
+date: 2024-06-03T04:20:09.543Z
+updated: 2024-06-04T04:20:09.543Z
 tags: 
   - screen-recording
   - ai video

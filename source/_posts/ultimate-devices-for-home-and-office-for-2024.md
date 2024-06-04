@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Devices for Home and Office for 2024"
-date: 2024-06-01 15:34:25
-updated: 2024-06-02 10:48:22
+date: 2024-06-03T04:08:24.400Z
+updated: 2024-06-04T04:08:24.400Z
 tags: 
   - screen-recording
   - ai video

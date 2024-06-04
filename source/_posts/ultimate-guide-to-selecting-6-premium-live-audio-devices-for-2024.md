@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Selecting 6 Premium Live Audio Devices for 2024"
-date: 2024-06-01 17:30:51
-updated: 2024-06-02 12:51:51
+date: 2024-06-03T04:12:44.715Z
+updated: 2024-06-04T04:12:44.715Z
 tags: 
   - screen-recording
   - ai video

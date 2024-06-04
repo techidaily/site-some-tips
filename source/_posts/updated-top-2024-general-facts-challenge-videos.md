@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 2024 General Facts Challenge Videos"
-date: 2024-06-01 16:17:11
-updated: 2024-06-02 11:44:51
+date: 2024-06-03T03:57:28.155Z
+updated: 2024-06-04T03:57:28.155Z
 tags: 
   - screen-recording
   - ai video

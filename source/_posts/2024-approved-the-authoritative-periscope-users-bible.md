@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Authoritative Periscope User's Bible\""
-date: 2024-05-30 19:42:27
-updated: 2024-06-01 10:16:14
+date: 2024-06-03T04:11:17.064Z
+updated: 2024-06-04T04:11:17.064Z
 tags: 
   - screen-recording
   - ai video

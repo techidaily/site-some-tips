@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Incorporating Secondary Shots in Filmmaking"
-date: 2024-05-29 19:48:44
-updated: 2024-05-31 10:37:34
+date: 2024-06-03T04:00:22.469Z
+updated: 2024-06-04T04:00:22.469Z
 tags: 
   - screen-recording
   - ai video

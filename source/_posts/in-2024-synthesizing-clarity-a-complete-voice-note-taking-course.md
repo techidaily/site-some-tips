@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Synthesizing Clarity  A Complete Voice Note-Taking Course\""
-date: 2024-05-28 12:32:45
-updated: 2024-05-31 12:15:53
+date: 2024-06-03T03:56:00.068Z
+updated: 2024-06-04T03:56:00.068Z
 tags: 
   - screen-recording
   - ai video

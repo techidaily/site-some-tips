@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Cinematic Zoom Effect  Focus on Film\""
-date: 2024-05-30 12:21:45
-updated: 2024-06-01 12:29:12
+date: 2024-06-03T03:48:08.865Z
+updated: 2024-06-04T03:48:08.865Z
 tags: 
   - screen-recording
   - ai video

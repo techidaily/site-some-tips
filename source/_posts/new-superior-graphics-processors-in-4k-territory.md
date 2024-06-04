@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior Graphics Processors in 4K Territory"
-date: 2024-05-28 16:15:52
-updated: 2024-05-31 10:53:27
+date: 2024-06-03T03:58:16.897Z
+updated: 2024-06-04T03:58:16.897Z
 tags: 
   - screen-recording
   - ai video

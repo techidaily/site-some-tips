@@ -1,7 +1,7 @@
 ---
 title: "The Power of Apple’s M1 Max Clip for 2024"
-date: 2024-05-31 15:34:40
-updated: 2024-06-01 10:54:52
+date: 2024-06-03T04:03:13.280Z
+updated: 2024-06-04T04:03:13.280Z
 tags: 
   - screen-recording
   - ai video

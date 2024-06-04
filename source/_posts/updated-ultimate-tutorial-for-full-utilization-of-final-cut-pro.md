@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Tutorial for Full Utilization of Final Cut Pro"
-date: 2024-06-01 15:13:28
-updated: 2024-06-02 12:39:50
+date: 2024-06-03T04:29:49.012Z
+updated: 2024-06-04T04:29:49.012Z
 tags: 
   - screen-recording
   - ai video

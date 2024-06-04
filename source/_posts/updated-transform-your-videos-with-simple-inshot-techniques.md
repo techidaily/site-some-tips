@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Videos with Simple Inshot Techniques"
-date: 2024-05-31 13:13:36
-updated: 2024-06-02 10:30:26
+date: 2024-06-03T03:50:28.093Z
+updated: 2024-06-04T03:50:28.093Z
 tags: 
   - screen-recording
   - ai video

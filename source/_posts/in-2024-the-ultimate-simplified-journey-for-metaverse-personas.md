@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Simplified Journey for Metaverse Personas"
-date: 2024-05-31 22:42:31
-updated: 2024-06-01 11:23:35
+date: 2024-06-03T04:49:02.170Z
+updated: 2024-06-04T04:49:02.170Z
 tags: 
   - screen-recording
   - ai video

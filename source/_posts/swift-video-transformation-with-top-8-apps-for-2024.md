@@ -1,7 +1,7 @@
 ---
 title: "Swift Video Transformation with Top 8 Apps for 2024"
-date: 2024-05-29 12:38:30
-updated: 2024-05-31 11:27:56
+date: 2024-06-03T04:51:20.618Z
+updated: 2024-06-04T04:51:20.618Z
 tags: 
   - screen-recording
   - ai video

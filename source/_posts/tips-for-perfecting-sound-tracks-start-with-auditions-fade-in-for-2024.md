@@ -1,7 +1,7 @@
 ---
 title: "\"Tips for Perfecting Sound Tracks  Start with Audition's Fade-In for 2024\""
-date: 2024-05-30 19:24:15
-updated: 2024-06-02 11:58:40
+date: 2024-06-03T03:45:04.591Z
+updated: 2024-06-04T03:45:04.591Z
 tags: 
   - screen-recording
   - ai video

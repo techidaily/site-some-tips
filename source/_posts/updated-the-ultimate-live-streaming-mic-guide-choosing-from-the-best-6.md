@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Live-Streaming Mic Guide  Choosing From the Best 6\""
-date: 2024-05-29 12:36:22
-updated: 2024-06-01 12:12:10
+date: 2024-06-03T03:51:31.315Z
+updated: 2024-06-04T03:51:31.315Z
 tags: 
   - screen-recording
   - ai video

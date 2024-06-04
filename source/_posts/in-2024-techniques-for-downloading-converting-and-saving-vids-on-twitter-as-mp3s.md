@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s"
-date: 2024-05-30 22:59:54
-updated: 2024-05-31 10:34:53
+date: 2024-06-03T04:07:41.118Z
+updated: 2024-06-04T04:07:41.118Z
 tags: 
   - screen-recording
   - ai video

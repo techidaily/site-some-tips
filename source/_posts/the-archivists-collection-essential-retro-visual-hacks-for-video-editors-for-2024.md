@@ -1,7 +1,7 @@
 ---
 title: "\"The Archivist's Collection  Essential Retro Visual Hacks for Video Editors for 2024\""
-date: 2024-05-30 13:48:26
-updated: 2024-06-01 10:54:27
+date: 2024-06-03T04:05:15.122Z
+updated: 2024-06-04T04:05:15.122Z
 tags: 
   - screen-recording
   - ai video

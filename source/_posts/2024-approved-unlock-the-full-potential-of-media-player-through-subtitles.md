@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Full Potential of Media Player Through Subtitles\""
-date: 2024-05-31 23:42:34
-updated: 2024-06-03 10:32:31
+date: 2024-06-03T04:49:31.886Z
+updated: 2024-06-04T04:49:31.886Z
 tags: 
   - screen-recording
   - ai video

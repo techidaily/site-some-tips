@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Power of Music in Engaging Video Content"
-date: 2024-05-31 16:14:56
-updated: 2024-06-03 12:47:50
+date: 2024-06-03T03:54:59.904Z
+updated: 2024-06-04T03:54:59.904Z
 tags: 
   - screen-recording
   - ai video

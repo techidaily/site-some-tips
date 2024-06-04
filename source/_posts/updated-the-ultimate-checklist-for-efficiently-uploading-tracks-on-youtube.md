@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube"
-date: 2024-05-30 14:36:24
-updated: 2024-06-01 12:20:10
+date: 2024-06-03T03:54:09.400Z
+updated: 2024-06-04T03:54:09.400Z
 tags: 
   - screen-recording
   - ai video

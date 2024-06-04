@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Title Transformations  Beyond Standard Styles\""
-date: 2024-05-30 12:58:53
-updated: 2024-06-02 11:53:12
+date: 2024-06-03T04:33:04.409Z
+updated: 2024-06-04T04:33:04.409Z
 tags: 
   - screen-recording
   - ai video

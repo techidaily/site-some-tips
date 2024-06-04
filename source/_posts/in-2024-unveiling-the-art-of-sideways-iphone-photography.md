@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Art of Sideways iPhone Photography"
-date: 2024-06-01 14:32:44
-updated: 2024-06-03 11:44:13
+date: 2024-06-03T03:57:05.955Z
+updated: 2024-06-04T03:57:05.955Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Cinematic Excerpts for Video Production"
-date: 2024-05-30 10:46:50
-updated: 2024-06-02 11:16:57
+date: 2024-06-03T04:16:54.708Z
+updated: 2024-06-04T04:16:54.708Z
 tags: 
   - screen-recording
   - ai video

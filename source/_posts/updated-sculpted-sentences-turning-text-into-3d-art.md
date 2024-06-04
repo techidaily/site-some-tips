@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sculpted Sentences  Turning Text Into 3D Art\""
-date: 2024-05-28 19:40:28
-updated: 2024-05-30 12:35:45
+date: 2024-06-03T04:06:24.082Z
+updated: 2024-06-04T04:06:24.082Z
 tags: 
   - screen-recording
   - ai video

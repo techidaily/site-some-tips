@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Swift Visual Storytelling in Keynote"
-date: 2024-05-30 18:42:36
-updated: 2024-05-31 11:34:32
+date: 2024-06-03T04:16:46.152Z
+updated: 2024-06-04T04:16:46.152Z
 tags: 
   - screen-recording
   - ai video

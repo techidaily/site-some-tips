@@ -1,7 +1,7 @@
 ---
 title: "Top GPUs for Ultra HD Playback for 2024"
-date: 2024-06-01 17:33:40
-updated: 2024-06-02 10:45:42
+date: 2024-06-03T04:11:03.976Z
+updated: 2024-06-04T04:11:03.976Z
 tags: 
   - screen-recording
   - ai video

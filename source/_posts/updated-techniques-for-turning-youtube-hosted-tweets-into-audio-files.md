@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Techniques for Turning YouTube-Hosted Tweets Into Audio Files\""
-date: 2024-05-28 13:47:10
-updated: 2024-05-31 11:51:32
+date: 2024-06-03T04:05:23.700Z
+updated: 2024-06-04T04:05:23.700Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Photography Guru's Guide to Date Stamping"
-date: 2024-05-31 22:38:52
-updated: 2024-06-01 11:13:53
+date: 2024-06-03T04:48:39.564Z
+updated: 2024-06-04T04:48:39.564Z
 tags: 
   - screen-recording
   - ai video

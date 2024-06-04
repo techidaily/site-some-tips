@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Transcribe Speech to Text in Microsoft Word Learn It Here"
-date: 2024-05-30 20:35:21
-updated: 2024-06-02 10:23:46
+date: 2024-06-03T04:20:54.573Z
+updated: 2024-06-04T04:20:54.573Z
 tags: 
   - screen-recording
   - ai video

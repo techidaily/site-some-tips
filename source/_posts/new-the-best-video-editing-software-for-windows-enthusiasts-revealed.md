@@ -1,7 +1,7 @@
 ---
 title: "[New] The Best Video Editing Software For Windows Enthusiasts Revealed"
-date: 2024-05-31 21:14:58
-updated: 2024-06-01 12:44:18
+date: 2024-06-03T04:07:49.327Z
+updated: 2024-06-04T04:07:49.327Z
 tags: 
   - screen-recording
   - ai video

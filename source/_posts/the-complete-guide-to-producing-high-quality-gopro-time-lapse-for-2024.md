@@ -1,7 +1,7 @@
 ---
 title: "\"The Complete Guide to Producing High-Quality GoPro Time-Lapse for 2024\""
-date: 2024-05-30 14:10:53
-updated: 2024-06-01 12:32:30
+date: 2024-06-03T04:49:13.748Z
+updated: 2024-06-04T04:49:13.748Z
 tags: 
   - screen-recording
   - ai video

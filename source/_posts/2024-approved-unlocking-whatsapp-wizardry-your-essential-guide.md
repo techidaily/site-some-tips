@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking WhatsApp Wizardry  Your Essential Guide\""
-date: 2024-06-01 12:14:24
-updated: 2024-06-03 12:16:29
+date: 2024-06-03T04:05:33.010Z
+updated: 2024-06-04T04:05:33.010Z
 tags: 
   - screen-recording
   - ai video

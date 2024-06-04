@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlock the Potential of Hero5 Black for Stunning Visuals"
-date: 2024-05-31 23:31:59
-updated: 2024-06-03 10:21:55
+date: 2024-06-03T03:45:34.182Z
+updated: 2024-06-04T03:45:34.182Z
 tags: 
   - screen-recording
   - ai video

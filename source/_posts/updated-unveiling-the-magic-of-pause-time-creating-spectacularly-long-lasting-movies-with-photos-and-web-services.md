@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Magic of Pause Time  Creating Spectacularly Long Lasting Movies with Photos & Web Services\""
-date: 2024-06-01 10:57:40
-updated: 2024-06-03 11:49:41
+date: 2024-06-03T04:33:01.585Z
+updated: 2024-06-04T04:33:01.585Z
 tags: 
   - screen-recording
   - ai video

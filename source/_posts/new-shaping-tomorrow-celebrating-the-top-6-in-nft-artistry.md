@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shaping Tomorrow  Celebrating the Top 6 in NFT Artistry\""
-date: 2024-05-28 14:53:18
-updated: 2024-05-30 12:58:53
+date: 2024-06-03T04:32:12.027Z
+updated: 2024-06-04T04:32:12.027Z
 tags: 
   - screen-recording
   - ai video

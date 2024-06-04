@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultra 30 Action Cam  The Essential Review of the VIRB Series\""
-date: 2024-05-31 10:48:19
-updated: 2024-06-02 12:38:58
+date: 2024-06-03T04:14:25.056Z
+updated: 2024-06-04T04:14:25.056Z
 tags: 
   - screen-recording
   - ai video

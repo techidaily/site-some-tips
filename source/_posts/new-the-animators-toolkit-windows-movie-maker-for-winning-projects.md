@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Animator's Toolkit  Windows Movie Maker for Winning Projects\""
-date: 2024-05-31 18:17:58
-updated: 2024-06-01 10:56:44
+date: 2024-06-03T04:17:52.525Z
+updated: 2024-06-04T04:17:52.525Z
 tags: 
   - screen-recording
   - ai video

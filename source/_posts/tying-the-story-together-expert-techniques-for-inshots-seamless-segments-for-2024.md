@@ -1,7 +1,7 @@
 ---
 title: "\"Tying the Story Together  Expert Techniques for Inshot's Seamless Segments for 2024\""
-date: 2024-05-30 21:16:29
-updated: 2024-06-02 12:46:29
+date: 2024-06-03T03:47:44.833Z
+updated: 2024-06-04T03:47:44.833Z
 tags: 
   - screen-recording
   - ai video

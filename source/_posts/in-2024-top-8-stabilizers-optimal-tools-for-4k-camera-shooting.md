@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 8 Stabilizers  Optimal Tools for 4K Camera Shooting\""
-date: 2024-05-30 13:12:24
-updated: 2024-06-02 10:14:37
+date: 2024-06-03T04:43:47.703Z
+updated: 2024-06-04T04:43:47.703Z
 tags: 
   - screen-recording
   - ai video

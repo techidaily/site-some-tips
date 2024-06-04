@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top-Rated Traffic Cameras for Automobiles 2023\""
-date: 2024-06-01 17:36:38
-updated: 2024-06-02 12:53:50
+date: 2024-06-03T03:46:53.087Z
+updated: 2024-06-04T03:46:53.087Z
 tags: 
   - screen-recording
   - ai video

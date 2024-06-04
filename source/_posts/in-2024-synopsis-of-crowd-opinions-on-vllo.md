@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Synopsis of Crowd Opinions on VLLO"
-date: 2024-05-30 11:18:28
-updated: 2024-05-31 10:32:46
+date: 2024-06-03T03:49:40.125Z
+updated: 2024-06-04T03:49:40.125Z
 tags: 
   - screen-recording
   - ai video

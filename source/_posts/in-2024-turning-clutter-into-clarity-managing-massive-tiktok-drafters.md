@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Turning Clutter Into Clarity  Managing Massive TikTok Drafters\""
-date: 2024-06-01 12:32:40
-updated: 2024-06-02 11:41:25
+date: 2024-06-03T04:29:30.675Z
+updated: 2024-06-04T04:29:30.675Z
 tags: 
   - screen-recording
   - ai video

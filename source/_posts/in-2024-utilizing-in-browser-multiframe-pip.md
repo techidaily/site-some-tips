@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Utilizing In-Browser Multiframe  PIP\""
-date: 2024-05-31 15:58:49
-updated: 2024-06-03 10:44:53
+date: 2024-06-03T04:01:57.030Z
+updated: 2024-06-04T04:01:57.030Z
 tags: 
   - screen-recording
   - ai video

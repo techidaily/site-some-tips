@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling AV1  Foundations and Fundamentals\""
-date: 2024-05-31 13:58:50
-updated: 2024-06-03 11:18:52
+date: 2024-06-03T03:43:01.655Z
+updated: 2024-06-04T03:43:01.655Z
 tags: 
   - screen-recording
   - ai video

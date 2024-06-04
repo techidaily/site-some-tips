@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Structuring Effective Audio XML for 2024"
-date: 2024-05-30 21:19:22
-updated: 2024-06-01 11:23:29
+date: 2024-06-03T04:36:57.024Z
+updated: 2024-06-04T04:36:57.024Z
 tags: 
   - screen-recording
   - ai video

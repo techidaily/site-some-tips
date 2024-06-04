@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Edits  How to Negate Distracting Surroundings Using Affinity Photo\""
-date: 2024-05-30 21:42:59
-updated: 2024-06-02 11:35:14
+date: 2024-06-03T03:48:29.676Z
+updated: 2024-06-04T03:48:29.676Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sprint Through Photo Composition - Google's Easy Way\""
-date: 2024-05-30 14:53:21
-updated: 2024-05-31 11:54:30
+date: 2024-06-03T04:47:30.200Z
+updated: 2024-06-04T04:47:30.200Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transitioning Photos  From Physical to Digital Storage\""
-date: 2024-05-31 10:29:48
-updated: 2024-06-02 10:36:24
+date: 2024-06-03T04:02:20.621Z
+updated: 2024-06-04T04:02:20.621Z
 tags: 
   - screen-recording
   - ai video

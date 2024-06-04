@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tempo & Tales  Video Narratives with Musical Undertones\""
-date: 2024-05-30 11:23:24
-updated: 2024-06-01 11:57:11
+date: 2024-06-03T04:17:51.425Z
+updated: 2024-06-04T04:17:51.425Z
 tags: 
   - screen-recording
   - ai video

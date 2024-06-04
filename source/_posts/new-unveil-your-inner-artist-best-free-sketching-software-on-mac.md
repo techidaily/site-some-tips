@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveil Your Inner Artist  Best Free Sketching Software on Mac\""
-date: 2024-06-02 10:56:15
-updated: 2024-06-03 12:40:54
+date: 2024-06-03T04:35:26.158Z
+updated: 2024-06-04T04:35:26.158Z
 tags: 
   - screen-recording
   - ai video

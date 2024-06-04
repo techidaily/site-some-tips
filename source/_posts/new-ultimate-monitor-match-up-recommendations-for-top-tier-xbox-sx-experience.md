@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Monitor Match-Up  Recommendations for Top-Tier Xbox SX Experience\""
-date: 2024-05-31 13:46:30
-updated: 2024-06-02 12:47:42
+date: 2024-06-03T03:56:42.005Z
+updated: 2024-06-04T03:56:42.005Z
 tags: 
   - screen-recording
   - ai video

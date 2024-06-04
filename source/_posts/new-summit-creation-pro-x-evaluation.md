@@ -1,7 +1,7 @@
 ---
 title: "[New] Summit Creation Pro X Evaluation"
-date: 2024-05-28 21:52:17
-updated: 2024-05-31 10:57:50
+date: 2024-06-03T04:46:27.793Z
+updated: 2024-06-04T04:46:27.793Z
 tags: 
   - screen-recording
   - ai video

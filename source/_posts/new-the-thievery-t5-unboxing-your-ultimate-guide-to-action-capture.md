@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture\""
-date: 2024-05-31 21:52:14
-updated: 2024-06-01 10:50:30
+date: 2024-06-03T03:53:29.655Z
+updated: 2024-06-04T03:53:29.655Z
 tags: 
   - screen-recording
   - ai video

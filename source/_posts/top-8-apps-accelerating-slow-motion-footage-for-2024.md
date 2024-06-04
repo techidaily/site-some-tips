@@ -1,7 +1,7 @@
 ---
 title: "\"Top 8 Apps  Accelerating Slow Motion Footage for 2024\""
-date: 2024-06-01 12:14:29
-updated: 2024-06-02 10:27:17
+date: 2024-06-03T04:27:01.142Z
+updated: 2024-06-04T04:27:01.142Z
 tags: 
   - screen-recording
   - ai video

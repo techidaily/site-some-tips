@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock Full Potential of Windows Photos App with Sound & Filter Upgrades"
-date: 2024-06-01 15:38:19
-updated: 2024-06-03 10:25:45
+date: 2024-06-03T04:03:00.859Z
+updated: 2024-06-04T04:03:00.859Z
 tags: 
   - screen-recording
   - ai video

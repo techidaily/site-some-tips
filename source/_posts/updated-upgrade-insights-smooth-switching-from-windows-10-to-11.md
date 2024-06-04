@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Upgrade Insights  Smooth Switching From Windows 10 to 11\""
-date: 2024-06-02 16:40:53
-updated: 2024-06-03 10:21:40
+date: 2024-06-03T04:10:42.694Z
+updated: 2024-06-04T04:10:42.694Z
 tags: 
   - screen-recording
   - ai video

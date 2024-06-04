@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Your Shooting  Canon's Time-Lapse Techniques\""
-date: 2024-05-30 21:51:57
-updated: 2024-05-31 12:55:48
+date: 2024-06-03T04:07:10.473Z
+updated: 2024-06-04T04:07:10.473Z
 tags: 
   - screen-recording
   - ai video

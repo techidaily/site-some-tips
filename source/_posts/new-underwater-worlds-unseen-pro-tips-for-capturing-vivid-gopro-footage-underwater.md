@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Underwater Worlds Unseen  Pro Tips for Capturing Vivid GoPro Footage Underwater\""
-date: 2024-06-01 21:42:57
-updated: 2024-06-02 10:42:39
+date: 2024-06-03T04:36:21.180Z
+updated: 2024-06-04T04:36:21.180Z
 tags: 
   - screen-recording
   - ai video

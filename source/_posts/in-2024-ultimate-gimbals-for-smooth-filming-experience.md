@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Gimbals for Smooth Filming Experience"
-date: 2024-06-01 18:39:39
-updated: 2024-06-02 10:51:11
+date: 2024-06-03T04:11:28.374Z
+updated: 2024-06-04T04:11:28.374Z
 tags: 
   - screen-recording
   - ai video

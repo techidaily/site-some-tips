@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Clear Path  A Step-By-Step Approach to Buying an Exceptional 4K Monitor\""
-date: 2024-05-29 17:44:49
-updated: 2024-06-01 11:20:52
+date: 2024-06-03T04:40:40.811Z
+updated: 2024-06-04T04:40:40.811Z
 tags: 
   - screen-recording
   - ai video

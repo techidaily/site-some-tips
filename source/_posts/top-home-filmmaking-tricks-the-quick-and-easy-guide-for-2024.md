@@ -1,7 +1,7 @@
 ---
 title: "\"Top Home Filmmaking Tricks  The Quick and Easy Guide for 2024\""
-date: 2024-05-30 19:16:32
-updated: 2024-06-02 12:13:16
+date: 2024-06-03T04:02:40.898Z
+updated: 2024-06-04T04:02:40.898Z
 tags: 
   - screen-recording
   - ai video

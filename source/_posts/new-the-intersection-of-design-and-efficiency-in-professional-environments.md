@@ -1,7 +1,7 @@
 ---
 title: "[New] The Intersection of Design & Efficiency in Professional Environments"
-date: 2024-05-29 16:55:57
-updated: 2024-06-01 10:47:59
+date: 2024-06-03T04:03:06.161Z
+updated: 2024-06-04T04:03:06.161Z
 tags: 
   - screen-recording
   - ai video

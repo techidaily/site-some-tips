@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 80S Effects Compendium for Professional Editors\""
-date: 2024-06-01 18:27:54
-updated: 2024-06-02 11:17:58
+date: 2024-06-03T04:46:16.505Z
+updated: 2024-06-04T04:46:16.505Z
 tags: 
   - screen-recording
   - ai video

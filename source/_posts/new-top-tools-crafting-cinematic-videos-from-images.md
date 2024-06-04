@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Tools  Crafting Cinematic Videos From Images\""
-date: 2024-06-01 13:56:23
-updated: 2024-06-02 11:53:53
+date: 2024-06-03T03:57:11.684Z
+updated: 2024-06-04T03:57:11.684Z
 tags: 
   - screen-recording
   - ai video

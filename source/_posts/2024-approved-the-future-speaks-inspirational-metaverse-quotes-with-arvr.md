@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Future Speaks  Inspirational Metaverse Quotes with AR/VR\""
-date: 2024-05-29 22:30:24
-updated: 2024-06-01 10:45:40
+date: 2024-06-03T04:06:33.758Z
+updated: 2024-06-04T04:06:33.758Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Prime 8 Transformative Lenses for Virtual Conferencing"
-date: 2024-05-29 13:57:13
-updated: 2024-05-30 12:52:41
+date: 2024-06-03T04:50:12.088Z
+updated: 2024-06-04T04:50:12.088Z
 tags: 
   - screen-recording
   - ai video

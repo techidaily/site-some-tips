@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Compact Guide to Joining & Scheduling Zoom on Your Android Phone"
-date: 2024-05-31 16:13:47
-updated: 2024-06-01 10:39:13
+date: 2024-06-03T03:50:08.514Z
+updated: 2024-06-04T03:50:08.514Z
 tags: 
   - screen-recording
   - ai video

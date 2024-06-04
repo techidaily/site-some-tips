@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to YouTube's Most Captivating Storytellers in '23 for 2024"
-date: 2024-05-29 22:43:56
-updated: 2024-06-01 11:36:21
+date: 2024-06-03T04:46:35.904Z
+updated: 2024-06-04T04:46:35.904Z
 tags: 
   - screen-recording
   - ai video

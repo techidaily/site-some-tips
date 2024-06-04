@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 5 Best TV for Ps5 and Xbox Series X (Updated July)"
-date: 2024-05-31 10:37:16
-updated: 2024-06-02 12:26:48
+date: 2024-06-03T03:45:43.001Z
+updated: 2024-06-04T03:45:43.001Z
 tags: 
   - screen-recording
   - ai video

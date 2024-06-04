@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Best Professional Template Pack for Premiere Pro"
-date: 2024-05-31 14:53:26
-updated: 2024-06-01 12:49:27
+date: 2024-06-03T04:26:02.642Z
+updated: 2024-06-04T04:26:02.642Z
 tags: 
   - screen-recording
   - ai video

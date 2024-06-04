@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Path to Effective Marketing  Best Practices for Health Promos\""
-date: 2024-05-31 23:19:29
-updated: 2024-06-01 10:47:22
+date: 2024-06-03T03:51:16.292Z
+updated: 2024-06-04T03:51:16.292Z
 tags: 
   - screen-recording
   - ai video

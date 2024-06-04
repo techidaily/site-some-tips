@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Potential in AR  Applying LUT Techniques\""
-date: 2024-06-02 11:30:39
-updated: 2024-06-03 12:34:49
+date: 2024-06-03T04:24:39.622Z
+updated: 2024-06-04T04:24:39.622Z
 tags: 
   - screen-recording
   - ai video

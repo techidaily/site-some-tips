@@ -1,7 +1,7 @@
 ---
 title: "[New] Tailoring Your Headline for Job Searches"
-date: 2024-05-29 20:11:17
-updated: 2024-05-31 10:11:52
+date: 2024-06-03T03:58:46.676Z
+updated: 2024-06-04T03:58:46.676Z
 tags: 
   - screen-recording
   - ai video

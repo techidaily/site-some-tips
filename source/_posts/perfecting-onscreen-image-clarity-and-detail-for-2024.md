@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Onscreen Image Clarity and Detail for 2024"
-date: 2024-05-27 16:13:37
-updated: 2024-05-29 11:33:55
+date: 2024-06-03T03:51:19.861Z
+updated: 2024-06-04T03:51:19.861Z
 tags: 
   - screen-recording
   - ai video

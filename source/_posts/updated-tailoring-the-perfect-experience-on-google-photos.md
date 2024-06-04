@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tailoring the Perfect Experience on Google Photos"
-date: 2024-05-28 10:35:32
-updated: 2024-05-31 11:29:41
+date: 2024-06-03T04:45:37.194Z
+updated: 2024-06-04T04:45:37.194Z
 tags: 
   - screen-recording
   - ai video

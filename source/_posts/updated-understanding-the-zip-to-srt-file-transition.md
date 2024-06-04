@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Zip to Srt File Transition"
-date: 2024-05-30 20:46:44
-updated: 2024-06-02 10:53:42
+date: 2024-06-03T04:16:02.970Z
+updated: 2024-06-04T04:16:02.970Z
 tags: 
   - screen-recording
   - ai video

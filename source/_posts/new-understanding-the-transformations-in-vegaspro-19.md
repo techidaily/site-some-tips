@@ -1,7 +1,7 @@
 ---
 title: "[New] Understanding the Transformations in VegasPro '19"
-date: 2024-06-01 10:19:25
-updated: 2024-06-02 10:33:49
+date: 2024-06-03T04:31:09.826Z
+updated: 2024-06-04T04:31:09.826Z
 tags: 
   - screen-recording
   - ai video

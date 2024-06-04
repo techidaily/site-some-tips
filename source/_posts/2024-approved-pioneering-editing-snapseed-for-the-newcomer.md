@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pioneering Editing  Snapseed for the Newcomer\""
-date: 2024-05-28 19:40:12
-updated: 2024-05-29 12:21:17
+date: 2024-06-03T03:51:35.602Z
+updated: 2024-06-04T03:51:35.602Z
 tags: 
   - screen-recording
   - ai video

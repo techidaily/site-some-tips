@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Snapshot Solution  How to Swiftly Switch Your GIF for a Sticker\""
-date: 2024-05-29 18:48:58
-updated: 2024-06-01 10:10:40
+date: 2024-06-03T03:52:54.196Z
+updated: 2024-06-04T03:52:54.196Z
 tags: 
   - screen-recording
   - ai video

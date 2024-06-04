@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Pathway to Visual Storytelling on YouTube"
-date: 2024-05-31 17:57:59
-updated: 2024-06-01 12:50:22
+date: 2024-06-03T04:27:06.811Z
+updated: 2024-06-04T04:27:06.811Z
 tags: 
   - screen-recording
   - ai video

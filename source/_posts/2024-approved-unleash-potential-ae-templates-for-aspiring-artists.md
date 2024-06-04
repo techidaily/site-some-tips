@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Potential  AE Templates for Aspiring Artists\""
-date: 2024-06-01 14:53:59
-updated: 2024-06-02 11:47:27
+date: 2024-06-03T03:52:41.947Z
+updated: 2024-06-04T03:52:41.947Z
 tags: 
   - screen-recording
   - ai video

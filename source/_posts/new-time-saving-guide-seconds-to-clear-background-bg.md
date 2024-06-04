@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Time-Saving Guide  Seconds to Clear Background Bg\""
-date: 2024-06-01 18:10:50
-updated: 2024-06-02 11:27:15
+date: 2024-06-03T04:39:35.592Z
+updated: 2024-06-04T04:39:35.592Z
 tags: 
   - screen-recording
   - ai video

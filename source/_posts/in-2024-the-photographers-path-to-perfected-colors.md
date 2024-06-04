@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Photographer's Path to Perfected Colors"
-date: 2024-05-29 21:32:52
-updated: 2024-06-01 10:14:49
+date: 2024-06-03T04:11:24.843Z
+updated: 2024-06-04T04:11:24.843Z
 tags: 
   - screen-recording
   - ai video

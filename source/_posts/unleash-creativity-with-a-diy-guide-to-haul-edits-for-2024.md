@@ -1,7 +1,7 @@
 ---
 title: "Unleash Creativity with a DIY Guide to Haul Edits for 2024"
-date: 2024-05-31 17:58:11
-updated: 2024-06-02 11:14:32
+date: 2024-06-03T04:12:46.145Z
+updated: 2024-06-04T04:12:46.145Z
 tags: 
   - screen-recording
   - ai video

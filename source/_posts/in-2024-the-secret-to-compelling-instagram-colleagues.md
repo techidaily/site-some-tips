@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Secret to Compelling Instagram Colleagues"
-date: 2024-05-30 10:49:46
-updated: 2024-06-01 12:37:39
+date: 2024-06-03T04:16:14.356Z
+updated: 2024-06-04T04:16:14.356Z
 tags: 
   - screen-recording
   - ai video

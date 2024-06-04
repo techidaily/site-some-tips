@@ -1,7 +1,7 @@
 ---
 title: "The Fundamentals of Uncomplicated HDR Techniques for 2024"
-date: 2024-05-31 12:20:52
-updated: 2024-06-01 12:41:29
+date: 2024-06-03T04:06:20.516Z
+updated: 2024-06-04T04:06:20.516Z
 tags: 
   - screen-recording
   - ai video

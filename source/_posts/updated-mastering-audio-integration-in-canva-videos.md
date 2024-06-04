@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Audio Integration in Canva Videos"
-date: 2024-05-27 19:18:52
-updated: 2024-05-28 10:59:22
+date: 2024-06-03T04:16:29.393Z
+updated: 2024-06-04T04:16:29.393Z
 tags: 
   - screen-recording
   - ai video

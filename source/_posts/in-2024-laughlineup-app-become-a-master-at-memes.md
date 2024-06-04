@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, LaughLineup App - Become a Master at Memes\""
-date: 2024-05-25 16:58:59
-updated: 2024-05-28 10:30:51
+date: 2024-06-03T04:41:02.072Z
+updated: 2024-06-04T04:41:02.072Z
 tags: 
   - screen-recording
   - ai video

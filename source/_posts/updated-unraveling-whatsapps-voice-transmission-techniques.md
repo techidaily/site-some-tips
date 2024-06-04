@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unraveling WhatsApp's Voice Transmission Techniques"
-date: 2024-06-01 17:55:26
-updated: 2024-06-03 11:29:50
+date: 2024-06-03T04:31:57.186Z
+updated: 2024-06-04T04:31:57.186Z
 tags: 
   - screen-recording
   - ai video

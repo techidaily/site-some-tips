@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Smooth Audio Transitions for 2024"
-date: 2024-05-29 17:51:59
-updated: 2024-05-31 10:33:41
+date: 2024-06-03T04:42:52.163Z
+updated: 2024-06-04T04:42:52.163Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Next Chapter of Cinema  VR Revolution\""
-date: 2024-05-29 13:45:22
-updated: 2024-06-01 11:29:15
+date: 2024-06-03T04:52:12.622Z
+updated: 2024-06-04T04:52:12.622Z
 tags: 
   - screen-recording
   - ai video

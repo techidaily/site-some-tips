@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uniting Fans  Anime Opening Songs Showcase\""
-date: 2024-05-31 11:42:39
-updated: 2024-06-02 12:41:49
+date: 2024-06-03T03:49:03.392Z
+updated: 2024-06-04T03:49:03.392Z
 tags: 
   - screen-recording
   - ai video

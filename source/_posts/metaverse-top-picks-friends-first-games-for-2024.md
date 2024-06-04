@@ -1,7 +1,7 @@
 ---
 title: "\"Metaverse Top Picks  Friends-First Games for 2024\""
-date: 2024-05-25 11:31:35
-updated: 2024-05-28 12:40:40
+date: 2024-06-03T03:52:52.762Z
+updated: 2024-06-04T03:52:52.762Z
 tags: 
   - screen-recording
   - ai video

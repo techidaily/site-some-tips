@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tune-Up Tricks  Perfectly Pairing Music and Imagery with Windows 11\""
-date: 2024-05-30 14:37:53
-updated: 2024-06-02 12:52:28
+date: 2024-06-03T04:23:23.690Z
+updated: 2024-06-04T04:23:23.690Z
 tags: 
   - screen-recording
   - ai video

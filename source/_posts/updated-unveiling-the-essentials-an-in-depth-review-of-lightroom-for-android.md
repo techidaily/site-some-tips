@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Essentials  An In-Depth Review of Lightroom for Android\""
-date: 2024-05-31 21:42:31
-updated: 2024-06-03 10:42:26
+date: 2024-06-03T04:47:50.006Z
+updated: 2024-06-04T04:47:50.006Z
 tags: 
   - screen-recording
   - ai video

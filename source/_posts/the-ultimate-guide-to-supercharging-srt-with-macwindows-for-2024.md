@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Supercharging SRT with Mac/Windows for 2024"
-date: 2024-05-30 14:49:33
-updated: 2024-06-01 11:42:55
+date: 2024-06-03T04:31:12.664Z
+updated: 2024-06-04T04:31:12.664Z
 tags: 
   - screen-recording
   - ai video

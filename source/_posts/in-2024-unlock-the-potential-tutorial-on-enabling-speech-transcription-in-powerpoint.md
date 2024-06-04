@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock the Potential  Tutorial on Enabling Speech Transcription in PowerPoint\""
-date: 2024-06-02 16:44:46
-updated: 2024-06-03 10:45:45
+date: 2024-06-03T04:24:09.516Z
+updated: 2024-06-04T04:24:09.516Z
 tags: 
   - screen-recording
   - ai video

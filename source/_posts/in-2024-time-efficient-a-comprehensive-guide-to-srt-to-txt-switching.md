@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Time Efficient  A Comprehensive Guide to SRT to TXT Switching\""
-date: 2024-05-30 20:32:59
-updated: 2024-06-01 10:20:47
+date: 2024-06-03T04:08:13.645Z
+updated: 2024-06-04T04:08:13.645Z
 tags: 
   - screen-recording
   - ai video

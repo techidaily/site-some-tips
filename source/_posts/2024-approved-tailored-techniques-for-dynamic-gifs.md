@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tailored Techniques for Dynamic GIFs\""
-date: 2024-05-30 12:54:27
-updated: 2024-05-31 11:59:26
+date: 2024-06-03T03:53:11.028Z
+updated: 2024-06-04T03:53:11.028Z
 tags: 
   - screen-recording
   - ai video

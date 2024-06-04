@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024"
-date: 2024-06-02 23:36:40
-updated: 2024-06-03 11:21:20
+date: 2024-06-03T04:35:59.944Z
+updated: 2024-06-04T04:35:59.944Z
 tags: 
   - screen-recording
   - ai video

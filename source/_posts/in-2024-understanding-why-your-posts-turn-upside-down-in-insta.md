@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding Why Your Posts Turn Upside Down in Insta"
-date: 2024-05-30 10:29:10
-updated: 2024-06-02 10:11:21
+date: 2024-06-03T04:12:30.450Z
+updated: 2024-06-04T04:12:30.450Z
 tags: 
   - screen-recording
   - ai video

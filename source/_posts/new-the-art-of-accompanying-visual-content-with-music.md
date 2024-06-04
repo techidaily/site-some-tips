@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Accompanying Visual Content with Music"
-date: 2024-05-31 15:44:22
-updated: 2024-06-01 12:49:17
+date: 2024-06-03T04:04:07.954Z
+updated: 2024-06-04T04:04:07.954Z
 tags: 
   - screen-recording
   - ai video

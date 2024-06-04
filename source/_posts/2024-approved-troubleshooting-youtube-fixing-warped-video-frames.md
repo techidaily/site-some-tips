@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Troubleshooting YouTube  Fixing Warped Video Frames\""
-date: 2024-05-31 12:24:15
-updated: 2024-06-02 10:47:58
+date: 2024-06-03T03:45:20.090Z
+updated: 2024-06-04T03:45:20.090Z
 tags: 
   - screen-recording
   - ai video

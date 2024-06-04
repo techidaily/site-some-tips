@@ -1,7 +1,7 @@
 ---
 title: "\"Top 20 Unrestricted, Zero-Cost PUBG Snapshits for 2024\""
-date: 2024-05-31 15:44:45
-updated: 2024-06-02 10:22:48
+date: 2024-06-03T04:49:15.148Z
+updated: 2024-06-04T04:49:15.148Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The 2019 Game-Changer in VegasPro for 2024\""
-date: 2024-05-30 10:54:10
-updated: 2024-06-01 10:35:33
+date: 2024-06-03T04:29:11.171Z
+updated: 2024-06-04T04:29:11.171Z
 tags: 
   - screen-recording
   - ai video

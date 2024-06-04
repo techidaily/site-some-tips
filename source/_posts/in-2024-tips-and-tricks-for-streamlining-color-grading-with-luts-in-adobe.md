@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tips and Tricks for Streamlining Color Grading with LUTs in Adobe"
-date: 2024-05-30 17:52:54
-updated: 2024-06-02 12:20:31
+date: 2024-06-03T04:23:03.360Z
+updated: 2024-06-04T04:23:03.360Z
 tags: 
   - screen-recording
   - ai video

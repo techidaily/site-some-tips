@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Your Movie-Watching Process  Add Subtitles to WMP\""
-date: 2024-05-29 10:15:10
-updated: 2024-05-31 12:27:53
+date: 2024-06-03T04:17:34.990Z
+updated: 2024-06-04T04:17:34.990Z
 tags: 
   - screen-recording
   - ai video

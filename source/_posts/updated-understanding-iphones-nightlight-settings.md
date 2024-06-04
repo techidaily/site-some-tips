@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding iPhone's Nightlight Settings"
-date: 2024-05-30 19:22:56
-updated: 2024-06-02 11:33:26
+date: 2024-06-03T04:18:39.948Z
+updated: 2024-06-04T04:18:39.948Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Potential  Metaverse Marketing Secrets\""
-date: 2024-06-01 23:31:19
-updated: 2024-06-03 10:34:17
+date: 2024-06-03T04:01:54.880Z
+updated: 2024-06-04T04:01:54.880Z
 tags: 
   - screen-recording
   - ai video

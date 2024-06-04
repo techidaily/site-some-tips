@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Intricate Dance of Photos Into a Unified Display"
-date: 2024-05-31 17:18:51
-updated: 2024-06-01 10:29:46
+date: 2024-06-03T04:04:33.994Z
+updated: 2024-06-04T04:04:33.994Z
 tags: 
   - screen-recording
   - ai video

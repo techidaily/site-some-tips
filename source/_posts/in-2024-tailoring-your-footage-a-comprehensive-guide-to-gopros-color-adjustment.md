@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tailoring Your Footage  A Comprehensive Guide to GoPro's Color Adjustment\""
-date: 2024-05-28 13:41:55
-updated: 2024-05-31 10:14:12
+date: 2024-06-03T04:41:36.443Z
+updated: 2024-06-04T04:41:36.443Z
 tags: 
   - screen-recording
   - ai video

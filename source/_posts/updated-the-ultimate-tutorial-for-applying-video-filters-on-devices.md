@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Tutorial for Applying Video Filters on Devices"
-date: 2024-05-29 23:28:41
-updated: 2024-06-01 10:30:59
+date: 2024-06-03T04:07:59.368Z
+updated: 2024-06-04T04:07:59.368Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Artist's Guide to Dynamic Palette Alteration for 2024"
-date: 2024-05-30 23:23:30
-updated: 2024-06-01 11:59:49
+date: 2024-06-03T04:45:56.684Z
+updated: 2024-06-04T04:45:56.684Z
 tags: 
   - screen-recording
   - ai video

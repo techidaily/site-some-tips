@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Sky's Playground  Discovering the Husqvarna X4 FPV\""
-date: 2024-05-30 12:54:41
-updated: 2024-06-01 11:25:56
+date: 2024-06-03T04:31:41.981Z
+updated: 2024-06-04T04:31:41.981Z
 tags: 
   - screen-recording
   - ai video

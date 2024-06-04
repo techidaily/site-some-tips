@@ -1,7 +1,7 @@
 ---
 title: "[New] Upscaling Your YouTube Visuals"
-date: 2024-06-02 20:57:55
-updated: 2024-06-03 12:50:55
+date: 2024-06-03T04:45:54.578Z
+updated: 2024-06-04T04:45:54.578Z
 tags: 
   - screen-recording
   - ai video

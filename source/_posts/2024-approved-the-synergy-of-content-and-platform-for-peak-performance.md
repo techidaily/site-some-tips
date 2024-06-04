@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Synergy of Content and Platform for Peak Performance\""
-date: 2024-05-30 23:27:42
-updated: 2024-06-01 12:19:44
+date: 2024-06-03T04:18:43.531Z
+updated: 2024-06-04T04:18:43.531Z
 tags: 
   - screen-recording
   - ai video

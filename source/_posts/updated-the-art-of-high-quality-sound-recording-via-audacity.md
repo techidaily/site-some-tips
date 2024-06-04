@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of High-Quality Sound Recording via Audacity\""
-date: 2024-05-30 20:42:16
-updated: 2024-06-01 12:11:50
+date: 2024-06-03T04:06:58.004Z
+updated: 2024-06-04T04:06:58.004Z
 tags: 
   - screen-recording
   - ai video

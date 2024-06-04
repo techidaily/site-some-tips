@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Footage with the Ideal Dimension Proportion\""
-date: 2024-05-31 19:35:19
-updated: 2024-06-02 12:34:13
+date: 2024-06-03T04:32:02.813Z
+updated: 2024-06-04T04:32:02.813Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Your Content with TikTok's Number Manipulation Tricks\""
-date: 2024-05-28 21:39:50
-updated: 2024-05-29 12:57:54
+date: 2024-06-03T04:45:43.572Z
+updated: 2024-06-04T04:45:43.572Z
 tags: 
   - screen-recording
   - ai video

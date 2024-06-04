@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleashing Potential in AR  Applying LUT Techniques\""
-date: 2024-06-02 10:23:39
-updated: 2024-06-03 12:28:31
+date: 2024-06-03T03:47:33.152Z
+updated: 2024-06-04T03:47:33.152Z
 tags: 
   - screen-recording
   - ai video

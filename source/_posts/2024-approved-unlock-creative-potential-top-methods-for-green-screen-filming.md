@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Creative Potential  Top Methods for Green Screen Filming\""
-date: 2024-05-31 13:58:14
-updated: 2024-06-03 12:27:33
+date: 2024-06-03T03:42:52.116Z
+updated: 2024-06-04T03:42:52.116Z
 tags: 
   - screen-recording
   - ai video

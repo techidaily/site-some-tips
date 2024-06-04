@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamline Your Show Entry on Apple Media"
-date: 2024-05-30 22:57:38
-updated: 2024-05-31 10:29:36
+date: 2024-06-03T04:32:26.390Z
+updated: 2024-06-04T04:32:26.390Z
 tags: 
   - screen-recording
   - ai video

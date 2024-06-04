@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Kinemaster Way to Enthralling Transitions"
-date: 2024-05-29 18:11:31
-updated: 2024-06-01 11:59:21
+date: 2024-06-03T04:24:05.978Z
+updated: 2024-06-04T04:24:05.978Z
 tags: 
   - screen-recording
   - ai video

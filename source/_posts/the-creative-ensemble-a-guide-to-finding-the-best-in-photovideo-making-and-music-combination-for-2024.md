@@ -1,7 +1,7 @@
 ---
 title: "\"The Creative Ensemble  A Guide to Finding the Best in Photo/Video Making & Music Combination for 2024\""
-date: 2024-05-31 10:29:35
-updated: 2024-06-01 11:37:33
+date: 2024-06-03T04:03:44.685Z
+updated: 2024-06-04T04:03:44.685Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Methods  Syncing iOS Images & Movies to Windows for 2024\""
-date: 2024-05-29 13:26:18
-updated: 2024-05-30 11:17:22
+date: 2024-06-03T04:41:44.934Z
+updated: 2024-06-04T04:41:44.934Z
 tags: 
   - screen-recording
   - ai video

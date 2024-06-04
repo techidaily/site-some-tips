@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate DJI Phantom 4 Extension Kit List"
-date: 2024-05-31 15:13:34
-updated: 2024-06-01 11:22:52
+date: 2024-06-03T04:09:53.839Z
+updated: 2024-06-04T04:09:53.839Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Footage  Techniques for Outstanding GoPro Edits\""
-date: 2024-06-01 16:30:56
-updated: 2024-06-02 12:42:55
+date: 2024-06-03T04:03:58.682Z
+updated: 2024-06-04T04:03:58.682Z
 tags: 
   - screen-recording
   - ai video

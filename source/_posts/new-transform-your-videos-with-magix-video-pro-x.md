@@ -1,7 +1,7 @@
 ---
 title: "[New] Transform Your Videos with Magix Video Pro X"
-date: 2024-06-01 17:30:45
-updated: 2024-06-02 10:40:53
+date: 2024-06-03T04:05:43.759Z
+updated: 2024-06-04T04:05:43.759Z
 tags: 
   - screen-recording
   - ai video

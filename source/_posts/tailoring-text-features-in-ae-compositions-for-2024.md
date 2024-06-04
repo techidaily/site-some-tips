@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Text Features in AE Compositions for 2024"
-date: 2024-05-28 16:32:58
-updated: 2024-05-31 12:41:44
+date: 2024-06-03T04:31:44.805Z
+updated: 2024-06-04T04:31:44.805Z
 tags: 
   - screen-recording
   - ai video

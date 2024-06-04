@@ -1,7 +1,7 @@
 ---
 title: "\"The Quintessential List  Best Tales From YouTube in '23 for 2024\""
-date: 2024-05-29 14:31:24
-updated: 2024-06-01 11:20:34
+date: 2024-06-03T04:38:06.346Z
+updated: 2024-06-04T04:38:06.346Z
 tags: 
   - screen-recording
   - ai video

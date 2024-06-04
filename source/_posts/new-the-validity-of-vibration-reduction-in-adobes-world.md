@@ -1,7 +1,7 @@
 ---
 title: "[New] The Validity of Vibration Reduction in Adobe's World"
-date: 2024-05-29 14:51:19
-updated: 2024-06-01 10:11:24
+date: 2024-06-03T04:48:09.468Z
+updated: 2024-06-04T04:48:09.468Z
 tags: 
   - screen-recording
   - ai video

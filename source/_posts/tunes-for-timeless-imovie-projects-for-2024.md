@@ -1,7 +1,7 @@
 ---
 title: "Tunes for Timeless iMovie Projects for 2024"
-date: 2024-05-30 14:45:55
-updated: 2024-06-02 10:19:23
+date: 2024-06-03T03:52:31.955Z
+updated: 2024-06-04T03:52:31.955Z
 tags: 
   - screen-recording
   - ai video

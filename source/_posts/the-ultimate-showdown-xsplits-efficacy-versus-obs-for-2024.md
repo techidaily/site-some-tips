@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Showdown  XSplit's Efficacy Versus OBS for 2024\""
-date: 2024-05-30 20:42:38
-updated: 2024-06-01 11:41:35
+date: 2024-06-03T04:20:39.033Z
+updated: 2024-06-04T04:20:39.033Z
 tags: 
   - screen-recording
   - ai video

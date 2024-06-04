@@ -1,7 +1,7 @@
 ---
 title: "The Case for High Dynamic Range in Modern Videography for 2024"
-date: 2024-05-30 10:32:43
-updated: 2024-06-01 12:29:39
+date: 2024-06-03T04:07:55.039Z
+updated: 2024-06-04T04:07:55.039Z
 tags: 
   - screen-recording
   - ai video

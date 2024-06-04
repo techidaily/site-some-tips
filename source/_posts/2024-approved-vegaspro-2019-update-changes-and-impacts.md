@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  VegasPro 2019 Update  Changes & Impacts\""
-date: 2024-06-01 15:15:54
-updated: 2024-06-03 11:38:11
+date: 2024-06-03T04:42:37.328Z
+updated: 2024-06-04T04:42:37.328Z
 tags: 
   - screen-recording
   - ai video

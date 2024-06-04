@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Shots  A Windows 11 Guide\""
-date: 2024-05-29 11:33:16
-updated: 2024-05-31 12:18:30
+date: 2024-06-03T03:54:47.673Z
+updated: 2024-06-04T03:54:47.673Z
 tags: 
   - screen-recording
   - ai video

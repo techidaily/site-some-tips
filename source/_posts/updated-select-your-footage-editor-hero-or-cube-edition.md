@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Select Your Footage Editor  Hero or Cube Edition?\""
-date: 2024-05-27 21:45:18
-updated: 2024-05-30 10:14:50
+date: 2024-06-03T04:31:20.761Z
+updated: 2024-06-04T04:31:20.761Z
 tags: 
   - screen-recording
   - ai video

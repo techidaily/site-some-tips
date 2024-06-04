@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide to Angular Video Compilation (Android)\""
-date: 2024-05-29 18:30:48
-updated: 2024-06-01 12:38:33
+date: 2024-06-03T03:47:55.436Z
+updated: 2024-06-04T03:47:55.436Z
 tags: 
   - screen-recording
   - ai video

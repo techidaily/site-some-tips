@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling AR  A Modern Illusionist's Toolkit\""
-date: 2024-05-31 12:17:43
-updated: 2024-06-03 11:59:40
+date: 2024-06-03T04:12:57.569Z
+updated: 2024-06-04T04:12:57.569Z
 tags: 
   - screen-recording
   - ai video

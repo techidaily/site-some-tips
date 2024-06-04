@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your iPhone Videos  Shorten & Resize with Ease\""
-date: 2024-05-31 13:13:18
-updated: 2024-06-02 12:34:36
+date: 2024-06-03T04:10:49.084Z
+updated: 2024-06-04T04:10:49.084Z
 tags: 
   - screen-recording
   - ai video

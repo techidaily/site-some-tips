@@ -1,7 +1,7 @@
 ---
 title: "\"GoPro Hero 4 Vs Sony DSLR for Extreme Sports  Which Rules the Arena for 2024\""
-date: 2024-05-25 21:58:20
-updated: 2024-05-27 12:59:32
+date: 2024-06-03T04:37:51.145Z
+updated: 2024-06-04T04:37:51.145Z
 tags: 
   - screen-recording
   - ai video

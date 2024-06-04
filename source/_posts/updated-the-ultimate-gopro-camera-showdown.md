@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate GoPro Camera Showdown"
-date: 2024-05-30 20:58:42
-updated: 2024-06-01 11:49:11
+date: 2024-06-03T04:22:20.345Z
+updated: 2024-06-04T04:22:20.345Z
 tags: 
   - screen-recording
   - ai video

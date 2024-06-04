@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Thorough Breakdown  The DJI Inspire 1 Features\""
-date: 2024-05-30 15:40:15
-updated: 2024-06-01 10:41:50
+date: 2024-06-03T04:30:52.049Z
+updated: 2024-06-04T04:30:52.049Z
 tags: 
   - screen-recording
   - ai video

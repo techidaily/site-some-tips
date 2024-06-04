@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Solution for Stopping YouTube Video Previews"
-date: 2024-05-31 16:12:39
-updated: 2024-06-01 11:23:59
+date: 2024-06-03T03:50:09.228Z
+updated: 2024-06-04T03:50:09.228Z
 tags: 
   - screen-recording
   - ai video

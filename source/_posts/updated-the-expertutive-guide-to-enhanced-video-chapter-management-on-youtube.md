@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Expert'utive Guide to Enhanced Video Chapter Management on YouTube"
-date: 2024-05-30 14:38:10
-updated: 2024-06-01 10:22:27
+date: 2024-06-03T03:43:35.767Z
+updated: 2024-06-04T03:43:35.767Z
 tags: 
   - screen-recording
   - ai video

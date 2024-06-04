@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleashing Your Creative Potential  Expert-Led Audio Transition Workshops in Audacity\""
-date: 2024-05-31 21:58:19
-updated: 2024-06-03 10:41:37
+date: 2024-06-03T04:43:22.202Z
+updated: 2024-06-04T04:43:22.202Z
 tags: 
   - screen-recording
   - ai video

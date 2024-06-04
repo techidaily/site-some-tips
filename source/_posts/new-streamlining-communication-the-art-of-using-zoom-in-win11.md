@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining Communication  The Art of Using Zoom in Win11\""
-date: 2024-05-29 13:25:43
-updated: 2024-05-31 10:18:31
+date: 2024-06-03T03:55:01.341Z
+updated: 2024-06-04T03:55:01.341Z
 tags: 
   - screen-recording
   - ai video

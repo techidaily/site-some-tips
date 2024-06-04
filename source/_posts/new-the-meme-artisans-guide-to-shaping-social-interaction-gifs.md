@@ -1,7 +1,7 @@
 ---
 title: "[New] The Meme Artisan's Guide to Shaping Social Interaction (GIFs)"
-date: 2024-05-30 23:22:41
-updated: 2024-06-01 10:20:49
+date: 2024-06-03T04:37:59.991Z
+updated: 2024-06-04T04:37:59.991Z
 tags: 
   - screen-recording
   - ai video

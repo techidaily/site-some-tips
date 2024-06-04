@@ -1,7 +1,7 @@
 ---
 title: "\"Simplified Approach to Download YouTube Captions  3 Proven Methods for 2024\""
-date: 2024-05-28 19:48:13
-updated: 2024-05-31 12:27:28
+date: 2024-06-03T03:55:38.280Z
+updated: 2024-06-04T03:55:38.280Z
 tags: 
   - screen-recording
   - ai video

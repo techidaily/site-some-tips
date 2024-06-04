@@ -1,7 +1,7 @@
 ---
 title: "Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024"
-date: 2024-05-31 19:59:19
-updated: 2024-06-03 12:56:59
+date: 2024-06-03T04:26:34.946Z
+updated: 2024-06-04T04:26:34.946Z
 tags: 
   - screen-recording
   - ai video

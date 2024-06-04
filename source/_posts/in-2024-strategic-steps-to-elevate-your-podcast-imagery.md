@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategic Steps to Elevate Your Podcast Imagery"
-date: 2024-05-29 18:36:49
-updated: 2024-05-31 11:51:11
+date: 2024-06-03T04:45:47.121Z
+updated: 2024-06-04T04:45:47.121Z
 tags: 
   - screen-recording
   - ai video

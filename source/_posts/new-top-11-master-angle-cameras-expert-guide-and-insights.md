@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 11 Master Angle Cameras  Expert Guide & Insights\""
-date: 2024-05-30 10:21:11
-updated: 2024-06-02 10:30:38
+date: 2024-06-03T04:50:45.906Z
+updated: 2024-06-04T04:50:45.906Z
 tags: 
   - screen-recording
   - ai video

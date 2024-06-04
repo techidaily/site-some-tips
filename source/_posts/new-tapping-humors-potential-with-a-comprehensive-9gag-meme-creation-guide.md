@@ -1,7 +1,7 @@
 ---
 title: "[New] Tapping Humor's Potential with a Comprehensive 9GAG Meme Creation Guide"
-date: 2024-05-29 14:47:31
-updated: 2024-05-31 11:47:36
+date: 2024-06-03T03:48:40.999Z
+updated: 2024-06-04T03:48:40.999Z
 tags: 
   - screen-recording
   - ai video

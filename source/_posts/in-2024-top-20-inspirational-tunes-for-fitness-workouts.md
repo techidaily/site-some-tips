@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 20 Inspirational Tunes for Fitness Workouts"
-date: 2024-05-30 10:16:10
-updated: 2024-06-02 10:31:41
+date: 2024-06-03T04:30:33.648Z
+updated: 2024-06-04T04:30:33.648Z
 tags: 
   - screen-recording
   - ai video

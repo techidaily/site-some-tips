@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Understanding Budgets  YouTube Marketing Investments\""
-date: 2024-06-01 19:18:32
-updated: 2024-06-02 12:51:52
+date: 2024-06-03T04:11:44.748Z
+updated: 2024-06-04T04:11:44.748Z
 tags: 
   - screen-recording
   - ai video

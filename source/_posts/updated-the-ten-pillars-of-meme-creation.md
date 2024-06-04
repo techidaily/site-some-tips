@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ten Pillars of Meme Creation"
-date: 2024-05-29 11:35:26
-updated: 2024-06-01 11:18:59
+date: 2024-06-03T04:28:44.220Z
+updated: 2024-06-04T04:28:44.220Z
 tags: 
   - screen-recording
   - ai video

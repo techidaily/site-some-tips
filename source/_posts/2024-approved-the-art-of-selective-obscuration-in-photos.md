@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Selective Obscuration in Photos\""
-date: 2024-05-29 18:48:45
-updated: 2024-06-01 11:34:48
+date: 2024-06-03T04:47:20.287Z
+updated: 2024-06-04T04:47:20.287Z
 tags: 
   - screen-recording
   - ai video

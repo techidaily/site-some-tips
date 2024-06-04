@@ -1,7 +1,7 @@
 ---
 title: "The Editor's Playbook for Drone Imagery for 2024"
-date: 2024-05-31 23:21:46
-updated: 2024-06-01 11:39:57
+date: 2024-06-03T04:42:53.577Z
+updated: 2024-06-04T04:42:53.577Z
 tags: 
   - screen-recording
   - ai video

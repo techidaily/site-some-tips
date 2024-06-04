@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vector Editing Revolution  Post-ACID Pro Era\""
-date: 2024-06-02 23:41:14
-updated: 2024-06-03 12:39:55
+date: 2024-06-03T04:33:02.286Z
+updated: 2024-06-04T04:33:02.286Z
 tags: 
   - screen-recording
   - ai video

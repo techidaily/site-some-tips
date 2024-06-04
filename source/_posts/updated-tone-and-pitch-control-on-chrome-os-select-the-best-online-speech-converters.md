@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tone and Pitch Control on Chrome OS  Select the Best Online Speech Converters\""
-date: 2024-06-01 22:58:27
-updated: 2024-06-02 11:24:53
+date: 2024-06-03T04:41:24.411Z
+updated: 2024-06-04T04:41:24.411Z
 tags: 
   - screen-recording
   - ai video

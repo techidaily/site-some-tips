@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Review of LG BP350 for Home Theaters\""
-date: 2024-05-31 15:37:34
-updated: 2024-06-02 12:57:15
+date: 2024-06-03T04:14:38.248Z
+updated: 2024-06-04T04:14:38.248Z
 tags: 
   - screen-recording
   - ai video

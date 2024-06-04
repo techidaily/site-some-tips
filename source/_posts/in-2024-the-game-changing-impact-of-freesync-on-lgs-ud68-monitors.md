@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Game-Changing Impact of FreeSync on LG's UD68 Monitors\""
-date: 2024-05-29 14:58:10
-updated: 2024-06-01 11:28:22
+date: 2024-06-03T04:09:13.617Z
+updated: 2024-06-04T04:09:13.617Z
 tags: 
   - screen-recording
   - ai video

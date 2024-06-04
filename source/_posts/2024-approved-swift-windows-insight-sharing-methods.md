@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Windows Insight Sharing Methods\""
-date: 2024-05-29 10:31:30
-updated: 2024-05-31 11:51:36
+date: 2024-06-03T03:55:52.183Z
+updated: 2024-06-04T03:55:52.183Z
 tags: 
   - screen-recording
   - ai video

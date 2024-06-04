@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Pioneering Virtual Voyages with Jaunt VR"
-date: 2024-05-28 15:15:18
-updated: 2024-05-29 11:46:11
+date: 2024-06-03T04:45:46.413Z
+updated: 2024-06-04T04:45:46.413Z
 tags: 
   - screen-recording
   - ai video

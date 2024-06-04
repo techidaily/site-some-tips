@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking Potential in Spotify's Ad Ecosystem"
-date: 2024-06-01 13:24:51
-updated: 2024-06-03 12:40:11
+date: 2024-06-03T04:12:01.497Z
+updated: 2024-06-04T04:12:01.497Z
 tags: 
   - screen-recording
   - ai video

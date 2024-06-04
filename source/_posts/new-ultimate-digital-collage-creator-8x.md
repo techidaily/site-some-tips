@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Digital Collage Creator 8X"
-date: 2024-05-31 11:12:35
-updated: 2024-06-02 10:23:44
+date: 2024-06-03T04:40:05.686Z
+updated: 2024-06-04T04:40:05.686Z
 tags: 
   - screen-recording
   - ai video

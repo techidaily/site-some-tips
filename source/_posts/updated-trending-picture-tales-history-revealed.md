@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Trending Picture Tales  History Revealed\""
-date: 2024-05-31 22:21:30
-updated: 2024-06-02 10:46:57
+date: 2024-06-03T04:05:26.570Z
+updated: 2024-06-04T04:05:26.570Z
 tags: 
   - screen-recording
   - ai video

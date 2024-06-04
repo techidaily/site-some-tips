@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Images Into Textbooks  Photo Text Editor Hacks\""
-date: 2024-06-01 11:42:15
-updated: 2024-06-02 10:39:20
+date: 2024-06-03T03:52:05.931Z
+updated: 2024-06-04T03:52:05.931Z
 tags: 
   - screen-recording
   - ai video

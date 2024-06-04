@@ -1,7 +1,7 @@
 ---
 title: "The Complete GIF Maker's Manual for 2024"
-date: 2024-05-31 13:51:23
-updated: 2024-06-01 12:21:47
+date: 2024-06-03T04:39:39.807Z
+updated: 2024-06-04T04:39:39.807Z
 tags: 
   - screen-recording
   - ai video

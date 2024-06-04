@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategies for Dampening Aerial Drone Vibration Artifacts"
-date: 2024-05-30 21:34:55
-updated: 2024-05-31 11:49:50
+date: 2024-06-03T04:48:05.221Z
+updated: 2024-06-04T04:48:05.221Z
 tags: 
   - screen-recording
   - ai video

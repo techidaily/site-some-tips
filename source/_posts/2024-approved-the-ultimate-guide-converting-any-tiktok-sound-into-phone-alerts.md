@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide  Converting Any TikTok Sound Into Phone Alerts\""
-date: 2024-05-31 21:46:53
-updated: 2024-06-01 12:12:27
+date: 2024-06-03T04:34:06.797Z
+updated: 2024-06-04T04:34:06.797Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Unshake Your iPhone Videos  3 Stabilization Hacks Revealed for 2024\""
-date: 2024-05-31 21:13:23
-updated: 2024-06-03 10:20:46
+date: 2024-06-03T04:34:56.071Z
+updated: 2024-06-04T04:34:56.071Z
 tags: 
   - screen-recording
   - ai video

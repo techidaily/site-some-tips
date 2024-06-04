@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Video Content Using Story Remix on Windows Photos"
-date: 2024-05-31 22:14:57
-updated: 2024-06-02 10:57:52
+date: 2024-06-03T04:35:02.438Z
+updated: 2024-06-04T04:35:02.438Z
 tags: 
   - screen-recording
   - ai video

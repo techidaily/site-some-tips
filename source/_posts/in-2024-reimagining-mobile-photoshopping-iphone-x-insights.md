@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Reimagining Mobile Photoshopping  IPhone X Insights\""
-date: 2024-05-28 10:59:49
-updated: 2024-05-30 11:38:50
+date: 2024-06-03T03:42:53.524Z
+updated: 2024-06-04T03:42:53.524Z
 tags: 
   - screen-recording
   - ai video

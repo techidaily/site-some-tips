@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Melody in Motion  IPhone's Role in Making Music Videos\""
-date: 2024-05-25 23:23:10
-updated: 2024-05-28 10:18:31
+date: 2024-06-03T04:10:18.801Z
+updated: 2024-06-04T04:10:18.801Z
 tags: 
   - screen-recording
   - ai video

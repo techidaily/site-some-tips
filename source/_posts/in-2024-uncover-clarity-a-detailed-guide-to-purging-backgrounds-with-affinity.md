@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uncover Clarity  A Detailed Guide to Purging Backgrounds with Affinity\""
-date: 2024-06-01 14:33:23
-updated: 2024-06-02 11:23:33
+date: 2024-06-03T04:31:38.465Z
+updated: 2024-06-04T04:31:38.465Z
 tags: 
   - screen-recording
   - ai video

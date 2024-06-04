@@ -1,7 +1,7 @@
 ---
 title: "Understanding How ASMR Can Benefit Your Life for 2024"
-date: 2024-06-01 16:38:37
-updated: 2024-06-02 12:13:46
+date: 2024-06-03T04:49:52.594Z
+updated: 2024-06-04T04:49:52.594Z
 tags: 
   - screen-recording
   - ai video

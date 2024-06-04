@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Your Brand with Smart Spotify Marketing"
-date: 2024-05-30 17:22:19
-updated: 2024-06-02 10:28:39
+date: 2024-06-03T03:47:31.741Z
+updated: 2024-06-04T03:47:31.741Z
 tags: 
   - screen-recording
   - ai video

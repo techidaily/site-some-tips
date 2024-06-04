@@ -1,7 +1,7 @@
 ---
 title: "[New] The Composer's Guide to iMovie Soundscape"
-date: 2024-05-29 16:16:40
-updated: 2024-06-01 11:48:16
+date: 2024-06-03T03:44:59.333Z
+updated: 2024-06-04T03:44:59.333Z
 tags: 
   - screen-recording
   - ai video

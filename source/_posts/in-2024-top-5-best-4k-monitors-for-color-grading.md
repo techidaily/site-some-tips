@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 5 Best 4K Monitors for Color Grading"
-date: 2024-06-01 13:44:51
-updated: 2024-06-02 12:56:31
+date: 2024-06-03T04:19:56.802Z
+updated: 2024-06-04T04:19:56.802Z
 tags: 
   - screen-recording
   - ai video

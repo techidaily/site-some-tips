@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleashing Humor  The Kapwing Meme Builder Way\""
-date: 2024-06-02 23:50:33
-updated: 2024-06-03 11:59:10
+date: 2024-06-03T04:10:41.261Z
+updated: 2024-06-04T04:10:41.261Z
 tags: 
   - screen-recording
   - ai video

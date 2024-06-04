@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques for Maximizing GoPro Battery Life"
-date: 2024-05-28 18:43:37
-updated: 2024-05-31 11:14:14
+date: 2024-06-03T04:12:11.429Z
+updated: 2024-06-04T04:12:11.429Z
 tags: 
   - screen-recording
   - ai video

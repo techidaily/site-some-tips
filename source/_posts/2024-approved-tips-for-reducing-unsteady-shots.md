@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Reducing Unsteady Shots\""
-date: 2024-05-30 17:55:41
-updated: 2024-06-02 12:56:36
+date: 2024-06-03T03:44:15.969Z
+updated: 2024-06-04T03:44:15.969Z
 tags: 
   - screen-recording
   - ai video

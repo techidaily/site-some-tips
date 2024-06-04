@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Managing Video Layouts in Zoom for Windows 11 Users for 2024"
-date: 2024-05-30 21:32:56
-updated: 2024-06-02 10:55:12
+date: 2024-06-03T04:37:02.700Z
+updated: 2024-06-04T04:37:02.700Z
 tags: 
   - screen-recording
   - ai video

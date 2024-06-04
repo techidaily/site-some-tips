@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior Editing Software Tailored to DJi Filmmaking"
-date: 2024-05-30 17:25:23
-updated: 2024-05-31 10:29:31
+date: 2024-06-03T04:31:39.873Z
+updated: 2024-06-04T04:31:39.873Z
 tags: 
   - screen-recording
   - ai video

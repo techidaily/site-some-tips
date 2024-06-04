@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to Blur Techniques for Dynamic Artwork"
-date: 2024-05-29 20:19:24
-updated: 2024-06-01 11:40:36
+date: 2024-06-03T04:14:05.119Z
+updated: 2024-06-04T04:14:05.119Z
 tags: 
   - screen-recording
   - ai video

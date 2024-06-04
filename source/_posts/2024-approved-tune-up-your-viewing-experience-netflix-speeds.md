@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tune-Up Your Viewing Experience - Netflix Speeds\""
-date: 2024-05-30 15:26:31
-updated: 2024-06-02 11:53:13
+date: 2024-06-03T04:16:09.353Z
+updated: 2024-06-04T04:16:09.353Z
 tags: 
   - screen-recording
   - ai video

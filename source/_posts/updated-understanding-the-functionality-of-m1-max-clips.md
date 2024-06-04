@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Functionality of M1 Max Clips"
-date: 2024-05-31 12:48:40
-updated: 2024-06-02 12:53:55
+date: 2024-06-03T03:51:03.484Z
+updated: 2024-06-04T03:51:03.484Z
 tags: 
   - screen-recording
   - ai video

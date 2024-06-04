@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Your Inner Comedy with GIF Mastery"
-date: 2024-06-02 10:45:30
-updated: 2024-06-03 10:38:28
+date: 2024-06-03T04:27:23.430Z
+updated: 2024-06-04T04:27:23.430Z
 tags: 
   - screen-recording
   - ai video

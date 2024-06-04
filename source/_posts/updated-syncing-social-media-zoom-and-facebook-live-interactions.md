@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Syncing Social Media  Zoom and Facebook Live Interactions\""
-date: 2024-05-29 10:56:47
-updated: 2024-05-31 10:11:33
+date: 2024-06-03T04:19:05.684Z
+updated: 2024-06-04T04:19:05.684Z
 tags: 
   - screen-recording
   - ai video

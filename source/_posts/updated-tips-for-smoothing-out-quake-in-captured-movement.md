@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Smoothing Out Quake in Captured Movement"
-date: 2024-06-01 18:29:15
-updated: 2024-06-02 12:58:42
+date: 2024-06-03T04:50:24.588Z
+updated: 2024-06-04T04:50:24.588Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Your Video Production with KineMaster & Leading Alternatives\""
-date: 2024-05-28 10:53:30
-updated: 2024-05-31 10:45:16
+date: 2024-06-03T04:49:26.317Z
+updated: 2024-06-04T04:49:26.317Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68)"
-date: 2024-05-30 11:43:13
-updated: 2024-06-01 10:39:47
+date: 2024-06-03T04:06:15.491Z
+updated: 2024-06-04T04:06:15.491Z
 tags: 
   - screen-recording
   - ai video

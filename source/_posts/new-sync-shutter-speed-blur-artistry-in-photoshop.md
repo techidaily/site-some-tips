@@ -1,7 +1,7 @@
 ---
 title: "[New] Sync Shutter Speed Blur Artistry in Photoshop"
-date: 2024-05-29 23:36:25
-updated: 2024-05-31 12:30:39
+date: 2024-06-03T04:17:50.709Z
+updated: 2024-06-04T04:17:50.709Z
 tags: 
   - screen-recording
   - ai video

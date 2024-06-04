@@ -1,7 +1,7 @@
 ---
 title: "[New] Transforming Audio to Text on Slides for PPT"
-date: 2024-05-30 21:14:21
-updated: 2024-06-02 11:46:22
+date: 2024-06-03T04:38:02.100Z
+updated: 2024-06-04T04:38:02.100Z
 tags: 
   - screen-recording
   - ai video

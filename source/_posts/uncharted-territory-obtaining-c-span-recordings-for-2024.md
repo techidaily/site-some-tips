@@ -1,7 +1,7 @@
 ---
 title: "\"Uncharted Territory  Obtaining C-Span Recordings for 2024\""
-date: 2024-05-31 20:42:53
-updated: 2024-06-02 12:51:55
+date: 2024-06-03T04:39:42.647Z
+updated: 2024-06-04T04:39:42.647Z
 tags: 
   - screen-recording
   - ai video

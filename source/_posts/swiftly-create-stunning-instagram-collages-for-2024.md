@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Create Stunning Instagram Collages for 2024"
-date: 2024-05-28 14:24:42
-updated: 2024-05-31 11:39:34
+date: 2024-06-03T04:09:29.303Z
+updated: 2024-06-04T04:09:29.303Z
 tags: 
   - screen-recording
   - ai video

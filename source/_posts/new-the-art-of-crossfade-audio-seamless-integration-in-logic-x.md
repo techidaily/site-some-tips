@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Crossfade Audio  Seamless Integration in Logic X\""
-date: 2024-05-30 10:16:32
-updated: 2024-06-01 11:47:23
+date: 2024-06-03T04:36:52.779Z
+updated: 2024-06-04T04:36:52.779Z
 tags: 
   - screen-recording
   - ai video

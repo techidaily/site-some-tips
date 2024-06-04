@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential List of Filmmaking Gear for Newcomers\""
-date: 2024-05-30 22:16:27
-updated: 2024-06-01 12:45:43
+date: 2024-06-03T03:48:28.271Z
+updated: 2024-06-04T03:48:28.271Z
 tags: 
   - screen-recording
   - ai video

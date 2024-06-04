@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Full Potential of Zoom in Your Xbox Setup\""
-date: 2024-05-31 23:57:41
-updated: 2024-06-03 10:30:36
+date: 2024-06-03T04:39:24.276Z
+updated: 2024-06-04T04:39:24.276Z
 tags: 
   - screen-recording
   - ai video

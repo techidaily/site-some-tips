@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023 for 2024"
-date: 2024-05-30 23:55:20
-updated: 2024-06-01 10:57:12
+date: 2024-06-03T04:39:06.247Z
+updated: 2024-06-04T04:39:06.247Z
 tags: 
   - screen-recording
   - ai video

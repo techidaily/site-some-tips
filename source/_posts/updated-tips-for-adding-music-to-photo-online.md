@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Adding Music to Photo Online"
-date: 2024-05-31 22:53:53
-updated: 2024-06-02 12:25:35
+date: 2024-06-03T04:20:46.098Z
+updated: 2024-06-04T04:20:46.098Z
 tags: 
   - screen-recording
   - ai video

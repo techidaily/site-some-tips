@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Next Generation of Social Video  Periscope's Counterparts\""
-date: 2024-05-30 17:56:50
-updated: 2024-06-01 11:52:41
+date: 2024-06-03T04:11:24.139Z
+updated: 2024-06-04T04:11:24.139Z
 tags: 
   - screen-recording
   - ai video

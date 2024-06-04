@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveil the Art of Creating Astonishing GoPro Time-Lapse Videos\""
-date: 2024-06-02 11:40:28
-updated: 2024-06-03 11:33:16
+date: 2024-06-03T04:44:54.988Z
+updated: 2024-06-04T04:44:54.988Z
 tags: 
   - screen-recording
   - ai video

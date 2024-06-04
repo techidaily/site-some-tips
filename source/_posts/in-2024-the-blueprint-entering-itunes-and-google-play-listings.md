@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Blueprint  Entering iTunes and Google Play Listings\""
-date: 2024-05-31 14:50:59
-updated: 2024-06-01 10:40:18
+date: 2024-06-03T04:25:13.345Z
+updated: 2024-06-04T04:25:13.345Z
 tags: 
   - screen-recording
   - ai video

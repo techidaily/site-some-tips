@@ -1,7 +1,7 @@
 ---
 title: "\"Top Audio Interfaces Unveiled  The Podcaster's Must-Have List for 2024\""
-date: 2024-05-31 18:28:24
-updated: 2024-06-02 10:15:26
+date: 2024-06-03T03:54:02.229Z
+updated: 2024-06-04T03:54:02.229Z
 tags: 
   - screen-recording
   - ai video

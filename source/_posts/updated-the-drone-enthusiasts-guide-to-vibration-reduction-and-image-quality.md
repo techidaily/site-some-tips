@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality"
-date: 2024-05-30 16:46:51
-updated: 2024-06-01 10:30:11
+date: 2024-06-03T03:44:08.817Z
+updated: 2024-06-04T03:44:08.817Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Technicalities of Podcast RSS File Design"
-date: 2024-05-29 14:37:49
-updated: 2024-06-01 10:43:34
+date: 2024-06-03T04:19:08.514Z
+updated: 2024-06-04T04:19:08.514Z
 tags: 
   - screen-recording
   - ai video

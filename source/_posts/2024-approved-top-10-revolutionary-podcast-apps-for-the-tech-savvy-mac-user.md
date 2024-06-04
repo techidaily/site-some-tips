@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Revolutionary Podcast Apps for the Tech-Savvy Mac User\""
-date: 2024-06-01 12:57:38
-updated: 2024-06-02 10:18:30
+date: 2024-06-03T04:36:43.563Z
+updated: 2024-06-04T04:36:43.563Z
 tags: 
   - screen-recording
   - ai video

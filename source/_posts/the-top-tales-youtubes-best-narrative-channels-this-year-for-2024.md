@@ -1,7 +1,7 @@
 ---
 title: "\"The Top Tales  YouTube’s Best Narrative Channels This Year for 2024\""
-date: 2024-05-29 20:27:37
-updated: 2024-06-01 10:33:32
+date: 2024-06-03T03:50:19.543Z
+updated: 2024-06-04T03:50:19.543Z
 tags: 
   - screen-recording
   - ai video

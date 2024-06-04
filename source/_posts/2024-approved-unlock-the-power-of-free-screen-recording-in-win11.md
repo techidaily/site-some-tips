@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Power of Free Screen Recording in Win11\""
-date: 2024-06-01 20:34:41
-updated: 2024-06-03 10:37:42
+date: 2024-06-03T04:44:42.953Z
+updated: 2024-06-04T04:44:42.953Z
 tags: 
   - screen-recording
   - ai video

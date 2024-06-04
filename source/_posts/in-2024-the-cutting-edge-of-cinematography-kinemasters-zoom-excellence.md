@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Cutting Edge of Cinematography  Kinemaster’s Zoom Excellence\""
-date: 2024-05-31 17:24:43
-updated: 2024-06-01 12:55:53
+date: 2024-06-03T04:32:07.046Z
+updated: 2024-06-04T04:32:07.046Z
 tags: 
   - screen-recording
   - ai video

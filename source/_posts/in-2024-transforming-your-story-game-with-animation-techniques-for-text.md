@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Your Story Game with Animation Techniques for Text"
-date: 2024-06-01 18:40:58
-updated: 2024-06-02 11:47:18
+date: 2024-06-03T04:08:48.280Z
+updated: 2024-06-04T04:08:48.280Z
 tags: 
   - screen-recording
   - ai video

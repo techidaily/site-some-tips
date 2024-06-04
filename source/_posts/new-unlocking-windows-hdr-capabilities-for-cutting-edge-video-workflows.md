@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows\""
-date: 2024-06-02 23:29:19
-updated: 2024-06-03 10:58:42
+date: 2024-06-03T04:09:25.719Z
+updated: 2024-06-04T04:09:25.719Z
 tags: 
   - screen-recording
   - ai video

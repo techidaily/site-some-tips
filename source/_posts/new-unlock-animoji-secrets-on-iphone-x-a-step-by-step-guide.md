@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide\""
-date: 2024-06-02 18:12:24
-updated: 2024-06-03 12:46:31
+date: 2024-06-03T04:40:09.233Z
+updated: 2024-06-04T04:40:09.233Z
 tags: 
   - screen-recording
   - ai video

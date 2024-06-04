@@ -1,7 +1,7 @@
 ---
 title: "Understanding LUTs in the Realm of Photographic Mastery for 2024"
-date: 2024-05-31 21:29:58
-updated: 2024-06-02 10:30:55
+date: 2024-06-03T04:29:43.356Z
+updated: 2024-06-04T04:29:43.356Z
 tags: 
   - screen-recording
   - ai video

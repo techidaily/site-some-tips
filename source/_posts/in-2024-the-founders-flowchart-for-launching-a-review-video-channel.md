@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Founder's Flowchart for Launching a Review Video Channel"
-date: 2024-05-31 17:28:54
-updated: 2024-06-01 11:38:43
+date: 2024-06-03T04:08:46.863Z
+updated: 2024-06-04T04:08:46.863Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Unveil the Subject  Background Removal Techniques in Photopea for 2024\""
-date: 2024-06-01 23:30:45
-updated: 2024-06-03 10:10:49
+date: 2024-06-03T03:43:32.929Z
+updated: 2024-06-04T03:43:32.929Z
 tags: 
   - screen-recording
   - ai video

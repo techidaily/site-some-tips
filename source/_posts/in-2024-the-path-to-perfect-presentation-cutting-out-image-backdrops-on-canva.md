@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Path to Perfect Presentation  Cutting Out Image Backdrops on Canva\""
-date: 2024-05-31 10:31:31
-updated: 2024-06-01 11:29:14
+date: 2024-06-03T03:51:10.594Z
+updated: 2024-06-04T03:51:10.594Z
 tags: 
   - screen-recording
   - ai video

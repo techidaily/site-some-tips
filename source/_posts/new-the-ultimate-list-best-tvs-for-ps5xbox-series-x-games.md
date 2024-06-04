@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate List  Best TVs for PS5/Xbox Series X Games\""
-date: 2024-05-29 11:16:13
-updated: 2024-06-01 12:19:55
+date: 2024-06-03T04:47:37.988Z
+updated: 2024-06-04T04:47:37.988Z
 tags: 
   - screen-recording
   - ai video

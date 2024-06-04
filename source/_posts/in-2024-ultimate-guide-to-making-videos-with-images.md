@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Guide to Making Videos with Images"
-date: 2024-05-30 21:17:45
-updated: 2024-06-02 11:57:48
+date: 2024-06-03T04:22:37.117Z
+updated: 2024-06-04T04:22:37.117Z
 tags: 
   - screen-recording
   - ai video

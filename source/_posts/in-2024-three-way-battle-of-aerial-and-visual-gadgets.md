@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Three-Way Battle of Aerial and Visual Gadgets\""
-date: 2024-05-29 23:46:52
-updated: 2024-06-01 11:55:30
+date: 2024-06-03T04:32:09.889Z
+updated: 2024-06-04T04:32:09.889Z
 tags: 
   - screen-recording
   - ai video

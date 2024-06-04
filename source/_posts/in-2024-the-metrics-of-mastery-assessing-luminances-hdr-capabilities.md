@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Metrics of Mastery  Assessing Luminance's HDR Capabilities\""
-date: 2024-05-31 22:54:44
-updated: 2024-06-01 12:10:54
+date: 2024-06-03T04:42:10.785Z
+updated: 2024-06-04T04:42:10.785Z
 tags: 
   - screen-recording
   - ai video

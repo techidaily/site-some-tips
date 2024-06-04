@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Future of Display Technology with EIZO's High-Res Monitor\""
-date: 2024-05-29 10:14:19
-updated: 2024-06-01 10:10:24
+date: 2024-06-03T04:34:36.956Z
+updated: 2024-06-04T04:34:36.956Z
 tags: 
   - screen-recording
   - ai video

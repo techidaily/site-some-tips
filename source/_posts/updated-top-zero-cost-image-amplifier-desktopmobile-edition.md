@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Zero-Cost Image Amplifier  Desktop/Mobile Edition\""
-date: 2024-05-31 20:29:38
-updated: 2024-06-02 11:30:55
+date: 2024-06-03T04:25:01.591Z
+updated: 2024-06-04T04:25:01.591Z
 tags: 
   - screen-recording
   - ai video

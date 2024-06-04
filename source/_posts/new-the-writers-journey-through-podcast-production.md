@@ -1,7 +1,7 @@
 ---
 title: "[New] The Writer's Journey Through Podcast Production"
-date: 2024-05-29 13:23:16
-updated: 2024-06-01 11:23:33
+date: 2024-06-03T04:07:52.178Z
+updated: 2024-06-04T04:07:52.178Z
 tags: 
   - screen-recording
   - ai video

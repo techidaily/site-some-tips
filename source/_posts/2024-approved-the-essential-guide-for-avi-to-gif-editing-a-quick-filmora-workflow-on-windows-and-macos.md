@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Guide for AVI-to-GIF Editing  A Quick Filmora Workflow on Windows & macOS\""
-date: 2024-05-31 19:32:38
-updated: 2024-06-01 12:37:46
+date: 2024-06-03T04:28:18.427Z
+updated: 2024-06-04T04:28:18.427Z
 tags: 
   - screen-recording
   - ai video

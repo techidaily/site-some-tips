@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleashing 3D Text  A Photoshop Technique\""
-date: 2024-05-31 21:14:34
-updated: 2024-06-03 10:12:26
+date: 2024-06-03T04:02:14.879Z
+updated: 2024-06-04T04:02:14.879Z
 tags: 
   - screen-recording
   - ai video

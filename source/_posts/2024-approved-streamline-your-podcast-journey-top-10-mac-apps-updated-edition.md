@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Podcast Journey  Top 10 Mac Apps (Updated Edition)\""
-date: 2024-05-29 15:48:36
-updated: 2024-05-31 10:14:33
+date: 2024-06-03T04:11:46.189Z
+updated: 2024-06-04T04:11:46.189Z
 tags: 
   - screen-recording
   - ai video

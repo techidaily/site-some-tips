@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Action Camera Review  GoPro Vs. Yi 4K - Fresh Perspectives\""
-date: 2024-05-30 19:41:59
-updated: 2024-06-02 11:15:12
+date: 2024-06-03T04:40:22.697Z
+updated: 2024-06-04T04:40:22.697Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Close-Up Views in Minecraft for 2024\""
-date: 2024-05-27 10:13:24
-updated: 2024-05-28 11:48:14
+date: 2024-06-03T04:46:24.966Z
+updated: 2024-06-04T04:46:24.966Z
 tags: 
   - screen-recording
   - ai video

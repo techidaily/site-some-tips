@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Total Exploration  The DJI Phantom 4 Experience Reviewed\""
-date: 2024-05-31 12:50:32
-updated: 2024-06-02 11:36:57
+date: 2024-06-03T04:46:21.444Z
+updated: 2024-06-04T04:46:21.444Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies for Dominating Spotify's Advertising Space"
-date: 2024-05-30 10:22:53
-updated: 2024-05-31 10:58:50
+date: 2024-06-03T03:43:51.031Z
+updated: 2024-06-04T03:43:51.031Z
 tags: 
   - screen-recording
   - ai video

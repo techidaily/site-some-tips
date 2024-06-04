@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transform AVIs Into GIFs  A Step-by-Step Filmora Guide for PC and Mac\""
-date: 2024-05-31 12:55:23
-updated: 2024-06-02 10:19:22
+date: 2024-06-03T04:04:10.803Z
+updated: 2024-06-04T04:04:10.803Z
 tags: 
   - screen-recording
   - ai video

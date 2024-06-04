@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos"
-date: 2024-05-31 17:19:14
-updated: 2024-06-02 10:26:17
+date: 2024-06-03T04:52:14.001Z
+updated: 2024-06-04T04:52:14.001Z
 tags: 
   - screen-recording
   - ai video

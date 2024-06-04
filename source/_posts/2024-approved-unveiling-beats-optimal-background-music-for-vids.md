@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Beats  Optimal Background Music for Vids\""
-date: 2024-06-01 15:53:55
-updated: 2024-06-03 11:37:39
+date: 2024-06-03T04:23:35.764Z
+updated: 2024-06-04T04:23:35.764Z
 tags: 
   - screen-recording
   - ai video

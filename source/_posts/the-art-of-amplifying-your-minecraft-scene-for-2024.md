@@ -1,7 +1,7 @@
 ---
 title: "The Art of Amplifying Your Minecraft Scene for 2024"
-date: 2024-05-30 13:22:50
-updated: 2024-06-01 10:56:28
+date: 2024-06-03T04:51:57.250Z
+updated: 2024-06-04T04:51:57.250Z
 tags: 
   - screen-recording
   - ai video

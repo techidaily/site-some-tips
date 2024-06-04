@@ -1,7 +1,7 @@
 ---
 title: "\"Value Capture  Affordable Cam Options for 2024\""
-date: 2024-06-02 21:56:57
-updated: 2024-06-03 12:20:19
+date: 2024-06-03T03:50:31.671Z
+updated: 2024-06-04T03:50:31.671Z
 tags: 
   - screen-recording
   - ai video

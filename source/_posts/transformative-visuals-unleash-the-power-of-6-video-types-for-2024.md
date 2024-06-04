@@ -1,7 +1,7 @@
 ---
 title: "\"Transformative Visuals  Unleash the Power of 6 Video Types for 2024\""
-date: 2024-05-30 20:17:43
-updated: 2024-06-02 10:20:41
+date: 2024-06-03T04:23:17.303Z
+updated: 2024-06-04T04:23:17.303Z
 tags: 
   - screen-recording
   - ai video

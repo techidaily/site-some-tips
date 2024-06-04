@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Synchronizing Mac' Writers' Flows Efficiently With Mixer\""
-date: 2024-05-30 19:13:40
-updated: 2024-05-31 11:11:50
+date: 2024-06-03T04:20:50.330Z
+updated: 2024-06-04T04:20:50.330Z
 tags: 
   - screen-recording
   - ai video

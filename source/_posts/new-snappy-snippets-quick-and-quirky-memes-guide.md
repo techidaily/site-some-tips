@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Snappy Snippets  Quick and Quirky Memes Guide\""
-date: 2024-05-28 11:45:58
-updated: 2024-05-31 11:34:31
+date: 2024-06-03T04:46:56.386Z
+updated: 2024-06-04T04:46:56.386Z
 tags: 
   - screen-recording
   - ai video

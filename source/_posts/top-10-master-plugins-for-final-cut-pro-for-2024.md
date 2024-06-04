@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Master Plugins for Final Cut Pro for 2024"
-date: 2024-05-31 19:10:30
-updated: 2024-06-02 11:17:58
+date: 2024-06-03T04:04:13.680Z
+updated: 2024-06-04T04:04:13.680Z
 tags: 
   - screen-recording
   - ai video

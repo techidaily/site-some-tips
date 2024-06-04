@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Photographer's Manual  How To Crop Images Seamlessly Online\""
-date: 2024-05-31 11:20:23
-updated: 2024-06-01 10:10:11
+date: 2024-06-03T04:41:23.700Z
+updated: 2024-06-04T04:41:23.700Z
 tags: 
   - screen-recording
   - ai video

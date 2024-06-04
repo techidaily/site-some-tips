@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide  Newest LG BP550 Specs for 2024\""
-date: 2024-05-30 21:34:10
-updated: 2024-06-02 11:39:49
+date: 2024-06-03T03:57:21.705Z
+updated: 2024-06-04T03:57:21.705Z
 tags: 
   - screen-recording
   - ai video

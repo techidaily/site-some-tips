@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Color Grading  Incorenasive Guide to LUT Integration in OBS for 2024\""
-date: 2024-05-29 14:21:31
-updated: 2024-05-31 11:42:33
+date: 2024-06-03T04:50:52.203Z
+updated: 2024-06-04T04:50:52.203Z
 tags: 
   - screen-recording
   - ai video

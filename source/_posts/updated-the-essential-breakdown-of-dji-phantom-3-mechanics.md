@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Breakdown of DJI Phantom 3 Mechanics"
-date: 2024-05-30 16:37:50
-updated: 2024-06-01 12:58:27
+date: 2024-06-03T04:25:31.758Z
+updated: 2024-06-04T04:25:31.758Z
 tags: 
   - screen-recording
   - ai video

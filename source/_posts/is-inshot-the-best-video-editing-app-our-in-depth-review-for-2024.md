@@ -1,7 +1,7 @@
 ---
 title: "\"Is InShot the Best Video Editing App? Our In-Depth Review for 2024\""
-date: 2024-05-24 21:49:50
-updated: 2024-05-27 12:28:14
+date: 2024-06-03T04:15:46.974Z
+updated: 2024-06-04T04:15:46.974Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Art of Saturation and Contrast in GoPro Editing for 2024"
-date: 2024-05-29 18:23:28
-updated: 2024-06-01 10:27:10
+date: 2024-06-03T04:18:59.306Z
+updated: 2024-06-04T04:18:59.306Z
 tags: 
   - screen-recording
   - ai video

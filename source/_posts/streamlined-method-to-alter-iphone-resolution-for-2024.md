@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Method to Alter iPhone Resolution for 2024"
-date: 2024-05-29 20:57:25
-updated: 2024-05-31 11:54:30
+date: 2024-06-03T04:41:15.897Z
+updated: 2024-06-04T04:41:15.897Z
 tags: 
   - screen-recording
   - ai video

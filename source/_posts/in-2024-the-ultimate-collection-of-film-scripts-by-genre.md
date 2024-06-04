@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Collection of Film Scripts by Genre"
-date: 2024-05-31 13:19:41
-updated: 2024-06-01 11:45:27
+date: 2024-06-03T03:55:31.091Z
+updated: 2024-06-04T03:55:31.091Z
 tags: 
   - screen-recording
   - ai video

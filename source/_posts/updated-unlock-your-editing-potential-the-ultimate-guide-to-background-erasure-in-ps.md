@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlock Your Editing Potential  The Ultimate Guide to Background Erasure in PS\""
-date: 2024-06-02 16:26:40
-updated: 2024-06-03 10:12:39
+date: 2024-06-03T04:30:21.941Z
+updated: 2024-06-04T04:30:21.941Z
 tags: 
   - screen-recording
   - ai video

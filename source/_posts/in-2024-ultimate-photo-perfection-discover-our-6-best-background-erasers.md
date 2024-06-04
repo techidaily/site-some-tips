@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Photo Perfection – Discover Our 6 Best Background Erasers"
-date: 2024-05-31 12:41:56
-updated: 2024-06-02 11:14:10
+date: 2024-06-03T04:14:41.796Z
+updated: 2024-06-04T04:14:41.796Z
 tags: 
   - screen-recording
   - ai video

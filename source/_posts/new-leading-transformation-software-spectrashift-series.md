@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Leading Transformation Software  SpectraShift Series\""
-date: 2024-05-27 15:13:30
-updated: 2024-05-28 12:24:30
+date: 2024-06-03T04:13:04.694Z
+updated: 2024-06-04T04:13:04.694Z
 tags: 
   - screen-recording
   - ai video

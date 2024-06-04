@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Subtle Sonic Softening Using Lumafusion\""
-date: 2024-05-29 21:10:39
-updated: 2024-06-01 11:50:11
+date: 2024-06-03T04:50:00.945Z
+updated: 2024-06-04T04:50:00.945Z
 tags: 
   - screen-recording
   - ai video

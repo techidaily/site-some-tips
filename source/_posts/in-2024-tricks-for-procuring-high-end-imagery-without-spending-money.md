@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tricks for Procuring High-End Imagery Without Spending Money\""
-date: 2024-05-30 17:22:12
-updated: 2024-06-02 10:19:28
+date: 2024-06-03T04:27:22.726Z
+updated: 2024-06-04T04:27:22.726Z
 tags: 
   - screen-recording
   - ai video

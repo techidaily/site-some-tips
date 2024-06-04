@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Photo Collages with Picshot for 2024"
-date: 2024-05-29 21:51:37
-updated: 2024-06-01 12:17:37
+date: 2024-06-03T03:47:09.811Z
+updated: 2024-06-04T03:47:09.811Z
 tags: 
   - screen-recording
   - ai video

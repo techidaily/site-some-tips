@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Key Elements for Effective Spotify Ad Execution"
-date: 2024-05-31 17:15:44
-updated: 2024-06-01 12:25:46
+date: 2024-06-03T03:53:48.650Z
+updated: 2024-06-04T03:53:48.650Z
 tags: 
   - screen-recording
   - ai video

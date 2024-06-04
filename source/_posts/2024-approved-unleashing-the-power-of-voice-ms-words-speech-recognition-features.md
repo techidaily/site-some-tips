@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing the Power of Voice  MS Word's Speech Recognition Features\""
-date: 2024-06-02 12:44:42
-updated: 2024-06-03 11:56:18
+date: 2024-06-03T04:35:41.757Z
+updated: 2024-06-04T04:35:41.757Z
 tags: 
   - screen-recording
   - ai video

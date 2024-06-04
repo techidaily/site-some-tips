@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Editor with Zoom Control for 2024"
-date: 2024-06-01 19:10:56
-updated: 2024-06-02 11:15:51
+date: 2024-06-03T04:28:07.830Z
+updated: 2024-06-04T04:28:07.830Z
 tags: 
   - screen-recording
   - ai video

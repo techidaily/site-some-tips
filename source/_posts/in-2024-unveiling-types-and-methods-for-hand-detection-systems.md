@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Types and Methods for Hand Detection Systems"
-date: 2024-06-01 16:19:18
-updated: 2024-06-03 11:29:10
+date: 2024-06-03T04:11:29.780Z
+updated: 2024-06-04T04:11:29.780Z
 tags: 
   - screen-recording
   - ai video

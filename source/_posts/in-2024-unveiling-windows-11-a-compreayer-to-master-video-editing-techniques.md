@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling Windows 11  A Compreayer to Master Video Editing Techniques\""
-date: 2024-06-01 18:32:58
-updated: 2024-06-03 11:22:20
+date: 2024-06-03T04:27:59.291Z
+updated: 2024-06-04T04:27:59.291Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] List of Different Video Camera Types"
-date: 2024-06-01 18:59:49
-updated: 2024-06-02 10:58:21
+date: 2024-06-03T04:46:05.184Z
+updated: 2024-06-04T04:46:05.184Z
 tags: 
   - screen-recording
   - ai video

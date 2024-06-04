@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tiny Screenplay Scheme"
-date: 2024-06-01 20:44:25
-updated: 2024-06-02 12:34:29
+date: 2024-06-03T03:45:10.922Z
+updated: 2024-06-04T03:45:10.922Z
 tags: 
   - screen-recording
   - ai video

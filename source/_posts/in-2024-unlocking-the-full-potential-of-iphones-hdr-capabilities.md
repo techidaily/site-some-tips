@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Full Potential of iPhone's HDR Capabilities"
-date: 2024-06-01 18:43:51
-updated: 2024-06-03 11:18:48
+date: 2024-06-03T04:03:01.570Z
+updated: 2024-06-04T04:03:01.570Z
 tags: 
   - screen-recording
   - ai video

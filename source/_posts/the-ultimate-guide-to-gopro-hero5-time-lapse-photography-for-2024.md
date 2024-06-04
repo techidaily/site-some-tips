@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to GoPro Hero5 Time-Lapse Photography for 2024\""
-date: 2024-05-30 21:40:36
-updated: 2024-06-01 11:39:13
+date: 2024-06-03T04:25:25.374Z
+updated: 2024-06-04T04:25:25.374Z
 tags: 
   - screen-recording
   - ai video

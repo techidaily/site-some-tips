@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Turning XML/SSA/TTML Files Into SRT Formats  Strategies and Techniques\""
-date: 2024-05-30 11:52:23
-updated: 2024-06-02 12:28:50
+date: 2024-06-03T04:32:45.272Z
+updated: 2024-06-04T04:32:45.272Z
 tags: 
   - screen-recording
   - ai video

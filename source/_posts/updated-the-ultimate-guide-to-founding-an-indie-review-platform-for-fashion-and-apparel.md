@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel"
-date: 2024-05-29 10:46:18
-updated: 2024-06-01 12:35:37
+date: 2024-06-03T04:48:52.331Z
+updated: 2024-06-04T04:48:52.331Z
 tags: 
   - screen-recording
   - ai video

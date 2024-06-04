@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Quick and Easy iPhone Methods to Download Podcasts Anywhere"
-date: 2024-05-29 17:54:45
-updated: 2024-05-30 11:33:40
+date: 2024-06-03T04:18:18.888Z
+updated: 2024-06-04T04:18:18.888Z
 tags: 
   - screen-recording
   - ai video

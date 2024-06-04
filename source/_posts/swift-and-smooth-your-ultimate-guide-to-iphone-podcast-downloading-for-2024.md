@@ -1,7 +1,7 @@
 ---
 title: "\"Swift & Smooth  Your Ultimate Guide to iPhone Podcast Downloading for 2024\""
-date: 2024-05-29 22:14:51
-updated: 2024-05-31 10:36:48
+date: 2024-06-03T03:55:39.708Z
+updated: 2024-06-04T03:55:39.708Z
 tags: 
   - screen-recording
   - ai video

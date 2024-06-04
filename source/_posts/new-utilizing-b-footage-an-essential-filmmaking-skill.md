@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Utilizing B-Footage  An Essential Filmmaking Skill\""
-date: 2024-06-01 18:50:38
-updated: 2024-06-03 10:19:41
+date: 2024-06-03T04:05:13.694Z
+updated: 2024-06-04T04:05:13.694Z
 tags: 
   - screen-recording
   - ai video

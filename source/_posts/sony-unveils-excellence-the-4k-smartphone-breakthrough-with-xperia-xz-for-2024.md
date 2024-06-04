@@ -1,7 +1,7 @@
 ---
 title: "\"Sony Unveils Excellence  The 4K Smartphone Breakthrough with Xperia XZ for 2024\""
-date: 2024-05-28 23:36:32
-updated: 2024-05-31 12:42:16
+date: 2024-06-03T04:04:43.947Z
+updated: 2024-06-04T04:04:43.947Z
 tags: 
   - screen-recording
   - ai video

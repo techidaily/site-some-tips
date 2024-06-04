@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Video Filter Application Techniques"
-date: 2024-06-02 13:56:26
-updated: 2024-06-03 11:36:43
+date: 2024-06-03T04:45:42.865Z
+updated: 2024-06-04T04:45:42.865Z
 tags: 
   - screen-recording
   - ai video

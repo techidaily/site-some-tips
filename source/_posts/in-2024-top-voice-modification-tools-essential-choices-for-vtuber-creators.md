@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Voice Modification Tools  Essential Choices for VTuber Creators\""
-date: 2024-05-30 23:46:24
-updated: 2024-06-02 11:54:56
+date: 2024-06-03T04:05:07.267Z
+updated: 2024-06-04T04:05:07.267Z
 tags: 
   - screen-recording
   - ai video

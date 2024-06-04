@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategic VR Marketing Manifesto"
-date: 2024-05-29 11:31:42
-updated: 2024-05-31 11:13:49
+date: 2024-06-03T04:41:50.617Z
+updated: 2024-06-04T04:41:50.617Z
 tags: 
   - screen-recording
   - ai video

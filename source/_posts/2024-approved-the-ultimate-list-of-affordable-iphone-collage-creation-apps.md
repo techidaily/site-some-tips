@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate List of Affordable, iPhone Collage Creation Apps\""
-date: 2024-05-31 16:58:50
-updated: 2024-06-01 11:39:20
+date: 2024-06-03T04:18:14.616Z
+updated: 2024-06-04T04:18:14.616Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Metaverse Mirth-Making Manual  Top Funny Imagery & Techniques\""
-date: 2024-05-31 16:33:24
-updated: 2024-06-01 10:15:12
+date: 2024-06-03T03:44:29.086Z
+updated: 2024-06-04T03:44:29.086Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Engaging Elite Videography Talent"
-date: 2024-05-30 16:26:50
-updated: 2024-05-31 12:41:41
+date: 2024-06-03T03:54:05.795Z
+updated: 2024-06-04T03:54:05.795Z
 tags: 
   - screen-recording
   - ai video

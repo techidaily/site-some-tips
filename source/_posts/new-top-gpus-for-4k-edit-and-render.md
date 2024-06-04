@@ -1,7 +1,7 @@
 ---
 title: "[New] Top GPUs for 4K Edit & Render"
-date: 2024-05-30 17:34:31
-updated: 2024-06-02 12:55:16
+date: 2024-06-03T04:10:59.717Z
+updated: 2024-06-04T04:10:59.717Z
 tags: 
   - screen-recording
   - ai video

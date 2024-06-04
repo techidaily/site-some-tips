@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Next Generation of VR  Innovations Reviewed\""
-date: 2024-05-31 19:20:41
-updated: 2024-06-01 11:45:38
+date: 2024-06-03T04:26:19.646Z
+updated: 2024-06-04T04:26:19.646Z
 tags: 
   - screen-recording
   - ai video

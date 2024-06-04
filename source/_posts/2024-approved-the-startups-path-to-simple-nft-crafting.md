@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Startup's Path to Simple NFT Crafting\""
-date: 2024-05-29 13:22:18
-updated: 2024-06-01 10:23:15
+date: 2024-06-03T04:21:21.273Z
+updated: 2024-06-04T04:21:21.273Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Teacher's Guide To Use Video In Teaching\""
-date: 2024-05-30 16:39:34
-updated: 2024-05-31 10:17:45
+date: 2024-06-03T03:49:31.920Z
+updated: 2024-06-04T03:49:31.920Z
 tags: 
   - screen-recording
   - ai video

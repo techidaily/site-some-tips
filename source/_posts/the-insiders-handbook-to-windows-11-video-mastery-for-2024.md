@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Handbook to Windows 11 Video Mastery for 2024"
-date: 2024-05-31 18:38:53
-updated: 2024-06-01 12:13:11
+date: 2024-06-03T04:42:21.398Z
+updated: 2024-06-04T04:42:21.398Z
 tags: 
   - screen-recording
   - ai video

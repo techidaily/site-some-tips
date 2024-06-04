@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Seamless Spectrum  Simple Techniques to Transform Photoshop Images\""
-date: 2024-05-30 12:19:53
-updated: 2024-06-01 11:40:28
+date: 2024-06-03T04:18:42.819Z
+updated: 2024-06-04T04:18:42.819Z
 tags: 
   - screen-recording
   - ai video

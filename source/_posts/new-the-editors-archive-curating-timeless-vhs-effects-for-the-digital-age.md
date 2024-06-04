@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Editor's Archive  Curating Timeless VHS Effects for the Digital Age\""
-date: 2024-05-29 17:56:23
-updated: 2024-06-01 10:33:56
+date: 2024-06-03T03:52:18.068Z
+updated: 2024-06-04T03:52:18.068Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Lenses for Animation Photography"
-date: 2024-06-01 15:59:23
-updated: 2024-06-02 10:38:50
+date: 2024-06-03T04:27:31.269Z
+updated: 2024-06-04T04:27:31.269Z
 tags: 
   - screen-recording
   - ai video

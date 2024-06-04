@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Crafting LUTs in 3D for 2024"
-date: 2024-05-31 12:46:31
-updated: 2024-06-01 10:35:51
+date: 2024-06-03T03:52:26.259Z
+updated: 2024-06-04T03:52:26.259Z
 tags: 
   - screen-recording
   - ai video

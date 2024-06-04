@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Free Video Editing and Effects Sites"
-date: 2024-05-31 20:58:25
-updated: 2024-06-01 11:42:20
+date: 2024-06-03T04:46:09.420Z
+updated: 2024-06-04T04:46:09.420Z
 tags: 
   - screen-recording
   - ai video

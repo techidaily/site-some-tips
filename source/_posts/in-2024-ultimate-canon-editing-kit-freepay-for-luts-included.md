@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Canon Editing Kit - Free/Pay for LUTs Included\""
-date: 2024-06-01 19:13:15
-updated: 2024-06-02 10:59:54
+date: 2024-06-03T04:48:36.718Z
+updated: 2024-06-04T04:48:36.718Z
 tags: 
   - screen-recording
   - ai video

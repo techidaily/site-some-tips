@@ -1,7 +1,7 @@
 ---
 title: "\"Selective Software Showcase  Photo+Music Capture Tools for 2024\""
-date: 2024-05-27 11:34:11
-updated: 2024-05-30 11:19:29
+date: 2024-06-03T04:26:28.857Z
+updated: 2024-06-04T04:26:28.857Z
 tags: 
   - screen-recording
   - ai video

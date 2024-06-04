@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Definitive Guide for Quick SRT to TXT Con"
-date: 2024-05-31 13:19:33
-updated: 2024-06-01 10:11:29
+date: 2024-06-03T03:46:24.240Z
+updated: 2024-06-04T03:46:24.240Z
 tags: 
   - screen-recording
   - ai video

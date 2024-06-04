@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlined Zoom Utilization  A Chromebook Perspective\""
-date: 2024-05-29 10:30:15
-updated: 2024-05-31 12:40:52
+date: 2024-06-03T04:31:06.258Z
+updated: 2024-06-04T04:31:06.258Z
 tags: 
   - screen-recording
   - ai video

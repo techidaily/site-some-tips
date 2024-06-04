@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Checklist for Using Firefox's Popup Window"
-date: 2024-05-31 20:30:33
-updated: 2024-06-01 10:37:11
+date: 2024-06-03T04:51:08.973Z
+updated: 2024-06-04T04:51:08.973Z
 tags: 
   - screen-recording
   - ai video

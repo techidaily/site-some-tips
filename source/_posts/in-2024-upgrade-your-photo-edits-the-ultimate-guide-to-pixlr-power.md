@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Upgrade Your Photo Edits  The Ultimate Guide to Pixlr Power\""
-date: 2024-06-02 14:42:25
-updated: 2024-06-03 10:45:52
+date: 2024-06-03T04:33:46.589Z
+updated: 2024-06-04T04:33:46.589Z
 tags: 
   - screen-recording
   - ai video

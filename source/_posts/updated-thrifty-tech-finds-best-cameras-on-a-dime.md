@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Thrifty Tech Finds  Best Cameras on a Dime\""
-date: 2024-05-30 12:56:35
-updated: 2024-06-01 11:16:20
+date: 2024-06-03T03:58:29.499Z
+updated: 2024-06-04T03:58:29.499Z
 tags: 
   - screen-recording
   - ai video

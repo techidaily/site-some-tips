@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Blueprint for Lifelong Memories  Storing Vintage Photos Digitally\""
-date: 2024-05-31 10:47:12
-updated: 2024-06-01 10:47:22
+date: 2024-06-03T03:46:58.748Z
+updated: 2024-06-04T03:46:58.748Z
 tags: 
   - screen-recording
   - ai video

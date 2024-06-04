@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Hidden Functions to Enhance Your Canva Artistry for 2024"
-date: 2024-05-31 16:39:27
-updated: 2024-06-02 10:43:11
+date: 2024-06-03T04:36:27.544Z
+updated: 2024-06-04T04:36:27.544Z
 tags: 
   - screen-recording
   - ai video

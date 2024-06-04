@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete User's Manual to Mac DVD Burning"
-date: 2024-05-29 20:17:35
-updated: 2024-06-01 12:34:11
+date: 2024-06-03T04:38:27.608Z
+updated: 2024-06-04T04:38:27.608Z
 tags: 
   - screen-recording
   - ai video

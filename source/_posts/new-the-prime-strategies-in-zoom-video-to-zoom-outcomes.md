@@ -1,7 +1,7 @@
 ---
 title: "[New] The Prime Strategies in Zoom Video to Zoom Outcomes"
-date: 2024-05-31 13:48:13
-updated: 2024-06-01 12:28:25
+date: 2024-06-03T03:59:20.016Z
+updated: 2024-06-04T03:59:20.016Z
 tags: 
   - screen-recording
   - ai video

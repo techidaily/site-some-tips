@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Enhancing AR with LUT Knowledge for 2024"
-date: 2024-05-30 23:37:22
-updated: 2024-06-01 10:16:30
+date: 2024-06-03T04:33:23.209Z
+updated: 2024-06-04T04:33:23.209Z
 tags: 
   - screen-recording
   - ai video

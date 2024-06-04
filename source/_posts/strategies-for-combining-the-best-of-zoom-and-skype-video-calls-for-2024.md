@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Combining the Best of Zoom and Skype Video Calls for 2024"
-date: 2024-05-30 14:33:13
-updated: 2024-05-31 11:53:47
+date: 2024-06-03T03:55:06.006Z
+updated: 2024-06-04T03:55:06.006Z
 tags: 
   - screen-recording
   - ai video

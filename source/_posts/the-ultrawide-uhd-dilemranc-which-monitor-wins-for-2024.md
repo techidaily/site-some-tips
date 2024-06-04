@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultrawide-UHD Dilemranc  Which Monitor Wins for 2024\""
-date: 2024-05-31 18:12:15
-updated: 2024-06-01 12:54:31
+date: 2024-06-03T04:26:59.730Z
+updated: 2024-06-04T04:26:59.730Z
 tags: 
   - screen-recording
   - ai video

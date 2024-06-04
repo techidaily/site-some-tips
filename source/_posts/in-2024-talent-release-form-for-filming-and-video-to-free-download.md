@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Talent Release Form for Filming and Video to Free Download"
-date: 2024-05-28 14:35:34
-updated: 2024-05-31 11:58:45
+date: 2024-06-03T04:25:11.561Z
+updated: 2024-06-04T04:25:11.561Z
 tags: 
   - screen-recording
   - ai video

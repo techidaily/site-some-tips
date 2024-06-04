@@ -1,7 +1,7 @@
 ---
 title: "[New] The Integrity of Format with FFmpeg's Audio Recapture Methods"
-date: 2024-05-30 19:57:19
-updated: 2024-06-01 10:54:25
+date: 2024-06-03T03:42:59.867Z
+updated: 2024-06-04T03:42:59.867Z
 tags: 
   - screen-recording
   - ai video

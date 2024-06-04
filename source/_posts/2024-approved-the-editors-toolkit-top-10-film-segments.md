@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editor's Toolkit  Top 10 Film Segments\""
-date: 2024-05-31 14:36:23
-updated: 2024-06-01 10:27:48
+date: 2024-06-03T04:12:54.706Z
+updated: 2024-06-04T04:12:54.706Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vanguard Visualization  Top Devices for 4K Video Editing Maestros\""
-date: 2024-05-31 23:33:29
-updated: 2024-06-03 12:44:50
+date: 2024-06-03T04:04:31.131Z
+updated: 2024-06-04T04:04:31.131Z
 tags: 
   - screen-recording
   - ai video

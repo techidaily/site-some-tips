@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamlining Windows Photos Experience with Added Filters/Music"
-date: 2024-05-28 14:33:31
-updated: 2024-05-31 12:14:17
+date: 2024-06-03T04:16:10.771Z
+updated: 2024-06-04T04:16:10.771Z
 tags: 
   - screen-recording
   - ai video

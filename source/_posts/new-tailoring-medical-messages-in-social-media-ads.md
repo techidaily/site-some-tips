@@ -1,7 +1,7 @@
 ---
 title: "[New] Tailoring Medical Messages in Social Media Ads"
-date: 2024-05-28 22:33:59
-updated: 2024-05-31 11:26:39
+date: 2024-06-03T04:42:15.027Z
+updated: 2024-06-04T04:42:15.027Z
 tags: 
   - screen-recording
   - ai video

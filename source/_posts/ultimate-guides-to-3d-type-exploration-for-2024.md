@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guides to 3D Type Exploration for 2024"
-date: 2024-05-30 22:49:56
-updated: 2024-06-02 11:38:27
+date: 2024-06-03T04:24:54.525Z
+updated: 2024-06-04T04:24:54.525Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Syncopate Screen  A Beginner's Guide to Mobile Video Making\""
-date: 2024-05-29 13:37:57
-updated: 2024-05-31 11:48:56
+date: 2024-06-03T04:14:41.096Z
+updated: 2024-06-04T04:14:41.096Z
 tags: 
   - screen-recording
   - ai video

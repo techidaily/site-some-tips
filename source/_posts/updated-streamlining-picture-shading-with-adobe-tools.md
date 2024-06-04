@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlining Picture Shading with Adobe Tools"
-date: 2024-05-28 12:49:51
-updated: 2024-05-31 12:13:44
+date: 2024-06-03T04:01:08.227Z
+updated: 2024-06-04T04:01:08.227Z
 tags: 
   - screen-recording
   - ai video

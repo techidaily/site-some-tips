@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Guide  Best Audio Techniques on Windows\""
-date: 2024-05-24 18:46:22
-updated: 2024-05-27 10:39:44
+date: 2024-06-03T04:20:06.716Z
+updated: 2024-06-04T04:20:06.716Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Smudge-Free Sequence  Eliminating GoPro Fog\""
-date: 2024-05-30 21:45:54
-updated: 2024-06-01 11:28:53
+date: 2024-06-03T03:51:29.891Z
+updated: 2024-06-04T03:51:29.891Z
 tags: 
   - screen-recording
   - ai video

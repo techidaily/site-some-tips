@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleashing Creativity  Harnessing the Full Potential of Movie Maker (Windows 8)\""
-date: 2024-05-31 17:20:13
-updated: 2024-06-03 11:14:27
+date: 2024-06-03T04:06:49.438Z
+updated: 2024-06-04T04:06:49.438Z
 tags: 
   - screen-recording
   - ai video

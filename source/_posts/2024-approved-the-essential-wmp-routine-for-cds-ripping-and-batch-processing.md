@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential WMP Routine for CDs Ripping & Batch Processing\""
-date: 2024-05-29 12:47:56
-updated: 2024-06-01 12:38:25
+date: 2024-06-03T03:56:59.893Z
+updated: 2024-06-04T03:56:59.893Z
 tags: 
   - screen-recording
   - ai video

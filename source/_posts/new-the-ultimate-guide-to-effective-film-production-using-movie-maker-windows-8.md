@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)"
-date: 2024-05-30 18:26:37
-updated: 2024-06-01 11:24:32
+date: 2024-06-03T04:41:11.982Z
+updated: 2024-06-04T04:41:11.982Z
 tags: 
   - screen-recording
   - ai video

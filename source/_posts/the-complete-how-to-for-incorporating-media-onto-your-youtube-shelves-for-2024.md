@@ -1,7 +1,7 @@
 ---
 title: "\"The Complete How-To for Incorporating Media Onto Your YouTube Shelves for 2024\""
-date: 2024-05-30 23:11:16
-updated: 2024-06-01 12:27:46
+date: 2024-06-03T04:29:11.883Z
+updated: 2024-06-04T04:29:11.883Z
 tags: 
   - screen-recording
   - ai video

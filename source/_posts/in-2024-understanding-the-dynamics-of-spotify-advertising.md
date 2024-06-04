@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding the Dynamics of Spotify Advertising"
-date: 2024-05-30 18:25:15
-updated: 2024-06-02 10:39:32
+date: 2024-06-03T04:34:45.444Z
+updated: 2024-06-04T04:34:45.444Z
 tags: 
   - screen-recording
   - ai video

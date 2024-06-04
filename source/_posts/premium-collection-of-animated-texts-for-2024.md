@@ -1,7 +1,7 @@
 ---
 title: "Premium Collection of Animated Texts for 2024"
-date: 2024-05-28 16:42:26
-updated: 2024-05-30 12:22:31
+date: 2024-06-03T03:56:12.251Z
+updated: 2024-06-04T03:56:12.251Z
 tags: 
   - screen-recording
   - ai video

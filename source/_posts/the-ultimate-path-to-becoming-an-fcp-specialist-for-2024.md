@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Path to Becoming an FCP Specialist for 2024"
-date: 2024-05-30 16:37:25
-updated: 2024-06-01 10:16:18
+date: 2024-06-03T04:08:56.823Z
+updated: 2024-06-04T04:08:56.823Z
 tags: 
   - screen-recording
   - ai video

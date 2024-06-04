@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Picks  Excellent 4K Displays for Playing Games\""
-date: 2024-05-30 17:31:11
-updated: 2024-06-02 12:52:20
+date: 2024-06-03T03:44:12.403Z
+updated: 2024-06-04T03:44:12.403Z
 tags: 
   - screen-recording
   - ai video

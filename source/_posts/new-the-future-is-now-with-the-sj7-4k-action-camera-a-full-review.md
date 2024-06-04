@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Future Is Now with the SJ7 4K Action Camera - A Full Review\""
-date: 2024-05-31 11:21:50
-updated: 2024-06-01 12:18:31
+date: 2024-06-03T03:58:47.401Z
+updated: 2024-06-04T03:58:47.401Z
 tags: 
   - screen-recording
   - ai video

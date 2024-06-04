@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The MacBook-Mixer Dynamic  Perfect Streams in 5 Steps\""
-date: 2024-05-29 19:10:14
-updated: 2024-06-01 10:27:47
+date: 2024-06-03T03:43:46.716Z
+updated: 2024-06-04T03:43:46.716Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Most Innovative Metaverse Visors & Wearables\""
-date: 2024-05-31 10:53:18
-updated: 2024-06-03 11:22:39
+date: 2024-06-03T04:23:00.536Z
+updated: 2024-06-04T04:23:00.536Z
 tags: 
   - screen-recording
   - ai video

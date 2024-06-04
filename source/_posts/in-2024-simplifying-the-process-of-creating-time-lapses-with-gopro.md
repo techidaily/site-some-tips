@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simplifying the Process of Creating Time Lapses with GoPro"
-date: 2024-05-28 17:23:53
-updated: 2024-05-31 11:31:30
+date: 2024-06-03T04:09:46.411Z
+updated: 2024-06-04T04:09:46.411Z
 tags: 
   - screen-recording
   - ai video

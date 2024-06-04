@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Kids' Camera Guide - Top 11 Easy, Waterproof Options\""
-date: 2024-05-31 21:24:15
-updated: 2024-06-01 11:51:58
+date: 2024-06-03T04:06:35.193Z
+updated: 2024-06-04T04:06:35.193Z
 tags: 
   - screen-recording
   - ai video

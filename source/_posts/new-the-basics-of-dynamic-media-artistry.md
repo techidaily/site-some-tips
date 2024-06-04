@@ -1,7 +1,7 @@
 ---
 title: "[New] The Basics of Dynamic Media Artistry"
-date: 2024-05-30 11:37:23
-updated: 2024-06-01 11:37:43
+date: 2024-06-03T03:44:57.910Z
+updated: 2024-06-04T03:44:57.910Z
 tags: 
   - screen-recording
   - ai video

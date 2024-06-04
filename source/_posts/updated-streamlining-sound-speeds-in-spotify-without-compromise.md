@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlining Sound Speeds in Spotify Without Compromise"
-date: 2024-05-30 21:39:29
-updated: 2024-05-31 10:34:22
+date: 2024-06-03T04:13:49.149Z
+updated: 2024-06-04T04:13:49.149Z
 tags: 
   - screen-recording
   - ai video

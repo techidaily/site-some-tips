@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Subtle Sound Level Lowering in FL Studio"
-date: 2024-05-30 18:40:47
-updated: 2024-05-31 10:14:29
+date: 2024-06-03T04:37:07.617Z
+updated: 2024-06-04T04:37:07.617Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplified Screen Switching  Utilizing PIP Mode on Netflix for Smooth Viewing\""
-date: 2024-05-28 14:50:54
-updated: 2024-05-31 12:11:11
+date: 2024-06-03T04:07:16.157Z
+updated: 2024-06-04T04:07:16.157Z
 tags: 
   - screen-recording
   - ai video

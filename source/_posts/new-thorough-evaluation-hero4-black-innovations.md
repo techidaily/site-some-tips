@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Thorough Evaluation  Hero4 Black Innovations\""
-date: 2024-05-31 19:23:52
-updated: 2024-06-01 10:39:24
+date: 2024-06-03T03:51:17.723Z
+updated: 2024-06-04T03:51:17.723Z
 tags: 
   - screen-recording
   - ai video

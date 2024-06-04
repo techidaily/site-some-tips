@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Adding Soundtracks to Instagram Visuals"
-date: 2024-05-31 19:25:39
-updated: 2024-06-01 10:14:57
+date: 2024-06-03T04:13:06.843Z
+updated: 2024-06-04T04:13:06.843Z
 tags: 
   - screen-recording
   - ai video

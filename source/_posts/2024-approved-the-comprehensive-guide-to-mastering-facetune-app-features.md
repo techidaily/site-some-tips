@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Comprehensive Guide to Mastering Facetune App Features\""
-date: 2024-05-29 22:51:35
-updated: 2024-06-01 11:53:28
+date: 2024-06-03T04:09:41.417Z
+updated: 2024-06-04T04:09:41.417Z
 tags: 
   - screen-recording
   - ai video

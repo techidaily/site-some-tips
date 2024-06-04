@@ -1,7 +1,7 @@
 ---
 title: "The Comprehensive Guide to Metaverse Promotion for 2024"
-date: 2024-05-30 19:32:37
-updated: 2024-06-01 10:12:15
+date: 2024-06-03T04:31:46.230Z
+updated: 2024-06-04T04:31:46.230Z
 tags: 
   - screen-recording
   - ai video

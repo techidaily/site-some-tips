@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Steadicam Models Compatible with DSLR Cameras"
-date: 2024-06-01 23:59:15
-updated: 2024-06-02 10:24:29
+date: 2024-06-03T04:00:39.278Z
+updated: 2024-06-04T04:00:39.278Z
 tags: 
   - screen-recording
   - ai video

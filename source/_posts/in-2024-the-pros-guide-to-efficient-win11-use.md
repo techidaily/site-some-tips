@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Pro's Guide to Efficient Win11 Use"
-date: 2024-05-30 13:44:35
-updated: 2024-06-01 10:51:24
+date: 2024-06-03T04:28:58.395Z
+updated: 2024-06-04T04:28:58.395Z
 tags: 
   - screen-recording
   - ai video

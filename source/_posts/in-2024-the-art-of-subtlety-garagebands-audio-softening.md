@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Subtlety  Garageband's Audio Softening\""
-date: 2024-05-31 21:18:47
-updated: 2024-06-01 10:26:59
+date: 2024-06-03T04:23:01.948Z
+updated: 2024-06-04T04:23:01.948Z
 tags: 
   - screen-recording
   - ai video

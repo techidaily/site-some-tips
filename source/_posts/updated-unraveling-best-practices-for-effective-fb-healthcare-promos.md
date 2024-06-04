@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unraveling Best Practices for Effective FB Healthcare Promos"
-date: 2024-06-02 11:37:17
-updated: 2024-06-03 11:17:13
+date: 2024-06-03T04:39:19.322Z
+updated: 2024-06-04T04:39:19.322Z
 tags: 
   - screen-recording
   - ai video

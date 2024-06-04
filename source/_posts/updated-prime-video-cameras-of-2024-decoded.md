@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Prime Video Cameras of 2024 Decoded"
-date: 2024-05-27 16:54:49
-updated: 2024-05-30 11:23:22
+date: 2024-06-03T04:25:28.915Z
+updated: 2024-06-04T04:25:28.915Z
 tags: 
   - screen-recording
   - ai video

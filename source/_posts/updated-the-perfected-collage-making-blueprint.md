@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Perfected Collage-Making Blueprint\""
-date: 2024-05-30 13:34:17
-updated: 2024-06-01 11:45:32
+date: 2024-06-03T04:21:11.607Z
+updated: 2024-06-04T04:21:11.607Z
 tags: 
   - screen-recording
   - ai video

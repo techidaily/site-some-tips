@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Turbocharge FB Video Speed  Selective Extensions & Apps Guidebook\""
-date: 2024-06-01 16:12:27
-updated: 2024-06-02 11:55:44
+date: 2024-06-03T04:05:58.365Z
+updated: 2024-06-04T04:05:58.365Z
 tags: 
   - screen-recording
   - ai video

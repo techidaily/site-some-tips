@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)"
-date: 2024-06-02 10:49:14
-updated: 2024-06-03 11:38:53
+date: 2024-06-03T04:04:23.653Z
+updated: 2024-06-04T04:04:23.653Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The 20-Word Formula to Skyrocket Your Business Reach\""
-date: 2024-05-31 21:53:59
-updated: 2024-06-01 10:16:17
+date: 2024-06-03T04:21:24.837Z
+updated: 2024-06-04T04:21:24.837Z
 tags: 
   - screen-recording
   - ai video

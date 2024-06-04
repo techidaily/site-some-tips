@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Cheat Sheet for First Time Final Cut Users"
-date: 2024-05-31 23:12:22
-updated: 2024-06-01 11:22:23
+date: 2024-06-03T04:30:09.171Z
+updated: 2024-06-04T04:30:09.171Z
 tags: 
   - screen-recording
   - ai video

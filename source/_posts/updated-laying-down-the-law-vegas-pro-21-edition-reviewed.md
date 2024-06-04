@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Laying Down the Law  VEGAS Pro '21 Edition Reviewed\""
-date: 2024-05-27 15:44:33
-updated: 2024-05-28 12:47:11
+date: 2024-06-03T04:15:55.151Z
+updated: 2024-06-04T04:15:55.151Z
 tags: 
   - screen-recording
   - ai video

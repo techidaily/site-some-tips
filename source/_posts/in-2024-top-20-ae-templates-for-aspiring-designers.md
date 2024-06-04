@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 20 AE Templates for Aspiring Designers"
-date: 2024-06-01 12:39:52
-updated: 2024-06-02 11:58:49
+date: 2024-06-03T04:41:07.032Z
+updated: 2024-06-04T04:41:07.032Z
 tags: 
   - screen-recording
   - ai video

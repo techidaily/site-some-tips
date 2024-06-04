@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms"
-date: 2024-05-29 17:52:45
-updated: 2024-06-01 11:44:50
+date: 2024-06-03T03:46:28.464Z
+updated: 2024-06-04T03:46:28.464Z
 tags: 
   - screen-recording
   - ai video

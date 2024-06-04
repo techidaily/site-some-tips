@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transform Your Workflow  Harnessing the Power of LUTs in Adobe Suite\""
-date: 2024-05-30 22:31:14
-updated: 2024-06-02 10:30:34
+date: 2024-06-03T04:52:24.436Z
+updated: 2024-06-04T04:52:24.436Z
 tags: 
   - screen-recording
   - ai video

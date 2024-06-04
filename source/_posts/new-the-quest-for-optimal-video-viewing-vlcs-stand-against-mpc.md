@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Quest for Optimal Video Viewing  VLC's Stand Against MPC\""
-date: 2024-05-30 18:24:38
-updated: 2024-06-01 11:19:58
+date: 2024-06-03T04:28:01.415Z
+updated: 2024-06-04T04:28:01.415Z
 tags: 
   - screen-recording
   - ai video

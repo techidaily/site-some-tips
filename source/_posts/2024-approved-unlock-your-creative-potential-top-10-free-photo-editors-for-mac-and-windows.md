@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Your Creative Potential  Top 10 Free Photo Editors for Mac & Windows\""
-date: 2024-06-02 11:23:20
-updated: 2024-06-03 12:50:22
+date: 2024-06-03T04:29:23.598Z
+updated: 2024-06-04T04:29:23.598Z
 tags: 
   - screen-recording
   - ai video

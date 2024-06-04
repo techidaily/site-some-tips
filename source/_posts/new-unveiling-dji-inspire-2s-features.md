@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling DJI Inspire 2'S Features"
-date: 2024-06-01 16:34:20
-updated: 2024-06-03 10:10:10
+date: 2024-06-03T04:35:26.863Z
+updated: 2024-06-04T04:35:26.863Z
 tags: 
   - screen-recording
   - ai video

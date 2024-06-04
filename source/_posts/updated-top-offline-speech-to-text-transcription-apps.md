@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Offline Speech-to-Text Transcription Apps\""
-date: 2024-05-30 22:52:56
-updated: 2024-06-02 12:18:56
+date: 2024-06-03T04:23:58.862Z
+updated: 2024-06-04T04:23:58.862Z
 tags: 
   - screen-recording
   - ai video

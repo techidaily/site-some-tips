@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your Digital Portfolio with Onscreen Cropping"
-date: 2024-05-31 23:19:45
-updated: 2024-06-02 10:55:22
+date: 2024-06-03T04:49:03.550Z
+updated: 2024-06-04T04:49:03.550Z
 tags: 
   - screen-recording
   - ai video

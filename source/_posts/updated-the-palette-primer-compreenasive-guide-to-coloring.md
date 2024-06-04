@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Palette Primer  Compreenasive Guide to Coloring\""
-date: 2024-05-29 20:35:41
-updated: 2024-06-01 12:23:45
+date: 2024-06-03T04:19:07.809Z
+updated: 2024-06-04T04:19:07.809Z
 tags: 
   - screen-recording
   - ai video

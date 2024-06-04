@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlock Styling Secrets with a DIY Video Editing Guide"
-date: 2024-05-31 17:43:25
-updated: 2024-06-03 11:15:41
+date: 2024-06-03T03:45:33.479Z
+updated: 2024-06-04T03:45:33.479Z
 tags: 
   - screen-recording
   - ai video

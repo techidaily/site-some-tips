@@ -1,7 +1,7 @@
 ---
 title: "The Core Upgrades of Windows 11 for 2024"
-date: 2024-05-29 15:33:30
-updated: 2024-06-01 12:41:56
+date: 2024-06-03T03:46:36.206Z
+updated: 2024-06-04T03:46:36.206Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Artisan's Guide to Creating Sound Alterations Without Cost"
-date: 2024-05-29 15:12:13
-updated: 2024-06-01 12:41:39
+date: 2024-06-03T03:51:51.688Z
+updated: 2024-06-04T03:51:51.688Z
 tags: 
   - screen-recording
   - ai video

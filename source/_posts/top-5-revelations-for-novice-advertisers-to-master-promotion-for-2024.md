@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Revelations for Novice Advertisers to Master Promotion for 2024"
-date: 2024-06-01 13:16:25
-updated: 2024-06-02 11:34:12
+date: 2024-06-03T04:38:42.848Z
+updated: 2024-06-04T04:38:42.848Z
 tags: 
   - screen-recording
   - ai video

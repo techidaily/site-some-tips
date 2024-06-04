@@ -1,7 +1,7 @@
 ---
 title: "\"The Drone Editor's Toolkit  Techniques for Visual Excellence for 2024\""
-date: 2024-05-29 21:11:52
-updated: 2024-06-01 11:59:24
+date: 2024-06-03T04:12:05.759Z
+updated: 2024-06-04T04:12:05.759Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Secret Sauce  Ideal Duration for Your Show\""
-date: 2024-05-29 10:59:15
-updated: 2024-06-01 10:33:32
+date: 2024-06-03T04:07:34.726Z
+updated: 2024-06-04T04:07:34.726Z
 tags: 
   - screen-recording
   - ai video

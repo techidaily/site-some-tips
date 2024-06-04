@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scripting for Success  Filmmaker's Secrets\""
-date: 2024-05-29 10:46:38
-updated: 2024-05-30 11:34:57
+date: 2024-06-03T04:28:48.458Z
+updated: 2024-06-04T04:28:48.458Z
 tags: 
   - screen-recording
   - ai video

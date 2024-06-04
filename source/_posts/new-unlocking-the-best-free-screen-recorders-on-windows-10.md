@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking the Best Free Screen Recorders on Windows 10"
-date: 2024-06-01 21:29:36
-updated: 2024-06-03 10:25:41
+date: 2024-06-03T04:34:51.122Z
+updated: 2024-06-04T04:34:51.122Z
 tags: 
   - screen-recording
   - ai video

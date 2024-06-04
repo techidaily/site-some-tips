@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Intova X Review  Next-Gen Action Cam\""
-date: 2024-06-01 13:22:47
-updated: 2024-06-02 11:15:21
+date: 2024-06-03T04:20:03.888Z
+updated: 2024-06-04T04:20:03.888Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Ranked Gaming Monitors for PS5 & Xbox X\""
-date: 2024-05-31 18:21:43
-updated: 2024-06-02 12:36:43
+date: 2024-06-03T04:51:11.514Z
+updated: 2024-06-04T04:51:11.514Z
 tags: 
   - screen-recording
   - ai video

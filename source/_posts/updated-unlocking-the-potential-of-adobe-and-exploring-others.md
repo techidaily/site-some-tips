@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Potential of Adobe & Exploring Others"
-date: 2024-06-01 13:33:41
-updated: 2024-06-03 11:18:34
+date: 2024-06-03T04:27:13.502Z
+updated: 2024-06-04T04:27:13.502Z
 tags: 
   - screen-recording
   - ai video

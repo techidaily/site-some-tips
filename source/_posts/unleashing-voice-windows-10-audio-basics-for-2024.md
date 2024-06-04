@@ -1,7 +1,7 @@
 ---
 title: "\"Unleashing Voice  Windows 10 Audio Basics for 2024\""
-date: 2024-05-31 23:58:34
-updated: 2024-06-03 10:29:39
+date: 2024-06-03T04:24:55.234Z
+updated: 2024-06-04T04:24:55.234Z
 tags: 
   - screen-recording
   - ai video

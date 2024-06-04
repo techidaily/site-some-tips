@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Skype's Full Capacity with Effective Zoom Methods"
-date: 2024-06-02 19:13:53
-updated: 2024-06-03 10:45:27
+date: 2024-06-03T04:19:58.926Z
+updated: 2024-06-04T04:19:58.926Z
 tags: 
   - screen-recording
   - ai video

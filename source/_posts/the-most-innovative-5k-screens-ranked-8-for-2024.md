@@ -1,7 +1,7 @@
 ---
 title: "The Most Innovative 5K Screens Ranked #8 for 2024"
-date: 2024-05-31 14:41:34
-updated: 2024-06-01 12:47:59
+date: 2024-06-03T03:48:50.213Z
+updated: 2024-06-04T03:48:50.213Z
 tags: 
   - screen-recording
   - ai video

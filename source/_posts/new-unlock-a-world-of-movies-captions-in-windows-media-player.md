@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock a World of Movies  Captions in Windows Media Player\""
-date: 2024-06-02 23:17:28
-updated: 2024-06-03 11:50:49
+date: 2024-06-03T04:26:56.188Z
+updated: 2024-06-04T04:26:56.188Z
 tags: 
   - screen-recording
   - ai video

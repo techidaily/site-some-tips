@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stabilizing Aerial Vision  A Comprehensive Guide to Choosing a Gimbal\""
-date: 2024-05-30 13:51:34
-updated: 2024-05-31 11:12:57
+date: 2024-06-03T04:18:10.345Z
+updated: 2024-06-04T04:18:10.345Z
 tags: 
   - screen-recording
   - ai video

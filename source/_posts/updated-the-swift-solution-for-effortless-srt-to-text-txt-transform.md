@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Swift Solution for Effortless SRT to Text (TXT) Transform"
-date: 2024-05-31 14:56:38
-updated: 2024-06-01 10:57:29
+date: 2024-06-03T04:10:08.829Z
+updated: 2024-06-04T04:10:08.829Z
 tags: 
   - screen-recording
   - ai video

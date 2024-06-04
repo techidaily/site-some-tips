@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step Chroma Mastery for Green Screen Beginners\""
-date: 2024-05-30 14:31:37
-updated: 2024-05-31 11:35:42
+date: 2024-06-03T04:03:16.865Z
+updated: 2024-06-04T04:03:16.865Z
 tags: 
   - screen-recording
   - ai video

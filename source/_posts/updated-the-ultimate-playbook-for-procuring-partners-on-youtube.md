@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Playbook for Procuring Partners on YouTube"
-date: 2024-05-31 20:27:11
-updated: 2024-06-01 10:17:17
+date: 2024-06-03T04:44:34.437Z
+updated: 2024-06-04T04:44:34.437Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling Cosmic Divides  Metaverse and Multiverse Explained\""
-date: 2024-06-01 23:25:25
-updated: 2024-06-03 12:22:22
+date: 2024-06-03T04:38:47.826Z
+updated: 2024-06-04T04:38:47.826Z
 tags: 
   - screen-recording
   - ai video

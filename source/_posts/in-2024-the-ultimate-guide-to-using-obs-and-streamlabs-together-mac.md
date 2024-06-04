@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Using OBS and Streamlabs Together (Mac)"
-date: 2024-05-31 14:16:25
-updated: 2024-06-01 12:39:48
+date: 2024-06-03T04:00:47.859Z
+updated: 2024-06-04T04:00:47.859Z
 tags: 
   - screen-recording
   - ai video

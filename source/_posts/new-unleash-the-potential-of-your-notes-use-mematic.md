@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleash the Potential of Your Notes - Use Mematic\""
-date: 2024-05-31 20:48:37
-updated: 2024-06-02 12:27:58
+date: 2024-06-03T03:53:57.234Z
+updated: 2024-06-04T03:53:57.234Z
 tags: 
   - screen-recording
   - ai video

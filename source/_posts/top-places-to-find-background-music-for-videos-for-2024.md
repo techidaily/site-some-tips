@@ -1,7 +1,7 @@
 ---
 title: "Top Places to Find Background Music for Videos for 2024"
-date: 2024-06-01 19:19:14
-updated: 2024-06-02 10:48:31
+date: 2024-06-03T03:45:36.297Z
+updated: 2024-06-04T03:45:36.297Z
 tags: 
   - screen-recording
   - ai video

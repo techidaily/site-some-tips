@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Spectrum of Perfection  Creating Stunning HDRs in Lightroom\""
-date: 2024-05-30 18:32:27
-updated: 2024-06-01 10:31:48
+date: 2024-06-03T04:51:43.634Z
+updated: 2024-06-04T04:51:43.634Z
 tags: 
   - screen-recording
   - ai video

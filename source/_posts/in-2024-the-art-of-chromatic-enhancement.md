@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Chromatic Enhancement"
-date: 2024-05-31 10:51:53
-updated: 2024-06-01 11:49:20
+date: 2024-06-03T04:45:17.337Z
+updated: 2024-06-04T04:45:17.337Z
 tags: 
   - screen-recording
   - ai video

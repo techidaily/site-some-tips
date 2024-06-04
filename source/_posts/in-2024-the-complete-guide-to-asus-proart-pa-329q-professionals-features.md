@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Guide to Asus ProArt PA 329Q Professional's Features"
-date: 2024-05-29 19:21:18
-updated: 2024-06-01 11:18:46
+date: 2024-06-03T04:42:09.369Z
+updated: 2024-06-04T04:42:09.369Z
 tags: 
   - screen-recording
   - ai video

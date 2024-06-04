@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The 3-Step Guide to Exceptional GoPro Videos\""
-date: 2024-05-30 10:38:38
-updated: 2024-06-01 12:55:18
+date: 2024-06-03T03:56:59.179Z
+updated: 2024-06-04T03:56:59.179Z
 tags: 
   - screen-recording
   - ai video

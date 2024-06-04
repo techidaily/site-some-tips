@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Upgrading Effortlessly with a Focus on Key Lens Features"
-date: 2024-06-01 22:19:20
-updated: 2024-06-03 10:19:52
+date: 2024-06-03T04:02:15.602Z
+updated: 2024-06-04T04:02:15.602Z
 tags: 
   - screen-recording
   - ai video

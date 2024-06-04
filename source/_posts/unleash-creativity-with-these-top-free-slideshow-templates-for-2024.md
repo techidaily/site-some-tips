@@ -1,7 +1,7 @@
 ---
 title: "Unleash Creativity with These Top Free Slideshow Templates for 2024"
-date: 2024-05-30 14:53:14
-updated: 2024-06-02 10:10:29
+date: 2024-06-03T04:19:37.242Z
+updated: 2024-06-04T04:19:37.242Z
 tags: 
   - screen-recording
   - ai video

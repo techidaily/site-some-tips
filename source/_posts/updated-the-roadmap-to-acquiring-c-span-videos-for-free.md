@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Roadmap to Acquiring C-Span Videos for Free\""
-date: 2024-05-31 14:52:28
-updated: 2024-06-01 11:32:14
+date: 2024-06-03T04:36:36.476Z
+updated: 2024-06-04T04:36:36.476Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Pathway to Perfect Pitches  Insights From Magix Maker\""
-date: 2024-05-30 23:48:53
-updated: 2024-06-01 10:11:23
+date: 2024-06-03T04:07:12.598Z
+updated: 2024-06-04T04:07:12.598Z
 tags: 
   - screen-recording
   - ai video

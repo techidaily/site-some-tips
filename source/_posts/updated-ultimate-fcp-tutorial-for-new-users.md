@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate FCP Tutorial for New Users"
-date: 2024-06-01 23:19:31
-updated: 2024-06-02 12:33:28
+date: 2024-06-03T03:56:23.367Z
+updated: 2024-06-04T03:56:23.367Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Timelapse Magic  Utilizing Your Canon Gear\""
-date: 2024-05-31 10:24:31
-updated: 2024-06-02 10:59:51
+date: 2024-06-03T04:03:34.695Z
+updated: 2024-06-04T04:03:34.695Z
 tags: 
   - screen-recording
   - ai video

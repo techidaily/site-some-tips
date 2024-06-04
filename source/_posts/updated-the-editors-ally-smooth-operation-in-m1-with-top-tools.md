@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Editor's Ally  Smooth Operation in M1 with Top Tools\""
-date: 2024-05-30 11:52:17
-updated: 2024-06-01 12:13:59
+date: 2024-06-03T04:14:22.903Z
+updated: 2024-06-04T04:14:22.903Z
 tags: 
   - screen-recording
   - ai video

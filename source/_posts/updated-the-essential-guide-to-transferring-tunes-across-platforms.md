@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Guide to Transferring Tunes Across Platforms"
-date: 2024-05-31 20:55:12
-updated: 2024-06-01 10:20:42
+date: 2024-06-03T03:57:25.288Z
+updated: 2024-06-04T03:57:25.288Z
 tags: 
   - screen-recording
   - ai video

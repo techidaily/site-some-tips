@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Types & Designations in UA World"
-date: 2024-05-31 10:19:18
-updated: 2024-06-02 12:54:10
+date: 2024-06-03T04:31:05.554Z
+updated: 2024-06-04T04:31:05.554Z
 tags: 
   - screen-recording
   - ai video

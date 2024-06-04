@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Mastering Videos with Vida"
-date: 2024-05-29 17:35:26
-updated: 2024-06-01 11:15:57
+date: 2024-06-03T04:25:15.472Z
+updated: 2024-06-04T04:25:15.472Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 15 Essential GoPro Accessories for Newbies"
-date: 2024-06-01 21:29:59
-updated: 2024-06-02 10:17:29
+date: 2024-06-03T04:46:31.655Z
+updated: 2024-06-04T04:46:31.655Z
 tags: 
   - screen-recording
   - ai video

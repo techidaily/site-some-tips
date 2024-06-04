@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Impressive HDR Portraits Explained"
-date: 2024-05-30 12:52:25
-updated: 2024-06-01 11:48:30
+date: 2024-06-03T04:07:42.555Z
+updated: 2024-06-04T04:07:42.555Z
 tags: 
   - screen-recording
   - ai video

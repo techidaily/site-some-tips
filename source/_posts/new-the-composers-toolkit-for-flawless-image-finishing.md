@@ -1,7 +1,7 @@
 ---
 title: "[New] The Composer's Toolkit for Flawless Image Finishing"
-date: 2024-05-29 17:28:48
-updated: 2024-06-01 12:25:20
+date: 2024-06-03T04:02:31.641Z
+updated: 2024-06-04T04:02:31.641Z
 tags: 
   - screen-recording
   - ai video

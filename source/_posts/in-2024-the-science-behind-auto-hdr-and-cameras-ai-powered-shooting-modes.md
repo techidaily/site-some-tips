@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes\""
-date: 2024-05-30 17:54:18
-updated: 2024-06-01 10:10:17
+date: 2024-06-03T04:46:53.561Z
+updated: 2024-06-04T04:46:53.561Z
 tags: 
   - screen-recording
   - ai video

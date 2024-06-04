@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Mastering Funimate"
-date: 2024-05-31 11:33:38
-updated: 2024-06-01 12:23:22
+date: 2024-06-03T04:52:31.253Z
+updated: 2024-06-04T04:52:31.253Z
 tags: 
   - screen-recording
   - ai video

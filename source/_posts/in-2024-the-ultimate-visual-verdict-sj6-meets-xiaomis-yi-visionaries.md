@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Visual Verdict  SJ6 Meets Xiaomi’s Yi Visionaries\""
-date: 2024-05-31 19:44:31
-updated: 2024-06-01 10:50:23
+date: 2024-06-03T04:19:18.064Z
+updated: 2024-06-04T04:19:18.064Z
 tags: 
   - screen-recording
   - ai video

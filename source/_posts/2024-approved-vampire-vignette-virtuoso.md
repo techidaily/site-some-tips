@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vampire Vignette Virtuoso\""
-date: 2024-06-01 21:35:47
-updated: 2024-06-03 12:12:19
+date: 2024-06-03T04:25:09.428Z
+updated: 2024-06-04T04:25:09.428Z
 tags: 
   - screen-recording
   - ai video

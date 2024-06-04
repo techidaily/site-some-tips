@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Secure Sharpening  Hiding Unwanted Details\""
-date: 2024-05-29 16:14:57
-updated: 2024-05-30 12:12:46
+date: 2024-06-03T03:50:39.530Z
+updated: 2024-06-04T03:50:39.530Z
 tags: 
   - screen-recording
   - ai video

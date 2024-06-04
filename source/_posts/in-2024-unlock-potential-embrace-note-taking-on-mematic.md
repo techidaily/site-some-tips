@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Potential  Embrace Note-Taking on Mematic\""
-date: 2024-06-02 17:35:27
-updated: 2024-06-03 11:34:54
+date: 2024-06-03T03:47:01.319Z
+updated: 2024-06-04T03:47:01.319Z
 tags: 
   - screen-recording
   - ai video

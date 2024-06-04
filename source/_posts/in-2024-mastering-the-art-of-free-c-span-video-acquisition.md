@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering the Art of Free C-Span Video Acquisition\""
-date: 2024-05-25 20:37:22
-updated: 2024-05-28 11:14:26
+date: 2024-06-03T04:12:58.297Z
+updated: 2024-06-04T04:12:58.297Z
 tags: 
   - screen-recording
   - ai video

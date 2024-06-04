@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Great GoPro Race  Hero5 Black V/S Hero4 Silver Edition\""
-date: 2024-05-31 23:15:14
-updated: 2024-06-01 12:46:44
+date: 2024-06-03T04:05:10.137Z
+updated: 2024-06-04T04:05:10.137Z
 tags: 
   - screen-recording
   - ai video

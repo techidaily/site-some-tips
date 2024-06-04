@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Zoom Sessions with Our Top Six Cams\""
-date: 2024-05-29 14:47:18
-updated: 2024-05-31 11:37:50
+date: 2024-06-03T04:40:56.397Z
+updated: 2024-06-04T04:40:56.398Z
 tags: 
   - screen-recording
   - ai video

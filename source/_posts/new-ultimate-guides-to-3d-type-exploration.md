@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Guides to 3D Type Exploration"
-date: 2024-05-30 11:33:43
-updated: 2024-06-02 12:54:49
+date: 2024-06-03T04:03:10.437Z
+updated: 2024-06-04T04:03:10.437Z
 tags: 
   - screen-recording
   - ai video

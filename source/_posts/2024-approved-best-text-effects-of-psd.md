@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Best Text Effects of PSD\""
-date: 2024-05-31 12:42:28
-updated: 2024-06-01 12:29:32
+date: 2024-06-03T04:26:09.728Z
+updated: 2024-06-04T04:26:09.728Z
 tags: 
   - screen-recording
   - ai video

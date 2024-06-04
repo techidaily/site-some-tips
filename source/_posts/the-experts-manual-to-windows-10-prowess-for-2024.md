@@ -1,7 +1,7 @@
 ---
 title: "The Expert's Manual to WINDOWS 10 Prowess for 2024"
-date: 2024-05-30 13:45:33
-updated: 2024-06-01 10:47:29
+date: 2024-06-03T04:51:21.315Z
+updated: 2024-06-04T04:51:21.315Z
 tags: 
   - screen-recording
   - ai video

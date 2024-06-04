@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Videographer's Companion  The ION Air Pro 3 Deep Dive\""
-date: 2024-05-30 16:56:13
-updated: 2024-06-01 10:45:12
+date: 2024-06-03T04:26:20.359Z
+updated: 2024-06-04T04:26:20.359Z
 tags: 
   - screen-recording
   - ai video

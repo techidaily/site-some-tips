@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Win11 Videographers' Choices Roundup"
-date: 2024-05-31 22:44:46
-updated: 2024-06-02 10:19:15
+date: 2024-06-03T04:27:40.486Z
+updated: 2024-06-04T04:27:40.486Z
 tags: 
   - screen-recording
   - ai video

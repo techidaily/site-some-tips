@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 8 Video Boosters  Say Goodbye to Slow Mo\""
-date: 2024-05-31 15:22:54
-updated: 2024-06-02 12:57:45
+date: 2024-06-03T04:21:16.258Z
+updated: 2024-06-04T04:21:16.259Z
 tags: 
   - screen-recording
   - ai video

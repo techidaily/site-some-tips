@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Substitutes for WinMovie  New Windows Editors\""
-date: 2024-05-28 22:58:46
-updated: 2024-05-31 10:50:13
+date: 2024-06-03T04:51:47.811Z
+updated: 2024-06-04T04:51:47.811Z
 tags: 
   - screen-recording
   - ai video

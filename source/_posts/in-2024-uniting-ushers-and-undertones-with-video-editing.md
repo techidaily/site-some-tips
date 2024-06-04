@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Uniting Ushers and Undertones with Video Editing"
-date: 2024-05-30 22:44:44
-updated: 2024-06-02 10:24:17
+date: 2024-06-03T04:44:16.394Z
+updated: 2024-06-04T04:44:16.394Z
 tags: 
   - screen-recording
   - ai video

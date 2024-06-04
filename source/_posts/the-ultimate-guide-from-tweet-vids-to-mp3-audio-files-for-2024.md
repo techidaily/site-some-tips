@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide  From Tweet Vids to MP3 Audio Files for 2024\""
-date: 2024-05-31 15:37:17
-updated: 2024-06-01 12:57:44
+date: 2024-06-03T04:06:21.227Z
+updated: 2024-06-04T04:06:21.227Z
 tags: 
   - screen-recording
   - ai video

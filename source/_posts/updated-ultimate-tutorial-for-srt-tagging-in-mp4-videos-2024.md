@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Tutorial for SRT Tagging in MP4 Videos 2024"
-date: 2024-05-30 19:46:43
-updated: 2024-06-02 11:41:10
+date: 2024-06-03T04:34:03.965Z
+updated: 2024-06-04T04:34:03.965Z
 tags: 
   - screen-recording
   - ai video

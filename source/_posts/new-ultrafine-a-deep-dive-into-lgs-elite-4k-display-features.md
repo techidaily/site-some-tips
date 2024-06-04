@@ -1,7 +1,7 @@
 ---
 title: "\"[New] UltraFine  A Deep Dive Into LG's Elite 4K Display Features\""
-date: 2024-05-31 11:12:29
-updated: 2024-06-02 12:10:17
+date: 2024-06-03T03:56:42.722Z
+updated: 2024-06-04T03:56:42.722Z
 tags: 
   - screen-recording
   - ai video

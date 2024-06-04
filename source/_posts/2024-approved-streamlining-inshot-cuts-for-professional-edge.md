@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Inshot Cuts for Professional Edge\""
-date: 2024-05-30 11:28:52
-updated: 2024-05-31 12:27:44
+date: 2024-06-03T03:58:35.259Z
+updated: 2024-06-04T03:58:35.259Z
 tags: 
   - screen-recording
   - ai video

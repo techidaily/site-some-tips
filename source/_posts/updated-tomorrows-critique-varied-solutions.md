@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tomorrow’s Critique  Varied Solutions\""
-date: 2024-05-30 13:23:55
-updated: 2024-06-02 10:24:17
+date: 2024-06-03T04:09:03.934Z
+updated: 2024-06-04T04:09:03.934Z
 tags: 
   - screen-recording
   - ai video

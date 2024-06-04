@@ -1,7 +1,7 @@
 ---
 title: "[New] Latest LG 360 Camera Features and Review"
-date: 2024-05-27 18:18:19
-updated: 2024-05-28 10:39:32
+date: 2024-06-03T03:46:02.023Z
+updated: 2024-06-04T03:46:02.023Z
 tags: 
   - screen-recording
   - ai video

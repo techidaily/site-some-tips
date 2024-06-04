@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Your Screen  PIP Tutorials for macOS Enthusiasts\""
-date: 2024-05-31 23:59:14
-updated: 2024-06-02 11:51:30
+date: 2024-06-03T04:30:34.356Z
+updated: 2024-06-04T04:30:34.356Z
 tags: 
   - screen-recording
   - ai video

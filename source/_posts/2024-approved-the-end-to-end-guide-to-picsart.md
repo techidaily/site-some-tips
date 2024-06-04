@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The End-to-End Guide to PicsArt\""
-date: 2024-05-30 19:51:54
-updated: 2024-06-01 11:28:36
+date: 2024-06-03T04:24:34.668Z
+updated: 2024-06-04T04:24:34.668Z
 tags: 
   - screen-recording
   - ai video

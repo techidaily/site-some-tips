@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining SRT File Integration on Digital Platforms\""
-date: 2024-05-30 23:57:32
-updated: 2024-05-31 11:48:10
+date: 2024-06-03T03:54:48.383Z
+updated: 2024-06-04T03:54:48.383Z
 tags: 
   - screen-recording
   - ai video

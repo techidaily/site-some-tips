@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Haul Video Guide  From Camera to Final Cut\""
-date: 2024-05-29 16:18:49
-updated: 2024-06-01 12:53:45
+date: 2024-06-03T03:55:03.867Z
+updated: 2024-06-04T03:55:03.867Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Editor's Edge  Adding Sleek Fades to Your Work\""
-date: 2024-05-29 20:59:51
-updated: 2024-06-01 10:29:45
+date: 2024-06-03T04:11:55.118Z
+updated: 2024-06-04T04:11:55.118Z
 tags: 
   - screen-recording
   - ai video

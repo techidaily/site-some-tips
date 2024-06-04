@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time-Honored Tricks  Top 1980S Visual Effects to Elevate Your Edits\""
-date: 2024-06-01 17:14:44
-updated: 2024-06-02 11:15:36
+date: 2024-06-03T03:56:27.681Z
+updated: 2024-06-04T03:56:27.681Z
 tags: 
   - screen-recording
   - ai video

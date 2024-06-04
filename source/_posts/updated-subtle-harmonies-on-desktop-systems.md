@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Subtle Harmonies on Desktop Systems"
-date: 2024-05-28 20:52:46
-updated: 2024-05-31 11:58:31
+date: 2024-06-03T04:19:04.981Z
+updated: 2024-06-04T04:19:04.981Z
 tags: 
   - screen-recording
   - ai video

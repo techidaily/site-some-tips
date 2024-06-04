@@ -1,7 +1,7 @@
 ---
 title: "[New] Steps to Convert Video Tweets to MP3 Soundtracks"
-date: 2024-05-29 13:16:14
-updated: 2024-05-31 10:33:10
+date: 2024-06-03T03:51:48.844Z
+updated: 2024-06-04T03:51:48.844Z
 tags: 
   - screen-recording
   - ai video

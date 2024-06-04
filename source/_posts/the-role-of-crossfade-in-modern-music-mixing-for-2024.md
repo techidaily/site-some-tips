@@ -1,7 +1,7 @@
 ---
 title: "The Role of Crossfade in Modern Music Mixing for 2024"
-date: 2024-05-31 22:30:56
-updated: 2024-06-01 10:24:26
+date: 2024-06-03T03:58:57.396Z
+updated: 2024-06-04T03:58:57.396Z
 tags: 
   - screen-recording
   - ai video

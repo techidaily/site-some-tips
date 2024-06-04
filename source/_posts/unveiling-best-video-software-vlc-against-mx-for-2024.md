@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling Best Video Software  VLC Against MX for 2024\""
-date: 2024-05-31 23:57:40
-updated: 2024-06-03 11:39:16
+date: 2024-06-03T03:54:43.394Z
+updated: 2024-06-04T03:54:43.394Z
 tags: 
   - screen-recording
   - ai video

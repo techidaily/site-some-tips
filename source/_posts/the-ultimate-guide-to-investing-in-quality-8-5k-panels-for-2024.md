@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to Investing in Quality  #8 5K Panels for 2024\""
-date: 2024-05-30 12:43:24
-updated: 2024-06-01 10:36:35
+date: 2024-06-03T03:57:52.776Z
+updated: 2024-06-04T03:57:52.776Z
 tags: 
   - screen-recording
   - ai video

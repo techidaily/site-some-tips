@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Full Potential  In-Depth Review of LG's Monitor Tech\""
-date: 2024-06-01 15:23:32
-updated: 2024-06-03 10:18:45
+date: 2024-06-03T04:46:22.861Z
+updated: 2024-06-04T04:46:22.861Z
 tags: 
   - screen-recording
   - ai video

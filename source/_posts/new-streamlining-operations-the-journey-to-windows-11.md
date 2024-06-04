@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining Operations  The Journey to Windows 11\""
-date: 2024-05-30 13:54:26
-updated: 2024-05-31 11:40:46
+date: 2024-06-03T04:30:37.192Z
+updated: 2024-06-04T04:30:37.192Z
 tags: 
   - screen-recording
   - ai video

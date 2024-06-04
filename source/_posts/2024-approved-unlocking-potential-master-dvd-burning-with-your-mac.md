@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Potential  Master DVD Burning with Your Mac\""
-date: 2024-06-02 10:22:18
-updated: 2024-06-03 10:42:49
+date: 2024-06-03T04:37:19.304Z
+updated: 2024-06-04T04:37:19.304Z
 tags: 
   - screen-recording
   - ai video

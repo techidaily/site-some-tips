@@ -1,7 +1,7 @@
 ---
 title: "[New] Understanding Cropping Settings in Digital Editors"
-date: 2024-06-01 23:56:32
-updated: 2024-06-02 12:33:48
+date: 2024-06-03T04:12:36.890Z
+updated: 2024-06-04T04:12:36.890Z
 tags: 
   - screen-recording
   - ai video

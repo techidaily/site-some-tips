@@ -1,7 +1,7 @@
 ---
 title: "Transforming Photos with Easy Online Cropping Steps for 2024"
-date: 2024-06-01 10:24:35
-updated: 2024-06-02 12:44:49
+date: 2024-06-03T04:51:23.417Z
+updated: 2024-06-04T04:51:23.417Z
 tags: 
   - screen-recording
   - ai video

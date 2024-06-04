@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Your Viewing  VLC Versus MX Comparison for 2024\""
-date: 2024-05-28 11:12:56
-updated: 2024-05-31 11:19:29
+date: 2024-06-03T04:14:10.821Z
+updated: 2024-06-04T04:14:10.821Z
 tags: 
   - screen-recording
   - ai video

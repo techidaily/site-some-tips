@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Supreme Narrative Designer's Den"
-date: 2024-05-29 14:53:10
-updated: 2024-05-31 11:19:49
+date: 2024-06-03T04:38:26.192Z
+updated: 2024-06-04T04:38:26.192Z
 tags: 
   - screen-recording
   - ai video

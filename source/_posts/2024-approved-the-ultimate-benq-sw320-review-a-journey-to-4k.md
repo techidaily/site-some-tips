@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate BenQ SW320 Review  A Journey to 4K\""
-date: 2024-05-30 23:21:48
-updated: 2024-06-01 11:48:16
+date: 2024-06-03T03:42:47.876Z
+updated: 2024-06-04T03:42:47.876Z
 tags: 
   - screen-recording
   - ai video

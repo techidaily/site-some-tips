@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your Instagram with 8 Unique Unboxing Video Ideas"
-date: 2024-05-30 16:43:48
-updated: 2024-06-02 10:45:25
+date: 2024-06-03T04:12:27.855Z
+updated: 2024-06-04T04:12:27.855Z
 tags: 
   - screen-recording
   - ai video

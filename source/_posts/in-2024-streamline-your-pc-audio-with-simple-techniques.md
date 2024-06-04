@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamline Your PC Audio with Simple Techniques"
-date: 2024-05-29 13:44:27
-updated: 2024-05-31 10:26:24
+date: 2024-06-03T04:27:18.465Z
+updated: 2024-06-04T04:27:18.465Z
 tags: 
   - screen-recording
   - ai video

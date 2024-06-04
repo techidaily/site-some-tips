@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Surpass Everyday Photo-Taking with iOS 11\""
-date: 2024-05-30 15:36:28
-updated: 2024-05-31 10:10:47
+date: 2024-06-03T04:24:48.127Z
+updated: 2024-06-04T04:24:48.127Z
 tags: 
   - screen-recording
   - ai video

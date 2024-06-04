@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Taking the First Steps Towards VR Technology  Mobile-Based Headsets Vs. Cabled Gear\""
-date: 2024-05-29 19:12:23
-updated: 2024-05-31 11:46:58
+date: 2024-06-03T04:11:39.736Z
+updated: 2024-06-04T04:11:39.736Z
 tags: 
   - screen-recording
   - ai video

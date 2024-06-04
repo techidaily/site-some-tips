@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The New Era of Capturing Life with Updated LG 360 Cameras"
-date: 2024-05-31 11:45:10
-updated: 2024-06-01 10:39:35
+date: 2024-06-03T04:15:11.361Z
+updated: 2024-06-04T04:15:11.361Z
 tags: 
   - screen-recording
   - ai video

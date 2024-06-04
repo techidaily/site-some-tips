@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Full Spectrum Analysis of LG’s High-Definition Screen\""
-date: 2024-05-30 15:22:11
-updated: 2024-06-01 10:25:44
+date: 2024-06-03T04:20:00.339Z
+updated: 2024-06-04T04:20:00.339Z
 tags: 
   - screen-recording
   - ai video

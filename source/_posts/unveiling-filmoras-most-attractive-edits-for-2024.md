@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Filmora's Most Attractive Edits for 2024"
-date: 2024-05-31 18:13:20
-updated: 2024-06-03 12:17:12
+date: 2024-06-03T04:30:47.803Z
+updated: 2024-06-04T04:30:47.803Z
 tags: 
   - screen-recording
   - ai video

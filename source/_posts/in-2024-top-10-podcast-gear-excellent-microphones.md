@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 10 Podcast Gear  Excellent Microphones\""
-date: 2024-06-01 12:41:35
-updated: 2024-06-02 11:33:38
+date: 2024-06-03T04:40:35.155Z
+updated: 2024-06-04T04:40:35.155Z
 tags: 
   - screen-recording
   - ai video

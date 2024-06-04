@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate List  Top 10 Subtitle Editors Web\""
-date: 2024-05-30 21:13:23
-updated: 2024-06-02 11:30:18
+date: 2024-06-03T04:06:42.343Z
+updated: 2024-06-04T04:06:42.343Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Basic HDR Imaging"
-date: 2024-05-31 20:11:16
-updated: 2024-06-01 11:15:44
+date: 2024-06-03T03:56:34.829Z
+updated: 2024-06-04T03:56:34.829Z
 tags: 
   - screen-recording
   - ai video

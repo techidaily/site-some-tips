@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Best 5 Book Video Promotions Ever Made\""
-date: 2024-05-29 11:24:43
-updated: 2024-06-01 10:44:15
+date: 2024-06-03T04:22:58.405Z
+updated: 2024-06-04T04:22:58.405Z
 tags: 
   - screen-recording
   - ai video

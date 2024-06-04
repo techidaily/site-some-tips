@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate List  10 Text Effects to Elevate Your Clips\""
-date: 2024-05-30 11:49:56
-updated: 2024-06-01 10:44:34
+date: 2024-06-03T04:49:07.737Z
+updated: 2024-06-04T04:49:07.737Z
 tags: 
   - screen-recording
   - ai video

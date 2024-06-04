@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Photo Editing Processes  A Guide\""
-date: 2024-05-28 14:23:34
-updated: 2024-05-31 12:28:24
+date: 2024-06-03T04:39:20.746Z
+updated: 2024-06-04T04:39:20.746Z
 tags: 
   - screen-recording
   - ai video

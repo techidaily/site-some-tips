@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Visual Testimonial Advantage"
-date: 2024-05-29 16:16:11
-updated: 2024-06-01 12:17:27
+date: 2024-06-03T04:42:12.208Z
+updated: 2024-06-04T04:42:12.208Z
 tags: 
   - screen-recording
   - ai video

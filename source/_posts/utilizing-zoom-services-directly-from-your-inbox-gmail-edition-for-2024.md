@@ -1,7 +1,7 @@
 ---
 title: "\"Utilizing Zoom Services Directly From Your Inbox - Gmail Edition for 2024\""
-date: 2024-06-02 15:54:58
-updated: 2024-06-03 11:43:26
+date: 2024-06-03T04:46:46.501Z
+updated: 2024-06-04T04:46:46.501Z
 tags: 
   - screen-recording
   - ai video

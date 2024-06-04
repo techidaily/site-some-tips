@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Economics of Video Promotion Platforms"
-date: 2024-05-29 23:38:49
-updated: 2024-06-01 11:20:37
+date: 2024-06-03T04:06:58.716Z
+updated: 2024-06-04T04:06:58.716Z
 tags: 
   - screen-recording
   - ai video

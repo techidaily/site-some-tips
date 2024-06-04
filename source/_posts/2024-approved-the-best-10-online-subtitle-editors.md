@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Best 10 Online Subtitle Editors\""
-date: 2024-05-29 11:17:42
-updated: 2024-05-31 10:25:40
+date: 2024-06-03T04:22:27.429Z
+updated: 2024-06-04T04:22:27.429Z
 tags: 
   - screen-recording
   - ai video

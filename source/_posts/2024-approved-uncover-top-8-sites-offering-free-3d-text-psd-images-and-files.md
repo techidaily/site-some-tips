@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files\""
-date: 2024-06-01 11:38:14
-updated: 2024-06-02 10:22:44
+date: 2024-06-03T04:15:08.110Z
+updated: 2024-06-04T04:15:08.110Z
 tags: 
   - screen-recording
   - ai video

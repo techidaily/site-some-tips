@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling 3D LUT Magic  A Deep Dive Into Photoshop for 2024\""
-date: 2024-06-01 10:44:36
-updated: 2024-06-03 12:50:13
+date: 2024-06-03T03:44:38.224Z
+updated: 2024-06-04T03:44:38.224Z
 tags: 
   - screen-recording
   - ai video

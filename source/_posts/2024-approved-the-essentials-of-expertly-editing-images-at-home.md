@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essentials of Expertly Editing Images at Home\""
-date: 2024-05-30 12:29:16
-updated: 2024-06-01 12:58:10
+date: 2024-06-03T04:39:52.965Z
+updated: 2024-06-04T04:39:52.965Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Impact of Weather on Syma X8C Performance"
-date: 2024-05-29 17:33:35
-updated: 2024-06-01 12:48:53
+date: 2024-06-03T04:23:07.625Z
+updated: 2024-06-04T04:23:07.625Z
 tags: 
   - screen-recording
   - ai video

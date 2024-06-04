@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Full Potential of WhatsApp\""
-date: 2024-06-02 21:56:57
-updated: 2024-06-03 12:51:46
+date: 2024-06-03T04:50:35.454Z
+updated: 2024-06-04T04:50:35.454Z
 tags: 
   - screen-recording
   - ai video

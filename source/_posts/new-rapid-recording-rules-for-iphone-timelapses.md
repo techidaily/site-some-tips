@@ -1,7 +1,7 @@
 ---
 title: "[New] Rapid Recording Rules for iPhone Timelapses"
-date: 2024-05-28 13:56:27
-updated: 2024-05-30 10:33:46
+date: 2024-06-03T04:36:51.365Z
+updated: 2024-06-04T04:36:51.365Z
 tags: 
   - screen-recording
   - ai video

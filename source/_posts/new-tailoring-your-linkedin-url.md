@@ -1,7 +1,7 @@
 ---
 title: "[New] Tailoring Your LinkedIn URL"
-date: 2024-05-28 16:58:51
-updated: 2024-05-31 10:26:55
+date: 2024-06-03T04:48:06.633Z
+updated: 2024-06-04T04:48:06.633Z
 tags: 
   - screen-recording
   - ai video

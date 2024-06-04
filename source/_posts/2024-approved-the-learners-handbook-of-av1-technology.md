@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Learner's Handbook of AV1 Technology\""
-date: 2024-05-30 10:53:13
-updated: 2024-06-01 12:38:14
+date: 2024-06-03T04:22:28.139Z
+updated: 2024-06-04T04:22:28.139Z
 tags: 
   - screen-recording
   - ai video

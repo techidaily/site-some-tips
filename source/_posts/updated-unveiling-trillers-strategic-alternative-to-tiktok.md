@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling Triller's Strategic Alternative to TikTok"
-date: 2024-05-31 23:43:17
-updated: 2024-06-03 11:23:10
+date: 2024-06-03T04:25:04.459Z
+updated: 2024-06-04T04:25:04.459Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Integrating Timestamps in YouTube Content for 2024"
-date: 2024-05-26 14:58:47
-updated: 2024-05-27 12:37:56
+date: 2024-06-03T04:04:06.532Z
+updated: 2024-06-04T04:04:06.532Z
 tags: 
   - screen-recording
   - ai video

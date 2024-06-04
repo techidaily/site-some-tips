@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 4K Video Gear  The Definitive Lens Selection\""
-date: 2024-05-30 12:37:22
-updated: 2024-06-02 10:57:31
+date: 2024-06-03T04:13:26.371Z
+updated: 2024-06-04T04:13:26.371Z
 tags: 
   - screen-recording
   - ai video

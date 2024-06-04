@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming Industries via VR"
-date: 2024-05-31 21:34:51
-updated: 2024-06-02 12:24:45
+date: 2024-06-03T04:36:38.606Z
+updated: 2024-06-04T04:36:38.606Z
 tags: 
   - screen-recording
   - ai video

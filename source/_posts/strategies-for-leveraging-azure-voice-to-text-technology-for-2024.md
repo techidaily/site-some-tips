@@ -1,7 +1,7 @@
 ---
 title: "\"Strategies for Leveraging Azure Voice-to-Text Technology for 2024\""
-date: 2024-05-29 23:51:19
-updated: 2024-05-31 10:28:43
+date: 2024-06-03T04:02:36.614Z
+updated: 2024-06-04T04:02:36.614Z
 tags: 
   - screen-recording
   - ai video

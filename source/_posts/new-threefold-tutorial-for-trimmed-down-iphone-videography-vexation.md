@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Threefold Tutorial for Trimmed-Down iPhone Videography Vexation\""
-date: 2024-05-29 21:19:36
-updated: 2024-06-01 12:38:13
+date: 2024-06-03T04:46:30.636Z
+updated: 2024-06-04T04:46:30.636Z
 tags: 
   - screen-recording
   - ai video

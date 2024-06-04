@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Top Techniques for Mastering SRT File Generation\""
-date: 2024-06-02 14:32:45
-updated: 2024-06-03 10:14:26
+date: 2024-06-03T04:07:40.410Z
+updated: 2024-06-04T04:07:40.410Z
 tags: 
   - screen-recording
   - ai video

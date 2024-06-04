@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Flawless Instagram Collage Designs for 2024"
-date: 2024-05-29 19:59:30
-updated: 2024-06-01 10:47:32
+date: 2024-06-03T04:32:52.370Z
+updated: 2024-06-04T04:32:52.370Z
 tags: 
   - screen-recording
   - ai video

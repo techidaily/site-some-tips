@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Entertainment  12 Live Screening Suite for 2024\""
-date: 2024-05-30 16:31:50
-updated: 2024-06-02 12:25:56
+date: 2024-06-03T04:42:56.418Z
+updated: 2024-06-04T04:42:56.418Z
 tags: 
   - screen-recording
   - ai video

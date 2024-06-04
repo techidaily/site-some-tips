@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List of AI Named Generators for Podcasters for 2024"
-date: 2024-05-30 16:35:55
-updated: 2024-06-01 12:23:10
+date: 2024-06-03T04:03:46.574Z
+updated: 2024-06-04T04:03:46.574Z
 tags: 
   - screen-recording
   - ai video

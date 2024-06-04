@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Display Decoded  BenQ’s BL2711U and Its Professional Impact for 2024\""
-date: 2024-05-30 15:51:18
-updated: 2024-06-01 11:24:41
+date: 2024-06-03T03:46:37.611Z
+updated: 2024-06-04T03:46:37.611Z
 tags: 
   - screen-recording
   - ai video

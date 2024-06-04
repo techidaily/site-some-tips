@@ -1,7 +1,7 @@
 ---
 title: "\"Top-Rated Mobile Video Editors for iOS & Android for 2024\""
-date: 2024-05-31 21:19:59
-updated: 2024-06-02 11:12:43
+date: 2024-06-03T03:53:01.695Z
+updated: 2024-06-04T03:53:01.695Z
 tags: 
   - screen-recording
   - ai video

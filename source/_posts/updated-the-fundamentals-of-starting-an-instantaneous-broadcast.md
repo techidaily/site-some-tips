@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Fundamentals of Starting an Instantaneous Broadcast"
-date: 2024-05-29 17:15:58
-updated: 2024-06-01 12:47:49
+date: 2024-06-03T04:34:01.139Z
+updated: 2024-06-04T04:34:01.139Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking the Secrets  Quickly Change Your Character's Vocal Tone (PUBG)\""
-date: 2024-06-01 19:54:50
-updated: 2024-06-03 11:25:32
+date: 2024-06-03T04:35:03.857Z
+updated: 2024-06-04T04:35:03.857Z
 tags: 
   - screen-recording
   - ai video

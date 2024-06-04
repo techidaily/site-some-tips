@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tutorials for Downgrading MacOS Sierra To El Capitan\""
-date: 2024-05-31 21:49:45
-updated: 2024-06-02 10:53:24
+date: 2024-06-03T04:37:48.995Z
+updated: 2024-06-04T04:37:48.995Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Instagram Image Addition Playbook for 2024"
-date: 2024-05-29 18:36:39
-updated: 2024-06-01 12:13:35
+date: 2024-06-03T04:49:45.891Z
+updated: 2024-06-04T04:49:45.891Z
 tags: 
   - screen-recording
   - ai video

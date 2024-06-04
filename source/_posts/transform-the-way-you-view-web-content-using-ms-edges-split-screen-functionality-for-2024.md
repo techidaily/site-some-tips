@@ -1,7 +1,7 @@
 ---
 title: "Transform the Way You View Web Content Using MS Edge's Split Screen Functionality for 2024"
-date: 2024-05-30 14:12:57
-updated: 2024-06-02 10:58:48
+date: 2024-06-03T04:47:08.487Z
+updated: 2024-06-04T04:47:08.487Z
 tags: 
   - screen-recording
   - ai video

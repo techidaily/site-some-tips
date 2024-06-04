@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unparalleled Capturing  The Best Camcorders\""
-date: 2024-06-02 23:10:35
-updated: 2024-06-03 12:47:13
+date: 2024-06-03T04:34:09.650Z
+updated: 2024-06-04T04:34:09.650Z
 tags: 
   - screen-recording
   - ai video

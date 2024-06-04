@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Path to Smooth Transitions in Inshot Editing"
-date: 2024-05-31 12:33:49
-updated: 2024-06-01 10:39:24
+date: 2024-06-03T04:27:54.329Z
+updated: 2024-06-04T04:27:54.330Z
 tags: 
   - screen-recording
   - ai video

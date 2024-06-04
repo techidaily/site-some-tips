@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques of Composing Persuasive Content in Vlogging"
-date: 2024-05-28 12:20:53
-updated: 2024-05-31 12:30:12
+date: 2024-06-03T04:10:19.513Z
+updated: 2024-06-04T04:10:19.513Z
 tags: 
   - screen-recording
   - ai video

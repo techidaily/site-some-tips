@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide of HDR Photo on iPhone Camera"
-date: 2024-05-29 22:39:41
-updated: 2024-06-01 11:48:49
+date: 2024-06-03T04:49:57.463Z
+updated: 2024-06-04T04:49:57.463Z
 tags: 
   - screen-recording
   - ai video

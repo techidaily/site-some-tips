@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate List of Podcast Gear - Ideal Mixers Ranked\""
-date: 2024-06-01 21:44:21
-updated: 2024-06-02 12:58:36
+date: 2024-06-03T04:49:24.230Z
+updated: 2024-06-04T04:49:24.230Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate T5 Camera for Extreme Clips\""
-date: 2024-06-01 17:48:35
-updated: 2024-06-02 10:56:40
+date: 2024-06-03T04:40:57.820Z
+updated: 2024-06-04T04:40:57.820Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips\""
-date: 2024-06-01 23:47:41
-updated: 2024-06-03 10:57:15
+date: 2024-06-03T03:50:03.539Z
+updated: 2024-06-04T03:50:03.539Z
 tags: 
   - screen-recording
   - ai video

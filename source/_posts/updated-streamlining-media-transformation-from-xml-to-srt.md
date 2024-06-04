@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlining Media Transformation From XML to SRT"
-date: 2024-05-28 16:52:48
-updated: 2024-05-31 12:26:32
+date: 2024-06-03T04:23:19.422Z
+updated: 2024-06-04T04:23:19.422Z
 tags: 
   - screen-recording
   - ai video

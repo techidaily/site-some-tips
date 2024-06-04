@@ -1,7 +1,7 @@
 ---
 title: "\"The Professional's Playbook  Refined GoPro Video Production Techniques for 2024\""
-date: 2024-05-29 18:48:18
-updated: 2024-06-01 10:15:23
+date: 2024-06-03T04:30:43.556Z
+updated: 2024-06-04T04:30:43.556Z
 tags: 
   - screen-recording
   - ai video

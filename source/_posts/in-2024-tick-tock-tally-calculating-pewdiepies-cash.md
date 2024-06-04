@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tick-Tock Tally  Calculating PewDiePie’s Cash\""
-date: 2024-05-29 13:24:19
-updated: 2024-06-01 11:35:22
+date: 2024-06-03T04:07:43.989Z
+updated: 2024-06-04T04:07:43.989Z
 tags: 
   - screen-recording
   - ai video

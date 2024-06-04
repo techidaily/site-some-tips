@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling Immersion  The LG 360 Virtual Reality Experience\""
-date: 2024-06-02 11:17:36
-updated: 2024-06-03 10:25:34
+date: 2024-06-03T04:12:31.879Z
+updated: 2024-06-04T04:12:31.879Z
 tags: 
   - screen-recording
   - ai video

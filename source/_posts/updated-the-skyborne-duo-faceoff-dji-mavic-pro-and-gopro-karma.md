@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Skyborne Duo Faceoff  DJI Mavic Pro & GoPro Karma\""
-date: 2024-05-29 21:22:14
-updated: 2024-06-01 10:41:42
+date: 2024-06-03T04:26:04.059Z
+updated: 2024-06-04T04:26:04.059Z
 tags: 
   - screen-recording
   - ai video

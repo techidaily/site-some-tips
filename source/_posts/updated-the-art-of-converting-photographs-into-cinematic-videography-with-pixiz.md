@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Converting Photographs Into Cinematic Videography with Pixiz"
-date: 2024-05-30 17:55:57
-updated: 2024-06-01 11:34:38
+date: 2024-06-03T03:53:06.001Z
+updated: 2024-06-04T03:53:06.001Z
 tags: 
   - screen-recording
   - ai video

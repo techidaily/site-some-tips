@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Troubleshooting Solo Earbuds\""
-date: 2024-05-30 16:52:23
-updated: 2024-06-02 10:25:32
+date: 2024-06-03T04:38:23.346Z
+updated: 2024-06-04T04:38:23.346Z
 tags: 
   - screen-recording
   - ai video

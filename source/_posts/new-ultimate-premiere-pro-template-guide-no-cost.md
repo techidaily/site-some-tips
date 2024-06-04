@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Premiere Pro Template Guide - No Cost\""
-date: 2024-05-31 13:13:33
-updated: 2024-06-02 11:34:46
+date: 2024-06-03T04:17:29.273Z
+updated: 2024-06-04T04:17:29.273Z
 tags: 
   - screen-recording
   - ai video

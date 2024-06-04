@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)"
-date: 2024-05-31 17:51:10
-updated: 2024-06-01 12:59:57
+date: 2024-06-03T03:48:42.422Z
+updated: 2024-06-04T03:48:42.422Z
 tags: 
   - screen-recording
   - ai video

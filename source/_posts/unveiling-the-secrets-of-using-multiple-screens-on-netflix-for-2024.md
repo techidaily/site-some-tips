@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of Using Multiple Screens on Netflix for 2024"
-date: 2024-05-31 16:37:56
-updated: 2024-06-03 10:31:52
+date: 2024-06-03T04:28:10.655Z
+updated: 2024-06-04T04:28:10.655Z
 tags: 
   - screen-recording
   - ai video

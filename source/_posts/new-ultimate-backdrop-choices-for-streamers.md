@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Backdrop Choices for Streamers"
-date: 2024-06-01 21:35:27
-updated: 2024-06-02 11:25:57
+date: 2024-06-03T04:45:29.354Z
+updated: 2024-06-04T04:45:29.354Z
 tags: 
   - screen-recording
   - ai video

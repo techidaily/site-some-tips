@@ -1,7 +1,7 @@
 ---
 title: "Streamline Document Creation with Microsoft Word Speech Recognition for 2024"
-date: 2024-05-28 14:50:44
-updated: 2024-05-31 12:38:35
+date: 2024-06-03T04:51:19.920Z
+updated: 2024-06-04T04:51:19.920Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlock Limitless Creativity with Free After Effects Samples"
-date: 2024-06-02 15:18:53
-updated: 2024-06-03 12:30:29
+date: 2024-06-03T04:37:43.341Z
+updated: 2024-06-04T04:37:43.341Z
 tags: 
   - screen-recording
   - ai video

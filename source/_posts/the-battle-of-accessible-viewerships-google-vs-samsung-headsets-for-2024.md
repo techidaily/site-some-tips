@@ -1,7 +1,7 @@
 ---
 title: "\"The Battle of Accessible Viewerships  Google Vs. Samsung Headsets for 2024\""
-date: 2024-05-31 12:34:56
-updated: 2024-06-01 12:24:11
+date: 2024-06-03T03:54:39.790Z
+updated: 2024-06-04T03:54:39.790Z
 tags: 
   - screen-recording
   - ai video

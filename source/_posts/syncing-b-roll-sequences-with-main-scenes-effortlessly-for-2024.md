@@ -1,7 +1,7 @@
 ---
 title: "Syncing B Roll Sequences with Main Scenes Effortlessly for 2024"
-date: 2024-05-30 17:35:59
-updated: 2024-05-31 10:22:14
+date: 2024-06-03T04:30:42.132Z
+updated: 2024-06-04T04:30:42.132Z
 tags: 
   - screen-recording
   - ai video

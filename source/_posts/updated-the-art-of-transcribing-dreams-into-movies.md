@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Transcribing Dreams Into Movies"
-date: 2024-05-30 12:48:44
-updated: 2024-06-01 10:18:21
+date: 2024-06-03T04:41:22.274Z
+updated: 2024-06-04T04:41:22.274Z
 tags: 
   - screen-recording
   - ai video

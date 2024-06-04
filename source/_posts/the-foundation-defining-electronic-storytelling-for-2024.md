@@ -1,7 +1,7 @@
 ---
 title: "\"The Foundation  Defining Electronic Storytelling for 2024\""
-date: 2024-05-29 17:19:26
-updated: 2024-06-01 11:18:10
+date: 2024-06-03T04:44:24.880Z
+updated: 2024-06-04T04:44:24.880Z
 tags: 
   - screen-recording
   - ai video

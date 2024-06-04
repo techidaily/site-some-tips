@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Every Frame Matters  Top 11 Multi-Angle Photography Gems\""
-date: 2024-05-23 14:38:49
-updated: 2024-05-26 10:26:32
+date: 2024-06-03T04:46:03.770Z
+updated: 2024-06-04T04:46:03.770Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vegas Pro '21  A Comprehenive Examination for Gamblers and Techies Alike\""
-date: 2024-06-01 18:19:46
-updated: 2024-06-03 12:36:24
+date: 2024-06-03T03:51:07.734Z
+updated: 2024-06-04T03:51:07.734Z
 tags: 
   - screen-recording
   - ai video

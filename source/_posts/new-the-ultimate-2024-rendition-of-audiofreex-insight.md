@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate 2024 Rendition of AudioFreex Insight"
-date: 2024-05-30 13:45:49
-updated: 2024-06-01 11:37:29
+date: 2024-06-03T04:32:14.157Z
+updated: 2024-06-04T04:32:14.157Z
 tags: 
   - screen-recording
   - ai video

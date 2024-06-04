@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategies to Create Gripping Documentary Scenes\""
-date: 2024-05-28 21:54:25
-updated: 2024-05-31 12:51:59
+date: 2024-06-03T04:04:25.790Z
+updated: 2024-06-04T04:04:25.790Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Your Podcast Potential  Advanced Techniques for iDevice Audio Recording for 2024\""
-date: 2024-06-02 16:17:47
-updated: 2024-06-03 11:40:10
+date: 2024-06-03T04:28:08.541Z
+updated: 2024-06-04T04:28:08.541Z
 tags: 
   - screen-recording
   - ai video

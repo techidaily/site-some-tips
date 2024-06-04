@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles"
-date: 2024-05-31 17:31:58
-updated: 2024-06-01 11:26:23
+date: 2024-06-03T04:20:24.486Z
+updated: 2024-06-04T04:20:24.486Z
 tags: 
   - screen-recording
   - ai video

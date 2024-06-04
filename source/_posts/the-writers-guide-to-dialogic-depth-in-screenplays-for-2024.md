@@ -1,7 +1,7 @@
 ---
 title: "The Writers' Guide to Dialogic Depth in Screenplays for 2024"
-date: 2024-05-29 15:11:35
-updated: 2024-06-01 11:45:14
+date: 2024-06-03T04:33:56.165Z
+updated: 2024-06-04T04:33:56.165Z
 tags: 
   - screen-recording
   - ai video

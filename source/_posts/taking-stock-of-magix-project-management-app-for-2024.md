@@ -1,7 +1,7 @@
 ---
 title: "Taking Stock of MAGIX Project Management App for 2024"
-date: 2024-05-29 21:41:57
-updated: 2024-05-31 10:55:58
+date: 2024-06-03T04:01:00.026Z
+updated: 2024-06-04T04:01:00.026Z
 tags: 
   - screen-recording
   - ai video

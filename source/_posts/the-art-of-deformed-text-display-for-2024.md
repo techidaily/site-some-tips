@@ -1,7 +1,7 @@
 ---
 title: "The Art of Deformed Text Display for 2024"
-date: 2024-05-31 16:40:30
-updated: 2024-06-01 11:27:20
+date: 2024-06-03T03:57:14.564Z
+updated: 2024-06-04T03:57:14.564Z
 tags: 
   - screen-recording
   - ai video

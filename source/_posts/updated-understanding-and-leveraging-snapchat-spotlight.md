@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding and Leveraging Snapchat Spotlight"
-date: 2024-05-31 11:55:58
-updated: 2024-06-02 11:51:29
+date: 2024-06-03T04:43:03.483Z
+updated: 2024-06-04T04:43:03.483Z
 tags: 
   - screen-recording
   - ai video

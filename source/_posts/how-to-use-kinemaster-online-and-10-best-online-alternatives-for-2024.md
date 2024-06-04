@@ -1,7 +1,7 @@
 ---
 title: "How To Use KineMaster Online and 10 Best Online Alternatives for 2024"
-date: 2024-05-27 16:42:48
-updated: 2024-05-28 11:37:50
+date: 2024-06-03T04:01:23.184Z
+updated: 2024-06-04T04:01:23.184Z
 tags: 
   - screen-recording
   - ai video

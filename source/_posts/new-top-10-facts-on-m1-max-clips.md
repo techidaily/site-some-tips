@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Facts on M1 Max Clips"
-date: 2024-06-01 22:13:55
-updated: 2024-06-02 11:40:22
+date: 2024-06-03T04:45:27.234Z
+updated: 2024-06-04T04:45:27.234Z
 tags: 
   - screen-recording
   - ai video

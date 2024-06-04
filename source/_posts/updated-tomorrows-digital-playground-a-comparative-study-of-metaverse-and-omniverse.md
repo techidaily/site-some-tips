@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tomorrow's Digital Playground  A Comparative Study of Metaverse & Omniverse\""
-date: 2024-05-30 10:51:18
-updated: 2024-06-02 10:45:39
+date: 2024-06-03T04:44:35.153Z
+updated: 2024-06-04T04:44:35.153Z
 tags: 
   - screen-recording
   - ai video

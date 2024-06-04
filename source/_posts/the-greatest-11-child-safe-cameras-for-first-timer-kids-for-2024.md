@@ -1,7 +1,7 @@
 ---
 title: "\"The Greatest 11 Child-Safe Cameras for First-Timer Kids for 2024\""
-date: 2024-05-31 22:27:23
-updated: 2024-06-01 12:51:48
+date: 2024-06-03T04:07:24.727Z
+updated: 2024-06-04T04:07:24.727Z
 tags: 
   - screen-recording
   - ai video

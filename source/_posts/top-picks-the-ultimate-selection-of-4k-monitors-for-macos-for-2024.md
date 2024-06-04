@@ -1,7 +1,7 @@
 ---
 title: "\"Top Picks  The Ultimate Selection of 4K Monitors for MacOS for 2024\""
-date: 2024-06-01 15:23:26
-updated: 2024-06-02 10:20:31
+date: 2024-06-03T03:59:27.866Z
+updated: 2024-06-04T03:59:27.866Z
 tags: 
   - screen-recording
   - ai video

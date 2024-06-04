@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 8 Essential Laptop Skins for Dynamic Screens"
-date: 2024-05-31 14:24:26
-updated: 2024-06-02 10:48:56
+date: 2024-06-03T04:42:47.221Z
+updated: 2024-06-04T04:42:47.221Z
 tags: 
   - screen-recording
   - ai video

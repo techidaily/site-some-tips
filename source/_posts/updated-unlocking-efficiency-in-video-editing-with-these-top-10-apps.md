@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Efficiency in Video Editing with These Top 10 Apps"
-date: 2024-06-02 16:45:22
-updated: 2024-06-03 11:49:28
+date: 2024-06-03T04:05:27.999Z
+updated: 2024-06-04T04:05:27.999Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Science Behind WhatsApp Voice Talks for 2024"
-date: 2024-05-31 15:22:16
-updated: 2024-06-01 12:53:37
+date: 2024-06-03T04:50:17.655Z
+updated: 2024-06-04T04:50:17.655Z
 tags: 
   - screen-recording
   - ai video

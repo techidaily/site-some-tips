@@ -1,7 +1,7 @@
 ---
 title: "\"Spice Up Your Feeds  Text-Based Meme Magic for 2024\""
-date: 2024-05-29 12:28:54
-updated: 2024-05-31 11:15:17
+date: 2024-06-03T04:13:46.311Z
+updated: 2024-06-04T04:13:46.311Z
 tags: 
   - screen-recording
   - ai video

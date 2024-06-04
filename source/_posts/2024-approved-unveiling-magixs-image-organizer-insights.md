@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling MAGIX's Image Organizer Insights\""
-date: 2024-05-31 12:13:41
-updated: 2024-06-03 10:13:31
+date: 2024-06-03T04:29:24.310Z
+updated: 2024-06-04T04:29:24.310Z
 tags: 
   - screen-recording
   - ai video

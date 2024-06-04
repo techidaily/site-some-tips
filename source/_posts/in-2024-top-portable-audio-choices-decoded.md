@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Portable Audio Choices Decoded"
-date: 2024-06-01 20:45:35
-updated: 2024-06-02 12:32:51
+date: 2024-06-03T04:36:14.100Z
+updated: 2024-06-04T04:36:14.100Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Systematic Upgrade Procedures for macOS Sierra Users"
-date: 2024-05-29 23:20:34
-updated: 2024-05-31 12:13:21
+date: 2024-06-03T03:43:58.855Z
+updated: 2024-06-04T03:43:58.855Z
 tags: 
   - screen-recording
   - ai video

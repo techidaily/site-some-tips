@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] LG 360-Degree Headset Review - Next-Gen Immersion\""
-date: 2024-05-25 15:23:53
-updated: 2024-05-28 11:21:54
+date: 2024-06-03T04:07:27.563Z
+updated: 2024-06-04T04:07:27.563Z
 tags: 
   - screen-recording
   - ai video

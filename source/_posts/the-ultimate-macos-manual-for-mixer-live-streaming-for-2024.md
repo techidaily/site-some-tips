@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate MacOS Manual for Mixer Live Streaming for 2024"
-date: 2024-05-29 11:58:15
-updated: 2024-06-01 10:29:40
+date: 2024-06-03T04:33:25.328Z
+updated: 2024-06-04T04:33:25.328Z
 tags: 
   - screen-recording
   - ai video

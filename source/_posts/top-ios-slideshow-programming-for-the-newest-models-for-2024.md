@@ -1,7 +1,7 @@
 ---
 title: "Top iOS Slideshow Programming for the Newest Models for 2024"
-date: 2024-05-31 22:10:20
-updated: 2024-06-02 12:16:10
+date: 2024-06-03T04:45:34.350Z
+updated: 2024-06-04T04:45:34.350Z
 tags: 
   - screen-recording
   - ai video

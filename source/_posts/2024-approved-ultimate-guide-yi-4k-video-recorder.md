@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Guide  YI 4K Video Recorder\""
-date: 2024-05-31 19:52:46
-updated: 2024-06-02 11:59:42
+date: 2024-06-03T04:20:19.517Z
+updated: 2024-06-04T04:20:19.517Z
 tags: 
   - screen-recording
   - ai video

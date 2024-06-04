@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Tips & Solutions for Common VLC Issues on Mac"
-date: 2024-06-01 22:27:18
-updated: 2024-06-02 10:14:27
+date: 2024-06-03T04:10:25.220Z
+updated: 2024-06-04T04:10:25.220Z
 tags: 
   - screen-recording
   - ai video

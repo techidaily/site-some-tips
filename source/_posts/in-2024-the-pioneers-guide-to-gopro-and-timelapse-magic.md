@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Pioneer's Guide to GoPro and Timelapse Magic"
-date: 2024-05-29 14:56:25
-updated: 2024-06-01 12:32:39
+date: 2024-06-03T04:02:25.971Z
+updated: 2024-06-04T04:02:25.971Z
 tags: 
   - screen-recording
   - ai video

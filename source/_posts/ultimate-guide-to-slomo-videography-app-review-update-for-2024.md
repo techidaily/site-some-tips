@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide to SloMo Videography  App Review Update for 2024\""
-date: 2024-05-31 18:49:25
-updated: 2024-06-02 11:39:31
+date: 2024-06-03T04:39:09.788Z
+updated: 2024-06-04T04:39:09.788Z
 tags: 
   - screen-recording
   - ai video

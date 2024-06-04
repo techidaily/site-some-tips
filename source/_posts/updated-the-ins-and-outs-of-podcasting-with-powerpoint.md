@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ins and Outs of Podcasting with PowerPoint"
-date: 2024-05-30 21:45:22
-updated: 2024-06-01 10:27:34
+date: 2024-06-03T04:04:18.678Z
+updated: 2024-06-04T04:04:18.678Z
 tags: 
   - screen-recording
   - ai video

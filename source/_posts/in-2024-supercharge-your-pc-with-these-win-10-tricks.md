@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Supercharge Your PC with These Win 10 Tricks"
-date: 2024-05-28 11:33:29
-updated: 2024-05-31 12:50:11
+date: 2024-06-03T04:49:01.470Z
+updated: 2024-06-04T04:49:01.470Z
 tags: 
   - screen-recording
   - ai video

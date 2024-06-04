@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Variants of MovieMaker Pro on WIndows"
-date: 2024-05-31 23:15:11
-updated: 2024-06-03 11:47:15
+date: 2024-06-03T04:43:36.359Z
+updated: 2024-06-04T04:43:36.359Z
 tags: 
   - screen-recording
   - ai video

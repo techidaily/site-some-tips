@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transforming Footage  A Step-by-Step Guide to GoPro's Timelapse\""
-date: 2024-06-01 21:42:52
-updated: 2024-06-02 12:32:49
+date: 2024-06-03T03:54:34.117Z
+updated: 2024-06-04T03:54:34.117Z
 tags: 
   - screen-recording
   - ai video

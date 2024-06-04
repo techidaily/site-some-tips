@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial for WM6 Setup for 2024"
-date: 2024-06-01 23:50:47
-updated: 2024-06-02 10:29:44
+date: 2024-06-03T04:39:41.931Z
+updated: 2024-06-04T04:39:41.931Z
 tags: 
   - screen-recording
   - ai video

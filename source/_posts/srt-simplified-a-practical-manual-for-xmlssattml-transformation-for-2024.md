@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Simplified  A Practical Manual for XML/SSA/TTML Transformation for 2024\""
-date: 2024-05-28 14:51:29
-updated: 2024-05-31 11:34:36
+date: 2024-06-03T03:52:55.634Z
+updated: 2024-06-04T03:52:55.634Z
 tags: 
   - screen-recording
   - ai video

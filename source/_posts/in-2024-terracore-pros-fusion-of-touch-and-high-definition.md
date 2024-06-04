@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, TerraCore Pros  Fusion of Touch & High Definition\""
-date: 2024-05-29 17:39:55
-updated: 2024-06-01 12:41:43
+date: 2024-06-03T04:07:41.841Z
+updated: 2024-06-04T04:07:41.841Z
 tags: 
   - screen-recording
   - ai video

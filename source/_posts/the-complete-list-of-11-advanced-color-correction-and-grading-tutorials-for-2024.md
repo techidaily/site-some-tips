@@ -1,7 +1,7 @@
 ---
 title: "The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024"
-date: 2024-05-31 11:58:54
-updated: 2024-06-01 12:23:41
+date: 2024-06-03T04:49:44.492Z
+updated: 2024-06-04T04:49:44.492Z
 tags: 
   - screen-recording
   - ai video

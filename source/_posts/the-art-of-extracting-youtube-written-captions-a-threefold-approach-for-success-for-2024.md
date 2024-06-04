@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Extracting YouTube' Written Captions  A Threefold Approach for Success for 2024\""
-date: 2024-05-29 13:25:44
-updated: 2024-06-01 12:25:22
+date: 2024-06-03T04:44:59.218Z
+updated: 2024-06-04T04:44:59.218Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Excellent Interview and Journey Audio Recordings"
-date: 2024-06-01 20:28:32
-updated: 2024-06-03 11:43:23
+date: 2024-06-03T04:03:52.990Z
+updated: 2024-06-04T04:03:52.990Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock PIP in Edge for a Superior Browsing Experience\""
-date: 2024-06-02 21:52:11
-updated: 2024-06-03 11:14:38
+date: 2024-06-03T03:49:04.807Z
+updated: 2024-06-04T03:49:04.807Z
 tags: 
   - screen-recording
   - ai video

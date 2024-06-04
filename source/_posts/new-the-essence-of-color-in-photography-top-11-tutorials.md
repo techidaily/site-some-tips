@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essence of Color in Photography (Top 11 Tutorials)"
-date: 2024-05-29 18:28:45
-updated: 2024-06-01 12:46:29
+date: 2024-06-03T03:43:23.089Z
+updated: 2024-06-04T03:43:23.089Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Manual for Using Speech Recognition in Google Documents"
-date: 2024-05-30 13:11:28
-updated: 2024-06-01 10:31:18
+date: 2024-06-03T04:39:00.562Z
+updated: 2024-06-04T04:39:00.562Z
 tags: 
   - screen-recording
   - ai video

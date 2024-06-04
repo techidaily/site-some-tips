@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Functionality of Unmanned Aerial Vehicles Explored"
-date: 2024-05-29 20:18:15
-updated: 2024-06-01 11:59:52
+date: 2024-06-03T03:58:43.794Z
+updated: 2024-06-04T03:58:43.794Z
 tags: 
   - screen-recording
   - ai video

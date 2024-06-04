@@ -1,7 +1,7 @@
 ---
 title: "\"Strategy Cradle  Nurturing Market Gains for 2024\""
-date: 2024-05-30 19:53:23
-updated: 2024-05-31 12:11:30
+date: 2024-06-03T04:30:41.428Z
+updated: 2024-06-04T04:30:41.428Z
 tags: 
   - screen-recording
   - ai video

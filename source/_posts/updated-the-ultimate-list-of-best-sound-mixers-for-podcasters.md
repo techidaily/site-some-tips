@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate List of Best Sound Mixers for Podcasters"
-date: 2024-05-29 23:46:31
-updated: 2024-06-01 12:19:53
+date: 2024-06-03T04:05:24.420Z
+updated: 2024-06-04T04:05:24.420Z
 tags: 
   - screen-recording
   - ai video

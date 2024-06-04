@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smile Sourcebook  Event-Specific Memetic Delights\""
-date: 2024-05-30 11:28:37
-updated: 2024-05-31 10:41:22
+date: 2024-06-03T04:46:43.678Z
+updated: 2024-06-04T04:46:43.678Z
 tags: 
   - screen-recording
   - ai video

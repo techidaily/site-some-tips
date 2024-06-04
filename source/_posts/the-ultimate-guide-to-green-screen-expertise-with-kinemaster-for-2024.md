@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Green Screen Expertise with Kinemaster for 2024"
-date: 2024-05-29 12:53:27
-updated: 2024-06-01 10:45:46
+date: 2024-06-03T04:19:34.367Z
+updated: 2024-06-04T04:19:34.367Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transformative Strategies for Impartiating Patient Narratives"
-date: 2024-05-30 21:38:54
-updated: 2024-06-02 10:22:49
+date: 2024-06-03T04:34:44.737Z
+updated: 2024-06-04T04:34:44.737Z
 tags: 
   - screen-recording
   - ai video

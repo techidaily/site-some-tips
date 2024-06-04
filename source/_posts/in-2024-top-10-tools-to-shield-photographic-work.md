@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Tools to Shield Photographic Work"
-date: 2024-05-31 13:47:35
-updated: 2024-06-02 11:35:22
+date: 2024-06-03T04:16:15.076Z
+updated: 2024-06-04T04:16:15.076Z
 tags: 
   - screen-recording
   - ai video

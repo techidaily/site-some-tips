@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Camcorders for Extreme Weather and Splashes Review for 2024"
-date: 2024-05-30 12:40:23
-updated: 2024-06-02 12:55:47
+date: 2024-06-03T04:02:05.612Z
+updated: 2024-06-04T04:02:05.612Z
 tags: 
   - screen-recording
   - ai video

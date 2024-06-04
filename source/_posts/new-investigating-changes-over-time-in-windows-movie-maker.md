@@ -1,7 +1,7 @@
 ---
 title: "[New] Investigating Changes Over Time in Windows Movie Maker"
-date: 2024-05-26 13:43:46
-updated: 2024-05-27 11:41:48
+date: 2024-06-03T04:27:25.558Z
+updated: 2024-06-04T04:27:25.558Z
 tags: 
   - screen-recording
   - ai video

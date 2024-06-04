@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Superior Cameras for Stop Motion Shorts"
-date: 2024-05-28 16:10:35
-updated: 2024-05-31 11:32:10
+date: 2024-06-03T04:35:44.600Z
+updated: 2024-06-04T04:35:44.600Z
 tags: 
   - screen-recording
   - ai video

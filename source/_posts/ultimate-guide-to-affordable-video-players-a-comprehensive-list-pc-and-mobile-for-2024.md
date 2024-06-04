@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide to Affordable Video Players  A Comprehensive List (PC & Mobile) for 2024\""
-date: 2024-06-01 15:19:36
-updated: 2024-06-02 12:13:47
+date: 2024-06-03T03:47:45.539Z
+updated: 2024-06-04T03:47:45.539Z
 tags: 
   - screen-recording
   - ai video

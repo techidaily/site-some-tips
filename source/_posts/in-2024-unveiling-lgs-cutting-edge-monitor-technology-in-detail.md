@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling LG’s Cutting-Edge Monitor Technology in Detail\""
-date: 2024-06-02 14:42:12
-updated: 2024-06-03 12:39:53
+date: 2024-06-03T04:35:46.738Z
+updated: 2024-06-04T04:35:46.738Z
 tags: 
   - screen-recording
   - ai video

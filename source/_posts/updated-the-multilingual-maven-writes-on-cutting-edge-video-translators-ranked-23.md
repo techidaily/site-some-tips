@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Multilingual Maven’ Writes On  Cutting-Edge Video Translators Ranked 23\""
-date: 2024-05-31 17:37:51
-updated: 2024-06-01 12:30:21
+date: 2024-06-03T04:10:37.702Z
+updated: 2024-06-04T04:10:37.702Z
 tags: 
   - screen-recording
   - ai video

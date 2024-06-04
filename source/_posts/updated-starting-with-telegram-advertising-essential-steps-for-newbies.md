@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Starting with Telegram Advertising  Essential Steps for Newbies\""
-date: 2024-05-30 16:29:17
-updated: 2024-05-31 10:49:24
+date: 2024-06-03T03:47:47.648Z
+updated: 2024-06-04T03:47:47.648Z
 tags: 
   - screen-recording
   - ai video

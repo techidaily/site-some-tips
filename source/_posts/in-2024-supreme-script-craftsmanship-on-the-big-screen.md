@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Supreme Script Craftsmanship on the Big Screen"
-date: 2024-05-29 22:14:41
-updated: 2024-05-31 11:37:18
+date: 2024-06-03T03:43:52.454Z
+updated: 2024-06-04T03:43:52.454Z
 tags: 
   - screen-recording
   - ai video

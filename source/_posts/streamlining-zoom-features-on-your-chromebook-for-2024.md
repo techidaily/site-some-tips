@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Zoom Features on Your Chromebook for 2024"
-date: 2024-05-29 13:23:51
-updated: 2024-05-31 12:14:48
+date: 2024-06-03T04:14:49.578Z
+updated: 2024-06-04T04:14:49.578Z
 tags: 
   - screen-recording
   - ai video

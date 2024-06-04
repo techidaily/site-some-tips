@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamline the Age Update Process on TikTok"
-date: 2024-05-30 19:17:50
-updated: 2024-05-31 11:53:57
+date: 2024-06-03T04:38:36.495Z
+updated: 2024-06-04T04:38:36.495Z
 tags: 
   - screen-recording
   - ai video

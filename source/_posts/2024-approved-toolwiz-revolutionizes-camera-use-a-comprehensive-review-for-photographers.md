@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers\""
-date: 2024-05-31 22:17:25
-updated: 2024-06-02 10:48:20
+date: 2024-06-03T04:46:48.616Z
+updated: 2024-06-04T04:46:48.616Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Test of TomTom Bandit 2023 Cam"
-date: 2024-05-31 18:14:39
-updated: 2024-06-01 11:36:27
+date: 2024-06-03T04:24:50.256Z
+updated: 2024-06-04T04:24:50.256Z
 tags: 
   - screen-recording
   - ai video

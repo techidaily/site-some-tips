@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking New Potentials with macOS 11 Big Sur"
-date: 2024-06-02 17:17:59
-updated: 2024-06-03 11:10:57
+date: 2024-06-03T03:59:38.620Z
+updated: 2024-06-04T03:59:38.620Z
 tags: 
   - screen-recording
   - ai video

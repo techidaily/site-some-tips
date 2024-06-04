@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Seamless Chapter Insertion in YouTube Video Production"
-date: 2024-05-31 10:25:20
-updated: 2024-06-03 11:54:53
+date: 2024-06-03T04:45:42.158Z
+updated: 2024-06-04T04:45:42.158Z
 tags: 
   - screen-recording
   - ai video

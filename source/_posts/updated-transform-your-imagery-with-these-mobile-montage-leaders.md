@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Imagery with These Mobile Montage Leaders"
-date: 2024-05-31 13:45:13
-updated: 2024-06-02 12:10:41
+date: 2024-06-03T04:25:33.186Z
+updated: 2024-06-04T04:25:33.186Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Everyday Moments with iOS's Complete Life Story for 2024"
-date: 2024-05-31 22:31:29
-updated: 2024-06-02 10:28:51
+date: 2024-06-03T04:40:48.598Z
+updated: 2024-06-04T04:40:48.598Z
 tags: 
   - screen-recording
   - ai video

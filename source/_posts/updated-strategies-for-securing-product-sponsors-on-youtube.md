@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Securing Product Sponsors on YouTube"
-date: 2024-05-30 10:36:20
-updated: 2024-05-31 11:31:19
+date: 2024-06-03T04:14:20.759Z
+updated: 2024-06-04T04:14:20.759Z
 tags: 
   - screen-recording
   - ai video

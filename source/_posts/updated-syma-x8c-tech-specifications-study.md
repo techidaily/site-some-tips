@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Syma X8C Tech Specifications Study"
-date: 2024-05-29 13:26:51
-updated: 2024-05-31 11:50:18
+date: 2024-06-03T04:04:49.658Z
+updated: 2024-06-04T04:04:49.658Z
 tags: 
   - screen-recording
   - ai video

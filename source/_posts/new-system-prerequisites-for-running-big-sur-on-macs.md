@@ -1,7 +1,7 @@
 ---
 title: "[New] System Prerequisites for Running Big Sur on Macs"
-date: 2024-05-28 17:17:46
-updated: 2024-05-31 10:28:52
+date: 2024-06-03T04:25:18.294Z
+updated: 2024-06-04T04:25:18.294Z
 tags: 
   - screen-recording
   - ai video

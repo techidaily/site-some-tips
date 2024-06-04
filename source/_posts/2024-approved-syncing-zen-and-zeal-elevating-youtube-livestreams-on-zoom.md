@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syncing Zen and Zeal  Elevating YouTube Livestreams on Zoom\""
-date: 2024-05-29 11:17:57
-updated: 2024-05-31 10:50:42
+date: 2024-06-03T04:18:11.051Z
+updated: 2024-06-04T04:18:11.051Z
 tags: 
   - screen-recording
   - ai video

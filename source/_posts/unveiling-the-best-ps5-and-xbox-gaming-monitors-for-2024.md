@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Best PS5 & Xbox Gaming Monitors for 2024"
-date: 2024-06-02 17:52:23
-updated: 2024-06-03 11:17:38
+date: 2024-06-03T04:21:10.185Z
+updated: 2024-06-04T04:21:10.185Z
 tags: 
   - screen-recording
   - ai video

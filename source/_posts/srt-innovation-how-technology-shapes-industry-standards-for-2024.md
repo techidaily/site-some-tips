@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Innovation  How Technology Shapes Industry Standards for 2024\""
-date: 2024-05-29 12:48:42
-updated: 2024-05-31 11:18:59
+date: 2024-06-03T04:26:57.598Z
+updated: 2024-06-04T04:26:57.598Z
 tags: 
   - screen-recording
   - ai video

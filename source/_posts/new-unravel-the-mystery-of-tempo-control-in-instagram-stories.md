@@ -1,7 +1,7 @@
 ---
 title: "[New] Unravel the Mystery of Tempo Control in Instagram Stories"
-date: 2024-06-01 18:52:24
-updated: 2024-06-03 10:37:10
+date: 2024-06-03T04:41:14.484Z
+updated: 2024-06-04T04:41:14.484Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] TOP 5 Best Screens for PlayStation 5 Gamers"
-date: 2024-06-01 11:13:11
-updated: 2024-06-02 10:45:24
+date: 2024-06-03T04:10:58.294Z
+updated: 2024-06-04T04:10:58.294Z
 tags: 
   - screen-recording
   - ai video

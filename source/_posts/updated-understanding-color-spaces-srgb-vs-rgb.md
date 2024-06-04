@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Understanding Color Spaces  Srgb vs Rgb\""
-date: 2024-05-30 14:53:36
-updated: 2024-06-02 12:36:45
+date: 2024-06-03T04:24:00.273Z
+updated: 2024-06-04T04:24:00.273Z
 tags: 
   - screen-recording
   - ai video

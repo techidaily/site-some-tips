@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Altering Images  Powerful Distortions in Photoshop\""
-date: 2024-05-29 20:56:43
-updated: 2024-06-01 12:55:13
+date: 2024-06-03T04:43:06.318Z
+updated: 2024-06-04T04:43:06.318Z
 tags: 
   - screen-recording
   - ai video

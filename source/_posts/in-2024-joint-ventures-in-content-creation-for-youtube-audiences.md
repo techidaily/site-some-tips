@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Joint Ventures in Content Creation for YouTube Audiences"
-date: 2024-05-27 16:21:54
-updated: 2024-05-28 10:15:52
+date: 2024-06-03T04:34:39.775Z
+updated: 2024-06-04T04:34:39.775Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Bottom Line  Podcasters' Earnings, On Average for 2024\""
-date: 2024-05-31 20:25:53
-updated: 2024-06-01 10:18:28
+date: 2024-06-03T04:35:28.278Z
+updated: 2024-06-04T04:35:28.278Z
 tags: 
   - screen-recording
   - ai video

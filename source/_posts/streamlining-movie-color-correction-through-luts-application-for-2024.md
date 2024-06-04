@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Movie Color Correction Through Luts Application for 2024"
-date: 2024-05-30 22:34:34
-updated: 2024-05-31 11:36:41
+date: 2024-06-03T04:34:53.236Z
+updated: 2024-06-04T04:34:53.236Z
 tags: 
   - screen-recording
   - ai video

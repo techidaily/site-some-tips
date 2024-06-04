@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategies to Keep Windows 11 Photos App Running Smoothly\""
-date: 2024-05-29 15:44:46
-updated: 2024-05-31 12:52:23
+date: 2024-06-03T04:35:39.633Z
+updated: 2024-06-04T04:35:39.633Z
 tags: 
   - screen-recording
   - ai video

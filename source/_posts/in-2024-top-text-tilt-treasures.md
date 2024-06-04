@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Text Tilt Treasures"
-date: 2024-05-30 20:46:20
-updated: 2024-06-02 12:36:13
+date: 2024-06-03T04:05:36.585Z
+updated: 2024-06-04T04:05:36.585Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Using SRT Audio on Windows & macOS Devices"
-date: 2024-06-01 17:33:26
-updated: 2024-06-03 11:36:50
+date: 2024-06-03T03:50:52.398Z
+updated: 2024-06-04T03:50:52.398Z
 tags: 
   - screen-recording
   - ai video

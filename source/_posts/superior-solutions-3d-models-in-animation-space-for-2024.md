@@ -1,7 +1,7 @@
 ---
 title: "\"Superior Solutions  3D Models in Animation Space for 2024\""
-date: 2024-05-29 17:16:23
-updated: 2024-05-31 12:18:14
+date: 2024-06-03T04:44:57.799Z
+updated: 2024-06-04T04:44:57.799Z
 tags: 
   - screen-recording
   - ai video

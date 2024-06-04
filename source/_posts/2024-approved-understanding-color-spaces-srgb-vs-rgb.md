@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Color Spaces  Srgb vs Rgb\""
-date: 2024-05-31 18:24:42
-updated: 2024-06-02 11:59:52
+date: 2024-06-03T04:04:30.402Z
+updated: 2024-06-04T04:04:30.402Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Software Guide for Tempo Alteration\""
-date: 2024-06-01 23:25:57
-updated: 2024-06-02 12:58:45
+date: 2024-06-03T04:47:56.727Z
+updated: 2024-06-04T04:47:56.727Z
 tags: 
   - screen-recording
   - ai video

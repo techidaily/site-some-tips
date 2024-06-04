@@ -1,7 +1,7 @@
 ---
 title: "\"Taking Your Photo Skills to New Heights  Creating Timelapse Footage with GoPro Studio for 2024\""
-date: 2024-05-28 16:21:44
-updated: 2024-05-31 12:42:18
+date: 2024-06-03T04:14:12.959Z
+updated: 2024-06-04T04:14:12.959Z
 tags: 
   - screen-recording
   - ai video

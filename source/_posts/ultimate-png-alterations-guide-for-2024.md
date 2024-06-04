@@ -1,7 +1,7 @@
 ---
 title: "Ultimate PNG Alterations Guide for 2024"
-date: 2024-05-31 10:33:44
-updated: 2024-06-02 11:43:27
+date: 2024-06-03T03:50:58.162Z
+updated: 2024-06-04T03:50:58.162Z
 tags: 
   - screen-recording
   - ai video

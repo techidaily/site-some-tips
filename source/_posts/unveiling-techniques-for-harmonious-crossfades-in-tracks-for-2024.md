@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Techniques for Harmonious Crossfades in Tracks for 2024"
-date: 2024-05-31 13:30:20
-updated: 2024-06-03 10:14:20
+date: 2024-06-03T04:18:35.632Z
+updated: 2024-06-04T04:18:35.632Z
 tags: 
   - screen-recording
   - ai video

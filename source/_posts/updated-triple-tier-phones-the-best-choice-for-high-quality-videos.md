@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Triple-Tier Phones  The Best Choice for High-Quality Videos\""
-date: 2024-05-31 15:48:14
-updated: 2024-06-02 10:24:18
+date: 2024-06-03T04:00:08.961Z
+updated: 2024-06-04T04:00:08.961Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unbeatable Prices for Top Budget 4K Cameras (<$1,000) for 2024"
-date: 2024-05-31 20:17:35
-updated: 2024-06-02 11:18:12
+date: 2024-06-03T04:08:26.538Z
+updated: 2024-06-04T04:08:26.538Z
 tags: 
   - screen-recording
   - ai video

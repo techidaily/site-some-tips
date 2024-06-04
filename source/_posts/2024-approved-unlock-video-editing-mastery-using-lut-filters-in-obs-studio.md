@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Video Editing Mastery Using LUT Filters in OBS Studio\""
-date: 2024-05-31 17:55:36
-updated: 2024-06-03 10:22:37
+date: 2024-06-03T03:48:31.086Z
+updated: 2024-06-04T03:48:31.086Z
 tags: 
   - screen-recording
   - ai video

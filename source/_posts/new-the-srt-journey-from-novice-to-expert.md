@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The SRT Journey  From Novice to Expert\""
-date: 2024-05-30 23:57:24
-updated: 2024-06-01 10:39:33
+date: 2024-06-03T04:52:20.262Z
+updated: 2024-06-04T04:52:20.262Z
 tags: 
   - screen-recording
   - ai video

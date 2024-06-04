@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Synergy Strategies for IG & TikTok"
-date: 2024-05-28 13:11:57
-updated: 2024-05-31 10:28:45
+date: 2024-06-03T04:21:56.347Z
+updated: 2024-06-04T04:21:56.347Z
 tags: 
   - screen-recording
   - ai video

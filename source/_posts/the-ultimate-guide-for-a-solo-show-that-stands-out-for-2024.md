@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide for a Solo Show that Stands Out for 2024"
-date: 2024-05-29 19:30:23
-updated: 2024-06-01 10:21:29
+date: 2024-06-03T04:05:18.008Z
+updated: 2024-06-04T04:05:18.008Z
 tags: 
   - screen-recording
   - ai video

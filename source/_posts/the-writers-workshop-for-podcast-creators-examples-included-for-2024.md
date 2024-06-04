@@ -1,7 +1,7 @@
 ---
 title: "The Writers' Workshop for Podcast Creators (Examples Included) for 2024"
-date: 2024-05-30 21:49:38
-updated: 2024-06-01 11:30:30
+date: 2024-06-03T04:01:02.168Z
+updated: 2024-06-04T04:01:02.168Z
 tags: 
   - screen-recording
   - ai video

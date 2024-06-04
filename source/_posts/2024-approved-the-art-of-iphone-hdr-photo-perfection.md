@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of iPhone HDR Photo Perfection\""
-date: 2024-05-29 15:36:41
-updated: 2024-06-01 11:37:10
+date: 2024-06-03T04:27:45.453Z
+updated: 2024-06-04T04:27:45.453Z
 tags: 
   - screen-recording
   - ai video

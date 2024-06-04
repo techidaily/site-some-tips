@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Master Image Tweaks with Snapseed for Newbies\""
-date: 2024-05-25 20:55:26
-updated: 2024-05-28 10:36:40
+date: 2024-06-03T03:58:03.408Z
+updated: 2024-06-04T03:58:03.408Z
 tags: 
   - screen-recording
   - ai video

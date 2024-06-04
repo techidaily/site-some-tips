@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tips for Fine-Tuning Netflix Video Duration & Speed\""
-date: 2024-06-01 12:38:30
-updated: 2024-06-02 11:48:31
+date: 2024-06-03T04:30:19.817Z
+updated: 2024-06-04T04:30:19.817Z
 tags: 
   - screen-recording
   - ai video

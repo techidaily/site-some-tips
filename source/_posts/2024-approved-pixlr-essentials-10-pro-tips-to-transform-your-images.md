@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Pixlr Essentials  10 Pro Tips to Transform Your Images\""
-date: 2024-05-27 16:11:51
-updated: 2024-05-29 12:35:10
+date: 2024-06-03T04:02:16.315Z
+updated: 2024-06-04T04:02:16.315Z
 tags: 
   - screen-recording
   - ai video

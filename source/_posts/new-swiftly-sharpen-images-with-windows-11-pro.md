@@ -1,7 +1,7 @@
 ---
 title: "[New] Swiftly Sharpen Images with Windows 11 Pro"
-date: 2024-05-30 23:20:33
-updated: 2024-05-31 11:55:29
+date: 2024-06-03T04:51:48.509Z
+updated: 2024-06-04T04:51:48.509Z
 tags: 
   - screen-recording
   - ai video

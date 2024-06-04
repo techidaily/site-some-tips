@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tune Up Footage  Integrating Music Into Windows Media Files\""
-date: 2024-05-30 19:23:27
-updated: 2024-06-02 11:57:58
+date: 2024-06-03T04:04:11.526Z
+updated: 2024-06-04T04:04:11.526Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tailoring Drone Video Quality with Expert Gimbal Choices"
-date: 2024-05-30 14:31:36
-updated: 2024-05-31 12:24:22
+date: 2024-06-03T03:50:40.975Z
+updated: 2024-06-04T03:50:40.975Z
 tags: 
   - screen-recording
   - ai video

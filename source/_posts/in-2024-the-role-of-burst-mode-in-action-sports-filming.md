@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Role of Burst Mode in Action Sports Filming"
-date: 2024-05-31 21:24:45
-updated: 2024-06-01 10:15:50
+date: 2024-06-03T04:04:34.705Z
+updated: 2024-06-04T04:04:34.705Z
 tags: 
   - screen-recording
   - ai video

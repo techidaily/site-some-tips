@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Creative Potential  Image Curve Magic in PS\""
-date: 2024-05-31 23:48:37
-updated: 2024-06-03 12:57:29
+date: 2024-06-03T04:12:00.791Z
+updated: 2024-06-04T04:12:00.791Z
 tags: 
   - screen-recording
   - ai video

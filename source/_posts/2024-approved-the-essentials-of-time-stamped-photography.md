@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essentials of Time-Stamped Photography\""
-date: 2024-05-29 13:37:29
-updated: 2024-06-01 10:14:12
+date: 2024-06-03T04:47:22.407Z
+updated: 2024-06-04T04:47:22.407Z
 tags: 
   - screen-recording
   - ai video

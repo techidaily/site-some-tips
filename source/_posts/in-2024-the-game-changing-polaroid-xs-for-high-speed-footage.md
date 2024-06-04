@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Game-Changing Polaroid XS for High-Speed Footage\""
-date: 2024-05-31 13:12:28
-updated: 2024-06-01 12:27:21
+date: 2024-06-03T04:43:13.728Z
+updated: 2024-06-04T04:43:13.728Z
 tags: 
   - screen-recording
   - ai video

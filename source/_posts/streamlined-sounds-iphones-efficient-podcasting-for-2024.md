@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlined Sounds  IPhone's Efficient Podcasting for 2024\""
-date: 2024-05-29 19:31:58
-updated: 2024-05-31 11:50:57
+date: 2024-06-03T04:32:18.427Z
+updated: 2024-06-04T04:32:18.427Z
 tags: 
   - screen-recording
   - ai video

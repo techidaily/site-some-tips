@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Filmmaker’s Guide to Enhancing Close-Ups Using Kinemaster\""
-date: 2024-05-31 14:28:32
-updated: 2024-06-01 10:45:15
+date: 2024-06-03T04:27:05.396Z
+updated: 2024-06-04T04:27:05.396Z
 tags: 
   - screen-recording
   - ai video

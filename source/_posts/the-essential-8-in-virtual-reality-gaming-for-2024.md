@@ -1,7 +1,7 @@
 ---
 title: "The Essential 8 in Virtual Reality Gaming for 2024"
-date: 2024-05-29 21:15:42
-updated: 2024-06-01 11:44:50
+date: 2024-06-03T03:52:26.968Z
+updated: 2024-06-04T03:52:26.968Z
 tags: 
   - screen-recording
   - ai video

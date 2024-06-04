@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Picks for Shining 3D Type Designs with a Golden Touch"
-date: 2024-05-30 15:42:43
-updated: 2024-06-02 12:11:52
+date: 2024-06-03T04:09:56.683Z
+updated: 2024-06-04T04:09:56.683Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Comedic Journey  An Evaluation of 'Goofy Adventures'\""
-date: 2024-05-30 12:47:20
-updated: 2024-06-01 12:56:27
+date: 2024-06-03T04:37:14.351Z
+updated: 2024-06-04T04:37:14.352Z
 tags: 
   - screen-recording
   - ai video

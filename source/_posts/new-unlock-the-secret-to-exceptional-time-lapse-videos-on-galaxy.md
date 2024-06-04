@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy\""
-date: 2024-05-31 21:34:11
-updated: 2024-06-03 12:57:49
+date: 2024-06-03T04:18:28.150Z
+updated: 2024-06-04T04:18:28.150Z
 tags: 
   - screen-recording
   - ai video

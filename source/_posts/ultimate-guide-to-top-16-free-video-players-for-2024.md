@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Top 16 Free Video Players for 2024"
-date: 2024-05-30 15:53:54
-updated: 2024-06-02 11:58:40
+date: 2024-06-03T03:46:09.782Z
+updated: 2024-06-04T03:46:09.782Z
 tags: 
   - screen-recording
   - ai video

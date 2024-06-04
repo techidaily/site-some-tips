@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Checklist to Prepare Your Zoom Room"
-date: 2024-05-31 22:25:18
-updated: 2024-06-01 11:14:21
+date: 2024-06-03T04:19:55.378Z
+updated: 2024-06-04T04:19:55.378Z
 tags: 
   - screen-recording
   - ai video

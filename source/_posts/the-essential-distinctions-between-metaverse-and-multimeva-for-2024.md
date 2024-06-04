@@ -1,7 +1,7 @@
 ---
 title: "The Essential Distinctions Between Metaverse and Multimeva for 2024"
-date: 2024-05-30 12:30:51
-updated: 2024-06-01 12:39:11
+date: 2024-06-03T04:17:32.139Z
+updated: 2024-06-04T04:17:32.139Z
 tags: 
   - screen-recording
   - ai video

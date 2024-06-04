@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Zoom  A Chromebook Guide\""
-date: 2024-05-28 10:21:11
-updated: 2024-05-31 11:14:57
+date: 2024-06-03T04:14:27.912Z
+updated: 2024-06-04T04:14:27.912Z
 tags: 
   - screen-recording
   - ai video

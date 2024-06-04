@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 5 Audio Capture Methods in Windows 11 Operating System"
-date: 2024-05-31 17:19:27
-updated: 2024-06-02 10:45:45
+date: 2024-06-03T04:11:52.271Z
+updated: 2024-06-04T04:11:52.271Z
 tags: 
   - screen-recording
   - ai video

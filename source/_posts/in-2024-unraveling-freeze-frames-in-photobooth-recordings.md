@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling Freeze Frames in Photobooth Recordings"
-date: 2024-05-31 21:28:16
-updated: 2024-06-03 10:52:53
+date: 2024-06-03T04:34:18.142Z
+updated: 2024-06-04T04:34:18.142Z
 tags: 
   - screen-recording
   - ai video

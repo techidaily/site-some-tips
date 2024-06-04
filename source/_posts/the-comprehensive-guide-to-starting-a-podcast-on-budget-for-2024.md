@@ -1,7 +1,7 @@
 ---
 title: "\"The Comprehensive Guide to Starting a Podcast On-Budget for 2024\""
-date: 2024-05-29 11:13:22
-updated: 2024-06-01 10:17:16
+date: 2024-06-03T04:43:58.659Z
+updated: 2024-06-04T04:43:58.659Z
 tags: 
   - screen-recording
   - ai video

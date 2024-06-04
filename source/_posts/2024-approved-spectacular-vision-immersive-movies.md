@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Spectacular Vision  Immersive Movies\""
-date: 2024-05-30 21:59:10
-updated: 2024-05-31 11:31:18
+date: 2024-06-03T04:35:05.978Z
+updated: 2024-06-04T04:35:05.978Z
 tags: 
   - screen-recording
   - ai video

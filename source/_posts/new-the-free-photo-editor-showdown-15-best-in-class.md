@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Free Photo Editor Showdown  #15 Best in Class\""
-date: 2024-05-30 10:48:34
-updated: 2024-06-01 10:23:20
+date: 2024-06-03T04:41:41.412Z
+updated: 2024-06-04T04:41:41.412Z
 tags: 
   - screen-recording
   - ai video

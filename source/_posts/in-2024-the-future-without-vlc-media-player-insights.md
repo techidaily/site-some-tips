@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Future Without VLC - Media Player Insights\""
-date: 2024-05-31 21:43:34
-updated: 2024-06-01 11:56:12
+date: 2024-06-03T04:40:00.735Z
+updated: 2024-06-04T04:40:00.735Z
 tags: 
   - screen-recording
   - ai video

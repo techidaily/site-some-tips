@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tackling Blurred Images in Online Meetings with Zoom Techniques"
-date: 2024-05-29 17:53:52
-updated: 2024-05-31 10:48:42
+date: 2024-06-03T03:49:40.830Z
+updated: 2024-06-04T03:49:40.830Z
 tags: 
   - screen-recording
   - ai video

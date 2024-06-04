@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Truth  Apple's Face ID Against Samsung’ Writers' Face-Matching\""
-date: 2024-06-01 14:10:59
-updated: 2024-06-03 12:45:14
+date: 2024-06-03T04:52:37.516Z
+updated: 2024-06-04T04:52:37.516Z
 tags: 
   - screen-recording
   - ai video

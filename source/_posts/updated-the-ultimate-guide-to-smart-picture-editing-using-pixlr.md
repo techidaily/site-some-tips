@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Smart Picture Editing Using Pixlr"
-date: 2024-05-30 15:55:55
-updated: 2024-06-01 10:33:35
+date: 2024-06-03T03:57:59.158Z
+updated: 2024-06-04T03:57:59.158Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses\""
-date: 2024-05-30 20:44:27
-updated: 2024-06-01 12:48:39
+date: 2024-06-03T04:42:59.961Z
+updated: 2024-06-04T04:42:59.961Z
 tags: 
   - screen-recording
   - ai video

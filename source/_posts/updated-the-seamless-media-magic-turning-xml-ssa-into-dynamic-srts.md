@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Seamless Media Magic  Turning XML, SSA Into Dynamic SRTs\""
-date: 2024-05-30 21:54:32
-updated: 2024-06-01 12:18:17
+date: 2024-06-03T04:14:23.612Z
+updated: 2024-06-04T04:14:23.612Z
 tags: 
   - screen-recording
   - ai video

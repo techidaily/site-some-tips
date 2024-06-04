@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleash Your Creativity  Effective Techniques for Crafting Podcast Scripts\""
-date: 2024-05-30 22:30:26
-updated: 2024-06-02 12:39:30
+date: 2024-06-03T03:53:57.952Z
+updated: 2024-06-04T03:53:57.952Z
 tags: 
   - screen-recording
   - ai video

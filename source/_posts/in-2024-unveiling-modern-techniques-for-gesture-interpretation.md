@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Modern Techniques for Gesture Interpretation"
-date: 2024-06-02 13:16:15
-updated: 2024-06-03 11:21:59
+date: 2024-06-03T04:46:23.568Z
+updated: 2024-06-04T04:46:23.568Z
 tags: 
   - screen-recording
   - ai video

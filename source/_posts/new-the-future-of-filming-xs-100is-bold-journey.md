@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Future of Filming  XS 100I's Bold Journey\""
-date: 2024-05-29 15:41:48
-updated: 2024-06-01 11:13:48
+date: 2024-06-03T03:52:18.780Z
+updated: 2024-06-04T03:52:18.780Z
 tags: 
   - screen-recording
   - ai video

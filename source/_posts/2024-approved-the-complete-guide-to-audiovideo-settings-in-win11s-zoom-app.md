@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Guide to Audio/Video Settings in Win11's Zoom App\""
-date: 2024-05-30 19:35:16
-updated: 2024-06-01 11:42:56
+date: 2024-06-03T04:28:49.863Z
+updated: 2024-06-04T04:28:49.863Z
 tags: 
   - screen-recording
   - ai video

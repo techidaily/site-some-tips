@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Unusual Upward Turning of IG Video Images"
-date: 2024-05-29 21:25:33
-updated: 2024-06-01 10:10:11
+date: 2024-06-03T04:12:50.409Z
+updated: 2024-06-04T04:12:50.409Z
 tags: 
   - screen-recording
   - ai video

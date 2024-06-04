@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Packing List  Travel Video Edition for 2024\""
-date: 2024-05-29 22:39:46
-updated: 2024-06-01 10:51:20
+date: 2024-06-03T04:48:48.081Z
+updated: 2024-06-04T04:48:48.081Z
 tags: 
   - screen-recording
   - ai video

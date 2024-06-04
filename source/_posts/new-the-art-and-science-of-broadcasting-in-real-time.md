@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art and Science of Broadcasting in Real Time"
-date: 2024-05-29 16:48:40
-updated: 2024-06-01 11:42:23
+date: 2024-06-03T03:48:08.162Z
+updated: 2024-06-04T03:48:08.162Z
 tags: 
   - screen-recording
   - ai video

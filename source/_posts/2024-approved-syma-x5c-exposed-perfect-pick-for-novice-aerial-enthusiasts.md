@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syma X5C Exposed  Perfect Pick for Novice Aerial Enthusiasts\""
-date: 2024-05-29 22:25:51
-updated: 2024-05-31 12:30:58
+date: 2024-06-03T04:19:45.043Z
+updated: 2024-06-04T04:19:45.043Z
 tags: 
   - screen-recording
   - ai video

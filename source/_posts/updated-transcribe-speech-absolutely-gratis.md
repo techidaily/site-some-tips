@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transcribe Speech, Absolutely Gratis"
-date: 2024-06-01 16:48:42
-updated: 2024-06-02 10:53:30
+date: 2024-06-03T04:21:16.971Z
+updated: 2024-06-04T04:21:16.971Z
 tags: 
   - screen-recording
   - ai video

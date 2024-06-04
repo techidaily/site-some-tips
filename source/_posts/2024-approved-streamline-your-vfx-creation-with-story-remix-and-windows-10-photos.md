@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your VFX Creation with Story Remix and Windows 10 Photos\""
-date: 2024-05-29 22:35:55
-updated: 2024-05-31 12:31:13
+date: 2024-06-03T04:01:16.066Z
+updated: 2024-06-04T04:01:16.066Z
 tags: 
   - screen-recording
   - ai video

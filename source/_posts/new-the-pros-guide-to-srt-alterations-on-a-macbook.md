@@ -1,7 +1,7 @@
 ---
 title: "[New] The Pro's Guide to SRT Alterations on a MacBook"
-date: 2024-05-31 23:14:30
-updated: 2024-06-01 10:47:23
+date: 2024-06-03T04:51:50.980Z
+updated: 2024-06-04T04:51:50.980Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Action Seeker's Guide to Polaroid XS 100I"
-date: 2024-05-30 23:17:24
-updated: 2024-06-01 10:44:39
+date: 2024-06-03T04:27:27.687Z
+updated: 2024-06-04T04:27:27.687Z
 tags: 
   - screen-recording
   - ai video

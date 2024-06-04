@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Post-Production  Mastering the Green Screen Process (KineMaster) for 2024\""
-date: 2024-05-29 10:21:36
-updated: 2024-05-31 12:36:26
+date: 2024-06-03T04:21:03.092Z
+updated: 2024-06-04T04:21:03.092Z
 tags: 
   - screen-recording
   - ai video

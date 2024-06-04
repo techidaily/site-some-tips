@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Q&A on Quantum HDR Technology"
-date: 2024-05-30 16:45:20
-updated: 2024-06-01 11:42:44
+date: 2024-06-03T03:56:00.772Z
+updated: 2024-06-04T03:56:00.772Z
 tags: 
   - screen-recording
   - ai video

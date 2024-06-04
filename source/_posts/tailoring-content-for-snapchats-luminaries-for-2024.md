@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Content for Snapchat's Luminaries for 2024"
-date: 2024-05-28 16:55:25
-updated: 2024-05-31 12:24:33
+date: 2024-06-03T04:42:50.756Z
+updated: 2024-06-04T04:42:50.756Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Film Crafting with Kinemaster Tools"
-date: 2024-05-29 17:33:42
-updated: 2024-06-01 10:40:43
+date: 2024-06-03T04:03:17.578Z
+updated: 2024-06-04T04:03:17.578Z
 tags: 
   - screen-recording
   - ai video

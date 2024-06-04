@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit"
-date: 2024-06-02 10:21:38
-updated: 2024-06-03 10:16:50
+date: 2024-06-03T04:01:34.539Z
+updated: 2024-06-04T04:01:34.539Z
 tags: 
   - screen-recording
   - ai video

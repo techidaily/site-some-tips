@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)"
-date: 2024-05-29 19:27:26
-updated: 2024-05-30 11:50:26
+date: 2024-06-03T03:47:25.370Z
+updated: 2024-06-04T03:47:25.370Z
 tags: 
   - screen-recording
   - ai video

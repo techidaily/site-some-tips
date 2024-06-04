@@ -1,7 +1,7 @@
 ---
 title: "[New] The Syma X8C User Guide Insights"
-date: 2024-05-31 21:24:24
-updated: 2024-06-01 10:21:23
+date: 2024-06-03T04:20:30.850Z
+updated: 2024-06-04T04:20:30.850Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom"
-date: 2024-05-31 21:39:20
-updated: 2024-06-02 10:38:10
+date: 2024-06-03T04:42:30.603Z
+updated: 2024-06-04T04:42:30.603Z
 tags: 
   - screen-recording
   - ai video

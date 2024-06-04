@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Total Horizon Capture Versus Focused Dimensionality"
-date: 2024-05-31 22:45:46
-updated: 2024-06-02 10:57:17
+date: 2024-06-03T03:48:24.739Z
+updated: 2024-06-04T03:48:24.739Z
 tags: 
   - screen-recording
   - ai video

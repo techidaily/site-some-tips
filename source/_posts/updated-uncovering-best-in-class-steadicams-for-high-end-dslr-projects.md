@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Uncovering Best-in-Class Steadicams for High-End DSLR Projects\""
-date: 2024-06-01 19:12:44
-updated: 2024-06-02 10:29:16
+date: 2024-06-03T04:25:03.024Z
+updated: 2024-06-04T04:25:03.024Z
 tags: 
   - screen-recording
   - ai video

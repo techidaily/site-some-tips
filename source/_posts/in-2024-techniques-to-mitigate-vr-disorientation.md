@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Techniques to Mitigate VR Disorientation"
-date: 2024-05-28 12:32:35
-updated: 2024-05-31 10:43:35
+date: 2024-06-03T04:43:44.866Z
+updated: 2024-06-04T04:43:44.866Z
 tags: 
   - screen-recording
   - ai video

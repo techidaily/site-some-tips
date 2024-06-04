@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Guide to Understanding and Using Instagram's Music Features"
-date: 2024-05-29 15:18:40
-updated: 2024-06-01 10:19:20
+date: 2024-06-03T03:54:25.601Z
+updated: 2024-06-04T03:54:25.601Z
 tags: 
   - screen-recording
   - ai video

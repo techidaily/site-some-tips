@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 5 Voice Alteration Apps for Professional Vtuber Artistry"
-date: 2024-06-01 12:30:26
-updated: 2024-06-02 10:16:52
+date: 2024-06-03T04:48:20.093Z
+updated: 2024-06-04T04:48:20.093Z
 tags: 
   - screen-recording
   - ai video

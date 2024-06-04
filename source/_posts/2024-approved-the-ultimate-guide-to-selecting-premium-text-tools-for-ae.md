@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Selecting Premium Text Tools for AE\""
-date: 2024-05-31 15:55:35
-updated: 2024-06-01 10:12:43
+date: 2024-06-03T03:58:05.532Z
+updated: 2024-06-04T03:58:05.532Z
 tags: 
   - screen-recording
   - ai video

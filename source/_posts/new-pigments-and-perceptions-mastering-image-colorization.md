@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pigments & Perceptions  Mastering Image Colorization\""
-date: 2024-05-27 20:55:33
-updated: 2024-05-29 12:13:18
+date: 2024-06-03T03:55:33.975Z
+updated: 2024-06-04T03:55:33.975Z
 tags: 
   - screen-recording
   - ai video

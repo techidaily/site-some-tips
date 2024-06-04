@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock Creative Potential in Filmmaking with Filmora Answers"
-date: 2024-05-31 13:54:23
-updated: 2024-06-03 12:23:39
+date: 2024-06-03T04:51:14.289Z
+updated: 2024-06-04T04:51:14.289Z
 tags: 
   - screen-recording
   - ai video

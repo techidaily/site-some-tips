@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate 11 Easy-to-Operate Kids' Wet Weather Camcorders\""
-date: 2024-05-30 22:32:32
-updated: 2024-06-01 12:21:55
+date: 2024-06-03T04:26:45.539Z
+updated: 2024-06-04T04:26:45.539Z
 tags: 
   - screen-recording
   - ai video

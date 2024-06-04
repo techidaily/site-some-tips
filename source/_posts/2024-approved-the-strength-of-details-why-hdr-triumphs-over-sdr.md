@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Strength of Details  Why HDR Triumphs Over SDR\""
-date: 2024-05-31 21:16:22
-updated: 2024-06-01 10:15:31
+date: 2024-06-03T04:37:16.465Z
+updated: 2024-06-04T04:37:16.465Z
 tags: 
   - screen-recording
   - ai video

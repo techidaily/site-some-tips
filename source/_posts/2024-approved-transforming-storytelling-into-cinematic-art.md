@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Storytelling Into Cinematic Art\""
-date: 2024-05-30 23:42:30
-updated: 2024-06-02 12:26:17
+date: 2024-06-03T03:54:20.877Z
+updated: 2024-06-04T03:54:20.877Z
 tags: 
   - screen-recording
   - ai video

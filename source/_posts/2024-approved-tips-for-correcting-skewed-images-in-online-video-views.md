@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Correcting Skewed Images in Online Video Views\""
-date: 2024-05-30 17:36:53
-updated: 2024-06-02 12:39:34
+date: 2024-06-03T04:51:37.353Z
+updated: 2024-06-04T04:51:37.353Z
 tags: 
   - screen-recording
   - ai video

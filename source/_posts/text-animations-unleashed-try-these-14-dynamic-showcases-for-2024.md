@@ -1,7 +1,7 @@
 ---
 title: "\"Text Animations Unleashed  Try These 14 Dynamic Showcases for 2024\""
-date: 2024-05-31 10:41:25
-updated: 2024-06-01 11:17:52
+date: 2024-06-03T04:25:51.678Z
+updated: 2024-06-04T04:25:51.678Z
 tags: 
   - screen-recording
   - ai video

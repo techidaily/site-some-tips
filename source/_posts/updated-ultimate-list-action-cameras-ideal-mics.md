@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate List  Action Camera's Ideal Mics\""
-date: 2024-06-01 11:29:34
-updated: 2024-06-02 10:37:53
+date: 2024-06-03T04:10:40.555Z
+updated: 2024-06-04T04:10:40.555Z
 tags: 
   - screen-recording
   - ai video

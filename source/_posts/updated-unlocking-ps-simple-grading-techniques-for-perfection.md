@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking PS  Simple Grading Techniques for Perfection\""
-date: 2024-06-02 19:55:36
-updated: 2024-06-03 12:41:43
+date: 2024-06-03T03:51:34.900Z
+updated: 2024-06-04T03:51:34.900Z
 tags: 
   - screen-recording
   - ai video

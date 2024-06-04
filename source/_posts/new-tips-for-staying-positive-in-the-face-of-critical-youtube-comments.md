@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips for Staying Positive in the Face of Critical YouTube Comments"
-date: 2024-06-01 11:32:50
-updated: 2024-06-02 11:48:56
+date: 2024-06-03T04:10:57.583Z
+updated: 2024-06-04T04:10:57.583Z
 tags: 
   - screen-recording
   - ai video

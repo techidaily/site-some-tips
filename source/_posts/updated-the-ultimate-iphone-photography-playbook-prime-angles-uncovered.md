@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate iPhone Photography Playbook  Prime Angles Uncovered\""
-date: 2024-05-29 10:32:15
-updated: 2024-06-01 11:38:31
+date: 2024-06-03T04:13:52.324Z
+updated: 2024-06-04T04:13:52.324Z
 tags: 
   - screen-recording
   - ai video

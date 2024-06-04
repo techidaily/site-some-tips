@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial on Precise Audioshifting for 2024"
-date: 2024-06-01 12:26:20
-updated: 2024-06-02 12:13:35
+date: 2024-06-03T04:35:29.685Z
+updated: 2024-06-04T04:35:29.685Z
 tags: 
   - screen-recording
   - ai video

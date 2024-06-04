@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock the Potential of Your Films with Final Cut Pro"
-date: 2024-06-01 11:57:45
-updated: 2024-06-03 11:57:21
+date: 2024-06-03T04:51:46.426Z
+updated: 2024-06-04T04:51:46.426Z
 tags: 
   - screen-recording
   - ai video

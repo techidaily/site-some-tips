@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Secret to Love in Video Editing  Filmora's Best Aspects\""
-date: 2024-05-30 18:39:53
-updated: 2024-06-01 12:16:53
+date: 2024-06-03T04:30:19.104Z
+updated: 2024-06-04T04:30:19.104Z
 tags: 
   - screen-recording
   - ai video

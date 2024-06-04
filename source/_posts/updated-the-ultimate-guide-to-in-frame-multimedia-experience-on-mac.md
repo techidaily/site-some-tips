@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to In-Frame Multimedia Experience on Mac\""
-date: 2024-05-29 12:21:21
-updated: 2024-06-01 10:15:43
+date: 2024-06-03T04:50:59.865Z
+updated: 2024-06-04T04:50:59.865Z
 tags: 
   - screen-recording
   - ai video

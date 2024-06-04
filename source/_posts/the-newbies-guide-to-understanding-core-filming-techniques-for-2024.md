@@ -1,7 +1,7 @@
 ---
 title: "The Newbie's Guide to Understanding Core Filming Techniques for 2024"
-date: 2024-05-31 17:41:22
-updated: 2024-06-01 11:15:56
+date: 2024-06-03T03:45:34.890Z
+updated: 2024-06-04T03:45:34.890Z
 tags: 
   - screen-recording
   - ai video

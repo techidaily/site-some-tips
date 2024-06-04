@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Phone Into a Funimate Portal via APK for 2024"
-date: 2024-06-01 17:35:15
-updated: 2024-06-02 10:53:38
+date: 2024-06-03T04:21:44.003Z
+updated: 2024-06-04T04:21:44.003Z
 tags: 
   - screen-recording
   - ai video

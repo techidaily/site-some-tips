@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Textual Transformation  Enrich Your Images with Words, PC/Mac Style\""
-date: 2024-05-30 18:29:55
-updated: 2024-06-01 11:19:26
+date: 2024-06-03T04:31:50.489Z
+updated: 2024-06-04T04:31:50.489Z
 tags: 
   - screen-recording
   - ai video

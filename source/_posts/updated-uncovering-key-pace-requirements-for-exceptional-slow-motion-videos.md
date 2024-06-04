@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos\""
-date: 2024-05-30 19:20:57
-updated: 2024-06-02 11:14:32
+date: 2024-06-03T04:22:55.584Z
+updated: 2024-06-04T04:22:55.584Z
 tags: 
   - screen-recording
   - ai video

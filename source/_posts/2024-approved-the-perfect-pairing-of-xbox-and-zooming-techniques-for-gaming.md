@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Perfect Pairing of Xbox and Zooming Techniques for Gaming\""
-date: 2024-05-29 22:21:27
-updated: 2024-06-01 10:12:45
+date: 2024-06-03T04:06:01.897Z
+updated: 2024-06-04T04:06:01.897Z
 tags: 
   - screen-recording
   - ai video

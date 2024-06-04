@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Verdant Visualizations  Compiling 30+ Free Screen Templates for Videographers\""
-date: 2024-06-01 22:45:37
-updated: 2024-06-03 11:58:38
+date: 2024-06-03T04:27:43.310Z
+updated: 2024-06-04T04:27:43.310Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Crafting a YouTube Video with 100K+ Reach"
-date: 2024-05-31 20:50:17
-updated: 2024-06-01 11:24:56
+date: 2024-06-03T04:18:36.374Z
+updated: 2024-06-04T04:18:36.374Z
 tags: 
   - screen-recording
   - ai video

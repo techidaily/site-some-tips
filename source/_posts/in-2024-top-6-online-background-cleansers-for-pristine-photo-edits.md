@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 6 Online Background Cleansers for Pristine Photo Edits"
-date: 2024-05-31 14:33:43
-updated: 2024-06-02 11:48:48
+date: 2024-06-03T04:40:36.565Z
+updated: 2024-06-04T04:40:36.565Z
 tags: 
   - screen-recording
   - ai video

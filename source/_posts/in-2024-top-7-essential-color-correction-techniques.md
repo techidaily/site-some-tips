@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 7 Essential Color Correction Techniques"
-date: 2024-06-01 16:44:58
-updated: 2024-06-02 10:50:43
+date: 2024-06-03T04:31:04.840Z
+updated: 2024-06-04T04:31:04.841Z
 tags: 
   - screen-recording
   - ai video

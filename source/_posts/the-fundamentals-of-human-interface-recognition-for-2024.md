@@ -1,7 +1,7 @@
 ---
 title: "The Fundamentals of Human Interface Recognition for 2024"
-date: 2024-05-30 22:38:57
-updated: 2024-06-01 10:48:42
+date: 2024-06-03T03:53:33.975Z
+updated: 2024-06-04T03:53:33.975Z
 tags: 
   - screen-recording
   - ai video

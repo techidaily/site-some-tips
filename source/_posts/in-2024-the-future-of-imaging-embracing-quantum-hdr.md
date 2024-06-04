@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Future of Imaging  Embracing Quantum HDR\""
-date: 2024-05-31 10:24:33
-updated: 2024-06-01 11:19:13
+date: 2024-06-03T04:32:43.127Z
+updated: 2024-06-04T04:32:43.127Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Your Workflow with Mac Preview  Complete Guide\""
-date: 2024-05-30 14:23:44
-updated: 2024-05-31 10:27:57
+date: 2024-06-03T04:41:03.490Z
+updated: 2024-06-04T04:41:03.490Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Vlogging Battle  GoPro Hero5 Black VS Sessions\""
-date: 2024-05-30 13:11:55
-updated: 2024-06-01 11:11:14
+date: 2024-06-03T04:35:23.330Z
+updated: 2024-06-04T04:35:23.330Z
 tags: 
   - screen-recording
   - ai video

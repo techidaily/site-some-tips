@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 30 Drawing and Sketchpad Apps for Windows Users Reviewed\""
-date: 2024-05-31 20:46:44
-updated: 2024-06-02 12:54:32
+date: 2024-06-03T04:10:13.812Z
+updated: 2024-06-04T04:10:13.812Z
 tags: 
   - screen-recording
   - ai video

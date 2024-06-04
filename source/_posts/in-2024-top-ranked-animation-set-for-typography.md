@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Ranked Animation Set for Typography\""
-date: 2024-05-31 14:32:39
-updated: 2024-06-02 11:38:33
+date: 2024-06-03T04:26:21.765Z
+updated: 2024-06-04T04:26:21.765Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Transition Techniques  Decreasing Volume Gradually in PP for 2024\""
-date: 2024-05-30 12:56:55
-updated: 2024-06-02 11:46:52
+date: 2024-06-03T04:16:26.527Z
+updated: 2024-06-04T04:16:26.527Z
 tags: 
   - screen-recording
   - ai video

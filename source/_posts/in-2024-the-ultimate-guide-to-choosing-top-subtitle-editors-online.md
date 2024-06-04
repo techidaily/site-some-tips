@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Choosing Top Subtitle Editors Online"
-date: 2024-05-30 12:27:19
-updated: 2024-06-01 12:55:58
+date: 2024-06-03T04:48:00.976Z
+updated: 2024-06-04T04:48:00.976Z
 tags: 
   - screen-recording
   - ai video

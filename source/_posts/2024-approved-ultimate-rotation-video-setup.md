@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Rotation Video Setup\""
-date: 2024-06-01 21:31:50
-updated: 2024-06-02 10:36:38
+date: 2024-06-03T04:43:42.732Z
+updated: 2024-06-04T04:43:42.732Z
 tags: 
   - screen-recording
   - ai video

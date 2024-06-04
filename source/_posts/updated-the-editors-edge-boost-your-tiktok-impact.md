@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Editor's Edge  Boost Your TikTok Impact\""
-date: 2024-05-29 15:58:43
-updated: 2024-06-01 11:52:38
+date: 2024-06-03T03:56:21.554Z
+updated: 2024-06-04T03:56:21.554Z
 tags: 
   - screen-recording
   - ai video

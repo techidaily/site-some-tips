@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Symphonic Syncopation  Perfecting Audio Transitions\""
-date: 2024-05-30 13:30:19
-updated: 2024-05-31 12:54:48
+date: 2024-06-03T03:57:24.576Z
+updated: 2024-06-04T03:57:24.576Z
 tags: 
   - screen-recording
   - ai video

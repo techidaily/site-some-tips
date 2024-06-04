@@ -1,7 +1,7 @@
 ---
 title: "\"Strategies for Effective B-Roll Application for 2024\""
-date: 2024-05-29 17:39:18
-updated: 2024-05-31 11:40:20
+date: 2024-06-03T03:44:31.893Z
+updated: 2024-06-04T03:44:31.893Z
 tags: 
   - screen-recording
   - ai video

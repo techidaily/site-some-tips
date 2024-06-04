@@ -1,7 +1,7 @@
 ---
 title: "Quality Acoustics at an Accessible Price Point for 2024"
-date: 2024-05-28 13:32:44
-updated: 2024-05-30 11:56:32
+date: 2024-06-03T03:49:51.487Z
+updated: 2024-06-04T03:49:51.487Z
 tags: 
   - screen-recording
   - ai video

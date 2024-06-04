@@ -1,7 +1,7 @@
 ---
 title: "Techniques of Capturing Emotion in Digital GIF Formats for 2024"
-date: 2024-05-30 14:26:58
-updated: 2024-05-31 10:28:59
+date: 2024-06-03T04:26:29.565Z
+updated: 2024-06-04T04:26:29.565Z
 tags: 
   - screen-recording
   - ai video

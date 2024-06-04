@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlined Creativity  The Most Popular 8 Mobile Apps for Edits for 2024\""
-date: 2024-05-28 11:39:55
-updated: 2024-05-31 10:16:49
+date: 2024-06-03T04:50:51.508Z
+updated: 2024-06-04T04:50:51.508Z
 tags: 
   - screen-recording
   - ai video

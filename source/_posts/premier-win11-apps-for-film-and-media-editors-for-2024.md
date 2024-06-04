@@ -1,7 +1,7 @@
 ---
 title: "Premier Win11 Apps for Film & Media Editors for 2024"
-date: 2024-05-29 15:39:24
-updated: 2024-05-30 12:51:49
+date: 2024-06-03T04:35:53.846Z
+updated: 2024-06-04T04:35:53.846Z
 tags: 
   - screen-recording
   - ai video

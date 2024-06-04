@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Photo Editing  Inserting Dates in Images for 2024\""
-date: 2024-05-27 12:13:57
-updated: 2024-05-28 12:43:43
+date: 2024-06-03T04:33:47.299Z
+updated: 2024-06-04T04:33:47.299Z
 tags: 
   - screen-recording
   - ai video

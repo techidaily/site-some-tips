@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Talk Turned Type  Essential Apps for Offline Speech Recognition\""
-date: 2024-05-29 16:57:24
-updated: 2024-05-31 12:28:21
+date: 2024-06-03T03:55:30.363Z
+updated: 2024-06-04T03:55:30.363Z
 tags: 
   - screen-recording
   - ai video

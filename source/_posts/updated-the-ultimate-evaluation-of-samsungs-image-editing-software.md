@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Evaluation of Samsung's Image Editing Software"
-date: 2024-05-30 16:34:24
-updated: 2024-06-01 11:41:50
+date: 2024-06-03T04:11:11.388Z
+updated: 2024-06-04T04:11:11.388Z
 tags: 
   - screen-recording
   - ai video

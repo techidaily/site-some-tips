@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sticky Situations Solved  TikTok Video Cleanup\""
-date: 2024-05-28 12:37:39
-updated: 2024-05-31 12:46:36
+date: 2024-06-03T03:51:44.573Z
+updated: 2024-06-04T03:51:44.573Z
 tags: 
   - screen-recording
   - ai video

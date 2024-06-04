@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate 2024 Camcorder Guide  Ranked & Reviewed\""
-date: 2024-05-30 18:17:51
-updated: 2024-06-02 12:38:21
+date: 2024-06-03T03:57:47.105Z
+updated: 2024-06-04T03:57:47.105Z
 tags: 
   - screen-recording
   - ai video

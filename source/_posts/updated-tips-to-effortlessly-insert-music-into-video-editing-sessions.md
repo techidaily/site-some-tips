@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips to Effortlessly Insert Music Into Video Editing Sessions"
-date: 2024-06-01 14:38:15
-updated: 2024-06-02 11:30:43
+date: 2024-06-03T04:27:08.215Z
+updated: 2024-06-04T04:27:08.215Z
 tags: 
   - screen-recording
   - ai video

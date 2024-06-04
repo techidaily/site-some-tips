@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Landscape of Augmented Reality Stickers  Spotlight on Google\""
-date: 2024-05-31 21:24:47
-updated: 2024-06-01 11:18:22
+date: 2024-06-03T04:22:19.636Z
+updated: 2024-06-04T04:22:19.636Z
 tags: 
   - screen-recording
   - ai video

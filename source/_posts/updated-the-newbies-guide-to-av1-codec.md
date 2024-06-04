@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Newbie's Guide to AV1 Codec"
-date: 2024-05-30 16:25:41
-updated: 2024-06-01 10:49:54
+date: 2024-06-03T04:43:32.815Z
+updated: 2024-06-04T04:43:32.815Z
 tags: 
   - screen-recording
   - ai video

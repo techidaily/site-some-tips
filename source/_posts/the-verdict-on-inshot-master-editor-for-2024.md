@@ -1,7 +1,7 @@
 ---
 title: "\"The Verdict on InShot  Master Editor for 2024\""
-date: 2024-05-29 17:28:27
-updated: 2024-06-01 11:31:31
+date: 2024-06-03T04:47:06.350Z
+updated: 2024-06-04T04:47:06.350Z
 tags: 
   - screen-recording
   - ai video

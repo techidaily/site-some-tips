@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling The Top 6 Head Mounts  Expert Reviews for Action Photography\""
-date: 2024-05-31 16:43:28
-updated: 2024-06-03 12:54:22
+date: 2024-06-03T04:23:36.474Z
+updated: 2024-06-04T04:23:36.474Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, TOP 8 Digital Collage Crafting Software"
-date: 2024-05-31 18:57:31
-updated: 2024-06-02 11:51:27
+date: 2024-06-03T03:42:55.635Z
+updated: 2024-06-04T03:42:55.635Z
 tags: 
   - screen-recording
   - ai video

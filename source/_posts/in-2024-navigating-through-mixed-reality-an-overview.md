@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Navigating Through Mixed Reality  An Overview\""
-date: 2024-05-26 17:30:21
-updated: 2024-05-29 12:51:21
+date: 2024-06-03T04:27:17.760Z
+updated: 2024-06-04T04:27:17.760Z
 tags: 
   - screen-recording
   - ai video

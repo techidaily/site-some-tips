@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Reason Behind the Sudden Pause of My Instagram Video"
-date: 2024-05-30 18:18:43
-updated: 2024-06-01 11:10:13
+date: 2024-06-03T04:15:42.030Z
+updated: 2024-06-04T04:15:42.030Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 7 Essential Metaverse Tech for Your Arsenal"
-date: 2024-05-31 23:11:51
-updated: 2024-06-02 12:46:52
+date: 2024-06-03T03:48:52.360Z
+updated: 2024-06-04T03:48:52.360Z
 tags: 
   - screen-recording
   - ai video

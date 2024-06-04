@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies for Secure, Unmarked Photography Procurement"
-date: 2024-05-28 19:48:30
-updated: 2024-05-31 10:36:24
+date: 2024-06-03T03:58:40.951Z
+updated: 2024-06-04T03:58:40.951Z
 tags: 
   - screen-recording
   - ai video

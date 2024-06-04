@@ -1,7 +1,7 @@
 ---
 title: "[New] The Teacher's Compendium on Multimedia Pedagogy"
-date: 2024-05-30 18:59:50
-updated: 2024-06-01 11:42:53
+date: 2024-06-03T04:29:06.907Z
+updated: 2024-06-04T04:29:06.907Z
 tags: 
   - screen-recording
   - ai video

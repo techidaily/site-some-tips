@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Through the Viewfinder  Tips for Artistic Photo Edits\""
-date: 2024-05-31 15:41:54
-updated: 2024-06-01 12:39:29
+date: 2024-06-03T04:33:49.435Z
+updated: 2024-06-04T04:33:49.435Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Art of Excellent Collages (#12 Edition) for 2024"
-date: 2024-06-02 11:30:16
-updated: 2024-06-03 12:33:33
+date: 2024-06-03T04:11:38.306Z
+updated: 2024-06-04T04:11:38.306Z
 tags: 
   - screen-recording
   - ai video

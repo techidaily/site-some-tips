@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Decreasing Audio Intensity in Logic Pro\""
-date: 2024-05-29 21:46:17
-updated: 2024-06-01 11:49:48
+date: 2024-06-03T04:23:31.510Z
+updated: 2024-06-04T04:23:31.510Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Text Temporal Tinkering Tools for 2024"
-date: 2024-05-30 19:39:40
-updated: 2024-06-01 11:47:21
+date: 2024-06-03T04:13:10.722Z
+updated: 2024-06-04T04:13:10.723Z
 tags: 
   - screen-recording
   - ai video

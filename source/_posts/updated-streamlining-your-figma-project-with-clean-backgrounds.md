@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlining Your Figma Project with Clean Backgrounds"
-date: 2024-05-29 11:50:35
-updated: 2024-05-31 10:46:54
+date: 2024-06-03T04:37:06.921Z
+updated: 2024-06-04T04:37:06.921Z
 tags: 
   - screen-recording
   - ai video

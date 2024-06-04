@@ -1,7 +1,7 @@
 ---
 title: "Testing the Capabilities of MAGIX Image Viewer for 2024"
-date: 2024-05-30 17:27:51
-updated: 2024-06-01 12:20:14
+date: 2024-06-03T04:30:14.121Z
+updated: 2024-06-04T04:30:14.121Z
 tags: 
   - screen-recording
   - ai video

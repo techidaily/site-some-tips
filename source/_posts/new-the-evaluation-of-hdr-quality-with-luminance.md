@@ -1,7 +1,7 @@
 ---
 title: "[New] The Evaluation of HDR Quality with Luminance"
-date: 2024-05-31 22:35:55
-updated: 2024-06-01 10:38:30
+date: 2024-06-03T04:25:46.708Z
+updated: 2024-06-04T04:25:46.708Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transition Tunes  Mastering Crossfading in Music\""
-date: 2024-05-30 11:26:46
-updated: 2024-06-02 10:23:33
+date: 2024-06-03T04:40:37.271Z
+updated: 2024-06-04T04:40:37.271Z
 tags: 
   - screen-recording
   - ai video

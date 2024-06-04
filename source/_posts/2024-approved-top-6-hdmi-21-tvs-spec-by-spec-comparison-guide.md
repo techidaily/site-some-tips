@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 6 HDMI 2.1 TVs  Spec-by-Spec Comparison Guide\""
-date: 2024-05-30 18:40:37
-updated: 2024-06-02 10:39:53
+date: 2024-06-03T04:07:35.440Z
+updated: 2024-06-04T04:07:35.440Z
 tags: 
   - screen-recording
   - ai video

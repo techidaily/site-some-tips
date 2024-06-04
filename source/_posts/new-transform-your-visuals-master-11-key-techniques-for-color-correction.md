@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transform Your Visuals  Master 11 Key Techniques for Color Correction\""
-date: 2024-05-30 20:44:52
-updated: 2024-06-02 12:19:27
+date: 2024-06-03T04:31:09.120Z
+updated: 2024-06-04T04:31:09.120Z
 tags: 
   - screen-recording
   - ai video

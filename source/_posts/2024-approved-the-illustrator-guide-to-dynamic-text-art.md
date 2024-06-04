@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Illustrator Guide to Dynamic Text Art\""
-date: 2024-05-30 14:58:58
-updated: 2024-06-01 10:49:53
+date: 2024-06-03T04:38:50.648Z
+updated: 2024-06-04T04:38:50.648Z
 tags: 
   - screen-recording
   - ai video

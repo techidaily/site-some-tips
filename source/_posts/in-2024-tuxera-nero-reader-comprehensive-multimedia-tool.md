@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tuxera Nero Reader  Comprehensive Multimedia Tool\""
-date: 2024-05-30 12:25:14
-updated: 2024-06-02 12:41:25
+date: 2024-06-03T04:48:36.012Z
+updated: 2024-06-04T04:48:36.012Z
 tags: 
   - screen-recording
   - ai video

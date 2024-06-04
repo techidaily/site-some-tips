@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, No-Sweat Strategies for Skipping Edgenuity Video Content\""
-date: 2024-05-28 11:33:19
-updated: 2024-05-29 10:52:38
+date: 2024-06-03T04:26:16.111Z
+updated: 2024-06-04T04:26:16.111Z
 tags: 
   - screen-recording
   - ai video

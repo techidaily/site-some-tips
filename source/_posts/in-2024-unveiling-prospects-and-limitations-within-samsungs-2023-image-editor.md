@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor"
-date: 2024-05-31 17:35:53
-updated: 2024-06-03 10:45:47
+date: 2024-06-03T04:46:24.272Z
+updated: 2024-06-04T04:46:24.272Z
 tags: 
   - screen-recording
   - ai video

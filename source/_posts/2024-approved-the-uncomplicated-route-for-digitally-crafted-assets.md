@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Uncomplicated Route for Digitally-Crafted Assets\""
-date: 2024-05-29 11:44:20
-updated: 2024-06-01 10:44:40
+date: 2024-06-03T04:43:39.902Z
+updated: 2024-06-04T04:43:39.902Z
 tags: 
   - screen-recording
   - ai video

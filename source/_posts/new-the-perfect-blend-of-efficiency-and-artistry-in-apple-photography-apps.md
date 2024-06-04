@@ -1,7 +1,7 @@
 ---
 title: "[New] The Perfect Blend of Efficiency and Artistry in Apple Photography Apps"
-date: 2024-05-29 13:20:46
-updated: 2024-06-01 12:44:18
+date: 2024-06-03T04:39:34.183Z
+updated: 2024-06-04T04:39:34.183Z
 tags: 
   - screen-recording
   - ai video

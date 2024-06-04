@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Speech-To-Text Processing in Powerpoint\""
-date: 2024-05-29 22:50:44
-updated: 2024-05-31 11:12:56
+date: 2024-06-03T03:55:28.934Z
+updated: 2024-06-04T03:55:28.934Z
 tags: 
   - screen-recording
   - ai video

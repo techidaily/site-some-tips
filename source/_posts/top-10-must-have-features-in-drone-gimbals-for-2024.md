@@ -1,7 +1,7 @@
 ---
 title: "\"Top 10 Must-Have Features in Drone Gimbals for 2024\""
-date: 2024-05-30 21:11:51
-updated: 2024-06-02 12:28:57
+date: 2024-06-03T04:27:00.433Z
+updated: 2024-06-04T04:27:00.433Z
 tags: 
   - screen-recording
   - ai video

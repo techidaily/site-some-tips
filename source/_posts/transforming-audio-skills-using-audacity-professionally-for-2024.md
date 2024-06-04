@@ -1,7 +1,7 @@
 ---
 title: "Transforming Audio Skills Using Audacity Professionally for 2024"
-date: 2024-05-31 17:19:24
-updated: 2024-06-02 10:49:12
+date: 2024-06-03T04:00:03.964Z
+updated: 2024-06-04T04:00:03.964Z
 tags: 
   - screen-recording
   - ai video

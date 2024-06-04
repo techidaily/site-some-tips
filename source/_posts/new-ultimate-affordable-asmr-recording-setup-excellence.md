@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Affordable ASMR Recording Setup Excellence"
-date: 2024-05-30 21:55:52
-updated: 2024-06-02 11:35:11
+date: 2024-06-03T03:57:12.401Z
+updated: 2024-06-04T03:57:12.401Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Science of Choosing Music for Movie Previews\""
-date: 2024-05-31 19:42:27
-updated: 2024-06-01 12:12:28
+date: 2024-06-03T03:46:51.663Z
+updated: 2024-06-04T03:46:51.663Z
 tags: 
   - screen-recording
   - ai video

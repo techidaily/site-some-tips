@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Smooth Scene Transitions with Premiere's Fades\""
-date: 2024-05-30 14:10:38
-updated: 2024-05-31 12:55:46
+date: 2024-06-03T03:59:40.044Z
+updated: 2024-06-04T03:59:40.044Z
 tags: 
   - screen-recording
   - ai video

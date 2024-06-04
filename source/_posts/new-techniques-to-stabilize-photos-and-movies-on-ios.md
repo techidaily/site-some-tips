@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques to Stabilize Photos and Movies on iOS"
-date: 2024-05-29 17:56:54
-updated: 2024-05-31 10:59:47
+date: 2024-06-03T04:06:14.774Z
+updated: 2024-06-04T04:06:14.774Z
 tags: 
   - screen-recording
   - ai video

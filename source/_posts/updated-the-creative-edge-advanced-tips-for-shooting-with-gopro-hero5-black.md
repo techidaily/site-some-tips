@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Creative Edge  Advanced Tips for Shooting with GoPro Hero5 Black\""
-date: 2024-05-31 14:51:19
-updated: 2024-06-01 11:42:28
+date: 2024-06-03T04:14:22.188Z
+updated: 2024-06-04T04:14:22.188Z
 tags: 
   - screen-recording
   - ai video

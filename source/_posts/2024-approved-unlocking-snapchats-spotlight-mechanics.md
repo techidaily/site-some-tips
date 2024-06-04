@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Snapchat's Spotlight Mechanics\""
-date: 2024-05-31 13:23:34
-updated: 2024-06-03 11:19:21
+date: 2024-06-03T04:00:44.992Z
+updated: 2024-06-04T04:00:44.992Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Taking Photos and Posting  YouTube's Complete Guidebook for 2024\""
-date: 2024-05-29 21:54:47
-updated: 2024-05-31 12:33:30
+date: 2024-06-03T04:12:04.330Z
+updated: 2024-06-04T04:12:04.330Z
 tags: 
   - screen-recording
   - ai video

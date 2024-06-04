@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Blueprint to Thriving in Spotify Ads"
-date: 2024-05-30 20:35:20
-updated: 2024-06-01 11:46:12
+date: 2024-06-03T04:03:32.568Z
+updated: 2024-06-04T04:03:32.568Z
 tags: 
   - screen-recording
   - ai video

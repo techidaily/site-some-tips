@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Creative Freedom with iMovie Soundtrack Tips\""
-date: 2024-05-31 19:32:22
-updated: 2024-06-03 10:53:33
+date: 2024-06-03T04:24:41.046Z
+updated: 2024-06-04T04:24:41.046Z
 tags: 
   - screen-recording
   - ai video

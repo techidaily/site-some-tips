@@ -1,7 +1,7 @@
 ---
 title: "\"The Chroma Shift  4K Vistas Unveiled by Blade Technology for 2024\""
-date: 2024-05-30 10:48:50
-updated: 2024-06-01 11:52:15
+date: 2024-06-03T03:57:51.352Z
+updated: 2024-06-04T03:57:51.352Z
 tags: 
   - screen-recording
   - ai video

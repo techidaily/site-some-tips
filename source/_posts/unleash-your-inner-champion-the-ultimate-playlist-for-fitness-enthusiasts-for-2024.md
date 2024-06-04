@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Your Inner Champion  The Ultimate Playlist for Fitness Enthusiasts for 2024\""
-date: 2024-06-02 12:46:46
-updated: 2024-06-03 11:40:16
+date: 2024-06-03T04:07:57.223Z
+updated: 2024-06-04T04:07:57.223Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Creative Expressions  Building Stories From Photos in Pixiz\""
-date: 2024-05-31 10:31:58
-updated: 2024-06-03 11:53:29
+date: 2024-06-03T03:54:36.952Z
+updated: 2024-06-04T03:54:36.952Z
 tags: 
   - screen-recording
   - ai video

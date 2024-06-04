@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Tripods and Mounts for GoPro for 2024"
-date: 2024-05-30 12:15:44
-updated: 2024-06-02 10:34:48
+date: 2024-06-03T04:19:35.821Z
+updated: 2024-06-04T04:19:35.821Z
 tags: 
   - screen-recording
   - ai video

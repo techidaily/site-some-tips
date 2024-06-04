@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Flip Side  When VR Becomes a Stumbling Block\""
-date: 2024-05-31 15:23:58
-updated: 2024-06-01 11:18:31
+date: 2024-06-03T04:21:34.136Z
+updated: 2024-06-04T04:21:34.136Z
 tags: 
   - screen-recording
   - ai video

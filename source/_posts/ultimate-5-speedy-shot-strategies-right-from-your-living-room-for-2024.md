@@ -1,7 +1,7 @@
 ---
 title: "Ultimate 5 Speedy Shot Strategies Right From Your Living Room for 2024"
-date: 2024-05-30 22:27:59
-updated: 2024-06-02 11:33:33
+date: 2024-06-03T04:25:58.397Z
+updated: 2024-06-04T04:25:58.397Z
 tags: 
   - screen-recording
   - ai video

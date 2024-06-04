@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Power of Slug Lines in SEO and Content Marketing\""
-date: 2024-05-31 18:36:25
-updated: 2024-06-01 12:45:29
+date: 2024-06-03T04:34:37.659Z
+updated: 2024-06-04T04:34:37.659Z
 tags: 
   - screen-recording
   - ai video

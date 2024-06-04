@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics\""
-date: 2024-05-30 23:21:27
-updated: 2024-06-01 11:48:20
+date: 2024-06-03T04:01:18.213Z
+updated: 2024-06-04T04:01:18.213Z
 tags: 
   - screen-recording
   - ai video

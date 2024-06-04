@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Path to Crafting Killer Podcast Names, Plus Inspiration Sparks"
-date: 2024-05-29 12:20:58
-updated: 2024-06-01 10:52:17
+date: 2024-06-03T04:10:09.536Z
+updated: 2024-06-04T04:10:09.536Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Stroke of Genius  Best 10 Creative Sketch Software for Mac (Free)\""
-date: 2024-05-29 21:23:22
-updated: 2024-05-31 10:37:43
+date: 2024-06-03T04:28:56.267Z
+updated: 2024-06-04T04:28:56.267Z
 tags: 
   - screen-recording
   - ai video

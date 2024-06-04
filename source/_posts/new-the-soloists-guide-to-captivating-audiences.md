@@ -1,7 +1,7 @@
 ---
 title: "[New] The Soloist's Guide to Captivating Audiences"
-date: 2024-05-29 11:25:56
-updated: 2024-06-01 12:29:52
+date: 2024-06-03T04:47:36.568Z
+updated: 2024-06-04T04:47:36.568Z
 tags: 
   - screen-recording
   - ai video

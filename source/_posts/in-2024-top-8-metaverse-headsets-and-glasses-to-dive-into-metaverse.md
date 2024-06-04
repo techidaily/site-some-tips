@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse"
-date: 2024-05-30 20:17:14
-updated: 2024-06-02 10:32:31
+date: 2024-06-03T04:16:16.505Z
+updated: 2024-06-04T04:16:16.505Z
 tags: 
   - screen-recording
   - ai video

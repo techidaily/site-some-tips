@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Pioneers Making Waves in Digital AV Creation\""
-date: 2024-05-31 12:19:38
-updated: 2024-06-02 11:40:27
+date: 2024-06-03T04:33:38.101Z
+updated: 2024-06-04T04:33:38.101Z
 tags: 
   - screen-recording
   - ai video

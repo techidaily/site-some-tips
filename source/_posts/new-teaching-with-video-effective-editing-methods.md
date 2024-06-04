@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Teaching with Video  Effective Editing Methods\""
-date: 2024-05-29 17:13:41
-updated: 2024-05-31 12:33:30
+date: 2024-06-03T04:26:54.061Z
+updated: 2024-06-04T04:26:54.061Z
 tags: 
   - screen-recording
   - ai video

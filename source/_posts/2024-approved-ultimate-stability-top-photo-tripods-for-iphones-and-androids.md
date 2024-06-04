@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Stability  Top Photo Tripods for iPhones & Androids\""
-date: 2024-06-01 17:35:33
-updated: 2024-06-02 10:36:56
+date: 2024-06-03T04:33:05.834Z
+updated: 2024-06-04T04:33:05.834Z
 tags: 
   - screen-recording
   - ai video

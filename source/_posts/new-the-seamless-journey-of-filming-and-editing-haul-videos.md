@@ -1,7 +1,7 @@
 ---
 title: "[New] The Seamless Journey of Filming and Editing Haul Videos"
-date: 2024-05-31 21:52:47
-updated: 2024-06-01 12:23:23
+date: 2024-06-03T04:08:19.394Z
+updated: 2024-06-04T04:08:19.394Z
 tags: 
   - screen-recording
   - ai video

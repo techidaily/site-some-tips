@@ -1,7 +1,7 @@
 ---
 title: "[New] The Creative Entrepreneur's Handbook in Design"
-date: 2024-05-31 22:12:15
-updated: 2024-06-01 10:54:50
+date: 2024-06-03T04:40:41.517Z
+updated: 2024-06-04T04:40:41.517Z
 tags: 
   - screen-recording
   - ai video

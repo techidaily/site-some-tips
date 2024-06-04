@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Flip to Flash with Android"
-date: 2024-06-01 18:11:17
-updated: 2024-06-02 12:59:22
+date: 2024-06-03T04:29:48.305Z
+updated: 2024-06-04T04:29:48.305Z
 tags: 
   - screen-recording
   - ai video

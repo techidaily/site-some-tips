@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track"
-date: 2024-05-31 14:46:30
-updated: 2024-06-02 11:16:21
+date: 2024-06-03T04:16:36.170Z
+updated: 2024-06-04T04:16:36.170Z
 tags: 
   - screen-recording
   - ai video

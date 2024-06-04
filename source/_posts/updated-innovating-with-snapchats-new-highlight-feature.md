@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Innovating with Snapchat's New Highlight Feature"
-date: 2024-05-26 10:49:17
-updated: 2024-05-27 11:51:40
+date: 2024-06-03T04:49:53.985Z
+updated: 2024-06-04T04:49:53.985Z
 tags: 
   - screen-recording
   - ai video

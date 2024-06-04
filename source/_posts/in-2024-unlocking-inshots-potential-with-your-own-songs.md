@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking InShot's Potential with Your Own Songs"
-date: 2024-06-01 10:52:56
-updated: 2024-06-03 11:57:44
+date: 2024-06-03T03:52:49.152Z
+updated: 2024-06-04T03:52:49.152Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Synergy of Style and Functionality in AE Plugins"
-date: 2024-05-28 18:18:32
-updated: 2024-05-31 11:18:24
+date: 2024-06-03T04:14:43.908Z
+updated: 2024-06-04T04:14:43.908Z
 tags: 
   - screen-recording
   - ai video

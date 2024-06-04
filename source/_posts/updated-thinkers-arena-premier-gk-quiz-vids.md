@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Thinkers’ Arena  Premier GK Quiz Vids\""
-date: 2024-05-31 21:50:55
-updated: 2024-06-01 12:40:13
+date: 2024-06-03T03:59:04.995Z
+updated: 2024-06-04T03:59:04.995Z
 tags: 
   - screen-recording
   - ai video

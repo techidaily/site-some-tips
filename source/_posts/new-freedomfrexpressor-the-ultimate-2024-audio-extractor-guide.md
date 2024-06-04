@@ -1,7 +1,7 @@
 ---
 title: "\"[New] FreedomFreXpressor  The Ultimate 2024 Audio Extractor Guide\""
-date: 2024-05-25 14:30:23
-updated: 2024-05-26 11:45:50
+date: 2024-06-03T04:04:07.241Z
+updated: 2024-06-04T04:04:07.241Z
 tags: 
   - screen-recording
   - ai video

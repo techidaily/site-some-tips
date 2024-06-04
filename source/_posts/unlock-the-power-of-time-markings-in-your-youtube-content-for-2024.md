@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Time Markings in Your YouTube Content for 2024"
-date: 2024-06-01 16:29:47
-updated: 2024-06-03 11:25:26
+date: 2024-06-03T04:43:29.269Z
+updated: 2024-06-04T04:43:29.269Z
 tags: 
   - screen-recording
   - ai video

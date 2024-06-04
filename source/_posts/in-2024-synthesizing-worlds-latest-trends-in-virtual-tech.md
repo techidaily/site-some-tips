@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Synthesizing Worlds  Latest Trends in Virtual Tech\""
-date: 2024-05-30 19:51:22
-updated: 2024-05-31 10:58:27
+date: 2024-06-03T04:44:47.208Z
+updated: 2024-06-04T04:44:47.208Z
 tags: 
   - screen-recording
   - ai video

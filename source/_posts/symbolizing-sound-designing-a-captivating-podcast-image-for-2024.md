@@ -1,7 +1,7 @@
 ---
 title: "\"Symbolizing Sound  Designing a Captivating Podcast Image for 2024\""
-date: 2024-05-28 14:56:21
-updated: 2024-05-31 12:50:58
+date: 2024-06-03T04:33:52.999Z
+updated: 2024-06-04T04:33:52.999Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Visuals - Top 18 Camcorders for 4K Content\""
-date: 2024-05-30 18:32:35
-updated: 2024-06-02 10:37:23
+date: 2024-06-03T03:50:29.545Z
+updated: 2024-06-04T03:50:29.545Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Streamlining Your Image Library with Google Photos"
-date: 2024-05-28 15:51:25
-updated: 2024-05-31 12:54:18
+date: 2024-06-03T04:41:20.854Z
+updated: 2024-06-04T04:41:20.854Z
 tags: 
   - screen-recording
   - ai video

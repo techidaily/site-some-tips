@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editor's Lifeline  Essential Responses to Filmora Queries\""
-date: 2024-05-31 23:52:32
-updated: 2024-06-01 10:52:33
+date: 2024-06-03T03:43:45.301Z
+updated: 2024-06-04T03:43:45.301Z
 tags: 
   - screen-recording
   - ai video

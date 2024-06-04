@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Insider's Guide to Captivating YouTube Headlines"
-date: 2024-05-31 12:59:30
-updated: 2024-06-01 11:10:28
+date: 2024-06-03T04:48:32.472Z
+updated: 2024-06-04T04:48:32.472Z
 tags: 
   - screen-recording
   - ai video

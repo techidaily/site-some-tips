@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior 6 Tools for Video Language Shift\""
-date: 2024-05-28 20:17:29
-updated: 2024-05-31 11:55:57
+date: 2024-06-03T04:14:28.622Z
+updated: 2024-06-04T04:14:28.622Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Simplified Art of Creating Digital Photobooks with Picshot"
-date: 2024-05-30 13:16:29
-updated: 2024-06-01 10:21:26
+date: 2024-06-03T04:26:27.429Z
+updated: 2024-06-04T04:26:27.429Z
 tags: 
   - screen-recording
   - ai video

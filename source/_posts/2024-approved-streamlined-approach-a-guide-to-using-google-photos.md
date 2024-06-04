@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlined Approach  A Guide to Using Google Photos\""
-date: 2024-05-29 17:17:35
-updated: 2024-05-31 10:44:29
+date: 2024-06-03T04:25:05.172Z
+updated: 2024-06-04T04:25:05.172Z
 tags: 
   - screen-recording
   - ai video

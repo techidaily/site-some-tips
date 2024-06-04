@@ -1,7 +1,7 @@
 ---
 title: "How to Choose the Background Music for the Trailer for 2024"
-date: 2024-05-30 18:38:21
-updated: 2024-06-02 10:38:21
+date: 2024-06-03T04:45:45.705Z
+updated: 2024-06-04T04:45:45.705Z
 tags: 
   - screen-recording
   - ai video

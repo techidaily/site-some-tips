@@ -1,7 +1,7 @@
 ---
 title: "The Fastest Way to Scan Windows Files for 2024"
-date: 2024-05-31 23:12:16
-updated: 2024-06-01 10:13:14
+date: 2024-06-03T04:06:52.270Z
+updated: 2024-06-04T04:06:52.270Z
 tags: 
   - screen-recording
   - ai video

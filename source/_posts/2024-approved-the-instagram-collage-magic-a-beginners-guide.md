@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Instagram Collage Magic  A Beginner's Guide\""
-date: 2024-05-29 11:15:40
-updated: 2024-06-01 11:47:55
+date: 2024-06-03T04:18:42.094Z
+updated: 2024-06-04T04:18:42.094Z
 tags: 
   - screen-recording
   - ai video

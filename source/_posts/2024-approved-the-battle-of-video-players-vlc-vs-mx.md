@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Battle of Video Players  VLC Vs. MX\""
-date: 2024-05-29 19:29:12
-updated: 2024-06-01 12:48:32
+date: 2024-06-03T04:22:26.722Z
+updated: 2024-06-04T04:22:26.722Z
 tags: 
   - screen-recording
   - ai video

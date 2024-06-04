@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap To Becoming An Excellent Interviewer for 2024"
-date: 2024-05-30 14:38:59
-updated: 2024-06-01 11:23:19
+date: 2024-06-03T03:50:18.507Z
+updated: 2024-06-04T03:50:18.507Z
 tags: 
   - screen-recording
   - ai video

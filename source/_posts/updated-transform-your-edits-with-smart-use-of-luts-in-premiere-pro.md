@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Edits with Smart Use of LUTs in Premiere Pro"
-date: 2024-05-30 23:36:21
-updated: 2024-06-02 12:46:41
+date: 2024-06-03T03:58:30.929Z
+updated: 2024-06-04T03:58:30.929Z
 tags: 
   - screen-recording
   - ai video

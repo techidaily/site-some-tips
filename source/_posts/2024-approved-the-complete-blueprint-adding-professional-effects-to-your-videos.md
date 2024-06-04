@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete Blueprint  Adding Professional Effects to Your Videos\""
-date: 2024-05-30 21:38:28
-updated: 2024-06-01 10:36:54
+date: 2024-06-03T04:16:39.007Z
+updated: 2024-06-04T04:16:39.007Z
 tags: 
   - screen-recording
   - ai video

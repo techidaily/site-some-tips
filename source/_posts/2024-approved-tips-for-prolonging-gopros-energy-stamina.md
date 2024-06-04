@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Prolonging GoPro's Energy Stamina\""
-date: 2024-05-31 16:19:12
-updated: 2024-06-02 12:35:24
+date: 2024-06-03T04:05:01.815Z
+updated: 2024-06-04T04:05:01.815Z
 tags: 
   - screen-recording
   - ai video

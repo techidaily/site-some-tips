@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultra HD Revolution - Dissecting Samsung's UE590 TV\""
-date: 2024-05-30 13:57:28
-updated: 2024-06-01 10:46:18
+date: 2024-06-03T04:52:32.638Z
+updated: 2024-06-04T04:52:32.638Z
 tags: 
   - screen-recording
   - ai video

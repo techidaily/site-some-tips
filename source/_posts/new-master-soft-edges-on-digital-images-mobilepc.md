@@ -1,7 +1,7 @@
 ---
 title: "[New] Master Soft Edges on Digital Images, Mobile/PC"
-date: 2024-05-26 15:33:23
-updated: 2024-05-28 11:10:46
+date: 2024-06-03T04:04:38.266Z
+updated: 2024-06-04T04:04:38.266Z
 tags: 
   - screen-recording
   - ai video

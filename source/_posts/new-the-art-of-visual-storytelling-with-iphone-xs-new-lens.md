@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Visual Storytelling with iPhone X's New Lens"
-date: 2024-05-30 22:14:55
-updated: 2024-06-01 12:25:53
+date: 2024-06-03T04:30:38.606Z
+updated: 2024-06-04T04:30:38.606Z
 tags: 
   - screen-recording
   - ai video

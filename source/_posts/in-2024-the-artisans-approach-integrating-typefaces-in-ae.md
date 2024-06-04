@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Artisan's Approach  Integrating Typefaces in AE\""
-date: 2024-05-31 15:52:57
-updated: 2024-06-01 12:14:56
+date: 2024-06-03T04:10:20.225Z
+updated: 2024-06-04T04:10:20.225Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Secrets to Pristine BG Removal Techniques in Figma for 2024"
-date: 2024-06-02 16:23:17
-updated: 2024-06-03 11:53:29
+date: 2024-06-03T04:31:19.342Z
+updated: 2024-06-04T04:31:19.342Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate List of Mac-Friendly Video to MP4 Codecs for 2024\""
-date: 2024-05-31 18:54:58
-updated: 2024-06-02 10:48:57
+date: 2024-06-03T04:48:48.801Z
+updated: 2024-06-04T04:48:48.802Z
 tags: 
   - screen-recording
   - ai video

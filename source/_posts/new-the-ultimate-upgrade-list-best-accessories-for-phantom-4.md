@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Upgrade List  Best Accessories for Phantom 4\""
-date: 2024-05-29 10:39:53
-updated: 2024-06-01 11:13:59
+date: 2024-06-03T03:58:19.044Z
+updated: 2024-06-04T03:58:19.044Z
 tags: 
   - screen-recording
   - ai video

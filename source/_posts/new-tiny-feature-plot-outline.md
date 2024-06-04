@@ -1,7 +1,7 @@
 ---
 title: "[New] Tiny Feature Plot Outline"
-date: 2024-06-01 22:57:49
-updated: 2024-06-02 12:24:29
+date: 2024-06-03T04:04:08.660Z
+updated: 2024-06-04T04:04:08.660Z
 tags: 
   - screen-recording
   - ai video

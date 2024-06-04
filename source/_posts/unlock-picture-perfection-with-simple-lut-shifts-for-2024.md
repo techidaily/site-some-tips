@@ -1,7 +1,7 @@
 ---
 title: "Unlock Picture Perfection with Simple LUT Shifts for 2024"
-date: 2024-05-31 20:40:34
-updated: 2024-06-03 12:32:56
+date: 2024-06-03T04:21:45.435Z
+updated: 2024-06-04T04:21:45.435Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding the Essentials of Burst in Action Shots"
-date: 2024-05-31 21:24:38
-updated: 2024-06-02 11:23:58
+date: 2024-06-03T03:48:04.631Z
+updated: 2024-06-04T03:48:04.631Z
 tags: 
   - screen-recording
   - ai video

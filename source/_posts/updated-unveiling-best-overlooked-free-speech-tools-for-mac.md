@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling Best Overlooked Free Speech Tools for Mac"
-date: 2024-05-31 19:55:49
-updated: 2024-06-03 10:53:33
+date: 2024-06-03T04:09:06.795Z
+updated: 2024-06-04T04:09:06.795Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Artisan’s Path  Learning Photoshop's Powerful Distortion Effects for 2024\""
-date: 2024-05-31 23:45:13
-updated: 2024-06-01 11:29:26
+date: 2024-06-03T04:04:12.963Z
+updated: 2024-06-04T04:04:12.963Z
 tags: 
   - screen-recording
   - ai video

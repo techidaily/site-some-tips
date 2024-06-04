@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Thorough Examination  GoPro Silver HERO4 Feature Test\""
-date: 2024-05-29 21:15:17
-updated: 2024-06-01 12:49:50
+date: 2024-06-03T04:14:07.256Z
+updated: 2024-06-04T04:14:07.256Z
 tags: 
   - screen-recording
   - ai video

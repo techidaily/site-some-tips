@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stabilizing Shaky Images  A Realistic Benefit or Hype?\""
-date: 2024-05-28 11:37:11
-updated: 2024-05-31 11:18:25
+date: 2024-06-03T04:01:15.354Z
+updated: 2024-06-04T04:01:15.354Z
 tags: 
   - screen-recording
   - ai video

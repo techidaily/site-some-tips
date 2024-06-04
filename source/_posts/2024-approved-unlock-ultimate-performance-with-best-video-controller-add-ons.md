@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Ultimate Performance with Best Video Controller Add-Ons\""
-date: 2024-05-31 17:39:35
-updated: 2024-06-03 10:23:53
+date: 2024-06-03T04:10:49.797Z
+updated: 2024-06-04T04:10:49.797Z
 tags: 
   - screen-recording
   - ai video

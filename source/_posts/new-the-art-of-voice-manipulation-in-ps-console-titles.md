@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Voice Manipulation in PS Console Titles"
-date: 2024-05-31 22:22:38
-updated: 2024-06-01 10:29:25
+date: 2024-06-03T04:47:31.615Z
+updated: 2024-06-04T04:47:31.615Z
 tags: 
   - screen-recording
   - ai video

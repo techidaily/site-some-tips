@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Techniques for Outstanding GoPro Vlogs"
-date: 2024-06-01 22:17:47
-updated: 2024-06-02 11:58:50
+date: 2024-06-03T04:03:42.547Z
+updated: 2024-06-04T04:03:42.547Z
 tags: 
   - screen-recording
   - ai video

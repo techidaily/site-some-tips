@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Close-Up Meetings in MS Teams for 2024\""
-date: 2024-05-31 11:51:27
-updated: 2024-06-01 11:57:19
+date: 2024-06-03T04:44:58.507Z
+updated: 2024-06-04T04:44:58.507Z
 tags: 
   - screen-recording
   - ai video

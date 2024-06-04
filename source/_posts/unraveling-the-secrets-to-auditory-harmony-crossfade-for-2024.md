@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Secrets to Auditory Harmony (Crossfade) for 2024"
-date: 2024-06-01 21:16:26
-updated: 2024-06-03 10:13:53
+date: 2024-06-03T04:03:15.422Z
+updated: 2024-06-04T04:03:15.422Z
 tags: 
   - screen-recording
   - ai video

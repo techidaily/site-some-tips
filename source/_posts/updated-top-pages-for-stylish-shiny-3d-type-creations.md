@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Pages for Stylish, Shiny 3D Type Creations"
-date: 2024-05-30 14:39:23
-updated: 2024-06-02 12:13:30
+date: 2024-06-03T04:26:05.474Z
+updated: 2024-06-04T04:26:05.474Z
 tags: 
   - screen-recording
   - ai video

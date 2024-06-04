@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Spotify’s Advertising Opportunities  A Roadmap for 2024\""
-date: 2024-06-01 10:59:42
-updated: 2024-06-03 10:37:47
+date: 2024-06-03T04:25:59.109Z
+updated: 2024-06-04T04:25:59.109Z
 tags: 
   - screen-recording
   - ai video

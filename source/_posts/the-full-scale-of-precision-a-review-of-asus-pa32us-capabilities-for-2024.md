@@ -1,7 +1,7 @@
 ---
 title: "\"The Full Scale of Precision  A Review of Asus PA32U's Capabilities for 2024\""
-date: 2024-05-29 19:33:50
-updated: 2024-06-01 12:54:36
+date: 2024-06-03T04:40:12.762Z
+updated: 2024-06-04T04:40:12.762Z
 tags: 
   - screen-recording
   - ai video

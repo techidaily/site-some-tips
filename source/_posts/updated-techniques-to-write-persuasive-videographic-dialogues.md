@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques to Write Persuasive Videographic Dialogues"
-date: 2024-05-28 20:25:49
-updated: 2024-05-31 10:17:48
+date: 2024-06-03T04:41:53.052Z
+updated: 2024-06-04T04:41:53.052Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Ten Tips to Overcome Video Glitching"
-date: 2024-05-30 19:46:48
-updated: 2024-06-02 10:58:37
+date: 2024-06-03T04:44:36.568Z
+updated: 2024-06-04T04:44:36.568Z
 tags: 
   - screen-recording
   - ai video

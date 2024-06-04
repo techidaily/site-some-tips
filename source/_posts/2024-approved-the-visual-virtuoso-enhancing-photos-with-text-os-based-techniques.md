@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Visual Virtuoso  Enhancing Photos with Text, OS-Based Techniques\""
-date: 2024-05-29 13:25:57
-updated: 2024-06-01 10:41:51
+date: 2024-06-03T04:02:19.897Z
+updated: 2024-06-04T04:02:19.897Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Essence of Creative Collage Crafted in 12 for 2024"
-date: 2024-05-31 21:39:51
-updated: 2024-06-01 12:12:35
+date: 2024-06-03T03:56:14.420Z
+updated: 2024-06-04T03:56:14.420Z
 tags: 
   - screen-recording
   - ai video

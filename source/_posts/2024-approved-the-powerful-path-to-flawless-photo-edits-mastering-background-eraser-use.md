@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Powerful Path to Flawless Photo Edits  Mastering Background Eraser Use\""
-date: 2024-05-31 16:29:18
-updated: 2024-06-01 10:56:24
+date: 2024-06-03T04:04:28.272Z
+updated: 2024-06-04T04:04:28.272Z
 tags: 
   - screen-recording
   - ai video

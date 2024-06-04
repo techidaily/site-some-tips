@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sony's Vision for Immersive Video  Exploring Xperia XZ Premium\""
-date: 2024-05-28 18:37:33
-updated: 2024-05-31 11:59:57
+date: 2024-06-03T04:47:58.157Z
+updated: 2024-06-04T04:47:58.157Z
 tags: 
   - screen-recording
   - ai video

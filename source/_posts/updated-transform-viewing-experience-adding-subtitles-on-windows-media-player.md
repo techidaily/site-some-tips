@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Viewing Experience  Adding Subtitles on Windows Media Player\""
-date: 2024-05-30 14:22:10
-updated: 2024-06-02 10:12:44
+date: 2024-06-03T04:49:22.133Z
+updated: 2024-06-04T04:49:22.133Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unique 14 Motion Graphics Showcasing Text"
-date: 2024-05-31 18:48:37
-updated: 2024-06-02 10:17:24
+date: 2024-06-03T03:58:13.359Z
+updated: 2024-06-04T03:58:13.359Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Sticker Cleanup in Short Film-Like TikToks\""
-date: 2024-05-30 19:32:38
-updated: 2024-06-01 11:54:27
+date: 2024-06-03T04:20:51.045Z
+updated: 2024-06-04T04:20:51.045Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncharted Top Free Speech-to-Text for Mac Users\""
-date: 2024-05-30 18:31:26
-updated: 2024-06-02 11:33:14
+date: 2024-06-03T03:57:00.606Z
+updated: 2024-06-04T03:57:00.606Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top TikTok Wallpaper Templates Uncovered"
-date: 2024-05-31 16:14:42
-updated: 2024-06-02 11:14:49
+date: 2024-06-03T03:45:27.131Z
+updated: 2024-06-04T03:45:27.131Z
 tags: 
   - screen-recording
   - ai video

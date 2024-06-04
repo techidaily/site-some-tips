@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Selection  Best iDevice Custom Alerts\""
-date: 2024-05-30 18:12:50
-updated: 2024-06-02 12:37:47
+date: 2024-06-03T03:51:02.765Z
+updated: 2024-06-04T03:51:02.765Z
 tags: 
   - screen-recording
   - ai video

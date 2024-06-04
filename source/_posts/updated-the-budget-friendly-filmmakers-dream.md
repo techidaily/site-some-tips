@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Budget-Friendly Filmmaker's Dream\""
-date: 2024-05-30 20:26:16
-updated: 2024-06-01 12:48:11
+date: 2024-06-03T04:28:43.518Z
+updated: 2024-06-04T04:28:43.518Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unravel the Mysteries of Color Grading with CS6/CC LUTs"
-date: 2024-06-02 21:31:12
-updated: 2024-06-03 11:13:43
+date: 2024-06-03T04:27:58.583Z
+updated: 2024-06-04T04:27:58.583Z
 tags: 
   - screen-recording
   - ai video

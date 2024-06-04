@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transformative SRT to TXT Guide for Time-Saving\""
-date: 2024-05-31 11:44:18
-updated: 2024-06-02 10:15:36
+date: 2024-06-03T04:41:32.196Z
+updated: 2024-06-04T04:41:32.196Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Creative Potential with These Top 7 Meme-Creation Techniques for 2024\""
-date: 2024-06-01 23:38:42
-updated: 2024-06-03 12:33:45
+date: 2024-06-03T04:02:42.314Z
+updated: 2024-06-04T04:02:42.314Z
 tags: 
   - screen-recording
   - ai video

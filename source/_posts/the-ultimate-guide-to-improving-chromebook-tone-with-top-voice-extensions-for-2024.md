@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions for 2024"
-date: 2024-05-29 19:35:30
-updated: 2024-06-01 11:58:18
+date: 2024-06-03T04:46:35.200Z
+updated: 2024-06-04T04:46:35.200Z
 tags: 
   - screen-recording
   - ai video

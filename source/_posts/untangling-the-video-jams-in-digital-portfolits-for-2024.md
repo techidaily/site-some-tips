@@ -1,7 +1,7 @@
 ---
 title: "Untangling the Video Jams in Digital Portfolits for 2024"
-date: 2024-06-01 16:45:24
-updated: 2024-06-03 11:31:43
+date: 2024-06-03T04:41:49.193Z
+updated: 2024-06-04T04:41:49.193Z
 tags: 
   - screen-recording
   - ai video

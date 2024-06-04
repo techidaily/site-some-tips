@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Guide to Affordable Photo Editing on PC & Mac"
-date: 2024-06-01 15:19:26
-updated: 2024-06-02 11:50:18
+date: 2024-06-03T04:17:28.563Z
+updated: 2024-06-04T04:17:28.563Z
 tags: 
   - screen-recording
   - ai video

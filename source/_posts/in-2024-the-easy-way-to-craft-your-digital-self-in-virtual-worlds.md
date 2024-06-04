@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Easy Way to Craft Your Digital Self in Virtual Worlds"
-date: 2024-05-31 23:22:16
-updated: 2024-06-01 12:50:58
+date: 2024-06-03T03:56:31.951Z
+updated: 2024-06-04T03:56:31.951Z
 tags: 
   - screen-recording
   - ai video

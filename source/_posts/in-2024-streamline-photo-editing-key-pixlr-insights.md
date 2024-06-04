@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Photo Editing  Key Pixlr Insights\""
-date: 2024-05-30 13:50:55
-updated: 2024-05-31 12:11:15
+date: 2024-06-03T04:09:47.117Z
+updated: 2024-06-04T04:09:47.117Z
 tags: 
   - screen-recording
   - ai video

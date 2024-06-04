@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Expert's Playbook for Transforming SRT Into Diverse Formats"
-date: 2024-05-30 14:33:14
-updated: 2024-06-01 11:11:33
+date: 2024-06-03T04:34:13.180Z
+updated: 2024-06-04T04:34:13.180Z
 tags: 
   - screen-recording
   - ai video

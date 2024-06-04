@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to ASUS MG28UQ's Crystal Clear Display"
-date: 2024-05-29 19:33:32
-updated: 2024-06-01 11:12:46
+date: 2024-06-03T04:21:26.287Z
+updated: 2024-06-04T04:21:26.287Z
 tags: 
   - screen-recording
   - ai video

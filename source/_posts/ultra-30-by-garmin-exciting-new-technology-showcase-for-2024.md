@@ -1,7 +1,7 @@
 ---
 title: "\"Ultra 30 by Garmin - Exciting New Technology Showcase for 2024\""
-date: 2024-05-31 18:29:22
-updated: 2024-06-02 12:57:23
+date: 2024-06-03T04:40:50.741Z
+updated: 2024-06-04T04:40:50.741Z
 tags: 
   - screen-recording
   - ai video

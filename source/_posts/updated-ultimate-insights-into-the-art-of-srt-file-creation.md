@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Insights Into the Art of SRT File Creation"
-date: 2024-05-30 18:41:58
-updated: 2024-06-02 10:16:22
+date: 2024-06-03T04:23:24.397Z
+updated: 2024-06-04T04:23:24.397Z
 tags: 
   - screen-recording
   - ai video

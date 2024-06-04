@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Devices for Global Video Communication for 2024"
-date: 2024-05-31 10:24:41
-updated: 2024-06-02 11:52:15
+date: 2024-06-03T03:49:53.617Z
+updated: 2024-06-04T03:49:53.617Z
 tags: 
   - screen-recording
   - ai video

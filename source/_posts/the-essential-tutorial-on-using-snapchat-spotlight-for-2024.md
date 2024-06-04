@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial on Using Snapchat Spotlight for 2024"
-date: 2024-05-30 12:12:32
-updated: 2024-06-01 11:45:12
+date: 2024-06-03T03:59:26.425Z
+updated: 2024-06-04T03:59:26.425Z
 tags: 
   - screen-recording
   - ai video

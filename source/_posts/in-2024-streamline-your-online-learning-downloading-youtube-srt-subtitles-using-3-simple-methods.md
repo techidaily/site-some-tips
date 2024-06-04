@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Your Online Learning  Downloading YouTube SRT Subtitles Using 3 Simple Methods\""
-date: 2024-05-28 21:26:35
-updated: 2024-05-31 10:15:43
+date: 2024-06-03T03:58:41.658Z
+updated: 2024-06-04T03:58:41.658Z
 tags: 
   - screen-recording
   - ai video

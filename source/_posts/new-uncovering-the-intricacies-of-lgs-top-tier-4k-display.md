@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Uncovering the Intricacies of LG's Top-Tier 4K Display\""
-date: 2024-06-01 21:24:14
-updated: 2024-06-02 10:25:29
+date: 2024-06-03T04:02:35.191Z
+updated: 2024-06-04T04:02:35.191Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies for Smooth Handh Points During Cinematography"
-date: 2024-05-28 14:23:21
-updated: 2024-05-31 10:52:48
+date: 2024-06-03T04:02:56.579Z
+updated: 2024-06-04T04:02:56.579Z
 tags: 
   - screen-recording
   - ai video

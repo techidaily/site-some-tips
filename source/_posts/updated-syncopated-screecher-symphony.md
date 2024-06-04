@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Syncopated Screecher Symphony"
-date: 2024-05-30 10:35:19
-updated: 2024-05-31 10:57:29
+date: 2024-06-03T04:16:31.897Z
+updated: 2024-06-04T04:16:31.897Z
 tags: 
   - screen-recording
   - ai video

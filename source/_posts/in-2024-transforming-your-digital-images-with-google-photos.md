@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Your Digital Images with Google Photos"
-date: 2024-05-31 13:41:56
-updated: 2024-06-02 12:29:13
+date: 2024-06-03T04:27:22.023Z
+updated: 2024-06-04T04:27:22.023Z
 tags: 
   - screen-recording
   - ai video

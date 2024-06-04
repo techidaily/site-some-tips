@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamline & Enhance with These Key Zoom Setup Steps"
-date: 2024-05-29 12:21:58
-updated: 2024-05-31 12:58:59
+date: 2024-06-03T04:22:01.291Z
+updated: 2024-06-04T04:22:01.291Z
 tags: 
   - screen-recording
   - ai video

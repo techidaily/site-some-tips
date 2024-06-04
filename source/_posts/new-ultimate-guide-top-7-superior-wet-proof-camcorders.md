@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Guide  Top 7 Superior Wet-Proof Camcorders\""
-date: 2024-06-01 14:29:14
-updated: 2024-06-02 10:28:27
+date: 2024-06-03T04:29:37.719Z
+updated: 2024-06-04T04:29:37.719Z
 tags: 
   - screen-recording
   - ai video

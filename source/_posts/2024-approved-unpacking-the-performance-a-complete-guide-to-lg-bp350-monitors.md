@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unpacking the Performance  A Complete Guide to LG BP350 Monitors\""
-date: 2024-06-01 18:55:59
-updated: 2024-06-03 10:26:14
+date: 2024-06-03T03:57:33.158Z
+updated: 2024-06-04T03:57:33.158Z
 tags: 
   - screen-recording
   - ai video

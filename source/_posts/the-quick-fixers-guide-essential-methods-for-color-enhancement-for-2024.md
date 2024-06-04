@@ -1,7 +1,7 @@
 ---
 title: "\"The Quick Fixer's Guide  Essential Methods for Color Enhancement for 2024\""
-date: 2024-05-29 22:52:21
-updated: 2024-06-01 11:33:12
+date: 2024-06-03T04:03:45.406Z
+updated: 2024-06-04T04:03:45.406Z
 tags: 
   - screen-recording
   - ai video

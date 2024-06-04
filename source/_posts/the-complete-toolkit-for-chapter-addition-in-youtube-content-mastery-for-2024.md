@@ -1,7 +1,7 @@
 ---
 title: "The Complete Toolkit for Chapter Addition in YouTube Content Mastery for 2024"
-date: 2024-05-30 11:29:59
-updated: 2024-06-01 12:27:25
+date: 2024-06-03T04:12:05.047Z
+updated: 2024-06-04T04:12:05.047Z
 tags: 
   - screen-recording
   - ai video

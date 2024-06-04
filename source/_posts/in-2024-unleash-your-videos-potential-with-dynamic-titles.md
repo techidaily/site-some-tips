@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Your Video's Potential with Dynamic Titles"
-date: 2024-06-01 13:21:49
-updated: 2024-06-03 11:16:58
+date: 2024-06-03T04:51:13.597Z
+updated: 2024-06-04T04:51:13.597Z
 tags: 
   - screen-recording
   - ai video

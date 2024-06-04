@@ -1,7 +1,7 @@
 ---
 title: "[New] Unleash the Magic of Videos on Windows Mobile"
-date: 2024-05-30 22:16:30
-updated: 2024-06-02 11:31:29
+date: 2024-06-03T04:23:11.182Z
+updated: 2024-06-04T04:23:11.182Z
 tags: 
   - screen-recording
   - ai video

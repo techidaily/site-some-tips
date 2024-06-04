@@ -1,7 +1,7 @@
 ---
 title: "[New] The Pathway to Delicate Audible Reduction Within Lumafusion"
-date: 2024-05-29 20:33:13
-updated: 2024-06-01 10:45:38
+date: 2024-06-03T04:20:01.752Z
+updated: 2024-06-04T04:20:01.752Z
 tags: 
   - screen-recording
   - ai video

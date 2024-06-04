@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Foundations of Virtual Storytelling\""
-date: 2024-06-02 11:32:44
-updated: 2024-06-03 12:57:23
+date: 2024-06-03T04:22:31.688Z
+updated: 2024-06-04T04:22:31.688Z
 tags: 
   - screen-recording
   - ai video

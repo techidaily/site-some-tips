@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Timing Duration for a 20Mb High-Definition Video\""
-date: 2024-05-31 17:26:42
-updated: 2024-06-02 11:31:45
+date: 2024-06-03T03:53:38.283Z
+updated: 2024-06-04T03:53:38.283Z
 tags: 
   - screen-recording
   - ai video

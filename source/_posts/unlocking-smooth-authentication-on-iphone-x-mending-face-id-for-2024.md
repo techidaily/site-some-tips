@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Smooth Authentication on iPhone X  Mending Face ID for 2024\""
-date: 2024-06-01 19:11:51
-updated: 2024-06-03 10:52:27
+date: 2024-06-03T04:32:24.233Z
+updated: 2024-06-04T04:32:24.233Z
 tags: 
   - screen-recording
   - ai video

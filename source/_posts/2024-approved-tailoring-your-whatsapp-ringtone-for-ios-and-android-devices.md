@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tailoring Your WhatsApp Ringtone for iOS and Android Devices\""
-date: 2024-05-30 16:42:59
-updated: 2024-05-31 12:39:12
+date: 2024-06-03T04:48:25.788Z
+updated: 2024-06-04T04:48:25.788Z
 tags: 
   - screen-recording
   - ai video

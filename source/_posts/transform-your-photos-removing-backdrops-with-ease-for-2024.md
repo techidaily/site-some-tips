@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Your Photos  Removing Backdrops with Ease for 2024\""
-date: 2024-05-31 16:18:21
-updated: 2024-06-02 12:26:51
+date: 2024-06-03T04:22:14.699Z
+updated: 2024-06-04T04:22:14.699Z
 tags: 
   - screen-recording
   - ai video

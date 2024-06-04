@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Impact and Innovations in VegasPro  A 2019 Review\""
-date: 2024-05-30 15:19:12
-updated: 2024-06-01 10:13:55
+date: 2024-06-03T04:21:20.545Z
+updated: 2024-06-04T04:21:20.545Z
 tags: 
   - screen-recording
   - ai video

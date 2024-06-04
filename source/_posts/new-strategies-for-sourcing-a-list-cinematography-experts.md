@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Strategies for Sourcing A-List Cinematography Experts\""
-date: 2024-05-28 10:47:41
-updated: 2024-05-31 10:15:31
+date: 2024-06-03T04:22:00.589Z
+updated: 2024-06-04T04:22:00.589Z
 tags: 
   - screen-recording
   - ai video

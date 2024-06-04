@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Collection of Dynamic Text for AE Projects"
-date: 2024-05-31 22:48:25
-updated: 2024-06-02 12:21:28
+date: 2024-06-03T03:59:50.376Z
+updated: 2024-06-04T03:59:50.376Z
 tags: 
   - screen-recording
   - ai video

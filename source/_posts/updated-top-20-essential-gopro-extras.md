@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 20 Essential Gopro Extras"
-date: 2024-05-31 15:25:42
-updated: 2024-06-02 12:18:16
+date: 2024-06-03T04:13:53.036Z
+updated: 2024-06-04T04:13:53.036Z
 tags: 
   - screen-recording
   - ai video

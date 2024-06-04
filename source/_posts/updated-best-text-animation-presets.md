@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Text Animation Presets"
-date: 2024-05-29 17:14:35
-updated: 2024-06-01 12:44:41
+date: 2024-06-03T04:26:00.511Z
+updated: 2024-06-04T04:26:00.511Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Crafting Irresistible Titles"
-date: 2024-05-30 22:40:33
-updated: 2024-06-01 11:14:57
+date: 2024-06-03T03:43:37.887Z
+updated: 2024-06-04T03:43:37.887Z
 tags: 
   - screen-recording
   - ai video

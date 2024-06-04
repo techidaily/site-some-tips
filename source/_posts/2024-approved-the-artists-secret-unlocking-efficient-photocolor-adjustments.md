@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artist's Secret  Unlocking Efficient PhotoColor Adjustments\""
-date: 2024-05-31 23:18:28
-updated: 2024-06-01 10:36:51
+date: 2024-06-03T04:06:33.042Z
+updated: 2024-06-04T04:06:33.042Z
 tags: 
   - screen-recording
   - ai video

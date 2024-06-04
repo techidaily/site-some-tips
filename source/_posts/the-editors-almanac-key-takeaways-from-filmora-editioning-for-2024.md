@@ -1,7 +1,7 @@
 ---
 title: "\"The Editor’s Almanac  Key Takeaways From Filmora Editioning for 2024\""
-date: 2024-05-31 22:27:47
-updated: 2024-06-01 10:22:44
+date: 2024-06-03T03:57:15.989Z
+updated: 2024-06-04T03:57:15.989Z
 tags: 
   - screen-recording
   - ai video

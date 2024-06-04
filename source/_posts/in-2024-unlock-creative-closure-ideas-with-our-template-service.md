@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock Creative Closure Ideas with Our Template Service"
-date: 2024-06-02 10:42:23
-updated: 2024-06-03 12:27:11
+date: 2024-06-03T04:09:17.898Z
+updated: 2024-06-04T04:09:17.898Z
 tags: 
   - screen-recording
   - ai video

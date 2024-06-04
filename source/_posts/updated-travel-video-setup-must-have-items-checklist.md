@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Travel Video Setup  Must-Have Items Checklist\""
-date: 2024-05-30 12:16:50
-updated: 2024-06-02 12:32:22
+date: 2024-06-03T04:29:18.569Z
+updated: 2024-06-04T04:29:18.569Z
 tags: 
   - screen-recording
   - ai video

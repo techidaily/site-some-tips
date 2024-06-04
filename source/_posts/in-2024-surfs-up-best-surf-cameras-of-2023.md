@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Surf's Up  Best Surf Cameras of 2023\""
-date: 2024-05-28 16:13:11
-updated: 2024-05-31 10:48:58
+date: 2024-06-03T03:54:24.191Z
+updated: 2024-06-04T03:54:24.191Z
 tags: 
   - screen-recording
   - ai video

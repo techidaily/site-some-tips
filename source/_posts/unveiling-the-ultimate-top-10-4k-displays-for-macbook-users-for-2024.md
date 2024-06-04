@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Top 10 4K Displays for MacBook Users for 2024"
-date: 2024-05-31 11:54:17
-updated: 2024-06-03 12:20:35
+date: 2024-06-03T04:23:54.642Z
+updated: 2024-06-04T04:23:54.642Z
 tags: 
   - screen-recording
   - ai video

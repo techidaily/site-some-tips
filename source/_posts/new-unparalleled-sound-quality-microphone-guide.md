@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unparalleled Sound Quality  Microphone Guide\""
-date: 2024-05-31 21:58:36
-updated: 2024-06-03 10:59:14
+date: 2024-06-03T03:43:28.020Z
+updated: 2024-06-04T03:43:28.020Z
 tags: 
   - screen-recording
   - ai video

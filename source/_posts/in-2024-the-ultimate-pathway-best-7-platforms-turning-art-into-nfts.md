@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Pathway  Best 7 Platforms Turning Art Into NFTs\""
-date: 2024-05-30 18:33:13
-updated: 2024-06-01 12:51:30
+date: 2024-06-03T04:27:56.459Z
+updated: 2024-06-04T04:27:56.459Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tailoring Your Multi-Task Experience  Safe Area & PIP Settings\""
-date: 2024-05-29 14:41:55
-updated: 2024-05-31 12:10:14
+date: 2024-06-03T04:50:12.787Z
+updated: 2024-06-04T04:50:12.787Z
 tags: 
   - screen-recording
   - ai video

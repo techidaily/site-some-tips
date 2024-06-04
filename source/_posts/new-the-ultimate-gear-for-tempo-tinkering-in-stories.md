@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Gear for Tempo Tinkering in Stories"
-date: 2024-05-29 22:33:38
-updated: 2024-06-01 12:48:27
+date: 2024-06-03T04:07:50.757Z
+updated: 2024-06-04T04:07:50.757Z
 tags: 
   - screen-recording
   - ai video

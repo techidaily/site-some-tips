@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Diverse Windows Movie Maker Versions\""
-date: 2024-05-31 19:26:42
-updated: 2024-06-03 11:24:24
+date: 2024-06-03T04:34:10.352Z
+updated: 2024-06-04T04:34:10.352Z
 tags: 
   - screen-recording
   - ai video

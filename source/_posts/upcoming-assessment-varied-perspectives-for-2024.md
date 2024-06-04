@@ -1,7 +1,7 @@
 ---
 title: "\"Upcoming Assessment  Varied Perspectives for 2024\""
-date: 2024-06-01 20:20:11
-updated: 2024-06-03 10:20:17
+date: 2024-06-03T03:46:11.906Z
+updated: 2024-06-04T03:46:11.906Z
 tags: 
   - screen-recording
   - ai video

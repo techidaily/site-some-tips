@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Video Editor  Comparing InShot's Features\""
-date: 2024-05-30 17:52:59
-updated: 2024-06-02 12:22:15
+date: 2024-06-03T03:56:01.486Z
+updated: 2024-06-04T03:56:01.486Z
 tags: 
   - screen-recording
   - ai video

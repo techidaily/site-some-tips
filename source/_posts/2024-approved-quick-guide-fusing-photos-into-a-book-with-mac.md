@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Guide  Fusing Photos Into a Book with Mac\""
-date: 2024-05-27 18:34:32
-updated: 2024-05-30 11:40:30
+date: 2024-06-03T04:23:29.386Z
+updated: 2024-06-04T04:23:29.386Z
 tags: 
   - screen-recording
   - ai video

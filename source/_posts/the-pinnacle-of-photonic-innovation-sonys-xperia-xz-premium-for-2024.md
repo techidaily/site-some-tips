@@ -1,7 +1,7 @@
 ---
 title: "\"The Pinnacle of Photonic Innovation  Sony's Xperia XZ Premium for 2024\""
-date: 2024-05-30 14:41:17
-updated: 2024-06-01 12:29:25
+date: 2024-06-03T03:52:27.688Z
+updated: 2024-06-04T03:52:27.688Z
 tags: 
   - screen-recording
   - ai video

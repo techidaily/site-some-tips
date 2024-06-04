@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Syncing Symphony to Screenplay on Windows 11"
-date: 2024-05-30 20:13:35
-updated: 2024-05-31 12:38:40
+date: 2024-06-03T04:20:10.264Z
+updated: 2024-06-04T04:20:10.264Z
 tags: 
   - screen-recording
   - ai video

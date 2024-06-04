@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 7 Action Cams to Capture Ski Trips"
-date: 2024-06-01 13:14:13
-updated: 2024-06-02 12:51:32
+date: 2024-06-03T04:03:19.717Z
+updated: 2024-06-04T04:03:19.717Z
 tags: 
   - screen-recording
   - ai video

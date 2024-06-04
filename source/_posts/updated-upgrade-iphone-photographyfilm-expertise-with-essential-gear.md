@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Upgrade iPhone Photography/Film Expertise With Essential Gear"
-date: 2024-06-01 20:39:42
-updated: 2024-06-03 11:28:38
+date: 2024-06-03T04:29:20.721Z
+updated: 2024-06-04T04:29:20.721Z
 tags: 
   - screen-recording
   - ai video

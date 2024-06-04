@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Triggering Windows 11 HDR in Dynamic Mode\""
-date: 2024-05-31 21:20:18
-updated: 2024-06-02 11:43:16
+date: 2024-06-03T04:27:48.983Z
+updated: 2024-06-04T04:27:48.983Z
 tags: 
   - screen-recording
   - ai video

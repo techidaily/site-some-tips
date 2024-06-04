@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Metaverse Games You Can Play with Friends for 2024"
-date: 2024-05-31 15:56:31
-updated: 2024-06-02 10:18:59
+date: 2024-06-03T04:49:48.700Z
+updated: 2024-06-04T04:49:48.700Z
 tags: 
   - screen-recording
   - ai video

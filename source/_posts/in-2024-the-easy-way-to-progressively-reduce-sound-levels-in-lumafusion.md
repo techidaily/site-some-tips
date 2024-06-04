@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Easy Way to Progressively Reduce Sound Levels in Lumafusion"
-date: 2024-05-29 17:49:58
-updated: 2024-06-01 12:33:11
+date: 2024-06-03T04:13:33.506Z
+updated: 2024-06-04T04:13:33.506Z
 tags: 
   - screen-recording
   - ai video

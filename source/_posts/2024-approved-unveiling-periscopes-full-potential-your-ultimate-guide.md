@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Periscope's Full Potential  Your Ultimate Guide\""
-date: 2024-05-31 15:14:40
-updated: 2024-06-03 11:59:55
+date: 2024-06-03T04:00:17.501Z
+updated: 2024-06-04T04:00:17.501Z
 tags: 
   - screen-recording
   - ai video

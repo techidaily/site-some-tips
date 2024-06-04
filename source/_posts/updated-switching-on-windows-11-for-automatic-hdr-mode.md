@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Switching On Windows 11 for Automatic HDR Mode"
-date: 2024-05-29 20:37:55
-updated: 2024-05-31 12:43:20
+date: 2024-06-03T04:50:57.766Z
+updated: 2024-06-04T04:50:57.766Z
 tags: 
   - screen-recording
   - ai video

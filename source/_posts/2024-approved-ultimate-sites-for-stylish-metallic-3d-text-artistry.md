@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Sites for Stylish, Metallic 3D Text Artistry\""
-date: 2024-05-30 18:58:56
-updated: 2024-06-02 12:28:39
+date: 2024-06-03T03:49:02.690Z
+updated: 2024-06-04T03:49:02.690Z
 tags: 
   - screen-recording
   - ai video

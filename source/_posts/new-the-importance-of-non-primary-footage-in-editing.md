@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Importance of Non-Primary Footage in Editing\""
-date: 2024-05-30 16:50:52
-updated: 2024-06-01 10:44:35
+date: 2024-06-03T04:37:24.962Z
+updated: 2024-06-04T04:37:24.962Z
 tags: 
   - screen-recording
   - ai video

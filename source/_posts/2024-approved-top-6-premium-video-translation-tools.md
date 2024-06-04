@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 6 Premium Video Translation Tools\""
-date: 2024-05-31 11:29:56
-updated: 2024-06-02 11:31:25
+date: 2024-06-03T03:58:38.100Z
+updated: 2024-06-04T03:58:38.100Z
 tags: 
   - screen-recording
   - ai video

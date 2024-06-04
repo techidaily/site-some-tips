@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Video Hue Correction (11 Steps) for 2024"
-date: 2024-05-31 12:27:42
-updated: 2024-06-01 12:44:55
+date: 2024-06-03T04:13:47.019Z
+updated: 2024-06-04T04:13:47.019Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Capturing Attention  Top 6 Videos to Watch for 2024\""
-date: 2024-05-30 10:42:15
-updated: 2024-06-01 11:56:24
+date: 2024-06-03T04:45:32.206Z
+updated: 2024-06-04T04:45:32.206Z
 tags: 
   - screen-recording
   - ai video

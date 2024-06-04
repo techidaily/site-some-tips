@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essentials of Using Azure's Voice Recognition\""
-date: 2024-05-30 16:45:14
-updated: 2024-06-01 11:17:50
+date: 2024-06-03T04:26:11.850Z
+updated: 2024-06-04T04:26:11.850Z
 tags: 
   - screen-recording
   - ai video

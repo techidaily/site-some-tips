@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Content  Instagram Reel Best Practices\""
-date: 2024-05-27 17:46:39
-updated: 2024-05-29 10:51:11
+date: 2024-06-03T03:47:33.851Z
+updated: 2024-06-04T03:47:33.851Z
 tags: 
   - screen-recording
   - ai video

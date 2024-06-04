@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Creative Collage Making\""
-date: 2024-05-30 11:14:19
-updated: 2024-06-01 12:21:48
+date: 2024-06-03T04:05:00.383Z
+updated: 2024-06-04T04:05:00.383Z
 tags: 
   - screen-recording
   - ai video

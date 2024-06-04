@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unpackaging Text Magic  The Best After Effects Plugin Guide\""
-date: 2024-06-01 17:20:30
-updated: 2024-06-03 12:42:21
+date: 2024-06-03T04:28:54.119Z
+updated: 2024-06-04T04:28:54.119Z
 tags: 
   - screen-recording
   - ai video

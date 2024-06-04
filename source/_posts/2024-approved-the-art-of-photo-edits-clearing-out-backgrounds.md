@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Photo Edits  Clearing Out Backgrounds\""
-date: 2024-05-30 22:27:35
-updated: 2024-06-01 11:42:47
+date: 2024-06-03T04:30:57.742Z
+updated: 2024-06-04T04:30:57.742Z
 tags: 
   - screen-recording
   - ai video

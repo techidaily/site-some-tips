@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Mac-Mixer Synchronization\""
-date: 2024-05-31 11:21:30
-updated: 2024-06-01 12:54:56
+date: 2024-06-03T04:25:19.003Z
+updated: 2024-06-04T04:25:19.003Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Automatic Transcription in Google Docs"
-date: 2024-05-31 23:42:22
-updated: 2024-06-03 11:58:35
+date: 2024-06-03T04:47:02.054Z
+updated: 2024-06-04T04:47:02.054Z
 tags: 
   - screen-recording
   - ai video

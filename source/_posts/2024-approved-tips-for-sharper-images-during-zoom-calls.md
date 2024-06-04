@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Sharper Images During Zoom Calls\""
-date: 2024-05-31 15:38:18
-updated: 2024-06-02 10:35:26
+date: 2024-06-03T04:15:36.299Z
+updated: 2024-06-04T04:15:36.299Z
 tags: 
   - screen-recording
   - ai video

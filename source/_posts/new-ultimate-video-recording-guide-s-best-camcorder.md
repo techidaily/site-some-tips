@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Video Recording Guide 'S Best Camcorder"
-date: 2024-05-31 15:51:50
-updated: 2024-06-02 10:17:56
+date: 2024-06-03T04:34:50.411Z
+updated: 2024-06-04T04:34:50.411Z
 tags: 
   - screen-recording
   - ai video

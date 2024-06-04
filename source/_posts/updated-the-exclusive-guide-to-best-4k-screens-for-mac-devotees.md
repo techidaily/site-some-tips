@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Exclusive Guide to Best 4K Screens for Mac Devotees"
-date: 2024-05-31 21:38:24
-updated: 2024-06-01 10:11:32
+date: 2024-06-03T03:46:13.325Z
+updated: 2024-06-04T03:46:13.325Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro for 2024"
-date: 2024-05-31 11:15:54
-updated: 2024-06-03 10:18:17
+date: 2024-06-03T03:48:20.497Z
+updated: 2024-06-04T03:48:20.497Z
 tags: 
   - screen-recording
   - ai video

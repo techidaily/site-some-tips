@@ -1,7 +1,7 @@
 ---
 title: "\"Subtlety in Sound  Decreasing Decibels in Logic Pro Projects for 2024\""
-date: 2024-05-30 10:38:10
-updated: 2024-05-31 11:31:48
+date: 2024-06-03T04:07:23.287Z
+updated: 2024-06-04T04:07:23.287Z
 tags: 
   - screen-recording
   - ai video

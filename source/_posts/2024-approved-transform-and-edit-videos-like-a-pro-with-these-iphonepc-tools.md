@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform and Edit Videos Like a Pro With These iPhone/PC Tools\""
-date: 2024-06-01 23:20:53
-updated: 2024-06-02 12:31:20
+date: 2024-06-03T04:28:51.282Z
+updated: 2024-06-04T04:28:51.282Z
 tags: 
   - screen-recording
   - ai video

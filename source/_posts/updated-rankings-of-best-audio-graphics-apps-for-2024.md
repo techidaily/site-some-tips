@@ -1,7 +1,7 @@
 ---
 title: "Updated Rankings of Best Audio Graphics Apps for 2024"
-date: 2024-05-31 15:13:37
-updated: 2024-06-03 12:16:54
+date: 2024-06-03T03:55:13.195Z
+updated: 2024-06-04T03:55:13.195Z
 tags: 
   - screen-recording
   - ai video

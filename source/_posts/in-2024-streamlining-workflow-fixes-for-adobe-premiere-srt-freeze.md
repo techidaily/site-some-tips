@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Workflow  Fixes for Adobe Premiere SRT Freeze\""
-date: 2024-05-30 16:46:39
-updated: 2024-05-31 11:20:43
+date: 2024-06-03T04:37:53.628Z
+updated: 2024-06-04T04:37:53.628Z
 tags: 
   - screen-recording
   - ai video

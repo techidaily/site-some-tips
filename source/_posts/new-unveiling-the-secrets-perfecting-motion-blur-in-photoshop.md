@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling the Secrets  Perfecting Motion Blur in Photoshop\""
-date: 2024-06-01 20:30:54
-updated: 2024-06-03 11:51:18
+date: 2024-06-03T04:34:52.534Z
+updated: 2024-06-04T04:34:52.534Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 8 4K Playback Powerhouses Unveiled"
-date: 2024-06-01 15:45:15
-updated: 2024-06-02 12:56:33
+date: 2024-06-03T04:03:07.593Z
+updated: 2024-06-04T04:03:07.593Z
 tags: 
   - screen-recording
   - ai video

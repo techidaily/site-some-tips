@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Techniques for Stunning Android Time-Lapse Captures\""
-date: 2024-05-31 18:28:25
-updated: 2024-06-02 12:39:40
+date: 2024-06-03T04:51:04.779Z
+updated: 2024-06-04T04:51:04.779Z
 tags: 
   - screen-recording
   - ai video

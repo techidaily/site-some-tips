@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the Magic of Photo Cleanse  Picsart Bg Removal\""
-date: 2024-05-31 14:17:18
-updated: 2024-06-03 11:21:23
+date: 2024-06-03T04:42:42.275Z
+updated: 2024-06-04T04:42:42.275Z
 tags: 
   - screen-recording
   - ai video

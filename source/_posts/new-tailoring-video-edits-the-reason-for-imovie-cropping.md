@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tailoring Video Edits  The Reason for iMovie Cropping\""
-date: 2024-05-29 22:20:22
-updated: 2024-05-31 10:34:44
+date: 2024-06-03T04:22:03.398Z
+updated: 2024-06-04T04:22:03.398Z
 tags: 
   - screen-recording
   - ai video

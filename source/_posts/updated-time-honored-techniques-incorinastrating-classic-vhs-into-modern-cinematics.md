@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Time-Honored Techniques  Incorinastrating Classic VHS Into Modern Cinematics\""
-date: 2024-06-01 20:49:33
-updated: 2024-06-02 12:43:48
+date: 2024-06-03T04:31:51.900Z
+updated: 2024-06-04T04:31:51.900Z
 tags: 
   - screen-recording
   - ai video

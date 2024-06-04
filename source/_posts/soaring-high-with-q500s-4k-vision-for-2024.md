@@ -1,7 +1,7 @@
 ---
 title: "Soaring High with Q500's 4K Vision for 2024"
-date: 2024-05-30 13:32:13
-updated: 2024-05-31 10:16:19
+date: 2024-06-03T04:42:19.264Z
+updated: 2024-06-04T04:42:19.264Z
 tags: 
   - screen-recording
   - ai video

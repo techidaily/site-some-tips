@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Media Edits  StoryRemix & Windows 11 Photos Integration\""
-date: 2024-05-30 11:56:52
-updated: 2024-05-31 12:39:57
+date: 2024-06-03T04:49:00.767Z
+updated: 2024-06-04T04:49:00.767Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Top 6 iOS Slide Show Tools for Latest iPhones for 2024"
-date: 2024-06-01 20:29:30
-updated: 2024-06-02 12:42:42
+date: 2024-06-03T04:36:28.976Z
+updated: 2024-06-04T04:36:28.976Z
 tags: 
   - screen-recording
   - ai video

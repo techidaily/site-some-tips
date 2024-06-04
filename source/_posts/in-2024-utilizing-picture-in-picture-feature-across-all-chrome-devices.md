@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Utilizing Picture In Picture Feature Across All Chrome Devices"
-date: 2024-06-01 10:50:50
-updated: 2024-06-03 12:59:37
+date: 2024-06-03T03:48:38.157Z
+updated: 2024-06-04T03:48:38.157Z
 tags: 
   - screen-recording
   - ai video

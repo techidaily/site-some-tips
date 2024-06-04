@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Premier Pro Essentials - Accessible for All Editors\""
-date: 2024-05-29 11:51:41
-updated: 2024-06-01 10:14:28
+date: 2024-06-03T04:00:19.629Z
+updated: 2024-06-04T04:00:19.629Z
 tags: 
   - screen-recording
   - ai video

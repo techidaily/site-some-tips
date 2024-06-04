@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to Mac-Friendly Podcast Platforms (Updated)\""
-date: 2024-05-29 16:27:38
-updated: 2024-06-01 10:24:17
+date: 2024-06-03T04:13:19.958Z
+updated: 2024-06-04T04:13:19.958Z
 tags: 
   - screen-recording
   - ai video

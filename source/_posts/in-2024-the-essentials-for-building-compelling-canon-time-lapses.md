@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essentials for Building Compelling Canon Time-Lapses\""
-date: 2024-05-30 17:58:26
-updated: 2024-06-01 10:21:19
+date: 2024-06-03T03:54:26.308Z
+updated: 2024-06-04T03:54:26.308Z
 tags: 
   - screen-recording
   - ai video

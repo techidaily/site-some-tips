@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Game Changer - Samsung UE590 4K Monitor\""
-date: 2024-06-01 20:39:21
-updated: 2024-06-03 12:13:28
+date: 2024-06-03T04:28:47.758Z
+updated: 2024-06-04T04:28:47.758Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Novice's Guide to Photo Perfection in Snapseed"
-date: 2024-05-29 19:58:30
-updated: 2024-06-01 12:32:11
+date: 2024-06-03T04:42:28.491Z
+updated: 2024-06-04T04:42:28.491Z
 tags: 
   - screen-recording
   - ai video

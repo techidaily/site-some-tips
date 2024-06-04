@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Prime List  Top-Rated Camcorders Reviewed\""
-date: 2024-05-31 13:52:24
-updated: 2024-06-01 12:38:52
+date: 2024-06-03T04:48:40.292Z
+updated: 2024-06-04T04:48:40.292Z
 tags: 
   - screen-recording
   - ai video

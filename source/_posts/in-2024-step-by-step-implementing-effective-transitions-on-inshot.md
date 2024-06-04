@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Implementing Effective Transitions on Inshot\""
-date: 2024-05-29 22:16:26
-updated: 2024-05-31 11:15:15
+date: 2024-06-03T04:41:35.738Z
+updated: 2024-06-04T04:41:35.738Z
 tags: 
   - screen-recording
   - ai video

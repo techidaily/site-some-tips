@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Creative Expression  Master Device-Based Filters and Effects\""
-date: 2024-05-31 23:30:37
-updated: 2024-06-03 12:55:53
+date: 2024-06-03T04:30:27.632Z
+updated: 2024-06-04T04:30:27.632Z
 tags: 
   - screen-recording
   - ai video

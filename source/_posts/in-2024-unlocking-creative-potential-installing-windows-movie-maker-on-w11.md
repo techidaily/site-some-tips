@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Creative Potential  Installing Windows Movie Maker on W11\""
-date: 2024-05-31 11:28:11
-updated: 2024-06-03 12:51:23
+date: 2024-06-03T03:51:13.463Z
+updated: 2024-06-04T03:51:13.463Z
 tags: 
   - screen-recording
   - ai video

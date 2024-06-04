@@ -1,7 +1,7 @@
 ---
 title: "Subtle Volume Lessening Masterclass Using Lumafusion for 2024"
-date: 2024-05-30 17:30:33
-updated: 2024-05-31 12:45:42
+date: 2024-06-03T04:03:11.845Z
+updated: 2024-06-04T04:03:11.845Z
 tags: 
   - screen-recording
   - ai video

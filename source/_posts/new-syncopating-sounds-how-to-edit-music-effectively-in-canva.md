@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Syncopating Sounds  How to Edit Music Effectively in Canva\""
-date: 2024-05-29 13:55:48
-updated: 2024-05-31 12:42:55
+date: 2024-06-03T04:28:34.323Z
+updated: 2024-06-04T04:28:34.323Z
 tags: 
   - screen-recording
   - ai video

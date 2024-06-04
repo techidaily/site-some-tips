@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ratio Adjustment for Digital Displays"
-date: 2024-05-28 22:25:43
-updated: 2024-05-30 10:54:13
+date: 2024-06-03T03:57:33.887Z
+updated: 2024-06-04T03:57:33.887Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate List  10 Superior Podcast Mic Choices\""
-date: 2024-05-31 22:17:31
-updated: 2024-06-01 11:53:45
+date: 2024-06-03T04:29:29.261Z
+updated: 2024-06-04T04:29:29.261Z
 tags: 
   - screen-recording
   - ai video

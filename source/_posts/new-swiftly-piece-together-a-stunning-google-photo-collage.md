@@ -1,7 +1,7 @@
 ---
 title: "[New] Swiftly Piece Together a Stunning Google Photo Collage"
-date: 2024-05-28 13:20:56
-updated: 2024-05-31 11:13:55
+date: 2024-06-03T04:47:30.911Z
+updated: 2024-06-04T04:47:30.911Z
 tags: 
   - screen-recording
   - ai video

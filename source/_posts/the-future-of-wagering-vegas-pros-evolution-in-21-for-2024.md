@@ -1,7 +1,7 @@
 ---
 title: "\"The Future of Wagering  Vegas Pro's Evolution in '21 for 2024\""
-date: 2024-05-29 17:38:27
-updated: 2024-06-01 10:21:27
+date: 2024-06-03T04:18:33.476Z
+updated: 2024-06-04T04:18:33.476Z
 tags: 
   - screen-recording
   - ai video

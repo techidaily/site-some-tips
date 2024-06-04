@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Editor's Guide to Top 10 FCP Plug-Ins for 2024\""
-date: 2024-05-30 11:19:54
-updated: 2024-06-01 10:34:49
+date: 2024-06-03T04:32:53.078Z
+updated: 2024-06-04T04:32:53.078Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Editor's Roadmap to Perfection in FCP for 2024"
-date: 2024-05-29 15:56:12
-updated: 2024-06-01 10:59:51
+date: 2024-06-03T03:55:41.142Z
+updated: 2024-06-04T03:55:41.142Z
 tags: 
   - screen-recording
   - ai video

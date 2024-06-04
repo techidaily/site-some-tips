@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Insert Sound Clips to Enhance Visual Presentations"
-date: 2024-05-24 10:45:28
-updated: 2024-05-27 10:47:17
+date: 2024-06-03T04:25:41.732Z
+updated: 2024-06-04T04:25:41.732Z
 tags: 
   - screen-recording
   - ai video

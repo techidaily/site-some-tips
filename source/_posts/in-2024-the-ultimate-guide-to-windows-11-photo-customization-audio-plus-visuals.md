@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide to Windows 11 Photo Customization  Audio + Visuals\""
-date: 2024-05-30 14:10:19
-updated: 2024-06-01 12:36:27
+date: 2024-06-03T04:29:28.551Z
+updated: 2024-06-04T04:29:28.551Z
 tags: 
   - screen-recording
   - ai video

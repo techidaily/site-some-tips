@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Editing Hacks for Flawless Image Edits on Canva\""
-date: 2024-05-31 17:28:55
-updated: 2024-06-02 12:19:45
+date: 2024-06-03T04:17:12.873Z
+updated: 2024-06-04T04:17:12.873Z
 tags: 
   - screen-recording
   - ai video

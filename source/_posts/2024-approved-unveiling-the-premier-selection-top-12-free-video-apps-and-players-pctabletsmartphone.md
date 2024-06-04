@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Premier Selection  Top 12 Free Video Apps & Players (PC/Tablet/Smartphone)\""
-date: 2024-06-02 10:26:50
-updated: 2024-06-03 12:33:24
+date: 2024-06-03T03:56:29.813Z
+updated: 2024-06-04T03:56:29.813Z
 tags: 
   - screen-recording
   - ai video

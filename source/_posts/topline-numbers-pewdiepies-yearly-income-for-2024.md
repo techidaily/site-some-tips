@@ -1,7 +1,7 @@
 ---
 title: "\"Topline Numbers  PewDiePie's Yearly Income for 2024\""
-date: 2024-06-01 15:50:32
-updated: 2024-06-02 10:11:38
+date: 2024-06-03T03:55:10.307Z
+updated: 2024-06-04T03:55:10.307Z
 tags: 
   - screen-recording
   - ai video

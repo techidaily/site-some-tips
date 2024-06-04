@@ -1,7 +1,7 @@
 ---
 title: "[New] Premier No. 8 Digital Composer's Kit"
-date: 2024-05-27 23:13:25
-updated: 2024-05-29 12:12:51
+date: 2024-06-03T04:30:36.477Z
+updated: 2024-06-04T04:30:36.477Z
 tags: 
   - screen-recording
   - ai video

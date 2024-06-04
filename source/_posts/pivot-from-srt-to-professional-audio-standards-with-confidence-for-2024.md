@@ -1,7 +1,7 @@
 ---
 title: "Pivot From SRT to Professional Audio Standards with Confidence for 2024"
-date: 2024-05-26 12:55:13
-updated: 2024-05-29 12:54:38
+date: 2024-06-03T03:56:45.569Z
+updated: 2024-06-04T03:56:45.569Z
 tags: 
   - screen-recording
   - ai video

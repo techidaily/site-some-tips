@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Softening Volume in Logic Pro Mixing for 2024"
-date: 2024-05-30 22:17:25
-updated: 2024-05-31 10:37:11
+date: 2024-06-03T04:12:40.445Z
+updated: 2024-06-04T04:12:40.445Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining AVI Conversions  Create GIFs with Filmora on PC/Mac\""
-date: 2024-05-30 18:18:14
-updated: 2024-05-31 10:31:43
+date: 2024-06-03T04:08:17.250Z
+updated: 2024-06-04T04:08:17.250Z
 tags: 
   - screen-recording
   - ai video

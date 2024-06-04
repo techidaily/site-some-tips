@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tech Review Showdown  Comparing GoPro's Hero5 and Garmin VIRB (2E)\""
-date: 2024-05-28 20:42:48
-updated: 2024-05-31 12:34:10
+date: 2024-06-03T04:09:07.522Z
+updated: 2024-06-04T04:09:07.522Z
 tags: 
   - screen-recording
   - ai video

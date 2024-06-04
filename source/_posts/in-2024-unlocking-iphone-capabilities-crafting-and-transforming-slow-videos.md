@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking iPhone Capabilities  Crafting & Transforming Slow Videos\""
-date: 2024-06-02 15:54:18
-updated: 2024-06-03 11:36:20
+date: 2024-06-03T04:16:19.366Z
+updated: 2024-06-04T04:16:19.366Z
 tags: 
   - screen-recording
   - ai video

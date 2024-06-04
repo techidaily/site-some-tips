@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Quickest Way to Entertain - Kapwing Memes\""
-date: 2024-05-31 17:16:10
-updated: 2024-06-01 10:19:37
+date: 2024-06-03T04:46:58.516Z
+updated: 2024-06-04T04:46:58.516Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] SDR Evolution Into HDRI  The Ultimate Video Enhancer's Handbook\""
-date: 2024-05-29 15:53:57
-updated: 2024-05-30 11:59:12
+date: 2024-06-03T04:23:05.491Z
+updated: 2024-06-04T04:23:05.491Z
 tags: 
   - screen-recording
   - ai video

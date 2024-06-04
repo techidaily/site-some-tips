@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ\""
-date: 2024-05-30 22:26:36
-updated: 2024-06-01 10:14:16
+date: 2024-06-03T04:06:02.607Z
+updated: 2024-06-04T04:06:02.607Z
 tags: 
   - screen-recording
   - ai video

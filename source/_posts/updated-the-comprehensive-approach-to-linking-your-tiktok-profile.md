@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Comprehensive Approach to Linking Your TikTok Profile"
-date: 2024-05-30 15:19:50
-updated: 2024-06-01 11:51:55
+date: 2024-06-03T04:51:26.185Z
+updated: 2024-06-04T04:51:26.185Z
 tags: 
   - screen-recording
   - ai video

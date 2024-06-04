@@ -1,7 +1,7 @@
 ---
 title: "\"Studio Masterclass  In-Depth XVideoStudio Report for 2024\""
-date: 2024-05-29 21:14:16
-updated: 2024-05-31 12:26:10
+date: 2024-06-03T04:45:55.279Z
+updated: 2024-06-04T04:45:55.279Z
 tags: 
   - screen-recording
   - ai video

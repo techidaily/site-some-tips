@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Tricks to Control Music Paceplay in Spotify"
-date: 2024-05-30 14:26:23
-updated: 2024-06-02 11:23:37
+date: 2024-06-03T04:48:10.881Z
+updated: 2024-06-04T04:48:10.881Z
 tags: 
   - screen-recording
   - ai video

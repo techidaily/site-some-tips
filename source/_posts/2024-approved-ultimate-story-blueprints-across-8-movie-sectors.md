@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Story Blueprints Across 8 Movie Sectors\""
-date: 2024-06-01 15:31:21
-updated: 2024-06-02 12:52:36
+date: 2024-06-03T03:56:29.103Z
+updated: 2024-06-04T03:56:29.103Z
 tags: 
   - screen-recording
   - ai video

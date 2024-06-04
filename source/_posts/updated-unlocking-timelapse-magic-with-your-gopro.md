@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Timelapse Magic with Your GoPro"
-date: 2024-06-02 14:29:49
-updated: 2024-06-03 12:31:24
+date: 2024-06-03T04:45:10.572Z
+updated: 2024-06-04T04:45:10.572Z
 tags: 
   - screen-recording
   - ai video

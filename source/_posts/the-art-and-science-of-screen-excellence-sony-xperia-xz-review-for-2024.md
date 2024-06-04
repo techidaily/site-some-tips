@@ -1,7 +1,7 @@
 ---
 title: "\"The Art and Science of Screen Excellence - Sony Xperia XZ Review for 2024\""
-date: 2024-05-29 17:24:12
-updated: 2024-06-01 10:22:50
+date: 2024-06-03T03:50:17.077Z
+updated: 2024-06-04T03:50:17.077Z
 tags: 
   - screen-recording
   - ai video

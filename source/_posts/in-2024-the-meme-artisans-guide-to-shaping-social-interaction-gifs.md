@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Meme Artisan's Guide to Shaping Social Interaction (GIFs)"
-date: 2024-05-29 19:20:56
-updated: 2024-06-01 12:30:32
+date: 2024-06-03T04:22:33.553Z
+updated: 2024-06-04T04:22:33.553Z
 tags: 
   - screen-recording
   - ai video

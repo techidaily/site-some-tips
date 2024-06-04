@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transcoding TTML & SSA Into Easy-to-Use SRT Format\""
-date: 2024-05-30 23:35:46
-updated: 2024-06-02 11:36:58
+date: 2024-06-03T03:49:49.349Z
+updated: 2024-06-04T03:49:49.349Z
 tags: 
   - screen-recording
   - ai video

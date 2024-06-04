@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Elite Screen Hunt  #10 Monitors for Your Mac\""
-date: 2024-05-31 16:33:43
-updated: 2024-06-01 11:51:53
+date: 2024-06-03T03:54:44.112Z
+updated: 2024-06-04T03:54:44.112Z
 tags: 
   - screen-recording
   - ai video

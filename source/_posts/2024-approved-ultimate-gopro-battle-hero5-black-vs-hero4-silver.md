@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate GoPro Battle  Hero5 Black vs Hero4 Silver\""
-date: 2024-05-30 23:43:44
-updated: 2024-06-02 10:15:18
+date: 2024-06-03T04:18:16.764Z
+updated: 2024-06-04T04:18:16.764Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Accompanying Visual Content with Music\""
-date: 2024-05-29 17:57:38
-updated: 2024-06-01 11:15:44
+date: 2024-06-03T04:06:30.890Z
+updated: 2024-06-04T04:06:30.890Z
 tags: 
   - screen-recording
   - ai video

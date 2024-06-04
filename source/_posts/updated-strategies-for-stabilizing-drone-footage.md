@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Stabilizing Drone Footage"
-date: 2024-05-30 20:27:39
-updated: 2024-05-31 11:38:37
+date: 2024-06-03T04:04:17.244Z
+updated: 2024-06-04T04:04:17.244Z
 tags: 
   - screen-recording
   - ai video

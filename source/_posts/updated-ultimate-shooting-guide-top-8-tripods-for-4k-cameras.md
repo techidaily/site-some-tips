@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Shooting Guide  Top 8 Tripods for 4K Cameras\""
-date: 2024-05-31 20:43:56
-updated: 2024-06-02 11:13:21
+date: 2024-06-03T04:41:59.450Z
+updated: 2024-06-04T04:41:59.450Z
 tags: 
   - screen-recording
   - ai video

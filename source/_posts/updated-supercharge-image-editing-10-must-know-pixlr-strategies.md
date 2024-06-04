@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Supercharge Image Editing  10 Must-Know Pixlr Strategies\""
-date: 2024-05-30 20:32:38
-updated: 2024-05-31 10:43:39
+date: 2024-06-03T03:46:43.227Z
+updated: 2024-06-04T03:46:43.227Z
 tags: 
   - screen-recording
   - ai video

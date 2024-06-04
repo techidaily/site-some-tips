@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] InShot’s Ecosystem  A Detailed Editor App Study\""
-date: 2024-05-26 11:20:34
-updated: 2024-05-27 10:42:14
+date: 2024-06-03T04:46:04.473Z
+updated: 2024-06-04T04:46:04.473Z
 tags: 
   - screen-recording
   - ai video

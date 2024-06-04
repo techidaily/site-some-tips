@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Pictorial Twists and Turns"
-date: 2024-05-30 18:39:39
-updated: 2024-06-01 11:19:21
+date: 2024-06-03T03:43:35.055Z
+updated: 2024-06-04T03:43:35.055Z
 tags: 
   - screen-recording
   - ai video

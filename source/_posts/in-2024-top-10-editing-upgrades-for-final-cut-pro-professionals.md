@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Editing Upgrades for Final Cut Pro Professionals"
-date: 2024-05-31 12:50:24
-updated: 2024-06-02 12:42:47
+date: 2024-06-03T04:12:27.145Z
+updated: 2024-06-04T04:12:27.145Z
 tags: 
   - screen-recording
   - ai video

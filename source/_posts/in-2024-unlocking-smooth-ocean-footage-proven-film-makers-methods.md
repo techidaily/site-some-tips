@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Smooth Ocean Footage  Proven Film-Maker's Methods\""
-date: 2024-05-31 15:18:59
-updated: 2024-06-03 10:50:18
+date: 2024-06-03T03:45:59.898Z
+updated: 2024-06-04T03:45:59.898Z
 tags: 
   - screen-recording
   - ai video

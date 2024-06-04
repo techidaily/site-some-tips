@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Cameras for Puppetry Cinematography\""
-date: 2024-05-30 21:43:21
-updated: 2024-06-02 11:13:19
+date: 2024-06-03T04:27:15.639Z
+updated: 2024-06-04T04:27:15.639Z
 tags: 
   - screen-recording
   - ai video

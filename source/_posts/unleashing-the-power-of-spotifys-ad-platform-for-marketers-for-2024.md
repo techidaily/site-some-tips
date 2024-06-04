@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of Spotify's Ad Platform for Marketers for 2024"
-date: 2024-06-02 14:53:20
-updated: 2024-06-03 11:46:16
+date: 2024-06-03T04:21:08.766Z
+updated: 2024-06-04T04:21:08.766Z
 tags: 
   - screen-recording
   - ai video

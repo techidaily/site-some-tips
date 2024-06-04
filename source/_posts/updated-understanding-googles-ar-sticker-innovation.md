@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding Google's AR Sticker Innovation"
-date: 2024-05-30 23:47:55
-updated: 2024-06-02 11:10:57
+date: 2024-06-03T04:36:08.432Z
+updated: 2024-06-04T04:36:08.432Z
 tags: 
   - screen-recording
   - ai video

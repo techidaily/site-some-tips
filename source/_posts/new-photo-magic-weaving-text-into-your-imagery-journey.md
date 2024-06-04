@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photo Magic  Weaving Text Into Your Imagery Journey\""
-date: 2024-05-26 14:49:41
-updated: 2024-05-29 10:19:48
+date: 2024-06-03T04:27:59.997Z
+updated: 2024-06-04T04:27:59.997Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Swift Shadowing in 1 Minute for 2024"
-date: 2024-05-30 20:50:58
-updated: 2024-05-31 10:55:24
+date: 2024-06-03T03:59:59.677Z
+updated: 2024-06-04T03:59:59.677Z
 tags: 
   - screen-recording
   - ai video

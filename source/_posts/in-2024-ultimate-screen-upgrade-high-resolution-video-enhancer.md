@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Screen Upgrade  High-Resolution Video Enhancer\""
-date: 2024-05-30 17:12:43
-updated: 2024-06-02 12:44:53
+date: 2024-06-03T04:03:38.278Z
+updated: 2024-06-04T04:03:38.278Z
 tags: 
   - screen-recording
   - ai video

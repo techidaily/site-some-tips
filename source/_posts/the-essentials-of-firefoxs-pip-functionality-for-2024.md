@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of Firefox's PIP Functionality for 2024"
-date: 2024-05-29 11:54:12
-updated: 2024-06-01 11:57:31
+date: 2024-06-03T04:30:42.836Z
+updated: 2024-06-04T04:30:42.836Z
 tags: 
   - screen-recording
   - ai video

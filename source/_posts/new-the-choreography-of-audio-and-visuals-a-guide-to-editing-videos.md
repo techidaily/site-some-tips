@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Choreography of Audio and Visuals  A Guide to Editing Videos\""
-date: 2024-05-30 22:27:20
-updated: 2024-06-01 11:47:11
+date: 2024-06-03T04:10:28.807Z
+updated: 2024-06-04T04:10:28.807Z
 tags: 
   - screen-recording
   - ai video

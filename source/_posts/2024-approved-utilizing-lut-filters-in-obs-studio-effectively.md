@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing LUT Filters in OBS Studio Effectively\""
-date: 2024-06-02 11:45:17
-updated: 2024-06-03 10:15:52
+date: 2024-06-03T04:09:12.178Z
+updated: 2024-06-04T04:09:12.178Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate 10 Plugin Power Duo for Final Cut Pro"
-date: 2024-05-31 16:16:48
-updated: 2024-06-01 10:11:14
+date: 2024-06-03T04:08:47.572Z
+updated: 2024-06-04T04:08:47.572Z
 tags: 
   - screen-recording
   - ai video

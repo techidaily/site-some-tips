@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 8 High-Definition 5K Display Options for You\""
-date: 2024-06-01 14:17:51
-updated: 2024-06-02 11:36:35
+date: 2024-06-03T04:20:34.075Z
+updated: 2024-06-04T04:20:34.075Z
 tags: 
   - screen-recording
   - ai video

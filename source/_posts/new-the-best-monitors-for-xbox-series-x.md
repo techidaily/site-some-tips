@@ -1,7 +1,7 @@
 ---
 title: "[New] The Best Monitors for Xbox Series X"
-date: 2024-05-29 12:18:54
-updated: 2024-06-01 10:52:43
+date: 2024-06-03T03:43:59.570Z
+updated: 2024-06-04T03:43:59.570Z
 tags: 
   - screen-recording
   - ai video

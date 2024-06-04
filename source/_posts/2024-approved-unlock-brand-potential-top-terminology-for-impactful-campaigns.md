@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Brand Potential  Top Terminology for Impactful Campaigns\""
-date: 2024-05-31 19:29:24
-updated: 2024-06-03 11:46:25
+date: 2024-06-03T03:58:06.243Z
+updated: 2024-06-04T03:58:06.243Z
 tags: 
   - screen-recording
   - ai video

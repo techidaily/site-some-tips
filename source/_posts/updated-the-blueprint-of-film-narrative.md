@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Blueprint of Film Narrative"
-date: 2024-05-29 16:18:11
-updated: 2024-06-01 12:55:16
+date: 2024-06-03T04:49:19.350Z
+updated: 2024-06-04T04:49:19.350Z
 tags: 
   - screen-recording
   - ai video

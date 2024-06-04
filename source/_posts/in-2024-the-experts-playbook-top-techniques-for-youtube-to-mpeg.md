@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Expert's Playbook  Top Techniques for YouTube-to-MPEG\""
-date: 2024-05-29 17:51:37
-updated: 2024-06-01 11:44:44
+date: 2024-06-03T04:32:41.704Z
+updated: 2024-06-04T04:32:41.704Z
 tags: 
   - screen-recording
   - ai video

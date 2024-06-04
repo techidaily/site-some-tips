@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide for GoPro Professionals"
-date: 2024-05-30 17:18:54
-updated: 2024-06-01 10:41:54
+date: 2024-06-03T04:37:55.754Z
+updated: 2024-06-04T04:37:55.754Z
 tags: 
   - screen-recording
   - ai video

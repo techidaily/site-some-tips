@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  Incorporating Audio Into PPTs\""
-date: 2024-05-29 17:22:39
-updated: 2024-05-31 10:49:41
+date: 2024-06-03T04:34:58.193Z
+updated: 2024-06-04T04:34:58.193Z
 tags: 
   - screen-recording
   - ai video

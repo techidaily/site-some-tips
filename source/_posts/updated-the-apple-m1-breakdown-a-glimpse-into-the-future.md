@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Apple M1 Breakdown  A Glimpse Into the Future\""
-date: 2024-05-29 22:13:45
-updated: 2024-06-01 12:37:35
+date: 2024-06-03T04:35:31.828Z
+updated: 2024-06-04T04:35:31.828Z
 tags: 
   - screen-recording
   - ai video

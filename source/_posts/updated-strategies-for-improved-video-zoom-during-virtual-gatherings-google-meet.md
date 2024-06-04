@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)"
-date: 2024-05-30 15:14:49
-updated: 2024-05-31 12:56:20
+date: 2024-06-03T04:08:59.671Z
+updated: 2024-06-04T04:08:59.671Z
 tags: 
   - screen-recording
   - ai video

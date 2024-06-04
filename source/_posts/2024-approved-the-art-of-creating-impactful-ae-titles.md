@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Creating Impactful AE Titles\""
-date: 2024-05-30 14:14:40
-updated: 2024-06-01 11:11:31
+date: 2024-06-03T04:23:30.802Z
+updated: 2024-06-04T04:23:30.802Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Premier 4K Laptop Choices for Gamers"
-date: 2024-05-27 22:34:54
-updated: 2024-05-29 12:32:59
+date: 2024-06-03T04:44:12.840Z
+updated: 2024-06-04T04:44:12.840Z
 tags: 
   - screen-recording
   - ai video

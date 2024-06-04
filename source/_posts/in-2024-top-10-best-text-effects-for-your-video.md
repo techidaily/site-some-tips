@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Best Text Effects for Your Video"
-date: 2024-05-29 10:54:35
-updated: 2024-06-01 10:43:12
+date: 2024-06-03T04:34:14.608Z
+updated: 2024-06-04T04:34:14.608Z
 tags: 
   - screen-recording
   - ai video

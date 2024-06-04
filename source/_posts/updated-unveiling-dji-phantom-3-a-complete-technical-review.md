@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling DJI Phantom 3  A Complete Technical Review\""
-date: 2024-05-31 13:29:17
-updated: 2024-06-03 12:32:53
+date: 2024-06-03T03:56:55.605Z
+updated: 2024-06-04T03:56:55.605Z
 tags: 
   - screen-recording
   - ai video

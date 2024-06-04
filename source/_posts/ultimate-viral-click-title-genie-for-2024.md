@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Viral Click Title Genie for 2024"
-date: 2024-05-30 14:55:35
-updated: 2024-06-02 12:45:51
+date: 2024-06-03T04:12:10.008Z
+updated: 2024-06-04T04:12:10.008Z
 tags: 
   - screen-recording
   - ai video

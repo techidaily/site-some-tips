@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Understanding Optimal Frames Per Second in Cinema Slow-Mo\""
-date: 2024-06-01 23:29:41
-updated: 2024-06-02 12:19:22
+date: 2024-06-03T04:14:25.767Z
+updated: 2024-06-04T04:14:25.767Z
 tags: 
   - screen-recording
   - ai video

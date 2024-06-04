@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Zoom Audio Experience for 2024"
-date: 2024-05-30 20:36:29
-updated: 2024-05-31 10:54:46
+date: 2024-06-03T03:52:56.361Z
+updated: 2024-06-04T03:52:56.361Z
 tags: 
   - screen-recording
   - ai video

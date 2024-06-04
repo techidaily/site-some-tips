@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Dynamic Image Backdrops Viewer for 2024"
-date: 2024-05-31 12:38:39
-updated: 2024-06-02 10:15:30
+date: 2024-06-03T04:03:47.291Z
+updated: 2024-06-04T04:03:47.291Z
 tags: 
   - screen-recording
   - ai video

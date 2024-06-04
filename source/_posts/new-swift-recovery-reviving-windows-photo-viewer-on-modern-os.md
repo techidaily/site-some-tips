@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Swift Recovery  Reviving Windows Photo Viewer on Modern OS\""
-date: 2024-05-28 13:34:48
-updated: 2024-05-31 11:59:54
+date: 2024-06-03T03:51:50.266Z
+updated: 2024-06-04T03:51:50.266Z
 tags: 
   - screen-recording
   - ai video

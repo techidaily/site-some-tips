@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transitioning Visuals  From Android to Apple Gear\""
-date: 2024-05-31 14:24:50
-updated: 2024-06-02 12:13:21
+date: 2024-06-03T04:29:58.546Z
+updated: 2024-06-04T04:29:58.546Z
 tags: 
   - screen-recording
   - ai video

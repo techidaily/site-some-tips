@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Screenplay Treasures for Each Movie Division"
-date: 2024-06-01 18:28:14
-updated: 2024-06-02 12:34:46
+date: 2024-06-03T04:21:49.677Z
+updated: 2024-06-04T04:21:49.677Z
 tags: 
   - screen-recording
   - ai video

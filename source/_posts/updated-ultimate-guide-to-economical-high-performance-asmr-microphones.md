@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones\""
-date: 2024-06-01 12:32:33
-updated: 2024-06-02 11:43:19
+date: 2024-06-03T04:18:06.793Z
+updated: 2024-06-04T04:18:06.793Z
 tags: 
   - screen-recording
   - ai video

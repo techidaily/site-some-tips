@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Role of Non-Verbal Communication in Interviewing\""
-date: 2024-05-31 15:52:45
-updated: 2024-06-01 12:10:53
+date: 2024-06-03T03:44:48.774Z
+updated: 2024-06-04T03:44:48.774Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Writing Persuasive Vlog Show Narratives"
-date: 2024-05-29 19:30:52
-updated: 2024-05-31 11:28:36
+date: 2024-06-03T04:05:54.110Z
+updated: 2024-06-04T04:05:54.110Z
 tags: 
   - screen-recording
   - ai video

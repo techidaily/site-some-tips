@@ -1,7 +1,7 @@
 ---
 title: "The Essential Manual to Acquiring Final Cut Pro Gratis for 2024"
-date: 2024-05-29 20:59:58
-updated: 2024-06-01 11:28:48
+date: 2024-06-03T04:05:49.133Z
+updated: 2024-06-04T04:05:49.133Z
 tags: 
   - screen-recording
   - ai video

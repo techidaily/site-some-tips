@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining Your Subtitles  Top 10 Web-Based Editors Reviewed\""
-date: 2024-05-30 11:11:11
-updated: 2024-05-31 10:20:58
+date: 2024-06-03T04:13:05.412Z
+updated: 2024-06-04T04:13:05.412Z
 tags: 
   - screen-recording
   - ai video

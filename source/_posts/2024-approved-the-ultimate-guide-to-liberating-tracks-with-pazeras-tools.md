@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Liberating Tracks with Pazera's Tools\""
-date: 2024-05-31 19:32:37
-updated: 2024-06-01 10:36:43
+date: 2024-06-03T04:10:47.671Z
+updated: 2024-06-04T04:10:47.671Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Creativity with These 14 Exceptional Text Animations for 2024"
-date: 2024-05-30 15:46:46
-updated: 2024-06-02 11:56:50
+date: 2024-06-03T03:50:58.884Z
+updated: 2024-06-04T03:50:58.884Z
 tags: 
   - screen-recording
   - ai video

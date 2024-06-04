@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Images Into Captivating GIFs"
-date: 2024-05-31 18:55:23
-updated: 2024-06-02 11:48:25
+date: 2024-06-03T04:38:31.145Z
+updated: 2024-06-04T04:38:31.145Z
 tags: 
   - screen-recording
   - ai video

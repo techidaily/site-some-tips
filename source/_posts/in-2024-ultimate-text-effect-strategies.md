@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Text Effect Strategies"
-date: 2024-05-30 19:39:15
-updated: 2024-06-02 12:46:54
+date: 2024-06-03T04:50:07.909Z
+updated: 2024-06-04T04:50:07.909Z
 tags: 
   - screen-recording
   - ai video

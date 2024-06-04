@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transformative Video Creation  Harness the Trio of Windows, Photos, and StoryRemix\""
-date: 2024-05-30 15:19:22
-updated: 2024-06-02 12:26:53
+date: 2024-06-03T04:48:59.359Z
+updated: 2024-06-04T04:48:59.359Z
 tags: 
   - screen-recording
   - ai video

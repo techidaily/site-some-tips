@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tweaking Sound on PS5/PS4 Games"
-date: 2024-05-31 14:24:44
-updated: 2024-06-02 12:19:24
+date: 2024-06-03T04:17:04.672Z
+updated: 2024-06-04T04:17:04.672Z
 tags: 
   - screen-recording
   - ai video

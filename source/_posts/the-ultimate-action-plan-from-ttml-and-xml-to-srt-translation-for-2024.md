@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Action Plan  From TTML & XML to SRT Translation for 2024\""
-date: 2024-05-30 21:50:23
-updated: 2024-06-01 12:33:23
+date: 2024-06-03T04:29:12.590Z
+updated: 2024-06-04T04:29:12.590Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text"
-date: 2024-05-31 16:36:17
-updated: 2024-06-01 10:16:26
+date: 2024-06-03T04:06:11.204Z
+updated: 2024-06-04T04:06:11.204Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transformative Guide  GIFs Becoming Stickers on Discord, WhatsApp & Telegram\""
-date: 2024-05-31 17:34:28
-updated: 2024-06-02 10:18:27
+date: 2024-06-03T04:43:34.240Z
+updated: 2024-06-04T04:43:34.240Z
 tags: 
   - screen-recording
   - ai video

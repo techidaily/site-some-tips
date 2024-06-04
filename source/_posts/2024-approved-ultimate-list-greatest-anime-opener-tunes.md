@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate List  Greatest Anime Opener Tunes\""
-date: 2024-06-01 14:44:23
-updated: 2024-06-02 10:14:15
+date: 2024-06-03T04:19:14.512Z
+updated: 2024-06-04T04:19:14.512Z
 tags: 
   - screen-recording
   - ai video

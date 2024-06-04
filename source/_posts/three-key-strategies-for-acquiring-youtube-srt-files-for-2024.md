@@ -1,7 +1,7 @@
 ---
 title: "Three Key Strategies for Acquiring YouTube SRT Files for 2024"
-date: 2024-05-31 11:59:19
-updated: 2024-06-01 12:15:54
+date: 2024-06-03T04:10:33.455Z
+updated: 2024-06-04T04:10:33.455Z
 tags: 
   - screen-recording
   - ai video

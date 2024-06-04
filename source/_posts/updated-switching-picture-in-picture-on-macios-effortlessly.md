@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Switching Picture-in-Picture on Mac/iOS Effortlessly\""
-date: 2024-05-30 22:31:13
-updated: 2024-05-31 10:20:19
+date: 2024-06-03T04:44:04.318Z
+updated: 2024-06-04T04:44:04.318Z
 tags: 
   - screen-recording
   - ai video

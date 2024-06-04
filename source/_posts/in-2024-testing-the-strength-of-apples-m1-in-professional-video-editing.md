@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Testing the Strength of Apple's M1 in Professional Video Editing"
-date: 2024-05-31 15:15:14
-updated: 2024-06-01 10:15:46
+date: 2024-06-03T04:08:44.021Z
+updated: 2024-06-04T04:08:44.021Z
 tags: 
   - screen-recording
   - ai video

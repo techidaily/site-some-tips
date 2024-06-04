@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Photoshop Techniques for Dynamic, Realistic Text"
-date: 2024-05-26 13:57:50
-updated: 2024-05-29 12:35:42
+date: 2024-06-03T04:31:33.511Z
+updated: 2024-06-04T04:31:33.511Z
 tags: 
   - screen-recording
   - ai video

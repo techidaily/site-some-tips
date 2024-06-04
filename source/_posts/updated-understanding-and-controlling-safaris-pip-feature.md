@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding and Controlling Safari's PIP Feature"
-date: 2024-06-01 22:34:17
-updated: 2024-06-02 12:25:47
+date: 2024-06-03T04:42:32.380Z
+updated: 2024-06-04T04:42:32.380Z
 tags: 
   - screen-recording
   - ai video

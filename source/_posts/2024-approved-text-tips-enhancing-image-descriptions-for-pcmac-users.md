@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Text Tips  Enhancing Image Descriptions for PC/Mac Users\""
-date: 2024-05-29 14:56:48
-updated: 2024-06-01 12:39:49
+date: 2024-06-03T04:36:11.970Z
+updated: 2024-06-04T04:36:11.970Z
 tags: 
   - screen-recording
   - ai video

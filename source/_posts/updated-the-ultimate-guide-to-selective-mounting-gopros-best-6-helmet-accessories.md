@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to Selective Mounting  GoPro's Best 6 Helmet Accessories\""
-date: 2024-05-29 12:10:16
-updated: 2024-06-01 10:37:55
+date: 2024-06-03T04:26:38.479Z
+updated: 2024-06-04T04:26:38.479Z
 tags: 
   - screen-recording
   - ai video

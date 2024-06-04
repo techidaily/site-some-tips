@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tailoring Recording Techniques in Audacity for Professionals\""
-date: 2024-05-29 14:11:49
-updated: 2024-05-31 10:54:46
+date: 2024-06-03T03:59:41.452Z
+updated: 2024-06-04T03:59:41.452Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Artist's Chromatic Companion"
-date: 2024-05-29 19:48:26
-updated: 2024-06-01 11:40:50
+date: 2024-06-03T03:43:05.742Z
+updated: 2024-06-04T03:43:05.742Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Swift Image Adaptation Techniques for iPhone Users"
-date: 2024-05-28 19:16:26
-updated: 2024-05-31 12:36:39
+date: 2024-06-03T03:47:15.459Z
+updated: 2024-06-04T03:47:15.459Z
 tags: 
   - screen-recording
   - ai video

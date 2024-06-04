@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Supercharge Your Design with These Canva Insider Tips"
-date: 2024-05-28 23:31:18
-updated: 2024-05-31 10:25:24
+date: 2024-06-03T04:36:02.055Z
+updated: 2024-06-04T04:36:02.055Z
 tags: 
   - screen-recording
   - ai video

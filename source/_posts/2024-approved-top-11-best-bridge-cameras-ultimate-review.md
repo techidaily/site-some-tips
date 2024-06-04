@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 11 Best Bridge Cameras [Ultimate Review]\""
-date: 2024-05-31 11:54:44
-updated: 2024-06-02 10:17:29
+date: 2024-06-03T03:49:00.530Z
+updated: 2024-06-04T03:49:00.530Z
 tags: 
   - screen-recording
   - ai video

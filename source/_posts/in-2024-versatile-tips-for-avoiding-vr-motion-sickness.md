@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Versatile Tips for Avoiding VR Motion Sickness"
-date: 2024-05-31 12:39:34
-updated: 2024-06-03 12:37:44
+date: 2024-06-03T04:13:38.507Z
+updated: 2024-06-04T04:13:38.507Z
 tags: 
   - screen-recording
   - ai video

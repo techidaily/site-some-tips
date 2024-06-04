@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Check  DJi FPV Drone Spectacles' Features\""
-date: 2024-05-29 12:55:17
-updated: 2024-06-01 10:27:20
+date: 2024-06-03T03:52:14.494Z
+updated: 2024-06-04T03:52:14.494Z
 tags: 
   - screen-recording
   - ai video

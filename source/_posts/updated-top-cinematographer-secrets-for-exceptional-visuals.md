@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Cinematographer Secrets for Exceptional Visuals"
-date: 2024-05-31 11:28:41
-updated: 2024-06-02 12:50:43
+date: 2024-06-03T03:47:18.986Z
+updated: 2024-06-04T03:47:18.986Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 30 Metaverse Gems  DIY Meme Ideas Unleashed\""
-date: 2024-05-30 19:24:34
-updated: 2024-06-02 11:21:12
+date: 2024-06-03T04:33:42.339Z
+updated: 2024-06-04T04:33:42.339Z
 tags: 
   - screen-recording
   - ai video

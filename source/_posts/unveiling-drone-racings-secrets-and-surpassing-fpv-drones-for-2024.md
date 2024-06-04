@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Drone Racing's Secrets & Surpassing FPV Drones for 2024"
-date: 2024-05-31 17:41:14
-updated: 2024-06-03 11:47:12
+date: 2024-06-03T04:08:27.249Z
+updated: 2024-06-04T04:08:27.249Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Final Word on PowerDirector  A Complete Review\""
-date: 2024-05-31 17:42:13
-updated: 2024-06-01 10:56:59
+date: 2024-06-03T03:50:35.929Z
+updated: 2024-06-04T03:50:35.929Z
 tags: 
   - screen-recording
   - ai video

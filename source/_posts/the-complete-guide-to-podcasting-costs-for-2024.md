@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to Podcasting Costs for 2024"
-date: 2024-05-29 23:49:45
-updated: 2024-06-01 11:45:27
+date: 2024-06-03T04:15:26.987Z
+updated: 2024-06-04T04:15:26.987Z
 tags: 
   - screen-recording
   - ai video

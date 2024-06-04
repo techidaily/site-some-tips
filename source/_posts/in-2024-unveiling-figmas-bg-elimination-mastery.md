@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Figma's BG Elimination Mastery"
-date: 2024-06-02 22:13:23
-updated: 2024-06-03 12:30:41
+date: 2024-06-03T04:12:31.157Z
+updated: 2024-06-04T04:12:31.157Z
 tags: 
   - screen-recording
   - ai video

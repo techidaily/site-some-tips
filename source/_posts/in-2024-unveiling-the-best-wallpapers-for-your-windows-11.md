@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Best Wallpapers for Your Windows 11"
-date: 2024-05-31 13:48:50
-updated: 2024-06-03 11:55:17
+date: 2024-06-03T03:52:52.037Z
+updated: 2024-06-04T03:52:52.037Z
 tags: 
   - screen-recording
   - ai video

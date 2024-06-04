@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Facial Movements  Using Blur Effects in Picsart for 2024\""
-date: 2024-05-30 21:41:34
-updated: 2024-06-01 10:44:57
+date: 2024-06-03T04:41:16.602Z
+updated: 2024-06-04T04:41:16.602Z
 tags: 
   - screen-recording
   - ai video

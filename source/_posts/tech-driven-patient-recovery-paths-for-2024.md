@@ -1,7 +1,7 @@
 ---
 title: "\"Tech-Driven Patient Recovery Paths for 2024\""
-date: 2024-05-28 11:57:26
-updated: 2024-05-31 10:53:20
+date: 2024-06-03T03:58:55.245Z
+updated: 2024-06-04T03:58:55.245Z
 tags: 
   - screen-recording
   - ai video

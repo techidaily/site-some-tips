@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Pro's Choice  A List of 17 Superior Video-to-Text Converters\""
-date: 2024-05-31 20:52:45
-updated: 2024-06-01 10:48:59
+date: 2024-06-03T04:20:02.460Z
+updated: 2024-06-04T04:20:02.460Z
 tags: 
   - screen-recording
   - ai video

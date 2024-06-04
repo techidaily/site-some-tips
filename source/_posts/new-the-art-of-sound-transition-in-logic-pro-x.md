@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Sound Transition in Logic Pro X"
-date: 2024-05-30 22:47:22
-updated: 2024-06-01 10:33:11
+date: 2024-06-03T03:49:45.796Z
+updated: 2024-06-04T03:49:45.796Z
 tags: 
   - screen-recording
   - ai video

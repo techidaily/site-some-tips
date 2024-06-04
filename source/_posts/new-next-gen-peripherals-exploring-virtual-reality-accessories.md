@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Next-Gen Peripherals  Exploring Virtual Reality Accessories\""
-date: 2024-05-28 14:24:12
-updated: 2024-05-29 10:12:44
+date: 2024-06-03T04:33:10.802Z
+updated: 2024-06-04T04:33:10.802Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Synthesize Sounds and Images in PPTS"
-date: 2024-05-28 16:31:16
-updated: 2024-05-31 12:40:17
+date: 2024-06-03T04:19:53.957Z
+updated: 2024-06-04T04:19:53.957Z
 tags: 
   - screen-recording
   - ai video

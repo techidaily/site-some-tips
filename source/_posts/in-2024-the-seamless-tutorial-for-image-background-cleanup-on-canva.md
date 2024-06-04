@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Seamless Tutorial for Image Background Cleanup on Canva"
-date: 2024-05-29 12:15:33
-updated: 2024-06-01 10:20:28
+date: 2024-06-03T04:10:52.621Z
+updated: 2024-06-04T04:10:52.621Z
 tags: 
   - screen-recording
   - ai video

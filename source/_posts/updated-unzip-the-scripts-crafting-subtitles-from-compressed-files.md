@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unzip the Scripts  Crafting Subtitles From Compressed Files\""
-date: 2024-06-01 20:41:59
-updated: 2024-06-03 11:58:20
+date: 2024-06-03T04:31:57.886Z
+updated: 2024-06-04T04:31:57.886Z
 tags: 
   - screen-recording
   - ai video

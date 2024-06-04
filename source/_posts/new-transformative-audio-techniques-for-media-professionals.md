@@ -1,7 +1,7 @@
 ---
 title: "[New] Transformative Audio Techniques for Media Professionals"
-date: 2024-05-30 12:23:16
-updated: 2024-06-02 11:15:41
+date: 2024-06-03T04:42:47.927Z
+updated: 2024-06-04T04:42:47.927Z
 tags: 
   - screen-recording
   - ai video

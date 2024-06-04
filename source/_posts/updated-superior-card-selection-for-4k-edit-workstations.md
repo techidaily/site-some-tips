@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Superior Card Selection for 4K Edit Workstations"
-date: 2024-05-29 23:47:40
-updated: 2024-05-31 11:38:28
+date: 2024-06-03T04:18:05.368Z
+updated: 2024-06-04T04:18:05.368Z
 tags: 
   - screen-recording
   - ai video

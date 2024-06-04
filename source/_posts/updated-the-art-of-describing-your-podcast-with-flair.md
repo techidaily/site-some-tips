@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Describing Your Podcast with Flair"
-date: 2024-05-30 21:36:14
-updated: 2024-06-01 11:40:49
+date: 2024-06-03T04:04:51.085Z
+updated: 2024-06-04T04:04:51.085Z
 tags: 
   - screen-recording
   - ai video

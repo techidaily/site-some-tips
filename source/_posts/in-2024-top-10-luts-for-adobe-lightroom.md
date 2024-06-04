@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 LUTs for Adobe LightRoom"
-date: 2024-05-31 14:31:23
-updated: 2024-06-02 12:46:34
+date: 2024-06-03T03:42:54.937Z
+updated: 2024-06-04T03:42:54.937Z
 tags: 
   - screen-recording
   - ai video

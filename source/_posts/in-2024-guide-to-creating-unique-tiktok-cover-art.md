@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Guide to Creating Unique TikTok Cover Art"
-date: 2024-05-25 21:50:55
-updated: 2024-05-27 12:39:35
+date: 2024-06-03T03:44:20.219Z
+updated: 2024-06-04T03:44:20.219Z
 tags: 
   - screen-recording
   - ai video

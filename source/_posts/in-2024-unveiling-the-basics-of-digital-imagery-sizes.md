@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Basics of Digital Imagery Sizes"
-date: 2024-05-31 22:36:51
-updated: 2024-06-03 10:25:24
+date: 2024-06-03T03:59:51.798Z
+updated: 2024-06-04T03:59:51.798Z
 tags: 
   - screen-recording
   - ai video

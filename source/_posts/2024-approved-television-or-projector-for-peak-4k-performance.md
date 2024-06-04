@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Television or Projector for Peak 4K Performance?\""
-date: 2024-05-28 20:13:16
-updated: 2024-05-31 10:59:10
+date: 2024-06-03T04:47:53.150Z
+updated: 2024-06-04T04:47:53.150Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Synthesize Stellar Titles Using AI Insights"
-date: 2024-05-30 22:51:44
-updated: 2024-05-31 11:15:30
+date: 2024-06-03T04:51:49.210Z
+updated: 2024-06-04T04:51:49.210Z
 tags: 
   - screen-recording
   - ai video

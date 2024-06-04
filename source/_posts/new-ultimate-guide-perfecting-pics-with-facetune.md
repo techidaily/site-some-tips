@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Guide  Perfecting Pics with Facetune\""
-date: 2024-05-30 10:18:37
-updated: 2024-06-02 12:12:25
+date: 2024-06-03T03:50:14.233Z
+updated: 2024-06-04T03:50:14.233Z
 tags: 
   - screen-recording
   - ai video

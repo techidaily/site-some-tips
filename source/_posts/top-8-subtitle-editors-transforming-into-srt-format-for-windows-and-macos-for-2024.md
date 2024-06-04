@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS for 2024"
-date: 2024-06-01 22:24:52
-updated: 2024-06-02 10:57:50
+date: 2024-06-03T03:50:20.975Z
+updated: 2024-06-04T03:50:20.975Z
 tags: 
   - screen-recording
   - ai video

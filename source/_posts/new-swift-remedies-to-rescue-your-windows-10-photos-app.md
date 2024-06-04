@@ -1,7 +1,7 @@
 ---
 title: "[New] Swift Remedies to Rescue Your Windows 10 Photos App"
-date: 2024-05-30 11:13:44
-updated: 2024-05-31 10:22:21
+date: 2024-06-03T04:15:17.758Z
+updated: 2024-06-04T04:15:17.758Z
 tags: 
   - screen-recording
   - ai video

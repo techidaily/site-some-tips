@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Leading 10 FREE Subtitle Editors for SRT Files for 2024"
-date: 2024-05-31 21:12:29
-updated: 2024-06-03 11:32:25
+date: 2024-06-03T04:40:17.017Z
+updated: 2024-06-04T04:40:17.017Z
 tags: 
   - screen-recording
   - ai video

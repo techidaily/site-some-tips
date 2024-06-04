@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 8 Webcam Filters to Elevate Your Streaming"
-date: 2024-06-01 21:48:17
-updated: 2024-06-02 11:49:55
+date: 2024-06-03T04:00:20.342Z
+updated: 2024-06-04T04:00:20.342Z
 tags: 
   - screen-recording
   - ai video

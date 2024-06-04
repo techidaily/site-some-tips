@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Snicker Spinner  Picture Editor\""
-date: 2024-05-28 12:37:22
-updated: 2024-05-31 12:14:27
+date: 2024-06-03T04:41:02.778Z
+updated: 2024-06-04T04:41:02.778Z
 tags: 
   - screen-recording
   - ai video

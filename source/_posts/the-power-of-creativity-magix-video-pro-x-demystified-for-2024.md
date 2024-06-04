@@ -1,7 +1,7 @@
 ---
 title: "\"The Power of Creativity  Magix Video Pro X Demystified for 2024\""
-date: 2024-05-29 22:36:24
-updated: 2024-06-01 10:22:24
+date: 2024-06-03T04:43:59.366Z
+updated: 2024-06-04T04:43:59.366Z
 tags: 
   - screen-recording
   - ai video

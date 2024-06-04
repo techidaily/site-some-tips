@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Live Setting Picks for 2024"
-date: 2024-05-31 10:15:10
-updated: 2024-06-02 10:16:35
+date: 2024-06-03T03:55:11.022Z
+updated: 2024-06-04T03:55:11.022Z
 tags: 
   - screen-recording
   - ai video

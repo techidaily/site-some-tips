@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Next Wave of Social Media  Top Apps as Periscope Alternates\""
-date: 2024-05-29 20:36:38
-updated: 2024-06-01 11:39:21
+date: 2024-06-03T04:43:39.191Z
+updated: 2024-06-04T04:43:39.191Z
 tags: 
   - screen-recording
   - ai video

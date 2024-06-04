@@ -1,7 +1,7 @@
 ---
 title: "\"The HP DreamColor Z32X Review  A Quest for Perfection for 2024\""
-date: 2024-05-31 19:25:23
-updated: 2024-06-01 10:21:44
+date: 2024-06-03T04:34:21.702Z
+updated: 2024-06-04T04:34:21.702Z
 tags: 
   - screen-recording
   - ai video

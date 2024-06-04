@@ -1,7 +1,7 @@
 ---
 title: "\"Moto Cam's Best  Top 5 Hats for Riders for 2024\""
-date: 2024-05-28 19:38:39
-updated: 2024-05-29 11:20:25
+date: 2024-06-03T03:47:04.156Z
+updated: 2024-06-04T03:47:04.156Z
 tags: 
   - screen-recording
   - ai video

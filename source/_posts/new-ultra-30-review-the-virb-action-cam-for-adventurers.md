@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultra 30 Review – The VIRB Action Cam for Adventurers"
-date: 2024-06-01 18:39:42
-updated: 2024-06-02 10:13:18
+date: 2024-06-03T03:44:02.425Z
+updated: 2024-06-04T03:44:02.426Z
 tags: 
   - screen-recording
   - ai video

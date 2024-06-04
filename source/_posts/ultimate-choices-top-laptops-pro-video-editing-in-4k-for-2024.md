@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Choices  Top Laptops Pro Video Editing in 4K for 2024\""
-date: 2024-06-01 21:42:59
-updated: 2024-06-02 12:31:52
+date: 2024-06-03T04:34:23.119Z
+updated: 2024-06-04T04:34:23.119Z
 tags: 
   - screen-recording
   - ai video

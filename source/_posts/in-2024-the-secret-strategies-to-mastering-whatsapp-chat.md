@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Secret Strategies to Mastering WhatsApp Chat"
-date: 2024-05-31 17:24:21
-updated: 2024-06-01 11:49:46
+date: 2024-06-03T04:29:27.149Z
+updated: 2024-06-04T04:29:27.149Z
 tags: 
   - screen-recording
   - ai video

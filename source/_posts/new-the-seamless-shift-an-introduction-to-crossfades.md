@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Seamless Shift  An Introduction to Crossfades\""
-date: 2024-05-30 12:27:48
-updated: 2024-06-01 11:44:47
+date: 2024-06-03T03:58:48.109Z
+updated: 2024-06-04T03:58:48.109Z
 tags: 
   - screen-recording
   - ai video

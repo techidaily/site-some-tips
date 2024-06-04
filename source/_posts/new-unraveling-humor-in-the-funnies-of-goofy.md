@@ -1,7 +1,7 @@
 ---
 title: "[New] Unraveling Humor in 'The Funnies of Goofy'"
-date: 2024-06-01 16:12:42
-updated: 2024-06-03 12:58:41
+date: 2024-06-03T03:56:44.140Z
+updated: 2024-06-04T03:56:44.140Z
 tags: 
   - screen-recording
   - ai video

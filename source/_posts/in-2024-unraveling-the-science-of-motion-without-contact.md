@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Science of Motion Without Contact"
-date: 2024-06-01 22:16:40
-updated: 2024-06-03 10:30:46
+date: 2024-06-03T04:45:49.952Z
+updated: 2024-06-04T04:45:49.952Z
 tags: 
   - screen-recording
   - ai video

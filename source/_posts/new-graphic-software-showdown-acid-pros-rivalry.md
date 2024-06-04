@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Graphic Software Showdown  ACID Pro's Rivalry\""
-date: 2024-05-25 16:54:20
-updated: 2024-05-27 11:27:15
+date: 2024-06-03T04:33:48.007Z
+updated: 2024-06-04T04:33:48.007Z
 tags: 
   - screen-recording
   - ai video

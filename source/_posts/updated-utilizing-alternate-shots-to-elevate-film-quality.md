@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilizing Alternate Shots to Elevate Film Quality"
-date: 2024-06-02 18:42:27
-updated: 2024-06-03 11:53:24
+date: 2024-06-03T04:43:35.651Z
+updated: 2024-06-04T04:43:35.651Z
 tags: 
   - screen-recording
   - ai video

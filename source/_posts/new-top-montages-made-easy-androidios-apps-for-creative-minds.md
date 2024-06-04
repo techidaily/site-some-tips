@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Montages Made Easy  Android/iOS Apps for Creative Minds\""
-date: 2024-05-31 22:30:13
-updated: 2024-06-02 12:46:14
+date: 2024-06-03T04:45:28.645Z
+updated: 2024-06-04T04:45:28.645Z
 tags: 
   - screen-recording
   - ai video

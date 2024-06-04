@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips on How Skip Edgenuity Videos Easily"
-date: 2024-06-01 18:16:19
-updated: 2024-06-02 10:30:47
+date: 2024-06-03T03:58:30.214Z
+updated: 2024-06-04T03:58:30.214Z
 tags: 
   - screen-recording
   - ai video

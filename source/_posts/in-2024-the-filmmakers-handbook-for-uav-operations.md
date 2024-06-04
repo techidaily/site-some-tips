@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Filmmaker's Handbook for UAV Operations"
-date: 2024-05-29 17:42:25
-updated: 2024-06-01 10:29:18
+date: 2024-06-03T04:16:46.869Z
+updated: 2024-06-04T04:16:46.869Z
 tags: 
   - screen-recording
   - ai video

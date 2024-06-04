@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Image Transformation with 3D LUT in Photoshop\""
-date: 2024-05-31 11:23:35
-updated: 2024-06-01 12:38:44
+date: 2024-06-03T03:47:54.732Z
+updated: 2024-06-04T03:47:54.732Z
 tags: 
   - screen-recording
   - ai video

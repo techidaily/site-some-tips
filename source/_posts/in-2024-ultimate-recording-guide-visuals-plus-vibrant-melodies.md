@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Recording Guide  Visuals + Vibrant Melodies\""
-date: 2024-05-31 13:12:39
-updated: 2024-06-02 12:49:20
+date: 2024-06-03T04:13:37.078Z
+updated: 2024-06-04T04:13:37.078Z
 tags: 
   - screen-recording
   - ai video

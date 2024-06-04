@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unravel Multilingual Mysteries with These Top 35 Video Translation Solutions\""
-date: 2024-06-01 20:31:11
-updated: 2024-06-03 12:44:10
+date: 2024-06-03T04:05:03.253Z
+updated: 2024-06-04T04:05:03.253Z
 tags: 
   - screen-recording
   - ai video

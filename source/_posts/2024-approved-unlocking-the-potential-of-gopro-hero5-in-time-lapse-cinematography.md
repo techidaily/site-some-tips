@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Potential of GoPro Hero5 in Time-Lapse Cinematography\""
-date: 2024-06-02 19:24:13
-updated: 2024-06-03 10:23:20
+date: 2024-06-03T04:48:31.061Z
+updated: 2024-06-04T04:48:31.061Z
 tags: 
   - screen-recording
   - ai video

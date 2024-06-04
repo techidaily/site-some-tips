@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Striking 14 Text Animation Illustrations"
-date: 2024-05-28 23:19:56
-updated: 2024-05-31 10:52:54
+date: 2024-06-03T04:49:33.966Z
+updated: 2024-06-04T04:49:33.966Z
 tags: 
   - screen-recording
   - ai video

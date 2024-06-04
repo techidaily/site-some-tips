@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your Mac Interface with Speech Recognition Software Review"
-date: 2024-05-31 17:42:57
-updated: 2024-06-02 11:42:58
+date: 2024-06-03T04:49:38.149Z
+updated: 2024-06-04T04:49:38.149Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Success with Effective Video Praise Techniques"
-date: 2024-05-31 18:57:33
-updated: 2024-06-03 10:33:10
+date: 2024-06-03T03:56:37.698Z
+updated: 2024-06-04T03:56:37.698Z
 tags: 
   - screen-recording
   - ai video

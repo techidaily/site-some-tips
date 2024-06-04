@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Thorough Investigation Into Simple HDR Imaging"
-date: 2024-05-31 14:36:37
-updated: 2024-06-01 10:34:40
+date: 2024-06-03T04:20:11.689Z
+updated: 2024-06-04T04:20:11.689Z
 tags: 
   - screen-recording
   - ai video

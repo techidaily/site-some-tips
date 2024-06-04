@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Final Cut  The Ultimate Guide\""
-date: 2024-05-26 12:35:27
-updated: 2024-05-28 12:58:27
+date: 2024-06-03T03:46:27.763Z
+updated: 2024-06-04T03:46:27.763Z
 tags: 
   - screen-recording
   - ai video

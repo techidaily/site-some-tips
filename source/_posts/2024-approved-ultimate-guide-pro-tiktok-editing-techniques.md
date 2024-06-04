@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Guide  Pro TikTok Editing Techniques\""
-date: 2024-05-31 12:19:13
-updated: 2024-06-02 10:40:15
+date: 2024-06-03T04:15:05.993Z
+updated: 2024-06-04T04:15:05.993Z
 tags: 
   - screen-recording
   - ai video

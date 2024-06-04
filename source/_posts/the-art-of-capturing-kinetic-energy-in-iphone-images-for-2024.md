@@ -1,7 +1,7 @@
 ---
 title: "The Art of Capturing Kinetic Energy in iPhone Images for 2024"
-date: 2024-05-30 14:50:55
-updated: 2024-06-01 12:20:15
+date: 2024-06-03T03:53:33.255Z
+updated: 2024-06-04T03:53:33.255Z
 tags: 
   - screen-recording
   - ai video

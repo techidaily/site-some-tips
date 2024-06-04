@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Efficiency Boost  Editing on Magix Video Pro X\""
-date: 2024-05-29 18:12:29
-updated: 2024-06-01 12:31:37
+date: 2024-06-03T03:53:17.480Z
+updated: 2024-06-04T03:53:17.480Z
 tags: 
   - screen-recording
   - ai video

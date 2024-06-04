@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the XS 100I - Action Camera Revolutionized\""
-date: 2024-06-01 21:14:36
-updated: 2024-06-03 10:59:17
+date: 2024-06-03T04:23:04.784Z
+updated: 2024-06-04T04:23:04.784Z
 tags: 
   - screen-recording
   - ai video

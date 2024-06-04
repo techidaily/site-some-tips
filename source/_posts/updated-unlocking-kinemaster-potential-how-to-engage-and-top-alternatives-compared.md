@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking KineMaster Potential  How To Engage and Top Alternatives Compared\""
-date: 2024-05-31 12:46:47
-updated: 2024-06-03 11:36:11
+date: 2024-06-03T03:53:40.426Z
+updated: 2024-06-04T03:53:40.426Z
 tags: 
   - screen-recording
   - ai video

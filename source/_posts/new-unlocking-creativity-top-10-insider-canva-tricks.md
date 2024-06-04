@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Creativity  Top 10 Insider Canva Tricks\""
-date: 2024-05-31 21:18:17
-updated: 2024-06-03 10:29:13
+date: 2024-06-03T04:50:15.569Z
+updated: 2024-06-04T04:50:15.569Z
 tags: 
   - screen-recording
   - ai video

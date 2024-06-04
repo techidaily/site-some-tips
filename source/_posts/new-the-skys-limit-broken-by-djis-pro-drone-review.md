@@ -1,7 +1,7 @@
 ---
 title: "[New] The Sky's Limit Broken by DJI’s Pro Drone Review"
-date: 2024-05-29 17:18:13
-updated: 2024-06-01 12:18:54
+date: 2024-06-03T04:36:19.065Z
+updated: 2024-06-04T04:36:19.065Z
 tags: 
   - screen-recording
   - ai video

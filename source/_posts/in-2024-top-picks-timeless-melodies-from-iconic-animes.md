@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Picks  Timeless Melodies From Iconic Animes\""
-date: 2024-06-01 19:22:26
-updated: 2024-06-02 11:11:50
+date: 2024-06-03T04:27:57.872Z
+updated: 2024-06-04T04:27:57.872Z
 tags: 
   - screen-recording
   - ai video

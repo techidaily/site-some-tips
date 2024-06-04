@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Resource List of 3D Fonts Online"
-date: 2024-05-30 14:25:46
-updated: 2024-06-02 10:59:47
+date: 2024-06-03T03:48:35.347Z
+updated: 2024-06-04T03:48:35.347Z
 tags: 
   - screen-recording
   - ai video

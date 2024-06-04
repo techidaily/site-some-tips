@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Workings of Drones  An Introduction for Beginners\""
-date: 2024-05-31 10:35:57
-updated: 2024-06-01 12:46:57
+date: 2024-06-03T04:28:59.100Z
+updated: 2024-06-04T04:28:59.100Z
 tags: 
   - screen-recording
   - ai video

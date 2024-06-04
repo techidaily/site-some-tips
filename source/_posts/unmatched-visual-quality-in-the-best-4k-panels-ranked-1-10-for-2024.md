@@ -1,7 +1,7 @@
 ---
 title: "\"Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10 for 2024\""
-date: 2024-06-01 22:33:34
-updated: 2024-06-03 11:44:54
+date: 2024-06-03T04:34:26.657Z
+updated: 2024-06-04T04:34:26.657Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Best Budget Camera Stabilizers for YouTube Stars\""
-date: 2024-05-31 13:23:18
-updated: 2024-06-01 12:22:14
+date: 2024-06-03T04:38:18.397Z
+updated: 2024-06-04T04:38:18.397Z
 tags: 
   - screen-recording
   - ai video

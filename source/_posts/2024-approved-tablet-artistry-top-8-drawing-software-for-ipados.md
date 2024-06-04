@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tablet Artistry  Top 8 Drawing Software for iPadOS\""
-date: 2024-05-29 14:41:17
-updated: 2024-05-31 12:31:34
+date: 2024-06-03T04:16:05.819Z
+updated: 2024-06-04T04:16:05.819Z
 tags: 
   - screen-recording
   - ai video

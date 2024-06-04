@@ -1,7 +1,7 @@
 ---
 title: "\"Utilizing B-Roll in Video Production Effectively for 2024\""
-date: 2024-06-01 16:54:39
-updated: 2024-06-03 10:45:37
+date: 2024-06-03T03:56:56.312Z
+updated: 2024-06-04T03:56:56.312Z
 tags: 
   - screen-recording
   - ai video

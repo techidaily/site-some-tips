@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Budget Cameras for Newbies 2024"
-date: 2024-06-01 14:10:26
-updated: 2024-06-02 11:40:38
+date: 2024-06-03T04:00:56.484Z
+updated: 2024-06-04T04:00:56.484Z
 tags: 
   - screen-recording
   - ai video

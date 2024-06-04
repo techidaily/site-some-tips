@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unparalleled PC Sound Control"
-date: 2024-06-01 21:17:27
-updated: 2024-06-03 10:14:52
+date: 2024-06-03T03:45:15.152Z
+updated: 2024-06-04T03:45:15.152Z
 tags: 
   - screen-recording
   - ai video

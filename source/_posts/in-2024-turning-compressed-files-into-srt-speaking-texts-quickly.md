@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Turning Compressed Files Into .Srt Speaking Texts Quickly"
-date: 2024-06-01 16:46:11
-updated: 2024-06-02 10:32:44
+date: 2024-06-03T04:38:57.017Z
+updated: 2024-06-04T04:38:57.017Z
 tags: 
   - screen-recording
   - ai video

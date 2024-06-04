@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Your Workflow  Top 10 Stealthy Canva Techniques\""
-date: 2024-05-31 23:42:29
-updated: 2024-06-02 11:15:11
+date: 2024-06-03T04:41:08.444Z
+updated: 2024-06-04T04:41:08.444Z
 tags: 
   - screen-recording
   - ai video

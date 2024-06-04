@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide  Clearing Out the Unwanted Space Around Images with Affinity\""
-date: 2024-05-29 10:25:48
-updated: 2024-06-01 10:10:36
+date: 2024-06-03T03:49:57.163Z
+updated: 2024-06-04T03:49:57.163Z
 tags: 
   - screen-recording
   - ai video

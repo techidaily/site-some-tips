@@ -1,7 +1,7 @@
 ---
 title: "The Future of Photography at Your Fingertips with Samsung for 2024"
-date: 2024-05-30 11:29:54
-updated: 2024-06-01 11:47:45
+date: 2024-06-03T03:43:30.830Z
+updated: 2024-06-04T03:43:30.830Z
 tags: 
   - screen-recording
   - ai video

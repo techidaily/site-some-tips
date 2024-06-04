@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Audience Attention  Top 6 Video Styles\""
-date: 2024-06-01 10:15:50
-updated: 2024-06-03 11:45:58
+date: 2024-06-03T04:07:39.705Z
+updated: 2024-06-04T04:07:39.705Z
 tags: 
   - screen-recording
   - ai video

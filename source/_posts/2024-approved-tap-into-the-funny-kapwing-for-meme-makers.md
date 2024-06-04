@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tap Into the Funny  Kapwing for Meme Makers\""
-date: 2024-05-29 23:57:53
-updated: 2024-05-31 12:34:42
+date: 2024-06-03T04:47:19.576Z
+updated: 2024-06-04T04:47:19.576Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Initiating an E-Giving Event on Facebook\""
-date: 2024-05-29 22:22:25
-updated: 2024-06-01 11:58:27
+date: 2024-06-03T04:11:51.559Z
+updated: 2024-06-04T04:11:51.559Z
 tags: 
   - screen-recording
   - ai video

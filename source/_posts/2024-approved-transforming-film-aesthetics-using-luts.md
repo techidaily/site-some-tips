@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Film Aesthetics Using Luts\""
-date: 2024-05-31 17:34:59
-updated: 2024-06-02 10:19:15
+date: 2024-06-03T04:37:48.289Z
+updated: 2024-06-04T04:37:48.289Z
 tags: 
   - screen-recording
   - ai video

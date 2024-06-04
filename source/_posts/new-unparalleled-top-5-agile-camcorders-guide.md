@@ -1,7 +1,7 @@
 ---
 title: "[New] Unparalleled Top 5 Agile Camcorders Guide"
-date: 2024-06-01 23:39:12
-updated: 2024-06-03 10:38:16
+date: 2024-06-03T03:44:05.245Z
+updated: 2024-06-04T03:44:05.245Z
 tags: 
   - screen-recording
   - ai video

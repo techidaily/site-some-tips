@@ -1,7 +1,7 @@
 ---
 title: "[New] UltraView App Functionality Survey"
-date: 2024-06-01 16:41:45
-updated: 2024-06-02 11:30:36
+date: 2024-06-03T04:43:21.500Z
+updated: 2024-06-04T04:43:21.500Z
 tags: 
   - screen-recording
   - ai video

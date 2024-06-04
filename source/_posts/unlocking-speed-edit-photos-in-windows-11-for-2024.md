@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking Speed  Edit Photos in Windows 11 for 2024\""
-date: 2024-06-02 10:31:26
-updated: 2024-06-03 11:57:37
+date: 2024-06-03T03:46:41.826Z
+updated: 2024-06-04T03:46:41.826Z
 tags: 
   - screen-recording
   - ai video

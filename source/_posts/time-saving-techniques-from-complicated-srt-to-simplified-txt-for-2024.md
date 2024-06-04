@@ -1,7 +1,7 @@
 ---
 title: "\"Time-Saving Techniques  From Complicated SRT to Simplified TXT for 2024\""
-date: 2024-05-30 14:34:43
-updated: 2024-06-02 11:32:43
+date: 2024-06-03T03:47:11.222Z
+updated: 2024-06-04T03:47:11.222Z
 tags: 
   - screen-recording
   - ai video

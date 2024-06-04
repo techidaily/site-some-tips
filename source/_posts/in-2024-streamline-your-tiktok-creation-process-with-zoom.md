@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamline Your TikTok Creation Process with Zoom"
-date: 2024-05-30 23:37:19
-updated: 2024-05-31 12:38:37
+date: 2024-06-03T03:43:51.735Z
+updated: 2024-06-04T03:43:51.735Z
 tags: 
   - screen-recording
   - ai video

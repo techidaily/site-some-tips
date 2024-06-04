@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creative Potential with Pixiz for Photo Videos\""
-date: 2024-06-02 20:21:54
-updated: 2024-06-03 10:17:23
+date: 2024-06-03T04:32:04.931Z
+updated: 2024-06-04T04:32:04.931Z
 tags: 
   - screen-recording
   - ai video

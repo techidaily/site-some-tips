@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding and Utilizing Windows 11 Auto HDR Functionality"
-date: 2024-06-01 13:51:18
-updated: 2024-06-02 12:51:24
+date: 2024-06-03T04:31:55.773Z
+updated: 2024-06-04T04:31:55.773Z
 tags: 
   - screen-recording
   - ai video

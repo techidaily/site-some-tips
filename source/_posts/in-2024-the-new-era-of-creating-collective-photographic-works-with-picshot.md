@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The New Era of Creating Collective Photographic Works with Picshot"
-date: 2024-05-30 19:33:53
-updated: 2024-06-01 12:47:38
+date: 2024-06-03T04:34:41.906Z
+updated: 2024-06-04T04:34:41.906Z
 tags: 
   - screen-recording
   - ai video

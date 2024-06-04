@@ -1,7 +1,7 @@
 ---
 title: "Transition Mastery in Cinematic Productions with Kinemaster for 2024"
-date: 2024-06-01 22:36:13
-updated: 2024-06-02 11:38:48
+date: 2024-06-03T03:56:17.974Z
+updated: 2024-06-04T03:56:17.974Z
 tags: 
   - screen-recording
   - ai video

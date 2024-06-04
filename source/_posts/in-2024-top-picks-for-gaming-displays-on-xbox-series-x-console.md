@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Picks for Gaming Displays on Xbox Series X Console"
-date: 2024-06-01 16:27:18
-updated: 2024-06-02 10:21:17
+date: 2024-06-03T04:33:43.047Z
+updated: 2024-06-04T04:33:43.047Z
 tags: 
   - screen-recording
   - ai video

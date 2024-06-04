@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Power of Speed in Video Production\""
-date: 2024-06-02 13:55:32
-updated: 2024-06-03 12:55:25
+date: 2024-06-03T04:37:49.704Z
+updated: 2024-06-04T04:37:49.704Z
 tags: 
   - screen-recording
   - ai video

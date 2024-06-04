@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Quest for Perfection  Topiary Angles in Mobile Photography\""
-date: 2024-05-31 15:55:43
-updated: 2024-06-01 11:31:57
+date: 2024-06-03T03:44:22.740Z
+updated: 2024-06-04T03:44:22.740Z
 tags: 
   - screen-recording
   - ai video

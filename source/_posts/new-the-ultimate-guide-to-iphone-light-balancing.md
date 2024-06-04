@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to iPhone Light Balancing"
-date: 2024-05-31 15:22:55
-updated: 2024-06-01 11:36:13
+date: 2024-06-03T04:00:26.425Z
+updated: 2024-06-04T04:00:26.425Z
 tags: 
   - screen-recording
   - ai video

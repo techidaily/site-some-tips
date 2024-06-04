@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Vectors Unveiled  A Novice’s Path Through Types and Apps\""
-date: 2024-06-02 19:47:30
-updated: 2024-06-03 10:56:40
+date: 2024-06-03T03:55:05.297Z
+updated: 2024-06-04T03:55:05.297Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transforming Images  The Art of Applying LUTs in Pro\""
-date: 2024-06-01 11:16:17
-updated: 2024-06-02 11:17:42
+date: 2024-06-03T04:01:43.095Z
+updated: 2024-06-04T04:01:43.095Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Video Projects  Using Movie Maker on Windows 8\""
-date: 2024-05-28 21:11:42
-updated: 2024-05-31 10:56:25
+date: 2024-06-03T03:55:19.605Z
+updated: 2024-06-04T03:55:19.605Z
 tags: 
   - screen-recording
   - ai video

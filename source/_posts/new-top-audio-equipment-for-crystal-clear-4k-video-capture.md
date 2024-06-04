@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Audio Equipment for Crystal Clear 4K Video Capture"
-date: 2024-05-30 17:15:48
-updated: 2024-06-02 12:19:25
+date: 2024-06-03T04:00:55.769Z
+updated: 2024-06-04T04:00:55.769Z
 tags: 
   - screen-recording
   - ai video

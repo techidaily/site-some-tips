@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Inshot on PCs and Laptops for 2024"
-date: 2024-05-30 20:48:12
-updated: 2024-06-01 12:45:16
+date: 2024-06-03T04:12:07.177Z
+updated: 2024-06-04T04:12:07.177Z
 tags: 
   - screen-recording
   - ai video

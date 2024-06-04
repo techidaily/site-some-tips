@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling Virtual Horizons  A Deep Dive Into 6 Metaverse Cases for 2024\""
-date: 2024-06-02 18:27:25
-updated: 2024-06-03 11:30:13
+date: 2024-06-03T03:51:00.626Z
+updated: 2024-06-04T03:51:00.626Z
 tags: 
   - screen-recording
   - ai video

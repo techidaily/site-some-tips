@@ -1,7 +1,7 @@
 ---
 title: "[New] Sync Audio to PowerPoint Presentations"
-date: 2024-05-29 14:23:19
-updated: 2024-05-31 12:42:16
+date: 2024-06-03T04:24:13.075Z
+updated: 2024-06-04T04:24:13.075Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Budget-Friendly Sites For Stunning FX on Videos\""
-date: 2024-05-30 15:10:44
-updated: 2024-06-02 10:29:53
+date: 2024-06-03T04:26:04.765Z
+updated: 2024-06-04T04:26:04.765Z
 tags: 
   - screen-recording
   - ai video

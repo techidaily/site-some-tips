@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling Filmora  Its 10 Most Attractive Features\""
-date: 2024-06-01 14:41:43
-updated: 2024-06-03 10:47:30
+date: 2024-06-03T04:17:38.573Z
+updated: 2024-06-04T04:17:38.573Z
 tags: 
   - screen-recording
   - ai video

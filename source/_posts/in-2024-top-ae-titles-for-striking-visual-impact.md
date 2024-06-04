@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top AE Titles for Striking Visual Impact"
-date: 2024-05-31 15:56:12
-updated: 2024-06-02 10:21:53
+date: 2024-06-03T03:43:18.153Z
+updated: 2024-06-04T03:43:18.153Z
 tags: 
   - screen-recording
   - ai video

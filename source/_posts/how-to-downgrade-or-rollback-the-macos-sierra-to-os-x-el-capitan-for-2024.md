@@ -1,7 +1,7 @@
 ---
 title: "How To Downgrade Or Rollback The macOs Sierra To Os X El Capitan for 2024"
-date: 2024-05-24 17:19:23
-updated: 2024-05-27 12:53:28
+date: 2024-06-03T04:26:15.408Z
+updated: 2024-06-04T04:26:15.408Z
 tags: 
   - screen-recording
   - ai video

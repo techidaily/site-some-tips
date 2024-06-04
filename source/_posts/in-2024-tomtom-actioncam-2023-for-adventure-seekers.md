@@ -1,7 +1,7 @@
 ---
 title: "In 2024, TomTom ActionCam 2023 for Adventure Seekers"
-date: 2024-05-31 11:23:39
-updated: 2024-06-02 12:15:16
+date: 2024-06-03T04:50:06.518Z
+updated: 2024-06-04T04:50:06.518Z
 tags: 
   - screen-recording
   - ai video

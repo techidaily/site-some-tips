@@ -1,7 +1,7 @@
 ---
 title: "The 15 Best Smartphone Blur Apps Reviewed for 2024"
-date: 2024-05-31 15:28:13
-updated: 2024-06-01 10:51:49
+date: 2024-06-03T04:11:03.260Z
+updated: 2024-06-04T04:11:03.260Z
 tags: 
   - screen-recording
   - ai video

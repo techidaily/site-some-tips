@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Selection of Text Enhancers for Adobe AE"
-date: 2024-05-31 21:30:39
-updated: 2024-06-01 12:39:10
+date: 2024-06-03T04:25:00.887Z
+updated: 2024-06-04T04:25:00.887Z
 tags: 
   - screen-recording
   - ai video

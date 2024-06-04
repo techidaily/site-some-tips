@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Superior Slow Motion Quality Through FPS Selection for 2024"
-date: 2024-05-31 14:36:42
-updated: 2024-06-03 12:38:35
+date: 2024-06-03T04:46:40.155Z
+updated: 2024-06-04T04:46:40.155Z
 tags: 
   - screen-recording
   - ai video

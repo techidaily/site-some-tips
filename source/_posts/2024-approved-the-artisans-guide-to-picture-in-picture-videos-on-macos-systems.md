@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Guide to Picture in Picture Videos on macOS Systems\""
-date: 2024-05-29 20:59:44
-updated: 2024-06-01 12:35:31
+date: 2024-06-03T03:50:35.220Z
+updated: 2024-06-04T03:50:35.220Z
 tags: 
   - screen-recording
   - ai video

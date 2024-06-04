@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Guide to Creating Beautifully Stretched Time Videos Online"
-date: 2024-05-29 20:11:38
-updated: 2024-06-01 12:19:28
+date: 2024-06-03T04:27:39.042Z
+updated: 2024-06-04T04:27:39.042Z
 tags: 
   - screen-recording
   - ai video

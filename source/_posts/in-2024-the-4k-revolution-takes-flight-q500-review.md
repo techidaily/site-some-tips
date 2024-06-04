@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The 4K Revolution Takes Flight - Q500 Review\""
-date: 2024-05-29 18:14:12
-updated: 2024-06-01 10:21:35
+date: 2024-06-03T04:01:23.896Z
+updated: 2024-06-04T04:01:23.896Z
 tags: 
   - screen-recording
   - ai video

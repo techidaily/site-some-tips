@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your Potential for Green Screen Excellence in Kinemaster for 2024"
-date: 2024-05-31 18:54:38
-updated: 2024-06-03 11:29:47
+date: 2024-06-03T04:29:14.321Z
+updated: 2024-06-04T04:29:14.321Z
 tags: 
   - screen-recording
   - ai video

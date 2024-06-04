@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stylizing Strings for Cinematic Results\""
-date: 2024-05-28 11:39:45
-updated: 2024-05-31 11:24:30
+date: 2024-06-03T03:56:24.803Z
+updated: 2024-06-04T03:56:24.803Z
 tags: 
   - screen-recording
   - ai video

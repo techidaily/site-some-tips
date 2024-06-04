@@ -1,7 +1,7 @@
 ---
 title: "\"The Quick-Convert Guide  Transforming Gifs Into Telegram and WhatsApp Emojis for 2024\""
-date: 2024-05-29 22:57:58
-updated: 2024-06-01 11:20:47
+date: 2024-06-03T04:00:34.294Z
+updated: 2024-06-04T04:00:34.294Z
 tags: 
   - screen-recording
   - ai video

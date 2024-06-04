@@ -1,7 +1,7 @@
 ---
 title: "Understanding Expenses in Music Video Creation for 2024"
-date: 2024-06-01 16:14:51
-updated: 2024-06-02 12:50:37
+date: 2024-06-03T03:52:00.210Z
+updated: 2024-06-04T03:52:00.210Z
 tags: 
   - screen-recording
   - ai video

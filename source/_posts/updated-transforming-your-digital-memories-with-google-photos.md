@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming Your Digital Memories with Google Photos"
-date: 2024-05-31 23:29:52
-updated: 2024-06-02 11:11:13
+date: 2024-06-03T04:49:22.836Z
+updated: 2024-06-04T04:49:22.836Z
 tags: 
   - screen-recording
   - ai video

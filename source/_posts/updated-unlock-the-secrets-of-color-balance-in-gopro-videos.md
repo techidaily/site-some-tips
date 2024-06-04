@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlock the Secrets of Color Balance in GoPro Videos"
-date: 2024-05-31 13:15:55
-updated: 2024-06-03 12:52:51
+date: 2024-06-03T04:20:15.236Z
+updated: 2024-06-04T04:20:15.236Z
 tags: 
   - screen-recording
   - ai video

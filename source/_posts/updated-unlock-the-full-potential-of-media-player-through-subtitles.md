@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlock the Full Potential of Media Player Through Subtitles"
-date: 2024-06-01 19:33:34
-updated: 2024-06-03 10:27:15
+date: 2024-06-03T03:55:49.345Z
+updated: 2024-06-04T03:55:49.345Z
 tags: 
   - screen-recording
   - ai video

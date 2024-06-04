@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Complete Cheat Sheet  Mastering Google's Voice Transcription Tool\""
-date: 2024-05-29 13:17:28
-updated: 2024-06-01 12:50:35
+date: 2024-06-03T04:14:44.622Z
+updated: 2024-06-04T04:14:44.622Z
 tags: 
   - screen-recording
   - ai video

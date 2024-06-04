@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential List of Filmmaking Gear for Newcomers"
-date: 2024-05-30 12:20:20
-updated: 2024-06-01 11:54:29
+date: 2024-06-03T03:56:33.390Z
+updated: 2024-06-04T03:56:33.390Z
 tags: 
   - screen-recording
   - ai video

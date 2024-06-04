@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps for 2024\""
-date: 2024-05-31 17:31:44
-updated: 2024-06-01 10:55:12
+date: 2024-06-03T04:05:51.261Z
+updated: 2024-06-04T04:05:51.261Z
 tags: 
   - screen-recording
   - ai video

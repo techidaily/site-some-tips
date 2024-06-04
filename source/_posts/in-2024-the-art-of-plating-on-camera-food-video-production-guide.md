@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Plating on Camera  Food Video Production Guide\""
-date: 2024-05-31 21:17:41
-updated: 2024-06-01 11:26:50
+date: 2024-06-03T03:46:58.040Z
+updated: 2024-06-04T03:46:58.040Z
 tags: 
   - screen-recording
   - ai video

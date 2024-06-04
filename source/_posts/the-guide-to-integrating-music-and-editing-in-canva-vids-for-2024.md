@@ -1,7 +1,7 @@
 ---
 title: "The Guide to Integrating Music & Editing in Canva Vids for 2024"
-date: 2024-05-30 14:36:10
-updated: 2024-06-01 12:17:27
+date: 2024-06-03T03:56:48.448Z
+updated: 2024-06-04T03:56:48.448Z
 tags: 
   - screen-recording
   - ai video

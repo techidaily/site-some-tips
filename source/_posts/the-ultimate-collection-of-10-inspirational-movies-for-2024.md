@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Collection of 10 Inspirational Movies for 2024"
-date: 2024-05-30 15:54:20
-updated: 2024-06-01 10:57:59
+date: 2024-06-03T03:58:58.121Z
+updated: 2024-06-04T03:58:58.121Z
 tags: 
   - screen-recording
   - ai video

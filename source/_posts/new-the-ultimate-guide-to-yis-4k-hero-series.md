@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Yi's 4K HERO Series"
-date: 2024-05-31 10:18:32
-updated: 2024-06-01 10:13:15
+date: 2024-06-03T04:47:37.278Z
+updated: 2024-06-04T04:47:37.278Z
 tags: 
   - screen-recording
   - ai video

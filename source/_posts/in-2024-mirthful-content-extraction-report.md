@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mirthful Content Extraction Report"
-date: 2024-05-26 20:31:59
-updated: 2024-05-28 12:44:44
+date: 2024-06-03T03:56:30.518Z
+updated: 2024-06-04T03:56:30.518Z
 tags: 
   - screen-recording
   - ai video

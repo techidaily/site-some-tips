@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Twilight Crusaders  The Darkened Knight vs the Shining One\""
-date: 2024-06-01 19:55:12
-updated: 2024-06-02 12:36:18
+date: 2024-06-03T03:47:32.449Z
+updated: 2024-06-04T03:47:32.449Z
 tags: 
   - screen-recording
   - ai video

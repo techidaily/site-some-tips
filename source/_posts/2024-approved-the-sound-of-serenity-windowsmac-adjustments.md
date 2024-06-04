@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Sound of Serenity  Windows/Mac Adjustments\""
-date: 2024-05-30 22:33:30
-updated: 2024-06-01 10:28:52
+date: 2024-06-03T03:52:39.068Z
+updated: 2024-06-04T03:52:39.068Z
 tags: 
   - screen-recording
   - ai video

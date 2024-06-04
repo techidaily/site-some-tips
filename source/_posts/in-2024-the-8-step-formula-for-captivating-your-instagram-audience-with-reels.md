@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The 8-Step Formula for Captivating Your Instagram Audience with Reels\""
-date: 2024-05-30 17:59:23
-updated: 2024-06-01 12:53:28
+date: 2024-06-03T04:34:40.481Z
+updated: 2024-06-04T04:34:40.481Z
 tags: 
   - screen-recording
   - ai video

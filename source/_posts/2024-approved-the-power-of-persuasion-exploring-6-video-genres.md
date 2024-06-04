@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Power of Persuasion  Exploring 6 Video Genres\""
-date: 2024-05-31 18:31:42
-updated: 2024-06-01 12:40:26
+date: 2024-06-03T04:49:27.703Z
+updated: 2024-06-04T04:49:27.703Z
 tags: 
   - screen-recording
   - ai video

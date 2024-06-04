@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Cinema  Mastering the Best 5 Camera Tips\""
-date: 2024-05-31 16:49:33
-updated: 2024-06-01 10:10:37
+date: 2024-06-03T04:11:16.351Z
+updated: 2024-06-04T04:11:16.351Z
 tags: 
   - screen-recording
   - ai video

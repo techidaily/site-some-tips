@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Upgrade Ultimatum  Going From Previous Windows\""
-date: 2024-05-29 12:45:18
-updated: 2024-06-01 10:46:52
+date: 2024-06-03T04:01:11.092Z
+updated: 2024-06-04T04:01:11.092Z
 tags: 
   - screen-recording
   - ai video

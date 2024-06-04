@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Evolved Look of Sony BDP-S6700\""
-date: 2024-05-29 15:48:11
-updated: 2024-06-01 11:13:48
+date: 2024-06-03T04:10:05.976Z
+updated: 2024-06-04T04:10:05.976Z
 tags: 
   - screen-recording
   - ai video

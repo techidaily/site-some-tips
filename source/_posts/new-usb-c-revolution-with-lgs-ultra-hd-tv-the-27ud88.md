@@ -1,7 +1,7 @@
 ---
 title: "\"[New] USB-C Revolution with LG's Ultra HD TV, the 27UD88\""
-date: 2024-05-31 20:46:14
-updated: 2024-06-03 11:44:16
+date: 2024-06-03T03:53:31.812Z
+updated: 2024-06-04T03:53:31.812Z
 tags: 
   - screen-recording
   - ai video

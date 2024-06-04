@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Browsing with MS Edge's PIP"
-date: 2024-05-31 11:26:53
-updated: 2024-06-02 12:24:27
+date: 2024-06-03T04:01:12.504Z
+updated: 2024-06-04T04:01:12.504Z
 tags: 
   - screen-recording
   - ai video

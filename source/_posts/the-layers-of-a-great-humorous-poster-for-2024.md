@@ -1,7 +1,7 @@
 ---
 title: "The Layers of a Great Humorous Poster for 2024"
-date: 2024-05-29 13:45:56
-updated: 2024-06-01 10:30:16
+date: 2024-06-03T04:20:38.325Z
+updated: 2024-06-04T04:20:38.325Z
 tags: 
   - screen-recording
   - ai video

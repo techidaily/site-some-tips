@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveil the Power  Leveraging Windows 11 and Zoom Maximum\""
-date: 2024-06-01 19:22:12
-updated: 2024-06-03 11:24:34
+date: 2024-06-03T04:20:48.915Z
+updated: 2024-06-04T04:20:48.915Z
 tags: 
   - screen-recording
   - ai video

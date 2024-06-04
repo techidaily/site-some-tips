@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Complete Guide to Drone Racing + High-Speed FPV Drones\""
-date: 2024-05-30 19:47:28
-updated: 2024-06-01 10:56:11
+date: 2024-06-03T04:49:34.662Z
+updated: 2024-06-04T04:49:34.662Z
 tags: 
   - screen-recording
   - ai video

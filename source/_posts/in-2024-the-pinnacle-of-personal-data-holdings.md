@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Pinnacle of Personal Data Holdings"
-date: 2024-05-30 16:33:33
-updated: 2024-06-01 11:10:23
+date: 2024-06-03T04:34:42.610Z
+updated: 2024-06-04T04:34:42.610Z
 tags: 
   - screen-recording
   - ai video

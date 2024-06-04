@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Bundles for YI 4K Videographers"
-date: 2024-05-29 16:55:53
-updated: 2024-06-01 10:18:47
+date: 2024-06-03T04:11:40.459Z
+updated: 2024-06-04T04:11:40.459Z
 tags: 
   - screen-recording
   - ai video

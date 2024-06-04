@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tailor-Made Windows 11 Backgrounds for You\""
-date: 2024-05-28 17:58:26
-updated: 2024-05-31 12:56:52
+date: 2024-06-03T04:07:28.281Z
+updated: 2024-06-04T04:07:28.281Z
 tags: 
   - screen-recording
   - ai video

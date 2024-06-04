@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques for Swapping Your Image's Tone Spectrum"
-date: 2024-05-30 16:21:43
-updated: 2024-05-31 11:28:18
+date: 2024-06-03T04:42:15.736Z
+updated: 2024-06-04T04:42:15.736Z
 tags: 
   - screen-recording
   - ai video

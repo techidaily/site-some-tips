@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Melody Meets  Discovering Crossfade Magic\""
-date: 2024-05-31 14:31:40
-updated: 2024-06-01 10:47:40
+date: 2024-06-03T03:45:51.424Z
+updated: 2024-06-04T03:45:51.424Z
 tags: 
   - screen-recording
   - ai video

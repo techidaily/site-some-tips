@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Masterpiece Narratives Across the Eightfold Genre Spectrum"
-date: 2024-05-25 22:34:43
-updated: 2024-05-28 12:50:57
+date: 2024-06-03T03:49:55.752Z
+updated: 2024-06-04T03:49:55.752Z
 tags: 
   - screen-recording
   - ai video

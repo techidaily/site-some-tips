@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Low-Volume Settings in OS X/Windows for 2024\""
-date: 2024-05-26 14:35:19
-updated: 2024-05-28 11:15:37
+date: 2024-06-03T04:39:32.060Z
+updated: 2024-06-04T04:39:32.060Z
 tags: 
   - screen-recording
   - ai video

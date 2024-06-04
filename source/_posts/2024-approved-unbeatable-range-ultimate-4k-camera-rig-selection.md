@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unbeatable Range  Ultimate 4K Camera Rig Selection\""
-date: 2024-05-31 19:16:29
-updated: 2024-06-02 11:37:25
+date: 2024-06-03T03:47:24.662Z
+updated: 2024-06-04T03:47:24.662Z
 tags: 
   - screen-recording
   - ai video

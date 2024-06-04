@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Right Time to Invest in Your Next 4K Lens"
-date: 2024-05-29 20:17:57
-updated: 2024-06-01 12:57:37
+date: 2024-06-03T03:43:37.180Z
+updated: 2024-06-04T03:43:37.180Z
 tags: 
   - screen-recording
   - ai video

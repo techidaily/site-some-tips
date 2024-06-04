@@ -1,7 +1,7 @@
 ---
 title: "The Closer Look Approach to Team Collaboration for 2024"
-date: 2024-05-31 15:31:52
-updated: 2024-06-01 12:45:58
+date: 2024-06-03T04:50:52.892Z
+updated: 2024-06-04T04:50:52.892Z
 tags: 
   - screen-recording
   - ai video

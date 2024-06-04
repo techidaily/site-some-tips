@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Sniper’s Manual to Capturing Live Online Music\""
-date: 2024-05-31 19:31:34
-updated: 2024-06-01 11:38:29
+date: 2024-06-03T04:14:31.875Z
+updated: 2024-06-04T04:14:31.875Z
 tags: 
   - screen-recording
   - ai video

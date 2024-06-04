@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Syma X5C  The Ideal Drone to Elevate Your Aerial Introduction\""
-date: 2024-05-30 17:30:41
-updated: 2024-05-31 12:35:34
+date: 2024-06-03T04:29:15.737Z
+updated: 2024-06-04T04:29:15.737Z
 tags: 
   - screen-recording
   - ai video

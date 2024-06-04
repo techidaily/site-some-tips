@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Selection of Omnidirectional Recording Devices"
-date: 2024-06-01 18:50:47
-updated: 2024-06-02 11:38:43
+date: 2024-06-03T04:33:08.675Z
+updated: 2024-06-04T04:33:08.675Z
 tags: 
   - screen-recording
   - ai video

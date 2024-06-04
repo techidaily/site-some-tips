@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamlining Your Video Editing with Device Filters"
-date: 2024-05-30 15:18:59
-updated: 2024-05-31 10:33:22
+date: 2024-06-03T04:44:46.496Z
+updated: 2024-06-04T04:44:46.496Z
 tags: 
   - screen-recording
   - ai video

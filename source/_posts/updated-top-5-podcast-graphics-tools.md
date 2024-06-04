@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 5 Podcast Graphics Tools"
-date: 2024-05-30 21:43:25
-updated: 2024-06-02 11:52:33
+date: 2024-06-03T04:12:14.990Z
+updated: 2024-06-04T04:12:14.990Z
 tags: 
   - screen-recording
   - ai video

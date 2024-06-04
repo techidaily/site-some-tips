@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling VR Video versus Spherical Capture Tech Distinctions"
-date: 2024-06-02 17:36:21
-updated: 2024-06-03 10:46:43
+date: 2024-06-03T04:00:42.139Z
+updated: 2024-06-04T04:00:42.139Z
 tags: 
   - screen-recording
   - ai video

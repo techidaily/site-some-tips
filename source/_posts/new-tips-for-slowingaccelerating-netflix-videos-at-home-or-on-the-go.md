@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tips for Slowing/Accelerating Netflix Videos at Home or On-the-Go\""
-date: 2024-05-31 20:38:24
-updated: 2024-06-02 11:29:19
+date: 2024-06-03T04:00:27.152Z
+updated: 2024-06-04T04:00:27.152Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Transformation of Windows 10 Landscape"
-date: 2024-05-31 23:33:45
-updated: 2024-06-01 12:58:31
+date: 2024-06-03T04:26:37.067Z
+updated: 2024-06-04T04:26:37.067Z
 tags: 
   - screen-recording
   - ai video

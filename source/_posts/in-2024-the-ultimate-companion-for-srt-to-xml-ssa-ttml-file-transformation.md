@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation\""
-date: 2024-05-30 23:38:28
-updated: 2024-06-01 10:17:11
+date: 2024-06-03T03:47:00.615Z
+updated: 2024-06-04T03:47:00.615Z
 tags: 
   - screen-recording
   - ai video

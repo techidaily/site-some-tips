@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Superb Alter-Ego Voice Tools  For Aspiring VTubers\""
-date: 2024-05-30 15:46:35
-updated: 2024-05-31 10:33:51
+date: 2024-06-03T03:50:45.287Z
+updated: 2024-06-04T03:50:45.287Z
 tags: 
   - screen-recording
   - ai video

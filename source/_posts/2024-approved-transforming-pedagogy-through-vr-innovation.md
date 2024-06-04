@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Pedagogy Through VR Innovation\""
-date: 2024-05-31 17:13:14
-updated: 2024-06-02 11:24:23
+date: 2024-06-03T04:15:37.751Z
+updated: 2024-06-04T04:15:37.751Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 30 Webcams Elevating Audio Quality"
-date: 2024-06-01 10:44:19
-updated: 2024-06-02 10:11:34
+date: 2024-06-03T04:49:21.438Z
+updated: 2024-06-04T04:49:21.438Z
 tags: 
   - screen-recording
   - ai video

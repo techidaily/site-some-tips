@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge\""
-date: 2024-05-31 13:41:43
-updated: 2024-06-03 12:39:17
+date: 2024-06-03T03:56:06.490Z
+updated: 2024-06-04T03:56:06.490Z
 tags: 
   - screen-recording
   - ai video

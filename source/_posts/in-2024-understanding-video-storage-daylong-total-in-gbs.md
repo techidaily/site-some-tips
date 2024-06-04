@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Understanding Video Storage  Daylong Total in GBs\""
-date: 2024-05-30 15:12:28
-updated: 2024-06-02 12:30:53
+date: 2024-06-03T04:48:03.807Z
+updated: 2024-06-04T04:48:03.807Z
 tags: 
   - screen-recording
   - ai video

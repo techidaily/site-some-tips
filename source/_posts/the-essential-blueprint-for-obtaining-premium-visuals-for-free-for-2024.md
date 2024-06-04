@@ -1,7 +1,7 @@
 ---
 title: "The Essential Blueprint for Obtaining Premium Visuals for Free for 2024"
-date: 2024-05-29 14:45:40
-updated: 2024-06-01 10:55:36
+date: 2024-06-03T04:17:58.951Z
+updated: 2024-06-04T04:17:58.951Z
 tags: 
   - screen-recording
   - ai video

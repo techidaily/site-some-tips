@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time-Lapse Magic  Animation Through the Lens of Movie Maker\""
-date: 2024-06-01 13:18:51
-updated: 2024-06-02 12:29:34
+date: 2024-06-03T04:43:40.607Z
+updated: 2024-06-04T04:43:40.607Z
 tags: 
   - screen-recording
   - ai video

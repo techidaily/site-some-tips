@@ -1,7 +1,7 @@
 ---
 title: "\"The Future in Your Pocket  Review of LG's Portable 4K Display for 2024\""
-date: 2024-05-31 19:24:30
-updated: 2024-06-01 11:31:33
+date: 2024-06-03T04:23:15.180Z
+updated: 2024-06-04T04:23:15.180Z
 tags: 
   - screen-recording
   - ai video

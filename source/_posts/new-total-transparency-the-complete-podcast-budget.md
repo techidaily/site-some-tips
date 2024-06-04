@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Total Transparency  The Complete Podcast Budget\""
-date: 2024-05-31 10:39:42
-updated: 2024-06-02 12:22:20
+date: 2024-06-03T03:53:55.085Z
+updated: 2024-06-04T03:53:55.085Z
 tags: 
   - screen-recording
   - ai video

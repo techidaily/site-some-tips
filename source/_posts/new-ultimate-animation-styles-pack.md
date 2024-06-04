@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Animation Styles Pack"
-date: 2024-05-31 15:57:30
-updated: 2024-06-02 12:56:57
+date: 2024-06-03T04:27:32.685Z
+updated: 2024-06-04T04:27:32.685Z
 tags: 
   - screen-recording
   - ai video

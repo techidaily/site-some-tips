@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 Camcorders That Eliminate Handshaking Effects"
-date: 2024-05-31 23:26:33
-updated: 2024-06-02 12:19:23
+date: 2024-06-03T04:31:52.615Z
+updated: 2024-06-04T04:31:52.615Z
 tags: 
   - screen-recording
   - ai video

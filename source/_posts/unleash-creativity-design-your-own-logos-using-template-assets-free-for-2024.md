@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Creativity  Design Your Own Logos Using Template Assets (Free) for 2024\""
-date: 2024-06-01 21:57:34
-updated: 2024-06-02 11:53:37
+date: 2024-06-03T04:06:22.659Z
+updated: 2024-06-04T04:06:22.659Z
 tags: 
   - screen-recording
   - ai video

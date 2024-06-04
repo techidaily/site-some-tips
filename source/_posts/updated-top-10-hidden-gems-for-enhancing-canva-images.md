@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 10 Hidden Gems for Enhancing Canva Images"
-date: 2024-05-31 21:34:38
-updated: 2024-06-02 12:12:37
+date: 2024-06-03T04:32:30.699Z
+updated: 2024-06-04T04:32:30.699Z
 tags: 
   - screen-recording
   - ai video

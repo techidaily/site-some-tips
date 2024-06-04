@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategic Use of Visual Media in Classroom Teaching"
-date: 2024-05-28 14:15:18
-updated: 2024-05-31 12:27:39
+date: 2024-06-03T04:44:45.780Z
+updated: 2024-06-04T04:44:45.780Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Prioritize Your Videography with Top 12 Players\""
-date: 2024-05-28 16:31:39
-updated: 2024-05-30 10:39:42
+date: 2024-06-03T04:27:44.743Z
+updated: 2024-06-04T04:27:44.743Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use for 2024\""
-date: 2024-05-29 17:39:25
-updated: 2024-06-01 11:17:58
+date: 2024-06-03T04:45:57.382Z
+updated: 2024-06-04T04:45:57.382Z
 tags: 
   - screen-recording
   - ai video

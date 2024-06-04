@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Best 8 Screenshot & Video Editing Tools for Phones"
-date: 2024-05-29 10:46:24
-updated: 2024-06-01 10:37:48
+date: 2024-06-03T03:53:36.847Z
+updated: 2024-06-04T03:53:36.847Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques for Incremental Volume Reduction in Pro Video Editing"
-date: 2024-05-28 19:29:13
-updated: 2024-05-31 12:47:57
+date: 2024-06-03T04:36:16.934Z
+updated: 2024-06-04T04:36:16.934Z
 tags: 
   - screen-recording
   - ai video

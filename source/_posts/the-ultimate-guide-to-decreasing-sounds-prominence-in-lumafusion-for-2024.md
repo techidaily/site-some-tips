@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion for 2024"
-date: 2024-05-31 19:49:32
-updated: 2024-06-01 12:11:15
+date: 2024-06-03T04:27:36.928Z
+updated: 2024-06-04T04:27:36.928Z
 tags: 
   - screen-recording
   - ai video

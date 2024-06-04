@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Adding Linktree to TikTok Bios"
-date: 2024-05-30 21:13:58
-updated: 2024-06-01 10:17:23
+date: 2024-06-03T04:18:48.529Z
+updated: 2024-06-04T04:18:48.529Z
 tags: 
   - screen-recording
   - ai video

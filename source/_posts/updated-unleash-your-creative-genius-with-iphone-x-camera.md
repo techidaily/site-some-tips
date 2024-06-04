@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleash Your Creative Genius with iPhone X Camera"
-date: 2024-05-31 18:13:37
-updated: 2024-06-02 11:25:59
+date: 2024-06-03T04:00:40.701Z
+updated: 2024-06-04T04:00:40.701Z
 tags: 
   - screen-recording
   - ai video

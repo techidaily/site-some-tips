@@ -1,7 +1,7 @@
 ---
 title: "[New] Transcription Tech, Zero Fee for the User"
-date: 2024-06-01 15:17:14
-updated: 2024-06-02 10:36:51
+date: 2024-06-03T04:15:24.855Z
+updated: 2024-06-04T04:15:24.855Z
 tags: 
   - screen-recording
   - ai video

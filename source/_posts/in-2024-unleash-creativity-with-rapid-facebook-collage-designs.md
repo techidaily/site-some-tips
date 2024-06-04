@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Creativity with Rapid Facebook Collage Designs"
-date: 2024-05-30 11:30:30
-updated: 2024-06-02 12:29:14
+date: 2024-06-03T04:04:04.405Z
+updated: 2024-06-04T04:04:04.405Z
 tags: 
   - screen-recording
   - ai video

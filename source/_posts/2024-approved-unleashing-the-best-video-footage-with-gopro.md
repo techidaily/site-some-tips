@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing the Best Video Footage with GoPro\""
-date: 2024-06-01 13:37:38
-updated: 2024-06-03 12:52:23
+date: 2024-06-03T04:24:40.334Z
+updated: 2024-06-04T04:24:40.334Z
 tags: 
   - screen-recording
   - ai video

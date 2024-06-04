@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide  PC's HD Color Videography for 2024\""
-date: 2024-05-30 11:13:48
-updated: 2024-06-02 11:41:18
+date: 2024-06-03T04:13:12.142Z
+updated: 2024-06-04T04:13:12.142Z
 tags: 
   - screen-recording
   - ai video

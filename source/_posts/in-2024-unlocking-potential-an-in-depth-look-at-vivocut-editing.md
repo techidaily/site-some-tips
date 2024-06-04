@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Potential  An In-Depth Look at VivoCut Editing\""
-date: 2024-06-02 17:42:26
-updated: 2024-06-03 12:17:42
+date: 2024-06-03T04:30:07.051Z
+updated: 2024-06-04T04:30:07.051Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Guide to Webcam Capture Apps - #18\""
-date: 2024-05-30 11:13:11
-updated: 2024-06-01 12:53:56
+date: 2024-06-03T03:50:46.014Z
+updated: 2024-06-04T03:50:46.014Z
 tags: 
   - screen-recording
   - ai video

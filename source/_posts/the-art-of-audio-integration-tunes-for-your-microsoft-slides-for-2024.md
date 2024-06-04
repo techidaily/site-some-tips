@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Audio Integration  Tunes for Your Microsoft Slides for 2024\""
-date: 2024-05-29 12:37:56
-updated: 2024-06-01 11:21:22
+date: 2024-06-03T04:28:04.986Z
+updated: 2024-06-04T04:28:04.986Z
 tags: 
   - screen-recording
   - ai video

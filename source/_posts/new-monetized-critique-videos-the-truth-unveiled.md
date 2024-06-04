@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Monetized Critique Videos  The Truth Unveiled\""
-date: 2024-05-28 19:29:10
-updated: 2024-05-29 11:46:54
+date: 2024-06-03T04:13:39.219Z
+updated: 2024-06-04T04:13:39.219Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Transformation of Windows 10 Landscape\""
-date: 2024-05-29 10:41:43
-updated: 2024-06-01 11:20:54
+date: 2024-06-03T04:04:59.652Z
+updated: 2024-06-04T04:04:59.652Z
 tags: 
   - screen-recording
   - ai video

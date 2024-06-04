@@ -1,7 +1,7 @@
 ---
 title: "\"Tailoring Your Canvas  A Guide to Erasing Background Elements for 2024\""
-date: 2024-05-29 17:18:19
-updated: 2024-05-31 10:27:13
+date: 2024-06-03T04:13:09.693Z
+updated: 2024-06-04T04:13:09.693Z
 tags: 
   - screen-recording
   - ai video

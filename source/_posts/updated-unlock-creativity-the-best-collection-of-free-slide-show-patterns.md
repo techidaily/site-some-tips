@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlock Creativity  The Best Collection of Free Slide Show Patterns\""
-date: 2024-05-31 15:49:55
-updated: 2024-06-03 10:35:19
+date: 2024-06-03T04:48:20.805Z
+updated: 2024-06-04T04:48:20.805Z
 tags: 
   - screen-recording
   - ai video

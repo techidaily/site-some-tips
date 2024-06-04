@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Strategies to Integrate B-Roll Footage Seamlessly\""
-date: 2024-05-28 23:26:10
-updated: 2024-05-31 12:15:39
+date: 2024-06-03T04:23:06.202Z
+updated: 2024-06-04T04:23:06.202Z
 tags: 
   - screen-recording
   - ai video

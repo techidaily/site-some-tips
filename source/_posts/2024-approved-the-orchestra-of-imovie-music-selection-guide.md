@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Orchestra of iMovie  Music Selection Guide\""
-date: 2024-05-30 20:55:59
-updated: 2024-06-01 12:41:27
+date: 2024-06-03T04:41:30.068Z
+updated: 2024-06-04T04:41:30.068Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Rise of Remote Therapeutic Platforms"
-date: 2024-05-31 19:35:23
-updated: 2024-06-01 11:27:56
+date: 2024-06-03T03:54:32.001Z
+updated: 2024-06-04T03:54:32.001Z
 tags: 
   - screen-recording
   - ai video

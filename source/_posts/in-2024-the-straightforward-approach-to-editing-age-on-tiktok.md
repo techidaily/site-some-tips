@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Straightforward Approach to Editing Age on TikTok"
-date: 2024-05-29 10:50:40
-updated: 2024-06-01 12:37:16
+date: 2024-06-03T03:45:55.643Z
+updated: 2024-06-04T03:45:55.643Z
 tags: 
   - screen-recording
   - ai video

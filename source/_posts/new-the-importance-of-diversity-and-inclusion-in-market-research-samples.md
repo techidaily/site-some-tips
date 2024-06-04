@@ -1,7 +1,7 @@
 ---
 title: "[New] The Importance of Diversity & Inclusion in Market Research Samples"
-date: 2024-05-29 14:47:25
-updated: 2024-06-01 10:34:31
+date: 2024-06-03T04:01:30.990Z
+updated: 2024-06-04T04:01:30.990Z
 tags: 
   - screen-recording
   - ai video

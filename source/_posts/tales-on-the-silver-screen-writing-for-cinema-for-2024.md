@@ -1,7 +1,7 @@
 ---
 title: "\"Tales on the Silver Screen  Writing for Cinema for 2024\""
-date: 2024-05-28 21:17:12
-updated: 2024-05-31 11:56:34
+date: 2024-06-03T04:18:31.003Z
+updated: 2024-06-04T04:18:31.003Z
 tags: 
   - screen-recording
   - ai video

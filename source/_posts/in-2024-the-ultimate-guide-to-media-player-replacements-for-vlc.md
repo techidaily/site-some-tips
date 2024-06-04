@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Media Player Replacements for VLC"
-date: 2024-05-29 10:51:30
-updated: 2024-06-01 11:16:25
+date: 2024-06-03T04:43:46.987Z
+updated: 2024-06-04T04:43:46.987Z
 tags: 
   - screen-recording
   - ai video

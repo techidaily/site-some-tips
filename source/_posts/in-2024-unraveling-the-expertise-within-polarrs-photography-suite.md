@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Expertise Within Polarr’s Photography Suite"
-date: 2024-06-02 14:10:53
-updated: 2024-06-03 10:21:39
+date: 2024-06-03T04:15:44.139Z
+updated: 2024-06-04T04:15:44.139Z
 tags: 
   - screen-recording
   - ai video

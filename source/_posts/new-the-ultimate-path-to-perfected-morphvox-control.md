@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Path to Perfected MorphVOX Control"
-date: 2024-05-29 19:26:25
-updated: 2024-06-01 11:23:15
+date: 2024-06-03T04:07:51.466Z
+updated: 2024-06-04T04:07:51.466Z
 tags: 
   - screen-recording
   - ai video

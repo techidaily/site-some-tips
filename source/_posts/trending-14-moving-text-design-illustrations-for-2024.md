@@ -1,7 +1,7 @@
 ---
 title: "Trending 14 Moving Text Design Illustrations for 2024"
-date: 2024-05-30 15:42:50
-updated: 2024-06-02 11:43:37
+date: 2024-06-03T04:27:01.848Z
+updated: 2024-06-04T04:27:01.848Z
 tags: 
   - screen-recording
   - ai video

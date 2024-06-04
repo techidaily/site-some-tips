@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Movie Journey for Inspiration Seekers for 2024"
-date: 2024-05-29 18:21:44
-updated: 2024-06-01 12:29:44
+date: 2024-06-03T04:01:01.459Z
+updated: 2024-06-04T04:01:01.459Z
 tags: 
   - screen-recording
   - ai video

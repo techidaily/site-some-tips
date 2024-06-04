@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling Studio Magic  Comprehensive XReview\""
-date: 2024-06-01 18:56:16
-updated: 2024-06-03 12:23:53
+date: 2024-06-03T04:22:08.357Z
+updated: 2024-06-04T04:22:08.357Z
 tags: 
   - screen-recording
   - ai video

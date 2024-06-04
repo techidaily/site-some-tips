@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Enhancements in Sony S6500 BDP for 2024"
-date: 2024-06-01 13:11:26
-updated: 2024-06-03 12:43:29
+date: 2024-06-03T04:47:10.621Z
+updated: 2024-06-04T04:47:10.621Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Superior Visual Treatment  Applying Filters to Videos\""
-date: 2024-05-29 16:55:12
-updated: 2024-05-31 12:39:32
+date: 2024-06-03T04:14:43.206Z
+updated: 2024-06-04T04:14:43.206Z
 tags: 
   - screen-recording
   - ai video

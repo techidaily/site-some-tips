@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Secrets to Discreetly Fading Out Sounds Using Audacity"
-date: 2024-05-30 17:40:23
-updated: 2024-06-01 11:35:15
+date: 2024-06-03T04:28:12.772Z
+updated: 2024-06-04T04:28:12.772Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Supercharge Your Video Subtitling  Explore Leading Internet Tools Today\""
-date: 2024-05-30 21:48:26
-updated: 2024-05-31 12:54:40
+date: 2024-06-03T04:51:08.274Z
+updated: 2024-06-04T04:51:08.274Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Strategies for Effective Digital Video Photo Alteration"
-date: 2024-05-29 21:44:19
-updated: 2024-05-31 12:51:27
+date: 2024-06-03T04:00:37.839Z
+updated: 2024-06-04T04:00:37.839Z
 tags: 
   - screen-recording
   - ai video

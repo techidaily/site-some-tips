@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 5 Avant-Garde Creators in Digital Media\""
-date: 2024-06-01 20:38:30
-updated: 2024-06-02 12:38:14
+date: 2024-06-03T04:41:56.606Z
+updated: 2024-06-04T04:41:56.606Z
 tags: 
   - screen-recording
   - ai video

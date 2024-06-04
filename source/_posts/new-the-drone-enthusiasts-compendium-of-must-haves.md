@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Drone Enthusiast's Compendium of Must-Haves\""
-date: 2024-05-29 12:51:59
-updated: 2024-06-01 12:15:58
+date: 2024-06-03T04:24:14.497Z
+updated: 2024-06-04T04:24:14.497Z
 tags: 
   - screen-recording
   - ai video

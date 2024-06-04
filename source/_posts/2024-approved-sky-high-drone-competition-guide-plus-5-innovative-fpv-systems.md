@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sky High Drone Competition Guide + 5 Innovative FPV Systems\""
-date: 2024-05-30 14:13:44
-updated: 2024-05-31 12:12:47
+date: 2024-06-03T03:44:14.534Z
+updated: 2024-06-04T03:44:14.534Z
 tags: 
   - screen-recording
   - ai video

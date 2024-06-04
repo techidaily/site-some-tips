@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Best 4K Monitors\""
-date: 2024-06-01 10:20:22
-updated: 2024-06-02 12:26:50
+date: 2024-06-03T03:45:18.683Z
+updated: 2024-06-04T03:45:18.683Z
 tags: 
   - screen-recording
   - ai video

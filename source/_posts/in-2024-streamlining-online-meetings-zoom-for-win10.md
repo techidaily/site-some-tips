@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Online Meetings  Zoom for WIN10\""
-date: 2024-05-30 17:19:34
-updated: 2024-05-31 10:40:59
+date: 2024-06-03T04:02:23.499Z
+updated: 2024-06-04T04:02:23.499Z
 tags: 
   - screen-recording
   - ai video

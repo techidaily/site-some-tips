@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Windows 10 Sound Capabilities"
-date: 2024-05-31 13:38:43
-updated: 2024-06-03 12:30:12
+date: 2024-06-03T04:18:51.387Z
+updated: 2024-06-04T04:18:51.387Z
 tags: 
   - screen-recording
   - ai video

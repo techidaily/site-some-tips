@@ -1,7 +1,7 @@
 ---
 title: "\"Swift Solutions  Moving iPhone Pictures & Videos for 2024\""
-date: 2024-05-30 15:54:58
-updated: 2024-05-31 10:18:19
+date: 2024-06-03T04:25:24.666Z
+updated: 2024-06-04T04:25:24.666Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Enhanced Audio-Visual Sync  Subtitle Addition to WMP\""
-date: 2024-06-02 11:42:31
-updated: 2024-06-03 12:12:30
+date: 2024-06-03T04:47:25.964Z
+updated: 2024-06-04T04:47:25.964Z
 tags: 
   - screen-recording
   - ai video

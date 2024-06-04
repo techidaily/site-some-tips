@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Undead Lore Weaver\""
-date: 2024-05-31 18:11:40
-updated: 2024-06-02 11:32:56
+date: 2024-06-03T04:05:31.547Z
+updated: 2024-06-04T04:05:31.547Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Secret to a Streamlined TikTok Bio with Linktree"
-date: 2024-05-31 11:36:20
-updated: 2024-06-03 12:25:17
+date: 2024-06-03T04:33:00.174Z
+updated: 2024-06-04T04:33:00.174Z
 tags: 
   - screen-recording
   - ai video

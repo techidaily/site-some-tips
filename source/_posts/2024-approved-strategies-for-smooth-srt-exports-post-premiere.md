@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Strategies for Smooth SRT Exports Post-Premiere\""
-date: 2024-05-29 11:44:39
-updated: 2024-05-31 12:16:25
+date: 2024-06-03T03:55:51.479Z
+updated: 2024-06-04T03:55:51.479Z
 tags: 
   - screen-recording
   - ai video

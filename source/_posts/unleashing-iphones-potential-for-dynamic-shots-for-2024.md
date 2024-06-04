@@ -1,7 +1,7 @@
 ---
 title: "Unleashing iPhone’s Potential for Dynamic Shots for 2024"
-date: 2024-06-01 23:21:40
-updated: 2024-06-03 10:21:35
+date: 2024-06-03T03:58:59.554Z
+updated: 2024-06-04T03:58:59.554Z
 tags: 
   - screen-recording
   - ai video

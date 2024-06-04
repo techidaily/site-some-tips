@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlock Your Potential  Best Video Editing Hacks\""
-date: 2024-06-02 15:31:49
-updated: 2024-06-03 10:37:14
+date: 2024-06-03T04:41:43.516Z
+updated: 2024-06-04T04:41:43.516Z
 tags: 
   - screen-recording
   - ai video

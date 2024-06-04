@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unconventional Text Presentation Methods\""
-date: 2024-05-30 13:16:58
-updated: 2024-06-02 12:27:18
+date: 2024-06-03T04:11:50.124Z
+updated: 2024-06-04T04:11:50.124Z
 tags: 
   - screen-recording
   - ai video

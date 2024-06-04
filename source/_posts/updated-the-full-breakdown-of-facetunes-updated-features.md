@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Full Breakdown of Facetune's Updated Features"
-date: 2024-05-30 19:22:29
-updated: 2024-06-01 11:34:16
+date: 2024-06-03T04:44:33.725Z
+updated: 2024-06-04T04:44:33.725Z
 tags: 
   - screen-recording
   - ai video

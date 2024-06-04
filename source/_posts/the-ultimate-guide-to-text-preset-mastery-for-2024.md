@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Text Preset Mastery for 2024"
-date: 2024-05-30 11:46:47
-updated: 2024-06-01 11:48:21
+date: 2024-06-03T04:38:07.769Z
+updated: 2024-06-04T04:38:07.769Z
 tags: 
   - screen-recording
   - ai video

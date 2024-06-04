@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Cleaning Up  Stickers Off Your TikToks\""
-date: 2024-05-31 14:17:22
-updated: 2024-06-01 11:12:19
+date: 2024-06-03T03:50:12.093Z
+updated: 2024-06-04T03:50:12.093Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of iPhone Photography  Shadow Techniques for 2024\""
-date: 2024-05-29 20:16:53
-updated: 2024-06-01 10:11:50
+date: 2024-06-03T03:47:40.553Z
+updated: 2024-06-04T03:47:40.553Z
 tags: 
   - screen-recording
   - ai video

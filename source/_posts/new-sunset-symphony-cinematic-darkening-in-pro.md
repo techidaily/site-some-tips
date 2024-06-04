@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sunset Symphony  Cinematic Darkening in Pro\""
-date: 2024-05-30 13:53:55
-updated: 2024-05-31 12:17:55
+date: 2024-06-03T03:45:29.245Z
+updated: 2024-06-04T03:45:29.245Z
 tags: 
   - screen-recording
   - ai video

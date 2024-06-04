@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Capturing Imagination  Best Shot Tips\""
-date: 2024-05-30 18:43:35
-updated: 2024-06-01 12:51:37
+date: 2024-06-03T04:13:49.855Z
+updated: 2024-06-04T04:13:49.855Z
 tags: 
   - screen-recording
   - ai video

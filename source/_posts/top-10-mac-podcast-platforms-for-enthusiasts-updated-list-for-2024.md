@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Mac Podcast Platforms for Enthusiasts (Updated List) for 2024"
-date: 2024-05-31 21:55:15
-updated: 2024-06-02 11:53:56
+date: 2024-06-03T04:14:52.459Z
+updated: 2024-06-04T04:14:52.459Z
 tags: 
   - screen-recording
   - ai video

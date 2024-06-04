@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Your Full Potential in the Metaverse"
-date: 2024-06-01 15:52:27
-updated: 2024-06-03 10:29:12
+date: 2024-06-03T04:19:58.225Z
+updated: 2024-06-04T04:19:58.225Z
 tags: 
   - screen-recording
   - ai video

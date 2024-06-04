@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Privacy with Simple Facial Blurs"
-date: 2024-05-30 23:50:49
-updated: 2024-06-01 11:45:25
+date: 2024-06-03T04:18:49.257Z
+updated: 2024-06-04T04:18:49.257Z
 tags: 
   - screen-recording
   - ai video

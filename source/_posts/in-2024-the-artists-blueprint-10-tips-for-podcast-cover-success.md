@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Artist's Blueprint  10 Tips for Podcast Cover Success\""
-date: 2024-05-31 18:26:52
-updated: 2024-06-01 10:37:28
+date: 2024-06-03T04:17:17.845Z
+updated: 2024-06-04T04:17:17.845Z
 tags: 
   - screen-recording
   - ai video

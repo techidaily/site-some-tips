@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the XS 100I - Action Camera Revolutionized\""
-date: 2024-06-01 20:21:27
-updated: 2024-06-03 10:35:56
+date: 2024-06-03T03:50:05.682Z
+updated: 2024-06-04T03:50:05.682Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate LG 4K Display  A Comprehensive Overview\""
-date: 2024-05-31 12:30:58
-updated: 2024-06-02 11:10:35
+date: 2024-06-03T03:43:40.014Z
+updated: 2024-06-04T03:43:40.014Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock the Art of In-Picture Softening on Mobile/PC\""
-date: 2024-06-02 11:56:46
-updated: 2024-06-03 10:13:49
+date: 2024-06-03T04:13:37.798Z
+updated: 2024-06-04T04:13:37.798Z
 tags: 
   - screen-recording
   - ai video

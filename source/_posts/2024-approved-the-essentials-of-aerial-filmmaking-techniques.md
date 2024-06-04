@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essentials of Aerial Filmmaking Techniques\""
-date: 2024-05-29 13:50:54
-updated: 2024-06-01 10:32:13
+date: 2024-06-03T03:46:50.965Z
+updated: 2024-06-04T03:46:50.965Z
 tags: 
   - screen-recording
   - ai video

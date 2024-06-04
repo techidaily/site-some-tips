@@ -1,7 +1,7 @@
 ---
 title: "\"Transforming Media Captions  The Crème De La Créme of Top Online Editors for 2024\""
-date: 2024-05-31 20:52:29
-updated: 2024-06-02 12:54:54
+date: 2024-06-03T04:49:51.903Z
+updated: 2024-06-04T04:49:51.903Z
 tags: 
   - screen-recording
   - ai video

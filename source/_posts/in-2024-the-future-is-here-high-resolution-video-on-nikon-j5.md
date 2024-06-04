@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Future Is Here  High-Resolution Video on Nikon J5\""
-date: 2024-05-31 15:45:17
-updated: 2024-06-01 12:46:13
+date: 2024-06-03T03:58:09.804Z
+updated: 2024-06-04T03:58:09.804Z
 tags: 
   - screen-recording
   - ai video

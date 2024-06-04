@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Mobile Cinema Showcase  Apple's Best FREE+Paid Film Watchers Guide\""
-date: 2024-05-30 11:45:59
-updated: 2024-06-01 12:30:53
+date: 2024-06-03T03:45:17.268Z
+updated: 2024-06-04T03:45:17.268Z
 tags: 
   - screen-recording
   - ai video

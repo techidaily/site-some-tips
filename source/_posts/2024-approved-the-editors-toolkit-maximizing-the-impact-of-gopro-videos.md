@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editor's Toolkit  Maximizing the Impact of GoPro Videos\""
-date: 2024-05-29 13:50:39
-updated: 2024-06-01 10:59:25
+date: 2024-06-03T04:19:46.466Z
+updated: 2024-06-04T04:19:46.466Z
 tags: 
   - screen-recording
   - ai video

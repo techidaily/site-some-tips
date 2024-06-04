@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Windows Photo Inspector, Fast Edition"
-date: 2024-05-31 22:54:35
-updated: 2024-06-02 11:28:43
+date: 2024-06-03T04:08:01.507Z
+updated: 2024-06-04T04:08:01.507Z
 tags: 
   - screen-recording
   - ai video

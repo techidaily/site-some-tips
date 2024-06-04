@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling Photoshop’s Magic with Image Curving"
-date: 2024-06-02 23:37:52
-updated: 2024-06-03 12:37:36
+date: 2024-06-03T04:19:25.156Z
+updated: 2024-06-04T04:19:25.156Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Expert's Method for Timestamping Your YouTube Videos"
-date: 2024-05-29 13:14:28
-updated: 2024-06-01 11:35:43
+date: 2024-06-03T04:31:02.702Z
+updated: 2024-06-04T04:31:02.702Z
 tags: 
   - screen-recording
   - ai video

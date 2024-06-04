@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essentials of Writing Attractive Vlog Narratives"
-date: 2024-05-29 23:15:59
-updated: 2024-06-01 12:21:29
+date: 2024-06-03T04:17:02.539Z
+updated: 2024-06-04T04:17:02.539Z
 tags: 
   - screen-recording
   - ai video

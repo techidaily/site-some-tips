@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Your Vision Into Reality  Windows 11 Video Creation for 2024\""
-date: 2024-05-31 16:35:12
-updated: 2024-06-02 12:39:33
+date: 2024-06-03T04:23:16.598Z
+updated: 2024-06-04T04:23:16.598Z
 tags: 
   - screen-recording
   - ai video

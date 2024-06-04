@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Comprehensive Guide to DJI Phantom 3 Testing"
-date: 2024-05-31 11:17:55
-updated: 2024-06-01 11:23:23
+date: 2024-06-03T04:25:30.336Z
+updated: 2024-06-04T04:25:30.336Z
 tags: 
   - screen-recording
   - ai video

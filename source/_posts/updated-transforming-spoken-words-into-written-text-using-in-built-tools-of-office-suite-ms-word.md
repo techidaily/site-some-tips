@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transforming Spoken Words Into Written Text Using In-Built Tools of Office Suite - MS Word\""
-date: 2024-05-31 22:44:16
-updated: 2024-06-02 10:13:32
+date: 2024-06-03T04:13:21.382Z
+updated: 2024-06-04T04:13:21.382Z
 tags: 
   - screen-recording
   - ai video

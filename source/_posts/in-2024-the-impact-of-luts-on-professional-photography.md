@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Impact of LUTs on Professional Photography"
-date: 2024-05-30 15:58:21
-updated: 2024-06-01 11:14:56
+date: 2024-06-03T04:49:35.356Z
+updated: 2024-06-04T04:49:35.356Z
 tags: 
   - screen-recording
   - ai video

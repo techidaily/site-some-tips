@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Thorough Review of VideoShow '24 Features & Updates"
-date: 2024-05-30 12:40:59
-updated: 2024-06-01 11:38:37
+date: 2024-06-03T04:10:38.407Z
+updated: 2024-06-04T04:10:38.407Z
 tags: 
   - screen-recording
   - ai video

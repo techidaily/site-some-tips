@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Turnback Artisan Hub"
-date: 2024-06-01 10:55:27
-updated: 2024-06-02 12:53:38
+date: 2024-06-03T03:45:58.477Z
+updated: 2024-06-04T03:45:58.477Z
 tags: 
   - screen-recording
   - ai video

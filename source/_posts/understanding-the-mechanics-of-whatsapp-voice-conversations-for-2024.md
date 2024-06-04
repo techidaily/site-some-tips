@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Mechanics of WhatsApp Voice Conversations for 2024"
-date: 2024-06-01 16:13:17
-updated: 2024-06-02 12:35:21
+date: 2024-06-03T04:40:52.152Z
+updated: 2024-06-04T04:40:52.152Z
 tags: 
   - screen-recording
   - ai video

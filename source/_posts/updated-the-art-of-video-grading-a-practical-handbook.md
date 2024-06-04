@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Video Grading  A Practical Handbook\""
-date: 2024-05-30 10:14:17
-updated: 2024-06-01 12:59:39
+date: 2024-06-03T04:47:45.749Z
+updated: 2024-06-04T04:47:45.749Z
 tags: 
   - screen-recording
   - ai video

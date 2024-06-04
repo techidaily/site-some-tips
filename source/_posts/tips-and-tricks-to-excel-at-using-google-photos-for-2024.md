@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks to Excel at Using Google Photos for 2024"
-date: 2024-06-01 11:50:54
-updated: 2024-06-02 12:19:13
+date: 2024-06-03T04:31:47.657Z
+updated: 2024-06-04T04:31:47.657Z
 tags: 
   - screen-recording
   - ai video

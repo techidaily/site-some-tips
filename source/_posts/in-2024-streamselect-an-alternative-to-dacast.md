@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, StreamSelect  An Alternative to DaCast\""
-date: 2024-05-29 18:14:33
-updated: 2024-05-31 11:48:22
+date: 2024-06-03T03:51:08.444Z
+updated: 2024-06-04T03:51:08.444Z
 tags: 
   - screen-recording
   - ai video

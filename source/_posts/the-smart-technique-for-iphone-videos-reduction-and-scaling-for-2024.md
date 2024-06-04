@@ -1,7 +1,7 @@
 ---
 title: "The Smart Technique for iPhone Videos Reduction & Scaling for 2024"
-date: 2024-05-30 23:40:19
-updated: 2024-06-01 10:47:19
+date: 2024-06-03T04:33:55.458Z
+updated: 2024-06-04T04:33:55.458Z
 tags: 
   - screen-recording
   - ai video

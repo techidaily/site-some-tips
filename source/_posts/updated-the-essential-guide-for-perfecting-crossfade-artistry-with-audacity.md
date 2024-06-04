@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Guide for Perfecting Crossfade Artistry with Audacity"
-date: 2024-05-30 20:33:13
-updated: 2024-06-01 10:19:32
+date: 2024-06-03T04:28:12.067Z
+updated: 2024-06-04T04:28:12.067Z
 tags: 
   - screen-recording
   - ai video

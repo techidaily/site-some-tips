@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Color Harmony  Explore This Select List of 7 Techniques\""
-date: 2024-05-30 16:43:31
-updated: 2024-06-01 10:17:28
+date: 2024-06-03T04:10:45.535Z
+updated: 2024-06-04T04:10:45.535Z
 tags: 
   - screen-recording
   - ai video

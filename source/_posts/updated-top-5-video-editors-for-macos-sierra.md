@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 5 Video Editors for macOS Sierra"
-date: 2024-05-31 23:23:20
-updated: 2024-06-02 10:28:18
+date: 2024-06-03T04:02:45.873Z
+updated: 2024-06-04T04:02:45.873Z
 tags: 
   - screen-recording
   - ai video

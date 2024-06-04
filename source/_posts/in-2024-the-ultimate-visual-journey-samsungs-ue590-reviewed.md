@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Visual Journey - Samsung's UE590 Reviewed\""
-date: 2024-05-30 19:49:38
-updated: 2024-06-01 12:24:33
+date: 2024-06-03T04:38:29.737Z
+updated: 2024-06-04T04:38:29.737Z
 tags: 
   - screen-recording
   - ai video

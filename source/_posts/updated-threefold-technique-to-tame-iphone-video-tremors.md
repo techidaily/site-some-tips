@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Threefold Technique to Tame iPhone Video Tremors"
-date: 2024-05-29 17:10:22
-updated: 2024-06-01 10:21:51
+date: 2024-06-03T04:06:28.044Z
+updated: 2024-06-04T04:06:28.044Z
 tags: 
   - screen-recording
   - ai video

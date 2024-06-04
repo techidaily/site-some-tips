@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Magix Music Maker 2024 Review"
-date: 2024-05-30 11:41:15
-updated: 2024-06-01 10:33:42
+date: 2024-06-03T04:52:03.546Z
+updated: 2024-06-04T04:52:03.546Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultra-Fast Windows View for Pictures\""
-date: 2024-05-31 22:34:32
-updated: 2024-06-02 10:34:44
+date: 2024-06-03T04:43:10.568Z
+updated: 2024-06-04T04:43:10.568Z
 tags: 
   - screen-recording
   - ai video

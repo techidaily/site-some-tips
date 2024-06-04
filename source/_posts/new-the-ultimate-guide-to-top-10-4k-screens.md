@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to #Top 10 4K Screens"
-date: 2024-05-30 14:58:11
-updated: 2024-06-01 11:12:51
+date: 2024-06-03T04:16:53.992Z
+updated: 2024-06-04T04:16:53.992Z
 tags: 
   - screen-recording
   - ai video

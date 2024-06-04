@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Dynamics of GoPro's Burst Capture Capabilities\""
-date: 2024-05-29 20:52:47
-updated: 2024-06-01 10:33:53
+date: 2024-06-03T04:02:51.588Z
+updated: 2024-06-04T04:02:51.588Z
 tags: 
   - screen-recording
   - ai video

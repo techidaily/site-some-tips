@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Artisan's Path  Mastery of Background Removal Tools in Photoshop\""
-date: 2024-05-29 11:41:53
-updated: 2024-06-01 10:59:35
+date: 2024-06-03T04:48:31.770Z
+updated: 2024-06-04T04:48:31.770Z
 tags: 
   - screen-recording
   - ai video

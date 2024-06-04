@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Integrating B-Footage Into Main Shots\""
-date: 2024-05-31 13:46:46
-updated: 2024-06-01 12:46:22
+date: 2024-06-03T04:11:08.932Z
+updated: 2024-06-04T04:11:08.932Z
 tags: 
   - screen-recording
   - ai video

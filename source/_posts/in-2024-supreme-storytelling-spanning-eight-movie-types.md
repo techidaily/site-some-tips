@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Supreme Storytelling Spanning Eight Movie Types"
-date: 2024-05-30 11:52:56
-updated: 2024-05-31 10:29:58
+date: 2024-06-03T04:34:12.477Z
+updated: 2024-06-04T04:34:12.477Z
 tags: 
   - screen-recording
   - ai video

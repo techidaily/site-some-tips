@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Film  A Beginner's Guide to Essential Shots\""
-date: 2024-05-30 22:28:11
-updated: 2024-06-02 10:21:21
+date: 2024-06-03T04:40:31.903Z
+updated: 2024-06-04T04:40:31.903Z
 tags: 
   - screen-recording
   - ai video

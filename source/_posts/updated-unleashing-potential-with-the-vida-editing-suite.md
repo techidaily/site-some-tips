@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleashing Potential with the Vida Editing Suite"
-date: 2024-06-02 17:21:17
-updated: 2024-06-03 12:15:17
+date: 2024-06-03T04:31:25.009Z
+updated: 2024-06-04T04:31:25.009Z
 tags: 
   - screen-recording
   - ai video

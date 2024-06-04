@@ -1,7 +1,7 @@
 ---
 title: "[New] Synergizing Brands on Video Platforms"
-date: 2024-05-28 21:50:52
-updated: 2024-05-31 10:20:28
+date: 2024-06-03T04:28:35.028Z
+updated: 2024-06-04T04:28:35.028Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate List for Google Pixel Tunes\""
-date: 2024-05-29 19:44:28
-updated: 2024-06-01 11:29:19
+date: 2024-06-03T03:50:02.837Z
+updated: 2024-06-04T03:50:02.837Z
 tags: 
   - screen-recording
   - ai video

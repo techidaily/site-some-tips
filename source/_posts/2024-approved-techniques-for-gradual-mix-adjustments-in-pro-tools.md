@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Techniques for Gradual Mix Adjustments in Pro Tools\""
-date: 2024-05-28 21:44:28
-updated: 2024-05-31 12:42:16
+date: 2024-06-03T03:46:17.545Z
+updated: 2024-06-04T03:46:17.545Z
 tags: 
   - screen-recording
   - ai video

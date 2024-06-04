@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamlining Text Workflow in After Effects"
-date: 2024-05-28 19:34:19
-updated: 2024-05-31 12:46:55
+date: 2024-06-03T04:51:47.120Z
+updated: 2024-06-04T04:51:47.120Z
 tags: 
   - screen-recording
   - ai video

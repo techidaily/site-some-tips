@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Creative's Handbook  Obtaining Stock Visuals for Media\""
-date: 2024-05-31 21:10:49
-updated: 2024-06-01 10:52:30
+date: 2024-06-03T04:42:27.075Z
+updated: 2024-06-04T04:42:27.075Z
 tags: 
   - screen-recording
   - ai video

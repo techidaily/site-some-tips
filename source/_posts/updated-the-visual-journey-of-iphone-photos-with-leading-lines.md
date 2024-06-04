@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Visual Journey of iPhone Photos with Leading Lines"
-date: 2024-05-31 20:11:47
-updated: 2024-06-01 10:47:53
+date: 2024-06-03T03:59:35.025Z
+updated: 2024-06-04T03:59:35.025Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Highlight Reel of 2022 Skating Stars for 2024"
-date: 2024-05-30 18:59:43
-updated: 2024-06-02 11:53:54
+date: 2024-06-03T04:32:20.576Z
+updated: 2024-06-04T04:32:20.576Z
 tags: 
   - screen-recording
   - ai video

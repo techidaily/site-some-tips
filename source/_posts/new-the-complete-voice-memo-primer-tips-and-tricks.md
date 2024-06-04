@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Complete Voice Memo Primer  Tips & Tricks\""
-date: 2024-05-30 10:50:59
-updated: 2024-06-01 10:32:37
+date: 2024-06-03T04:27:28.394Z
+updated: 2024-06-04T04:27:28.394Z
 tags: 
   - screen-recording
   - ai video

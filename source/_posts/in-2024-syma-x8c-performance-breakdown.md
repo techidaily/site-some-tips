@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Syma X8C Performance Breakdown"
-date: 2024-05-30 21:54:24
-updated: 2024-05-31 11:37:17
+date: 2024-06-03T04:47:26.670Z
+updated: 2024-06-04T04:47:26.670Z
 tags: 
   - screen-recording
   - ai video

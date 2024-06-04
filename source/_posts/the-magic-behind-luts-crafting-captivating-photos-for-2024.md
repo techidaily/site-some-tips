@@ -1,7 +1,7 @@
 ---
 title: "\"The Magic Behind LUTs  Crafting Captivating Photos for 2024\""
-date: 2024-05-30 13:34:18
-updated: 2024-06-01 10:43:54
+date: 2024-06-03T03:57:16.694Z
+updated: 2024-06-04T03:57:16.694Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity"
-date: 2024-05-30 12:15:38
-updated: 2024-06-02 11:42:57
+date: 2024-06-03T03:43:19.562Z
+updated: 2024-06-04T03:43:19.562Z
 tags: 
   - screen-recording
   - ai video

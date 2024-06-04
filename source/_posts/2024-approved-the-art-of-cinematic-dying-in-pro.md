@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Cinematic Dying in Pro\""
-date: 2024-05-31 12:54:46
-updated: 2024-06-01 11:19:54
+date: 2024-06-03T04:24:03.846Z
+updated: 2024-06-04T04:24:03.846Z
 tags: 
   - screen-recording
   - ai video

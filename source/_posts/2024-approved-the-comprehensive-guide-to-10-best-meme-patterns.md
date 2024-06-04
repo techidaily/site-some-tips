@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Comprehensive Guide to #10 Best Meme Patterns\""
-date: 2024-05-29 15:48:32
-updated: 2024-06-01 10:38:11
+date: 2024-06-03T04:14:30.043Z
+updated: 2024-06-04T04:14:30.043Z
 tags: 
   - screen-recording
   - ai video

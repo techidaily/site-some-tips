@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling Image Quality  A Newbie's Comprehensible Guide for 2024\""
-date: 2024-05-31 14:55:30
-updated: 2024-06-03 12:51:43
+date: 2024-06-03T04:30:48.513Z
+updated: 2024-06-04T04:30:48.513Z
 tags: 
   - screen-recording
   - ai video

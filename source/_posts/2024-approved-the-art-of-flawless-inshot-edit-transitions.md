@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Flawless Inshot Edit Transitions\""
-date: 2024-05-29 19:38:11
-updated: 2024-06-01 11:48:37
+date: 2024-06-03T04:18:12.480Z
+updated: 2024-06-04T04:18:12.480Z
 tags: 
   - screen-recording
   - ai video

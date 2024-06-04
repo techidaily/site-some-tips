@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creativity with Mobile Melodies on iPhone\""
-date: 2024-05-31 20:14:23
-updated: 2024-06-03 12:11:14
+date: 2024-06-03T03:53:46.527Z
+updated: 2024-06-04T03:53:46.527Z
 tags: 
   - screen-recording
   - ai video

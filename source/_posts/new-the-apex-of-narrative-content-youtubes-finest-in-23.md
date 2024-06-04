@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Apex of Narrative Content  YouTube’s Finest in '23\""
-date: 2024-05-31 15:33:47
-updated: 2024-06-01 12:47:33
+date: 2024-06-03T04:13:41.339Z
+updated: 2024-06-04T04:13:41.339Z
 tags: 
   - screen-recording
   - ai video

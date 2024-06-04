@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlock Your Storytelling Potential"
-date: 2024-06-02 17:46:20
-updated: 2024-06-03 11:42:54
+date: 2024-06-03T04:21:51.091Z
+updated: 2024-06-04T04:21:51.091Z
 tags: 
   - screen-recording
   - ai video

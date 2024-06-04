@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 5 Cloud Voice Editors for Chrome OS  Transforming Your Tone and Pitch\""
-date: 2024-05-30 10:56:20
-updated: 2024-06-02 10:12:11
+date: 2024-06-03T04:49:36.750Z
+updated: 2024-06-04T04:49:36.750Z
 tags: 
   - screen-recording
   - ai video

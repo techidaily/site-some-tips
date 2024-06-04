@@ -1,7 +1,7 @@
 ---
 title: "\"Streaming Showdown  The Ultimate Guide for XSplit and OBS Fans for 2024\""
-date: 2024-05-30 18:37:59
-updated: 2024-05-31 10:51:37
+date: 2024-06-03T04:03:43.257Z
+updated: 2024-06-04T04:03:43.257Z
 tags: 
   - screen-recording
   - ai video

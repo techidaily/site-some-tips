@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleash Your Imagination  Review of the Garmin VIRB Ultra 30\""
-date: 2024-06-01 22:49:54
-updated: 2024-06-03 10:50:17
+date: 2024-06-03T04:32:58.765Z
+updated: 2024-06-04T04:32:58.765Z
 tags: 
   - screen-recording
   - ai video

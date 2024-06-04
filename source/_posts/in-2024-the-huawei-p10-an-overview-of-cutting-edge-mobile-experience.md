@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Huawei P10  An Overview of Cutting-Edge Mobile Experience\""
-date: 2024-05-29 10:41:48
-updated: 2024-06-01 11:20:56
+date: 2024-06-03T04:01:51.273Z
+updated: 2024-06-04T04:01:51.273Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Monetary Map of Podcasting for 2024"
-date: 2024-05-30 14:21:23
-updated: 2024-06-02 10:12:36
+date: 2024-06-03T04:21:44.723Z
+updated: 2024-06-04T04:21:44.723Z
 tags: 
   - screen-recording
   - ai video

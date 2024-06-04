@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Mac Videography Tools Unleashed in Sierra OS for 2024"
-date: 2024-06-01 11:45:36
-updated: 2024-06-02 11:36:33
+date: 2024-06-03T03:48:16.656Z
+updated: 2024-06-04T03:48:16.656Z
 tags: 
   - screen-recording
   - ai video

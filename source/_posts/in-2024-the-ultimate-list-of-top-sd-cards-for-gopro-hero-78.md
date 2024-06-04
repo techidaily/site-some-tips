@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate List of Top SD Cards for GoPro HERO 7/8"
-date: 2024-05-29 16:48:48
-updated: 2024-06-01 10:49:21
+date: 2024-06-03T04:13:01.833Z
+updated: 2024-06-04T04:13:01.833Z
 tags: 
   - screen-recording
   - ai video

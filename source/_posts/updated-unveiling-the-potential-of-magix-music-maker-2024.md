@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Potential of Magix Music Maker 2024"
-date: 2024-06-01 20:35:18
-updated: 2024-06-03 12:56:19
+date: 2024-06-03T04:07:32.566Z
+updated: 2024-06-04T04:07:32.566Z
 tags: 
   - screen-recording
   - ai video

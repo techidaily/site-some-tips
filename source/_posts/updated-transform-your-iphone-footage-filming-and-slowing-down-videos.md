@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Your iPhone Footage  Filming and Slowing Down Videos\""
-date: 2024-06-01 18:46:30
-updated: 2024-06-02 10:56:52
+date: 2024-06-03T04:01:13.217Z
+updated: 2024-06-04T04:01:13.217Z
 tags: 
   - screen-recording
   - ai video

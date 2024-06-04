@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Secrets of Cinematic Visuals on Windows 10"
-date: 2024-06-01 23:20:48
-updated: 2024-06-03 10:37:19
+date: 2024-06-03T04:33:45.888Z
+updated: 2024-06-04T04:33:45.888Z
 tags: 
   - screen-recording
   - ai video

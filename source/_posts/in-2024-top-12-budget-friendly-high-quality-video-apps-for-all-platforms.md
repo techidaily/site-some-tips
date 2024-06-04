@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 12 Budget-Friendly, High-Quality Video Apps for All Platforms\""
-date: 2024-05-30 13:48:38
-updated: 2024-06-02 12:53:28
+date: 2024-06-03T04:34:44.037Z
+updated: 2024-06-04T04:34:44.037Z
 tags: 
   - screen-recording
   - ai video

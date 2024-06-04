@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature for 2024"
-date: 2024-05-29 23:30:19
-updated: 2024-06-01 12:29:17
+date: 2024-06-03T04:51:58.639Z
+updated: 2024-06-04T04:51:58.639Z
 tags: 
   - screen-recording
   - ai video

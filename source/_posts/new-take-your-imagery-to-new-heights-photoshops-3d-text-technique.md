@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Take Your Imagery to New Heights  Photoshop’s 3D Text Technique\""
-date: 2024-05-29 21:54:39
-updated: 2024-05-31 12:18:53
+date: 2024-06-03T04:11:31.192Z
+updated: 2024-06-04T04:11:31.192Z
 tags: 
   - screen-recording
   - ai video

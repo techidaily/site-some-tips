@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleash the Power of Visuals with Top Free Slideshow Designs"
-date: 2024-05-30 14:13:58
-updated: 2024-06-02 12:41:40
+date: 2024-06-03T03:45:13.748Z
+updated: 2024-06-04T03:45:13.748Z
 tags: 
   - screen-recording
   - ai video

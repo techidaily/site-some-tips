@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery of Apple's New iOS Camera for 2024"
-date: 2024-05-31 17:41:13
-updated: 2024-06-03 12:34:19
+date: 2024-06-03T04:13:14.977Z
+updated: 2024-06-04T04:13:14.977Z
 tags: 
   - screen-recording
   - ai video

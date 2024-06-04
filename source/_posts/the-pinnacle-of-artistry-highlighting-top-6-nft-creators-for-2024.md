@@ -1,7 +1,7 @@
 ---
 title: "\"The Pinnacle of Artistry  Highlighting Top 6 NFT Creators for 2024\""
-date: 2024-05-30 21:44:29
-updated: 2024-06-01 12:58:45
+date: 2024-06-03T04:02:04.902Z
+updated: 2024-06-04T04:02:04.902Z
 tags: 
   - screen-recording
   - ai video

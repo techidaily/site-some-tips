@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Editing Game Changer  FCP's Best 10 Plugins\""
-date: 2024-05-29 19:14:46
-updated: 2024-06-01 12:19:48
+date: 2024-06-03T03:42:47.159Z
+updated: 2024-06-04T03:42:47.159Z
 tags: 
   - screen-recording
   - ai video

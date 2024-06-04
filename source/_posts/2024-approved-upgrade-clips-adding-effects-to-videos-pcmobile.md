@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Upgrade Clips  Adding Effects to Videos (PC/Mobile)\""
-date: 2024-05-31 22:27:43
-updated: 2024-06-03 12:52:59
+date: 2024-06-03T04:09:11.470Z
+updated: 2024-06-04T04:09:11.470Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Creative Potential  Advanced Zooming on Snapchat\""
-date: 2024-06-01 19:51:37
-updated: 2024-06-03 12:32:11
+date: 2024-06-03T04:00:50.726Z
+updated: 2024-06-04T04:00:50.726Z
 tags: 
   - screen-recording
   - ai video

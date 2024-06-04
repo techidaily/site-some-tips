@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Photos Using Adobe's Power\""
-date: 2024-05-30 12:47:21
-updated: 2024-06-02 12:54:30
+date: 2024-06-03T04:09:10.758Z
+updated: 2024-06-04T04:09:10.758Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate List of Xsplit's Equals"
-date: 2024-05-30 12:46:40
-updated: 2024-06-01 10:26:16
+date: 2024-06-03T04:28:13.476Z
+updated: 2024-06-04T04:28:13.476Z
 tags: 
   - screen-recording
   - ai video

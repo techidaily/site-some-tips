@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tailored macOS Tutorials for Editing SRT Files\""
-date: 2024-05-29 18:50:28
-updated: 2024-05-31 12:51:47
+date: 2024-06-03T04:36:11.270Z
+updated: 2024-06-04T04:36:11.270Z
 tags: 
   - screen-recording
   - ai video

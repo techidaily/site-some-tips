@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Video Editing with KineMaster Know-How & Premier Online Counterparts\""
-date: 2024-05-31 18:23:37
-updated: 2024-06-02 10:21:23
+date: 2024-06-03T04:07:14.024Z
+updated: 2024-06-04T04:07:14.024Z
 tags: 
   - screen-recording
   - ai video

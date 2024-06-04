@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use Green Screen for Streaming"
-date: 2024-06-02 11:21:25
-updated: 2024-06-03 11:30:27
+date: 2024-06-03T04:43:29.980Z
+updated: 2024-06-04T04:43:29.980Z
 tags: 
   - screen-recording
   - ai video

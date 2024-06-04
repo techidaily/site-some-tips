@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unfreezing Photo Booth Recordings  A Guide to Smoother Playback\""
-date: 2024-05-31 15:50:55
-updated: 2024-06-02 10:52:32
+date: 2024-06-03T04:01:49.823Z
+updated: 2024-06-04T04:01:49.823Z
 tags: 
   - screen-recording
   - ai video

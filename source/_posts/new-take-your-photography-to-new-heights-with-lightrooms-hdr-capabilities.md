@@ -1,7 +1,7 @@
 ---
 title: "[New] Take Your Photography to New Heights with Lightroom’s HDR Capabilities"
-date: 2024-05-29 17:22:40
-updated: 2024-05-31 10:21:45
+date: 2024-06-03T04:13:40.630Z
+updated: 2024-06-04T04:13:40.630Z
 tags: 
   - screen-recording
   - ai video

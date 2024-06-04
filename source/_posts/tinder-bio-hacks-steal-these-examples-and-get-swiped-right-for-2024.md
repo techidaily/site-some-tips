@@ -1,7 +1,7 @@
 ---
 title: "\"Tinder Bio Hacks  Steal These Examples & Get Swiped Right for 2024\""
-date: 2024-05-30 17:59:37
-updated: 2024-06-02 12:52:11
+date: 2024-06-03T04:00:02.533Z
+updated: 2024-06-04T04:00:02.533Z
 tags: 
   - screen-recording
   - ai video

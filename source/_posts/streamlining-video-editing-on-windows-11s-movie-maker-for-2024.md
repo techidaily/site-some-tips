@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Video Editing on Windows 11'S Movie Maker for 2024"
-date: 2024-05-28 12:16:23
-updated: 2024-05-31 11:24:18
+date: 2024-06-03T04:14:10.108Z
+updated: 2024-06-04T04:14:10.108Z
 tags: 
   - screen-recording
   - ai video

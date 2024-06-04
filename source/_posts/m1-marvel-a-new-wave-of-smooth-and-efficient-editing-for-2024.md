@@ -1,7 +1,7 @@
 ---
 title: "\"M1 Marvel  A New Wave of Smooth and Efficient Editing for 2024\""
-date: 2024-05-26 17:33:15
-updated: 2024-05-28 10:35:45
+date: 2024-06-03T04:45:25.114Z
+updated: 2024-06-04T04:45:25.114Z
 tags: 
   - screen-recording
   - ai video

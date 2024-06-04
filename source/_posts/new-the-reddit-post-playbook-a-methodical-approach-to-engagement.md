@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Reddit Post Playbook  A Methodical Approach to Engagement\""
-date: 2024-05-30 16:14:55
-updated: 2024-06-01 10:14:28
+date: 2024-06-03T03:46:04.143Z
+updated: 2024-06-04T03:46:04.143Z
 tags: 
   - screen-recording
   - ai video

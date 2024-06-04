@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate SRT Open/Edit Manual for Mac Users"
-date: 2024-06-01 18:48:17
-updated: 2024-06-02 10:45:17
+date: 2024-06-03T04:41:42.809Z
+updated: 2024-06-04T04:41:42.809Z
 tags: 
   - screen-recording
   - ai video

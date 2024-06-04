@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples"
-date: 2024-05-31 16:45:57
-updated: 2024-06-01 10:41:23
+date: 2024-06-03T03:55:47.200Z
+updated: 2024-06-04T03:55:47.200Z
 tags: 
   - screen-recording
   - ai video

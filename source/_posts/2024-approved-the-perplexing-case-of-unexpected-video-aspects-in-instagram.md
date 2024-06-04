@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Perplexing Case of Unexpected Video Aspects in Instagram\""
-date: 2024-05-29 14:19:54
-updated: 2024-06-01 12:34:34
+date: 2024-06-03T04:06:34.467Z
+updated: 2024-06-04T04:06:34.467Z
 tags: 
   - screen-recording
   - ai video

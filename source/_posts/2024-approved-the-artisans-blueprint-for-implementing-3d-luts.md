@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Blueprint for Implementing 3D LUTs\""
-date: 2024-05-29 13:36:17
-updated: 2024-06-01 10:41:54
+date: 2024-06-03T04:09:08.238Z
+updated: 2024-06-04T04:09:08.238Z
 tags: 
   - screen-recording
   - ai video

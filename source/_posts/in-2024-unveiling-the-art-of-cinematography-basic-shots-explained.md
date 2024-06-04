@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the Art of Cinematography  Basic Shots Explained\""
-date: 2024-06-02 18:30:21
-updated: 2024-06-03 10:48:33
+date: 2024-06-03T04:40:02.869Z
+updated: 2024-06-04T04:40:02.869Z
 tags: 
   - screen-recording
   - ai video

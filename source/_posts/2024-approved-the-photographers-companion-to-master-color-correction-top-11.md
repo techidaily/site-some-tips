@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Photographer's Companion to Master Color Correction (Top 11)\""
-date: 2024-05-29 23:18:43
-updated: 2024-06-01 12:20:26
+date: 2024-06-03T04:49:27.012Z
+updated: 2024-06-04T04:49:27.012Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Tailoring Humor  Personalize with KineMaster for 2024\""
-date: 2024-05-29 16:27:20
-updated: 2024-05-31 12:52:49
+date: 2024-06-03T04:42:51.459Z
+updated: 2024-06-04T04:42:51.459Z
 tags: 
   - screen-recording
   - ai video

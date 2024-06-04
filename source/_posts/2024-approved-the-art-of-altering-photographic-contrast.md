@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Altering Photographic Contrast\""
-date: 2024-05-30 22:50:45
-updated: 2024-06-01 12:44:24
+date: 2024-06-03T04:44:40.814Z
+updated: 2024-06-04T04:44:40.814Z
 tags: 
   - screen-recording
   - ai video

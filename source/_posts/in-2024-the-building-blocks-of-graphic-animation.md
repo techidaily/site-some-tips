@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Building Blocks of Graphic Animation"
-date: 2024-05-29 18:15:29
-updated: 2024-06-01 11:29:26
+date: 2024-06-03T04:41:04.191Z
+updated: 2024-06-04T04:41:04.191Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Solo Artist's Roadmap to Auditory Fame"
-date: 2024-05-31 17:29:53
-updated: 2024-06-01 11:38:57
+date: 2024-06-03T04:27:06.105Z
+updated: 2024-06-04T04:27:06.105Z
 tags: 
   - screen-recording
   - ai video

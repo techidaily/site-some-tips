@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Night's Reign (Black) VS The Dawn’s Duty (Silver)"
-date: 2024-05-31 14:15:43
-updated: 2024-06-01 10:21:21
+date: 2024-06-03T04:33:07.254Z
+updated: 2024-06-04T04:33:07.254Z
 tags: 
   - screen-recording
   - ai video

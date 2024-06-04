@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tips for a Pristine Image  Canva's Background Technique\""
-date: 2024-06-01 15:35:17
-updated: 2024-06-02 11:37:48
+date: 2024-06-03T04:35:51.685Z
+updated: 2024-06-04T04:35:51.685Z
 tags: 
   - screen-recording
   - ai video

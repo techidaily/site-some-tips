@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Hero5 User's Blueprint for Incredible Time-Lapse Videos\""
-date: 2024-05-30 22:38:20
-updated: 2024-06-01 11:15:53
+date: 2024-06-03T04:42:27.788Z
+updated: 2024-06-04T04:42:27.788Z
 tags: 
   - screen-recording
   - ai video

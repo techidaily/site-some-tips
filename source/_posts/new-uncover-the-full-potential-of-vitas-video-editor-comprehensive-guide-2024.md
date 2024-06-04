@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Uncover the Full Potential of Vita's Video Editor - Comprehensive Guide 2024\""
-date: 2024-06-01 22:42:32
-updated: 2024-06-02 12:51:27
+date: 2024-06-03T03:44:03.127Z
+updated: 2024-06-04T03:44:03.127Z
 tags: 
   - screen-recording
   - ai video

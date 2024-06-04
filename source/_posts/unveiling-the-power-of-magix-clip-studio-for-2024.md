@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Power of MAGIX Clip Studio for 2024"
-date: 2024-06-01 19:15:59
-updated: 2024-06-03 12:24:58
+date: 2024-06-03T04:28:09.953Z
+updated: 2024-06-04T04:28:09.953Z
 tags: 
   - screen-recording
   - ai video

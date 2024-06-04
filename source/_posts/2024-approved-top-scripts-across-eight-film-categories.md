@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Scripts Across Eight Film Categories\""
-date: 2024-05-31 10:11:35
-updated: 2024-06-02 12:18:44
+date: 2024-06-03T03:46:53.792Z
+updated: 2024-06-04T03:46:53.792Z
 tags: 
   - screen-recording
   - ai video

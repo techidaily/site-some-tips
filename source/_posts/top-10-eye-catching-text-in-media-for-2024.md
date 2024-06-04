@@ -1,7 +1,7 @@
 ---
 title: "\"Top 10 Eye-Catching Text in Media for 2024\""
-date: 2024-05-31 15:33:49
-updated: 2024-06-02 11:46:53
+date: 2024-06-03T04:52:27.925Z
+updated: 2024-06-04T04:52:27.925Z
 tags: 
   - screen-recording
   - ai video

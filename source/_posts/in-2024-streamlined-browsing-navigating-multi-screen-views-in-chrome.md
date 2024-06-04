@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlined Browsing  Navigating Multi-Screen Views in Chrome\""
-date: 2024-05-29 15:52:54
-updated: 2024-05-31 10:36:18
+date: 2024-06-03T04:37:52.555Z
+updated: 2024-06-04T04:37:52.555Z
 tags: 
   - screen-recording
   - ai video

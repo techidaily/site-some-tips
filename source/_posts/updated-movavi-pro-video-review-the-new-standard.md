@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Movavi Pro Video Review – The New Standard"
-date: 2024-05-27 12:54:24
-updated: 2024-05-29 11:51:52
+date: 2024-06-03T03:59:00.257Z
+updated: 2024-06-04T03:59:00.257Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vector Fundamentals Unpacked for Novices, Categories & Software\""
-date: 2024-06-01 20:45:54
-updated: 2024-06-03 12:13:56
+date: 2024-06-03T03:48:02.527Z
+updated: 2024-06-04T03:48:02.527Z
 tags: 
   - screen-recording
   - ai video

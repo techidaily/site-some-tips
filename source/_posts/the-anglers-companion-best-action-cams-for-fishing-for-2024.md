@@ -1,7 +1,7 @@
 ---
 title: "\"The Angler’s Companion  Best Action Cams for Fishing for 2024\""
-date: 2024-05-29 17:50:27
-updated: 2024-06-01 12:59:26
+date: 2024-06-03T04:47:04.204Z
+updated: 2024-06-04T04:47:04.204Z
 tags: 
   - screen-recording
   - ai video

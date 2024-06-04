@@ -1,7 +1,7 @@
 ---
 title: "[New] Synchronizing Sequential Images for Impactful Storytelling"
-date: 2024-05-29 18:11:11
-updated: 2024-05-31 12:26:40
+date: 2024-06-03T04:20:58.100Z
+updated: 2024-06-04T04:20:58.100Z
 tags: 
   - screen-recording
   - ai video

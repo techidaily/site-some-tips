@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate List of Best 4K Monitors"
-date: 2024-05-29 13:54:42
-updated: 2024-06-01 12:24:14
+date: 2024-06-03T04:22:21.053Z
+updated: 2024-06-04T04:22:21.053Z
 tags: 
   - screen-recording
   - ai video

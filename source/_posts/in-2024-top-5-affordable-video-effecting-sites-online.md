@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 5 Affordable Video Effecting Sites Online"
-date: 2024-05-31 22:45:59
-updated: 2024-06-02 11:59:20
+date: 2024-06-03T03:53:20.319Z
+updated: 2024-06-04T03:53:20.319Z
 tags: 
   - screen-recording
   - ai video

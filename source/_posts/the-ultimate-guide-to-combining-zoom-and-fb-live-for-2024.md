@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Combining ZOOM & FB Live for 2024"
-date: 2024-05-29 13:55:13
-updated: 2024-06-01 10:26:35
+date: 2024-06-03T04:36:26.137Z
+updated: 2024-06-04T04:36:26.137Z
 tags: 
   - screen-recording
   - ai video

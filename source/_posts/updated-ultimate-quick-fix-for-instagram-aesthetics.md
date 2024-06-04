@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Quick Fix for Instagram Aesthetics"
-date: 2024-05-31 13:26:32
-updated: 2024-06-02 12:25:15
+date: 2024-06-03T04:38:47.114Z
+updated: 2024-06-04T04:38:47.114Z
 tags: 
   - screen-recording
   - ai video

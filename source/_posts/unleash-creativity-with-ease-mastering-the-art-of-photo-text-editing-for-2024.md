@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Creativity with Ease  Mastering the Art of Photo Text Editing for 2024\""
-date: 2024-05-31 18:43:55
-updated: 2024-06-02 10:16:15
+date: 2024-06-03T04:37:34.886Z
+updated: 2024-06-04T04:37:34.886Z
 tags: 
   - screen-recording
   - ai video

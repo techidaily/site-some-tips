@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unbox the Latest TomTom Bandit Camera\""
-date: 2024-06-01 23:31:23
-updated: 2024-06-02 11:16:26
+date: 2024-06-03T04:32:04.231Z
+updated: 2024-06-04T04:32:04.231Z
 tags: 
   - screen-recording
   - ai video

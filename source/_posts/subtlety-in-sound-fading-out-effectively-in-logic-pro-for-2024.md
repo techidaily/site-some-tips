@@ -1,7 +1,7 @@
 ---
 title: "\"Subtlety In Sound  Fading Out Effectively in Logic Pro for 2024\""
-date: 2024-05-30 20:34:58
-updated: 2024-05-31 10:55:18
+date: 2024-06-03T04:00:59.316Z
+updated: 2024-06-04T04:00:59.316Z
 tags: 
   - screen-recording
   - ai video

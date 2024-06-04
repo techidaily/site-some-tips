@@ -1,7 +1,7 @@
 ---
 title: "\"Streamline Your Sound  Key Audio Interfaces for Podcasters for 2024\""
-date: 2024-05-29 12:18:49
-updated: 2024-05-31 10:34:47
+date: 2024-06-03T04:09:27.857Z
+updated: 2024-06-04T04:09:27.857Z
 tags: 
   - screen-recording
   - ai video

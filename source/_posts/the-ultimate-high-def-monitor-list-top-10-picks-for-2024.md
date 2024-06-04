@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate High-Def Monitor List  Top 10 Picks for 2024\""
-date: 2024-05-31 22:15:55
-updated: 2024-06-01 12:14:30
+date: 2024-06-03T04:30:14.834Z
+updated: 2024-06-04T04:30:14.834Z
 tags: 
   - screen-recording
   - ai video

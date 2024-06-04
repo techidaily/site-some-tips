@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Secrets of Simultaneous iPhone Shots & Videos"
-date: 2024-05-31 20:29:50
-updated: 2024-06-03 12:30:33
+date: 2024-06-03T04:51:33.178Z
+updated: 2024-06-04T04:51:33.178Z
 tags: 
   - screen-recording
   - ai video

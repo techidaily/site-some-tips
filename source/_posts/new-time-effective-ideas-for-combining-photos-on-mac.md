@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Time-Effective Ideas for Combining Photos on Mac\""
-date: 2024-05-31 13:57:10
-updated: 2024-06-01 12:14:16
+date: 2024-06-03T04:14:47.467Z
+updated: 2024-06-04T04:14:47.467Z
 tags: 
   - screen-recording
   - ai video

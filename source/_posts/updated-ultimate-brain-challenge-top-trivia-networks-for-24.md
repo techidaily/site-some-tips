@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Brain Challenge - Top Trivia Networks for '24\""
-date: 2024-06-01 14:11:25
-updated: 2024-06-02 11:51:34
+date: 2024-06-03T04:51:31.782Z
+updated: 2024-06-04T04:51:31.782Z
 tags: 
   - screen-recording
   - ai video

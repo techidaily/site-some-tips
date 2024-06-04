@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to LG's 27in Widescreen 4K Display\""
-date: 2024-05-29 17:26:31
-updated: 2024-06-01 10:36:17
+date: 2024-06-03T03:47:57.558Z
+updated: 2024-06-04T03:47:57.558Z
 tags: 
   - screen-recording
   - ai video

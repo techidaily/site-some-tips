@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Tutorial  Infusing Motion Blur Into Faces Using Picsart\""
-date: 2024-05-31 22:12:56
-updated: 2024-06-01 12:14:35
+date: 2024-06-03T04:11:17.768Z
+updated: 2024-06-04T04:11:17.768Z
 tags: 
   - screen-recording
   - ai video

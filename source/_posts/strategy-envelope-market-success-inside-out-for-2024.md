@@ -1,7 +1,7 @@
 ---
 title: "\"Strategy Envelope  Market Success Inside Out for 2024\""
-date: 2024-05-28 14:50:19
-updated: 2024-05-31 11:18:27
+date: 2024-06-03T04:48:44.535Z
+updated: 2024-06-04T04:48:44.535Z
 tags: 
   - screen-recording
   - ai video

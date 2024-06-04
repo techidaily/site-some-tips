@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Video Files to MP3  A Focused Guide for Pinterest Users\""
-date: 2024-05-30 20:50:41
-updated: 2024-06-02 12:54:40
+date: 2024-06-03T04:48:02.396Z
+updated: 2024-06-04T04:48:02.396Z
 tags: 
   - screen-recording
   - ai video

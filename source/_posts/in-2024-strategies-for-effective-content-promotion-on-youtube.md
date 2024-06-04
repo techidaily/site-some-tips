@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategies for Effective Content Promotion on YouTube"
-date: 2024-05-30 23:31:53
-updated: 2024-05-31 12:11:58
+date: 2024-06-03T04:16:44.733Z
+updated: 2024-06-04T04:16:44.733Z
 tags: 
   - screen-recording
   - ai video

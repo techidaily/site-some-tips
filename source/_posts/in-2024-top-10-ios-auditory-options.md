@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 iOS Auditory Options"
-date: 2024-05-31 18:31:29
-updated: 2024-06-02 12:17:48
+date: 2024-06-03T03:53:19.606Z
+updated: 2024-06-04T03:53:19.606Z
 tags: 
   - screen-recording
   - ai video

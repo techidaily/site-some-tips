@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Future of MP4s  Seamless SRT Incorporation Techniques\""
-date: 2024-05-29 17:43:11
-updated: 2024-06-01 10:53:16
+date: 2024-06-03T04:30:18.401Z
+updated: 2024-06-04T04:30:18.401Z
 tags: 
   - screen-recording
   - ai video

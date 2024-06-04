@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend"
-date: 2024-05-29 13:31:36
-updated: 2024-06-01 11:58:30
+date: 2024-06-03T04:01:42.396Z
+updated: 2024-06-04T04:01:42.396Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Samsung's Picture Editor Features & Drawbacks for 2024"
-date: 2024-06-02 13:54:10
-updated: 2024-06-03 11:54:22
+date: 2024-06-03T04:44:29.858Z
+updated: 2024-06-04T04:44:29.858Z
 tags: 
   - screen-recording
   - ai video

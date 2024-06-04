@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 6 Tools for Saving LinkedIn Videos Effortlessly\""
-date: 2024-06-01 16:11:46
-updated: 2024-06-02 11:41:48
+date: 2024-06-03T04:29:56.428Z
+updated: 2024-06-04T04:29:56.428Z
 tags: 
   - screen-recording
   - ai video

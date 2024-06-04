@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Windows 11 Audio Record Process"
-date: 2024-05-31 23:18:22
-updated: 2024-06-01 11:31:37
+date: 2024-06-03T04:13:58.725Z
+updated: 2024-06-04T04:13:58.725Z
 tags: 
   - screen-recording
   - ai video

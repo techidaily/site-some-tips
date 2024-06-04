@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Future On Your Screen  Best Performing 8K TVs Ranked\""
-date: 2024-05-31 14:17:59
-updated: 2024-06-01 11:56:16
+date: 2024-06-03T03:59:03.115Z
+updated: 2024-06-04T03:59:03.115Z
 tags: 
   - screen-recording
   - ai video

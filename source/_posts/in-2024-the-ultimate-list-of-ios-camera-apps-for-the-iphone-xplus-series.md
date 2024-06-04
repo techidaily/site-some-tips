@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate List of iOS Camera Apps for the iPhone X+ Series"
-date: 2024-05-30 22:32:32
-updated: 2024-06-01 12:33:54
+date: 2024-06-03T04:48:34.590Z
+updated: 2024-06-04T04:48:34.590Z
 tags: 
   - screen-recording
   - ai video

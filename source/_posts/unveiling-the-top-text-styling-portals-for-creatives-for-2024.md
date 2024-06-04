@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Top Text Styling Portals for Creatives for 2024"
-date: 2024-06-01 22:37:35
-updated: 2024-06-03 11:47:10
+date: 2024-06-03T04:44:30.562Z
+updated: 2024-06-04T04:44:30.562Z
 tags: 
   - screen-recording
   - ai video

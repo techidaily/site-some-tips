@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Battle of AV1 and VP9  Outcomes Revealed\""
-date: 2024-05-30 13:36:44
-updated: 2024-06-01 10:22:33
+date: 2024-06-03T04:13:42.052Z
+updated: 2024-06-04T04:13:42.052Z
 tags: 
   - screen-recording
   - ai video

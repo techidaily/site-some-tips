@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Creativity with GoPro's Time-Lapse Technology for 2024\""
-date: 2024-05-31 14:26:42
-updated: 2024-06-02 12:40:44
+date: 2024-06-03T04:21:08.056Z
+updated: 2024-06-04T04:21:08.056Z
 tags: 
   - screen-recording
   - ai video

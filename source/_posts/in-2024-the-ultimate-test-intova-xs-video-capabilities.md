@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Test  Intova X's Video Capabilities\""
-date: 2024-05-31 18:32:25
-updated: 2024-06-01 12:34:39
+date: 2024-06-03T04:40:01.443Z
+updated: 2024-06-04T04:40:01.443Z
 tags: 
   - screen-recording
   - ai video

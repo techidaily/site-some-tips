@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding LUTs to Amplify Your Photo Quality"
-date: 2024-06-01 19:38:24
-updated: 2024-06-02 11:30:31
+date: 2024-06-03T04:26:07.594Z
+updated: 2024-06-04T04:26:07.594Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature"
-date: 2024-05-30 11:32:57
-updated: 2024-05-31 11:37:38
+date: 2024-06-03T03:53:53.651Z
+updated: 2024-06-04T03:53:53.651Z
 tags: 
   - screen-recording
   - ai video

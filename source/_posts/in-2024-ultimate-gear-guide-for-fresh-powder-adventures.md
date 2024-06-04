@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Gear Guide for Fresh Powder Adventures"
-date: 2024-05-30 12:37:28
-updated: 2024-06-02 12:23:35
+date: 2024-06-03T04:07:44.706Z
+updated: 2024-06-04T04:07:44.706Z
 tags: 
   - screen-recording
   - ai video

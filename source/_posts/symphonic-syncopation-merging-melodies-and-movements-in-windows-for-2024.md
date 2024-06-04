@@ -1,7 +1,7 @@
 ---
 title: "\"Symphonic Syncopation  Merging Melodies and Movements in Windows for 2024\""
-date: 2024-05-28 12:54:44
-updated: 2024-05-31 11:16:50
+date: 2024-06-03T04:37:31.325Z
+updated: 2024-06-04T04:37:31.325Z
 tags: 
   - screen-recording
   - ai video

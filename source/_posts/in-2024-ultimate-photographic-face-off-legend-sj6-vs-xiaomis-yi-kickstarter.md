@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Photographic Face-Off  Legend SJ6 Vs. Xiaomi's Yi Kickstarter\""
-date: 2024-05-31 23:16:47
-updated: 2024-06-02 10:53:40
+date: 2024-06-03T04:04:36.841Z
+updated: 2024-06-04T04:04:36.841Z
 tags: 
   - screen-recording
   - ai video

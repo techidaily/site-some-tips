@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleash the Power of Words  How to Enchant Tinder Users with a Bio\""
-date: 2024-05-31 18:58:11
-updated: 2024-06-02 10:32:24
+date: 2024-06-03T03:43:56.023Z
+updated: 2024-06-04T03:43:56.023Z
 tags: 
   - screen-recording
   - ai video

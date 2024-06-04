@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior AI Photo Cutting Master"
-date: 2024-05-29 16:58:18
-updated: 2024-05-31 11:15:14
+date: 2024-06-03T04:52:18.169Z
+updated: 2024-06-04T04:52:18.169Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Picture Quality TVs – Best 10 in 4K for 2024"
-date: 2024-05-31 17:30:35
-updated: 2024-06-02 12:37:29
+date: 2024-06-03T04:27:03.268Z
+updated: 2024-06-04T04:27:03.268Z
 tags: 
   - screen-recording
   - ai video

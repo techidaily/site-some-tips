@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Future of Editing with Vita - A Complete Review\""
-date: 2024-05-31 21:31:11
-updated: 2024-06-01 11:20:42
+date: 2024-06-03T03:45:54.945Z
+updated: 2024-06-04T03:45:54.945Z
 tags: 
   - screen-recording
   - ai video

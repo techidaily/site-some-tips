@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 8 Ultra-Sharp 5K Display Choices\""
-date: 2024-05-31 18:29:23
-updated: 2024-06-02 10:30:51
+date: 2024-06-03T04:37:22.135Z
+updated: 2024-06-04T04:37:22.135Z
 tags: 
   - screen-recording
   - ai video

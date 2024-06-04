@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Camera Duel  SJ6 Against Xiaomi's Yi Visionary\""
-date: 2024-05-31 18:22:15
-updated: 2024-06-01 12:35:20
+date: 2024-06-03T04:04:28.985Z
+updated: 2024-06-04T04:04:28.985Z
 tags: 
   - screen-recording
   - ai video

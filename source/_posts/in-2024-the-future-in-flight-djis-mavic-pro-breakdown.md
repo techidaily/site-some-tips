@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Future in Flight  DJI's Mavic Pro Breakdown\""
-date: 2024-05-29 12:33:31
-updated: 2024-06-01 10:14:17
+date: 2024-06-03T04:30:03.493Z
+updated: 2024-06-04T04:30:03.493Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Trends in Remote Control Drones  Syma X8C\""
-date: 2024-05-30 14:17:18
-updated: 2024-06-02 10:30:42
+date: 2024-06-03T04:25:39.588Z
+updated: 2024-06-04T04:25:39.588Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Summary of GoPro Hero5 Action Video"
-date: 2024-05-30 14:24:11
-updated: 2024-05-31 12:10:27
+date: 2024-06-03T04:16:11.486Z
+updated: 2024-06-04T04:16:11.486Z
 tags: 
   - screen-recording
   - ai video

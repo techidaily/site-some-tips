@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Photoshop's Image Curve Secrets for 2024"
-date: 2024-06-02 14:15:54
-updated: 2024-06-03 10:51:27
+date: 2024-06-03T04:27:38.337Z
+updated: 2024-06-04T04:27:38.337Z
 tags: 
   - screen-recording
   - ai video

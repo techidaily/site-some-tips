@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Photographer's Guide to Warping Effects"
-date: 2024-05-30 15:44:15
-updated: 2024-06-01 10:52:44
+date: 2024-06-03T04:48:33.180Z
+updated: 2024-06-04T04:48:33.180Z
 tags: 
   - screen-recording
   - ai video

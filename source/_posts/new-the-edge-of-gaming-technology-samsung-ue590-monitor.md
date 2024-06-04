@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Edge of Gaming Technology  Samsung UE590 Monitor\""
-date: 2024-05-29 10:53:44
-updated: 2024-06-01 10:48:35
+date: 2024-06-03T03:43:22.385Z
+updated: 2024-06-04T03:43:22.385Z
 tags: 
   - screen-recording
   - ai video

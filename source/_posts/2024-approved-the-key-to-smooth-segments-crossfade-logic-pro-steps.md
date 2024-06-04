@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Key to Smooth Segments  Crossfade Logic Pro Steps\""
-date: 2024-05-29 17:57:39
-updated: 2024-06-01 11:52:53
+date: 2024-06-03T04:43:07.732Z
+updated: 2024-06-04T04:43:07.732Z
 tags: 
   - screen-recording
   - ai video

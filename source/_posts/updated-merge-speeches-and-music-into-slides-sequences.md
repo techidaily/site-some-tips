@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Merge Speeches and Music Into Slides Sequences"
-date: 2024-05-26 23:18:16
-updated: 2024-05-28 11:14:20
+date: 2024-06-03T04:10:35.581Z
+updated: 2024-06-04T04:10:35.581Z
 tags: 
   - screen-recording
   - ai video

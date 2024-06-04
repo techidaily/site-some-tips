@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Timing Your Podcast Release Effectively"
-date: 2024-05-31 17:46:24
-updated: 2024-06-02 12:21:18
+date: 2024-06-03T04:35:15.558Z
+updated: 2024-06-04T04:35:15.558Z
 tags: 
   - screen-recording
   - ai video

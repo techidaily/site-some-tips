@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The How-To for Finding Freely Available Pictorial Frames\""
-date: 2024-05-31 15:14:36
-updated: 2024-06-01 12:59:44
+date: 2024-06-03T04:03:18.284Z
+updated: 2024-06-04T04:03:18.284Z
 tags: 
   - screen-recording
   - ai video

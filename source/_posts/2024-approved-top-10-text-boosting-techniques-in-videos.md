@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Text Boosting Techniques in Videos\""
-date: 2024-05-30 13:51:13
-updated: 2024-06-02 10:12:16
+date: 2024-06-03T04:35:40.341Z
+updated: 2024-06-04T04:35:40.341Z
 tags: 
   - screen-recording
   - ai video

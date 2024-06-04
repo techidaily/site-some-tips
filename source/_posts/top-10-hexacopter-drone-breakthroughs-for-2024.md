@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Hexacopter Drone Breakthroughs for 2024"
-date: 2024-05-30 19:28:38
-updated: 2024-06-02 11:26:46
+date: 2024-06-03T04:33:27.459Z
+updated: 2024-06-04T04:33:27.459Z
 tags: 
   - screen-recording
   - ai video

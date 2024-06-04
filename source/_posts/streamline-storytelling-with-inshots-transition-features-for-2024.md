@@ -1,7 +1,7 @@
 ---
 title: "Streamline Storytelling with Inshot's Transition Features for 2024"
-date: 2024-05-29 17:32:39
-updated: 2024-05-31 12:50:29
+date: 2024-06-03T03:45:01.458Z
+updated: 2024-06-04T03:45:01.458Z
 tags: 
   - screen-recording
   - ai video

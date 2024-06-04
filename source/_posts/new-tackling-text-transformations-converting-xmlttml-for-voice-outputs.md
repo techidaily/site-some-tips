@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tackling Text Transformations  Converting XML/TTML for Voice Outputs\""
-date: 2024-05-28 19:51:53
-updated: 2024-05-31 10:49:42
+date: 2024-06-03T03:48:40.294Z
+updated: 2024-06-04T03:48:40.294Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide  Fine-Tuning Snapchat Video Velocity\""
-date: 2024-05-30 11:58:25
-updated: 2024-06-01 10:20:38
+date: 2024-06-03T03:51:30.600Z
+updated: 2024-06-04T03:51:30.600Z
 tags: 
   - screen-recording
   - ai video

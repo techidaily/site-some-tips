@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Complexities of Music Licensing on Instagram"
-date: 2024-05-31 12:32:49
-updated: 2024-06-03 12:46:58
+date: 2024-06-03T04:07:45.412Z
+updated: 2024-06-04T04:07:45.412Z
 tags: 
   - screen-recording
   - ai video

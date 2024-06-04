@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling 6 Premium Background Erasers for Photo Professionals"
-date: 2024-06-02 18:32:46
-updated: 2024-06-03 12:40:16
+date: 2024-06-03T03:54:14.404Z
+updated: 2024-06-04T03:54:14.404Z
 tags: 
   - screen-recording
   - ai video

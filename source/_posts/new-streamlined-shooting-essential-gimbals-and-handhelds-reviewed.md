@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlined Shooting  Essential Gimbals and Handhelds Reviewed\""
-date: 2024-05-28 18:20:20
-updated: 2024-05-31 11:13:19
+date: 2024-06-03T04:22:01.991Z
+updated: 2024-06-04T04:22:01.991Z
 tags: 
   - screen-recording
   - ai video

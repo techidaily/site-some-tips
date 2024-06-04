@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Your Sound Potential  A Modern Look at Pazera's Techniques\""
-date: 2024-05-31 18:31:58
-updated: 2024-06-03 12:10:59
+date: 2024-06-03T04:33:18.241Z
+updated: 2024-06-04T04:33:18.241Z
 tags: 
   - screen-recording
   - ai video

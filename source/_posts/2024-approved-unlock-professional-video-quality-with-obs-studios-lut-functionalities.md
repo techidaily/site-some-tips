@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Professional Video Quality with OBS Studio's LUT Functionalities\""
-date: 2024-06-01 19:36:37
-updated: 2024-06-03 10:31:52
+date: 2024-06-03T03:53:14.604Z
+updated: 2024-06-04T03:53:14.604Z
 tags: 
   - screen-recording
   - ai video

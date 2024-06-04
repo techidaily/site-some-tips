@@ -1,7 +1,7 @@
 ---
 title: "\"Unmatched Gaming Laptops - Top 4K Picks Reviewed for 2024\""
-date: 2024-06-01 11:19:45
-updated: 2024-06-03 12:35:32
+date: 2024-06-03T04:37:35.603Z
+updated: 2024-06-04T04:37:35.603Z
 tags: 
   - screen-recording
   - ai video

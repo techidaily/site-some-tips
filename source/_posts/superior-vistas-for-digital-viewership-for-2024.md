@@ -1,7 +1,7 @@
 ---
 title: "Superior Vistas for Digital Viewership for 2024"
-date: 2024-05-29 20:46:47
-updated: 2024-05-31 12:51:36
+date: 2024-06-03T04:48:45.238Z
+updated: 2024-06-04T04:48:45.238Z
 tags: 
   - screen-recording
   - ai video

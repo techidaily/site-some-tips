@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 10 High-Res Cameras for Capturing Music Videos (4K HD, Future)\""
-date: 2024-05-31 23:28:48
-updated: 2024-06-02 10:31:18
+date: 2024-06-03T04:36:37.200Z
+updated: 2024-06-04T04:36:37.200Z
 tags: 
   - screen-recording
   - ai video

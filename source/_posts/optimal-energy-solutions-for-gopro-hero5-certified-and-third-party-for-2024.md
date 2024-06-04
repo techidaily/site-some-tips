@@ -1,7 +1,7 @@
 ---
 title: "\"Optimal Energy Solutions for GoPro Hero5  Certified & Third-Party for 2024\""
-date: 2024-05-27 10:25:35
-updated: 2024-05-29 12:42:51
+date: 2024-06-03T04:31:11.256Z
+updated: 2024-06-04T04:31:11.256Z
 tags: 
   - screen-recording
   - ai video

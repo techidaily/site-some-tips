@@ -1,7 +1,7 @@
 ---
 title: "[New] TikTok Linking Made Simple and Irreversible"
-date: 2024-05-30 23:32:27
-updated: 2024-06-01 10:56:47
+date: 2024-06-03T04:04:41.090Z
+updated: 2024-06-04T04:04:41.090Z
 tags: 
   - screen-recording
   - ai video

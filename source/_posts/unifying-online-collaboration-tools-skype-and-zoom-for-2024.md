@@ -1,7 +1,7 @@
 ---
 title: "\"Unifying Online Collaboration Tools  Skype & Zoom for 2024\""
-date: 2024-05-31 17:33:24
-updated: 2024-06-02 10:24:49
+date: 2024-06-03T04:04:15.811Z
+updated: 2024-06-04T04:04:15.811Z
 tags: 
   - screen-recording
   - ai video

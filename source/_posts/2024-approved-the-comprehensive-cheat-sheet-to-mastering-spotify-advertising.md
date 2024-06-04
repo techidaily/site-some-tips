@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Comprehensive Cheat Sheet to Mastering Spotify Advertising\""
-date: 2024-05-30 17:54:15
-updated: 2024-06-01 12:40:50
+date: 2024-06-03T04:21:53.210Z
+updated: 2024-06-04T04:21:53.210Z
 tags: 
   - screen-recording
   - ai video

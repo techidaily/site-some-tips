@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding the Basics of Motion Design\""
-date: 2024-05-31 22:53:50
-updated: 2024-06-02 11:24:43
+date: 2024-06-03T04:17:14.283Z
+updated: 2024-06-04T04:17:14.283Z
 tags: 
   - screen-recording
   - ai video

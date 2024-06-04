@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tailored Visual Representation  Free Logo Base for Personal Touches\""
-date: 2024-05-30 20:53:42
-updated: 2024-05-31 11:23:11
+date: 2024-06-03T04:48:51.624Z
+updated: 2024-06-04T04:48:51.624Z
 tags: 
   - screen-recording
   - ai video

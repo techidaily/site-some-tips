@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Chrome's Picture In Picture Feature"
-date: 2024-05-31 11:58:56
-updated: 2024-06-01 10:43:48
+date: 2024-06-03T03:44:24.152Z
+updated: 2024-06-04T03:44:24.152Z
 tags: 
   - screen-recording
   - ai video

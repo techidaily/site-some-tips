@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Superfast Windows Images Scaner"
-date: 2024-05-29 19:35:34
-updated: 2024-05-31 11:33:41
+date: 2024-06-03T04:14:54.592Z
+updated: 2024-06-04T04:14:54.592Z
 tags: 
   - screen-recording
   - ai video

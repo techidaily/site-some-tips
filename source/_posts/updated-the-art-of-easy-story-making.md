@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Easy Story Making"
-date: 2024-05-29 20:18:25
-updated: 2024-06-01 11:47:14
+date: 2024-06-03T04:16:33.327Z
+updated: 2024-06-04T04:16:33.327Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Using SRT Audio on Windows & macOS Devices\""
-date: 2024-06-02 15:44:35
-updated: 2024-06-03 10:31:55
+date: 2024-06-03T04:44:45.070Z
+updated: 2024-06-04T04:44:45.070Z
 tags: 
   - screen-recording
   - ai video

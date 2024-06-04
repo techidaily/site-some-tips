@@ -1,7 +1,7 @@
 ---
 title: "\"Top DSLRs for Hand-Drawn Animators for 2024\""
-date: 2024-05-30 22:31:46
-updated: 2024-06-02 10:54:27
+date: 2024-06-03T04:02:40.189Z
+updated: 2024-06-04T04:02:40.189Z
 tags: 
   - screen-recording
   - ai video

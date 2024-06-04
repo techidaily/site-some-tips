@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultra HD LG 27UHD68  4K FS Display & Smooth Sync Test\""
-date: 2024-05-30 13:27:37
-updated: 2024-06-02 11:41:15
+date: 2024-06-03T04:01:47.692Z
+updated: 2024-06-04T04:01:47.692Z
 tags: 
   - screen-recording
   - ai video

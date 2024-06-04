@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Creating Flawless Passport Photos for Free for 2024"
-date: 2024-05-31 15:42:24
-updated: 2024-06-01 12:17:14
+date: 2024-06-03T04:14:15.086Z
+updated: 2024-06-04T04:14:15.086Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Filmmaker's Ally  Expert Advice for Video Creation in Windows 10\""
-date: 2024-05-30 16:59:59
-updated: 2024-06-01 10:58:15
+date: 2024-06-03T04:38:28.317Z
+updated: 2024-06-04T04:38:28.317Z
 tags: 
   - screen-recording
   - ai video

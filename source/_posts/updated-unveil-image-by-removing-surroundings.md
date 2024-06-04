@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveil Image by Removing Surroundings"
-date: 2024-06-02 22:51:53
-updated: 2024-06-03 12:16:16
+date: 2024-06-03T03:52:37.652Z
+updated: 2024-06-04T03:52:37.652Z
 tags: 
   - screen-recording
   - ai video

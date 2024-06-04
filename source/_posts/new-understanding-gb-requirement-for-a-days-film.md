@@ -1,7 +1,7 @@
 ---
 title: "[New] Understanding GB Requirement for a Day's Film"
-date: 2024-05-31 21:14:14
-updated: 2024-06-02 10:42:13
+date: 2024-06-03T04:17:29.989Z
+updated: 2024-06-04T04:17:29.989Z
 tags: 
   - screen-recording
   - ai video

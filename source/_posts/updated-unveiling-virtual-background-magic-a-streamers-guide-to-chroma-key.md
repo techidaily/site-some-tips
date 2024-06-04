@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling Virtual Background Magic  A Streamer's Guide to Chroma Key\""
-date: 2024-05-31 11:26:50
-updated: 2024-06-03 12:46:16
+date: 2024-06-03T04:44:40.102Z
+updated: 2024-06-04T04:44:40.102Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Screenplay Central - User Feedback Summary for 2024\""
-date: 2024-05-29 22:42:46
-updated: 2024-05-30 10:42:21
+date: 2024-06-03T04:11:34.027Z
+updated: 2024-06-04T04:11:34.027Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Quality Compatible Gimbals for Smartphones/DSLR"
-date: 2024-06-01 17:48:44
-updated: 2024-06-02 12:54:46
+date: 2024-06-03T04:41:58.025Z
+updated: 2024-06-04T04:41:58.025Z
 tags: 
   - screen-recording
   - ai video

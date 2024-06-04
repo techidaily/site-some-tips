@@ -1,7 +1,7 @@
 ---
 title: "Quintessential AE Text Styles for Emphasis for 2024"
-date: 2024-05-29 13:59:24
-updated: 2024-05-30 10:13:48
+date: 2024-06-03T04:41:15.192Z
+updated: 2024-06-04T04:41:15.192Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Guide to 7 Superior Video Players on Mac"
-date: 2024-05-31 14:56:17
-updated: 2024-06-02 10:32:54
+date: 2024-06-03T04:11:44.040Z
+updated: 2024-06-04T04:11:44.040Z
 tags: 
   - screen-recording
   - ai video

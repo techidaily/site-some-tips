@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tranquil Tracks  Easy Volume Diminution via Garageband\""
-date: 2024-05-30 22:25:43
-updated: 2024-06-02 11:57:54
+date: 2024-06-03T04:19:21.625Z
+updated: 2024-06-04T04:19:21.625Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Role of Authenticity in Client-Generated Marketing\""
-date: 2024-05-29 23:36:11
-updated: 2024-06-01 11:41:31
+date: 2024-06-03T04:05:34.446Z
+updated: 2024-06-04T04:05:34.446Z
 tags: 
   - screen-recording
   - ai video

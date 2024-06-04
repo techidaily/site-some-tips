@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Meme Playbook  No. 10 Essentials\""
-date: 2024-05-30 10:32:54
-updated: 2024-06-01 10:45:29
+date: 2024-06-03T04:11:55.822Z
+updated: 2024-06-04T04:11:55.822Z
 tags: 
   - screen-recording
   - ai video

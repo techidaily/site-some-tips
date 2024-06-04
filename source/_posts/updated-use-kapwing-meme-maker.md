@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Use Kapwing Meme Maker"
-date: 2024-06-01 20:13:49
-updated: 2024-06-03 10:13:57
+date: 2024-06-03T04:31:58.592Z
+updated: 2024-06-04T04:31:58.592Z
 tags: 
   - screen-recording
   - ai video

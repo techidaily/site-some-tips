@@ -1,7 +1,7 @@
 ---
 title: "Top Eight Destinations for 3D Typography for 2024"
-date: 2024-05-30 13:15:25
-updated: 2024-06-02 12:59:49
+date: 2024-06-03T04:49:51.206Z
+updated: 2024-06-04T04:49:51.206Z
 tags: 
   - screen-recording
   - ai video

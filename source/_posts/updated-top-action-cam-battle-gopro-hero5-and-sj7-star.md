@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Action Cam Battle  GoPro Hero5 & SJ7 Star\""
-date: 2024-05-31 22:20:20
-updated: 2024-06-02 10:16:27
+date: 2024-06-03T04:00:38.560Z
+updated: 2024-06-04T04:00:38.560Z
 tags: 
   - screen-recording
   - ai video

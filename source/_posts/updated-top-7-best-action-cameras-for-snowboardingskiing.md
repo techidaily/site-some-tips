@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 7 Best Action Cameras for Snowboarding/Skiing"
-date: 2024-06-01 12:14:29
-updated: 2024-06-02 12:26:48
+date: 2024-06-03T04:39:47.619Z
+updated: 2024-06-04T04:39:47.619Z
 tags: 
   - screen-recording
   - ai video

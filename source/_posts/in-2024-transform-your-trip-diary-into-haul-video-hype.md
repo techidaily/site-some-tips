@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your Trip Diary Into Haul Video Hype"
-date: 2024-05-30 12:43:14
-updated: 2024-06-02 11:52:38
+date: 2024-06-03T04:21:58.469Z
+updated: 2024-06-04T04:21:58.469Z
 tags: 
   - screen-recording
   - ai video

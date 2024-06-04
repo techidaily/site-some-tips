@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Theta S Reviewed  Detailed Performance Insights\""
-date: 2024-05-30 21:24:21
-updated: 2024-06-01 10:58:51
+date: 2024-06-03T04:09:35.746Z
+updated: 2024-06-04T04:09:35.746Z
 tags: 
   - screen-recording
   - ai video

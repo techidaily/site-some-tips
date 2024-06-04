@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Superior Video Compression in AV1"
-date: 2024-06-02 10:25:45
-updated: 2024-06-03 11:13:38
+date: 2024-06-03T04:45:11.274Z
+updated: 2024-06-04T04:45:11.274Z
 tags: 
   - screen-recording
   - ai video

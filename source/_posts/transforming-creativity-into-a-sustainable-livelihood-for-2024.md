@@ -1,7 +1,7 @@
 ---
 title: "Transforming Creativity Into a Sustainable Livelihood for 2024"
-date: 2024-05-31 23:52:13
-updated: 2024-06-02 11:30:27
+date: 2024-06-03T04:19:36.531Z
+updated: 2024-06-04T04:19:36.531Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Evaluation of ASUS's HDR & True Black Precision"
-date: 2024-05-30 23:48:47
-updated: 2024-06-01 11:53:16
+date: 2024-06-03T04:47:13.908Z
+updated: 2024-06-04T04:47:13.908Z
 tags: 
   - screen-recording
   - ai video

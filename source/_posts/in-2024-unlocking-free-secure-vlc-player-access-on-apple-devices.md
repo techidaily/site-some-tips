@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Free, Secure VLC Player Access on Apple Devices"
-date: 2024-05-31 13:31:16
-updated: 2024-06-03 10:35:42
+date: 2024-06-03T03:52:48.425Z
+updated: 2024-06-04T03:52:48.425Z
 tags: 
   - screen-recording
   - ai video

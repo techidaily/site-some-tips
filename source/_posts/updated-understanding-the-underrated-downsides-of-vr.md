@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Underrated Downsides of VR"
-date: 2024-06-01 21:31:33
-updated: 2024-06-02 12:10:30
+date: 2024-06-03T04:05:59.777Z
+updated: 2024-06-04T04:05:59.777Z
 tags: 
   - screen-recording
   - ai video

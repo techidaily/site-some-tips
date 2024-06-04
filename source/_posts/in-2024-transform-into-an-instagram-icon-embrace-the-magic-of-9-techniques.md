@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Into an Instagram Icon  Embrace the Magic of #9 Techniques\""
-date: 2024-06-01 18:54:41
-updated: 2024-06-02 12:10:27
+date: 2024-06-03T04:50:40.315Z
+updated: 2024-06-04T04:50:40.315Z
 tags: 
   - screen-recording
   - ai video

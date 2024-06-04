@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Creativity  Top 5 Expert Video & Photography + Music Mixers\""
-date: 2024-06-02 15:53:40
-updated: 2024-06-03 12:39:46
+date: 2024-06-03T04:08:09.356Z
+updated: 2024-06-04T04:08:09.356Z
 tags: 
   - screen-recording
   - ai video

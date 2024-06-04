@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Impact of Music on a Trailer's Emotional Pull"
-date: 2024-05-30 23:57:30
-updated: 2024-06-01 11:42:57
+date: 2024-06-03T03:55:15.357Z
+updated: 2024-06-04T03:55:15.357Z
 tags: 
   - screen-recording
   - ai video

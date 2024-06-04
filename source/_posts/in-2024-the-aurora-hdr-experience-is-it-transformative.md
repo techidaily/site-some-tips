@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Aurora HDR Experience  Is It Transformative?\""
-date: 2024-05-30 10:29:24
-updated: 2024-06-01 12:48:56
+date: 2024-06-03T04:08:44.729Z
+updated: 2024-06-04T04:08:44.729Z
 tags: 
   - screen-recording
   - ai video

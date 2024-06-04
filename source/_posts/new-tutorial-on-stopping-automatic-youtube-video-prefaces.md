@@ -1,7 +1,7 @@
 ---
 title: "[New] Tutorial on Stopping Automatic YouTube Video Prefaces"
-date: 2024-05-30 12:49:17
-updated: 2024-06-02 12:48:26
+date: 2024-06-03T03:50:13.523Z
+updated: 2024-06-04T03:50:13.523Z
 tags: 
   - screen-recording
   - ai video

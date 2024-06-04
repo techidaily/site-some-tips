@@ -1,7 +1,7 @@
 ---
 title: "[New] The Full Review of LG's High Definition Monitoring Experience"
-date: 2024-05-30 12:57:16
-updated: 2024-06-01 12:13:50
+date: 2024-06-03T04:05:09.415Z
+updated: 2024-06-04T04:05:09.415Z
 tags: 
   - screen-recording
   - ai video

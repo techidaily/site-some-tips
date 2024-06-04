@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Novice's Route to Rapidly Play Videos on Snapchat"
-date: 2024-05-29 14:49:40
-updated: 2024-06-01 12:40:39
+date: 2024-06-03T03:50:41.692Z
+updated: 2024-06-04T03:50:41.692Z
 tags: 
   - screen-recording
   - ai video

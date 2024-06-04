@@ -1,7 +1,7 @@
 ---
 title: "\"Unveil Your Creative Potential  Comprehensive Guide to PowerDirector Pro for 2024\""
-date: 2024-06-01 10:59:59
-updated: 2024-06-03 11:33:44
+date: 2024-06-03T03:57:23.858Z
+updated: 2024-06-04T03:57:23.858Z
 tags: 
   - screen-recording
   - ai video

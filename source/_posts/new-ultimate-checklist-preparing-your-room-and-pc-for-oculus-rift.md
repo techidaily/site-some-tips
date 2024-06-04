@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate Checklist  Preparing Your Room and PC for Oculus Rift\""
-date: 2024-06-01 17:38:31
-updated: 2024-06-02 12:19:16
+date: 2024-06-03T03:51:18.435Z
+updated: 2024-06-04T03:51:18.435Z
 tags: 
   - screen-recording
   - ai video

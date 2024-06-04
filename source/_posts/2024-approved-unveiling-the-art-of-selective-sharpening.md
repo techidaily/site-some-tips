@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Art of Selective Sharpening\""
-date: 2024-06-02 17:49:36
-updated: 2024-06-03 11:30:22
+date: 2024-06-03T04:17:43.597Z
+updated: 2024-06-04T04:17:43.597Z
 tags: 
   - screen-recording
   - ai video

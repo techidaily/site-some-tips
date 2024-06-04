@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate LG 27 4K UHD Display - A Detailed Overview for 2024\""
-date: 2024-05-30 22:48:13
-updated: 2024-06-02 10:40:17
+date: 2024-06-03T04:42:57.853Z
+updated: 2024-06-04T04:42:57.853Z
 tags: 
   - screen-recording
   - ai video

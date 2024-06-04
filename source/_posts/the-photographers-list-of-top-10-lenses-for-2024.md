@@ -1,7 +1,7 @@
 ---
 title: "The Photographer's List of Top 10 Lenses for 2024"
-date: 2024-05-29 14:19:51
-updated: 2024-06-01 10:30:58
+date: 2024-06-03T04:47:40.101Z
+updated: 2024-06-04T04:47:40.101Z
 tags: 
   - screen-recording
   - ai video

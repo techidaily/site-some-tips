@@ -1,7 +1,7 @@
 ---
 title: "[New] Three Tricks for Transforming Videos on iPhone by Merging Melodies"
-date: 2024-05-29 16:42:55
-updated: 2024-06-01 11:28:58
+date: 2024-06-03T04:05:12.286Z
+updated: 2024-06-04T04:05:12.286Z
 tags: 
   - screen-recording
   - ai video

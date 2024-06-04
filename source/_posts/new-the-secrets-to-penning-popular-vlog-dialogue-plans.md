@@ -1,7 +1,7 @@
 ---
 title: "[New] The Secrets to Penning Popular Vlog Dialogue Plans"
-date: 2024-05-30 19:29:20
-updated: 2024-06-01 11:39:17
+date: 2024-06-03T04:02:32.347Z
+updated: 2024-06-04T04:02:32.347Z
 tags: 
   - screen-recording
   - ai video

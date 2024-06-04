@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transform Lives  10 Cinematic Inspirations\""
-date: 2024-06-01 20:29:37
-updated: 2024-06-02 10:24:52
+date: 2024-06-03T04:48:11.593Z
+updated: 2024-06-04T04:48:11.593Z
 tags: 
   - screen-recording
   - ai video

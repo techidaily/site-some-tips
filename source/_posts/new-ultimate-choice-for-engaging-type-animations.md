@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Choice for Engaging Type Animations"
-date: 2024-05-30 20:39:59
-updated: 2024-06-02 11:33:20
+date: 2024-06-03T04:39:36.297Z
+updated: 2024-06-04T04:39:36.297Z
 tags: 
   - screen-recording
   - ai video

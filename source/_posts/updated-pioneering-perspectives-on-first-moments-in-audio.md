@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Pioneering Perspectives on First Moments in Audio"
-date: 2024-05-27 22:18:55
-updated: 2024-05-29 10:44:34
+date: 2024-06-03T04:34:28.077Z
+updated: 2024-06-04T04:34:28.077Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Transforming Dim iPhone Vids  Three Easy Methods for 2024\""
-date: 2024-05-31 14:40:15
-updated: 2024-06-02 12:39:23
+date: 2024-06-03T03:50:21.688Z
+updated: 2024-06-04T03:50:21.688Z
 tags: 
   - screen-recording
   - ai video

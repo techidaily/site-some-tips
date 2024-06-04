@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Insider Guide  WhatsApp Audio Talks\""
-date: 2024-05-31 14:51:40
-updated: 2024-06-01 10:40:12
+date: 2024-06-03T03:44:40.332Z
+updated: 2024-06-04T03:44:40.332Z
 tags: 
   - screen-recording
   - ai video

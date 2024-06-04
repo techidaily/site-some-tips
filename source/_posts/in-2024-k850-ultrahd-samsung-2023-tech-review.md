@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, K850 UltraHD  Samsung 2023 Tech Review\""
-date: 2024-05-25 14:51:13
-updated: 2024-05-28 12:47:52
+date: 2024-06-03T04:05:33.730Z
+updated: 2024-06-04T04:05:33.730Z
 tags: 
   - screen-recording
   - ai video

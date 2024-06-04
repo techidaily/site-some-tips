@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Syncopated Snapshots  Instagram Videos with Music\""
-date: 2024-05-30 11:40:39
-updated: 2024-05-31 12:11:58
+date: 2024-06-03T04:32:13.448Z
+updated: 2024-06-04T04:32:13.448Z
 tags: 
   - screen-recording
   - ai video

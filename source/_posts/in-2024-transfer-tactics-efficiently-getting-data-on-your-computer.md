@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transfer Tactics  Efficiently Getting Data On Your Computer\""
-date: 2024-05-30 23:20:17
-updated: 2024-06-02 12:36:54
+date: 2024-06-03T04:41:07.737Z
+updated: 2024-06-04T04:41:07.737Z
 tags: 
   - screen-recording
   - ai video

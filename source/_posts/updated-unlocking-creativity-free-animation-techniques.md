@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Creativity  Free Animation Techniques\""
-date: 2024-06-02 19:52:31
-updated: 2024-06-03 12:47:48
+date: 2024-06-03T04:04:22.226Z
+updated: 2024-06-04T04:04:22.226Z
 tags: 
   - screen-recording
   - ai video

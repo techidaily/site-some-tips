@@ -1,7 +1,7 @@
 ---
 title: "[Updated] PixelPunmatic Device"
-date: 2024-05-26 23:35:25
-updated: 2024-05-29 10:53:19
+date: 2024-06-03T04:32:25.673Z
+updated: 2024-06-04T04:32:25.673Z
 tags: 
   - screen-recording
   - ai video

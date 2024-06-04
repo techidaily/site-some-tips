@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Text to Laughter - Kapwing's Toolkit\""
-date: 2024-06-01 16:11:52
-updated: 2024-06-02 10:17:30
+date: 2024-06-03T04:47:29.489Z
+updated: 2024-06-04T04:47:29.489Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Shake-Resistant Camcorder Tips\""
-date: 2024-05-30 10:38:39
-updated: 2024-06-02 11:52:51
+date: 2024-06-03T04:44:12.128Z
+updated: 2024-06-04T04:44:12.128Z
 tags: 
   - screen-recording
   - ai video

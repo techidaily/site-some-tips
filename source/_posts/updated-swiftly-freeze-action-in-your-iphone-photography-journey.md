@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Swiftly Freeze Action in Your iPhone Photography Journey"
-date: 2024-05-28 10:57:50
-updated: 2024-05-31 11:47:44
+date: 2024-06-03T04:13:16.398Z
+updated: 2024-06-04T04:13:16.398Z
 tags: 
   - screen-recording
   - ai video

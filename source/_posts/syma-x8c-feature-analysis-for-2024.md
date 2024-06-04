@@ -1,7 +1,7 @@
 ---
 title: "Syma X8C Feature Analysis for 2024"
-date: 2024-05-30 23:36:28
-updated: 2024-05-31 11:23:20
+date: 2024-06-03T03:58:53.108Z
+updated: 2024-06-04T03:58:53.108Z
 tags: 
   - screen-recording
   - ai video

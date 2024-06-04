@@ -1,7 +1,7 @@
 ---
 title: "The Roadmap to Thriving in Digital Advertising for 2024"
-date: 2024-05-30 23:42:44
-updated: 2024-06-01 11:35:15
+date: 2024-06-03T04:50:54.974Z
+updated: 2024-06-04T04:50:54.974Z
 tags: 
   - screen-recording
   - ai video

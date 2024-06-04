@@ -1,7 +1,7 @@
 ---
 title: "\"The Mi Drone 4K Review  Drones vs Landscape Photography for 2024\""
-date: 2024-05-30 15:14:15
-updated: 2024-06-01 12:39:20
+date: 2024-06-03T04:00:01.813Z
+updated: 2024-06-04T04:00:01.813Z
 tags: 
   - screen-recording
   - ai video

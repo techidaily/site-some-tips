@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 5 Pro-Level Photo/Video Creators with Soundtracks\""
-date: 2024-06-01 17:14:24
-updated: 2024-06-02 10:10:51
+date: 2024-06-03T03:46:06.261Z
+updated: 2024-06-04T03:46:06.261Z
 tags: 
   - screen-recording
   - ai video

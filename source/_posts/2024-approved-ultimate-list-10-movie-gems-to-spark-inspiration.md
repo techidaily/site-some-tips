@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate List  10 Movie Gems to Spark Inspiration\""
-date: 2024-05-30 20:21:33
-updated: 2024-06-02 11:21:55
+date: 2024-06-03T04:01:20.343Z
+updated: 2024-06-04T04:01:20.343Z
 tags: 
   - screen-recording
   - ai video

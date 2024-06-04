@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Blueprint for Obtaining Free Visual Aids\""
-date: 2024-05-30 10:52:33
-updated: 2024-06-01 11:23:19
+date: 2024-06-03T04:09:09.330Z
+updated: 2024-06-04T04:09:09.330Z
 tags: 
   - screen-recording
   - ai video

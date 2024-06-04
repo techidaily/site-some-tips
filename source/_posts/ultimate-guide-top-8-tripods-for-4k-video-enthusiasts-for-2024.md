@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Guide  Top 8 Tripods for 4K Video Enthusiasts for 2024\""
-date: 2024-05-31 17:59:22
-updated: 2024-06-02 10:38:25
+date: 2024-06-03T03:51:22.010Z
+updated: 2024-06-04T03:51:22.010Z
 tags: 
   - screen-recording
   - ai video

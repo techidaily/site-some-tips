@@ -1,7 +1,7 @@
 ---
 title: "\"The Editor's Alchemy  Transforming Raw to Radiant Pictures for 2024\""
-date: 2024-05-29 20:21:16
-updated: 2024-06-01 11:46:35
+date: 2024-06-03T03:43:30.125Z
+updated: 2024-06-04T03:43:30.125Z
 tags: 
   - screen-recording
   - ai video

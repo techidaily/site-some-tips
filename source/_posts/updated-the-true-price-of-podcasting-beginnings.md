@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The True Price of Podcasting Beginnings"
-date: 2024-05-29 16:41:56
-updated: 2024-06-01 10:42:15
+date: 2024-06-03T04:04:52.508Z
+updated: 2024-06-04T04:04:52.508Z
 tags: 
   - screen-recording
   - ai video

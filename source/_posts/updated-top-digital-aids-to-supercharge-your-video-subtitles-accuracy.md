@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Digital Aids to Supercharge Your Video Subtitles' Accuracy"
-date: 2024-05-30 22:26:34
-updated: 2024-06-02 10:26:19
+date: 2024-06-03T04:28:14.182Z
+updated: 2024-06-04T04:28:14.182Z
 tags: 
   - screen-recording
   - ai video

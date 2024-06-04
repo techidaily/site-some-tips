@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Fisheye Lens in 360 Imagery"
-date: 2024-05-29 20:19:29
-updated: 2024-06-01 10:50:41
+date: 2024-06-03T04:09:00.383Z
+updated: 2024-06-04T04:09:00.383Z
 tags: 
   - screen-recording
   - ai video

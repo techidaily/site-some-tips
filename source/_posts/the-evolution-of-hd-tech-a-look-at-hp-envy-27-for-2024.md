@@ -1,7 +1,7 @@
 ---
 title: "\"The Evolution of HD Tech - A Look at HP Envy 27 for 2024\""
-date: 2024-05-29 15:11:59
-updated: 2024-06-01 10:42:59
+date: 2024-06-03T04:50:16.269Z
+updated: 2024-06-04T04:50:16.269Z
 tags: 
   - screen-recording
   - ai video

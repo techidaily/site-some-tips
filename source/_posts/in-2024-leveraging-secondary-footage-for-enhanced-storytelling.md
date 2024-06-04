@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Leveraging Secondary Footage for Enhanced Storytelling"
-date: 2024-05-26 14:49:53
-updated: 2024-05-28 12:10:52
+date: 2024-06-03T04:35:13.069Z
+updated: 2024-06-04T04:35:13.069Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Strategies for Improving Your Interview Prowess for 2024"
-date: 2024-05-28 19:13:11
-updated: 2024-05-31 12:48:15
+date: 2024-06-03T04:31:11.955Z
+updated: 2024-06-04T04:31:11.955Z
 tags: 
   - screen-recording
   - ai video

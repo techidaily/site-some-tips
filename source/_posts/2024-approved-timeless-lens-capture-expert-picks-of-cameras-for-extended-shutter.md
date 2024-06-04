@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Timeless Lens Capture  Expert Picks of Cameras for Extended Shutter\""
-date: 2024-05-30 21:58:36
-updated: 2024-06-02 11:53:21
+date: 2024-06-03T04:27:14.208Z
+updated: 2024-06-04T04:27:14.208Z
 tags: 
   - screen-recording
   - ai video

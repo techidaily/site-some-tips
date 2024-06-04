@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Visual Quest - Examining the Power of LG’s Digital Cinema 31MU97-B\""
-date: 2024-05-31 20:48:13
-updated: 2024-06-01 12:25:43
+date: 2024-06-03T04:38:46.405Z
+updated: 2024-06-04T04:38:46.405Z
 tags: 
   - screen-recording
   - ai video

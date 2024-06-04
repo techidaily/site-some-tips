@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Troubleshooting iPhone X  Regaining Access via Facial ID\""
-date: 2024-05-31 23:45:35
-updated: 2024-06-02 10:12:49
+date: 2024-06-03T03:53:52.211Z
+updated: 2024-06-04T03:53:52.211Z
 tags: 
   - screen-recording
   - ai video

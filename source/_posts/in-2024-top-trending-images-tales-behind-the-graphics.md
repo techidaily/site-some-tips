@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Trending Images  Tales Behind the Graphics\""
-date: 2024-05-30 23:30:33
-updated: 2024-06-02 10:26:36
+date: 2024-06-03T04:51:44.327Z
+updated: 2024-06-04T04:51:44.327Z
 tags: 
   - screen-recording
   - ai video

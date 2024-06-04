@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Creativity  GIF Formats Decoded\""
-date: 2024-06-02 16:58:12
-updated: 2024-06-03 12:46:48
+date: 2024-06-03T04:20:20.942Z
+updated: 2024-06-04T04:20:20.942Z
 tags: 
   - screen-recording
   - ai video

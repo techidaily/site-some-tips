@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity with a DIY Guide to Haul Edits\""
-date: 2024-06-01 12:12:12
-updated: 2024-06-02 12:42:18
+date: 2024-06-03T04:30:26.209Z
+updated: 2024-06-04T04:30:26.209Z
 tags: 
   - screen-recording
   - ai video

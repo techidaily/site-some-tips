@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Full Potential of Windows 11'S Video Production Suite"
-date: 2024-06-01 23:50:37
-updated: 2024-06-03 11:16:44
+date: 2024-06-03T03:48:05.341Z
+updated: 2024-06-04T03:48:05.341Z
 tags: 
   - screen-recording
   - ai video

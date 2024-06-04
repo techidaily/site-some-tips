@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Image Potential  Smart Online Cropping Techniques\""
-date: 2024-05-31 18:28:41
-updated: 2024-06-03 11:57:15
+date: 2024-06-03T04:40:54.275Z
+updated: 2024-06-04T04:40:54.275Z
 tags: 
   - screen-recording
   - ai video

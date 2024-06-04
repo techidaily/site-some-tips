@@ -1,7 +1,7 @@
 ---
 title: "Unlock Full Screen Flexibility with PIP Feature on iPhones for 2024"
-date: 2024-05-31 10:45:14
-updated: 2024-06-03 11:45:24
+date: 2024-06-03T04:37:03.408Z
+updated: 2024-06-04T04:37:03.408Z
 tags: 
   - screen-recording
   - ai video

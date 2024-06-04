@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Color Richness  The Role of Look-Up Tables in Adobe Photos\""
-date: 2024-05-31 18:24:32
-updated: 2024-06-03 10:43:21
+date: 2024-06-03T03:50:51.696Z
+updated: 2024-06-04T03:50:51.696Z
 tags: 
   - screen-recording
   - ai video

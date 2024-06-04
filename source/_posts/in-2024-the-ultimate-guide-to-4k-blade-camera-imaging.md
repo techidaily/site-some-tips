@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to 4K Blade Camera Imaging"
-date: 2024-05-31 17:51:34
-updated: 2024-06-01 11:48:34
+date: 2024-06-03T04:24:07.390Z
+updated: 2024-06-04T04:24:07.390Z
 tags: 
   - screen-recording
   - ai video

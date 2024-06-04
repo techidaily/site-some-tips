@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The LG BP350 Review  Audiovisual Performance Analysis\""
-date: 2024-05-29 13:44:35
-updated: 2024-06-01 12:46:14
+date: 2024-06-03T04:22:52.740Z
+updated: 2024-06-04T04:22:52.740Z
 tags: 
   - screen-recording
   - ai video

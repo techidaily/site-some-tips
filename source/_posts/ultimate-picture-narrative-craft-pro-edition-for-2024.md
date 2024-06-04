@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Picture Narrative Craft - Pro Edition for 2024\""
-date: 2024-06-01 18:52:53
-updated: 2024-06-02 11:19:47
+date: 2024-06-03T04:44:01.490Z
+updated: 2024-06-04T04:44:01.490Z
 tags: 
   - screen-recording
   - ai video

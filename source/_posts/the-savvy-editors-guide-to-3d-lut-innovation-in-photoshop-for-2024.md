@@ -1,7 +1,7 @@
 ---
 title: "The Savvy Editor's Guide to 3D LUT Innovation in Photoshop for 2024"
-date: 2024-05-30 20:47:35
-updated: 2024-06-01 12:43:56
+date: 2024-06-03T04:08:56.121Z
+updated: 2024-06-04T04:08:56.121Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uniting Zoom and Skype  Techniques to Maximize Video Call Quality\""
-date: 2024-05-30 19:54:43
-updated: 2024-06-02 10:56:24
+date: 2024-06-03T04:51:12.901Z
+updated: 2024-06-04T04:51:12.901Z
 tags: 
   - screen-recording
   - ai video

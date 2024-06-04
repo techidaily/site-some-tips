@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Notch Video Segments for Cinematic Editors\""
-date: 2024-05-31 16:20:56
-updated: 2024-06-02 12:14:58
+date: 2024-06-03T04:45:20.170Z
+updated: 2024-06-04T04:45:20.170Z
 tags: 
   - screen-recording
   - ai video

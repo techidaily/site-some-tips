@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflow with Leading TTS Apps for Mac Users for 2024"
-date: 2024-05-28 15:55:53
-updated: 2024-05-31 11:55:14
+date: 2024-06-03T04:07:22.577Z
+updated: 2024-06-04T04:07:22.577Z
 tags: 
   - screen-recording
   - ai video

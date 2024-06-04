@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering PIP  A Complete Overview on Edge Browser\""
-date: 2024-05-25 12:39:43
-updated: 2024-05-28 11:56:49
+date: 2024-06-03T03:51:27.741Z
+updated: 2024-06-04T03:51:27.741Z
 tags: 
   - screen-recording
   - ai video

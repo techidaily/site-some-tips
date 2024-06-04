@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling Mastery  The Ultimate Animoji Guide for iPhone X\""
-date: 2024-06-01 17:13:47
-updated: 2024-06-03 12:39:35
+date: 2024-06-03T03:47:51.900Z
+updated: 2024-06-04T03:47:51.900Z
 tags: 
   - screen-recording
   - ai video

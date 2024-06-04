@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Color Grading  Utilizing LUTs in AE\""
-date: 2024-05-31 14:43:27
-updated: 2024-06-01 10:40:45
+date: 2024-06-03T04:16:12.201Z
+updated: 2024-06-04T04:16:12.201Z
 tags: 
   - screen-recording
   - ai video

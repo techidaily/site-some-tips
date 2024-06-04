@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Uncompromised Creativity  Best macOS Big Sur Editing Tools Ranked\""
-date: 2024-05-31 16:44:24
-updated: 2024-06-02 12:58:34
+date: 2024-06-03T04:39:29.943Z
+updated: 2024-06-04T04:39:29.943Z
 tags: 
   - screen-recording
   - ai video

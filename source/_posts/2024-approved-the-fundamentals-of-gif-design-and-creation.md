@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fundamentals of GIF Design and Creation\""
-date: 2024-05-29 15:15:38
-updated: 2024-06-01 12:27:15
+date: 2024-06-03T04:18:13.897Z
+updated: 2024-06-04T04:18:13.897Z
 tags: 
   - screen-recording
   - ai video

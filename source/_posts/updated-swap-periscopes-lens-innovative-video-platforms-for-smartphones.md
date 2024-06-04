@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Swap Periscope's Lens  Innovative Video Platforms for Smartphones\""
-date: 2024-05-29 11:12:46
-updated: 2024-05-31 11:30:40
+date: 2024-06-03T03:47:14.749Z
+updated: 2024-06-04T03:47:14.749Z
 tags: 
   - screen-recording
   - ai video

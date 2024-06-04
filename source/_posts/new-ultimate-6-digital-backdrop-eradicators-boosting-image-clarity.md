@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity"
-date: 2024-05-31 10:31:13
-updated: 2024-06-02 11:43:19
+date: 2024-06-03T04:52:25.125Z
+updated: 2024-06-04T04:52:25.125Z
 tags: 
   - screen-recording
   - ai video

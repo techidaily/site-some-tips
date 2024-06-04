@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Fast-Loading Facebook Videos\""
-date: 2024-05-29 18:17:13
-updated: 2024-06-01 12:26:52
+date: 2024-06-03T03:54:49.820Z
+updated: 2024-06-04T03:54:49.820Z
 tags: 
   - screen-recording
   - ai video

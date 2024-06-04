@@ -1,7 +1,7 @@
 ---
 title: "The Best Face Editor Hacks for iPhone and Android Users for 2024"
-date: 2024-05-29 22:41:53
-updated: 2024-06-01 11:50:40
+date: 2024-06-03T04:37:32.749Z
+updated: 2024-06-04T04:37:32.749Z
 tags: 
   - screen-recording
   - ai video

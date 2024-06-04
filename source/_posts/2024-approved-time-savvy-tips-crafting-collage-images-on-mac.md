@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time-Savvy Tips  Crafting Collage Images on Mac\""
-date: 2024-05-30 11:11:27
-updated: 2024-06-02 12:10:57
+date: 2024-06-03T04:43:09.143Z
+updated: 2024-06-04T04:43:09.143Z
 tags: 
   - screen-recording
   - ai video

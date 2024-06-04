@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Exciting Photography Aspects of iOS 11"
-date: 2024-06-01 16:54:53
-updated: 2024-06-03 12:57:48
+date: 2024-06-03T04:18:52.105Z
+updated: 2024-06-04T04:18:52.105Z
 tags: 
   - screen-recording
   - ai video

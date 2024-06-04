@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Evolution of Live Streaming with Periscope"
-date: 2024-05-31 18:13:17
-updated: 2024-06-01 12:15:51
+date: 2024-06-03T04:29:46.176Z
+updated: 2024-06-04T04:29:46.176Z
 tags: 
   - screen-recording
   - ai video

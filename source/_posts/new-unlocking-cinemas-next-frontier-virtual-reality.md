@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Cinema's Next Frontier  Virtual Reality\""
-date: 2024-05-31 21:46:47
-updated: 2024-06-03 11:17:36
+date: 2024-06-03T04:51:18.517Z
+updated: 2024-06-04T04:51:18.517Z
 tags: 
   - screen-recording
   - ai video

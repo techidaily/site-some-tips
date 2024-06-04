@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Palette Primer  Essential Steps to Refine Your Photos' Colors\""
-date: 2024-05-30 15:13:30
-updated: 2024-06-01 10:56:19
+date: 2024-06-03T04:25:20.430Z
+updated: 2024-06-04T04:25:20.430Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tricks to Simulate Historical Alterations\""
-date: 2024-05-31 14:13:54
-updated: 2024-06-02 12:29:17
+date: 2024-06-03T04:28:24.796Z
+updated: 2024-06-04T04:28:24.796Z
 tags: 
   - screen-recording
   - ai video

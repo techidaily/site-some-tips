@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlining Your Content  Inserting Chapter Markers in YouTube Videos\""
-date: 2024-05-28 21:12:15
-updated: 2024-05-31 11:11:43
+date: 2024-06-03T04:33:40.224Z
+updated: 2024-06-04T04:33:40.224Z
 tags: 
   - screen-recording
   - ai video

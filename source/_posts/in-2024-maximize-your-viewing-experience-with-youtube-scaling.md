@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximize Your Viewing Experience with YouTube Scaling"
-date: 2024-05-27 23:55:38
-updated: 2024-05-28 11:33:42
+date: 2024-06-03T03:50:06.389Z
+updated: 2024-06-04T03:50:06.389Z
 tags: 
   - screen-recording
   - ai video

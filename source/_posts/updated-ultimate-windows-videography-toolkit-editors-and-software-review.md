@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Windows Videography Toolkit  Editors & Software Review\""
-date: 2024-05-31 11:44:12
-updated: 2024-06-02 10:56:15
+date: 2024-06-03T04:44:06.492Z
+updated: 2024-06-04T04:44:06.492Z
 tags: 
   - screen-recording
   - ai video

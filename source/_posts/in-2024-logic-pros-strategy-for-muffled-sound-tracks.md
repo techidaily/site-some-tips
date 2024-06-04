@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Logic Pro's Strategy for Muffled Sound Tracks"
-date: 2024-05-25 10:14:35
-updated: 2024-05-28 11:18:35
+date: 2024-06-03T04:20:21.652Z
+updated: 2024-06-04T04:20:21.652Z
 tags: 
   - screen-recording
   - ai video

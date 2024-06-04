@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Tier Voice to Text Applications"
-date: 2024-06-01 18:32:16
-updated: 2024-06-02 11:16:59
+date: 2024-06-03T04:45:20.876Z
+updated: 2024-06-04T04:45:20.876Z
 tags: 
   - screen-recording
   - ai video

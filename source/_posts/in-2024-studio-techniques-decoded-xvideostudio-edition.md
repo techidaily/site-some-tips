@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Studio Techniques Decoded  XVideoStudio Edition\""
-date: 2024-05-30 10:56:21
-updated: 2024-05-31 10:58:18
+date: 2024-06-03T04:12:59.002Z
+updated: 2024-06-04T04:12:59.002Z
 tags: 
   - screen-recording
   - ai video

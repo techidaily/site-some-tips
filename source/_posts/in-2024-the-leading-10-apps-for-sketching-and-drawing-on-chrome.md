@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Leading 10 Apps for Sketching and Drawing on Chrome"
-date: 2024-05-31 15:26:36
-updated: 2024-06-01 12:36:21
+date: 2024-06-03T04:46:52.857Z
+updated: 2024-06-04T04:46:52.857Z
 tags: 
   - screen-recording
   - ai video

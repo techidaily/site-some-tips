@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Tactics in Producing Convincing Customer Testimonial Videos"
-date: 2024-06-01 17:45:10
-updated: 2024-06-02 11:19:29
+date: 2024-06-03T04:23:40.006Z
+updated: 2024-06-04T04:23:40.006Z
 tags: 
   - screen-recording
   - ai video

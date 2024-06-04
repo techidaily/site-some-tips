@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Sound Architect's Guide to Memo Mastery\""
-date: 2024-05-31 15:19:49
-updated: 2024-06-01 10:22:16
+date: 2024-06-03T03:52:38.358Z
+updated: 2024-06-04T03:52:38.358Z
 tags: 
   - screen-recording
   - ai video

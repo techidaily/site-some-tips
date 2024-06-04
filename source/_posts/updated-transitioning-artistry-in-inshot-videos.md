@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transitioning Artistry in Inshot Videos"
-date: 2024-05-30 15:36:17
-updated: 2024-06-02 10:52:22
+date: 2024-06-03T04:31:55.069Z
+updated: 2024-06-04T04:31:55.069Z
 tags: 
   - screen-recording
   - ai video

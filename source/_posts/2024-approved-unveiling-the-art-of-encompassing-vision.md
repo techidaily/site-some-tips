@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Art of Encompassing Vision\""
-date: 2024-06-02 23:32:39
-updated: 2024-06-03 10:31:22
+date: 2024-06-03T03:59:48.251Z
+updated: 2024-06-04T03:59:48.251Z
 tags: 
   - screen-recording
   - ai video

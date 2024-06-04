@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Sharpened Scene During Google Meet Calls\""
-date: 2024-05-31 15:10:49
-updated: 2024-06-02 10:29:49
+date: 2024-06-03T04:09:42.124Z
+updated: 2024-06-04T04:09:42.124Z
 tags: 
   - screen-recording
   - ai video

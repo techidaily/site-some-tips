@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unraveling the Efficiency of LG UD88-W Display Technology\""
-date: 2024-06-01 13:19:43
-updated: 2024-06-03 10:54:52
+date: 2024-06-03T04:39:25.696Z
+updated: 2024-06-04T04:39:25.696Z
 tags: 
   - screen-recording
   - ai video

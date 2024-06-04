@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate List of Bestiary  8 iOS Drawing Software Winners\""
-date: 2024-05-29 21:17:54
-updated: 2024-06-01 10:38:33
+date: 2024-06-03T04:46:59.233Z
+updated: 2024-06-04T04:46:59.233Z
 tags: 
   - screen-recording
   - ai video

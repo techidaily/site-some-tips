@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Vector Insight for Beginners  Basic Forms and Choice Tools\""
-date: 2024-06-01 20:46:23
-updated: 2024-06-03 11:26:41
+date: 2024-06-03T03:42:52.821Z
+updated: 2024-06-04T03:42:52.821Z
 tags: 
   - screen-recording
   - ai video

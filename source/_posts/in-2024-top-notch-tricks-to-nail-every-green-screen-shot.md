@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top-Notch Tricks to Nail Every Green Screen Shot\""
-date: 2024-05-31 15:49:33
-updated: 2024-06-02 11:51:56
+date: 2024-06-03T04:01:25.314Z
+updated: 2024-06-04T04:01:25.314Z
 tags: 
   - screen-recording
   - ai video

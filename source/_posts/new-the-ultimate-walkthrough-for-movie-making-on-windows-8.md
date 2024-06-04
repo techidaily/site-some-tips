@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Walkthrough for Movie Making on Windows 8"
-date: 2024-05-29 23:31:26
-updated: 2024-06-01 11:48:50
+date: 2024-06-03T03:53:54.364Z
+updated: 2024-06-04T03:53:54.364Z
 tags: 
   - screen-recording
   - ai video

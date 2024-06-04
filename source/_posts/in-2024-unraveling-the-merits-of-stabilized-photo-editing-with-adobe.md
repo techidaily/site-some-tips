@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe"
-date: 2024-06-02 17:11:46
-updated: 2024-06-03 11:38:56
+date: 2024-06-03T04:44:50.038Z
+updated: 2024-06-04T04:44:50.038Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 12 Most Excellent, Cost-Free Video Apps For Modern Devices\""
-date: 2024-06-01 18:37:11
-updated: 2024-06-02 11:12:58
+date: 2024-06-03T03:56:28.392Z
+updated: 2024-06-04T03:56:28.392Z
 tags: 
   - screen-recording
   - ai video

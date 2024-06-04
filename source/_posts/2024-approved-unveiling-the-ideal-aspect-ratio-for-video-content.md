@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Ideal Aspect Ratio for Video Content\""
-date: 2024-06-01 14:25:40
-updated: 2024-06-03 10:33:42
+date: 2024-06-03T04:15:39.882Z
+updated: 2024-06-04T04:15:39.882Z
 tags: 
   - screen-recording
   - ai video

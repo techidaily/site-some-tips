@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling Identity  Simple Facial Blur Tactics\""
-date: 2024-06-01 13:57:42
-updated: 2024-06-03 12:23:29
+date: 2024-06-03T03:50:04.253Z
+updated: 2024-06-04T03:50:04.253Z
 tags: 
   - screen-recording
   - ai video

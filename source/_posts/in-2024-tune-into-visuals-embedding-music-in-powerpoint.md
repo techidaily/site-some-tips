@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tune Into Visuals  Embedding Music in PowerPoint\""
-date: 2024-05-31 11:45:17
-updated: 2024-06-02 10:13:18
+date: 2024-06-03T04:44:49.327Z
+updated: 2024-06-04T04:44:49.327Z
 tags: 
   - screen-recording
   - ai video

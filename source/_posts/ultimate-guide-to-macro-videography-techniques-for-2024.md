@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Macro Videography Techniques for 2024"
-date: 2024-05-31 20:18:10
-updated: 2024-06-02 12:50:27
+date: 2024-06-03T04:18:02.513Z
+updated: 2024-06-04T04:18:02.513Z
 tags: 
   - screen-recording
   - ai video

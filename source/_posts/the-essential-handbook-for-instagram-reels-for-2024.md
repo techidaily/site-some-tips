@@ -1,7 +1,7 @@
 ---
 title: "The Essential Handbook for Instagram Reels for 2024"
-date: 2024-05-29 11:15:51
-updated: 2024-06-01 12:11:13
+date: 2024-06-03T03:56:15.134Z
+updated: 2024-06-04T03:56:15.134Z
 tags: 
   - screen-recording
   - ai video

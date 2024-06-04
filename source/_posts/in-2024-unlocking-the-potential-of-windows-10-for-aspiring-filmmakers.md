@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Potential of Windows 10 for Aspiring Filmmakers"
-date: 2024-05-31 13:53:10
-updated: 2024-06-03 10:13:42
+date: 2024-06-03T04:24:45.998Z
+updated: 2024-06-04T04:24:45.998Z
 tags: 
   - screen-recording
   - ai video

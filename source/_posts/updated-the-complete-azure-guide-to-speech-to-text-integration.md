@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Complete Azure Guide to Speech-to-Text Integration\""
-date: 2024-05-29 23:43:19
-updated: 2024-06-01 10:32:29
+date: 2024-06-03T04:20:44.680Z
+updated: 2024-06-04T04:20:44.680Z
 tags: 
   - screen-recording
   - ai video

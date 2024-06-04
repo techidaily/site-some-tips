@@ -1,7 +1,7 @@
 ---
 title: "Ultimate iDevice Video Recording Guide for 2024"
-date: 2024-06-01 19:41:32
-updated: 2024-06-02 11:11:54
+date: 2024-06-03T04:10:34.871Z
+updated: 2024-06-04T04:10:34.871Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Top 5 Methods to Record High-Quality Audio on Windows for 2024\""
-date: 2024-05-30 10:26:47
-updated: 2024-06-02 12:30:19
+date: 2024-06-03T03:47:11.920Z
+updated: 2024-06-04T03:47:11.920Z
 tags: 
   - screen-recording
   - ai video

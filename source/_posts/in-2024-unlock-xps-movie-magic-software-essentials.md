@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlock XP's Movie Magic Software Essentials"
-date: 2024-06-01 20:22:42
-updated: 2024-06-03 11:34:41
+date: 2024-06-03T03:43:20.273Z
+updated: 2024-06-04T03:43:20.273Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Tutorial  From WebP to JPEG\""
-date: 2024-06-01 14:54:46
-updated: 2024-06-02 11:54:31
+date: 2024-06-03T04:07:09.062Z
+updated: 2024-06-04T04:07:09.062Z
 tags: 
   - screen-recording
   - ai video

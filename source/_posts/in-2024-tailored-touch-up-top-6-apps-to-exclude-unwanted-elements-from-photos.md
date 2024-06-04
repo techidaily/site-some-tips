@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tailored Touch-Up  Top 6 Apps to Exclude Unwanted Elements From Photos\""
-date: 2024-05-28 15:37:19
-updated: 2024-05-31 12:19:28
+date: 2024-06-03T04:06:39.471Z
+updated: 2024-06-04T04:06:39.471Z
 tags: 
   - screen-recording
   - ai video

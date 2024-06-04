@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essence of Chuckles in Single Photos"
-date: 2024-05-29 13:45:33
-updated: 2024-06-01 12:48:48
+date: 2024-06-03T04:03:05.111Z
+updated: 2024-06-04T04:03:05.111Z
 tags: 
   - screen-recording
   - ai video

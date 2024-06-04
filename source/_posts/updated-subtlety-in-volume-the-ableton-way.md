@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Subtlety in Volume  The Ableton Way\""
-date: 2024-05-30 19:18:57
-updated: 2024-05-31 10:23:40
+date: 2024-06-03T04:29:15.028Z
+updated: 2024-06-04T04:29:15.028Z
 tags: 
   - screen-recording
   - ai video

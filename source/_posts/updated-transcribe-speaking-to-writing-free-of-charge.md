@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transcribe Speaking to Writing  Free of Charge\""
-date: 2024-06-01 21:22:31
-updated: 2024-06-02 10:34:24
+date: 2024-06-03T04:16:02.261Z
+updated: 2024-06-04T04:16:02.261Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Screen Showdown  Top 6 HDMI 2.1 Monitors Reviewed\""
-date: 2024-05-30 22:56:18
-updated: 2024-06-01 11:12:24
+date: 2024-06-03T04:05:35.167Z
+updated: 2024-06-04T04:05:35.167Z
 tags: 
   - screen-recording
   - ai video

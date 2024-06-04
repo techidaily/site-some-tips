@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamline Your Screens  YouTube Video Resizing Tricks\""
-date: 2024-05-29 17:12:51
-updated: 2024-05-31 12:39:10
+date: 2024-06-03T04:20:28.015Z
+updated: 2024-06-04T04:20:28.015Z
 tags: 
   - screen-recording
   - ai video

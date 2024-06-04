@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Tutorial for Posting Pics on IG\""
-date: 2024-05-29 20:22:54
-updated: 2024-06-01 12:25:57
+date: 2024-06-03T03:44:49.476Z
+updated: 2024-06-04T03:44:49.476Z
 tags: 
   - screen-recording
   - ai video

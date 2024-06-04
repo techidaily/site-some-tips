@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Frames Per Second for Slow Clips for 2024"
-date: 2024-05-30 19:19:51
-updated: 2024-06-02 10:52:33
+date: 2024-06-03T04:21:06.638Z
+updated: 2024-06-04T04:21:06.638Z
 tags: 
   - screen-recording
   - ai video

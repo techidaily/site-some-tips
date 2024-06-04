@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Tailoring Humor with 9GAG  Your Personal Meme Making Manual\""
-date: 2024-05-30 19:48:52
-updated: 2024-05-31 10:33:42
+date: 2024-06-03T04:47:58.860Z
+updated: 2024-06-04T04:47:58.860Z
 tags: 
   - screen-recording
   - ai video

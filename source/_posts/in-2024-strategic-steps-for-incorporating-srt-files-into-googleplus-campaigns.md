@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Strategic Steps for Incorporating SRT Files Into Google+ Campaigns"
-date: 2024-05-30 13:41:55
-updated: 2024-05-31 12:38:35
+date: 2024-06-03T04:06:09.770Z
+updated: 2024-06-04T04:06:09.770Z
 tags: 
   - screen-recording
   - ai video

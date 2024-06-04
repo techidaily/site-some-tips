@@ -1,7 +1,7 @@
 ---
 title: "\"The Metaverse Awaits  Gear Up with These Tools for 2024\""
-date: 2024-05-31 14:20:49
-updated: 2024-06-01 10:14:53
+date: 2024-06-03T04:43:23.616Z
+updated: 2024-06-04T04:43:23.616Z
 tags: 
   - screen-recording
   - ai video

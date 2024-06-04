@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Visual Effects to Elevate Your Film Cutting"
-date: 2024-05-31 23:26:19
-updated: 2024-06-02 10:41:38
+date: 2024-06-03T04:45:06.339Z
+updated: 2024-06-04T04:45:06.339Z
 tags: 
   - screen-recording
   - ai video

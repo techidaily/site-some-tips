@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Handbook to Drone Video Editing"
-date: 2024-05-31 19:15:56
-updated: 2024-06-01 10:43:38
+date: 2024-06-03T04:26:51.214Z
+updated: 2024-06-04T04:26:51.214Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Top Picks for Your Next Shot in 4K Reflective Tech for 2024"
-date: 2024-05-31 20:16:40
-updated: 2024-06-02 12:28:31
+date: 2024-06-03T03:44:07.390Z
+updated: 2024-06-04T03:44:07.390Z
 tags: 
   - screen-recording
   - ai video

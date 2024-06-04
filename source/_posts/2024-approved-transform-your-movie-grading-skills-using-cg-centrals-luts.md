@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Movie Grading Skills Using CG Central's Luts\""
-date: 2024-05-30 17:54:26
-updated: 2024-06-02 12:52:13
+date: 2024-06-03T04:32:03.515Z
+updated: 2024-06-04T04:32:03.515Z
 tags: 
   - screen-recording
   - ai video

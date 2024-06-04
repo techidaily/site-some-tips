@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Speedy Art of Collage Making on Social Sites"
-date: 2024-05-30 18:56:36
-updated: 2024-06-01 11:57:16
+date: 2024-06-03T04:23:22.978Z
+updated: 2024-06-04T04:23:22.978Z
 tags: 
   - screen-recording
   - ai video

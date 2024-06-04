@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Streamline Your Journey to Zoom Mastery"
-date: 2024-05-30 14:52:11
-updated: 2024-05-31 11:58:10
+date: 2024-06-03T04:15:40.594Z
+updated: 2024-06-04T04:15:40.594Z
 tags: 
   - screen-recording
   - ai video

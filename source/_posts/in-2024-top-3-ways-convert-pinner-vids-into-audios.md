@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 3 Ways  Convert Pinner Vids Into Audios\""
-date: 2024-05-30 12:24:16
-updated: 2024-06-02 11:49:57
+date: 2024-06-03T04:03:36.117Z
+updated: 2024-06-04T04:03:36.117Z
 tags: 
   - screen-recording
   - ai video

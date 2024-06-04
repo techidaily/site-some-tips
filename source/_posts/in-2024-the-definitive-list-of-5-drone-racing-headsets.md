@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Definitive List of 5 Drone Racing Headsets"
-date: 2024-05-29 11:13:19
-updated: 2024-06-01 11:20:44
+date: 2024-06-03T04:51:41.547Z
+updated: 2024-06-04T04:51:41.547Z
 tags: 
   - screen-recording
   - ai video

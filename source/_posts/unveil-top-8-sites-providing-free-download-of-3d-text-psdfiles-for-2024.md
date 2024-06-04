@@ -1,7 +1,7 @@
 ---
 title: "Unveil Top 8 Sites Providing Free Download of 3D Text PSDFiles for 2024"
-date: 2024-05-31 18:47:24
-updated: 2024-06-03 11:27:35
+date: 2024-06-03T04:40:53.571Z
+updated: 2024-06-04T04:40:53.571Z
 tags: 
   - screen-recording
   - ai video

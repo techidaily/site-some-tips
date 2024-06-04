@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Core Upgrades of Windows 11"
-date: 2024-05-29 15:36:44
-updated: 2024-06-01 11:14:37
+date: 2024-06-03T04:10:36.290Z
+updated: 2024-06-04T04:10:36.290Z
 tags: 
   - screen-recording
   - ai video

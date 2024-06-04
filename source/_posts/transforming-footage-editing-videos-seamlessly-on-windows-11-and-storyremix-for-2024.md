@@ -1,7 +1,7 @@
 ---
 title: "\"Transforming Footage  Editing Videos Seamlessly on Windows 11 and StoryRemix for 2024\""
-date: 2024-05-31 14:53:18
-updated: 2024-06-02 10:58:42
+date: 2024-06-03T04:41:18.738Z
+updated: 2024-06-04T04:41:18.738Z
 tags: 
   - screen-recording
   - ai video

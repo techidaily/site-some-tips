@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Comedic Potential of the Metaverse's Vast Space\""
-date: 2024-05-31 18:22:25
-updated: 2024-06-01 10:31:29
+date: 2024-06-03T04:31:27.836Z
+updated: 2024-06-04T04:31:27.836Z
 tags: 
   - screen-recording
   - ai video

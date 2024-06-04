@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Essential Techniques for Fast-Forwarding in Spotify\""
-date: 2024-05-31 14:53:35
-updated: 2024-06-01 12:55:58
+date: 2024-06-03T04:21:32.734Z
+updated: 2024-06-04T04:21:32.734Z
 tags: 
   - screen-recording
   - ai video

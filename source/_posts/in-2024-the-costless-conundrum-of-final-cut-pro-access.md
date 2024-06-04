@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Costless Conundrum of Final Cut Pro Access"
-date: 2024-05-29 20:12:36
-updated: 2024-06-01 11:40:20
+date: 2024-06-03T03:45:54.243Z
+updated: 2024-06-04T03:45:54.243Z
 tags: 
   - screen-recording
   - ai video

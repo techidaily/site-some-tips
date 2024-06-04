@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Superior Photography Tech  The Prime 10 4K Smartphone Cameras\""
-date: 2024-05-30 16:17:30
-updated: 2024-05-31 10:27:50
+date: 2024-06-03T04:45:16.631Z
+updated: 2024-06-04T04:45:16.631Z
 tags: 
   - screen-recording
   - ai video

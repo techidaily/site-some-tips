@@ -1,7 +1,7 @@
 ---
 title: "Transformative SRT Editing Techniques for Apple Devices for 2024"
-date: 2024-06-01 21:40:21
-updated: 2024-06-02 12:15:37
+date: 2024-06-03T03:50:57.445Z
+updated: 2024-06-04T03:50:57.445Z
 tags: 
   - screen-recording
   - ai video

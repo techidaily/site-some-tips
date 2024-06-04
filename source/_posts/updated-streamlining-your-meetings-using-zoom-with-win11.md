@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlining Your Meetings  Using Zoom with Win11\""
-date: 2024-05-30 16:31:38
-updated: 2024-05-31 12:56:59
+date: 2024-06-03T04:51:25.490Z
+updated: 2024-06-04T04:51:25.490Z
 tags: 
   - screen-recording
   - ai video

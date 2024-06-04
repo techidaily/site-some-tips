@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Attention Grabber Composer\""
-date: 2024-06-01 22:15:32
-updated: 2024-06-02 11:56:29
+date: 2024-06-03T04:19:13.806Z
+updated: 2024-06-04T04:19:13.806Z
 tags: 
   - screen-recording
   - ai video

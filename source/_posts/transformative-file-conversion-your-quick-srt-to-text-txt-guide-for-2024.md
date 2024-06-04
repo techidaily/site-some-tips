@@ -1,7 +1,7 @@
 ---
 title: "\"Transformative File Conversion  Your Quick SRT to Text (TXT) Guide for 2024\""
-date: 2024-05-30 17:23:27
-updated: 2024-06-02 11:56:54
+date: 2024-06-03T04:16:25.803Z
+updated: 2024-06-04T04:16:25.803Z
 tags: 
   - screen-recording
   - ai video

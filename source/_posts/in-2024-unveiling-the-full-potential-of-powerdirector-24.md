@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Full Potential of PowerDirector '24"
-date: 2024-05-31 11:58:21
-updated: 2024-06-03 11:25:28
+date: 2024-06-03T03:50:44.565Z
+updated: 2024-06-04T03:50:44.565Z
 tags: 
   - screen-recording
   - ai video

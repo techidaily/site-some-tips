@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024"
-date: 2024-05-30 10:33:47
-updated: 2024-06-01 11:14:31
+date: 2024-06-03T04:28:05.695Z
+updated: 2024-06-04T04:28:05.695Z
 tags: 
   - screen-recording
   - ai video

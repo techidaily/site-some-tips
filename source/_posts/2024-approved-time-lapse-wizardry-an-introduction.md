@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Time-Lapse Wizardry  An Introduction\""
-date: 2024-05-31 19:57:29
-updated: 2024-06-02 10:42:32
+date: 2024-06-03T04:11:19.186Z
+updated: 2024-06-04T04:11:19.186Z
 tags: 
   - screen-recording
   - ai video

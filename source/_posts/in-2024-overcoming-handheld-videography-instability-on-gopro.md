@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Overcoming Handheld Videography Instability on GoPro"
-date: 2024-05-28 22:29:58
-updated: 2024-05-29 11:52:53
+date: 2024-06-03T03:50:07.097Z
+updated: 2024-06-04T03:50:07.097Z
 tags: 
   - screen-recording
   - ai video

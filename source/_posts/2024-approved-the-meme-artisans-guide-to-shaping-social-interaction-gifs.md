@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Meme Artisan's Guide to Shaping Social Interaction (GIFs)\""
-date: 2024-05-29 17:27:14
-updated: 2024-06-01 10:33:29
+date: 2024-06-03T03:44:48.082Z
+updated: 2024-06-04T03:44:48.082Z
 tags: 
   - screen-recording
   - ai video

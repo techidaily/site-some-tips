@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tech Jest Crafter"
-date: 2024-05-29 15:30:46
-updated: 2024-05-31 12:32:50
+date: 2024-06-03T04:05:22.993Z
+updated: 2024-06-04T04:05:22.993Z
 tags: 
   - screen-recording
   - ai video

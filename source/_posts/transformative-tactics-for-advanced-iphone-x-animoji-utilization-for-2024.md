@@ -1,7 +1,7 @@
 ---
 title: "Transformative Tactics for Advanced iPhone X Animoji Utilization for 2024"
-date: 2024-05-30 10:31:39
-updated: 2024-06-02 12:27:32
+date: 2024-06-03T04:30:44.992Z
+updated: 2024-06-04T04:30:44.992Z
 tags: 
   - screen-recording
   - ai video

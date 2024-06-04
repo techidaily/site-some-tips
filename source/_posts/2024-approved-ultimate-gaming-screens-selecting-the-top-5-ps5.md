@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Gaming Screens  Selecting the Top 5 (PS5)\""
-date: 2024-05-31 23:40:47
-updated: 2024-06-02 12:25:51
+date: 2024-06-03T03:47:58.977Z
+updated: 2024-06-04T03:47:58.977Z
 tags: 
   - screen-recording
   - ai video

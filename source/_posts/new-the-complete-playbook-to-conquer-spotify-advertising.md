@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Playbook to Conquer Spotify Advertising"
-date: 2024-05-30 14:28:41
-updated: 2024-06-01 12:31:36
+date: 2024-06-03T04:12:32.592Z
+updated: 2024-06-04T04:12:32.592Z
 tags: 
   - screen-recording
   - ai video

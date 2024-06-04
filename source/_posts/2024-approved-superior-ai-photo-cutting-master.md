@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior AI Photo Cutting Master\""
-date: 2024-05-29 12:54:29
-updated: 2024-05-31 10:44:14
+date: 2024-06-03T04:28:49.160Z
+updated: 2024-06-04T04:28:49.160Z
 tags: 
   - screen-recording
   - ai video

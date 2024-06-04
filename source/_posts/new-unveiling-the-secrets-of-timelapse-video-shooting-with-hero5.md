@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5"
-date: 2024-06-01 16:47:52
-updated: 2024-06-03 11:46:23
+date: 2024-06-03T04:47:02.768Z
+updated: 2024-06-04T04:47:02.768Z
 tags: 
   - screen-recording
   - ai video

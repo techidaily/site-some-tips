@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Picks for Personalizing MBP Screens with Skins"
-date: 2024-05-31 17:52:16
-updated: 2024-06-02 10:19:46
+date: 2024-06-03T04:05:05.390Z
+updated: 2024-06-04T04:05:05.390Z
 tags: 
   - screen-recording
   - ai video

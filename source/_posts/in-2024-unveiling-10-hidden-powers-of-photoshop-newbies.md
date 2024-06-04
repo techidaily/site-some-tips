@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling 10 Hidden Powers of Photoshop Newbies"
-date: 2024-05-31 14:26:35
-updated: 2024-06-03 12:44:21
+date: 2024-06-03T04:11:29.077Z
+updated: 2024-06-04T04:11:29.077Z
 tags: 
   - screen-recording
   - ai video

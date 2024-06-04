@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Guide for Crafting Top-Charting YouTube Titles\""
-date: 2024-05-31 15:17:38
-updated: 2024-06-02 12:50:53
+date: 2024-06-03T03:56:03.642Z
+updated: 2024-06-04T03:56:03.642Z
 tags: 
   - screen-recording
   - ai video

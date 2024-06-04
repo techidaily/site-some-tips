@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Sharpen Your Shots  Canon Offers Free/Paid LUT Edits\""
-date: 2024-05-28 13:24:55
-updated: 2024-05-31 11:18:59
+date: 2024-06-03T04:33:12.210Z
+updated: 2024-06-04T04:33:12.210Z
 tags: 
   - screen-recording
   - ai video

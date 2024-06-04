@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Kid-Friendly Drone Models for First Flights\""
-date: 2024-06-01 13:58:29
-updated: 2024-06-02 12:24:26
+date: 2024-06-03T03:48:53.076Z
+updated: 2024-06-04T03:48:53.076Z
 tags: 
   - screen-recording
   - ai video

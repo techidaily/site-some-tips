@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 10 Budget-Friendly, Portable PC Photo Editors\""
-date: 2024-05-30 14:16:10
-updated: 2024-06-02 12:50:55
+date: 2024-06-03T03:49:34.062Z
+updated: 2024-06-04T03:49:34.062Z
 tags: 
   - screen-recording
   - ai video

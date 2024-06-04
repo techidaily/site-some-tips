@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Surf Camera Guide (2E3) for 2024"
-date: 2024-05-30 20:15:35
-updated: 2024-06-01 12:56:58
+date: 2024-06-03T04:45:01.339Z
+updated: 2024-06-04T04:45:01.339Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Magic Behind the Lens  IPhone X's Groundbreayer Camera Tech\""
-date: 2024-05-29 23:13:59
-updated: 2024-06-01 11:40:53
+date: 2024-06-03T03:48:21.919Z
+updated: 2024-06-04T03:48:21.919Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Three No-Spend Ways to Merge Movement and Melodies in Your iPhone Video Clips\""
-date: 2024-05-30 22:17:33
-updated: 2024-06-01 10:38:29
+date: 2024-06-03T03:48:33.929Z
+updated: 2024-06-04T03:48:33.929Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Instagram's Random Video Playback for 2024"
-date: 2024-06-01 20:44:33
-updated: 2024-06-02 12:22:45
+date: 2024-06-03T04:49:15.857Z
+updated: 2024-06-04T04:49:15.857Z
 tags: 
   - screen-recording
   - ai video

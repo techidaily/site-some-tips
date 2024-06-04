@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining iPhone Video Fusion Processes\""
-date: 2024-05-28 23:55:59
-updated: 2024-05-31 12:22:55
+date: 2024-06-03T03:50:33.086Z
+updated: 2024-06-04T03:50:33.086Z
 tags: 
   - screen-recording
   - ai video

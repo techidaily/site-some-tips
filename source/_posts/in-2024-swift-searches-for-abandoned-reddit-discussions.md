@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Swift Searches for Abandoned Reddit Discussions"
-date: 2024-05-28 23:31:12
-updated: 2024-05-31 12:19:35
+date: 2024-06-03T04:27:52.540Z
+updated: 2024-06-04T04:27:52.540Z
 tags: 
   - screen-recording
   - ai video

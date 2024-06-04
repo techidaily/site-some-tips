@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Vector Journey Start  Categories, Tools, & Initial Steps\""
-date: 2024-06-02 15:57:25
-updated: 2024-06-03 10:53:40
+date: 2024-06-03T04:26:24.597Z
+updated: 2024-06-04T04:26:24.597Z
 tags: 
   - screen-recording
   - ai video

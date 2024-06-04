@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transforming VR Skeletons Into Your Ideal Digital Persona"
-date: 2024-06-01 23:45:35
-updated: 2024-06-02 11:16:36
+date: 2024-06-03T04:45:07.751Z
+updated: 2024-06-04T04:45:07.751Z
 tags: 
   - screen-recording
   - ai video

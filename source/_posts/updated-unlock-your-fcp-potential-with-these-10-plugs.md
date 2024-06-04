@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlock Your FCP Potential with These 10 Plugs"
-date: 2024-06-01 14:56:49
-updated: 2024-06-03 11:44:59
+date: 2024-06-03T04:08:02.943Z
+updated: 2024-06-04T04:08:02.943Z
 tags: 
   - screen-recording
   - ai video

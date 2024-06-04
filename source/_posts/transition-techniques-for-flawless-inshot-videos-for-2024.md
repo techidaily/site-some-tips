@@ -1,7 +1,7 @@
 ---
 title: "Transition Techniques for Flawless Inshot Videos for 2024"
-date: 2024-05-31 11:26:52
-updated: 2024-06-02 11:47:51
+date: 2024-06-03T04:18:01.801Z
+updated: 2024-06-04T04:18:01.801Z
 tags: 
   - screen-recording
   - ai video

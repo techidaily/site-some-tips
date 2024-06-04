@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Twisting Images  Expert Tips on Photo Manipulation\""
-date: 2024-05-31 18:13:38
-updated: 2024-06-02 12:48:43
+date: 2024-06-03T03:54:53.425Z
+updated: 2024-06-04T03:54:53.425Z
 tags: 
   - screen-recording
   - ai video

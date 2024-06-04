@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Science of Space  How Layout Affects Professional Effectiveness\""
-date: 2024-05-29 17:53:32
-updated: 2024-06-01 11:18:24
+date: 2024-06-03T04:48:00.274Z
+updated: 2024-06-04T04:48:00.274Z
 tags: 
   - screen-recording
   - ai video

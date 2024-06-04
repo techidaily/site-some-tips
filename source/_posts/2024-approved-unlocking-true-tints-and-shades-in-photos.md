@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking True Tints and Shades in Photos\""
-date: 2024-05-31 23:14:58
-updated: 2024-06-03 10:40:54
+date: 2024-06-03T04:41:00.658Z
+updated: 2024-06-04T04:41:00.658Z
 tags: 
   - screen-recording
   - ai video

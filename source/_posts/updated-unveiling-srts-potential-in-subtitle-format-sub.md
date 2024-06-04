@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling SRT's Potential in Subtitle Format (SUB)"
-date: 2024-06-01 23:27:24
-updated: 2024-06-03 12:29:17
+date: 2024-06-03T03:53:41.588Z
+updated: 2024-06-04T03:53:41.588Z
 tags: 
   - screen-recording
   - ai video

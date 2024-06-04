@@ -1,7 +1,7 @@
 ---
 title: "The Transformative Power of Augmented Vision for 2024"
-date: 2024-05-31 20:18:43
-updated: 2024-06-01 10:18:41
+date: 2024-06-03T04:49:47.300Z
+updated: 2024-06-04T04:49:47.300Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Superior Style for Text Mobility"
-date: 2024-05-30 12:12:16
-updated: 2024-05-31 11:16:47
+date: 2024-06-03T03:53:36.128Z
+updated: 2024-06-04T03:53:36.128Z
 tags: 
   - screen-recording
   - ai video

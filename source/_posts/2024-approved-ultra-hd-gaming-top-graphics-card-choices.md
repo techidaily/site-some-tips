@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultra HD Gaming  Top Graphics Card Choices\""
-date: 2024-06-01 22:39:43
-updated: 2024-06-02 11:17:26
+date: 2024-06-03T04:07:38.997Z
+updated: 2024-06-04T04:07:38.997Z
 tags: 
   - screen-recording
   - ai video

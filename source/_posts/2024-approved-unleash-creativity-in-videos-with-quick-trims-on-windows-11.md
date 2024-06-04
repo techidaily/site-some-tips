@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity in Videos with Quick Trims on Windows 11\""
-date: 2024-05-31 20:29:38
-updated: 2024-06-02 12:17:31
+date: 2024-06-03T03:45:52.839Z
+updated: 2024-06-04T03:45:52.839Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essence of DJI Inspire 2 Distilled"
-date: 2024-05-30 23:13:40
-updated: 2024-06-01 11:42:55
+date: 2024-06-03T04:25:31.046Z
+updated: 2024-06-04T04:25:31.046Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Syncing Images  Android-iPhone File Transfer Guide for 2024\""
-date: 2024-05-28 16:14:15
-updated: 2024-05-31 12:15:42
+date: 2024-06-03T04:40:11.350Z
+updated: 2024-06-04T04:40:11.350Z
 tags: 
   - screen-recording
   - ai video

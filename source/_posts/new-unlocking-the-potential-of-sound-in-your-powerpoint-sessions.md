@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking the Potential of Sound in Your PowerPoint Sessions"
-date: 2024-06-01 14:30:22
-updated: 2024-06-03 10:29:49
+date: 2024-06-03T04:02:35.909Z
+updated: 2024-06-04T04:02:35.909Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Framework for Fullscreen Proficiency in Premiere"
-date: 2024-05-31 22:22:56
-updated: 2024-06-01 11:10:32
+date: 2024-06-03T04:23:38.595Z
+updated: 2024-06-04T04:23:38.595Z
 tags: 
   - screen-recording
   - ai video

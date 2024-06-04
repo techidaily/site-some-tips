@@ -1,7 +1,7 @@
 ---
 title: "[New] Timeless 1980S Filters & Techniques in Editing"
-date: 2024-05-30 13:31:42
-updated: 2024-06-02 10:31:37
+date: 2024-06-03T04:48:10.175Z
+updated: 2024-06-04T04:48:10.175Z
 tags: 
   - screen-recording
   - ai video

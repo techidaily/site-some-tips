@@ -1,7 +1,7 @@
 ---
 title: "\"TomTom Bandit Camera Review  The Latest for 2024\""
-date: 2024-05-31 21:42:44
-updated: 2024-06-02 10:35:33
+date: 2024-06-03T04:20:41.152Z
+updated: 2024-06-04T04:20:41.152Z
 tags: 
   - screen-recording
   - ai video

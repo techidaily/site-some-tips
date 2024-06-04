@@ -1,7 +1,7 @@
 ---
 title: "Top 18 4K Camcorders for 2024"
-date: 2024-06-01 13:28:47
-updated: 2024-06-02 12:15:47
+date: 2024-06-03T04:42:23.544Z
+updated: 2024-06-04T04:42:23.544Z
 tags: 
   - screen-recording
   - ai video

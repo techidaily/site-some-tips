@@ -1,7 +1,7 @@
 ---
 title: "\"Venturing Virtuality  A Review of LG's 360 Headset for 2024\""
-date: 2024-06-02 23:58:45
-updated: 2024-06-03 12:31:53
+date: 2024-06-03T04:51:02.673Z
+updated: 2024-06-04T04:51:02.673Z
 tags: 
   - screen-recording
   - ai video

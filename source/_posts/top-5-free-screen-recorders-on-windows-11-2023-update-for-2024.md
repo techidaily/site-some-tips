@@ -1,7 +1,7 @@
 ---
 title: "\"Top 5 Free Screen Recorders on Windows 11-2023 Update for 2024\""
-date: 2024-05-30 11:13:40
-updated: 2024-06-02 10:42:34
+date: 2024-06-03T04:25:28.208Z
+updated: 2024-06-04T04:25:28.208Z
 tags: 
   - screen-recording
   - ai video

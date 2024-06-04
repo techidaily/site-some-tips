@@ -1,7 +1,7 @@
 ---
 title: "\"Ultra HD 4K Display  BenQ SW320 Review for 2024\""
-date: 2024-06-01 19:29:24
-updated: 2024-06-02 12:23:49
+date: 2024-06-03T03:55:43.627Z
+updated: 2024-06-04T03:55:43.627Z
 tags: 
   - screen-recording
   - ai video

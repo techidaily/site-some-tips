@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Visual Clarity  Bypassing Background in Photopea\""
-date: 2024-05-31 18:55:28
-updated: 2024-06-03 12:10:58
+date: 2024-06-03T03:47:20.402Z
+updated: 2024-06-04T03:47:20.402Z
 tags: 
   - screen-recording
   - ai video

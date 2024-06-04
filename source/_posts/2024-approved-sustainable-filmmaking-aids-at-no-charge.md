@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sustainable Filmmaking Aids at No Charge\""
-date: 2024-05-30 20:26:36
-updated: 2024-05-31 10:58:17
+date: 2024-06-03T04:07:04.423Z
+updated: 2024-06-04T04:07:04.423Z
 tags: 
   - screen-recording
   - ai video

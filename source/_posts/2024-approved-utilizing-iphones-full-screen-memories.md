@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Utilizing iPhone's Full-Screen Memories\""
-date: 2024-06-02 10:40:13
-updated: 2024-06-03 11:30:14
+date: 2024-06-03T04:35:12.363Z
+updated: 2024-06-04T04:35:12.363Z
 tags: 
   - screen-recording
   - ai video

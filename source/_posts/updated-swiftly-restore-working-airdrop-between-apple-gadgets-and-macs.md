@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Swiftly Restore Working AirDrop Between Apple Gadgets & Macs"
-date: 2024-05-29 17:23:26
-updated: 2024-05-31 12:22:52
+date: 2024-06-03T03:57:57.035Z
+updated: 2024-06-04T03:57:57.035Z
 tags: 
   - screen-recording
   - ai video

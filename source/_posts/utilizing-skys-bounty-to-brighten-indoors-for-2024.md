@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Sky's Bounty to Brighten Indoors for 2024"
-date: 2024-06-02 12:55:48
-updated: 2024-06-03 12:41:37
+date: 2024-06-03T04:16:03.677Z
+updated: 2024-06-04T04:16:03.677Z
 tags: 
   - screen-recording
   - ai video

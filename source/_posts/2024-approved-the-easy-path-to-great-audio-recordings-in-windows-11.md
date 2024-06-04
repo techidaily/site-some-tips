@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Easy Path to Great Audio Recordings in Windows 11\""
-date: 2024-05-30 17:44:33
-updated: 2024-06-01 12:42:13
+date: 2024-06-03T03:49:32.620Z
+updated: 2024-06-04T03:49:32.620Z
 tags: 
   - screen-recording
   - ai video

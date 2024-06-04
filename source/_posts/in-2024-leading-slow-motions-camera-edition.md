@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Leading Slow-Motions  Camera Edition\""
-date: 2024-05-25 22:24:27
-updated: 2024-05-28 12:46:44
+date: 2024-06-03T04:30:02.780Z
+updated: 2024-06-04T04:30:02.780Z
 tags: 
   - screen-recording
   - ai video

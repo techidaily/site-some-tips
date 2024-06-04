@@ -1,7 +1,7 @@
 ---
 title: "[New] Unpacking the DJI Phantom 3 Standard Features"
-date: 2024-06-01 20:34:48
-updated: 2024-06-03 10:54:25
+date: 2024-06-03T03:48:14.520Z
+updated: 2024-06-04T03:48:14.520Z
 tags: 
   - screen-recording
   - ai video

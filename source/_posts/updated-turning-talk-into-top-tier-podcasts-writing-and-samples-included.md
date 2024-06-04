@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Turning Talk Into Top-Tier Podcasts  Writing & Samples Included\""
-date: 2024-06-01 11:46:42
-updated: 2024-06-02 11:50:54
+date: 2024-06-03T04:33:33.827Z
+updated: 2024-06-04T04:33:33.827Z
 tags: 
   - screen-recording
   - ai video

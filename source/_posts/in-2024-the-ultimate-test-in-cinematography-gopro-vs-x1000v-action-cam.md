@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Test in Cinematography  GoPro Vs. X1000V Action Cam?\""
-date: 2024-05-30 14:51:44
-updated: 2024-06-01 11:12:27
+date: 2024-06-03T04:27:20.601Z
+updated: 2024-06-04T04:27:20.601Z
 tags: 
   - screen-recording
   - ai video

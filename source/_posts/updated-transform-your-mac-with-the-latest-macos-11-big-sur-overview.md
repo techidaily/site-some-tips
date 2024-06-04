@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Your Mac with the Latest  MacOS 11 Big Sur Overview\""
-date: 2024-05-30 21:15:17
-updated: 2024-06-02 11:48:40
+date: 2024-06-03T03:57:28.859Z
+updated: 2024-06-04T03:57:28.859Z
 tags: 
   - screen-recording
   - ai video

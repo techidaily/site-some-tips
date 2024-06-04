@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Smartphone Selection for Superior Video Recording for 2024"
-date: 2024-05-30 21:57:54
-updated: 2024-06-02 10:13:57
+date: 2024-06-03T04:34:24.531Z
+updated: 2024-06-04T04:34:24.531Z
 tags: 
   - screen-recording
   - ai video

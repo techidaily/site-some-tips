@@ -1,7 +1,7 @@
 ---
 title: "Unveiling 14 Dynamic Text Animation Samples for 2024"
-date: 2024-06-02 22:37:48
-updated: 2024-06-03 10:15:27
+date: 2024-06-03T04:41:49.904Z
+updated: 2024-06-04T04:41:49.904Z
 tags: 
   - screen-recording
   - ai video

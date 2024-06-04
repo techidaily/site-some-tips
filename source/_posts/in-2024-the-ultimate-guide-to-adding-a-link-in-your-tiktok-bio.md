@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Guide to Adding a Link in Your TikTok Bio"
-date: 2024-05-30 23:54:34
-updated: 2024-06-01 10:40:27
+date: 2024-06-03T04:23:39.302Z
+updated: 2024-06-04T04:23:39.302Z
 tags: 
   - screen-recording
   - ai video

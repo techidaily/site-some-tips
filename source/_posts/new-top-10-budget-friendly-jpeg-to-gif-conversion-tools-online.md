@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 10 Budget-Friendly JPEG to GIF Conversion Tools Online\""
-date: 2024-05-30 18:58:17
-updated: 2024-06-02 10:48:39
+date: 2024-06-03T03:59:56.804Z
+updated: 2024-06-04T03:59:56.804Z
 tags: 
   - screen-recording
   - ai video

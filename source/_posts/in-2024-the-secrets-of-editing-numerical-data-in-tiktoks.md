@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Secrets of Editing Numerical Data in TikToks"
-date: 2024-05-29 11:30:58
-updated: 2024-06-01 11:50:21
+date: 2024-06-03T04:01:24.597Z
+updated: 2024-06-04T04:01:24.597Z
 tags: 
   - screen-recording
   - ai video

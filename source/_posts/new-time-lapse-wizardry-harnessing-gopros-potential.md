@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Time-Lapse Wizardry  Harnessing GoPro's Potential\""
-date: 2024-06-01 18:10:18
-updated: 2024-06-02 11:25:32
+date: 2024-06-03T04:36:19.763Z
+updated: 2024-06-04T04:36:19.763Z
 tags: 
   - screen-recording
   - ai video

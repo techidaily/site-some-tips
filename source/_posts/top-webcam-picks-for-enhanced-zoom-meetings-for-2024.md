@@ -1,7 +1,7 @@
 ---
 title: "Top Webcam Picks for Enhanced Zoom Meetings for 2024"
-date: 2024-05-31 14:54:51
-updated: 2024-06-02 12:56:34
+date: 2024-06-03T04:41:48.487Z
+updated: 2024-06-04T04:41:48.487Z
 tags: 
   - screen-recording
   - ai video

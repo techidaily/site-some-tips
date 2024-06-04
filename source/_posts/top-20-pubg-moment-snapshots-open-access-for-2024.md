@@ -1,7 +1,7 @@
 ---
 title: "Top 20 PUBG Moment Snapshots, Open Access for 2024"
-date: 2024-05-30 22:11:15
-updated: 2024-06-02 10:59:50
+date: 2024-06-03T04:46:00.216Z
+updated: 2024-06-04T04:46:00.216Z
 tags: 
   - screen-recording
   - ai video

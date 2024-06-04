@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Dichotomy of Triller & TikTok  A Deep-Dive Analysis\""
-date: 2024-05-29 14:30:20
-updated: 2024-06-01 10:29:57
+date: 2024-06-03T04:15:56.580Z
+updated: 2024-06-04T04:15:56.580Z
 tags: 
   - screen-recording
   - ai video

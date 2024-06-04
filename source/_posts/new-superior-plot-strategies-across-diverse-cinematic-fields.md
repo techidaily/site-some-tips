@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior Plot Strategies Across Diverse Cinematic Fields"
-date: 2024-05-30 23:32:10
-updated: 2024-05-31 11:59:52
+date: 2024-06-03T04:37:24.260Z
+updated: 2024-06-04T04:37:24.260Z
 tags: 
   - screen-recording
   - ai video

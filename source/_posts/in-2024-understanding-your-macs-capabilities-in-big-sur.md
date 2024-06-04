@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding Your Mac's Capabilities in Big Sur"
-date: 2024-05-31 21:13:30
-updated: 2024-06-02 10:17:41
+date: 2024-06-03T04:51:12.210Z
+updated: 2024-06-04T04:51:12.210Z
 tags: 
   - screen-recording
   - ai video

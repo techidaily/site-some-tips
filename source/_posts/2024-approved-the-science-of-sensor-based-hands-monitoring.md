@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Science of Sensor-Based Hands Monitoring\""
-date: 2024-05-31 14:40:40
-updated: 2024-06-01 12:59:18
+date: 2024-06-03T03:50:02.131Z
+updated: 2024-06-04T03:50:02.131Z
 tags: 
   - screen-recording
   - ai video

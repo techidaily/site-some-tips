@@ -1,7 +1,7 @@
 ---
 title: "\"TikTok+Instagram  Social Media Fusion Guide for 2024\""
-date: 2024-05-30 18:54:55
-updated: 2024-06-01 10:17:21
+date: 2024-06-03T04:31:13.694Z
+updated: 2024-06-04T04:31:13.694Z
 tags: 
   - screen-recording
   - ai video

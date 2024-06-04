@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling Aerial Precision - Mavic Pro Analysis for 2024\""
-date: 2024-06-01 11:31:22
-updated: 2024-06-03 11:23:26
+date: 2024-06-03T04:11:08.231Z
+updated: 2024-06-04T04:11:08.231Z
 tags: 
   - screen-recording
   - ai video

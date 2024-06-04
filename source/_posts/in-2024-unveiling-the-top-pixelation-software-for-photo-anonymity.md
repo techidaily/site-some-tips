@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Top Pixelation Software for Photo Anonymity"
-date: 2024-06-02 19:37:54
-updated: 2024-06-03 12:33:18
+date: 2024-06-03T04:26:23.889Z
+updated: 2024-06-04T04:26:23.889Z
 tags: 
   - screen-recording
   - ai video

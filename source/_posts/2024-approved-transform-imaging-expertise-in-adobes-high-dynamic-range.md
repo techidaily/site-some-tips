@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Imaging  Expertise in Adobe's High Dynamic Range\""
-date: 2024-06-01 23:33:45
-updated: 2024-06-02 12:26:44
+date: 2024-06-03T04:03:57.971Z
+updated: 2024-06-04T04:03:57.971Z
 tags: 
   - screen-recording
   - ai video

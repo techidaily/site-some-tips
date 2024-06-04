@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 8 Recommendations  Tripods for Sharp 4K Images\""
-date: 2024-05-30 15:55:52
-updated: 2024-06-02 11:17:55
+date: 2024-06-03T04:19:19.493Z
+updated: 2024-06-04T04:19:19.493Z
 tags: 
   - screen-recording
   - ai video

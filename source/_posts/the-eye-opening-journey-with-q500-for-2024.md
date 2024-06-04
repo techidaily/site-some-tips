@@ -1,7 +1,7 @@
 ---
 title: "\"The Eye-Opening Journey with Q500 for 2024\""
-date: 2024-05-29 18:22:42
-updated: 2024-06-01 10:23:25
+date: 2024-06-03T04:32:19.844Z
+updated: 2024-06-04T04:32:19.844Z
 tags: 
   - screen-recording
   - ai video

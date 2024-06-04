@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Vector Graphics 101  Overview of Varieties & Tools\""
-date: 2024-05-31 23:41:44
-updated: 2024-06-03 11:59:46
+date: 2024-06-03T03:55:37.556Z
+updated: 2024-06-04T03:55:37.556Z
 tags: 
   - screen-recording
   - ai video

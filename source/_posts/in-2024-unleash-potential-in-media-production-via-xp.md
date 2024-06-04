@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unleash Potential in Media Production via XP"
-date: 2024-05-31 13:46:12
-updated: 2024-06-02 10:49:26
+date: 2024-06-03T04:00:49.287Z
+updated: 2024-06-04T04:00:49.287Z
 tags: 
   - screen-recording
   - ai video

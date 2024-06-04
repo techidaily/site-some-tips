@@ -1,7 +1,7 @@
 ---
 title: "\"Lumafusion Guide  Balancing Auditory Levels for 2024\""
-date: 2024-05-25 21:19:25
-updated: 2024-05-28 11:24:34
+date: 2024-06-03T04:43:52.980Z
+updated: 2024-06-04T04:43:52.980Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Seamless Storyteller  Leveraging Inshot for Elegant Transitions\""
-date: 2024-05-30 23:10:24
-updated: 2024-06-01 10:43:28
+date: 2024-06-03T04:34:01.847Z
+updated: 2024-06-04T04:34:01.847Z
 tags: 
   - screen-recording
   - ai video

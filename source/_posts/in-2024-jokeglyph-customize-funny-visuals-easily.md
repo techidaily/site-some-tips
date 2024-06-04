@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Jokeglyph  Customize Funny Visuals Easily\""
-date: 2024-05-27 11:49:55
-updated: 2024-05-28 12:47:11
+date: 2024-06-03T04:28:54.830Z
+updated: 2024-06-04T04:28:54.830Z
 tags: 
   - screen-recording
   - ai video

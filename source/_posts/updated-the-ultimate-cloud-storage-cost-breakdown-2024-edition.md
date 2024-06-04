@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Cloud Storage Cost Breakdown, 2024 Edition"
-date: 2024-05-30 18:31:50
-updated: 2024-06-01 10:36:35
+date: 2024-06-03T04:13:51.605Z
+updated: 2024-06-04T04:13:51.605Z
 tags: 
   - screen-recording
   - ai video

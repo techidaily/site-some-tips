@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Photographer's Guide to Online Image Editing and Cropping\""
-date: 2024-05-30 13:55:23
-updated: 2024-06-01 10:50:38
+date: 2024-06-03T04:19:47.171Z
+updated: 2024-06-04T04:19:47.171Z
 tags: 
   - screen-recording
   - ai video

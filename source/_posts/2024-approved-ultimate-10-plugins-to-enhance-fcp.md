@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate 10 Plugins to Enhance FCP\""
-date: 2024-05-31 21:51:21
-updated: 2024-06-02 11:31:34
+date: 2024-06-03T04:47:25.256Z
+updated: 2024-06-04T04:47:25.256Z
 tags: 
   - screen-recording
   - ai video

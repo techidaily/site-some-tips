@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smoothing Playback  The Truth Behind Frozen Photo Booth Videos\""
-date: 2024-05-29 19:31:40
-updated: 2024-05-31 11:33:43
+date: 2024-06-03T04:46:05.889Z
+updated: 2024-06-04T04:46:05.889Z
 tags: 
   - screen-recording
   - ai video

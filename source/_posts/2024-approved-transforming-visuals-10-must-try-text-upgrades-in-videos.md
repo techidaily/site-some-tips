@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Visuals  10 Must-Try Text Upgrades in Videos\""
-date: 2024-06-01 22:37:14
-updated: 2024-06-02 11:55:53
+date: 2024-06-03T04:07:37.567Z
+updated: 2024-06-04T04:07:37.567Z
 tags: 
   - screen-recording
   - ai video

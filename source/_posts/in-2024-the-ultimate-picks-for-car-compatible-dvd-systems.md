@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Picks for Car-Compatible DVD Systems\""
-date: 2024-05-29 11:51:19
-updated: 2024-06-01 10:57:33
+date: 2024-06-03T04:34:43.327Z
+updated: 2024-06-04T04:34:43.327Z
 tags: 
   - screen-recording
   - ai video

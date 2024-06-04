@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Sunset to Silhouette  Adobe Guide\""
-date: 2024-05-28 21:19:27
-updated: 2024-05-31 11:36:48
+date: 2024-06-03T03:50:07.807Z
+updated: 2024-06-04T03:50:07.807Z
 tags: 
   - screen-recording
   - ai video

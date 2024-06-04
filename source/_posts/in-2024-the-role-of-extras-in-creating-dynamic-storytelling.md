@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Role of Extras in Creating Dynamic Storytelling"
-date: 2024-05-29 13:41:39
-updated: 2024-06-01 10:58:30
+date: 2024-06-03T04:38:29.025Z
+updated: 2024-06-04T04:38:29.025Z
 tags: 
   - screen-recording
   - ai video

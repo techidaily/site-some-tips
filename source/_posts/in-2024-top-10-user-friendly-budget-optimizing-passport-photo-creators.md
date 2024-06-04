@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators\""
-date: 2024-05-31 20:20:55
-updated: 2024-06-02 10:15:46
+date: 2024-06-03T04:10:23.785Z
+updated: 2024-06-04T04:10:23.785Z
 tags: 
   - screen-recording
   - ai video

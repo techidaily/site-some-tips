@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding the Streaming Landscape  Twitch Vs YouTube Compared\""
-date: 2024-05-30 12:42:13
-updated: 2024-06-02 10:56:10
+date: 2024-06-03T04:12:22.863Z
+updated: 2024-06-04T04:12:22.863Z
 tags: 
   - screen-recording
   - ai video

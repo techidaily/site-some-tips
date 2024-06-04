@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Thorough Investigation  Hero4 Black Features\""
-date: 2024-05-31 15:39:41
-updated: 2024-06-01 10:26:44
+date: 2024-06-03T04:16:41.149Z
+updated: 2024-06-04T04:16:41.149Z
 tags: 
   - screen-recording
   - ai video

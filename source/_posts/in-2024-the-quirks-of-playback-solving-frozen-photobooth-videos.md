@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Quirks of Playback  Solving Frozen Photobooth Videos\""
-date: 2024-05-29 17:29:30
-updated: 2024-06-01 11:50:41
+date: 2024-06-03T04:22:34.263Z
+updated: 2024-06-04T04:22:34.263Z
 tags: 
   - screen-recording
   - ai video

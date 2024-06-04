@@ -1,7 +1,7 @@
 ---
 title: "The Art of Zooming in YouTube Videos for 2024"
-date: 2024-05-31 21:16:30
-updated: 2024-06-01 11:27:24
+date: 2024-06-03T03:56:47.727Z
+updated: 2024-06-04T03:56:47.727Z
 tags: 
   - screen-recording
   - ai video

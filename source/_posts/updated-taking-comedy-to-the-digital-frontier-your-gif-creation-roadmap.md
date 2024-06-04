@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Taking Comedy to the Digital Frontier  Your GIF Creation Roadmap\""
-date: 2024-05-28 12:31:30
-updated: 2024-05-31 10:35:47
+date: 2024-06-03T04:52:02.133Z
+updated: 2024-06-04T04:52:02.133Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, TikTok's Best Practices for Stellar Edits"
-date: 2024-05-29 13:28:51
-updated: 2024-06-01 11:33:48
+date: 2024-06-03T04:50:38.930Z
+updated: 2024-06-04T04:50:38.930Z
 tags: 
   - screen-recording
   - ai video

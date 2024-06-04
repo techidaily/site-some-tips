@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Value Airborne Inventors  Budget-Friendly Flight Tools\""
-date: 2024-06-01 16:16:32
-updated: 2024-06-03 10:53:34
+date: 2024-06-03T04:22:23.891Z
+updated: 2024-06-04T04:22:23.891Z
 tags: 
   - screen-recording
   - ai video

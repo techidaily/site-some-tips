@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Your Visuals  Quick 3DLUT Edits\""
-date: 2024-05-31 12:13:33
-updated: 2024-06-02 11:10:11
+date: 2024-06-03T04:25:33.905Z
+updated: 2024-06-04T04:25:33.905Z
 tags: 
   - screen-recording
   - ai video

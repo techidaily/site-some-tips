@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] From Basic to Brilliant  Top 10 Pixlr Techniques\""
-date: 2024-05-24 16:10:24
-updated: 2024-05-26 10:16:45
+date: 2024-06-03T04:08:27.957Z
+updated: 2024-06-04T04:08:27.957Z
 tags: 
   - screen-recording
   - ai video

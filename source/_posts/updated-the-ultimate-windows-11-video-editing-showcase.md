@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Windows 11 Video Editing Showcase"
-date: 2024-05-31 20:36:44
-updated: 2024-06-01 11:26:15
+date: 2024-06-03T04:21:14.107Z
+updated: 2024-06-04T04:21:14.107Z
 tags: 
   - screen-recording
   - ai video

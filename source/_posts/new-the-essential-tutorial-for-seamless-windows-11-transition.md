@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Tutorial for Seamless Windows 11 Transition"
-date: 2024-05-30 11:38:41
-updated: 2024-06-01 10:50:53
+date: 2024-06-03T04:29:06.203Z
+updated: 2024-06-04T04:29:06.203Z
 tags: 
   - screen-recording
   - ai video

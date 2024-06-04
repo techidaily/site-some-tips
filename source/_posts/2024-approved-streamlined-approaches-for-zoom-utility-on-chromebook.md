@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlined Approaches for Zoom Utility on Chromebook\""
-date: 2024-05-28 23:12:32
-updated: 2024-05-31 12:12:48
+date: 2024-06-03T04:40:24.807Z
+updated: 2024-06-04T04:40:24.807Z
 tags: 
   - screen-recording
   - ai video

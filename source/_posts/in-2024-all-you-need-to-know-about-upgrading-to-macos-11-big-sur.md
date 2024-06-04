@@ -1,7 +1,7 @@
 ---
 title: "In 2024, All You Need to Know About Upgrading to macOS 11 Big Sur"
-date: 2024-05-31 17:40:14
-updated: 2024-06-03 10:31:13
+date: 2024-06-03T04:32:06.341Z
+updated: 2024-06-04T04:32:06.341Z
 tags: 
   - screen-recording
   - ai video

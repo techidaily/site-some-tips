@@ -1,7 +1,7 @@
 ---
 title: "Top Smartphones to Elevate Your Content Game for 2024"
-date: 2024-06-01 17:19:38
-updated: 2024-06-02 10:23:20
+date: 2024-06-03T04:20:41.862Z
+updated: 2024-06-04T04:20:41.862Z
 tags: 
   - screen-recording
   - ai video

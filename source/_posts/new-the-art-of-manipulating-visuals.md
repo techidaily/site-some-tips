@@ -1,7 +1,7 @@
 ---
 title: "[New] The Art of Manipulating Visuals"
-date: 2024-05-30 19:12:44
-updated: 2024-06-01 10:57:24
+date: 2024-06-03T04:07:18.294Z
+updated: 2024-06-04T04:07:18.294Z
 tags: 
   - screen-recording
   - ai video

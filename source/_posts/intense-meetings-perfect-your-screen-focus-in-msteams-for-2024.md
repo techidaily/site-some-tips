@@ -1,7 +1,7 @@
 ---
 title: "\"Intense Meetings  Perfect Your Screen Focus in MSTEAMS for 2024\""
-date: 2024-05-26 14:57:58
-updated: 2024-05-27 11:39:42
+date: 2024-06-03T04:49:39.550Z
+updated: 2024-06-04T04:49:39.550Z
 tags: 
   - screen-recording
   - ai video

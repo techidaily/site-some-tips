@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlined High-Quality HDR Experience for Your Computer\""
-date: 2024-05-30 15:12:46
-updated: 2024-05-31 11:16:14
+date: 2024-06-03T04:24:27.962Z
+updated: 2024-06-04T04:24:27.962Z
 tags: 
   - screen-recording
   - ai video

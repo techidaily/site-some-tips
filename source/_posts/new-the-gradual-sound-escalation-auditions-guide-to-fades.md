@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Gradual Sound Escalation  Audition’s Guide to Fades\""
-date: 2024-05-29 20:37:24
-updated: 2024-06-01 12:53:21
+date: 2024-06-03T04:42:44.397Z
+updated: 2024-06-04T04:42:44.397Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Strategy Sketches  Plotting the Market Map for 2024\""
-date: 2024-05-30 12:17:31
-updated: 2024-05-31 12:41:41
+date: 2024-06-03T04:23:13.038Z
+updated: 2024-06-04T04:23:13.038Z
 tags: 
   - screen-recording
   - ai video

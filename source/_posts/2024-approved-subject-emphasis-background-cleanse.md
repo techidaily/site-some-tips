@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Subject Emphasis  Background Cleanse\""
-date: 2024-05-28 10:32:47
-updated: 2024-05-31 12:49:58
+date: 2024-06-03T04:22:26.013Z
+updated: 2024-06-04T04:22:26.013Z
 tags: 
   - screen-recording
   - ai video

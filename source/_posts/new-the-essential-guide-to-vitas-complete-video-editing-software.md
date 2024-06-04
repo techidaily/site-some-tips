@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to Vita's Complete Video Editing Software"
-date: 2024-05-30 17:30:49
-updated: 2024-06-01 10:15:52
+date: 2024-06-03T04:21:32.030Z
+updated: 2024-06-04T04:21:32.030Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleash Creativity with These Essential Vector Editors"
-date: 2024-05-31 12:17:29
-updated: 2024-06-02 11:51:10
+date: 2024-06-03T04:42:00.161Z
+updated: 2024-06-04T04:42:00.161Z
 tags: 
   - screen-recording
   - ai video

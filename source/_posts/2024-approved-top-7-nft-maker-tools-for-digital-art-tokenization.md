@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 7 NFT Maker Tools for Digital Art Tokenization\""
-date: 2024-05-31 20:21:34
-updated: 2024-06-02 11:36:40
+date: 2024-06-03T03:49:35.493Z
+updated: 2024-06-04T03:49:35.493Z
 tags: 
   - screen-recording
   - ai video

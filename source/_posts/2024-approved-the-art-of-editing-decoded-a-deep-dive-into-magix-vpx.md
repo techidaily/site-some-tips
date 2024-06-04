@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Editing Decoded  A Deep Dive Into Magix VPX\""
-date: 2024-05-29 14:21:13
-updated: 2024-06-01 12:36:23
+date: 2024-06-03T04:17:39.994Z
+updated: 2024-06-04T04:17:39.994Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Netflix's Floating Window Feature Effectively for 2024"
-date: 2024-06-01 20:29:37
-updated: 2024-06-03 10:54:42
+date: 2024-06-03T04:22:56.288Z
+updated: 2024-06-04T04:22:56.288Z
 tags: 
   - screen-recording
   - ai video

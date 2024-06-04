@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Syncopating YouTube Melodies with Visuals\""
-date: 2024-05-29 14:42:53
-updated: 2024-05-31 10:33:35
+date: 2024-06-03T04:01:17.508Z
+updated: 2024-06-04T04:01:17.508Z
 tags: 
   - screen-recording
   - ai video

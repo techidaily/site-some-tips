@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top FREE AE Template Packs for Amateurs"
-date: 2024-05-30 11:29:34
-updated: 2024-06-02 12:35:48
+date: 2024-06-03T04:40:21.978Z
+updated: 2024-06-04T04:40:21.978Z
 tags: 
   - screen-recording
   - ai video

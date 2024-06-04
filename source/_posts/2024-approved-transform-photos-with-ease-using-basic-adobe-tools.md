@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Photos with Ease Using Basic Adobe Tools\""
-date: 2024-05-31 12:39:25
-updated: 2024-06-02 11:21:59
+date: 2024-06-03T04:16:08.641Z
+updated: 2024-06-04T04:16:08.641Z
 tags: 
   - screen-recording
   - ai video

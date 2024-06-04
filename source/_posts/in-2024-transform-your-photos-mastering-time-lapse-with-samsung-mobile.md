@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transform Your Photos  Mastering Time Lapse with Samsung Mobile\""
-date: 2024-06-01 22:51:54
-updated: 2024-06-02 11:38:44
+date: 2024-06-03T03:44:54.378Z
+updated: 2024-06-04T03:44:54.378Z
 tags: 
   - screen-recording
   - ai video

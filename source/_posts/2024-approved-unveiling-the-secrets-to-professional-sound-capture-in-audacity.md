@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Secrets to Professional Sound Capture in Audacity\""
-date: 2024-06-01 20:41:16
-updated: 2024-06-03 12:55:56
+date: 2024-06-03T04:21:55.642Z
+updated: 2024-06-04T04:21:55.642Z
 tags: 
   - screen-recording
   - ai video

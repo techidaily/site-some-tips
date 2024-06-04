@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling 30 New Dimensions in Metaverse Memes\""
-date: 2024-06-02 17:13:22
-updated: 2024-06-03 10:18:16
+date: 2024-06-03T04:09:45.698Z
+updated: 2024-06-04T04:09:45.698Z
 tags: 
   - screen-recording
   - ai video

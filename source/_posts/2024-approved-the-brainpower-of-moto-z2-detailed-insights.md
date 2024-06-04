@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Brainpower of Moto Z2  Detailed Insights\""
-date: 2024-05-30 16:47:25
-updated: 2024-06-01 11:34:35
+date: 2024-06-03T04:28:17.723Z
+updated: 2024-06-04T04:28:17.723Z
 tags: 
   - screen-recording
   - ai video

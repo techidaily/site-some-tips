@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate List  Top 10 Budget-Friendly Photo Editors for PC/OS X for 2024\""
-date: 2024-05-30 14:50:47
-updated: 2024-06-01 10:37:48
+date: 2024-06-03T04:19:35.106Z
+updated: 2024-06-04T04:19:35.106Z
 tags: 
   - screen-recording
   - ai video

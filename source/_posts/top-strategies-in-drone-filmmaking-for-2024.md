@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies in Drone Filmmaking for 2024"
-date: 2024-05-31 22:46:54
-updated: 2024-06-02 11:59:52
+date: 2024-06-03T03:47:12.631Z
+updated: 2024-06-04T03:47:12.631Z
 tags: 
   - screen-recording
   - ai video

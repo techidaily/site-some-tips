@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Zoom's Potential by Leveraging Skype for 2024"
-date: 2024-05-31 19:56:47
-updated: 2024-06-03 10:40:23
+date: 2024-06-03T03:59:30.006Z
+updated: 2024-06-04T03:59:30.006Z
 tags: 
   - screen-recording
   - ai video

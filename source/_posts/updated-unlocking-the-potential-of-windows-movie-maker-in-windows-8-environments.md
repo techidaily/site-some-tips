@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking the Potential of Windows Movie Maker in Windows 8 Environments"
-date: 2024-06-01 15:41:59
-updated: 2024-06-03 12:14:24
+date: 2024-06-03T04:32:59.467Z
+updated: 2024-06-04T04:32:59.467Z
 tags: 
   - screen-recording
   - ai video

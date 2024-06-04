@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Premiere Pro Planning & Templates\""
-date: 2024-05-30 12:47:47
-updated: 2024-06-01 10:33:58
+date: 2024-06-03T04:08:39.023Z
+updated: 2024-06-04T04:08:39.023Z
 tags: 
   - screen-recording
   - ai video

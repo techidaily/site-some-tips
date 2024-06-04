@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Guide to Best Camcorders - Top 10 List, 2024\""
-date: 2024-05-31 17:51:33
-updated: 2024-06-02 12:17:22
+date: 2024-06-03T04:50:28.085Z
+updated: 2024-06-04T04:50:28.085Z
 tags: 
   - screen-recording
   - ai video

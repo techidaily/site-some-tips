@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Telehealth Advancements with VR Integrations"
-date: 2024-05-30 11:38:27
-updated: 2024-05-31 11:22:13
+date: 2024-06-03T04:17:17.133Z
+updated: 2024-06-04T04:17:17.133Z
 tags: 
   - screen-recording
   - ai video

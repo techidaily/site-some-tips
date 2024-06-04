@@ -1,7 +1,7 @@
 ---
 title: "[Updated] SnapEdit Story – Complete Video Editor Features"
-date: 2024-05-30 13:39:14
-updated: 2024-05-31 11:35:58
+date: 2024-06-03T04:47:44.331Z
+updated: 2024-06-04T04:47:44.331Z
 tags: 
   - screen-recording
   - ai video

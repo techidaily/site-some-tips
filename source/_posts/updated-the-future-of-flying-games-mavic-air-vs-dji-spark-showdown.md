@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Future of Flying Games  Mavic Air Vs. DJI Spark Showdown\""
-date: 2024-05-29 13:35:39
-updated: 2024-06-01 11:25:41
+date: 2024-06-03T03:59:02.391Z
+updated: 2024-06-04T03:59:02.391Z
 tags: 
   - screen-recording
   - ai video

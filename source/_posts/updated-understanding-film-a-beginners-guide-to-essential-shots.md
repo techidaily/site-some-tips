@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Understanding Film  A Beginner's Guide to Essential Shots\""
-date: 2024-05-30 11:26:44
-updated: 2024-06-02 12:44:30
+date: 2024-06-03T04:28:47.053Z
+updated: 2024-06-04T04:28:47.053Z
 tags: 
   - screen-recording
   - ai video

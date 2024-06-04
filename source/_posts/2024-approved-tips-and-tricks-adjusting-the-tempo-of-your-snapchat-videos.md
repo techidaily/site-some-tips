@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips and Tricks  Adjusting the Tempo of Your Snapchat Videos\""
-date: 2024-05-31 19:50:23
-updated: 2024-06-02 11:52:41
+date: 2024-06-03T04:00:44.274Z
+updated: 2024-06-04T04:00:44.274Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Encyclopedia of Motion Sensing  Types & Applications\""
-date: 2024-05-30 11:20:22
-updated: 2024-06-01 10:21:10
+date: 2024-06-03T04:20:28.722Z
+updated: 2024-06-04T04:20:28.722Z
 tags: 
   - screen-recording
   - ai video

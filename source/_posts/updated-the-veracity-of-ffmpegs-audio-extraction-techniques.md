@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Veracity of FFmpeg’s Audio Extraction Techniques"
-date: 2024-05-31 13:56:44
-updated: 2024-06-01 12:17:48
+date: 2024-06-03T04:08:00.079Z
+updated: 2024-06-04T04:08:00.079Z
 tags: 
   - screen-recording
   - ai video

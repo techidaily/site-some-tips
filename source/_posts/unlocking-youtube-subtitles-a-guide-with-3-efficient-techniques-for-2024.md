@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking YouTube Subtitles  A Guide with 3 Efficient Techniques for 2024\""
-date: 2024-05-31 22:10:27
-updated: 2024-06-03 11:28:15
+date: 2024-06-03T04:34:25.946Z
+updated: 2024-06-04T04:34:25.946Z
 tags: 
   - screen-recording
   - ai video

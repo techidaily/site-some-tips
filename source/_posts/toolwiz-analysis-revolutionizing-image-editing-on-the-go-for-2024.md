@@ -1,7 +1,7 @@
 ---
 title: "\"Toolwiz Analysis  Revolutionizing Image Editing on the Go for 2024\""
-date: 2024-06-01 15:41:14
-updated: 2024-06-02 12:41:18
+date: 2024-06-03T03:54:01.515Z
+updated: 2024-06-04T03:54:01.515Z
 tags: 
   - screen-recording
   - ai video

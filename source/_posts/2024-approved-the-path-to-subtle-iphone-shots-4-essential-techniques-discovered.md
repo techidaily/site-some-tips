@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Path to Subtle iPhone Shots  4 Essential Techniques Discovered\""
-date: 2024-05-30 23:14:33
-updated: 2024-06-01 12:43:16
+date: 2024-06-03T04:35:07.405Z
+updated: 2024-06-04T04:35:07.405Z
 tags: 
   - screen-recording
   - ai video

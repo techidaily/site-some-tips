@@ -1,7 +1,7 @@
 ---
 title: "[New] The Smart Shopper's Guide to Camcorder Choices in Winter"
-date: 2024-05-30 16:23:39
-updated: 2024-06-01 10:54:30
+date: 2024-06-03T04:06:16.213Z
+updated: 2024-06-04T04:06:16.213Z
 tags: 
   - screen-recording
   - ai video

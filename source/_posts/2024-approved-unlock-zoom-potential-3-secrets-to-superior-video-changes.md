@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock Zoom Potential  3 Secrets to Superior Video Changes\""
-date: 2024-06-02 13:30:37
-updated: 2024-06-03 12:19:14
+date: 2024-06-03T04:03:59.389Z
+updated: 2024-06-04T04:03:59.389Z
 tags: 
   - screen-recording
   - ai video

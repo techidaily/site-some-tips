@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Scope of Motion Tracking  From Simple to Complex\""
-date: 2024-05-29 17:40:50
-updated: 2024-06-01 11:52:30
+date: 2024-06-03T04:11:25.553Z
+updated: 2024-06-04T04:11:25.553Z
 tags: 
   - screen-recording
   - ai video

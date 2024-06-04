@@ -1,7 +1,7 @@
 ---
 title: "\"Transitioning to Windows 11  A Step-by-Step Guide for 2024\""
-date: 2024-06-01 20:34:38
-updated: 2024-06-02 12:14:14
+date: 2024-06-03T04:40:15.594Z
+updated: 2024-06-04T04:40:15.594Z
 tags: 
   - screen-recording
   - ai video

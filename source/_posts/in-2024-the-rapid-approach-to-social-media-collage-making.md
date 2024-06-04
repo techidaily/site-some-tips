@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Rapid Approach to Social Media Collage Making"
-date: 2024-05-31 12:55:56
-updated: 2024-06-01 11:33:47
+date: 2024-06-03T04:01:51.989Z
+updated: 2024-06-04T04:01:51.989Z
 tags: 
   - screen-recording
   - ai video

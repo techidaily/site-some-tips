@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Art of Shots  Discover the Best Camera Angles for iPhones\""
-date: 2024-05-29 21:55:43
-updated: 2024-06-01 11:13:19
+date: 2024-06-03T04:33:30.999Z
+updated: 2024-06-04T04:33:30.999Z
 tags: 
   - screen-recording
   - ai video

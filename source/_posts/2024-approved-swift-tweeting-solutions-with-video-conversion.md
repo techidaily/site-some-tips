@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swift Tweeting Solutions with Video Conversion\""
-date: 2024-05-29 15:15:10
-updated: 2024-05-31 10:32:22
+date: 2024-06-03T04:21:52.506Z
+updated: 2024-06-04T04:21:52.506Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Still Faces  Picsart's Motion Blur Magic\""
-date: 2024-05-31 23:14:19
-updated: 2024-06-02 11:47:42
+date: 2024-06-03T04:37:17.874Z
+updated: 2024-06-04T04:37:17.874Z
 tags: 
   - screen-recording
   - ai video

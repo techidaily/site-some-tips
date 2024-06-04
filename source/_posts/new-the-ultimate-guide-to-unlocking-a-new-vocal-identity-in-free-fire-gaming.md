@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming"
-date: 2024-05-31 17:28:55
-updated: 2024-06-01 12:19:10
+date: 2024-06-03T04:12:34.746Z
+updated: 2024-06-04T04:12:34.746Z
 tags: 
   - screen-recording
   - ai video

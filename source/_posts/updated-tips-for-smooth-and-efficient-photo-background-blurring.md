@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips for Smooth and Efficient Photo Background Blurring"
-date: 2024-06-01 20:37:14
-updated: 2024-06-02 10:51:49
+date: 2024-06-03T03:57:26.737Z
+updated: 2024-06-04T03:57:26.737Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Tips for Zoom on Chrome Devices"
-date: 2024-06-01 22:41:26
-updated: 2024-06-02 11:37:28
+date: 2024-06-03T03:49:58.571Z
+updated: 2024-06-04T03:49:58.571Z
 tags: 
   - screen-recording
   - ai video

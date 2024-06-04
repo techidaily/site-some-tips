@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transforming Scenes with Ease  Your GoPro Time-Lapse Guide\""
-date: 2024-06-01 23:39:43
-updated: 2024-06-02 11:27:52
+date: 2024-06-03T04:08:02.226Z
+updated: 2024-06-04T04:08:02.226Z
 tags: 
   - screen-recording
   - ai video

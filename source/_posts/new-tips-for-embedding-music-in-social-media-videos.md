@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips for Embedding Music in Social Media Videos"
-date: 2024-05-31 21:55:38
-updated: 2024-06-02 11:27:21
+date: 2024-06-03T04:08:20.817Z
+updated: 2024-06-04T04:08:20.817Z
 tags: 
   - screen-recording
   - ai video

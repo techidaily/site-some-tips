@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlock the Power to Create Personalized WhatsApp Alerts"
-date: 2024-06-01 22:47:23
-updated: 2024-06-03 10:41:51
+date: 2024-06-03T04:20:36.913Z
+updated: 2024-06-04T04:20:36.913Z
 tags: 
   - screen-recording
   - ai video

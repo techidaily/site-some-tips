@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the Ultimate 15 Stop-Motion Film Collection\""
-date: 2024-06-02 18:23:47
-updated: 2024-06-03 12:58:20
+date: 2024-06-03T04:29:32.081Z
+updated: 2024-06-04T04:29:32.081Z
 tags: 
   - screen-recording
   - ai video

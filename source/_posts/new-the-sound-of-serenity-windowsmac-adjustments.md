@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Sound of Serenity  Windows/Mac Adjustments\""
-date: 2024-05-30 18:22:28
-updated: 2024-06-01 11:51:34
+date: 2024-06-03T04:14:05.829Z
+updated: 2024-06-04T04:14:05.829Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Professional's Blueprint for Investing in High-Definition Viewing\""
-date: 2024-05-30 11:27:20
-updated: 2024-06-01 10:37:58
+date: 2024-06-03T04:46:29.209Z
+updated: 2024-06-04T04:46:29.209Z
 tags: 
   - screen-recording
   - ai video

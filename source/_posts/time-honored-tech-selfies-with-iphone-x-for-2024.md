@@ -1,7 +1,7 @@
 ---
 title: "\"Time-Honored Tech  Selfies with iPhone X for 2024\""
-date: 2024-05-30 16:52:41
-updated: 2024-06-02 11:42:48
+date: 2024-06-03T04:42:55.707Z
+updated: 2024-06-04T04:42:55.707Z
 tags: 
   - screen-recording
   - ai video

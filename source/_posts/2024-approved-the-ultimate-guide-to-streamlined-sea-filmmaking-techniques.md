@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Streamlined Sea Filmmaking Techniques\""
-date: 2024-05-30 15:34:48
-updated: 2024-06-01 11:39:17
+date: 2024-06-03T04:25:38.159Z
+updated: 2024-06-04T04:25:38.159Z
 tags: 
   - screen-recording
   - ai video

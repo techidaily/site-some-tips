@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamline Your Video Workflow  YouTube-to-MPEG Essentials\""
-date: 2024-05-30 10:56:48
-updated: 2024-05-31 11:10:19
+date: 2024-06-03T04:50:31.974Z
+updated: 2024-06-04T04:50:31.974Z
 tags: 
   - screen-recording
   - ai video

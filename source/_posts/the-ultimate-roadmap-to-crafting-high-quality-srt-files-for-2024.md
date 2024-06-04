@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Roadmap to Crafting High-Quality SRT Files for 2024\""
-date: 2024-05-30 12:27:18
-updated: 2024-06-01 12:42:23
+date: 2024-06-03T04:05:50.551Z
+updated: 2024-06-04T04:05:50.551Z
 tags: 
   - screen-recording
   - ai video

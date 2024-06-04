@@ -1,7 +1,7 @@
 ---
 title: "\"The Influencer's Playbook  5 Tips for Building Brand Authority Through Reddit Partnerships for 2024\""
-date: 2024-05-29 15:36:18
-updated: 2024-06-01 12:23:18
+date: 2024-06-03T04:22:11.158Z
+updated: 2024-06-04T04:22:11.158Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)"
-date: 2024-05-31 12:20:40
-updated: 2024-06-01 10:27:45
+date: 2024-06-03T04:29:26.436Z
+updated: 2024-06-04T04:29:26.436Z
 tags: 
   - screen-recording
   - ai video

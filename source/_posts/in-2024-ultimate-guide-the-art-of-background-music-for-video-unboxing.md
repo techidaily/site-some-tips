@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Ultimate Guide  The Art of Background Music for Video Unboxing\""
-date: 2024-06-01 17:56:43
-updated: 2024-06-02 10:16:32
+date: 2024-06-03T04:24:45.292Z
+updated: 2024-06-04T04:24:45.292Z
 tags: 
   - screen-recording
   - ai video

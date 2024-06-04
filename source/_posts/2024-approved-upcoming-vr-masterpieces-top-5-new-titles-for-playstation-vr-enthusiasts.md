@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Upcoming VR Masterpieces  Top 5 New Titles for PlayStation VR Enthusiasts\""
-date: 2024-05-31 16:48:53
-updated: 2024-06-03 11:17:24
+date: 2024-06-03T04:30:59.863Z
+updated: 2024-06-04T04:30:59.863Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Understanding MacOS Big Sur  Minimum Requirements\""
-date: 2024-06-01 16:29:29
-updated: 2024-06-02 12:50:58
+date: 2024-06-03T04:52:15.389Z
+updated: 2024-06-04T04:52:15.389Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Complete How-To for Mac OBS + Streamlabs Integration for 2024\""
-date: 2024-05-30 17:56:11
-updated: 2024-06-01 12:43:53
+date: 2024-06-03T04:35:55.695Z
+updated: 2024-06-04T04:35:55.695Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Top 3D TVs for Immersive Blu-Ray Viewing for 2024\""
-date: 2024-05-30 13:36:59
-updated: 2024-06-02 12:23:49
+date: 2024-06-03T04:20:04.602Z
+updated: 2024-06-04T04:20:04.602Z
 tags: 
   - screen-recording
   - ai video

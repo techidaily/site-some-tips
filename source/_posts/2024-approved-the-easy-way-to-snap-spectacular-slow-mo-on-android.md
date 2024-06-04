@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Easy Way to Snap Spectacular Slow Mo on Android\""
-date: 2024-05-31 19:40:43
-updated: 2024-06-01 12:37:37
+date: 2024-06-03T04:43:37.776Z
+updated: 2024-06-04T04:43:37.776Z
 tags: 
   - screen-recording
   - ai video

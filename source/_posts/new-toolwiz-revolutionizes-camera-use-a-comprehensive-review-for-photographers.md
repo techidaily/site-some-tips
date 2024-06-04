@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Toolwiz Revolutionizes Camera Use - A Comprehensive Review for Photographers\""
-date: 2024-06-01 13:57:31
-updated: 2024-06-02 10:27:59
+date: 2024-06-03T04:23:44.962Z
+updated: 2024-06-04T04:23:44.962Z
 tags: 
   - screen-recording
   - ai video

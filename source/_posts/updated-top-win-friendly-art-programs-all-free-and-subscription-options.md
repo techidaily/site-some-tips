@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Win-Friendly Art Programs  All-Free & Subscription Options\""
-date: 2024-06-01 16:28:20
-updated: 2024-06-02 11:14:47
+date: 2024-06-03T04:13:55.181Z
+updated: 2024-06-04T04:13:55.181Z
 tags: 
   - screen-recording
   - ai video

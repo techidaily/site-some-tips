@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Comparison  Best Microphones for Podcasters\""
-date: 2024-05-30 15:27:53
-updated: 2024-06-01 10:27:11
+date: 2024-06-03T04:32:08.470Z
+updated: 2024-06-04T04:32:08.470Z
 tags: 
   - screen-recording
   - ai video

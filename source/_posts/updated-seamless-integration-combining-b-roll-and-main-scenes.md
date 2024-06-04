@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Seamless Integration  Combining B-Roll and Main Scenes\""
-date: 2024-05-28 21:11:48
-updated: 2024-05-30 12:56:39
+date: 2024-06-03T04:14:20.056Z
+updated: 2024-06-04T04:14:20.056Z
 tags: 
   - screen-recording
   - ai video

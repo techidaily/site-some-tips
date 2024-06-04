@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Picks  Explore the Best New Windows 10 Apps and Games\""
-date: 2024-05-30 16:45:25
-updated: 2024-06-02 11:40:11
+date: 2024-06-03T03:47:58.264Z
+updated: 2024-06-04T03:47:58.264Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Maximizing Your Medical Ads on FB for 2024"
-date: 2024-05-29 13:16:24
-updated: 2024-06-01 12:31:26
+date: 2024-06-03T04:21:40.468Z
+updated: 2024-06-04T04:21:40.468Z
 tags: 
   - screen-recording
   - ai video

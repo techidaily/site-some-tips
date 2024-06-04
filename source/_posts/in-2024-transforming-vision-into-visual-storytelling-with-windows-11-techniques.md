@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Vision Into Visual Storytelling with Windows 11 Techniques"
-date: 2024-05-30 23:55:10
-updated: 2024-06-02 12:19:11
+date: 2024-06-03T03:53:22.472Z
+updated: 2024-06-04T03:53:22.472Z
 tags: 
   - screen-recording
   - ai video

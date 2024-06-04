@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Software Guide to Photos in Videography"
-date: 2024-05-30 14:45:28
-updated: 2024-06-02 12:57:25
+date: 2024-06-03T04:22:54.876Z
+updated: 2024-06-04T04:22:54.876Z
 tags: 
   - screen-recording
   - ai video

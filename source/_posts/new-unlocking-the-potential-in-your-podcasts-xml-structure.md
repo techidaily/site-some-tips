@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking the Potential in Your Podcast's XML Structure"
-date: 2024-06-02 16:11:43
-updated: 2024-06-03 11:39:52
+date: 2024-06-03T03:46:31.275Z
+updated: 2024-06-04T03:46:31.275Z
 tags: 
   - screen-recording
   - ai video

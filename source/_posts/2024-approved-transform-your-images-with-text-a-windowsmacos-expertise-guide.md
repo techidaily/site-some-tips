@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your Images with Text  A Windows/MacOS Expertise Guide\""
-date: 2024-05-31 10:14:50
-updated: 2024-06-02 11:48:13
+date: 2024-06-03T03:54:52.698Z
+updated: 2024-06-04T03:54:52.698Z
 tags: 
   - screen-recording
   - ai video

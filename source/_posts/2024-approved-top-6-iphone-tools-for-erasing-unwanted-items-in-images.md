@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 6 iPhone Tools for Erasing Unwanted Items in Images\""
-date: 2024-05-31 18:44:53
-updated: 2024-06-02 10:44:33
+date: 2024-06-03T04:03:57.259Z
+updated: 2024-06-04T04:03:57.259Z
 tags: 
   - screen-recording
   - ai video

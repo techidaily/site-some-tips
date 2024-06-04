@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Media Manipulation  From Text Formats to SRTs\""
-date: 2024-05-29 16:48:32
-updated: 2024-06-01 11:57:54
+date: 2024-06-03T04:42:34.498Z
+updated: 2024-06-04T04:42:34.498Z
 tags: 
   - screen-recording
   - ai video

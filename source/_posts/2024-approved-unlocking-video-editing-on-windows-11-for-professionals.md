@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Video Editing on Windows 11 for Professionals\""
-date: 2024-05-31 14:56:24
-updated: 2024-06-03 12:42:25
+date: 2024-06-03T03:54:22.051Z
+updated: 2024-06-04T03:54:22.051Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transitioning Smoothly  The Technology Enhancer's Handbook\""
-date: 2024-05-30 11:48:51
-updated: 2024-06-02 10:22:29
+date: 2024-06-03T03:49:01.247Z
+updated: 2024-06-04T03:49:01.247Z
 tags: 
   - screen-recording
   - ai video

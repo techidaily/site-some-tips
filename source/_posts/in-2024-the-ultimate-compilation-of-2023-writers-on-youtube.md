@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate Compilation of 2023’ Writers on YouTube"
-date: 2024-05-30 21:54:25
-updated: 2024-06-01 11:26:27
+date: 2024-06-03T04:52:13.311Z
+updated: 2024-06-04T04:52:13.311Z
 tags: 
   - screen-recording
   - ai video

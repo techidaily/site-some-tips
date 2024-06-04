@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Using B-Roll to Enhance Cinematic Quality\""
-date: 2024-06-01 12:23:31
-updated: 2024-06-03 10:45:37
+date: 2024-06-03T04:18:41.372Z
+updated: 2024-06-04T04:18:41.372Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Video Storytelling  Integrating Audio Narration\""
-date: 2024-05-30 14:54:20
-updated: 2024-06-01 10:27:23
+date: 2024-06-03T04:22:04.809Z
+updated: 2024-06-04T04:22:04.809Z
 tags: 
   - screen-recording
   - ai video

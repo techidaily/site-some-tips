@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate LG BP350 Monitor Reviews  Expert Opinions & Ratings\""
-date: 2024-05-29 23:19:49
-updated: 2024-06-01 10:20:19
+date: 2024-06-03T04:02:33.054Z
+updated: 2024-06-04T04:02:33.054Z
 tags: 
   - screen-recording
   - ai video

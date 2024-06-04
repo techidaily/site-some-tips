@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fundamentals of Chroma Magic  From Startups to Savvy Screen Tech\""
-date: 2024-05-30 16:46:32
-updated: 2024-06-01 11:49:42
+date: 2024-06-03T03:55:21.037Z
+updated: 2024-06-04T03:55:21.037Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Converting Speech to Text with Google Docs for 2024"
-date: 2024-05-25 20:20:30
-updated: 2024-05-28 12:56:15
+date: 2024-06-03T03:47:03.453Z
+updated: 2024-06-04T03:47:03.453Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Secrets to Subtle Sound Diminishment in Lumafusion for 2024"
-date: 2024-05-31 11:22:27
-updated: 2024-06-01 11:41:27
+date: 2024-06-03T04:36:59.160Z
+updated: 2024-06-04T04:36:59.160Z
 tags: 
   - screen-recording
   - ai video

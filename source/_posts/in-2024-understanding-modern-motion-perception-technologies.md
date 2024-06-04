@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding Modern Motion Perception Technologies"
-date: 2024-05-30 11:26:41
-updated: 2024-06-02 12:15:53
+date: 2024-06-03T04:35:17.674Z
+updated: 2024-06-04T04:35:17.674Z
 tags: 
   - screen-recording
   - ai video

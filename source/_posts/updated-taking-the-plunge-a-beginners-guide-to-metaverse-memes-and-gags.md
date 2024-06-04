@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Taking the Plunge  A Beginner's Guide to Metaverse Memes and Gags\""
-date: 2024-05-30 15:38:28
-updated: 2024-05-31 11:37:38
+date: 2024-06-03T04:41:21.571Z
+updated: 2024-06-04T04:41:21.571Z
 tags: 
   - screen-recording
   - ai video

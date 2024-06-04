@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top Practices to Personalize Snapchat Video Playback"
-date: 2024-05-31 13:33:34
-updated: 2024-06-02 12:57:30
+date: 2024-06-03T03:51:02.052Z
+updated: 2024-06-04T03:51:02.052Z
 tags: 
   - screen-recording
   - ai video

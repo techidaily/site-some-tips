@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques to Reduce iPhone Video Shake"
-date: 2024-05-29 19:53:17
-updated: 2024-05-31 11:28:41
+date: 2024-06-03T04:34:00.435Z
+updated: 2024-06-04T04:34:00.435Z
 tags: 
   - screen-recording
   - ai video

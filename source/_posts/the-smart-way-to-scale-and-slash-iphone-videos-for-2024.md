@@ -1,7 +1,7 @@
 ---
 title: "The Smart Way to Scale & Slash iPhone Videos for 2024"
-date: 2024-05-29 17:13:25
-updated: 2024-06-01 12:50:11
+date: 2024-06-03T04:13:11.433Z
+updated: 2024-06-04T04:13:11.433Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Hidden Potential  How To Use Video Filters on Zoom\""
-date: 2024-06-01 13:22:16
-updated: 2024-06-03 10:59:55
+date: 2024-06-03T04:09:50.273Z
+updated: 2024-06-04T04:09:50.273Z
 tags: 
   - screen-recording
   - ai video

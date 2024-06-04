@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling Sony's Best - Full Review of FDR-X1000V Camera\""
-date: 2024-05-31 18:39:22
-updated: 2024-06-03 10:59:57
+date: 2024-06-03T04:39:04.117Z
+updated: 2024-06-04T04:39:04.117Z
 tags: 
   - screen-recording
   - ai video

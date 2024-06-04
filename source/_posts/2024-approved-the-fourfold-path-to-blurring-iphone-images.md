@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fourfold Path to Blurring iPhone Images\""
-date: 2024-05-29 14:29:47
-updated: 2024-06-01 11:30:16
+date: 2024-06-03T03:45:50.726Z
+updated: 2024-06-04T03:45:50.726Z
 tags: 
   - screen-recording
   - ai video

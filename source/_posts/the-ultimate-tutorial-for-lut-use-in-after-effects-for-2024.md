@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tutorial for LUT Use in After Effects for 2024"
-date: 2024-05-29 20:32:27
-updated: 2024-06-01 10:53:54
+date: 2024-06-03T04:29:41.240Z
+updated: 2024-06-04T04:29:41.240Z
 tags: 
   - screen-recording
   - ai video

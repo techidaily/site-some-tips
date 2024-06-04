@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Secrets of Effective Job Interview Techniques"
-date: 2024-05-31 11:19:29
-updated: 2024-06-03 11:22:21
+date: 2024-06-03T04:01:55.591Z
+updated: 2024-06-04T04:01:55.591Z
 tags: 
   - screen-recording
   - ai video

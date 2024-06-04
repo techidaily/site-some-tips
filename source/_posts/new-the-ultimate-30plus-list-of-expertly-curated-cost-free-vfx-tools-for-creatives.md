@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives\""
-date: 2024-05-29 15:23:33
-updated: 2024-06-01 11:12:50
+date: 2024-06-03T04:52:20.969Z
+updated: 2024-06-04T04:52:20.969Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] VEGAS Pro 19 Review"
-date: 2024-05-31 10:16:42
-updated: 2024-06-03 12:35:29
+date: 2024-06-03T04:41:28.637Z
+updated: 2024-06-04T04:41:28.637Z
 tags: 
   - screen-recording
   - ai video

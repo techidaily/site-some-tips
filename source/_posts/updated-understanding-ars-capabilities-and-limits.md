@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding AR's Capabilities and Limits"
-date: 2024-05-30 21:44:35
-updated: 2024-06-02 10:57:19
+date: 2024-06-03T04:47:48.590Z
+updated: 2024-06-04T04:47:48.590Z
 tags: 
   - screen-recording
   - ai video

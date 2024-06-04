@@ -1,7 +1,7 @@
 ---
 title: "Switching Between Safe Mode & Picture In Picture on iOS/MacOS for 2024"
-date: 2024-05-30 23:27:40
-updated: 2024-05-31 10:34:28
+date: 2024-06-03T04:24:52.382Z
+updated: 2024-06-04T04:24:52.382Z
 tags: 
   - screen-recording
   - ai video

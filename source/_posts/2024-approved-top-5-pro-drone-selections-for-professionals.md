@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 5 Pro Drone Selections for Professionals\""
-date: 2024-06-01 14:49:10
-updated: 2024-06-02 11:11:49
+date: 2024-06-03T03:52:40.512Z
+updated: 2024-06-04T03:52:40.512Z
 tags: 
   - screen-recording
   - ai video

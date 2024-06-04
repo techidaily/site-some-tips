@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top Value Panoramic Recording Equipment for Savvy Shoppers"
-date: 2024-06-01 16:13:58
-updated: 2024-06-02 11:16:46
+date: 2024-06-03T04:45:21.584Z
+updated: 2024-06-04T04:45:21.584Z
 tags: 
   - screen-recording
   - ai video

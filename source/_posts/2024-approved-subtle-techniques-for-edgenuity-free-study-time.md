@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Subtle Techniques for Edgenuity-Free Study Time\""
-date: 2024-05-30 12:11:28
-updated: 2024-05-31 11:50:58
+date: 2024-06-03T03:59:08.586Z
+updated: 2024-06-04T03:59:08.586Z
 tags: 
   - screen-recording
   - ai video

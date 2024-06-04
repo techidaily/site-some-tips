@@ -1,7 +1,7 @@
 ---
 title: "\"The Virtual Evolution Dichotomy  Metaverse & Omniverse Compared for 2024\""
-date: 2024-05-30 13:11:58
-updated: 2024-06-01 10:33:18
+date: 2024-06-03T04:51:59.342Z
+updated: 2024-06-04T04:51:59.342Z
 tags: 
   - screen-recording
   - ai video

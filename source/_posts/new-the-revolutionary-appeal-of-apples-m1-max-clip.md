@@ -1,7 +1,7 @@
 ---
 title: "[New] The Revolutionary Appeal of Apple's M1 Max Clip"
-date: 2024-05-30 11:23:56
-updated: 2024-06-01 10:29:39
+date: 2024-06-03T04:52:19.565Z
+updated: 2024-06-04T04:52:19.565Z
 tags: 
   - screen-recording
   - ai video

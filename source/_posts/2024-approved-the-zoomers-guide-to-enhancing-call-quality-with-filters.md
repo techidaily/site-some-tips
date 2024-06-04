@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Zoomer's Guide to Enhancing Call Quality with Filters\""
-date: 2024-05-31 13:55:29
-updated: 2024-06-01 10:21:14
+date: 2024-06-03T04:10:13.089Z
+updated: 2024-06-04T04:10:13.089Z
 tags: 
   - screen-recording
   - ai video

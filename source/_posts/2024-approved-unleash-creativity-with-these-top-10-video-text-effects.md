@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleash Creativity with These Top 10 Video Text Effects\""
-date: 2024-06-01 16:44:24
-updated: 2024-06-02 11:29:46
+date: 2024-06-03T04:12:23.578Z
+updated: 2024-06-04T04:12:23.578Z
 tags: 
   - screen-recording
   - ai video

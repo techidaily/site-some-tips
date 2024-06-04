@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 30 Metaverse Meme Creation Tips & Trends\""
-date: 2024-05-30 11:46:48
-updated: 2024-06-02 10:30:27
+date: 2024-06-03T04:28:23.380Z
+updated: 2024-06-04T04:28:23.380Z
 tags: 
   - screen-recording
   - ai video

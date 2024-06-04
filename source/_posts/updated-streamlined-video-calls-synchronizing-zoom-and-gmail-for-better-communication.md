@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamlined Video Calls  Synchronizing Zoom & Gmail for Better Communication\""
-date: 2024-05-29 17:56:48
-updated: 2024-05-31 10:36:30
+date: 2024-06-03T03:57:56.321Z
+updated: 2024-06-04T03:57:56.321Z
 tags: 
   - screen-recording
   - ai video

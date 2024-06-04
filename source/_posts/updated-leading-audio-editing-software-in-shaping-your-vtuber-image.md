@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Leading Audio Editing Software in Shaping Your VTuber Image"
-date: 2024-05-27 18:41:40
-updated: 2024-05-28 11:46:45
+date: 2024-06-03T04:26:35.655Z
+updated: 2024-06-04T04:26:35.655Z
 tags: 
   - screen-recording
   - ai video

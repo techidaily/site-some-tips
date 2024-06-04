@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Selection  Best Photo Frame Software\""
-date: 2024-05-29 20:48:11
-updated: 2024-06-01 12:59:24
+date: 2024-06-03T04:06:32.318Z
+updated: 2024-06-04T04:06:32.318Z
 tags: 
   - screen-recording
   - ai video

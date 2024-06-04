@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Finest 4K Displays for Precise Color Control"
-date: 2024-05-31 12:12:28
-updated: 2024-06-01 10:24:23
+date: 2024-06-03T04:40:20.556Z
+updated: 2024-06-04T04:40:20.556Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Tips for Creating Instagrammable Unboxing Highlights\""
-date: 2024-06-01 14:50:34
-updated: 2024-06-02 12:37:15
+date: 2024-06-03T04:15:03.871Z
+updated: 2024-06-04T04:15:03.871Z
 tags: 
   - screen-recording
   - ai video

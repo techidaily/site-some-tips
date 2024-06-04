@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Toolwiz in Pictures  Complete Review Unveiled\""
-date: 2024-06-01 10:12:17
-updated: 2024-06-02 12:45:40
+date: 2024-06-03T04:26:55.480Z
+updated: 2024-06-04T04:26:55.480Z
 tags: 
   - screen-recording
   - ai video

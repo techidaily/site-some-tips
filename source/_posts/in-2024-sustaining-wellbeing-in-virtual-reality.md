@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Sustaining Wellbeing in Virtual Reality"
-date: 2024-05-28 10:22:50
-updated: 2024-05-31 10:48:15
+date: 2024-06-03T04:10:51.921Z
+updated: 2024-06-04T04:10:51.921Z
 tags: 
   - screen-recording
   - ai video

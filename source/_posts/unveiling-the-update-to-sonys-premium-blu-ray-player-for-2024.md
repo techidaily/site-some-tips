@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024\""
-date: 2024-06-01 11:55:30
-updated: 2024-06-03 11:19:17
+date: 2024-06-03T03:57:55.609Z
+updated: 2024-06-04T03:57:55.609Z
 tags: 
   - screen-recording
   - ai video

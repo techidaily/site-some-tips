@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete SRT Reference Manual\""
-date: 2024-05-29 10:46:59
-updated: 2024-06-01 11:47:35
+date: 2024-06-03T04:27:46.161Z
+updated: 2024-06-04T04:27:46.161Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transform Your Mac Display  Utilizing Picture in Picture Multimedia Features\""
-date: 2024-06-01 18:15:36
-updated: 2024-06-02 12:24:24
+date: 2024-06-03T04:17:37.157Z
+updated: 2024-06-04T04:17:37.157Z
 tags: 
   - screen-recording
   - ai video

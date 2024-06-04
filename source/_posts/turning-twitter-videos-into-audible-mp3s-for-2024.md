@@ -1,7 +1,7 @@
 ---
 title: "Turning Twitter Videos Into Audible MP3s for 2024"
-date: 2024-05-31 11:49:11
-updated: 2024-06-02 10:44:20
+date: 2024-06-03T04:05:51.971Z
+updated: 2024-06-04T04:05:51.971Z
 tags: 
   - screen-recording
   - ai video

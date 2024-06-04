@@ -1,7 +1,7 @@
 ---
 title: "\"Tales Before Twilight  A Review of Video-Driven Narratives for 2024\""
-date: 2024-05-29 20:41:47
-updated: 2024-05-31 10:56:26
+date: 2024-06-03T04:06:51.565Z
+updated: 2024-06-04T04:06:51.565Z
 tags: 
   - screen-recording
   - ai video

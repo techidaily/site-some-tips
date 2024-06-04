@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding LUTs  Transforming Images Magic\""
-date: 2024-05-30 11:49:12
-updated: 2024-06-02 12:51:36
+date: 2024-06-03T04:02:22.058Z
+updated: 2024-06-04T04:02:22.058Z
 tags: 
   - screen-recording
   - ai video

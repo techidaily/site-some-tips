@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Removing Photo Borders"
-date: 2024-05-31 15:49:13
-updated: 2024-06-01 12:17:51
+date: 2024-06-03T04:01:41.685Z
+updated: 2024-06-04T04:01:41.685Z
 tags: 
   - screen-recording
   - ai video

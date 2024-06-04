@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Snapchat's Spotlight Mechanics"
-date: 2024-05-31 11:47:40
-updated: 2024-06-03 10:19:17
+date: 2024-06-03T03:48:56.609Z
+updated: 2024-06-04T03:48:56.609Z
 tags: 
   - screen-recording
   - ai video

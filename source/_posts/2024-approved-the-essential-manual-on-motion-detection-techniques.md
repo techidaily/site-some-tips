@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Manual on Motion Detection Techniques\""
-date: 2024-05-31 18:20:15
-updated: 2024-06-01 11:59:17
+date: 2024-06-03T04:29:52.537Z
+updated: 2024-06-04T04:29:52.537Z
 tags: 
   - screen-recording
   - ai video

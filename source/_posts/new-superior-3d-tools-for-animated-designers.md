@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior 3D Tools for Animated Designers"
-date: 2024-05-29 22:12:34
-updated: 2024-05-31 10:42:18
+date: 2024-06-03T03:45:29.947Z
+updated: 2024-06-04T03:45:29.947Z
 tags: 
   - screen-recording
   - ai video

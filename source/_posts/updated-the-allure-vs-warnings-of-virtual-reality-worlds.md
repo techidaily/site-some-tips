@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Allure vs Warnings of Virtual Reality Worlds"
-date: 2024-05-29 12:21:41
-updated: 2024-06-01 12:33:16
+date: 2024-06-03T04:12:48.289Z
+updated: 2024-06-04T04:12:48.289Z
 tags: 
   - screen-recording
   - ai video

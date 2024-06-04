@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Windows Colors  Expertise for Viewing & Editing HD Video\""
-date: 2024-05-27 17:52:15
-updated: 2024-05-28 10:43:39
+date: 2024-06-03T04:29:25.026Z
+updated: 2024-06-04T04:29:25.026Z
 tags: 
   - screen-recording
   - ai video

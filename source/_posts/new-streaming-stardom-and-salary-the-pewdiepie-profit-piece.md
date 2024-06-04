@@ -1,7 +1,7 @@
 ---
 title: "[New] Streaming Stardom and Salary – The PewDiePie Profit Piece"
-date: 2024-05-29 10:51:56
-updated: 2024-05-31 11:14:57
+date: 2024-06-03T03:43:58.146Z
+updated: 2024-06-04T03:43:58.146Z
 tags: 
   - screen-recording
   - ai video

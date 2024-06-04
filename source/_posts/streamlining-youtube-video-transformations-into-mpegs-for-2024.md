@@ -1,7 +1,7 @@
 ---
 title: "Streamlining YouTube Video Transformations Into MPEGs for 2024"
-date: 2024-05-30 11:32:47
-updated: 2024-05-31 12:55:34
+date: 2024-06-03T03:46:32.687Z
+updated: 2024-06-04T03:46:32.687Z
 tags: 
   - screen-recording
   - ai video

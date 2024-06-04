@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlock the Power to Create Personalized WhatsApp Alerts\""
-date: 2024-06-01 21:31:26
-updated: 2024-06-03 12:19:23
+date: 2024-06-03T03:45:20.792Z
+updated: 2024-06-04T03:45:20.792Z
 tags: 
   - screen-recording
   - ai video

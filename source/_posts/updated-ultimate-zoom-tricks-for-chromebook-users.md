@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Zoom Tricks for Chromebook Users"
-date: 2024-06-01 15:17:22
-updated: 2024-06-02 12:37:58
+date: 2024-06-03T03:51:34.182Z
+updated: 2024-06-04T03:51:34.182Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transformative Editing Experience  Windows Photos Meets Story Remix\""
-date: 2024-05-30 23:51:18
-updated: 2024-06-02 10:15:12
+date: 2024-06-03T04:27:31.985Z
+updated: 2024-06-04T04:27:31.985Z
 tags: 
   - screen-recording
   - ai video

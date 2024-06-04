@@ -1,7 +1,7 @@
 ---
 title: "How to Turn Your Smartphone Into a Virtual Reality (VR) Headset for 2024"
-date: 2024-05-31 21:58:30
-updated: 2024-06-02 10:59:53
+date: 2024-06-03T04:49:33.273Z
+updated: 2024-06-04T04:49:33.273Z
 tags: 
   - screen-recording
   - ai video

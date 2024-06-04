@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate List  Best 7 Camcorders for Waterproof Use for 2024\""
-date: 2024-05-29 23:52:48
-updated: 2024-06-01 10:46:20
+date: 2024-06-03T04:33:24.618Z
+updated: 2024-06-04T04:33:24.618Z
 tags: 
   - screen-recording
   - ai video

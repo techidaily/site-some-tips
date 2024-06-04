@@ -1,7 +1,7 @@
 ---
 title: "\"The Basics of Picture-in-Picture in FF for 2024\""
-date: 2024-05-30 14:11:17
-updated: 2024-06-01 10:34:29
+date: 2024-06-03T03:57:15.280Z
+updated: 2024-06-04T03:57:15.280Z
 tags: 
   - screen-recording
   - ai video

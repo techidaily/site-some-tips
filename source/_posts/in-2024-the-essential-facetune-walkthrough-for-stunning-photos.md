@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Essential Facetune Walkthrough for Stunning Photos"
-date: 2024-05-29 23:48:29
-updated: 2024-06-01 10:38:21
+date: 2024-06-03T04:16:13.636Z
+updated: 2024-06-04T04:16:13.636Z
 tags: 
   - screen-recording
   - ai video

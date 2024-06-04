@@ -1,7 +1,7 @@
 ---
 title: "[New] Streamlining the Acquisition of Background Visual Content"
-date: 2024-05-29 12:38:27
-updated: 2024-05-31 10:31:46
+date: 2024-06-03T04:26:25.300Z
+updated: 2024-06-04T04:26:25.300Z
 tags: 
   - screen-recording
   - ai video

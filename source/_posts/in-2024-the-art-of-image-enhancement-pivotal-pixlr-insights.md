@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Image Enhancement  Pivotal Pixlr Insights\""
-date: 2024-05-30 20:40:27
-updated: 2024-06-01 11:31:42
+date: 2024-06-03T04:03:31.860Z
+updated: 2024-06-04T04:03:31.860Z
 tags: 
   - screen-recording
   - ai video

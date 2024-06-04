@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Artisan's Guide  Mastering GoPro Video Editing\""
-date: 2024-05-30 15:42:17
-updated: 2024-06-01 12:54:47
+date: 2024-06-03T04:42:39.448Z
+updated: 2024-06-04T04:42:39.448Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate DJI Phantom Upgrade Kit"
-date: 2024-05-29 15:34:33
-updated: 2024-06-01 11:54:48
+date: 2024-06-03T04:09:14.340Z
+updated: 2024-06-04T04:09:14.340Z
 tags: 
   - screen-recording
   - ai video

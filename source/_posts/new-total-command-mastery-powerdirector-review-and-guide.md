@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Total Command Mastery  PowerDirector Review & Guide\""
-date: 2024-06-01 17:56:14
-updated: 2024-06-02 11:43:52
+date: 2024-06-03T03:58:20.457Z
+updated: 2024-06-04T03:58:20.457Z
 tags: 
   - screen-recording
   - ai video

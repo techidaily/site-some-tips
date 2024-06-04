@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ten Best Practices for Meme Creation"
-date: 2024-05-30 23:17:54
-updated: 2024-06-01 11:53:22
+date: 2024-06-03T04:02:58.005Z
+updated: 2024-06-04T04:02:58.005Z
 tags: 
   - screen-recording
   - ai video

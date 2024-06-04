@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Price Tag on Popularity – PewDiePie's Annual Earnings"
-date: 2024-05-31 19:51:46
-updated: 2024-06-01 12:32:46
+date: 2024-06-03T03:52:34.802Z
+updated: 2024-06-04T03:52:34.802Z
 tags: 
   - screen-recording
   - ai video

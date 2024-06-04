@@ -1,7 +1,7 @@
 ---
 title: "[New] TomTom Bandit's New Era in Action Capture"
-date: 2024-05-30 13:47:35
-updated: 2024-06-02 10:35:21
+date: 2024-06-03T04:14:08.687Z
+updated: 2024-06-04T04:14:08.687Z
 tags: 
   - screen-recording
   - ai video

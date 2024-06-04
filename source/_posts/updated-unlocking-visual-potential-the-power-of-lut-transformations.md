@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Visual Potential  The Power of LUT Transformations\""
-date: 2024-06-01 14:18:14
-updated: 2024-06-03 10:40:43
+date: 2024-06-03T04:03:52.278Z
+updated: 2024-06-04T04:03:52.278Z
 tags: 
   - screen-recording
   - ai video

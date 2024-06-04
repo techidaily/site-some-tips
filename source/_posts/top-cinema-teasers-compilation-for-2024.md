@@ -1,7 +1,7 @@
 ---
 title: "Top Cinema Teasers Compilation for 2024"
-date: 2024-05-30 17:46:24
-updated: 2024-06-02 12:48:33
+date: 2024-06-03T03:43:04.964Z
+updated: 2024-06-04T03:43:04.964Z
 tags: 
   - screen-recording
   - ai video

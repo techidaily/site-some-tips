@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Ultimate Guide  Stop Snippet Playback on YouTube\""
-date: 2024-05-31 11:51:32
-updated: 2024-06-01 11:54:20
+date: 2024-06-03T04:02:26.687Z
+updated: 2024-06-04T04:02:26.687Z
 tags: 
   - screen-recording
   - ai video

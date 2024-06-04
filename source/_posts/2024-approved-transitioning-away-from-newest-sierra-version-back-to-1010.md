@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transitioning Away From Newest Sierra Version  Back to 10.10\""
-date: 2024-05-31 16:35:52
-updated: 2024-06-02 10:41:54
+date: 2024-06-03T03:57:31.004Z
+updated: 2024-06-04T03:57:31.004Z
 tags: 
   - screen-recording
   - ai video

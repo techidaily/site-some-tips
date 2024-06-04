@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Route to Richer TikTok Bios  A Guide to Linktree Integration\""
-date: 2024-05-29 23:51:52
-updated: 2024-06-01 10:41:51
+date: 2024-06-03T04:52:07.037Z
+updated: 2024-06-04T04:52:07.037Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Top List of Video Recording Apps for iPhone for 2024"
-date: 2024-05-30 12:34:19
-updated: 2024-06-02 11:44:48
+date: 2024-06-03T04:27:37.638Z
+updated: 2024-06-04T04:27:37.638Z
 tags: 
   - screen-recording
   - ai video

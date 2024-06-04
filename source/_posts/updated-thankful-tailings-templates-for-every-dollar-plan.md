@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Thankful Tailings  Templates for Every Dollar Plan\""
-date: 2024-05-30 22:34:48
-updated: 2024-06-01 11:13:18
+date: 2024-06-03T03:59:01.679Z
+updated: 2024-06-04T03:59:01.679Z
 tags: 
   - screen-recording
   - ai video

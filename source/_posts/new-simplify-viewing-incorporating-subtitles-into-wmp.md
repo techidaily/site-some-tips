@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Simplify Viewing  Incorporating Subtitles Into WMP\""
-date: 2024-05-28 22:49:54
-updated: 2024-05-31 10:13:21
+date: 2024-06-03T04:29:04.079Z
+updated: 2024-06-04T04:29:04.079Z
 tags: 
   - screen-recording
   - ai video

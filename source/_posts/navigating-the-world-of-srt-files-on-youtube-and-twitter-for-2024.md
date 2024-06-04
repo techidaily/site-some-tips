@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of SRT Files on YouTube and Twitter for 2024"
-date: 2024-05-27 19:53:59
-updated: 2024-05-29 11:53:45
+date: 2024-06-03T03:48:38.873Z
+updated: 2024-06-04T03:48:38.873Z
 tags: 
   - screen-recording
   - ai video

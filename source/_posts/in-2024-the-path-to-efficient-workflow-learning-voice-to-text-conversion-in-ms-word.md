@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Path to Efficient Workflow  Learning Voice-to-Text Conversion in MS Word\""
-date: 2024-05-31 18:27:53
-updated: 2024-06-01 11:41:33
+date: 2024-06-03T04:23:37.890Z
+updated: 2024-06-04T04:23:37.890Z
 tags: 
   - screen-recording
   - ai video

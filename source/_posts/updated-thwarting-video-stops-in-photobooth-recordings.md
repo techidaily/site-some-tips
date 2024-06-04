@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Thwarting Video Stops in Photobooth Recordings"
-date: 2024-05-29 23:25:22
-updated: 2024-06-01 12:14:30
+date: 2024-06-03T04:35:34.677Z
+updated: 2024-06-04T04:35:34.677Z
 tags: 
   - screen-recording
   - ai video

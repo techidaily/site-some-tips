@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate, Quick Route From SRT to Text (TXT) Files"
-date: 2024-05-30 15:19:27
-updated: 2024-06-01 12:21:20
+date: 2024-06-03T04:09:35.030Z
+updated: 2024-06-04T04:09:35.030Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding Pixel Performance From a Start"
-date: 2024-06-01 16:44:57
-updated: 2024-06-02 12:35:17
+date: 2024-06-03T04:17:21.402Z
+updated: 2024-06-04T04:17:21.402Z
 tags: 
   - screen-recording
   - ai video

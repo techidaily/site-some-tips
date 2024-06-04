@@ -1,7 +1,7 @@
 ---
 title: "\"Unlocking 4K Potential  An In-Depth Look at Dell P2715Q for 2024\""
-date: 2024-06-02 17:20:33
-updated: 2024-06-03 12:28:21
+date: 2024-06-03T03:51:25.602Z
+updated: 2024-06-04T03:51:25.602Z
 tags: 
   - screen-recording
   - ai video

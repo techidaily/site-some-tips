@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Art of Choosing Video Aspect Ratios"
-date: 2024-05-30 20:47:11
-updated: 2024-06-01 10:21:40
+date: 2024-06-03T04:19:39.358Z
+updated: 2024-06-04T04:19:39.358Z
 tags: 
   - screen-recording
   - ai video

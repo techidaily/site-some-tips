@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Under the Lens  Hero 4 Meets Hero 5\""
-date: 2024-05-31 13:28:49
-updated: 2024-06-02 11:53:45
+date: 2024-06-03T04:51:17.814Z
+updated: 2024-06-04T04:51:17.814Z
 tags: 
   - screen-recording
   - ai video

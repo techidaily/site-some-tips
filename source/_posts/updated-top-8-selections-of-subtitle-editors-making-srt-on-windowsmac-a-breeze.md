@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze"
-date: 2024-05-31 12:45:27
-updated: 2024-06-02 10:51:32
+date: 2024-06-03T03:48:24.031Z
+updated: 2024-06-04T03:48:24.031Z
 tags: 
   - screen-recording
   - ai video

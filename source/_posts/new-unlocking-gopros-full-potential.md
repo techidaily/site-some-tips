@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking GoPro's Full Potential"
-date: 2024-06-01 19:22:38
-updated: 2024-06-03 10:18:12
+date: 2024-06-03T04:44:21.338Z
+updated: 2024-06-04T04:44:21.338Z
 tags: 
   - screen-recording
   - ai video

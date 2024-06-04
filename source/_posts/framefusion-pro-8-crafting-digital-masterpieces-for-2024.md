@@ -1,7 +1,7 @@
 ---
 title: "\"FrameFusion Pro 8  Crafting Digital Masterpieces for 2024\""
-date: 2024-05-25 23:27:26
-updated: 2024-05-26 12:20:58
+date: 2024-06-03T04:00:18.208Z
+updated: 2024-06-04T04:00:18.208Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Time Taken for a 20MB Video Playback"
-date: 2024-06-01 15:53:40
-updated: 2024-06-02 12:11:48
+date: 2024-06-03T04:19:27.990Z
+updated: 2024-06-04T04:19:27.990Z
 tags: 
   - screen-recording
   - ai video

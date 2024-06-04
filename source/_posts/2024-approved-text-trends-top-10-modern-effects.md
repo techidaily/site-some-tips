@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Text Trends  Top 10 Modern Effects\""
-date: 2024-05-30 20:37:41
-updated: 2024-06-01 12:54:22
+date: 2024-06-03T04:29:21.428Z
+updated: 2024-06-04T04:29:21.428Z
 tags: 
   - screen-recording
   - ai video

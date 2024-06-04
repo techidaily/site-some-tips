@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tiny Tale Telling Framework"
-date: 2024-06-01 15:59:48
-updated: 2024-06-02 10:17:47
+date: 2024-06-03T04:16:00.836Z
+updated: 2024-06-04T04:16:00.836Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 5 Best Action Cameras for Hunting"
-date: 2024-05-30 18:51:40
-updated: 2024-06-02 11:22:24
+date: 2024-06-03T04:16:15.787Z
+updated: 2024-06-04T04:16:15.788Z
 tags: 
   - screen-recording
   - ai video

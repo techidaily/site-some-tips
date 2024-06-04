@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top Techniques  Succeeding in Spotify Advertising\""
-date: 2024-05-31 22:11:42
-updated: 2024-06-02 12:55:50
+date: 2024-06-03T04:05:43.043Z
+updated: 2024-06-04T04:05:43.043Z
 tags: 
   - screen-recording
   - ai video

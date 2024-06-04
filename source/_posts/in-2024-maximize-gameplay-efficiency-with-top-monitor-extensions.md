@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximize Gameplay Efficiency With Top Monitor Extensions"
-date: 2024-05-27 17:20:35
-updated: 2024-05-28 12:16:59
+date: 2024-06-03T04:22:32.399Z
+updated: 2024-06-04T04:22:32.399Z
 tags: 
   - screen-recording
   - ai video

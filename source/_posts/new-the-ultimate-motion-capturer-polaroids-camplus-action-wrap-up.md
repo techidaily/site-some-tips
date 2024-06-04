@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Motion Capturer  Polaroid's Cam+ Action Wrap-Up\""
-date: 2024-05-29 22:15:52
-updated: 2024-06-01 10:47:47
+date: 2024-06-03T04:08:20.106Z
+updated: 2024-06-04T04:08:20.106Z
 tags: 
   - screen-recording
   - ai video

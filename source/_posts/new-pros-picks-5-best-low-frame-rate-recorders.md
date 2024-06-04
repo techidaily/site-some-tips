@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pros' Picks  5 Best Low Frame Rate Recorders\""
-date: 2024-05-29 19:27:20
-updated: 2024-05-30 12:35:58
+date: 2024-06-03T04:33:11.505Z
+updated: 2024-06-04T04:33:11.505Z
 tags: 
   - screen-recording
   - ai video

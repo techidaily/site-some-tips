@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling DJI Phantom 3'S Superior Flight Control Features"
-date: 2024-06-01 22:38:44
-updated: 2024-06-03 12:15:39
+date: 2024-06-03T04:19:25.866Z
+updated: 2024-06-04T04:19:25.866Z
 tags: 
   - screen-recording
   - ai video

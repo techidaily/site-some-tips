@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)\""
-date: 2024-05-30 10:59:55
-updated: 2024-05-31 10:45:19
+date: 2024-06-03T04:16:38.295Z
+updated: 2024-06-04T04:16:38.295Z
 tags: 
   - screen-recording
   - ai video

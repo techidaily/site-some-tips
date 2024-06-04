@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro\""
-date: 2024-06-01 12:39:35
-updated: 2024-06-03 12:41:42
+date: 2024-06-03T04:17:44.310Z
+updated: 2024-06-04T04:17:44.310Z
 tags: 
   - screen-recording
   - ai video

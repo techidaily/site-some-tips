@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamline Your Photos  Top 6 iPhone Tools for Object Elimination\""
-date: 2024-05-28 15:18:12
-updated: 2024-05-31 11:57:31
+date: 2024-06-03T04:13:32.799Z
+updated: 2024-06-04T04:13:32.799Z
 tags: 
   - screen-recording
   - ai video

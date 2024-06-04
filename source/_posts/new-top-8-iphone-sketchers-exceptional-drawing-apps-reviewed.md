@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 8 iPhone Sketchers  Exceptional Drawing Apps Reviewed\""
-date: 2024-05-30 14:50:46
-updated: 2024-06-02 11:49:44
+date: 2024-06-03T03:57:44.960Z
+updated: 2024-06-04T03:57:44.960Z
 tags: 
   - screen-recording
   - ai video

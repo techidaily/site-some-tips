@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 30 Camcorders - Eye-Level Display Advantage\""
-date: 2024-05-30 21:55:56
-updated: 2024-06-02 12:48:37
+date: 2024-06-03T04:36:04.906Z
+updated: 2024-06-04T04:36:04.906Z
 tags: 
   - screen-recording
   - ai video

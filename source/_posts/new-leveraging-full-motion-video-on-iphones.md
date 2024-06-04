@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging Full Motion Video on iPhones"
-date: 2024-05-27 22:54:44
-updated: 2024-05-28 12:19:27
+date: 2024-06-03T04:44:17.101Z
+updated: 2024-06-04T04:44:17.101Z
 tags: 
   - screen-recording
   - ai video

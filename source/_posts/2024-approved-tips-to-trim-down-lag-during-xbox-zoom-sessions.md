@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips to Trim Down Lag During Xbox-Zoom Sessions\""
-date: 2024-05-31 15:51:15
-updated: 2024-06-02 10:26:22
+date: 2024-06-03T04:28:22.669Z
+updated: 2024-06-04T04:28:22.669Z
 tags: 
   - screen-recording
   - ai video

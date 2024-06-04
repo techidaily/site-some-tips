@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Price Tag on Youtube Promo"
-date: 2024-05-31 21:58:34
-updated: 2024-06-02 10:29:36
+date: 2024-06-03T04:03:21.141Z
+updated: 2024-06-04T04:03:21.141Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Designing Captivating Podcast Logos\""
-date: 2024-05-31 20:41:45
-updated: 2024-06-01 10:14:38
+date: 2024-06-03T04:08:38.309Z
+updated: 2024-06-04T04:08:38.309Z
 tags: 
   - screen-recording
   - ai video

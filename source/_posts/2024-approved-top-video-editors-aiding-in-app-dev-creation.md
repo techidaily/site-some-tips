@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Video Editors Aiding in App Dev Creation\""
-date: 2024-05-30 18:10:43
-updated: 2024-06-02 12:20:19
+date: 2024-06-03T04:28:24.087Z
+updated: 2024-06-04T04:28:24.087Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Unlocking Color Grading with LUTs in PSCC"
-date: 2024-06-01 10:39:42
-updated: 2024-06-03 11:57:24
+date: 2024-06-03T03:49:17.684Z
+updated: 2024-06-04T03:49:17.684Z
 tags: 
   - screen-recording
   - ai video

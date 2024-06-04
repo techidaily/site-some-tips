@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Potential with Hero5 Black  Perfecting Cinematography Skills for 2024\""
-date: 2024-06-01 20:38:40
-updated: 2024-06-02 11:14:59
+date: 2024-06-03T04:16:28.676Z
+updated: 2024-06-04T04:16:28.676Z
 tags: 
   - screen-recording
   - ai video

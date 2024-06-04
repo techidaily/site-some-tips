@@ -1,7 +1,7 @@
 ---
 title: "Striking the Right Chord in Your Podcast Summary for 2024"
-date: 2024-05-30 12:21:25
-updated: 2024-05-31 12:12:18
+date: 2024-06-03T03:53:32.536Z
+updated: 2024-06-04T03:53:32.536Z
 tags: 
   - screen-recording
   - ai video

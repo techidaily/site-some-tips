@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Essential Tutorial  From GIF Art to Sticky Fun on Social Media\""
-date: 2024-05-29 12:20:51
-updated: 2024-06-01 12:13:41
+date: 2024-06-03T04:02:24.932Z
+updated: 2024-06-04T04:02:24.932Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Surpass Everyday Photo-Taking with iOS 11\""
-date: 2024-05-29 16:33:56
-updated: 2024-05-31 12:43:33
+date: 2024-06-03T04:46:19.327Z
+updated: 2024-06-04T04:46:19.327Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Filmmaker's Edge  Mastering Kinemaster's Zoom Functionality\""
-date: 2024-05-30 13:34:30
-updated: 2024-06-01 12:13:19
+date: 2024-06-03T04:14:31.155Z
+updated: 2024-06-04T04:14:31.155Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Guide to FREE, High-Quality Subtitle Tools\""
-date: 2024-05-29 11:58:17
-updated: 2024-06-01 10:47:48
+date: 2024-06-03T04:09:54.549Z
+updated: 2024-06-04T04:09:54.549Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Pro's Guide to Exceptional Cameras and Lenses in 4K for 2024"
-date: 2024-05-31 18:12:14
-updated: 2024-06-01 10:52:29
+date: 2024-06-03T04:31:46.940Z
+updated: 2024-06-04T04:31:46.940Z
 tags: 
   - screen-recording
   - ai video

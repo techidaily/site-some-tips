@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the Wonders  Mastering Firefox X-Pie Mode\""
-date: 2024-05-31 21:53:28
-updated: 2024-06-03 10:14:38
+date: 2024-06-03T03:59:15.737Z
+updated: 2024-06-04T03:59:15.737Z
 tags: 
   - screen-recording
   - ai video

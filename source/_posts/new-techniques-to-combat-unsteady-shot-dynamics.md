@@ -1,7 +1,7 @@
 ---
 title: "[New] Techniques to Combat Unsteady Shot Dynamics"
-date: 2024-05-30 20:15:58
-updated: 2024-05-31 10:24:46
+date: 2024-06-03T04:24:13.787Z
+updated: 2024-06-04T04:24:13.787Z
 tags: 
   - screen-recording
   - ai video

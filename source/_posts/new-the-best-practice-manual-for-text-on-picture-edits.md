@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Best Practice Manual for Text-on-Picture Edits\""
-date: 2024-05-31 12:16:40
-updated: 2024-06-01 10:44:34
+date: 2024-06-03T04:24:48.837Z
+updated: 2024-06-04T04:24:48.837Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Turning Tales Upside Down  IPhone Video Guide for 2024\""
-date: 2024-05-30 10:15:29
-updated: 2024-06-02 12:43:14
+date: 2024-06-03T04:09:32.895Z
+updated: 2024-06-04T04:09:32.895Z
 tags: 
   - screen-recording
   - ai video

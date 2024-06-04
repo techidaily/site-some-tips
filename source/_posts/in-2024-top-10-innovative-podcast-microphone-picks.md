@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Top 10 Innovative Podcast Microphone Picks"
-date: 2024-05-30 20:32:38
-updated: 2024-06-02 10:18:18
+date: 2024-06-03T04:18:21.022Z
+updated: 2024-06-04T04:18:21.022Z
 tags: 
   - screen-recording
   - ai video

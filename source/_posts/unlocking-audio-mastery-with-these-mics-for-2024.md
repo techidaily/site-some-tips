@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Audio Mastery with These Mics for 2024"
-date: 2024-05-31 14:23:15
-updated: 2024-06-03 11:26:40
+date: 2024-06-03T04:47:09.911Z
+updated: 2024-06-04T04:47:09.911Z
 tags: 
   - screen-recording
   - ai video

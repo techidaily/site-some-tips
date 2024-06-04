@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking Full Potential of Video Calls with Zoom & Gmail Integration"
-date: 2024-06-01 12:47:59
-updated: 2024-06-03 11:57:59
+date: 2024-06-03T04:39:31.354Z
+updated: 2024-06-04T04:39:31.354Z
 tags: 
   - screen-recording
   - ai video

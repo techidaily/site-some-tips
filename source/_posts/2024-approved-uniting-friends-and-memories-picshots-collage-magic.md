@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uniting Friends and Memories  Picshot's Collage Magic\""
-date: 2024-06-01 17:11:26
-updated: 2024-06-02 11:14:49
+date: 2024-06-03T04:43:11.285Z
+updated: 2024-06-04T04:43:11.285Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Ultimate VivoCut Editing  A Comprehensive 2024 Guide & Review\""
-date: 2024-05-31 20:16:36
-updated: 2024-06-02 11:59:54
+date: 2024-06-03T04:02:01.325Z
+updated: 2024-06-04T04:02:01.325Z
 tags: 
   - screen-recording
   - ai video

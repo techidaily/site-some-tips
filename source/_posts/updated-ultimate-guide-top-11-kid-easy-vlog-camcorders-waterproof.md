@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate Guide  Top 11 Kid-Easy Vlog Camcorders, Waterproof\""
-date: 2024-05-30 18:58:20
-updated: 2024-06-02 12:48:39
+date: 2024-06-03T04:01:13.936Z
+updated: 2024-06-04T04:01:13.936Z
 tags: 
   - screen-recording
   - ai video

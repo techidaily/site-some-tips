@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Symphony of Selection  Trailer Music Mastery\""
-date: 2024-05-30 18:47:54
-updated: 2024-06-01 12:15:21
+date: 2024-06-03T04:16:34.747Z
+updated: 2024-06-04T04:16:34.747Z
 tags: 
   - screen-recording
   - ai video

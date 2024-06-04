@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone"
-date: 2024-06-01 19:47:24
-updated: 2024-06-02 10:17:33
+date: 2024-06-03T04:27:08.912Z
+updated: 2024-06-04T04:27:08.912Z
 tags: 
   - screen-recording
   - ai video

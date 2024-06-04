@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to Voice Changes  Expert's Handbook for MorphVOX Transformation for 2024\""
-date: 2024-05-29 16:45:20
-updated: 2024-06-01 10:27:13
+date: 2024-06-03T04:40:14.181Z
+updated: 2024-06-04T04:40:14.181Z
 tags: 
   - screen-recording
   - ai video

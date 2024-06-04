@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques for Reducing Vibration in Camera Apps"
-date: 2024-05-30 16:19:17
-updated: 2024-05-31 12:57:44
+date: 2024-06-03T04:47:13.201Z
+updated: 2024-06-04T04:47:13.201Z
 tags: 
   - screen-recording
   - ai video

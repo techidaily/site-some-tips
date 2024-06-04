@@ -1,7 +1,7 @@
 ---
 title: "\"Top Edits, Bottom Line  Pro Guide to TikTok Creativity for 2024\""
-date: 2024-05-30 12:26:29
-updated: 2024-06-02 12:24:21
+date: 2024-06-03T04:45:02.044Z
+updated: 2024-06-04T04:45:02.044Z
 tags: 
   - screen-recording
   - ai video

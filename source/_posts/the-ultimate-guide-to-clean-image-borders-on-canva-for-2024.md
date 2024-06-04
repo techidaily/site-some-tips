@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Clean Image Borders on Canva for 2024"
-date: 2024-05-30 13:53:40
-updated: 2024-06-01 12:20:15
+date: 2024-06-03T04:40:46.463Z
+updated: 2024-06-04T04:40:46.463Z
 tags: 
   - screen-recording
   - ai video

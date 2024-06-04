@@ -1,7 +1,7 @@
 ---
 title: "[New] 5 Ways To Transfer Files To Your Computer"
-date: 2024-05-31 18:40:41
-updated: 2024-06-02 11:33:50
+date: 2024-06-03T04:20:27.308Z
+updated: 2024-06-04T04:20:27.308Z
 tags: 
   - screen-recording
   - ai video

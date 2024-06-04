@@ -1,7 +1,7 @@
 ---
 title: "Using Inshot for Laptop/PC and Other Video Editing Alternatives for 2024"
-date: 2024-05-31 19:58:22
-updated: 2024-06-03 10:35:23
+date: 2024-06-03T03:49:29.094Z
+updated: 2024-06-04T03:49:29.094Z
 tags: 
   - screen-recording
   - ai video

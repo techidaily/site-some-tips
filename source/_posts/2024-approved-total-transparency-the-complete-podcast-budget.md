@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Total Transparency  The Complete Podcast Budget\""
-date: 2024-05-31 14:57:34
-updated: 2024-06-02 11:22:47
+date: 2024-06-03T03:51:40.299Z
+updated: 2024-06-04T03:51:40.299Z
 tags: 
   - screen-recording
   - ai video

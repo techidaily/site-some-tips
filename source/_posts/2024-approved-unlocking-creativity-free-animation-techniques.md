@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Creativity  Free Animation Techniques\""
-date: 2024-06-01 16:56:17
-updated: 2024-06-03 10:50:28
+date: 2024-06-03T04:12:25.000Z
+updated: 2024-06-04T04:12:25.000Z
 tags: 
   - screen-recording
   - ai video

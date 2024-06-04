@@ -1,7 +1,7 @@
 ---
 title: "Substitutes to MovieMaker in the Windows Realm for 2024"
-date: 2024-05-28 17:49:35
-updated: 2024-05-31 10:30:48
+date: 2024-06-03T04:25:23.258Z
+updated: 2024-06-04T04:25:23.258Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transforming Twitter Video Links to Audio"
-date: 2024-05-31 11:47:13
-updated: 2024-06-02 10:47:41
+date: 2024-06-03T04:12:28.561Z
+updated: 2024-06-04T04:12:28.561Z
 tags: 
   - screen-recording
   - ai video

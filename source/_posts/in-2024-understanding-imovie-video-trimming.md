@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding iMovie Video Trimming"
-date: 2024-05-31 20:48:13
-updated: 2024-06-02 11:25:59
+date: 2024-06-03T04:11:52.976Z
+updated: 2024-06-04T04:11:52.976Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tweaking Video Speed Settings on Netflix Mobile & Desktop App\""
-date: 2024-06-01 20:49:17
-updated: 2024-06-02 11:33:44
+date: 2024-06-03T04:06:06.180Z
+updated: 2024-06-04T04:06:06.180Z
 tags: 
   - screen-recording
   - ai video

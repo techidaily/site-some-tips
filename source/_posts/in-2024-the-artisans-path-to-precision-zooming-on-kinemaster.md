@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Artisan’s Path to Precision Zooming on Kinemaster"
-date: 2024-05-30 20:10:44
-updated: 2024-06-01 11:38:23
+date: 2024-06-03T04:45:18.745Z
+updated: 2024-06-04T04:45:18.745Z
 tags: 
   - screen-recording
   - ai video

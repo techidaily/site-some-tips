@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior 10 Mobile Apps to Edit Your Face\""
-date: 2024-05-28 21:42:57
-updated: 2024-05-31 11:42:45
+date: 2024-06-03T04:44:07.897Z
+updated: 2024-06-04T04:44:07.897Z
 tags: 
   - screen-recording
   - ai video

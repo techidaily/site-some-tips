@@ -1,7 +1,7 @@
 ---
 title: "\"Thorough Appraisal  GoPro Silver HERO4 Version Analysis for 2024\""
-date: 2024-05-29 15:28:37
-updated: 2024-06-01 12:10:43
+date: 2024-06-03T04:42:22.821Z
+updated: 2024-06-04T04:42:22.821Z
 tags: 
   - screen-recording
   - ai video

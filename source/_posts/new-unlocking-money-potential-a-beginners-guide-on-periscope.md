@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Money Potential  A Beginner's Guide on Periscope\""
-date: 2024-06-02 16:34:31
-updated: 2024-06-03 12:43:26
+date: 2024-06-03T04:17:30.707Z
+updated: 2024-06-04T04:17:30.707Z
 tags: 
   - screen-recording
   - ai video

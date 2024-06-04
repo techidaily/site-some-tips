@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Definitive Rankings  Best Microphones for Podcasters\""
-date: 2024-05-29 10:49:33
-updated: 2024-06-01 11:23:52
+date: 2024-06-03T04:03:48.004Z
+updated: 2024-06-04T04:03:48.004Z
 tags: 
   - screen-recording
   - ai video

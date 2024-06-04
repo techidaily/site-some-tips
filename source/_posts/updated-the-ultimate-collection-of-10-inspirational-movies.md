@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Collection of 10 Inspirational Movies"
-date: 2024-05-30 23:16:28
-updated: 2024-06-01 12:43:11
+date: 2024-06-03T04:24:58.789Z
+updated: 2024-06-04T04:24:58.789Z
 tags: 
   - screen-recording
   - ai video

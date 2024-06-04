@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artisan's Blueprint for Striking Image Collage\""
-date: 2024-05-29 16:52:44
-updated: 2024-06-01 12:46:47
+date: 2024-06-03T04:02:50.882Z
+updated: 2024-06-04T04:02:50.882Z
 tags: 
   - screen-recording
   - ai video

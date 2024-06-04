@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Translating Megabits to Seconds  A 20-Video Challenge\""
-date: 2024-05-31 10:17:37
-updated: 2024-06-02 10:16:20
+date: 2024-06-03T04:08:15.072Z
+updated: 2024-06-04T04:08:15.072Z
 tags: 
   - screen-recording
   - ai video

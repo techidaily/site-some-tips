@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Secrets to Rapidly Crafted Facebook Collage for 2024"
-date: 2024-05-31 10:12:51
-updated: 2024-06-03 12:42:38
+date: 2024-06-03T04:07:57.946Z
+updated: 2024-06-04T04:07:57.946Z
 tags: 
   - screen-recording
   - ai video

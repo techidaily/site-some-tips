@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Use Luts From Color Grading Central to Color Grading for Movies\""
-date: 2024-06-01 14:42:33
-updated: 2024-06-03 10:39:57
+date: 2024-06-03T03:49:30.508Z
+updated: 2024-06-04T03:49:30.508Z
 tags: 
   - screen-recording
   - ai video

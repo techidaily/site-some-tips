@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling Windows 10 Complexities Simplified"
-date: 2024-05-31 21:46:50
-updated: 2024-06-03 12:42:26
+date: 2024-06-03T04:25:45.279Z
+updated: 2024-06-04T04:25:45.279Z
 tags: 
   - screen-recording
   - ai video

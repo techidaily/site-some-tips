@@ -1,7 +1,7 @@
 ---
 title: "[Updated] IPhone Silhouette Photography Tips"
-date: 2024-05-28 23:25:28
-updated: 2024-05-31 12:17:36
+date: 2024-06-03T04:03:16.135Z
+updated: 2024-06-04T04:03:16.135Z
 tags: 
   - screen-recording
   - ai video

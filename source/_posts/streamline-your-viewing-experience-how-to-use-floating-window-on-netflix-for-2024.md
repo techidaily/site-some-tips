@@ -1,7 +1,7 @@
 ---
 title: "\"Streamline Your Viewing Experience  How To Use Floating Window on Netflix for 2024\""
-date: 2024-05-28 11:53:13
-updated: 2024-05-31 12:33:43
+date: 2024-06-03T04:11:02.540Z
+updated: 2024-06-04T04:11:02.540Z
 tags: 
   - screen-recording
   - ai video

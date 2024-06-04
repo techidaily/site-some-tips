@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11"
-date: 2024-06-01 19:24:18
-updated: 2024-06-02 12:14:46
+date: 2024-06-03T04:06:28.767Z
+updated: 2024-06-04T04:06:28.767Z
 tags: 
   - screen-recording
   - ai video

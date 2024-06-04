@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Right Platform for Content Creation? Podcast or Video?"
-date: 2024-05-29 18:19:49
-updated: 2024-06-01 12:49:42
+date: 2024-06-03T04:51:28.979Z
+updated: 2024-06-04T04:51:28.979Z
 tags: 
   - screen-recording
   - ai video

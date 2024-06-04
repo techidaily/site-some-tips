@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Perfect Patchwork  A Collage How-To\""
-date: 2024-05-30 13:11:30
-updated: 2024-06-01 12:31:14
+date: 2024-06-03T04:10:29.900Z
+updated: 2024-06-04T04:10:29.900Z
 tags: 
   - screen-recording
   - ai video

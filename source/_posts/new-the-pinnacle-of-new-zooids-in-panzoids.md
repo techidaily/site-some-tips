@@ -1,7 +1,7 @@
 ---
 title: "[New] The Pinnacle of New Zooids in Panzoids"
-date: 2024-05-31 21:44:30
-updated: 2024-06-01 10:10:14
+date: 2024-06-03T04:34:47.565Z
+updated: 2024-06-04T04:34:47.565Z
 tags: 
   - screen-recording
   - ai video

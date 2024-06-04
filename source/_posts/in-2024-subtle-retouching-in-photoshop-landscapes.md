@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Subtle Retouching in Photoshop Landscapes"
-date: 2024-05-29 15:30:48
-updated: 2024-05-31 11:56:53
+date: 2024-06-03T03:57:02.046Z
+updated: 2024-06-04T03:57:02.046Z
 tags: 
   - screen-recording
   - ai video

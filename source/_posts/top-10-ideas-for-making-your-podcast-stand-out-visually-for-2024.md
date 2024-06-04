@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Ideas for Making Your Podcast Stand Out Visually for 2024"
-date: 2024-05-31 13:54:30
-updated: 2024-06-02 11:13:55
+date: 2024-06-03T03:55:09.585Z
+updated: 2024-06-04T03:55:09.585Z
 tags: 
   - screen-recording
   - ai video

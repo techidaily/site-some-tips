@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimizing Unused Scenes  A Filmmaker's Approach\""
-date: 2024-05-27 14:46:54
-updated: 2024-05-29 10:29:51
+date: 2024-06-03T04:18:09.632Z
+updated: 2024-06-04T04:18:09.632Z
 tags: 
   - screen-recording
   - ai video

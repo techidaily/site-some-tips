@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Rhythm of Reels  Audio Syncing for Insta Videos\""
-date: 2024-05-31 17:41:40
-updated: 2024-06-01 10:12:23
+date: 2024-06-03T04:38:00.698Z
+updated: 2024-06-04T04:38:00.698Z
 tags: 
   - screen-recording
   - ai video

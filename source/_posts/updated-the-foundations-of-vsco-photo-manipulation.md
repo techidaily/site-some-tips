@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Foundations of VSCO Photo Manipulation"
-date: 2024-05-31 12:59:42
-updated: 2024-06-01 12:55:34
+date: 2024-06-03T04:43:32.111Z
+updated: 2024-06-04T04:43:32.111Z
 tags: 
   - screen-recording
   - ai video

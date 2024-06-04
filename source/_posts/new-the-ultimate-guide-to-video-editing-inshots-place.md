@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Guide to Video Editing - InShot's Place\""
-date: 2024-05-31 14:58:46
-updated: 2024-06-01 10:59:53
+date: 2024-06-03T03:43:25.202Z
+updated: 2024-06-04T03:43:25.202Z
 tags: 
   - screen-recording
   - ai video

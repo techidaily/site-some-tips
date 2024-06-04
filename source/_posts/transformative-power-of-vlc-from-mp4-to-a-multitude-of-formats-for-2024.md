@@ -1,7 +1,7 @@
 ---
 title: "\"Transformative Power of VLC  From MP4 to a Multitude of Formats for 2024\""
-date: 2024-05-30 15:56:23
-updated: 2024-06-02 10:16:15
+date: 2024-06-03T03:46:09.070Z
+updated: 2024-06-04T03:46:09.070Z
 tags: 
   - screen-recording
   - ai video

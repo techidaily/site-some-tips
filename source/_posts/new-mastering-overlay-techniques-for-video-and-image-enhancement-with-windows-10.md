@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Overlay Techniques for Video and Image Enhancement with Windows 10"
-date: 2024-05-27 11:35:41
-updated: 2024-05-28 12:22:21
+date: 2024-06-03T04:06:44.469Z
+updated: 2024-06-04T04:06:44.469Z
 tags: 
   - screen-recording
   - ai video

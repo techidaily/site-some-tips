@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Complete Guide  Transforming Movie Visuals Using Standardized Luts From CG Central\""
-date: 2024-05-30 17:41:37
-updated: 2024-06-01 11:50:20
+date: 2024-06-03T04:35:21.198Z
+updated: 2024-06-04T04:35:21.198Z
 tags: 
   - screen-recording
   - ai video

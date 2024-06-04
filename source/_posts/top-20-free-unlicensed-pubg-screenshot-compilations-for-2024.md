@@ -1,7 +1,7 @@
 ---
 title: "Top 20 Free Unlicensed PUBG Screenshot Compilations for 2024"
-date: 2024-05-30 18:21:15
-updated: 2024-06-02 10:39:22
+date: 2024-06-03T04:04:14.393Z
+updated: 2024-06-04T04:04:14.393Z
 tags: 
   - screen-recording
   - ai video

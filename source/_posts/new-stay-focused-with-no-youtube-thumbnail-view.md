@@ -1,7 +1,7 @@
 ---
 title: "[New] Stay Focused with No YouTube Thumbnail View"
-date: 2024-05-28 15:51:53
-updated: 2024-05-31 10:49:37
+date: 2024-06-03T04:02:28.814Z
+updated: 2024-06-04T04:02:28.814Z
 tags: 
   - screen-recording
   - ai video

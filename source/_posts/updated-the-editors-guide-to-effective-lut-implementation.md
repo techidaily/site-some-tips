@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Editor's Guide to Effective LUT Implementation"
-date: 2024-05-31 10:45:14
-updated: 2024-06-01 12:31:22
+date: 2024-06-03T04:39:44.772Z
+updated: 2024-06-04T04:39:44.772Z
 tags: 
   - screen-recording
   - ai video

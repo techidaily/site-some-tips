@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques for Unbiased and Structured Interviews"
-date: 2024-05-30 20:59:11
-updated: 2024-05-31 11:55:15
+date: 2024-06-03T04:17:35.693Z
+updated: 2024-06-04T04:17:35.693Z
 tags: 
   - screen-recording
   - ai video

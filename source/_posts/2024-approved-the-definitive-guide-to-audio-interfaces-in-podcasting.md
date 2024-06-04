@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Definitive Guide to Audio Interfaces in Podcasting\""
-date: 2024-05-31 16:56:20
-updated: 2024-06-01 11:43:52
+date: 2024-06-03T04:01:44.524Z
+updated: 2024-06-04T04:01:44.524Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Metaverse VR Gear List  Top 8 Choices\""
-date: 2024-05-31 12:27:24
-updated: 2024-06-02 11:21:46
+date: 2024-06-03T03:51:41.723Z
+updated: 2024-06-04T03:51:41.723Z
 tags: 
   - screen-recording
   - ai video

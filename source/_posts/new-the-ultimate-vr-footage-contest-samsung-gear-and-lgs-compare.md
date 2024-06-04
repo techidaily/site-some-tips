@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate VR Footage Contest  Samsung Gear & LG's Compare\""
-date: 2024-05-31 23:45:47
-updated: 2024-06-01 12:20:14
+date: 2024-06-03T03:50:46.736Z
+updated: 2024-06-04T03:50:46.736Z
 tags: 
   - screen-recording
   - ai video

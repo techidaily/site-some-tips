@@ -1,7 +1,7 @@
 ---
 title: "The Complete Kinemaster Blueprint for Flawless Green Screen Techniques for 2024"
-date: 2024-05-29 23:22:35
-updated: 2024-06-01 11:42:20
+date: 2024-06-03T04:43:22.904Z
+updated: 2024-06-04T04:43:22.904Z
 tags: 
   - screen-recording
   - ai video

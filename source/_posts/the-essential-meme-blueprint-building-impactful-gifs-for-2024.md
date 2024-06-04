@@ -1,7 +1,7 @@
 ---
 title: "\"The Essential Meme Blueprint  Building Impactful GIFs for 2024\""
-date: 2024-05-30 16:24:34
-updated: 2024-06-01 11:22:39
+date: 2024-06-03T04:48:45.946Z
+updated: 2024-06-04T04:48:45.946Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ultimate Plugins List  After Effects Edition\""
-date: 2024-05-31 22:12:12
-updated: 2024-06-02 11:22:21
+date: 2024-06-03T03:58:39.526Z
+updated: 2024-06-04T03:58:39.526Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Basics of Vlogging Gear & Software"
-date: 2024-06-01 14:54:37
-updated: 2024-06-03 12:56:55
+date: 2024-06-03T03:43:20.978Z
+updated: 2024-06-04T03:43:20.978Z
 tags: 
   - screen-recording
   - ai video

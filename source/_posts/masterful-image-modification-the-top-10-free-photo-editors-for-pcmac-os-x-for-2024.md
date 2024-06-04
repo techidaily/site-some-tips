@@ -1,7 +1,7 @@
 ---
 title: "\"Masterful Image Modification  The Top 10 Free Photo Editors for PC/Mac OS X for 2024\""
-date: 2024-05-27 13:25:10
-updated: 2024-05-28 10:34:54
+date: 2024-06-03T04:08:16.532Z
+updated: 2024-06-04T04:08:16.532Z
 tags: 
   - screen-recording
   - ai video

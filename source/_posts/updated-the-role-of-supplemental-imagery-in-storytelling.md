@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Role of Supplemental Imagery in Storytelling"
-date: 2024-05-31 16:26:47
-updated: 2024-06-01 10:10:40
+date: 2024-06-03T03:47:17.567Z
+updated: 2024-06-04T03:47:17.567Z
 tags: 
   - screen-recording
   - ai video

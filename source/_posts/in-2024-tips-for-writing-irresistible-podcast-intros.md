@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tips for Writing Irresistible Podcast Intros"
-date: 2024-05-30 13:46:13
-updated: 2024-06-02 10:22:16
+date: 2024-06-03T04:18:20.307Z
+updated: 2024-06-04T04:18:20.307Z
 tags: 
   - screen-recording
   - ai video

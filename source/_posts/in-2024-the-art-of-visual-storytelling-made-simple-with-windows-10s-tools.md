@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Visual Storytelling Made Simple with Windows 10'S Tools"
-date: 2024-05-30 19:50:44
-updated: 2024-06-01 12:27:16
+date: 2024-06-03T04:41:37.149Z
+updated: 2024-06-04T04:41:37.149Z
 tags: 
   - screen-recording
   - ai video

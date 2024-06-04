@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Archivist's Guide  Reviving Yesteryear’s VHS Artistry in Today's Editing Space\""
-date: 2024-05-29 16:35:44
-updated: 2024-06-01 11:52:52
+date: 2024-06-03T03:44:46.673Z
+updated: 2024-06-04T03:44:46.673Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Applying LUTs in Film Color Grading\""
-date: 2024-06-01 20:41:24
-updated: 2024-06-02 11:12:52
+date: 2024-06-03T04:14:35.418Z
+updated: 2024-06-04T04:14:35.418Z
 tags: 
   - screen-recording
   - ai video

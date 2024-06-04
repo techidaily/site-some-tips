@@ -1,7 +1,7 @@
 ---
 title: "\"Transformative Guide  Avian Video (AVI) to Graphic Image (GIF) in Filmora for 2024\""
-date: 2024-05-30 11:53:58
-updated: 2024-06-02 12:14:57
+date: 2024-06-03T04:21:05.928Z
+updated: 2024-06-04T04:21:05.928Z
 tags: 
   - screen-recording
   - ai video

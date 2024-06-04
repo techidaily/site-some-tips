@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Overview  DJI Inspire 1 Reviewed\""
-date: 2024-05-31 16:48:44
-updated: 2024-06-01 11:47:49
+date: 2024-06-03T04:42:45.806Z
+updated: 2024-06-04T04:42:45.806Z
 tags: 
   - screen-recording
   - ai video

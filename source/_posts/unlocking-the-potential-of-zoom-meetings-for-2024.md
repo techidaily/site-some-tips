@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Zoom Meetings for 2024"
-date: 2024-05-31 11:52:45
-updated: 2024-06-03 12:13:23
+date: 2024-06-03T03:50:59.914Z
+updated: 2024-06-04T03:50:59.914Z
 tags: 
   - screen-recording
   - ai video

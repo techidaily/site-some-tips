@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking the Power of Pause Time  Mastering Art of Slow Motion Videos Using Photos Apps and Websites\""
-date: 2024-06-01 21:56:39
-updated: 2024-06-03 12:53:30
+date: 2024-06-03T03:57:38.897Z
+updated: 2024-06-04T03:57:38.897Z
 tags: 
   - screen-recording
   - ai video

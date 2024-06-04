@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Dimensions in Physical Interaction Tech for 2024"
-date: 2024-06-02 21:50:37
-updated: 2024-06-03 12:15:22
+date: 2024-06-03T04:47:43.631Z
+updated: 2024-06-04T04:47:43.631Z
 tags: 
   - screen-recording
   - ai video

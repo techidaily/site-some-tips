@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Smoothing iPhone Pics (4 Methods) for 2024"
-date: 2024-05-30 23:18:14
-updated: 2024-06-01 12:31:52
+date: 2024-06-03T04:32:54.493Z
+updated: 2024-06-04T04:32:54.493Z
 tags: 
   - screen-recording
   - ai video

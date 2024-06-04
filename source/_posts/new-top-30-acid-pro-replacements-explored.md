@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 30  ACID Pro Replacements Explored\""
-date: 2024-05-31 13:50:36
-updated: 2024-06-02 12:53:35
+date: 2024-06-03T04:01:33.831Z
+updated: 2024-06-04T04:01:33.831Z
 tags: 
   - screen-recording
   - ai video

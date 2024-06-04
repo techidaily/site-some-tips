@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Metaverse & Multi-Meva Split  An Exploratory Analysis\""
-date: 2024-05-30 22:33:17
-updated: 2024-06-01 11:58:14
+date: 2024-06-03T03:58:10.525Z
+updated: 2024-06-04T03:58:10.525Z
 tags: 
   - screen-recording
   - ai video

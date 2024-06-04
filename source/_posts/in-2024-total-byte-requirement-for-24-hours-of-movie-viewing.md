@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Total Byte Requirement for 24 Hours of Movie Viewing"
-date: 2024-05-31 22:21:54
-updated: 2024-06-02 12:24:20
+date: 2024-06-03T04:42:41.576Z
+updated: 2024-06-04T04:42:41.576Z
 tags: 
   - screen-recording
   - ai video

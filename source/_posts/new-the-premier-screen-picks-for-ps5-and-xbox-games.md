@@ -1,7 +1,7 @@
 ---
 title: "[New] The Premier Screen Picks for PS5 and Xbox Games"
-date: 2024-05-29 23:44:17
-updated: 2024-06-01 10:52:27
+date: 2024-06-03T04:05:10.849Z
+updated: 2024-06-04T04:05:10.849Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Compression Errors in YouTube Playback"
-date: 2024-05-29 22:31:42
-updated: 2024-05-30 10:48:37
+date: 2024-06-03T04:36:16.226Z
+updated: 2024-06-04T04:36:16.226Z
 tags: 
   - screen-recording
   - ai video

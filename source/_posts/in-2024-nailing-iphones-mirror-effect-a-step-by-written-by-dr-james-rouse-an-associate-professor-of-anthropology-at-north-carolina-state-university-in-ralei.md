@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Nailing iPhone's Mirror Effect  A Step-By Written by Dr. James Rouse, an Associate Professor of Anthropology at North Carolina State University in Raleigh, NC, Who Has Worked Extensively with the Maori People and Their Marae (Traditional Meeting Houses)\""
-date: 2024-05-31 21:19:59
-updated: 2024-06-02 11:30:52
+date: 2024-06-03T03:50:38.804Z
+updated: 2024-06-04T03:50:38.804Z
 tags: 
   - screen-recording
   - ai video

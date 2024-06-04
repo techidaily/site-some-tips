@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Piecing Together Digital Images"
-date: 2024-05-31 11:39:38
-updated: 2024-06-01 11:12:50
+date: 2024-06-03T03:44:21.654Z
+updated: 2024-06-04T03:44:21.654Z
 tags: 
   - screen-recording
   - ai video

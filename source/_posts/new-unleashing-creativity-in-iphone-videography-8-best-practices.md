@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unleashing Creativity in iPhone Videography  8 Best Practices\""
-date: 2024-05-31 13:46:39
-updated: 2024-06-03 11:38:48
+date: 2024-06-03T03:51:19.149Z
+updated: 2024-06-04T03:51:19.149Z
 tags: 
   - screen-recording
   - ai video

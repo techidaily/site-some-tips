@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Photographic Edge  Cutting-Edge Editing Strategies\""
-date: 2024-05-30 23:24:15
-updated: 2024-06-01 10:43:39
+date: 2024-06-03T03:48:03.928Z
+updated: 2024-06-04T03:48:03.928Z
 tags: 
   - screen-recording
   - ai video

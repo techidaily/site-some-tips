@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking Visual Magic  Integrating 3D LUTs Into Your Workflow\""
-date: 2024-06-02 19:25:48
-updated: 2024-06-03 11:41:19
+date: 2024-06-03T04:32:47.406Z
+updated: 2024-06-04T04:32:47.406Z
 tags: 
   - screen-recording
   - ai video

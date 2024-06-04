@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling the Magic of Moving Texts  A Guide for Insta Pros\""
-date: 2024-05-31 17:45:17
-updated: 2024-06-03 11:19:17
+date: 2024-06-03T04:18:29.576Z
+updated: 2024-06-04T04:18:29.576Z
 tags: 
   - screen-recording
   - ai video

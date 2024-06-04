@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Tunes, Terms, and Copyrights on Instagram"
-date: 2024-05-31 12:54:24
-updated: 2024-06-02 12:46:51
+date: 2024-06-03T04:49:04.243Z
+updated: 2024-06-04T04:49:04.243Z
 tags: 
   - screen-recording
   - ai video

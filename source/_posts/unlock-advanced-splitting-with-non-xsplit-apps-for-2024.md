@@ -1,7 +1,7 @@
 ---
 title: "\"Unlock Advanced Splitting with Non-Xsplit Apps for 2024\""
-date: 2024-06-02 23:19:24
-updated: 2024-06-03 12:40:28
+date: 2024-06-03T04:38:09.192Z
+updated: 2024-06-04T04:38:09.192Z
 tags: 
   - screen-recording
   - ai video

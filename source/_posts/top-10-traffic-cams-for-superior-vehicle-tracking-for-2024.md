@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Traffic Cams for Superior Vehicle Tracking for 2024"
-date: 2024-05-30 17:49:18
-updated: 2024-06-02 11:12:46
+date: 2024-06-03T03:47:43.419Z
+updated: 2024-06-04T03:47:43.419Z
 tags: 
   - screen-recording
   - ai video

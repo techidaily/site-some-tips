@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential of Fast FB Videos with Tools for 2024"
-date: 2024-06-02 15:56:53
-updated: 2024-06-03 11:56:25
+date: 2024-06-03T04:21:46.846Z
+updated: 2024-06-04T04:21:46.846Z
 tags: 
   - screen-recording
   - ai video

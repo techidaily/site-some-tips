@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unleashing Your Inner Artist  Top 12 Collage Projects\""
-date: 2024-06-02 17:52:41
-updated: 2024-06-03 11:52:40
+date: 2024-06-03T04:10:55.459Z
+updated: 2024-06-04T04:10:55.459Z
 tags: 
   - screen-recording
   - ai video

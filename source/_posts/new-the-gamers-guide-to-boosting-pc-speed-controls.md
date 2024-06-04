@@ -1,7 +1,7 @@
 ---
 title: "[New] The Gamer's Guide to Boosting PC Speed Controls"
-date: 2024-05-30 14:52:21
-updated: 2024-06-01 12:14:31
+date: 2024-06-03T04:22:42.078Z
+updated: 2024-06-04T04:22:42.078Z
 tags: 
   - screen-recording
   - ai video

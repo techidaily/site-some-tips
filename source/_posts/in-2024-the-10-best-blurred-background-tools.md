@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The 10 Best Blurred Background Tools"
-date: 2024-05-31 14:53:25
-updated: 2024-06-01 10:45:58
+date: 2024-06-03T03:47:28.191Z
+updated: 2024-06-04T03:47:28.191Z
 tags: 
   - screen-recording
   - ai video

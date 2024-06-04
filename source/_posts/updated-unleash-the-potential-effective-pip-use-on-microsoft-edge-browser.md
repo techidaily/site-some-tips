@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unleash the Potential  Effective PIP Use on Microsoft Edge Browser\""
-date: 2024-06-01 18:46:22
-updated: 2024-06-02 10:24:33
+date: 2024-06-03T04:23:26.549Z
+updated: 2024-06-04T04:23:26.549Z
 tags: 
   - screen-recording
   - ai video

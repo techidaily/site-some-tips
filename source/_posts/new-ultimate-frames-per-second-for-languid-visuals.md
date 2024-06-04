@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Frames Per Second for Languid Visuals"
-date: 2024-05-31 19:23:11
-updated: 2024-06-02 12:13:51
+date: 2024-06-03T04:32:16.284Z
+updated: 2024-06-04T04:32:16.284Z
 tags: 
   - screen-recording
   - ai video

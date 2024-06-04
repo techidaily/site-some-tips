@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Striking the Balance  Duration for Your Podcast\""
-date: 2024-05-30 17:45:38
-updated: 2024-05-31 12:17:50
+date: 2024-06-03T04:01:16.792Z
+updated: 2024-06-04T04:01:16.792Z
 tags: 
   - screen-recording
   - ai video

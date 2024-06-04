@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Secret  How to Disable YouTube Snippet Playback for 2024\""
-date: 2024-05-31 17:22:35
-updated: 2024-06-03 12:24:25
+date: 2024-06-03T04:37:04.817Z
+updated: 2024-06-04T04:37:04.817Z
 tags: 
   - screen-recording
   - ai video

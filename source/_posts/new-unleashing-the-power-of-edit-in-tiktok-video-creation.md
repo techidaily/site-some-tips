@@ -1,7 +1,7 @@
 ---
 title: "[New] Unleashing the Power of Edit in TikTok Video Creation"
-date: 2024-05-31 22:27:31
-updated: 2024-06-03 12:34:41
+date: 2024-06-03T04:06:19.074Z
+updated: 2024-06-04T04:06:19.074Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking Full Potential of Mac's Preview Tool\""
-date: 2024-06-02 10:45:18
-updated: 2024-06-03 10:37:43
+date: 2024-06-03T04:28:25.512Z
+updated: 2024-06-04T04:28:25.512Z
 tags: 
   - screen-recording
   - ai video

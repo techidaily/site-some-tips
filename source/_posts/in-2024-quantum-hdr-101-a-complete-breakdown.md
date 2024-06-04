@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Quantum HDR 101  A Complete Breakdown\""
-date: 2024-05-27 11:36:26
-updated: 2024-05-30 12:38:59
+date: 2024-06-03T04:20:22.358Z
+updated: 2024-06-04T04:20:22.358Z
 tags: 
   - screen-recording
   - ai video

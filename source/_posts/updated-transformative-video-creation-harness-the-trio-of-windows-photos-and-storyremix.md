@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transformative Video Creation  Harness the Trio of Windows, Photos, and StoryRemix\""
-date: 2024-05-31 21:39:33
-updated: 2024-06-02 11:42:28
+date: 2024-06-03T04:31:53.647Z
+updated: 2024-06-04T04:31:53.647Z
 tags: 
   - screen-recording
   - ai video

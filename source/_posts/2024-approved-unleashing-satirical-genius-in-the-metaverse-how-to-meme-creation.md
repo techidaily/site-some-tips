@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unleashing Satirical Genius in the Metaverse – How-To Meme Creation\""
-date: 2024-06-01 16:53:49
-updated: 2024-06-03 11:41:21
+date: 2024-06-03T03:49:04.105Z
+updated: 2024-06-04T03:49:04.105Z
 tags: 
   - screen-recording
   - ai video

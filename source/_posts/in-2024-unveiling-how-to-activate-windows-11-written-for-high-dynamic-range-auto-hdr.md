@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)"
-date: 2024-05-31 22:54:11
-updated: 2024-06-03 10:25:32
+date: 2024-06-03T04:14:02.990Z
+updated: 2024-06-04T04:14:02.990Z
 tags: 
   - screen-recording
   - ai video

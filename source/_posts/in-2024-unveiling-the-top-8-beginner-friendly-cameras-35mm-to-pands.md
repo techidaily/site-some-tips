@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling the Top 8 Beginner-Friendly Cameras (35Mm to P&S)\""
-date: 2024-06-02 23:54:21
-updated: 2024-06-03 10:27:17
+date: 2024-06-03T03:53:24.631Z
+updated: 2024-06-04T03:53:24.631Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Transformative Power in Healthcare Through VR for 2024"
-date: 2024-06-01 20:43:43
-updated: 2024-06-02 12:11:19
+date: 2024-06-03T04:43:25.738Z
+updated: 2024-06-04T04:43:25.738Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tech Tips  How to Get FCP Without Money\""
-date: 2024-05-28 23:28:38
-updated: 2024-05-31 12:37:56
+date: 2024-06-03T04:19:06.396Z
+updated: 2024-06-04T04:19:06.396Z
 tags: 
   - screen-recording
   - ai video

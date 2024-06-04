@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Secrets of Movie Maker on Windows 8"
-date: 2024-05-31 18:54:47
-updated: 2024-06-03 12:43:20
+date: 2024-06-03T04:17:49.291Z
+updated: 2024-06-04T04:17:49.291Z
 tags: 
   - screen-recording
   - ai video

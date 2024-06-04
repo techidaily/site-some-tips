@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to Polarr Photo Editor Proficiency"
-date: 2024-05-29 17:56:32
-updated: 2024-06-01 12:11:31
+date: 2024-06-03T04:50:22.504Z
+updated: 2024-06-04T04:50:22.504Z
 tags: 
   - screen-recording
   - ai video

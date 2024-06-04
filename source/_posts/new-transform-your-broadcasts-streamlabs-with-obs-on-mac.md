@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transform Your Broadcasts  Streamlabs with OBS on Mac\""
-date: 2024-06-01 18:46:57
-updated: 2024-06-02 11:32:37
+date: 2024-06-03T03:47:07.684Z
+updated: 2024-06-04T03:47:07.684Z
 tags: 
   - screen-recording
   - ai video

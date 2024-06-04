@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Book Trailers You Won't Miss"
-date: 2024-05-29 21:40:54
-updated: 2024-06-01 10:30:40
+date: 2024-06-03T04:33:15.414Z
+updated: 2024-06-04T04:33:15.414Z
 tags: 
   - screen-recording
   - ai video

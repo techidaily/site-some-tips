@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Excellent Videocameras of the Year 2024"
-date: 2024-05-29 21:34:21
-updated: 2024-06-01 12:40:48
+date: 2024-06-03T04:06:26.228Z
+updated: 2024-06-04T04:06:26.228Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Reality  Advanced Distortion Tactics for Images\""
-date: 2024-05-30 12:21:15
-updated: 2024-06-02 12:20:59
+date: 2024-06-03T03:53:21.753Z
+updated: 2024-06-04T03:53:21.753Z
 tags: 
   - screen-recording
   - ai video

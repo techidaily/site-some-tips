@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unveiling Flight  In-Depth Analysis of DJI Phantom 4\""
-date: 2024-05-31 17:19:38
-updated: 2024-06-03 12:39:25
+date: 2024-06-03T04:12:02.913Z
+updated: 2024-06-04T04:12:02.913Z
 tags: 
   - screen-recording
   - ai video

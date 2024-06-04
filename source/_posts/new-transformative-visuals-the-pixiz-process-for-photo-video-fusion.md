@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transformative Visuals  The Pixiz Process for Photo-Video Fusion\""
-date: 2024-06-01 13:23:30
-updated: 2024-06-02 12:22:10
+date: 2024-06-03T03:58:50.985Z
+updated: 2024-06-04T03:58:50.985Z
 tags: 
   - screen-recording
   - ai video

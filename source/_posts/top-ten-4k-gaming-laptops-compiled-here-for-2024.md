@@ -1,7 +1,7 @@
 ---
 title: "Top Ten 4K Gaming Laptops Compiled Here for 2024"
-date: 2024-05-31 18:19:20
-updated: 2024-06-02 10:23:38
+date: 2024-06-03T04:39:07.656Z
+updated: 2024-06-04T04:39:07.656Z
 tags: 
   - screen-recording
   - ai video

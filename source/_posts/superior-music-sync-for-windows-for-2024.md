@@ -1,7 +1,7 @@
 ---
 title: "Superior Music Sync for Windows for 2024"
-date: 2024-05-28 18:18:50
-updated: 2024-05-31 10:32:21
+date: 2024-06-03T03:54:39.081Z
+updated: 2024-06-04T03:54:39.081Z
 tags: 
   - screen-recording
   - ai video

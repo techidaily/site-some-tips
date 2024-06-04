@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Building Blocks of Graphic Animation\""
-date: 2024-05-30 20:59:52
-updated: 2024-06-01 11:30:40
+date: 2024-06-03T04:44:09.295Z
+updated: 2024-06-04T04:44:09.295Z
 tags: 
   - screen-recording
   - ai video

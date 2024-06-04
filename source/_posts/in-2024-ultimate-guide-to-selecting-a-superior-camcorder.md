@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Guide to Selecting a Superior Camcorder"
-date: 2024-05-30 17:50:48
-updated: 2024-06-02 10:49:56
+date: 2024-06-03T03:44:24.868Z
+updated: 2024-06-04T03:44:24.868Z
 tags: 
   - screen-recording
   - ai video

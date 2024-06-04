@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete User's Manual for FCP Power Users"
-date: 2024-05-30 11:24:54
-updated: 2024-06-01 11:48:57
+date: 2024-06-03T04:00:45.708Z
+updated: 2024-06-04T04:00:45.708Z
 tags: 
   - screen-recording
   - ai video

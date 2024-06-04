@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Preservation  Digitizing & Safeguarding Faded Family Memories\""
-date: 2024-05-31 18:16:43
-updated: 2024-06-01 10:17:49
+date: 2024-06-03T04:30:37.900Z
+updated: 2024-06-04T04:30:37.900Z
 tags: 
   - screen-recording
   - ai video

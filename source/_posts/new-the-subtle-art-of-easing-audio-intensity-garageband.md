@@ -1,7 +1,7 @@
 ---
 title: "[New] The Subtle Art of Easing Audio Intensity (Garageband)"
-date: 2024-05-30 18:41:53
-updated: 2024-06-01 12:53:33
+date: 2024-06-03T04:01:32.403Z
+updated: 2024-06-04T04:01:32.403Z
 tags: 
   - screen-recording
   - ai video

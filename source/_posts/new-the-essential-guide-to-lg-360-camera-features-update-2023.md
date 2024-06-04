@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to LG 360 Camera Features Update 2023"
-date: 2024-05-30 10:43:32
-updated: 2024-06-01 11:17:46
+date: 2024-06-03T03:57:08.822Z
+updated: 2024-06-04T03:57:08.822Z
 tags: 
   - screen-recording
   - ai video

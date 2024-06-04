@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ultimate Moment in VR Infinity"
-date: 2024-05-31 16:46:41
-updated: 2024-06-02 10:40:37
+date: 2024-06-03T04:10:54.739Z
+updated: 2024-06-04T04:10:54.739Z
 tags: 
   - screen-recording
   - ai video

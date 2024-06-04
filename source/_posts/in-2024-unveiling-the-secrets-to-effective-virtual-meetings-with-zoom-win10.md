@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Secrets to Effective Virtual Meetings with Zoom (Win10)"
-date: 2024-06-02 14:29:28
-updated: 2024-06-03 11:56:11
+date: 2024-06-03T04:43:52.274Z
+updated: 2024-06-04T04:43:52.274Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Alchemy of Aesthetics  Top 1 Written by an Experienced Graphic Designer\""
-date: 2024-05-30 15:26:30
-updated: 2024-06-01 12:41:47
+date: 2024-06-03T03:59:33.589Z
+updated: 2024-06-04T03:59:33.589Z
 tags: 
   - screen-recording
   - ai video

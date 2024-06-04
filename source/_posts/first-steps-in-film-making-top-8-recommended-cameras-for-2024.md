@@ -1,7 +1,7 @@
 ---
 title: "\"First Steps in Film Making  Top 8 Recommended Cameras for 2024\""
-date: 2024-05-24 19:41:24
-updated: 2024-05-26 12:52:29
+date: 2024-06-03T04:10:18.090Z
+updated: 2024-06-04T04:10:18.090Z
 tags: 
   - screen-recording
   - ai video

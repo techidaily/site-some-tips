@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top 5 SD Cards for GoPro Hero Series - Including Model 8 & 7\""
-date: 2024-05-31 23:51:44
-updated: 2024-06-02 10:43:54
+date: 2024-06-03T04:30:04.207Z
+updated: 2024-06-04T04:30:04.207Z
 tags: 
   - screen-recording
   - ai video

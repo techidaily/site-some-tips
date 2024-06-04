@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unparalleled Camera Tech 'S Filmmaking"
-date: 2024-06-02 20:18:44
-updated: 2024-06-03 10:30:43
+date: 2024-06-03T04:05:38.022Z
+updated: 2024-06-04T04:05:38.022Z
 tags: 
   - screen-recording
   - ai video

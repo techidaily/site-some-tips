@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to LUT Applications in Photoshop CS6"
-date: 2024-05-31 12:47:47
-updated: 2024-06-01 10:23:11
+date: 2024-06-03T04:07:50.046Z
+updated: 2024-06-04T04:07:50.046Z
 tags: 
   - screen-recording
   - ai video

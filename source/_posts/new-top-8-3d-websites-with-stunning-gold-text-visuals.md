@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 8 3D Websites with Stunning Gold Text Visuals"
-date: 2024-05-30 10:50:22
-updated: 2024-06-02 10:46:53
+date: 2024-06-03T04:23:45.670Z
+updated: 2024-06-04T04:23:45.670Z
 tags: 
   - screen-recording
   - ai video

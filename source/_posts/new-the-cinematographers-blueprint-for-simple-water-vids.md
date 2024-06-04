@@ -1,7 +1,7 @@
 ---
 title: "[New] The Cinematographer's Blueprint for Simple Water Vids"
-date: 2024-05-30 21:34:13
-updated: 2024-06-01 10:30:27
+date: 2024-06-03T04:21:31.310Z
+updated: 2024-06-04T04:21:31.310Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro\""
-date: 2024-05-28 12:46:25
-updated: 2024-05-31 12:25:12
+date: 2024-06-03T04:48:24.374Z
+updated: 2024-06-04T04:48:24.374Z
 tags: 
   - screen-recording
   - ai video

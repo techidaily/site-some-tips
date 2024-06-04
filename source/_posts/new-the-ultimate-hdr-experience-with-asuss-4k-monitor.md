@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate HDR Experience with Asus's 4K Monitor"
-date: 2024-05-29 17:59:18
-updated: 2024-06-01 11:50:29
+date: 2024-06-03T04:18:55.678Z
+updated: 2024-06-04T04:18:55.678Z
 tags: 
   - screen-recording
   - ai video

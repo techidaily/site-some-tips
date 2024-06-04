@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sunlit Shades to Subdued Spectrum in Photoshop"
-date: 2024-05-29 17:57:35
-updated: 2024-05-31 12:18:40
+date: 2024-06-03T03:47:48.368Z
+updated: 2024-06-04T03:47:48.368Z
 tags: 
   - screen-recording
   - ai video

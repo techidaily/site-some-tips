@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Understanding Key Differences in Panoramic and VR Cinematography\""
-date: 2024-05-31 23:53:53
-updated: 2024-06-02 11:54:24
+date: 2024-06-03T04:38:24.776Z
+updated: 2024-06-04T04:38:24.776Z
 tags: 
   - screen-recording
   - ai video

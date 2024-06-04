@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top-Notch Tricks to Nail Every Green Screen Shot\""
-date: 2024-06-01 11:16:44
-updated: 2024-06-02 10:13:56
+date: 2024-06-03T04:24:18.047Z
+updated: 2024-06-04T04:24:18.047Z
 tags: 
   - screen-recording
   - ai video

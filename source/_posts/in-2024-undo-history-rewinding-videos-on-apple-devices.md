@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Undo History  Rewinding Videos on Apple Devices\""
-date: 2024-05-31 16:24:35
-updated: 2024-06-02 10:52:56
+date: 2024-06-03T04:10:26.652Z
+updated: 2024-06-04T04:10:26.652Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Colors  Selecting the Crème De La Créme Monitors\""
-date: 2024-05-29 23:33:15
-updated: 2024-06-01 11:26:44
+date: 2024-06-03T04:14:29.336Z
+updated: 2024-06-04T04:14:29.336Z
 tags: 
   - screen-recording
   - ai video

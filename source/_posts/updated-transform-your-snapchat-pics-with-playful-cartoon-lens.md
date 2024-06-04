@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transform Your Snapchat Pics with Playful Cartoon Lens"
-date: 2024-05-31 12:58:24
-updated: 2024-06-02 12:28:48
+date: 2024-06-03T04:35:01.728Z
+updated: 2024-06-04T04:35:01.728Z
 tags: 
   - screen-recording
   - ai video

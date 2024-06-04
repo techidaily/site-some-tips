@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Apple's iPhone Camera Evolution in iOS 11 for 2024"
-date: 2024-05-31 19:36:56
-updated: 2024-06-01 11:44:26
+date: 2024-06-03T04:22:46.339Z
+updated: 2024-06-04T04:22:46.339Z
 tags: 
   - screen-recording
   - ai video

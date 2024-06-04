@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Spectrum  Simple Fixes for Perfect Photoshop Palette Adjustments for 2024\""
-date: 2024-05-31 13:23:11
-updated: 2024-06-03 10:21:46
+date: 2024-06-03T03:49:24.098Z
+updated: 2024-06-04T03:49:24.098Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques"
-date: 2024-05-31 18:27:16
-updated: 2024-06-02 10:28:45
+date: 2024-06-03T03:50:48.854Z
+updated: 2024-06-04T03:50:48.854Z
 tags: 
   - screen-recording
   - ai video

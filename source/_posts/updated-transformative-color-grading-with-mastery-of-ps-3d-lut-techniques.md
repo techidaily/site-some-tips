@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Transformative Color Grading with Mastery of PS 3D LUT Techniques"
-date: 2024-06-01 10:47:27
-updated: 2024-06-02 11:27:14
+date: 2024-06-03T04:33:33.122Z
+updated: 2024-06-04T04:33:33.122Z
 tags: 
   - screen-recording
   - ai video

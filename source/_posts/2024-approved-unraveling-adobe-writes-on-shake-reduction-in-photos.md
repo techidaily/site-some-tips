@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unraveling Adobe’ Writes on Shake Reduction in Photos\""
-date: 2024-06-01 12:25:11
-updated: 2024-06-03 11:18:45
+date: 2024-06-03T04:49:00.059Z
+updated: 2024-06-04T04:49:00.059Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Comic Strip Editor"
-date: 2024-05-30 18:22:36
-updated: 2024-06-02 10:41:41
+date: 2024-06-03T04:09:23.591Z
+updated: 2024-06-04T04:09:23.591Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Potential of Text with Photo Shading PSX for 2024"
-date: 2024-05-31 11:17:14
-updated: 2024-06-03 10:41:17
+date: 2024-06-03T04:11:06.800Z
+updated: 2024-06-04T04:11:06.800Z
 tags: 
   - screen-recording
   - ai video

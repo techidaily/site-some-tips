@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Step-by-Step to Add Chapters on YouTube\""
-date: 2024-05-30 19:26:30
-updated: 2024-06-01 12:36:21
+date: 2024-06-03T04:01:59.180Z
+updated: 2024-06-04T04:01:59.180Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"Understanding Vectors  First Steps and Essential Apps for 2024\""
-date: 2024-06-01 12:37:47
-updated: 2024-06-02 11:10:19
+date: 2024-06-03T03:51:23.451Z
+updated: 2024-06-04T03:51:23.451Z
 tags: 
   - screen-recording
   - ai video

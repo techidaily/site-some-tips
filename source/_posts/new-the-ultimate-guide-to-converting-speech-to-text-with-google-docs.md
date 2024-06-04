@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Converting Speech to Text with Google Docs"
-date: 2024-05-29 14:55:27
-updated: 2024-06-01 11:32:25
+date: 2024-06-03T04:33:16.120Z
+updated: 2024-06-04T04:33:16.120Z
 tags: 
   - screen-recording
   - ai video

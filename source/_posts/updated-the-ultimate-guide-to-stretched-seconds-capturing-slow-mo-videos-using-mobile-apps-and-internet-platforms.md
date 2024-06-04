@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to Stretched Seconds  Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms\""
-date: 2024-05-31 14:54:27
-updated: 2024-06-01 12:14:35
+date: 2024-06-03T04:38:44.990Z
+updated: 2024-06-04T04:38:44.990Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Transform Your YouTube Views with Smart Zoom Practices"
-date: 2024-05-30 13:11:30
-updated: 2024-06-02 10:47:11
+date: 2024-06-03T04:30:40.718Z
+updated: 2024-06-04T04:30:40.718Z
 tags: 
   - screen-recording
   - ai video

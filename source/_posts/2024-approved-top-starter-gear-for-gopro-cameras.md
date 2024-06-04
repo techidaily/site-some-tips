@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Starter Gear for GoPro Cameras\""
-date: 2024-05-31 22:53:27
-updated: 2024-06-02 12:42:54
+date: 2024-06-03T03:55:55.046Z
+updated: 2024-06-04T03:55:55.046Z
 tags: 
   - screen-recording
   - ai video

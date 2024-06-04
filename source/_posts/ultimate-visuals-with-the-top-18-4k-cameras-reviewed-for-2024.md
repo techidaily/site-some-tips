@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Visuals with the Top 18 4K Cameras Reviewed for 2024"
-date: 2024-05-31 18:42:39
-updated: 2024-06-02 10:20:48
+date: 2024-06-03T04:30:15.563Z
+updated: 2024-06-04T04:30:15.563Z
 tags: 
   - screen-recording
   - ai video

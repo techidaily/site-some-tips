@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Auditory Identity  Crafting Your Own Ringtones & Sounds for Android for 2024\""
-date: 2024-05-29 12:31:33
-updated: 2024-06-01 12:44:28
+date: 2024-06-03T04:16:23.669Z
+updated: 2024-06-04T04:16:23.669Z
 tags: 
   - screen-recording
   - ai video

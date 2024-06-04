@@ -1,7 +1,7 @@
 ---
 title: "[New] The Artisan's Guide to Aesthetic Photographic Adjustments"
-date: 2024-05-31 17:38:51
-updated: 2024-06-01 12:16:25
+date: 2024-06-03T03:58:17.612Z
+updated: 2024-06-04T03:58:17.612Z
 tags: 
   - screen-recording
   - ai video

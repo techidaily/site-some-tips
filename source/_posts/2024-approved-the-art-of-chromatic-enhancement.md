@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Art of Chromatic Enhancement\""
-date: 2024-05-31 14:12:52
-updated: 2024-06-01 11:46:52
+date: 2024-06-03T04:22:56.996Z
+updated: 2024-06-04T04:22:56.996Z
 tags: 
   - screen-recording
   - ai video

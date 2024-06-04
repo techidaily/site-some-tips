@@ -1,7 +1,7 @@
 ---
 title: "\"The Future of Sound Design  Magix Music Maker's Latest Upgrade for 2024\""
-date: 2024-05-30 15:58:38
-updated: 2024-06-01 10:11:51
+date: 2024-06-03T03:43:03.783Z
+updated: 2024-06-04T03:43:03.783Z
 tags: 
   - screen-recording
   - ai video

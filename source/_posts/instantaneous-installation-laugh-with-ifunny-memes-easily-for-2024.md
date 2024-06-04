@@ -1,7 +1,7 @@
 ---
 title: "\"Instantaneous Installation  Laugh with iFunny Memes Easily for 2024\""
-date: 2024-05-26 12:42:13
-updated: 2024-05-27 12:22:37
+date: 2024-06-03T04:15:46.256Z
+updated: 2024-06-04T04:15:46.256Z
 tags: 
   - screen-recording
   - ai video

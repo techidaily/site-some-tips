@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Updated Inquiry Collection for Podcast Appeal"
-date: 2024-06-02 12:24:57
-updated: 2024-06-03 12:21:17
+date: 2024-06-03T04:04:24.361Z
+updated: 2024-06-04T04:04:24.361Z
 tags: 
   - screen-recording
   - ai video

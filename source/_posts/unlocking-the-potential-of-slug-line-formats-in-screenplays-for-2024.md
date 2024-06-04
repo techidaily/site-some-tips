@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of Slug Line Formats in Screenplays for 2024"
-date: 2024-06-02 12:20:24
-updated: 2024-06-03 10:46:28
+date: 2024-06-03T04:32:24.956Z
+updated: 2024-06-04T04:32:24.956Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Streamlining Color Grading with LUT Techniques in AE\""
-date: 2024-05-28 19:16:41
-updated: 2024-05-31 12:25:27
+date: 2024-06-03T04:38:17.698Z
+updated: 2024-06-04T04:38:17.698Z
 tags: 
   - screen-recording
   - ai video

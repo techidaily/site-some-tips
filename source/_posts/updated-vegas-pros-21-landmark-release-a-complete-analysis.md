@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Vegas Pro's '21 Landmark Release - A Complete Analysis\""
-date: 2024-06-02 23:27:33
-updated: 2024-06-03 10:31:57
+date: 2024-06-03T04:50:31.277Z
+updated: 2024-06-04T04:50:31.277Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate List for Google Pixel Tones"
-date: 2024-05-31 22:48:23
-updated: 2024-06-01 11:29:20
+date: 2024-06-03T04:34:02.552Z
+updated: 2024-06-04T04:34:02.552Z
 tags: 
   - screen-recording
   - ai video

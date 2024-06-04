@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior PSD Text Direction\""
-date: 2024-05-30 20:15:54
-updated: 2024-05-31 12:28:12
+date: 2024-06-03T03:45:47.908Z
+updated: 2024-06-04T03:45:47.908Z
 tags: 
   - screen-recording
   - ai video

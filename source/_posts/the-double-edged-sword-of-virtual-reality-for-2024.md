@@ -1,7 +1,7 @@
 ---
 title: "\"The Double-Edged Sword of Virtual Reality for 2024\""
-date: 2024-05-29 14:14:18
-updated: 2024-06-01 10:25:39
+date: 2024-06-03T04:36:57.732Z
+updated: 2024-06-04T04:36:57.732Z
 tags: 
   - screen-recording
   - ai video

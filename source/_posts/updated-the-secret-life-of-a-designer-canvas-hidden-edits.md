@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Secret Life of a Designer  Canva's Hidden Edits\""
-date: 2024-05-30 19:48:56
-updated: 2024-06-01 12:50:31
+date: 2024-06-03T04:42:29.192Z
+updated: 2024-06-04T04:42:29.192Z
 tags: 
   - screen-recording
   - ai video

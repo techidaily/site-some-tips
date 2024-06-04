@@ -1,7 +1,7 @@
 ---
 title: "Vanguard Wearables for Sporting Captures for 2024"
-date: 2024-06-01 22:45:33
-updated: 2024-06-03 11:45:19
+date: 2024-06-03T04:15:32.720Z
+updated: 2024-06-04T04:15:32.720Z
 tags: 
   - screen-recording
   - ai video

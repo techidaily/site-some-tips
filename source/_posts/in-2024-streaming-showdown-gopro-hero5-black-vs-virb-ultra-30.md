@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streaming Showdown  GoPro Hero5 Black Vs. VIRB Ultra 30\""
-date: 2024-05-28 22:34:32
-updated: 2024-05-31 11:20:16
+date: 2024-06-03T04:28:55.556Z
+updated: 2024-06-04T04:28:55.556Z
 tags: 
   - screen-recording
   - ai video

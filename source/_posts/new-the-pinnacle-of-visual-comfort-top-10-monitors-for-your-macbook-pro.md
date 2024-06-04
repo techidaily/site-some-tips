@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Pinnacle of Visual Comfort  Top 10 Monitors for Your MacBook Pro\""
-date: 2024-05-31 15:10:20
-updated: 2024-06-01 10:49:30
+date: 2024-06-03T03:53:28.232Z
+updated: 2024-06-04T03:53:28.232Z
 tags: 
   - screen-recording
   - ai video

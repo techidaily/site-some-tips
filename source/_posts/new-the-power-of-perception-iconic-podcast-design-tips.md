@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Power of Perception  Iconic Podcast Design Tips\""
-date: 2024-05-31 20:17:45
-updated: 2024-06-01 10:13:20
+date: 2024-06-03T03:55:36.122Z
+updated: 2024-06-04T03:55:36.122Z
 tags: 
   - screen-recording
   - ai video

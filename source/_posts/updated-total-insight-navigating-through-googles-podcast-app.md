@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Total Insight  Navigating Through Google's Podcast App\""
-date: 2024-06-01 12:56:57
-updated: 2024-06-02 11:36:28
+date: 2024-06-03T04:52:34.029Z
+updated: 2024-06-04T04:52:34.029Z
 tags: 
   - screen-recording
   - ai video

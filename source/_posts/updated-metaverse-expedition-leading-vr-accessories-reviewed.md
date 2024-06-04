@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Metaverse Expedition  Leading VR Accessories Reviewed\""
-date: 2024-05-25 10:56:15
-updated: 2024-05-28 10:45:15
+date: 2024-06-03T04:52:30.554Z
+updated: 2024-06-04T04:52:30.554Z
 tags: 
   - screen-recording
   - ai video

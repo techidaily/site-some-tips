@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Guide to AE Title Effect Wizardry"
-date: 2024-05-29 15:25:56
-updated: 2024-06-01 10:21:33
+date: 2024-06-03T04:04:53.220Z
+updated: 2024-06-04T04:04:53.220Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Insider’s Guide to Uploading with Google"
-date: 2024-05-29 20:25:47
-updated: 2024-06-01 11:32:42
+date: 2024-06-03T04:06:26.942Z
+updated: 2024-06-04T04:06:26.942Z
 tags: 
   - screen-recording
   - ai video

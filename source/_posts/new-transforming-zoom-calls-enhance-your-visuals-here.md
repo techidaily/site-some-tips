@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transforming Zoom Calls  Enhance Your Visuals Here\""
-date: 2024-05-30 19:36:15
-updated: 2024-06-02 10:51:27
+date: 2024-06-03T04:51:54.459Z
+updated: 2024-06-04T04:51:54.459Z
 tags: 
   - screen-recording
   - ai video

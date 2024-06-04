@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Pinnacle of Tablet Drawing  Best 8 for iPadOS\""
-date: 2024-05-29 23:50:42
-updated: 2024-06-01 12:18:44
+date: 2024-06-03T03:59:55.369Z
+updated: 2024-06-04T03:59:55.369Z
 tags: 
   - screen-recording
   - ai video

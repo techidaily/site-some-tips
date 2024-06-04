@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Personal Narratives  Best Practices for Video Praise\""
-date: 2024-05-30 14:27:33
-updated: 2024-06-02 11:22:21
+date: 2024-06-03T03:50:10.655Z
+updated: 2024-06-04T03:50:10.655Z
 tags: 
   - screen-recording
   - ai video

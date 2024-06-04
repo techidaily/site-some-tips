@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Comprehensive Guide to Changing Console Voice"
-date: 2024-05-29 11:48:22
-updated: 2024-06-01 10:46:13
+date: 2024-06-03T03:56:20.836Z
+updated: 2024-06-04T03:56:20.836Z
 tags: 
   - screen-recording
   - ai video

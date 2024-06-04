@@ -1,7 +1,7 @@
 ---
 title: "[New] The Obscured Oath (Black) VS The Illuminated Edict (Silver)"
-date: 2024-05-30 18:11:48
-updated: 2024-06-01 11:19:23
+date: 2024-06-03T04:47:34.445Z
+updated: 2024-06-04T04:47:34.445Z
 tags: 
   - screen-recording
   - ai video

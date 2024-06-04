@@ -1,7 +1,7 @@
 ---
 title: "Streamline Memory Management via Mematic for 2024"
-date: 2024-05-29 19:24:49
-updated: 2024-05-31 10:57:12
+date: 2024-06-03T04:44:57.092Z
+updated: 2024-06-04T04:44:57.092Z
 tags: 
   - screen-recording
   - ai video

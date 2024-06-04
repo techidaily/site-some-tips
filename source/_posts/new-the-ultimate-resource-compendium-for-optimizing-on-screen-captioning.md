@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning\""
-date: 2024-05-29 15:28:54
-updated: 2024-06-01 12:13:37
+date: 2024-06-03T04:42:17.145Z
+updated: 2024-06-04T04:42:17.145Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Strategies for Boosting H&P Healthcare FB Campaigns\""
-date: 2024-06-01 15:23:18
-updated: 2024-06-02 11:21:38
+date: 2024-06-03T04:29:57.130Z
+updated: 2024-06-04T04:29:57.130Z
 tags: 
   - screen-recording
   - ai video

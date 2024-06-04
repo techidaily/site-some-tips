@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Testing Titans  In-Depth Comparison of GoPro's Hero5B & Session\""
-date: 2024-05-31 18:58:29
-updated: 2024-06-01 10:49:38
+date: 2024-06-03T04:50:36.152Z
+updated: 2024-06-04T04:50:36.152Z
 tags: 
   - screen-recording
   - ai video

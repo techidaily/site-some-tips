@@ -1,7 +1,7 @@
 ---
 title: "[New] Superior Frame Rate in Languid Videos"
-date: 2024-05-28 20:29:38
-updated: 2024-05-31 10:10:24
+date: 2024-06-03T04:24:12.366Z
+updated: 2024-06-04T04:24:12.366Z
 tags: 
   - screen-recording
   - ai video

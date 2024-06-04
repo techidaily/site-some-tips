@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Reducing Shakiness on Your GoPro Movie\""
-date: 2024-05-31 11:22:44
-updated: 2024-06-01 11:35:55
+date: 2024-06-03T04:03:55.841Z
+updated: 2024-06-04T04:03:55.841Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Superior Scripting FX Vaults"
-date: 2024-05-29 20:14:12
-updated: 2024-05-31 12:55:38
+date: 2024-06-03T04:37:37.716Z
+updated: 2024-06-04T04:37:37.716Z
 tags: 
   - screen-recording
   - ai video

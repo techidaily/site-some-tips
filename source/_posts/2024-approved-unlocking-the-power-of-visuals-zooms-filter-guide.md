@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unlocking the Power of Visuals  Zoom's Filter Guide\""
-date: 2024-06-01 10:14:33
-updated: 2024-06-03 10:47:37
+date: 2024-06-03T04:27:51.129Z
+updated: 2024-06-04T04:27:51.129Z
 tags: 
   - screen-recording
   - ai video

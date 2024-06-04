@@ -1,7 +1,7 @@
 ---
 title: "\"Streamline Filmmaking  Install XP's Media Tools for 2024\""
-date: 2024-05-29 14:20:18
-updated: 2024-05-31 10:40:55
+date: 2024-06-03T03:57:50.642Z
+updated: 2024-06-04T03:57:50.642Z
 tags: 
   - screen-recording
   - ai video

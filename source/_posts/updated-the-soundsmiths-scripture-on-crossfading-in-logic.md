@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Soundsmith's Scripture on Crossfading in Logic"
-date: 2024-05-31 12:32:50
-updated: 2024-06-01 12:29:22
+date: 2024-06-03T04:12:48.992Z
+updated: 2024-06-04T04:12:48.992Z
 tags: 
   - screen-recording
   - ai video

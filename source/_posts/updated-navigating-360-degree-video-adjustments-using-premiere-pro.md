@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Navigating 360-Degree Video Adjustments Using Premiere Pro\""
-date: 2024-05-28 10:39:58
-updated: 2024-05-29 10:32:38
+date: 2024-06-03T04:13:15.686Z
+updated: 2024-06-04T04:13:15.686Z
 tags: 
   - screen-recording
   - ai video

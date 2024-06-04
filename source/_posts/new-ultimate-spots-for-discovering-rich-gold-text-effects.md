@@ -1,7 +1,7 @@
 ---
 title: "[New] Ultimate Spots for Discovering Rich, Gold Text Effects"
-date: 2024-05-30 14:53:56
-updated: 2024-06-02 11:48:26
+date: 2024-06-03T04:41:13.775Z
+updated: 2024-06-04T04:41:13.775Z
 tags: 
   - screen-recording
   - ai video

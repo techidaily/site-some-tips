@@ -1,7 +1,7 @@
 ---
 title: "[New] Seizing Photographic Segments From Videos in Windows 11"
-date: 2024-05-27 22:29:54
-updated: 2024-05-30 11:31:22
+date: 2024-06-03T04:15:47.684Z
+updated: 2024-06-04T04:15:47.684Z
 tags: 
   - screen-recording
   - ai video

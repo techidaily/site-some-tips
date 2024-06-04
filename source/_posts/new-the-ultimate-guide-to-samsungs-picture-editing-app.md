@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Samsung's Picture Editing App"
-date: 2024-05-30 15:26:31
-updated: 2024-06-01 10:11:48
+date: 2024-06-03T04:52:22.362Z
+updated: 2024-06-04T04:52:22.362Z
 tags: 
   - screen-recording
   - ai video

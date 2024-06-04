@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips on Using UAVs Creatively in Filmmaking"
-date: 2024-05-30 10:44:40
-updated: 2024-06-02 11:17:48
+date: 2024-06-03T04:41:55.898Z
+updated: 2024-06-04T04:41:55.898Z
 tags: 
   - screen-recording
   - ai video

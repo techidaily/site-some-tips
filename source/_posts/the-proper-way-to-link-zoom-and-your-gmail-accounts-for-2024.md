@@ -1,7 +1,7 @@
 ---
 title: "The Proper Way to Link Zoom and Your Gmail Accounts for 2024"
-date: 2024-05-29 19:34:53
-updated: 2024-06-01 12:31:37
+date: 2024-06-03T04:45:33.630Z
+updated: 2024-06-04T04:45:33.631Z
 tags: 
   - screen-recording
   - ai video

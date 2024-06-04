@@ -1,7 +1,7 @@
 ---
 title: "Techniques for Swapping Video Content in Android for 2024"
-date: 2024-05-30 15:45:20
-updated: 2024-05-31 12:26:10
+date: 2024-06-03T04:26:58.312Z
+updated: 2024-06-04T04:26:58.312Z
 tags: 
   - screen-recording
   - ai video

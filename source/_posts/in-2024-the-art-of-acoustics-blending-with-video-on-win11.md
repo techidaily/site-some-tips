@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Art of Acoustics  Blending with Video on Win11\""
-date: 2024-05-29 13:28:50
-updated: 2024-06-01 10:30:10
+date: 2024-06-03T04:04:33.278Z
+updated: 2024-06-04T04:04:33.278Z
 tags: 
   - screen-recording
   - ai video

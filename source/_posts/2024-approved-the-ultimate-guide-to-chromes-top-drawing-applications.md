@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Guide to Chrome's Top Drawing Applications\""
-date: 2024-05-29 17:58:19
-updated: 2024-06-01 11:34:35
+date: 2024-06-03T04:03:55.127Z
+updated: 2024-06-04T04:03:55.127Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Stunning iPhone Macro Photos Made Simple"
-date: 2024-05-28 22:40:55
-updated: 2024-05-31 10:20:29
+date: 2024-06-03T04:45:36.477Z
+updated: 2024-06-04T04:45:36.477Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling the Simple Nature of Storytelling"
-date: 2024-05-31 13:49:57
-updated: 2024-06-03 11:41:16
+date: 2024-06-03T03:44:26.268Z
+updated: 2024-06-04T03:44:26.268Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android\""
-date: 2024-06-02 22:36:53
-updated: 2024-06-03 10:28:35
+date: 2024-06-03T04:41:09.860Z
+updated: 2024-06-04T04:41:09.860Z
 tags: 
   - screen-recording
   - ai video

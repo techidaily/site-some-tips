@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ultimate Review of ASUS's 4K HDR Powerhouse"
-date: 2024-05-29 19:42:25
-updated: 2024-06-01 12:33:17
+date: 2024-06-03T04:16:35.459Z
+updated: 2024-06-04T04:16:35.459Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] Navigating Netflix's Pace Adjustments"
-date: 2024-05-26 12:36:15
-updated: 2024-05-29 12:10:21
+date: 2024-06-03T04:22:38.537Z
+updated: 2024-06-04T04:22:38.537Z
 tags: 
   - screen-recording
   - ai video

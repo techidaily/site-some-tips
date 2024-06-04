@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist for NFL Live Broadcasting for 2024"
-date: 2024-05-30 19:14:12
-updated: 2024-06-01 12:45:59
+date: 2024-06-03T03:56:16.554Z
+updated: 2024-06-04T03:56:16.554Z
 tags: 
   - screen-recording
   - ai video

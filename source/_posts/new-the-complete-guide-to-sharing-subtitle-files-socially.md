@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete Guide to Sharing Subtitle Files Socially"
-date: 2024-05-31 20:16:23
-updated: 2024-06-01 11:15:48
+date: 2024-06-03T03:57:08.099Z
+updated: 2024-06-04T03:57:08.099Z
 tags: 
   - screen-recording
   - ai video

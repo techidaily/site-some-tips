@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top Mac Speech-to-Text Apps You're Not Aware Of\""
-date: 2024-05-31 19:18:35
-updated: 2024-06-02 11:32:29
+date: 2024-06-03T04:26:39.893Z
+updated: 2024-06-04T04:26:39.893Z
 tags: 
   - screen-recording
   - ai video

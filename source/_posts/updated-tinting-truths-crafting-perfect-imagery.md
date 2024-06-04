@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Tinting Truths  Crafting Perfect Imagery\""
-date: 2024-05-30 12:15:23
-updated: 2024-06-02 10:43:20
+date: 2024-06-03T04:09:03.219Z
+updated: 2024-06-04T04:09:03.219Z
 tags: 
   - screen-recording
   - ai video

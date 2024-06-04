@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Smartphone List for Capturing Crystal Clear Video for 2024"
-date: 2024-05-31 12:56:24
-updated: 2024-06-02 11:19:20
+date: 2024-06-03T04:18:03.220Z
+updated: 2024-06-04T04:18:03.220Z
 tags: 
   - screen-recording
   - ai video

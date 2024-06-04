@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Integrating B Roll Effectively Without Distraction"
-date: 2024-05-25 20:42:55
-updated: 2024-05-27 10:15:52
+date: 2024-06-03T04:05:04.675Z
+updated: 2024-06-04T04:05:04.675Z
 tags: 
   - screen-recording
   - ai video

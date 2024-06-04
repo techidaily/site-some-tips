@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Top 8 Beginner's Choices  Easy Film Cameras (35Mm to P&S)\""
-date: 2024-05-30 15:41:34
-updated: 2024-06-02 11:32:45
+date: 2024-06-03T04:11:12.816Z
+updated: 2024-06-04T04:11:12.816Z
 tags: 
   - screen-recording
   - ai video

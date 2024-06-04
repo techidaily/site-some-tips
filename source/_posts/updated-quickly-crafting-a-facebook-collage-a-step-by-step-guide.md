@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quickly Crafting a Facebook Collage  A Step-by-Step Guide\""
-date: 2024-05-28 22:40:14
-updated: 2024-05-30 11:46:30
+date: 2024-06-03T04:22:50.602Z
+updated: 2024-06-04T04:22:50.602Z
 tags: 
   - screen-recording
   - ai video

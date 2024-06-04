@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tech Tailored  Using Apple Watch for MacOpening\""
-date: 2024-05-28 18:15:30
-updated: 2024-05-31 11:29:18
+date: 2024-06-03T03:59:18.594Z
+updated: 2024-06-04T03:59:18.594Z
 tags: 
   - screen-recording
   - ai video

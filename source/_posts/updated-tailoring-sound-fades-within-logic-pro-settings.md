@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tailoring Sound Fades Within Logic Pro Settings"
-date: 2024-05-29 22:34:23
-updated: 2024-05-31 12:24:17
+date: 2024-06-03T03:54:07.241Z
+updated: 2024-06-04T03:54:07.241Z
 tags: 
   - screen-recording
   - ai video

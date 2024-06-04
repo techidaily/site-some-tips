@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Color Mastery (11 Tutorials)"
-date: 2024-06-01 15:33:35
-updated: 2024-06-03 10:37:14
+date: 2024-06-03T04:06:50.147Z
+updated: 2024-06-04T04:06:50.147Z
 tags: 
   - screen-recording
   - ai video

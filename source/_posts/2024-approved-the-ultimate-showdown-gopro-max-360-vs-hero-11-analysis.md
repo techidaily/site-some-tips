@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Showdown  GoPro Max 360 VS Hero 11 Analysis\""
-date: 2024-05-29 13:28:51
-updated: 2024-06-01 11:40:33
+date: 2024-06-03T04:52:08.431Z
+updated: 2024-06-04T04:52:08.431Z
 tags: 
   - screen-recording
   - ai video

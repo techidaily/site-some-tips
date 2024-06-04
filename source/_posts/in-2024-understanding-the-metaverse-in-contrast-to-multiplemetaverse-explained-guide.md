@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Understanding the Metaverse in Contrast to MultipleMetaverse (Explained Guide)"
-date: 2024-05-30 22:14:34
-updated: 2024-06-02 10:41:46
+date: 2024-06-03T04:03:00.154Z
+updated: 2024-06-04T04:03:00.154Z
 tags: 
   - screen-recording
   - ai video

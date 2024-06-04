@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the Basics  An Approachable HDR Review\""
-date: 2024-06-01 23:47:27
-updated: 2024-06-03 10:55:45
+date: 2024-06-03T04:44:39.391Z
+updated: 2024-06-04T04:44:39.391Z
 tags: 
   - screen-recording
   - ai video

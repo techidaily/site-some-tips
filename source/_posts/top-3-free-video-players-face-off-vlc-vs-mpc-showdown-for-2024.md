@@ -1,7 +1,7 @@
 ---
 title: "\"Top 3 FREE Video Players Face Off  VLC Vs. MPC Showdown for 2024\""
-date: 2024-05-30 15:14:47
-updated: 2024-06-02 12:18:50
+date: 2024-06-03T04:04:48.232Z
+updated: 2024-06-04T04:04:48.232Z
 tags: 
   - screen-recording
   - ai video

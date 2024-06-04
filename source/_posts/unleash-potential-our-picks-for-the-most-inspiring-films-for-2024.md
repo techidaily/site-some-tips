@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Potential  Our Picks for the Most Inspiring Films for 2024\""
-date: 2024-05-31 10:59:58
-updated: 2024-06-02 11:11:56
+date: 2024-06-03T04:11:06.094Z
+updated: 2024-06-04T04:11:06.094Z
 tags: 
   - screen-recording
   - ai video

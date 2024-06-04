@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 5 macOS Safari Video Conversion Apps"
-date: 2024-05-30 17:11:41
-updated: 2024-06-02 12:25:27
+date: 2024-06-03T03:46:05.553Z
+updated: 2024-06-04T03:46:05.553Z
 tags: 
   - screen-recording
   - ai video

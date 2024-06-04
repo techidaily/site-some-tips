@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Updated Scrutiny of Sony S3700 High Definition Playback"
-date: 2024-06-01 16:56:55
-updated: 2024-06-03 12:41:49
+date: 2024-06-03T04:25:36.743Z
+updated: 2024-06-04T04:25:36.743Z
 tags: 
   - screen-recording
   - ai video

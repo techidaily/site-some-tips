@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Venture Into Virtual Worlds  A Close Look at LG's 360 Tech\""
-date: 2024-06-01 19:46:37
-updated: 2024-06-03 12:45:41
+date: 2024-06-03T04:48:54.447Z
+updated: 2024-06-04T04:48:54.447Z
 tags: 
   - screen-recording
   - ai video

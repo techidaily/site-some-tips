@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Ultimate Spotify Marketing Manual  Strategies and Tactics\""
-date: 2024-05-30 11:20:54
-updated: 2024-06-01 10:33:25
+date: 2024-06-03T04:22:44.209Z
+updated: 2024-06-04T04:22:44.209Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Use Zoom on Xbox One"
-date: 2024-06-01 15:48:11
-updated: 2024-06-03 10:12:55
+date: 2024-06-03T04:39:32.760Z
+updated: 2024-06-04T04:39:32.760Z
 tags: 
   - screen-recording
   - ai video

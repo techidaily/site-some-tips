@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Art of Fullscreen Editing with Premiere Pro Experts"
-date: 2024-05-31 10:29:20
-updated: 2024-06-01 11:19:29
+date: 2024-06-03T04:34:41.191Z
+updated: 2024-06-04T04:34:41.191Z
 tags: 
   - screen-recording
   - ai video

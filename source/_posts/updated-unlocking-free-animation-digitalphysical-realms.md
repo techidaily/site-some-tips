@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Free Animation  Digital/Physical Realms\""
-date: 2024-06-01 11:57:36
-updated: 2024-06-03 12:16:17
+date: 2024-06-03T04:34:05.384Z
+updated: 2024-06-04T04:34:05.384Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Syma X5C Review  Best Drone for Beginner\""
-date: 2024-05-28 13:36:52
-updated: 2024-05-31 11:51:18
+date: 2024-06-03T03:48:07.461Z
+updated: 2024-06-04T03:48:07.461Z
 tags: 
   - screen-recording
   - ai video

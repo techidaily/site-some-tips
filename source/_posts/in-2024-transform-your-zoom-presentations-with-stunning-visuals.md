@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Transform Your Zoom Presentations with Stunning Visuals"
-date: 2024-05-30 14:34:24
-updated: 2024-06-02 11:58:33
+date: 2024-06-03T04:30:04.919Z
+updated: 2024-06-04T04:30:04.919Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unique iPhone Photo Style  Adding Dynamic Motion Effects\""
-date: 2024-05-30 12:55:17
-updated: 2024-06-02 11:31:23
+date: 2024-06-03T04:50:41.705Z
+updated: 2024-06-04T04:50:41.705Z
 tags: 
   - screen-recording
   - ai video

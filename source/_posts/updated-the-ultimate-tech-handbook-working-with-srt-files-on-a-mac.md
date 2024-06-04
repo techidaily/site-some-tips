@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Tech Handbook  Working with SRT Files on a Mac\""
-date: 2024-05-31 17:53:34
-updated: 2024-06-01 11:56:23
+date: 2024-06-03T04:21:13.350Z
+updated: 2024-06-04T04:21:13.350Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "Vanguard 20 Top Anime Song Starters for 2024"
-date: 2024-05-31 13:28:32
-updated: 2024-06-03 11:48:51
+date: 2024-06-03T04:35:36.795Z
+updated: 2024-06-04T04:35:36.795Z
 tags: 
   - screen-recording
   - ai video

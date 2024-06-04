@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Sync Your Smartphone  Mastering the Art of iPhone Collage Creation\""
-date: 2024-05-28 17:38:41
-updated: 2024-05-31 12:59:38
+date: 2024-06-03T04:05:22.288Z
+updated: 2024-06-04T04:05:22.288Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Handbook  IOS Photo Alignment & Cloud Synchronization for 2024\""
-date: 2024-05-29 22:11:33
-updated: 2024-06-01 12:13:40
+date: 2024-06-03T04:44:27.034Z
+updated: 2024-06-04T04:44:27.034Z
 tags: 
   - screen-recording
   - ai video

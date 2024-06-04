@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quality Quest  Deciphering the Superior Video Format\""
-date: 2024-05-27 13:45:30
-updated: 2024-05-30 10:52:44
+date: 2024-06-03T04:43:37.067Z
+updated: 2024-06-04T04:43:37.067Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Evolution From RGB to Srgb in Graphic Media"
-date: 2024-05-29 22:21:47
-updated: 2024-06-01 11:24:51
+date: 2024-06-03T04:51:27.569Z
+updated: 2024-06-04T04:51:27.569Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Ultimate Guide to Color Theory and Practical Application Techniques"
-date: 2024-05-29 20:17:45
-updated: 2024-06-01 12:44:24
+date: 2024-06-03T04:15:22.018Z
+updated: 2024-06-04T04:15:22.018Z
 tags: 
   - screen-recording
   - ai video

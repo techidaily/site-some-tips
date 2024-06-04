@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Techniques for Non-Intrusive Image Edits\""
-date: 2024-05-28 16:45:57
-updated: 2024-05-31 10:47:15
+date: 2024-06-03T04:25:46.001Z
+updated: 2024-06-04T04:25:46.001Z
 tags: 
   - screen-recording
   - ai video

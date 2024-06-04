@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Photographer's Guide to Warping Effects"
-date: 2024-05-30 18:38:41
-updated: 2024-06-01 11:59:53
+date: 2024-06-03T04:29:46.884Z
+updated: 2024-06-04T04:29:46.884Z
 tags: 
   - screen-recording
   - ai video

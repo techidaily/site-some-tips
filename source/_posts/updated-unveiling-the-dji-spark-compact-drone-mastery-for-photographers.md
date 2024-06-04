@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling the DJI Spark  Compact Drone Mastery for Photographers\""
-date: 2024-06-01 11:49:43
-updated: 2024-06-03 10:52:23
+date: 2024-06-03T04:02:48.739Z
+updated: 2024-06-04T04:02:48.739Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate 5 Gaming Monitors for PlayStation & Xbox for 2024"
-date: 2024-05-30 15:34:11
-updated: 2024-06-01 10:41:16
+date: 2024-06-03T04:49:14.449Z
+updated: 2024-06-04T04:49:14.449Z
 tags: 
   - screen-recording
   - ai video

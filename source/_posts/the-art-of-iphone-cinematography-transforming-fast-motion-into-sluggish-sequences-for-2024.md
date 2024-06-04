@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of iPhone Cinematography  Transforming Fast Motion Into Sluggish Sequences for 2024\""
-date: 2024-05-30 17:38:13
-updated: 2024-06-01 10:22:19
+date: 2024-06-03T03:55:40.423Z
+updated: 2024-06-04T03:55:40.423Z
 tags: 
   - screen-recording
   - ai video

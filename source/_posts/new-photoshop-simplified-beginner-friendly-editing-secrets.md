@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Photoshop Simplified  Beginner-Friendly Editing Secrets\""
-date: 2024-05-27 22:53:24
-updated: 2024-05-29 12:31:50
+date: 2024-06-03T04:50:11.390Z
+updated: 2024-06-04T04:50:11.390Z
 tags: 
   - screen-recording
   - ai video

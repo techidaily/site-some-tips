@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top Tips  Tuning Your Snapchat Videos for Maximum Impact\""
-date: 2024-05-31 21:51:50
-updated: 2024-06-02 10:27:59
+date: 2024-06-03T04:42:04.408Z
+updated: 2024-06-04T04:42:04.408Z
 tags: 
   - screen-recording
   - ai video

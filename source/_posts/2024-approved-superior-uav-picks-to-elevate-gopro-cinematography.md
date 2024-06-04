@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Superior UAV Picks to Elevate GoPro Cinematography\""
-date: 2024-05-28 21:46:23
-updated: 2024-05-31 10:18:11
+date: 2024-06-03T03:44:45.973Z
+updated: 2024-06-04T03:44:45.973Z
 tags: 
   - screen-recording
   - ai video

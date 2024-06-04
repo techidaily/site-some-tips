@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unveiling MS Edge's Picture-in-Picture Magic\""
-date: 2024-06-01 20:26:30
-updated: 2024-06-03 10:55:53
+date: 2024-06-03T04:44:38.686Z
+updated: 2024-06-04T04:44:38.686Z
 tags: 
   - screen-recording
   - ai video

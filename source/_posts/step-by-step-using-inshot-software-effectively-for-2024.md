@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step  Using Inshot Software Effectively for 2024\""
-date: 2024-05-29 23:47:57
-updated: 2024-05-31 12:25:36
+date: 2024-06-03T04:38:42.142Z
+updated: 2024-06-04T04:38:42.142Z
 tags: 
   - screen-recording
   - ai video

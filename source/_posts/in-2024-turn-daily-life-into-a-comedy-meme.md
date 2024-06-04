@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Turn Daily Life Into a Comedy Meme"
-date: 2024-05-31 14:51:28
-updated: 2024-06-02 10:25:51
+date: 2024-06-03T04:15:14.203Z
+updated: 2024-06-04T04:15:14.203Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Route to Richer TikTok Bios  Including Linktree Links\""
-date: 2024-05-29 18:59:28
-updated: 2024-06-01 12:35:27
+date: 2024-06-03T04:30:31.880Z
+updated: 2024-06-04T04:30:31.880Z
 tags: 
   - screen-recording
   - ai video

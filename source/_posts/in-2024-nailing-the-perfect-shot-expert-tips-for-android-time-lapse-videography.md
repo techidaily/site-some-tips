@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Nailing the Perfect Shot  Expert Tips for Android Time-Lapse Videography\""
-date: 2024-05-27 12:39:39
-updated: 2024-05-29 10:46:44
+date: 2024-06-03T04:10:51.216Z
+updated: 2024-06-04T04:10:51.216Z
 tags: 
   - screen-recording
   - ai video

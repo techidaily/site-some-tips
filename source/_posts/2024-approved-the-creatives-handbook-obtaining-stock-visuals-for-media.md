@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Creative's Handbook  Obtaining Stock Visuals for Media\""
-date: 2024-05-29 10:46:48
-updated: 2024-06-01 11:45:46
+date: 2024-06-03T03:54:16.571Z
+updated: 2024-06-04T03:54:16.571Z
 tags: 
   - screen-recording
   - ai video

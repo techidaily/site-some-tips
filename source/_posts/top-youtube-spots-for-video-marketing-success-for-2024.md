@@ -1,7 +1,7 @@
 ---
 title: "Top YouTube Spots for Video Marketing Success for 2024"
-date: 2024-05-30 18:11:10
-updated: 2024-06-02 12:35:50
+date: 2024-06-03T04:34:54.646Z
+updated: 2024-06-04T04:34:54.646Z
 tags: 
   - screen-recording
   - ai video

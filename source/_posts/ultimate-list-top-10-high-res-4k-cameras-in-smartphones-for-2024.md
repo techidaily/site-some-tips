@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate List  Top 10 High-Res 4K Cameras in Smartphones for 2024\""
-date: 2024-06-01 19:24:24
-updated: 2024-06-02 11:14:26
+date: 2024-06-03T04:01:38.120Z
+updated: 2024-06-04T04:01:38.120Z
 tags: 
   - screen-recording
   - ai video

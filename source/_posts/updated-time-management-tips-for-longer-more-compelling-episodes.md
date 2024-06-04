@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Time Management Tips for Longer, More Compelling Episodes"
-date: 2024-05-30 20:14:38
-updated: 2024-06-02 12:31:40
+date: 2024-06-03T04:03:18.993Z
+updated: 2024-06-04T04:03:18.993Z
 tags: 
   - screen-recording
   - ai video

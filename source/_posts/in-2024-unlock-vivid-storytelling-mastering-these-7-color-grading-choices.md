@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Vivid Storytelling  Mastering These 7 Color Grading Choices\""
-date: 2024-05-31 11:53:52
-updated: 2024-06-03 12:16:32
+date: 2024-06-03T04:32:46.691Z
+updated: 2024-06-04T04:32:46.691Z
 tags: 
   - screen-recording
   - ai video

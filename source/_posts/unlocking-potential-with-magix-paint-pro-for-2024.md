@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential with MAGIX Paint Pro for 2024"
-date: 2024-05-31 22:20:44
-updated: 2024-06-03 12:19:12
+date: 2024-06-03T04:29:44.054Z
+updated: 2024-06-04T04:29:44.054Z
 tags: 
   - screen-recording
   - ai video

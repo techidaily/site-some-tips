@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Podcaster’s Guide to Seamless Streaming Setup\""
-date: 2024-05-30 22:38:34
-updated: 2024-06-01 12:49:35
+date: 2024-06-03T03:47:23.239Z
+updated: 2024-06-04T03:47:23.239Z
 tags: 
   - screen-recording
   - ai video

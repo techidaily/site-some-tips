@@ -1,7 +1,7 @@
 ---
 title: "\"The Future of Android Time-Lapses  Innovations in Video Capture for 2024\""
-date: 2024-05-31 12:11:31
-updated: 2024-06-01 11:46:48
+date: 2024-06-03T04:09:30.023Z
+updated: 2024-06-04T04:09:30.023Z
 tags: 
   - screen-recording
   - ai video

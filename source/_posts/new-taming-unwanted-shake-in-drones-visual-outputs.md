@@ -1,7 +1,7 @@
 ---
 title: "[New] Taming Unwanted Shake in Drones' Visual Outputs"
-date: 2024-05-29 11:41:14
-updated: 2024-05-31 10:30:44
+date: 2024-06-03T04:03:03.704Z
+updated: 2024-06-04T04:03:03.704Z
 tags: 
   - screen-recording
   - ai video

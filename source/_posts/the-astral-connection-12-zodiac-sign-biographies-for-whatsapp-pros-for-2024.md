@@ -1,7 +1,7 @@
 ---
 title: "\"The Astral Connection  12-Zodiac Sign Biographies for WhatsApp Pros for 2024\""
-date: 2024-05-30 11:47:33
-updated: 2024-06-01 12:21:52
+date: 2024-06-03T04:05:15.842Z
+updated: 2024-06-04T04:05:15.842Z
 tags: 
   - screen-recording
   - ai video

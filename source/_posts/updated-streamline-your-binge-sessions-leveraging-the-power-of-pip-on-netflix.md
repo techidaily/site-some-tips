@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Your Binge Sessions  Leveraging the Power of PIP on Netflix\""
-date: 2024-05-29 15:15:58
-updated: 2024-05-31 12:13:51
+date: 2024-06-03T04:44:33.013Z
+updated: 2024-06-04T04:44:33.013Z
 tags: 
   - screen-recording
   - ai video

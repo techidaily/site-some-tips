@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Cheat Sheet  Essentials for VLC and Mac\""
-date: 2024-05-31 21:37:53
-updated: 2024-06-01 11:23:39
+date: 2024-06-03T04:50:32.668Z
+updated: 2024-06-04T04:50:32.668Z
 tags: 
   - screen-recording
   - ai video

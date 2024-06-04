@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Streamlined Editing  Best Apps Compatible with macOS Big Sur\""
-date: 2024-05-28 19:40:33
-updated: 2024-05-31 12:49:12
+date: 2024-06-03T04:29:25.731Z
+updated: 2024-06-04T04:29:25.731Z
 tags: 
   - screen-recording
   - ai video

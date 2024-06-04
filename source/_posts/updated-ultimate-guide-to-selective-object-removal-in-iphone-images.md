@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ultimate Guide to Selective Object Removal in iPhone Images"
-date: 2024-05-31 16:38:14
-updated: 2024-06-02 12:23:57
+date: 2024-06-03T04:13:22.809Z
+updated: 2024-06-04T04:13:22.809Z
 tags: 
   - screen-recording
   - ai video

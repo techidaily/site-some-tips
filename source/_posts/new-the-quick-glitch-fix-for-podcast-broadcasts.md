@@ -1,7 +1,7 @@
 ---
 title: "[New] The Quick Glitch Fix for Podcast Broadcasts"
-date: 2024-05-30 14:36:42
-updated: 2024-06-01 12:55:52
+date: 2024-06-03T04:50:14.878Z
+updated: 2024-06-04T04:50:14.878Z
 tags: 
   - screen-recording
   - ai video

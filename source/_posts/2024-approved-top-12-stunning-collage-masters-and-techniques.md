@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Top 12 Stunning Collage Masters & Techniques\""
-date: 2024-05-30 15:25:40
-updated: 2024-06-02 10:23:55
+date: 2024-06-03T04:36:12.690Z
+updated: 2024-06-04T04:36:12.690Z
 tags: 
   - screen-recording
   - ai video

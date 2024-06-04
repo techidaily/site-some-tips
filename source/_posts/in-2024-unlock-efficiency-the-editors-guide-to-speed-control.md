@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlock Efficiency  The Editor's Guide to Speed Control\""
-date: 2024-05-31 17:36:29
-updated: 2024-06-03 12:39:53
+date: 2024-06-03T04:48:38.142Z
+updated: 2024-06-04T04:48:38.142Z
 tags: 
   - screen-recording
   - ai video

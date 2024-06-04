@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Understanding the Impact of Aurora HDR on Photography"
-date: 2024-05-30 15:35:34
-updated: 2024-06-02 12:42:54
+date: 2024-06-03T04:05:27.287Z
+updated: 2024-06-04T04:05:27.287Z
 tags: 
   - screen-recording
   - ai video

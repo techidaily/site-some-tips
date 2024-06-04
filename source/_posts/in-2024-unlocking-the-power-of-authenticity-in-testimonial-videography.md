@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unlocking the Power of Authenticity in Testimonial Videography"
-date: 2024-05-31 23:16:22
-updated: 2024-06-03 11:49:59
+date: 2024-06-03T04:09:19.314Z
+updated: 2024-06-04T04:09:19.314Z
 tags: 
   - screen-recording
   - ai video

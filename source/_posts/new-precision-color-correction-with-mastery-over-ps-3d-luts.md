@@ -1,7 +1,7 @@
 ---
 title: "[New] Precision Color Correction with Mastery over PS 3D LUTs"
-date: 2024-05-26 18:52:36
-updated: 2024-05-29 12:40:13
+date: 2024-06-03T04:24:10.949Z
+updated: 2024-06-04T04:24:10.949Z
 tags: 
   - screen-recording
   - ai video

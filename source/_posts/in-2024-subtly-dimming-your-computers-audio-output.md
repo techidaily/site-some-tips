@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Subtly Dimming Your Computer's Audio Output"
-date: 2024-05-28 16:54:26
-updated: 2024-05-31 12:45:52
+date: 2024-06-03T04:12:26.431Z
+updated: 2024-06-04T04:12:26.431Z
 tags: 
   - screen-recording
   - ai video

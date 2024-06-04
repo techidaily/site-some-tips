@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Transforming Memories  From Still Photos to Motion Pictures\""
-date: 2024-05-31 22:23:44
-updated: 2024-06-02 10:57:37
+date: 2024-06-03T03:57:46.379Z
+updated: 2024-06-04T03:57:46.379Z
 tags: 
   - screen-recording
   - ai video

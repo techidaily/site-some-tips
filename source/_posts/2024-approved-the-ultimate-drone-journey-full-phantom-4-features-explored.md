@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Ultimate Drone Journey  Full Phantom 4 Features Explored\""
-date: 2024-05-30 18:49:36
-updated: 2024-06-01 10:21:59
+date: 2024-06-03T03:52:08.771Z
+updated: 2024-06-04T03:52:08.771Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "[New] The GoPro Karma Quest for Altitude Dominance"
-date: 2024-05-30 11:17:54
-updated: 2024-06-01 10:27:51
+date: 2024-06-03T04:18:54.963Z
+updated: 2024-06-04T04:18:54.963Z
 tags: 
   - screen-recording
   - ai video

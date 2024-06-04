@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Ten Strategies for Controlling a Twitch Broadcast"
-date: 2024-05-31 21:29:59
-updated: 2024-06-01 12:34:37
+date: 2024-06-03T04:19:16.640Z
+updated: 2024-06-04T04:19:16.640Z
 tags: 
   - screen-recording
   - ai video

@@ -1,7 +1,7 @@
 ---
 title: "The Straightforward Guide to Photo Uploads on Instagram for 2024"
-date: 2024-05-29 13:15:10
-updated: 2024-06-01 12:46:20
+date: 2024-06-03T04:45:00.629Z
+updated: 2024-06-04T04:45:00.629Z
 tags: 
   - screen-recording
   - ai video

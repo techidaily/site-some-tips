@@ -1,7 +1,7 @@
 ---
 title: "\"'The Goofy Adventure' - A Critical Appraisal Videotape Edition for 2024\""
-date: 2024-05-29 19:59:52
-updated: 2024-06-01 10:42:57
+date: 2024-06-03T03:55:08.158Z
+updated: 2024-06-04T03:55:08.158Z
 tags: 
   - screen-recording
   - ai video

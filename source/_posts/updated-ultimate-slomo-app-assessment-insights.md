@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Ultimate SloMo App Assessment - Insights\""
-date: 2024-05-30 17:15:38
-updated: 2024-06-02 10:11:59
+date: 2024-06-03T04:05:59.069Z
+updated: 2024-06-04T04:05:59.069Z
 tags: 
   - screen-recording
   - ai video

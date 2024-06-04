@@ -1,7 +1,7 @@
 ---
 title: "\"The Sound Trailblazer’s Guide  Kicking Off with Fade-In Techniques for 2024\""
-date: 2024-05-31 17:16:16
-updated: 2024-06-01 10:43:57
+date: 2024-06-03T03:52:28.393Z
+updated: 2024-06-04T03:52:28.393Z
 tags: 
   - screen-recording
   - ai video

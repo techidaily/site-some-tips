@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Google Chrome's PIP Potential on All Platforms for 2024"
-date: 2024-06-02 19:30:59
-updated: 2024-06-03 11:26:29
+date: 2024-06-03T04:12:46.853Z
+updated: 2024-06-04T04:12:46.853Z
 tags: 
   - screen-recording
   - ai video
