@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Strategize & Succeed  A Stepwise Approach to Impactful Reddit Sharing\""
-date: 2024-06-03T13:52:48.211Z
-updated: 2024-06-04T13:52:48.211Z
+date: 2024-06-27T11:13:01.527Z
+updated: 2024-06-28T11:13:01.527Z
 tags: 
   - screen-recording
   - ai video
@@ -96,7 +96,7 @@ Some important rules to follow:
 
 ### Reddiquettes
 
-Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
+Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an [official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
 
 The goal behind this is to make Reddit a safer and more enjoyable platform to use. However, if you do not follow proper reddiquette, you will usually see the adverse effects in your Karma points. In other words, your Reddit Karma will decrease.
 

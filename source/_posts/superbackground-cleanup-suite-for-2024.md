@@ -1,7 +1,7 @@
 ---
 title: "SuperBackground Cleanup Suite for 2024"
-date: 2024-06-03T13:49:38.149Z
-updated: 2024-06-04T13:49:38.149Z
+date: 2024-06-27T11:13:01.507Z
+updated: 2024-06-28T11:13:01.507Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Looking to cut out the background from an image, but not quite sure how to do it
 
 ## For Windows
 
-#### **1. [fotophire](https://tools.techidaily.com/wondershare/fotophire/download/)**
+#### **1. fotophire
 
 The [fotophire](https://tools.techidaily.com/wondershare/fotophire/download/) software has pack of powerful photo editing tools that allow the user to mask selected objects and [background](https://tools.techidaily.com/wondershare/filmora/download/) of an image with both sharp and softer edges. You can also use this program to erase unwanted objects or apply 200+ effects.
 

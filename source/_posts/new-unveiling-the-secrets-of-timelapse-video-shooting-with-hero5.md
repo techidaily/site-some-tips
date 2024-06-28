@@ -1,7 +1,7 @@
 ---
 title: "[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5"
-date: 2024-06-03T14:05:01.155Z
-updated: 2024-06-04T14:05:01.155Z
+date: 2024-06-27T11:13:03.478Z
+updated: 2024-06-28T11:13:03.478Z
 tags: 
   - screen-recording
   - ai video
@@ -99,7 +99,7 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
-* Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html)available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
+* Export your time lapse video to Full Features Mode to edit further, such as adding various filters, overlay and effects. Currently, there are more than 300 Effects, and there is an [ACTION CAM WINTER SET](https://www.filmstocks.com/effects-store-upgrade.html) available now. [Check More](https://www.filmstocks.com/effects-store-upgrade.html)
 
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 

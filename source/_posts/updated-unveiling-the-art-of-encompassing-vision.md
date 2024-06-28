@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unveiling the Art of Encompassing Vision"
-date: 2024-06-03T13:36:21.655Z
-updated: 2024-06-04T13:36:21.655Z
+date: 2024-06-27T11:12:59.649Z
+updated: 2024-06-28T11:12:59.649Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36
 
  Do you want to have your very own 360° video? Then there are a couple of things that you need to know. The first thing you need to know is that 360° videos can be rotated on the screen, effectively giving you a full view of what is around you. You can still play the video as it is happening and you will still be able to see all of the fine detail. There is no lag or delay and it is a great way for you to see whatever you want on the video without ruining the experience. All in all, if you think of a 360° photo and combine it with video, then you will start to understand how it all works. Of course, not all videos are 360° and there are some that cannot be done in this format, but it is a great way for you to truly make the viewer feel as though they are in the video themselves.
 
- Different from 360° video, when you take a look at [Virtual Reality video]( https://filmora.wondershare.com/virtual-reality/what-is-vr-video.html) on the other hand, you will move the camera with your head or with the technology, instead of using a mouse on the screen.
+ Different from 360° video, when you take a look at [Virtual Reality video](https://filmora.wondershare.com/virtual-reality/what-is-vr-video.html) on the other hand, you will move the camera with your head or with the technology, instead of using a mouse on the screen.
 
 ## How does 360° video work?
 

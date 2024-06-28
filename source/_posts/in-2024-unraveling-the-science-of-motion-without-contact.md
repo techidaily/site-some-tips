@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unraveling the Science of Motion Without Contact"
-date: 2024-06-20T00:03:43.250Z
-updated: 2024-06-21T00:03:43.250Z
+date: 2024-06-27T11:12:57.634Z
+updated: 2024-06-28T11:12:57.634Z
 tags: 
   - screen-recording
   - ai video
@@ -98,7 +98,7 @@ There are two stages for creating a Hand Tracking program using MediaPipe:
 
 ### Guidance With Steps
 
-Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)app on your PC. Once installed, launch it and follow these instructions step-by-step:
+Before starting to create Hand Tracking, you need to install the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows) app on your PC. Once installed, launch it and follow these instructions step-by-step:
 
 **Install OpenCV and MediaPipe**
 
