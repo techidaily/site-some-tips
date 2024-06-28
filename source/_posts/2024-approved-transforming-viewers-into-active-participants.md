@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transforming Viewers Into Active Participants\""
-date: 2024-06-03T13:47:54.026Z
-updated: 2024-06-04T13:47:54.026Z
+date: 2024-06-20T00:03:42.932Z
+updated: 2024-06-21T00:03:42.932Z
 tags: 
   - screen-recording
   - ai video
@@ -85,7 +85,7 @@ thumbnail: https://www.lifewire.com/thmb/D4uT5p29_lIC5FDQUnoil812gZY=/400x300/fi
 
 **Step 2** – To share your location, go to the ‘Broadcast’ tab and then tap the ‘Compass icon’ to toggle it on.
 
-![periscope location]( https://images.wondershare.com/filmora/article-images/periscope-share-location.JPG)
+![periscope location](https://images.wondershare.com/filmora/article-images/periscope-share-location.JPG)
 
 ## Part 3: Tips of having better broadcast experience
 

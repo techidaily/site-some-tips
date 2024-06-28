@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Complete Cheat Sheet  Mastering Google's Voice Transcription Tool\""
-date: 2024-06-03T13:49:47.819Z
-updated: 2024-06-04T13:49:47.819Z
+date: 2024-06-20T00:03:44.090Z
+updated: 2024-06-21T00:03:44.090Z
 tags: 
   - screen-recording
   - ai video
@@ -132,7 +132,7 @@ Although initial versions were error-prone, the current version of Windows 10 bu
 
 However, you should still expect errors if your voice is not clear, as with other voice typing programs. In addition, it only supports seven languages compared to Google Docs speech to text's 71.
 
-### 2\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Speech to text
+### 2\. Filmora
 
 Another alternative is Filmora Speech to Text. The service is a plugin you enable in Wondershare's video editing programs. It allows you to transcribe your voice into subtitles for your video creations. Although the software is exclusive to video editing, it surpasses other voice to text services in accuracy.
 

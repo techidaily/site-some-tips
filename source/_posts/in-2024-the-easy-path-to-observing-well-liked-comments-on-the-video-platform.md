@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Easy Path to Observing Well-Liked Comments on the Video Platform\""
-date: 2024-06-03T14:02:40.631Z
-updated: 2024-06-04T14:02:40.631Z
+date: 2024-06-20T00:03:50.565Z
+updated: 2024-06-21T00:03:50.565Z
 tags: 
   - screen-recording
   - ai video
@@ -155,9 +155,7 @@ When you click over to the comments area after receiving a notification about a 
 
 To put it another way, YouTube flags notable comments for you to ensure that new messages or significant replies aren't lost in the noise. Once you have read or replied to the comment, the highlight will go.
 
-Additionally, video creators can manually highlight commenters to mark them for later responses. To do this, click on the comment's timestamp (found next to the commenter's username). Ta-da!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
+Additionally, video creators can manually highlight commenters to mark them for later responses. To do this, click on the comment's timestamp (found next to the commenter's username). Ta-da![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 

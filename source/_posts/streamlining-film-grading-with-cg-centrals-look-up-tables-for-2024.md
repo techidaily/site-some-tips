@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Film Grading with CG Central's Look-Up Tables for 2024\""
-date: 2024-06-03T13:59:49.667Z
-updated: 2024-06-04T13:59:49.667Z
+date: 2024-06-20T00:03:42.779Z
+updated: 2024-06-21T00:03:42.779Z
 tags: 
   - screen-recording
   - ai video
@@ -64,7 +64,7 @@ Cinematic LUTs are pre-saved settings that make color grading easy and efficient
 
 LUTs are shared in the .cube file format, which is supported by the most popular video editors, such as DaVinci Resolve, Premiere Pro CC, After Effects CC, and Sony Vegas.
 
-### 1\. [Ground Control Color: 13 Free LUTs](https://www.groundcontrolcolor.com/free-luts.html)
+### 1\. Ground Control Color: 13 Free LUTs
 
 Ground Control Color specializes in creating color LUTs for different cameras and recording formats. In addition to having an impressive line of products, they also give away a great selection of thirteen free LUTs for video editors.
 
@@ -72,7 +72,7 @@ From the "Free LUTs" page, users can download ten free conversion LUTs and three
 
 ![ground control color](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-4.jpg)
 
-### 2\. [Color Grading Central: 7 Free LUTs, Color Presets, and Grains](http://www.colorgradingcentral.com/)
+### 2\. Color Grading Central: 7 Free LUTs, Color Presets, and Grains
 
 If you're a budding colorist or video editor who takes color seriously, you should know about Color Grading Central. CGC specializes in all things color grading.
 
@@ -82,7 +82,7 @@ In addition to giving away seven free color LUTs, they're also giving away an as
 
 ![color grading central](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-5.jpg)
 
-### 3\. [SmallHD: 7 Free LUTs](https://www.smallhd.com/community/movie-looks-download)
+### 3\. SmallHD: 7 Free LUTs
 
 If you're not already familiar with SmallHD, the company is primarily focused on creating some of the best portable monitors in the world. They also provide free LUTs for real-time on-site monitoring.
 
@@ -92,7 +92,7 @@ If you want to add a dramatic and cinematic feel to your footage, use this free 
 
 ![smallhd](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-6.jpg)
 
-### 4\. [Frank Glencairn: Free Vintage LUT](https://frankglencairn.wordpress.com/2014/01/15/everything-looks-better-on-kodachrome-k-tone-lut/)
+### 4\. Frank Glencairn: Free Vintage LUT
 
 Despite having the latest filmmaking technology at our fingertips, there is something about the old film look that looks amazing.
 
@@ -102,7 +102,7 @@ Now you can replicate the look with retro-looking reds, blues, and yellows with 
 
 ![frank glencairn](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-central-7.jpg)
 
-### 5\. [Lutify.me: 7 Free Luts](https://lutify.me/free-luts/)
+### 5\. Lutify.me: 7 Free Luts
 
 Ok, so the LUTs included in this pack require a few extra steps to download. Lutify requires you to sign up for a 14-day trial of LUTs Previewer.
 

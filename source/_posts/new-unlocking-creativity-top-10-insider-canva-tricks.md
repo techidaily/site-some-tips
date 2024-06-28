@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Unlocking Creativity  Top 10 Insider Canva Tricks\""
-date: 2024-06-03T14:06:46.156Z
-updated: 2024-06-04T14:06:46.156Z
+date: 2024-06-20T00:03:45.679Z
+updated: 2024-06-21T00:03:45.679Z
 tags: 
   - screen-recording
   - ai video
@@ -72,7 +72,7 @@ Another amazing feature of the Canva image editor is to add numerous elements to
 
 Hence, explore various stickers and graphics from this platform and instantly apply them to your photos for a funky and vibrant look. Look into this!
 
-![ add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
+![add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
 
 ### 7\. Make Photo Collage
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tap Into the Funny  Kapwing for Meme Makers\""
-date: 2024-06-03T14:05:16.928Z
-updated: 2024-06-04T14:05:16.928Z
+date: 2024-06-20T00:03:37.560Z
+updated: 2024-06-21T00:03:37.560Z
 tags: 
   - screen-recording
   - ai video
@@ -58,7 +58,7 @@ Because of its sophisticated encoders and decoders, [Filmora](https://tools.tech
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Bring Your Meme Video in [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Bring Your Meme Video in Filmora
 
 To start a new Meme project, open the Filmora video meme creator and choose "New project." Set the appropriate aspect ratio in the project options, and then click the "Import" button to add your video. You can also import your favorite mobile-shot photographs and movies using Filmora. Simply hit the Import and do as follow:
 

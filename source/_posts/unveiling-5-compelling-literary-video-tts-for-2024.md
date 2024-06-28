@@ -1,7 +1,7 @@
 ---
 title: "Unveiling 5 Compelling Literary Video TTs for 2024"
-date: 2024-06-03T13:46:22.880Z
-updated: 2024-06-04T13:46:22.880Z
+date: 2024-06-20T00:03:43.740Z
+updated: 2024-06-21T00:03:43.740Z
 tags: 
   - screen-recording
   - ai video
@@ -74,13 +74,13 @@ A good book trailer should be well structured and follow a concise and exciting 
 
 Let's make an impressive book trailer with Wondershare Filmora.
 
-### [Auto Reframe](https://tools.techidaily.com/wondershare/filmora/download/)
+### Auto Reframe
 
 Resizing the video according to the frame makes your video more advanced. However, resizing every single frame is too lengthy but let me introduce you the Wondershare Filmora's Auto Frame. This feature helps you auto capture the main activity in the frame and then resize the video according to it in no time. It is essential to give your trailer or video a professional look much more effortless.
 
 ![auto reframe](https://images.wondershare.com/filmora/article-images/2022/08/book-trailer-completed-2.jpg)
 
-### [Speed Ramping](https://tools.techidaily.com/wondershare/filmora/download/)
+### Speed Ramping
 
 In trailers, controlling the speed is the best idea as it makes the trailer look more professional and exciting. Mostly video editors only offer to control the whole video speed, but Wondershare Filmora offers you Speed Ramping. It allows you to control the speed flow throughout the video frames. You can easily change the speed of any frame. This killing feature can help you make an impressive book trailer.
 

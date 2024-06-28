@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stretching YouTube Videos to Full Display\""
-date: 2024-06-03T14:04:49.811Z
-updated: 2024-06-04T14:04:49.811Z
+date: 2024-06-20T00:03:47.502Z
+updated: 2024-06-21T00:03:47.502Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide to Stretched Seconds  Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms\""
-date: 2024-06-03T14:01:06.620Z
-updated: 2024-06-04T14:01:06.620Z
+date: 2024-06-20T00:03:42.423Z
+updated: 2024-06-21T00:03:42.423Z
 tags: 
   - screen-recording
   - ai video
@@ -62,7 +62,7 @@ You can even create multiple versions of the file with the slow motion effect ap
 
 If you are not able to access a Windows computer, you may want a solution that can be used online. The good news is that you can use some [online video speed changers](https://tools.techidaily.com/wondershare/filmora/download/)to add a slow motion effect to your content.
 
-### [EZGif](https://ezgif.com/video-speed)
+### EZGif
 
 **Step 1: Select Video**
 

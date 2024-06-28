@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Synthesizing Worlds  Latest Trends in Virtual Tech\""
-date: 2024-06-03T14:04:08.833Z
-updated: 2024-06-04T14:04:08.833Z
+date: 2024-06-20T00:03:44.219Z
+updated: 2024-06-21T00:03:44.219Z
 tags: 
   - screen-recording
   - ai video
@@ -32,14 +32,13 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  It is quite clear from the discussion that the game developers prefer PC/Laptops/Mac over any other devices to release their games. But, this year’s survey came up with a different result where 59.7 percent developers preferably chose PC/Mac followed by 48.3 percent developers who chose virtual reality headsets for their upcoming games. So, we can say that despite the indomitable popularity of the PC and Mac, virtual reality is also gaining a strong ground.
 
-![google-cardbaorad-1]( https://images.wondershare.com/filmora/resource/google-cardbaorad-1.jpg
- )
+![google-cardbaorad-1](https://images.wondershare.com/filmora/resource/google-cardbaorad-1.jpg)
 
 ## The VR gaming development is truly rising then
 
  Is it really the right time to make comment like virtual reality is really uprising as a gaming platform? If you take the year of year survey report, yes the result shows a significant uptick for the interest of this platform. If we look back at the last year’s survey, it revealed that only 33.4 percent of the developers were interested to develop games for VR platforms. If you consider in terms of interest, VR was placed behind the PC/Mac, PlayStation 4, smartphones or tablets. But, considering this year’s data, we can see more advancement in the interest for the VR platform! More and more European developers are now getting interested to develop games for VR platforms that the smartphones or tablets.
 
-![vr-gaming ](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg )
+![vr-gaming](https://images.wondershare.com/filmora/resource/vr-gaming1.jpg)
 
  This clears the air that VR is turning to be an emerging platform for the European game developers but, which one is preferred more by the professional game developers – is it the Oculus Rift or HTC Vive or something else for that matter? The survey also includes a detailed report on that as well. Asking about which VR platform they are using – 23.1 percent developers said they are using Rift, Vive is slightly behind with 22 percent developers’ preferences. There is PlayStation VR headset as well with 11.8 percent preferences.
 
@@ -49,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
  Funding for the games has always remained one of the prime concerns for the game developers and publishers. You know that it takes large amounts to be invested for the games. When it comes to the funding policies for the European game developers, most of them are covering the entire expenses using their own funds. Take a look at what the survey report has to say about that. Asking about the sources of the fund for the games 57.8 percent said that their funds come from the company’s existing fund while contrary to this, 32.9 percent game developers said that they manage their own fund from their personal accounts.
 
-![ vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg )
+![vr-developer](https://images.wondershare.com/filmora/resource/vr-developer.jpg)
 
  We know that crowdsourced funding is also a preferable way to manage funds but, this seems not very convenient for the VR game developers since a very poor percentage (5.2) of the developers replied that they are working on games the fund of which is crowdsourced. While some developers consider this as an awful idea, some mentioned this to be a tricky process.
 

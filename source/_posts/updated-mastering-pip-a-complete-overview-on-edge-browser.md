@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering PIP  A Complete Overview on Edge Browser\""
-date: 2024-06-03T13:38:53.247Z
-updated: 2024-06-04T13:38:53.247Z
+date: 2024-06-20T00:03:49.506Z
+updated: 2024-06-21T00:03:49.506Z
 tags: 
   - screen-recording
   - ai video
@@ -75,7 +75,7 @@ Once you follow the steps above, you will be able to manipulate the PIP feature 
 
 There are simpler ways to access and exploit Picture in Picture on your PC. Some supplement shortcut utilities that can enable you to enjoy this feature with ease are here.
 
-### [PIP - Picture in Picture Plus](https://microsoftedge.microsoft.com/addons/detail/pip-picture-in-picture-/gokdpnhaggoioddclnnlpjfnkdinjjcc)
+### PIP - Picture in Picture Plus
 
 The keyboard shortcut for PiP mode is **Alt + P**. Just click **Alt + P** and you are ready to go. This feature applies to YouTube, Twitter, Facebook, and other platforms.
 
@@ -89,7 +89,7 @@ You can also achieve this in three simple steps.
 
 And you are ready to go.
 
-### [Picture in Picture - PIP View](https://microsoftedge.microsoft.com/addons/detail/picture-in-picture-pip-/ebkloopllebgbjeppnncbekpfcglbcmp?hl=en-US)
+### Picture in Picture - PIP View
 
 PIP View is an add-on in Microsoft Edge that eases up the use of Picture in Picture on your PC. It is based on manifest V3 and performs well for players in an iframe.
 
@@ -97,7 +97,7 @@ PIP View is an add-on in Microsoft Edge that eases up the use of Picture in Pict
 
 PIP View is an extension that is available on all websites with HTML video element. It is a crucial feature on YouTube that helps you save with Picture in Picture mode. On YouTube, it is added just next to the Settings in the app, and it allows you to float your video easily across the screen.
 
-### [Picture-in-Picture Everywhere](https://microsoftedge.microsoft.com/addons/detail/pictureinpicture-everyw/cmnlinjalaieggoebkmamaphjghpafhn?hl=en-US)
+### Picture-in-Picture Everywhere
 
 This is a feature that enables you to use picture in picture on any site that you love. You can use Picture-in-Picture on your TV and Movies app anytime at any place.
 

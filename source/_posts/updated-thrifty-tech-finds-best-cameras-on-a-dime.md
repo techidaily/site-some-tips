@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Thrifty Tech Finds  Best Cameras on a Dime\""
-date: 2024-06-03T13:42:20.598Z
-updated: 2024-06-04T13:42:20.598Z
+date: 2024-06-20T00:03:50.934Z
+updated: 2024-06-21T00:03:50.934Z
 tags: 
   - screen-recording
   - ai video
@@ -39,16 +39,13 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 
 ## Top 10 Cheap/Budget Friendly Action Cameras
 
-#### 1\. [ Xiaomi Yi Action Camera ($79.99): ](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>
+#### 1\. [Xiaomi Yi Action Camera ($79.99):](<https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a>)
 
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
 
  It can assist users to capture high quality videos at 1080p with 60fps and at 720p with 120fps. The device is designed with ultra wide type 155 degree angle lenses so that it can provide better coverage. It is enabled with Wi-Fi and Bluetooth connectivity so that some remote operations can be performed with smart phones applications too. LED Back-lit button for recording is one more advantage of this camera.
 
-#### 2\. [Kodak WP1 Sport Camera ($99.95)](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
+#### 2\. Kodak WP1 Sport Camera ($99.95)
 
 [Cheap Action Cameras - Kodak WP1 SPORT Cameras](https://images.wondershare.com/filmora/article-images/pixpro-wp1.jpg) ](https://www.amazon.com/gp/product/B00M8C82GW/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00M8C82GW&linkId=781e29414d2691f2aab70d85d0ea0859)
 
@@ -56,27 +53,19 @@ thumbnail: https://thmb.techidaily.com/ce2b50426ded5a960fb87586d9bc144c1e1a55def
 
  Kodak offers a waterproof, rugged, dustproof and shock proof companion for athletes and adventure lovers. It can be easily used in rough weather conditions as well as under water. You will be able to capture still images with 12MP clarity whereas for videos it offers 720p HD quality. 2X digital zoom is one more advanced feature and the convenient advanced batteries assist users to enjoy long hour recording with ease.
 
-#### 3\. [ Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>
+#### 3\. [Polaroid XS 100 ($99.99)](<https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f>)
 
-)
+[Cheap Action Cameras - Polaroid XS 100](https://images.wondershare.com/filmora/article-images/Polaroid-XS-100-Extreme.jpg) ](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
-[Cheap Action Cameras - Polaroid XS 100](https://images.wondershare.com/filmora/article-images/Polaroid-XS-100-Extreme.jpg) ](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
 
  Here is a lightweight solution for your action camera needs as its maximum weight goes up to 136grams. The video resolution offers by Polaroid is 1080p Full HD with the maximum storage capacity of 32GB. You can also enjoy the slow motion coverage with this device on 720p HD footage. This tube shaped device can be easily mounted anywhere and the auto rotate feature make it more suitable for adventure sports activities.
 
-#### 4\. [SJCAM SJ5000 ($99)](<https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c>
+#### 4\. [SJCAM SJ5000 ($99)](<https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c>)
 
-)
+[Cheap Action Cameras - PSJCAM SJ5000](https://images.wondershare.com/filmora/article-images/sjcam-sj5000.jpg) ](https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c)
 
-[Cheap Action Cameras - PSJCAM SJ5000](https://images.wondershare.com/filmora/article-images/sjcam-sj5000.jpg) ](https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c
-)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c
-)
+[Check at Amazon](https://www.amazon.com/gp/product/B00SUSLF8U/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00SUSLF8U&linkId=c6770a92f2510eb912a222add74cdf5c)
 
  If you are searching for an easy to carry camera unit then 74 grams will be suitable weight for you. SJCAM is designed to be extremely light weighted device with screen length of 2 inches and maximum viewing angle 170 degrees for wide coverage. The video recording goes up to 1080p with Full HD motion whereas for slow motion fun you can switch to 480p. Storage capacity of 32GB is suitable for all your tour memories.
 

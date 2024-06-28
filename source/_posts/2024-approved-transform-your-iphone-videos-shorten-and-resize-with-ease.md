@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Transform Your iPhone Videos  Shorten & Resize with Ease\""
-date: 2024-06-03T13:48:05.193Z
-updated: 2024-06-04T13:48:05.193Z
+date: 2024-06-20T00:03:47.673Z
+updated: 2024-06-21T00:03:47.673Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 ## Part 1: How to shorten a video on iPhone
 
-#### 1. [The Built-in Video Editor](https://support.apple.com/en-gb/HT207587)
+#### 1. The Built-in Video Editor
 
  Yes, it does what is desired. And does it excellently. Photo application is not just a simple photo editing tool. But it is also a very good video size reducer. You can trim the video, change start and end, cut some parts or just keep a portion which you want to share and delete rest. It is easy. So for iPhone, iPad, or iPod touch follow the steps.
 
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 ![iphone photo](https://images.wondershare.com/filmora/article-images/iPhone_video_edit_default.jpg)
 
-#### 2. [iMovie](https://itunes.apple.com/us/app/imovie/id377298193?mt=8&ign-mpt=uo%3D8)
+#### 2. iMovie
 
  iMovie is another simple application to use. Solid design, simple usage and intuitive multi-touch gesture makes this app an all time winner. Especially when you are answering " how to shorten a video on iPhone? Despite its editing capabilities, we will keep our focus on video resizing. It's a video size reducer, that can import file directly from iPhone. There are many options to trim, rotate, duplicate, split or delete clip. By default a photo in a timeline will be a clip for 6 to 12 seconds of onscreen time. Trimming photo will mean cutting the on-screen duration.
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 ## Part 2: How to resize a video on iPhone
 
-#### 1. [Desqueeze](https://itunes.apple.com/us/app/desqueeze-batch-resizer/id1046809993?mt=8)
+#### 1. Desqueeze
 
  It can resize photos and videos to any size up to 8192 px and 4k respectively on iPhone. It can make file size smaller and that too with precision. Another utility is that, compression and editing will be applied to the batch (all photos and videos selected).
 
