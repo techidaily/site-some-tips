@@ -1,7 +1,7 @@
 ---
 title: "[New] The Image Editor's Ultimate Toolkit Review"
-date: 2024-06-03T14:02:35.414Z
-updated: 2024-06-04T14:02:35.414Z
+date: 2024-07-05T03:41:30.285Z
+updated: 2024-07-06T03:41:30.285Z
 tags: 
   - screen-recording
   - ai video
@@ -86,13 +86,13 @@ Along with the basic editing features, iPiccy online is also about advanced edit
 
 You can also manage the shadow and highlights of the photo and erase the background, if necessary. Multiple adjustments across different levels can be performed across an image. iPiccy provides you with one of the best and simplest environments in the online platforms.
 
-![ perform advanced image editing](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-8.jpg)
+![perform advanced image editing](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-8.jpg)
 
 Step 5: Apply Filters
 
 If you wish to add filters across your photo, you can consider using the tools such as "Emboss," "Blur Image," and "Smart Blur" for applying filters to the photo. This would provide you with effective results for enhancing the quality and appearance of the photo.
 
-![ apply image filters](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-9.jpg)
+![apply image filters](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-9.jpg)
 
 Step 6: Save Edited Photo
 

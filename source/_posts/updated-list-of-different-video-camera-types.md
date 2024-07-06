@@ -1,7 +1,7 @@
 ---
 title: "[Updated] List of Different Video Camera Types"
-date: 2024-06-03T14:04:33.225Z
-updated: 2024-06-04T14:04:33.225Z
+date: 2024-07-05T03:41:28.256Z
+updated: 2024-07-06T03:41:28.256Z
 tags: 
   - screen-recording
   - ai video
@@ -29,19 +29,19 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  The evolution of video cameras has been so incredible that sometimes it is difficult to comprehend how people used to take photos and videos in the early days. The options available back then were very rudimentary compared to what we have at the present times, thanks to advancements in technology as well as the phenomenon growth in the photography industry. Not long ago, the term video camera was used to encompass just a handful of devices which all had similar characteristics. But nowadays, there are many types of video cameras at all budget levels, shapes and sizes and presented below is a quick overview of the types of video cameras available in the market today:
 
  **_You may also like:_**
-_[Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[What is Frame Rate](https://tools.techidaily.com/wondershare/filmora/download/)_
-_[What Is Video Format](https://tools.techidaily.com/wondershare/filmora/download/)_
+_ [Top 10 professional 360 degree cameras](https://tools.techidaily.com/wondershare/filmora/download/) _
+_ [What is Frame Rate](https://tools.techidaily.com/wondershare/filmora/download/) _
+_ [What Is Video Format](https://tools.techidaily.com/wondershare/filmora/download/) _
 
 ## 1. Smartphone
 
-![ Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
+![Smartphone video camera](https://images.wondershare.com/filmora/article-images/iphone-7-plus-dual-camera.jpg)
 
  Smartphone with inbuilt video cameras are at the very bottom of video camera food chain. Most of the high-end Smartphones such as some Android, iPhone, and Nokia models have satisfactory video cameras capable of shooting high definition videos. Even though the Smartphone video cameras may not suffice the needs of individuals who are serious about film making, they are adequate enough for the average users who need to take videos and photos during instances such as family or social gatherings. With a growing set of apps and tools however, these cameras can now be equipped and made to operate like full size cameras capable of taking professional videos.
 
 ## 2. Consumer Video Cameras
 
-![ Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
+![Consumer video camera](https://images.wondershare.com/filmora/article-images/consumer-camera-image.jpg)
 
  Consumer video cameras refer to simple cameras designed for personal non-professional use. In most cases, these cameras are less expensive and can be bought in the range of **$200** to **$1,500** and they usually come with smaller imaging chips. The images from consumer video cameras are not as great in terms of quality as the images from a professional camera.
 

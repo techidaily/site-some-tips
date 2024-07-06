@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, K850 UltraHD  Samsung 2023 Tech Review\""
-date: 2024-06-03T13:45:42.764Z
-updated: 2024-06-04T13:45:42.764Z
+date: 2024-07-05T03:41:30.187Z
+updated: 2024-07-06T03:41:30.187Z
 tags: 
   - screen-recording
   - ai video
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  You will be glad to know that UBD-K8500 offers support to Samsung’s Anynet as well as to Multiroom link mechanism. There are so many smart features that can be directly accessed from home page. For assisting users with better and interactive interface, it is broken down into 3 useful areas. The first one is its disc playback abilities that are loaded into player, second one works for multimedia content that can be connected via USB drive as well as from home network directly. It can handle almost all popular file formats like MPO, BMP, PNG, JPEG, ALAC, AIFF, MP3, OGG, FLAc, WAV, WMA, WMV, MKV, AVCHD, DivX HD, DivX and MPEG2/4\. The third section is dedicated to apps such as YouTube, Amazon and Netflix etc and users can easily collect Ultra HD 4K content with stunning colour blending. The bottom portion of interface needs with customization options like settings menu, screen mirroring etc.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-5.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-5.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01A9V6OI6/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01A9V6OI6&linkId=86a9a68f15767570bf18eba1329619d3)
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  Remote control of this Samsung player is compact and easy to handle with direction keys and a central select button.
 
-![ ](https://images.wondershare.com/filmora/article-images/k8500-1.jpg)
+![](https://images.wondershare.com/filmora/article-images/k8500-1.jpg)
 
 ## Connections and Control
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  The front side of player consists of an angled lip whereas the right portion possesses a touch sensitive type power, play/pause, stop and eject button. The LED indicators will help to indicate the power On function. It doesn’t consist of a display screen on front side but it is not a drawback rather it helps users to enjoy better view in darker rooms. In case if you need any information about current playback then you simply need to press the info button available on remote control; as soon as you press, all details will be displayed on screen. The middle section of device contains a USB port and on left side you will avail a disc tray.
 
-![ ](https://images.wondershare.com/filmora/article-images/k8500-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/k8500-2.jpg)
 
 ## Performance
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  Now, here is one important thing to note that if you try to watch standard blu-ray content with same HDMI input and same content settings then image will naturally get degraded. This happens due to unwanted scaling of image. The best way to get your desired output level is to make adjustments for user settings of this player. It will help you to develop better results for 1080p Blu-ray content but note that switching between viewing modes like this will become complicated if you are not able to remember right disc formats.
 
-![ ](https://images.wondershare.com/filmora/article-images/k8500-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/k8500-3.jpg)
 
 ## Verdict
 

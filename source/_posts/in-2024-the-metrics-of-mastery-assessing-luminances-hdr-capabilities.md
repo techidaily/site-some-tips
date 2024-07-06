@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Metrics of Mastery  Assessing Luminance's HDR Capabilities\""
-date: 2024-06-03T14:02:42.703Z
-updated: 2024-06-04T14:02:42.703Z
+date: 2024-07-05T03:41:29.773Z
+updated: 2024-07-06T03:41:29.773Z
 tags: 
   - screen-recording
   - ai video
@@ -123,9 +123,9 @@ Unfortunately, Luminous HDR is limited to only editing HDR images. But what if y
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is professional video editing software that's packed with lots of sophisticated features that facilitates quick and easy video editing tasks. Supported on both Mac and Windows computers, this tool allows users to perform both basic and advanced video editing effortlessly.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 **Key Features**
 
@@ -176,9 +176,9 @@ Truth be told, Luminance HDR is a great tool for creating/editing HDR images. Ye
 
 In addition to that, if you're looking to edit HDR videos with high quality, we highly recommend using the powerful Filmora video editing software for a seamless editing task.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 
 <ins class="adsbygoogle"

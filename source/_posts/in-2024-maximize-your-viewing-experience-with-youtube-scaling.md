@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximize Your Viewing Experience with YouTube Scaling"
-date: 2024-06-03T13:38:27.880Z
-updated: 2024-06-04T13:38:27.880Z
+date: 2024-07-05T03:41:28.318Z
+updated: 2024-07-06T03:41:28.318Z
 tags: 
   - screen-recording
   - ai video
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
