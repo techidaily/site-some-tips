@@ -1,7 +1,7 @@
 ---
 title: "\"Top AE Text Configurations  From Basics to Brilliance for 2024\""
-date: 2024-06-03T13:50:24.714Z
-updated: 2024-06-04T13:50:24.714Z
+date: 2024-07-12T13:45:28.055Z
+updated: 2024-07-13T13:45:28.055Z
 tags: 
   - screen-recording
   - ai video
@@ -120,9 +120,9 @@ Step3Click on the text layer to expand it and you will see different parameters 
 
 It is a fact that many find After Effects difficult to get used to as the user interface is not that friendly. If you are looking for the best alternative to After Effects, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The user interface is super intuitive and anyone without prior experience can create text effects for any video instantly. There are different categories of text effects and animations available to satisfy the requirements of video creators. Here are the steps to add After Effects and Premiere Pro text presets using Filmora.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Step1Install Wondershare Filmora and launch the application. Click on New Project option and drop your video clip for the background inside Project Media folder.
 
@@ -144,9 +144,9 @@ Step4Double-click on the text layer and edit the text. Place the text layer on t
 
 If you decide to use Adobe After Effects to add text effects to your video, we have listed the best text presets you should have in your possession. We have also stated how to add text effects to video in After Effects. We recommend Wondershare Filmora as the best video editor to add different types of text effects and animations to your video.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 
 <ins class="adsbygoogle"
@@ -174,3 +174,59 @@ If you decide to use Adobe After Effects to add text effects to your video, we h
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/swift-video-transformation-with-top-8-apps-for-2024/"><u>Swift Video Transformation with Top 8 Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-power-of-video-enhancement-sdr-to-dynamic-range-upconversion/"><u>2024 Approved  Unveiling the Power of Video Enhancement  SDR to Dynamic Range Upconversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-editing-with-vita-a-complete-review/"><u>[New] The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-13c-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi 13C 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uniting-zoom-and-skype-techniques-to-maximize-video-call-quality/"><u>In 2024, Uniting Zoom and Skype  Techniques to Maximize Video Call Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-cinemas-next-frontier-virtual-reality/"><u>[New] Unlocking Cinema's Next Frontier  Virtual Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-jump-recapturing-lost-moments/"><u>[Updated] Twitch Time Jump  Recapturing Lost Moments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-nvidia-screen-recorder-record-games-with-ease/"><u>[Updated] NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[Updated] Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-a-smooth-cut-transition-effect/"><u>New How to Create a Smooth Cut Transition Effect?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-photos-with-easy-online-cropping-steps-for-2024/"><u>Transforming Photos with Easy Online Cropping Steps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-redefine-gaming-radeons-latest-release/"><u>[New] In 2024, Redefine Gaming  Radeon's Latest Release</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y200e-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y200e 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-videos-potential-with-dynamic-titles/"><u>In 2024, Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-tv-off-switch-guide/"><u>[New] Instagram TV Off Switch Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>In 2024, Supercharge Your Video Subtitling  Explore Leading Internet Tools Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-applying-vhs-filters-on-computers/"><u>2024 Approved  Ultimate Guide to Applying VHS Filters on Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>2024 Approved  The Photographer's Manual  How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-experts-manual-to-windows-10-prowess-for-2024/"><u>The Expert's Manual to WINDOWS 10 Prowess for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-how-to-ensure-continuous-playback-of-youtube-videos-on-fb/"><u>[Updated] 2024 Approved  How to Ensure Continuous Playback of YouTube Videos on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-cultivating-your-persona-in-the-world-of-gamers/"><u>[New] 2024 Approved  Cultivating Your Persona in the World of Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-techniques-for-stunning-android-time-lapse-captures/"><u>2024 Approved  Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-elevate-your-playthroughs-secrets-of-ps3-video-capture/"><u>[Updated] In 2024, Elevate Your Playthroughs  Secrets of PS3 Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-under-the-lens-hero-4-meets-hero-5/"><u>[New] Under the Lens  Hero 4 Meets Hero 5</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>In 2024, The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>In 2024, Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-tips-to-make-cinematic-color-grading/"><u>Updated In 2024, Tips to Make Cinematic Color Grading</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-view-counts-eluding-mechanized-spectators-for-2024/"><u>Mastering View Counts  Eluding Mechanized Spectators for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-your-macs-capabilities-in-big-sur/"><u>In 2024, Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-instagrams-magnifying-functions/"><u>[New] 2024 Approved  The Ultimate Guide to Instagram's Magnifying Functions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategic-broadcast-planning-youtube-and-the-top-30-networks-for-2024/"><u>[Updated] Strategic Broadcast Planning  YouTube & The Top 30 Networks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-soundwaves-moving-playlists-across-networks/"><u>[Updated] Streamline Your Soundwaves  Moving Playlists Across Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>2024 Approved  Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/telltale-signs-your-chat-is-hidden/"><u>Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/composing-accompaniment-for-film-scenes-for-2024/"><u>Composing Accompaniment for Film Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-vision-with-lunapics-tutorial-for-2024/"><u>Unlock Creative Vision with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-subreddit-terrain-essential-steps-uncovered-for-2024/"><u>Navigating the Subreddit Terrain  Essential Steps Uncovered for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-rated-voice-transformation-software-for-mobile-for-2024/"><u>Top-Rated Voice Transformation Software for Mobile for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-mastery-of-youtube-closings-insider-tips-and-resources/"><u>In 2024, Mastery of YouTube Closings - Insider Tips and Resources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-digital-tools-for-enhancing-web-streams/"><u>In 2024, Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-free-online-havens-for-3d-text-psdfiles/"><u>In 2024, Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-meetings-using-zoom-with-win11/"><u>[Updated] Streamlining Your Meetings  Using Zoom with Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-document-creation-with-microsoft-word-speech-recognition-for-2024/"><u>Streamline Document Creation with Microsoft Word Speech Recognition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>In 2024, Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Itel P55 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset-for-2024/"><u>Venturing Virtuality  A Review of LG's 360 Headset for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved  Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-top-video-rotator-tools-for-online-use/"><u>New Top Video Rotator Tools for Online Use</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Sony Xperia 5 V | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "The Writers' Workshop for Podcast Creators (Examples Included) for 2024"
-date: 2024-06-03T13:43:30.142Z
-updated: 2024-06-04T13:43:30.142Z
+date: 2024-07-12T13:27:25.640Z
+updated: 2024-07-13T13:27:25.640Z
 tags: 
   - screen-recording
   - ai video
@@ -74,24 +74,24 @@ The first right candidate for the word-for-word script is the one about to land 
 
 **Structure**
 
-* Intro: Introduce yourself, the topic of discussion, and the guests if there; episode teaser (Span: \_\_\_ )
+* Intro: Introduce yourself, the topic of discussion, and the guests if there; episode teaser (Span: \_\_\_)
 * \[Sponsor message\]
 * \[Theme music\]
-* Topic 1: \_\_\_\_\_(Span: \_\_ )
+* Topic 1: \_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
 * Segue (can be a phrase, a piece of music, or a sound effect)
-* Topic 2: \_\_\_\_\_\_\_(Span: \_\_ )
+* Topic 2: \_\_\_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
 * \[Sponsor message\]
-* Topic 3: \_\_\_\_\_\_\_(Span: \_\_ )
+* Topic 3: \_\_\_\_\_\_\_(Span: \_\_)
 * Principal point
 * Supporting points
 * Quotations, data, or other facts
-* Outro: \_\_\_\_\_ (Span: \_\_ )
+* Outro: \_\_\_\_\_ (Span: \_\_)
 * Overview
 * Call to action
 * \[Closing theme music\]
@@ -132,19 +132,19 @@ See you in the upcoming episode with another interesting topic \[topic name\].
 
 **Podcast Example:**
 
-##### [Unfictional](https://www.kcrw.com/culture/shows/unfictional/cabin-notebook?utm%5Fsource=KCRW&utm%5Fmedium=RSS&utm%5Fcampaign=kcrw-show-rss)
+##### Unfictional
 
 An interesting narrative-style podcast hosted and produced by Bob Carlson.
 
 ![unfictional narrative podcast](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-2.jpg)
 
-##### [S-Town](https://podcasts.apple.com/us/podcast/s-town/id1212558767)
+##### S-Town
 
 A crime story podcast hosted by Brian Reed from Serial Productions, a New York Times company.
 
 ![s town cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-3.jpg)
 
-##### [Bill Burr's Monday Morning](https://open.spotify.com/show/5SFiQlOQ3EKmwp0chE1QzY)
+##### Bill Burr's Monday Morning
 
 A solo podcast hosted by Bill Burr.
 
@@ -201,13 +201,13 @@ CTAs: If you want to hear more interesting podcasts like this one, follow the ch
 
 **Podcast Example**
 
-##### [Smartless](https://open.spotify.com/show/0Yzd0g8NYmn27k2HFNplv7)
+##### Smartless
 
 "SmartLess" with Jason Bateman, Sean Hayes, & Will Arnett is a podcast where people from different fields of life come to share their life experiences.
 
 ![smartless podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-5.jpg)
 
-##### [The Joe Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+##### The Joe Rogan Experience
 
 Hosted by Joe Rogan, a conversational style podcast it is.
 
@@ -224,17 +224,17 @@ Hosts who love ad-libbing just need a bulleted list of some points to do an epis
 
 **Structure**
 
-* Intro: \_\_\_\_\_ (Span: \_\_\_\_\_ )
+* Intro: \_\_\_\_\_ (Span: \_\_\_\_\_)
 * \[Sponsor message\]
 * \[Theme music\]
-* Topic 1: \_\_\_\_\_\_\_ (Span: \_\_\_\_ )
+* Topic 1: \_\_\_\_\_\_\_ (Span: \_\_\_\_)
 * Notations
-* Topic 2: \_\_\_\_\_\_\_ (Span: \_\_\_\_ )
+* Topic 2: \_\_\_\_\_\_\_ (Span: \_\_\_\_)
 * Notations
 * Segue
-* Topic 3: \_\_\_\_\_\_\_ (Duration: \_\_\_\_ )
+* Topic 3: \_\_\_\_\_\_\_ (Duration: \_\_\_\_)
 * Notations
-* Outro: \_\_\_\_\_ (Duration: \_\_\_\_ )
+* Outro: \_\_\_\_\_ (Duration: \_\_\_\_)
 * \[Ending music\]
 
 **Template**
@@ -261,19 +261,19 @@ CTAs: Follow the channel and forward it to your friends if you want to listen to
 
 **Podcast Example**
 
-##### [WTF with Marc Maron](http://www.wtfpod.com/)
+##### WTF with Marc Maron
 
 "WTF with Marc Maron" is a comedy podcast show with a growing list of episodes. It's one of the best examples of an Ad-libbed flexible podcast script.
 
 ![wtf podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-7.jpg)
 
-##### [Conan O'Brien Needs a Friend](https://open.spotify.com/show/3u26tlz7A3WyWRtXliX9a9)
+##### Conan O'Brien Needs a Friend
 
 A comedy podcast hosted by Conan.
 
 ![comedy podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-8.jpg)
 
-##### [2 Bears, 1 Cave with Tom Segura & Bert Kreischer](https://open.spotify.com/show/1PgDUTgeyu3FOzK1FcBoqa)
+##### 2 Bears, 1 Cave with Tom Segura & Bert Kreischer
 
 Together, two close friends make each other laugh.
 
@@ -394,3 +394,49 @@ The crux of our discussion is that a compelling podcast script makes it simple t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook.techidaily.com/rescheduled-whatsapp-privacy-policy-update-enforcement/"><u>Rescheduled WhatsApp Privacy Policy Update Enforcement</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts-for-2024/"><u>Transform Video Editing with KineMaster Know-How & Premier Online Counterparts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-key-steps-to-a-fluent-transition-into-windows-11-domain/"><u>[Updated] The Key Steps to a Fluent Transition Into Windows 11 Domain</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-scripts-across-eight-film-categories/"><u>2024 Approved  Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-aerial-filmmaking-techniques/"><u>2024 Approved  The Essentials of Aerial Filmmaking Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer-for-2024/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-explore-and-expand-top-7-services-turning-your-digital-creations-into-crypto-assets/"><u>[New] Explore and Expand  Top 7 Services Turning Your Digital Creations Into Crypto Assets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-remedies-for-iphone-unfocused-shots/"><u>2024 Approved  Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>2024 Approved  Top Drone Propellers  Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-lava-storm-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Lava Storm 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/adventure-aces-ranking-games-that-make-you-want-to-explore/"><u>Adventure Aces  Ranking Games That Make You Want to Explore</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>2024 Approved  Streamline Your Sound  Key Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-newcomer-needs-efficient-purchases-of-monetizing-platforms/"><u>In 2024, Newcomer Needs  Efficient Purchases of Monetizing Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-rated-traffic-cameras-for-automobiles-2023/"><u>2024 Approved  Top-Rated Traffic Cameras for Automobiles 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expressive-articulation-examination-iteration-8-for-2024/"><u>Expressive Articulation Examination, Iteration 8 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>2024 Approved  Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-encompassing-vision/"><u>[Updated] Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-twitvid-mover-iphone-video-transfer-tool/"><u>In 2024, TwitVid Mover  IPhone Video Transfer Tool</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-guide-to-making-engaging-audio-promos/"><u>[Updated] A Step-by-Step Guide to Making Engaging Audio Promos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1714946820956-new-best-spotify-ripper-how-to-rip-music-from-spotify-in-2024/"><u>New Best Spotify Ripper How to Rip Music From Spotify, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-innovations-in-podcast-titling-with-ai-assistants-for-2024/"><u>Top Innovations in Podcast Titling with AI Assistants for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint-for-2024/"><u>Unlock the Potential  Tutorial on Enabling Speech Transcription in PowerPoint for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-win11s-potential-with-zoom-conferencing/"><u>[Updated] Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-tailored-volume-reduction-in-audacity/"><u>[Updated] Utilizing Tailored Volume Reduction in Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-speed-edit-photos-in-windows-11-for-2024/"><u>Unlocking Speed  Edit Photos in Windows 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mobile-vr-experiences-the-leading-10-headsets-for-2024/"><u>Top Mobile VR Experiences - The Leading 10 Headsets for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/optimal-frame-quality-at-low-movement-speeds-for-2024/"><u>Optimal Frame Quality at Low Movement Speeds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-ai-tools-for-visual-storytelling/"><u>[Updated] Unmatched AI Tools for Visual Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-basics-of-electronic-story-craftsmanship/"><u>[Updated] The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-intricacies-of-networked-livestream-with-vlc/"><u>In 2024, Navigating the Intricacies of Networked Livestream with VLC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-compelling-combinations-a-guide-to-creating-your-own-youtube-playlists/"><u>[New] In 2024, Crafting Compelling Combinations  A Guide to Creating Your Own YouTube Playlists</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/assessing-splitcams-standards-in-the-videographer-space-for-2024/"><u>Assessing SplitCam’s Standards in the Videographer Space for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vectors-demystified-starting-point-and-software-selection-tips-for-2024/"><u>Vectors Demystified  Starting Point & Software Selection Tips for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-a15-4g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy A15 4G FRP Bypass</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-virtual-reality-enhancements-for-gamers/"><u>2024 Approved  Leading Virtual Reality Enhancements for Gamers</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-motorola-razr-40-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Razr 40 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>[Updated] Supercharge Image Editing  10 Must-Know Pixlr Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oneplus-ace-2-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track OnePlus Ace 2 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-choosing-music-for-movie-previews/"><u>2024 Approved  The Science of Choosing Music for Movie Previews</u></a></li>
+</ul></div>

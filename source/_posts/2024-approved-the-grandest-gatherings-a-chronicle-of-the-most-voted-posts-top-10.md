@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Grandest Gatherings  A Chronicle of the Most Voted Posts (Top 10)\""
-date: 2024-06-03T13:50:27.239Z
-updated: 2024-06-04T13:50:27.239Z
+date: 2024-07-12T13:45:45.707Z
+updated: 2024-07-13T13:45:45.707Z
 tags: 
   - screen-recording
   - ai video
@@ -41,7 +41,7 @@ Here they are!
 
 ## 10 Most Upvoted Reddit Posts of All Time
 
-### 1\. [The Senate (/r/movies)](https://www.reddit.com/r/movies/comments/62sjuh/the%5Fsenate%5Fupvote%5Fthis%5Fso%5Fthat%5Fpeople%5Fsee%5Fit%5Fwhen/)
+### 1\. The Senate (/r/movies)
 
 ![chancellor palpatine the senate](https://images.wondershare.com/filmora/article-images/2023/01/the-senate.png)
 
@@ -55,7 +55,7 @@ Its purpose is quite ironic. The point was to make this image of Chancellor Palp
 
 Sadly, the attempt failed but still received a lot of attention.
 
-### 2\. [$GME GO BRRR (r/wallstreetbets)](https://www.reddit.com/r/wallstreetbets/comments/l8rf4k/times%5Fsquare%5Fright%5Fnow/)
+### 2\. $GME GO BRRR (r/wallstreetbets)
 
 This post currently has 469k votes with a stunning 99% Upvote rate. It’s now the most upvoted Reddit post in this list.
 
@@ -63,15 +63,15 @@ It represents a fun and public meme of someone buying a billboard in New York. T
 
 $GME stands for GameStop's stock name. BRR represents printing money. The idea behind it - publicly displaying the astonishing soar of GameStop's stock at that time.
 
-### 3\. [Rick Astley Rides a Bike (r/pics)](https://www.reddit.com/r/pics/comments/haucpf/ive%5Ffound%5Fa%5Ffew%5Ffunny%5Fmemories%5Fduring%5Flockdown/)
+### 3\. Rick Astley Rides a Bike (r/pics)
 
 ![rick astley rides a bike](https://images.wondershare.com/filmora/article-images/2023/01/rick-astley-old-photo.png)
 
-Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as[/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
+Posted in 2020, this one currently has 438k votes with 99% Upvotes. It was posted by a famous user known on Reddit as [/u/ReallyRickAstley](https://www.reddit.com/user/ReallyRickAstley/).
 
 If you know the famous song "Never Gonna Give You Up, " you know who this is. Well, this is the Reddit account of the artist Rick Astley himself, taking over the platform with a photo of himself he found in 1989.
 
-### 4\. [NYC Taxi Drivers Calendar (/r/funny)](https://www.reddit.com/r/funny/comments/7mjw12/my%5Fcab%5Fdriver%5Ftonight%5Fwas%5Fso%5Fexcited%5Fto%5Fshare/)
+### 4\. NYC Taxi Drivers Calendar (/r/funny)
 
 ![nyc taxi driver calendar](https://images.wondershare.com/filmora/article-images/2023/01/new-york-taxi-driver.png)
 
@@ -81,7 +81,7 @@ The image depicts the New York spirit as an excited cab driver shows off his cab
 
 What's even more interesting is that the driver commented on this Reddit post, letting everyone know that he also got the title "Mr. December" that year.
 
-### 5\. [Showing a Game You Mastered to Someone You Care About (/r/gaming)](https://www.reddit.com/r/gaming/comments/ccr8c8/take%5Fyour%5Ftime%5Fyou%5Fgot%5Fthis/)
+### 5\. Showing a Game You Mastered to Someone You Care About (/r/gaming)
 
 ![showing a game you mastered reddit post](https://images.wondershare.com/filmora/article-images/2023/01/angry-gamer.png)
 
@@ -93,7 +93,7 @@ The image shows an experienced gamer who spent countless hours beating a game, t
 
 You understand the pain if you've gone through something like this.
 
-### 6\. [All News Anchors Say the Same Thing(/r/videos)](https://www.reddit.com/r/videos/comments/88ll08/this%5Fis%5Fwhat%5Fhappens%5Fwhen%5Fone%5Fcompany%5Fowns%5Fdozens/)
+### 6\. All News Anchors Say the Same Thing(/r/videos)
 
 ![all news anchors say the same thing reddit](https://images.wondershare.com/filmora/article-images/2023/01/news-anchors.png)
 
@@ -103,7 +103,7 @@ The phrase "this is extremely dangerous to our democracy" is repeated repeatedly
 
 97% of these 293k users upvoted and agreed that all news anchors say the same thing.
 
-### 7\. [Thirsty Frog Takes a Bath (r/aww)](https://www.reddit.com/r/aww/comments/90bu6w/heat%5Findex%5Fwas%5F110%5Fdegrees%5Fso%5Fwe%5Foffered%5Fhim%5Fa/)
+### 7\. Thirsty Frog Takes a Bath (r/aww)
 
 ![thirsty frog takes a bath reddit](https://images.wondershare.com/filmora/article-images/2023/01/frog-taking-a-bath.png)
 
@@ -113,7 +113,7 @@ Like this frog, for example. 99% out of the 313k voters on this post upvoted and
 
 That's all there is to it. No politics, no serious issues, and so on. Just a frog trying to cool off in a bottle cup.
 
-### 8\. [Battle for Net Neutrality (/r/books)](https://www.reddit.com/r/books/comments/7en6do/join%5Fthe%5Fbattle%5Ffor%5Fnet%5Fneutrality%5Fwe%5Fneed%5Fto/)
+### 8\. Battle for Net Neutrality (/r/books)
 
 ![battle for net neutrality reddit post](https://images.wondershare.com/filmora/article-images/2023/01/battle-for-net-neutrality.png)
 
@@ -121,7 +121,7 @@ This is another most upvoted Reddit post that encouraged over 180k users to join
 
 It's a post with a title and a link to a site where anyone can join the battle. The goal - prevent Internet Service Providers from blocking apps and websites.
 
-### 9\. [Deangelo Juggles Balls for Real(/r/DunderMifflin)](https://www.reddit.com/r/DunderMifflin/comments/cec448/i%5Fwas%5Fwithout%5Finternet%5Ffor%5Fa%5Fwhile%5Fdecided%5Fto%5Fuse/)
+### 9\. Deangelo Juggles Balls for Real(/r/DunderMifflin)
 
 ![reddit post of deangelo juggling balls the office](https://images.wondershare.com/filmora/article-images/2023/01/deangelo-juggling-balls-on-the-office.png)
 
@@ -131,7 +131,7 @@ Well, a Reddit user made an edit of this clip and now it looks as if Will juggle
 
 The post has a 98% upvote rate with 170k voters in total. The reason it's so popular is that The Office fans can't get enough of this show. Many say they never stop watching short clips of the show on Youtube and Reddit after finishing the entire series.
 
-### 10\. [Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)](https://www.reddit.com/r/todayilearned/comments/7pbzcb/til%5Fafter%5Fcol%5Fshaw%5Fdied%5Fin%5Fbattle%5Fconfederates/)
+### 10\. Brave Soldier Buried Amongst His Devoted Troops (/r/todayilearned)
 
 ![reddit post of soldier and his fathers message](https://images.wondershare.com/filmora/article-images/2023/01/brave-soldier-buried-with-his-devoted-troops-reddit.png)
 
@@ -186,3 +186,36 @@ Whatever you decide to do, feel free to reflect on these posts and enjoy reading
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>[New] Transform Your Broadcasts  Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-photo-collages-with-picshot-for-2024/"><u>The Evolution of Photo Collages with Picshot for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/taming-the-unruly-monitor-refresh-rate/"><u>Taming the Unruly Monitor Refresh Rate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-multi-device-stabilization-systems/"><u>[New] Ultimate Multi-Device Stabilization Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/moto-cams-best-top-5-hats-for-riders-for-2024/"><u>Moto Cam's Best  Top 5 Hats for Riders for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-logic-pros-way-to-softly-diminish-loud-passages/"><u>2024 Approved  Logic Pro's Way to Softly Diminish Loud Passages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>In 2024, The Art of Plating on Camera  Food Video Production Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-from-beginner-to-pro-the-definitive-wav-converter-guide/"><u>New 2024 Approved From Beginner to Pro The Definitive Wav Converter Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-note-13-proplus-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi Note 13 Pro+ 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-converting-speech-to-text-with-google-docs-for-2024/"><u>Mastering the Art of Converting Speech to Text with Google Docs for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-top-ten-creative-av-media-maker-directory/"><u>[New] The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-the-million-sub-code-insights-for-digital-growth/"><u>Unlocking the Million-Sub Code  Insights for Digital Growth</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-potential-embrace-note-taking-on-mematic/"><u>In 2024, Unlock Potential  Embrace Note-Taking on Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joyfuljourney-sign-up-share-and-create-fun-videos/"><u>In 2024, JoyfulJourney  Sign Up, Share and Create Fun Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-iphone-xs-identity-verification-face-id-repair/"><u>Mastering iPhone X's Identity Verification  Face ID Repair</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-image-savers-optimizing-video-graphics/"><u>[New] In 2024, FREE Image Savers  Optimizing Video Graphics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/win10-gaming-sessions-best-recording-approaches-for-2024/"><u>Win10 Gaming Sessions  Best Recording Approaches for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-free-screen-recording-in-win11/"><u>In 2024, Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-writing-impressive-podcast-summaries/"><u>In 2024, The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>In 2024, The Blueprint for Lifelong Memories  Storing Vintage Photos Digitally</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-secrets-of-your-lost-iphone-x/"><u>In 2024, Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved  Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+</ul></div>

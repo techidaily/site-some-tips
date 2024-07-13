@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Guide  Clearing Out the Unwanted Space Around Images with Affinity\""
-date: 2024-06-03T13:38:10.209Z
-updated: 2024-06-04T13:38:10.210Z
+date: 2024-07-12T13:13:30.379Z
+updated: 2024-07-13T13:13:30.379Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Affinity Photo is a simple and easy-to-use editing software, and you can remove 
 
 To erase a white background in Affinity Designer, do these steps:
 
-Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/)software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
+Step1 In the first step, install the [Affinity Designer](https://affinity.serif.com/en-us/designer/) software and launch it on your computer. Go to **"File" > "Open"** and head to the location of your image with a white background on your drive to import it.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
@@ -89,7 +89,7 @@ Finally, click **"File"** and select the **"Export"** option from the drop-down 
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
-Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
+Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by [Wondershare Technology.](https://www.wondershare.com/)
 
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
@@ -145,3 +145,55 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations/"><u>2024 Approved  Unveiling the Hidden Truths Behind VR's Advantages and Limitations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-zte-axon-40-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent ZTE Axon 40 Lite Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-htc-u23-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[Updated] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>new 2024 Approved Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-tips-for-choosing-a-high-quality-4k-camera-lens-for-2024/"><u>Top Tips for Choosing a High-Quality 4K Camera Lens for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>In 2024, The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>2024 Approved  Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-1980s-filters-and-techniques-in-editing/"><u>[Updated] Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>[New] The Pro's Choice  A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-online-gif-conversion-for-videos-top-5/"><u>[New] Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music/"><u>[Updated] SwiftSoundphone Apps  Top 10 for Rapid Music</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g23-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G23</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-views-with-optimal-youtube-thumbnails-and-ratios/"><u>Elevate Views with Optimal YouTube Thumbnails & Ratios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-into-simple-hdr-imaging/"><u>[Updated] Thorough Investigation Into Simple HDR Imaging</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/deep-into-the-world-of-creator-studio/"><u>Dive Deep Into the World of Creator Studio</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-a-closer-look-at-virtualdub-review-benefits-and-top-alternatives/"><u>New In 2024, A Closer Look at Virtualdub Review, Benefits, and Top Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>[Updated] Striding Forward  A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-depth-guide-to-iphone-for-excellent-quality-audio-capture/"><u>Updated In-Depth Guide to iPhone for Excellent Quality Audio Capture</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y02t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y02T Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-process-for-free-youtube-educational-events/"><u>In 2024, Step-by-Step Process for Free Youtube Educational Events</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>2024 Approved  Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>[New] The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-virtualdub-is-it-still-the-best-top-alternatives-revealed/"><u>New 2024 Approved Virtualdub Is It Still the Best? Top Alternatives Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-shadowing-secrets/"><u>[Updated] Swift Shadowing Secrets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-amateur-to-pro-excelling-at-instagram-editing/"><u>[New] In 2024, From Amateur to Pro  Excelling at Instagram Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-full-potential-in-the-metaverse/"><u>In 2024, Unleash Your Full Potential in the Metaverse</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-everything-you-need-to-know-about-becoming-a-motion-graphic-designer/"><u>Updated In 2024, Everything You Need to Know About Becoming a Motion Graphic Designer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems-for-2024/"><u>Unveiling the Top 5 Elite Slow Camera Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-phrases-that-drive-business-growth/"><u>In 2024, Transformative Talk  20 Phrases That Drive Business Growth</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-trending-video-reactions/"><u>[New] 2024 Approved  Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-youtube-shorts-a-beginners-guide-to-video-crafting/"><u>[Updated] Exploring YouTube Shorts  A Beginner's Guide to Video Crafting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>2024 Approved  Uniting Your Favorite Sounds  A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-tiktok-experience-with-new-user-numbers-for-2024/"><u>Transform Your TikTok Experience with New User Numbers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>In 2024, Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cosmic-realms-unveiled-metaverse-vs-multiverse-for-2024/"><u>Cosmic Realms Unveiled  Metaverse vs Multiverse for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-guide-best-audio-techniques-on-windows/"><u>[Updated] In-Depth Guide  Best Audio Techniques on Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-art-of-selective-engagement-on-ig/"><u>[Updated] In 2024, The Art of Selective Engagement on IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[New] The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>In 2024, The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-zero-30-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Zero 30 5G Face Lock?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-escaping-a-stroke-on-your-youtube-channel/"><u>In 2024, Escaping a Stroke on Your YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-auditory-transitions/"><u>[New] The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+</ul></div>
