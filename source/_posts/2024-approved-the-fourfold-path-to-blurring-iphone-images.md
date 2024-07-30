@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Fourfold Path to Blurring iPhone Images\""
-date: 2024-07-12T13:07:22.964Z
-updated: 2024-07-13T13:07:22.964Z
+date: 2024-07-29T06:11:07.977Z
+updated: 2024-07-30T06:11:07.977Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,9 @@ Grab your iPhone (iPhone 13 Pro Max is used here for illustration), and tab the 
 
 Swipe-drag the modes present above the **Shutter** button to switch to the **PORTRAIT** option, and tap the main subject on the screen that you want to capture the image of. Next, tap the **f** (**Depth**) icon from the top-right corner, and drag the **Depth** slider to the left to increase the intensity of the blur effect of the background.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone portrait mode blur background](https://images.wondershare.com/filmora/article-images/iphone-portrait-mode-blur-background.jpg)
 
 **Step 3: Capture and Access the Photo**
@@ -68,12 +71,18 @@ Use the method explained above to launch the **Camera** app on your iPhone. Beca
 
 Tap and hold the main subject on the screen until the **AE/AF Lock** message shows up at the top to confirm that the **Auto Focus** feature has been turned on.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone auto focus blur photo background](https://images.wondershare.com/filmora/article-images/iphone-auto-focus-blur-photo-background.jpg)
 
 **Step 3: Capture and Access the Image**
 
 Get closer to the subject. Ensure that the background around the main subject gets blurry and you move forward. Tap the **Capture** icon once you are close enough to get the desired level of blurriness in the background. Now, use the method explained above to access the captured photo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 3: Adding Vignette Effect to Photo to Blur the Background on iPhone
 
 The built-in Photos app comes with the Vignette effect that can be applied to the image at the time of editing. However, to get this done, it is recommended that the main subject should be at the center so the background looks unimportant. You can follow the steps given below to learn **how to blur a picture on iPhone** with the Vignette effect:
@@ -86,6 +95,9 @@ Launch the **Photos** app on your iPhone, go to the album with the target photo,
 
 Tap the Effects icon from the bottom, swipe left to horizontally scroll through the available effects to get to **VIGNETTE**, and use the slider under it to manage the intensity to **blur picture iPhone** has.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![blur picture on iphone with vignette effect](https://images.wondershare.com/filmora/article-images/blur-picture-on-iphone-with-vignette-effect.jpg)
 
 **Step 3: Save and Access the Photo**
@@ -108,6 +120,9 @@ After [installing Snapseed from the App Store](https://apps.apple.com/us/app/sna
 
 Tap **TOOLS** from the bottom of the interface, and from the options available in the box that pops up, tap **Lens Blur**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pick blur tool snapseed](https://images.wondershare.com/filmora/article-images/pick-blur-tool-snapseed.jpg)
 
 **Step 3: Adjust the Blur Shape and Size**
@@ -122,6 +137,9 @@ From the top, ensure that the **Blur Strength** option is selected, tap anywhere
 
 Then, as earlier, drag your finger to the right or left anywhere on the screen to increase or decrease the intensity of the effect respectively. Once done, tap the **OK** button (with the tick mark) from the bottom-right corner. Back on the main screen, tap **EXPORT** from the bottom-right, you tap your preferred option for exporting.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![save blurred photo snapseed](https://images.wondershare.com/filmora/article-images/save-blurred-photo-snapseed.jpg)
 
 **Conclusion**
@@ -157,3 +175,49 @@ Blurring the background in a photo ensures that the main subject remains in the 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-essential-iphone-applications-for-clearing-photos-of-obstacles/"><u>[New] 2024 Approved  Essential iPhone Applications for Clearing Photos of Obstacles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-quick-tips-for-continuous-playback-on-iphone/"><u>[New] 2024 Approved  Quick Tips for Continuous Playback on iPhone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-streamlining-content-acquisition-5-ways-to-download-igtv-on-windows-and-macos/"><u>[New] 2024 Approved  Streamlining Content Acquisition  5 Ways to Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-shorts-the-thumbnail-not-showing-dilemma/"><u>[New] In 2024, Fixing Shorts  The Thumbnail Not Showing Dilemma</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-profits-the-ultimate-guide-to-youtube-revenue/"><u>[New] Maximizing Profits   The Ultimate Guide to YouTube Revenue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-online-gif-conversion-for-videos-top-5/"><u>[New] Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-artistic-science-behind-youtube-live-imagery-for-2024/"><u>[New] The Artistic Science Behind YouTube Live Imagery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-auditory-transitions/"><u>[New] The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[New] The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>[New] The Pro's Choice  A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-3-simple-copywriting-structure-for-facebook-ads/"><u>[Updated] 2024 Approved  3-Simple Copywriting Structure for Facebook Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>[Updated] Striding Forward  A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-shadowing-secrets/"><u>[Updated] Swift Shadowing Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftsoundphone-apps-top-10-for-rapid-music/"><u>[Updated] SwiftSoundphone Apps  Top 10 for Rapid Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[Updated] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-into-simple-hdr-imaging/"><u>[Updated] Thorough Investigation Into Simple HDR Imaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-1980s-filters-and-techniques-in-editing/"><u>[Updated] Timeless 1980S Filters & Techniques in Editing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ultimate-virtual-races-the-quintessential-list-for-2024/"><u>[Updated] Ultimate Virtual Races  The Quintessential List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-android-games-funimate-pro-apk-deep-dive/"><u>[Updated] Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-walking-deadlines-the-ultimate-selection-of-excellent-zombie-games/"><u>[Updated] Walking Deadlines  The Ultimate Selection of Excellent Zombie Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-how-to-counter-facebooks-instantaneous-deletion-of-videos/"><u>2024 Approved  How to Counter Facebook's Instantaneous Deletion of Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syma-x5c-exposed-perfect-pick-for-novice-aerial-enthusiasts/"><u>2024 Approved  Syma X5C Exposed  Perfect Pick for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-guide-to-online-image-editing-and-cropping/"><u>2024 Approved  The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-bio-enhancement-with-direct-url-integration/"><u>2024 Approved  TikTok Bio Enhancement with Direct URL Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>2024 Approved  Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>Achieve Youtube Profitability  The Milestone of 500+ Subscribers Unlocked</u></a></li>
+<li><a href="https://facebook.techidaily.com/cracking-down-on-digital-goliaths-the-path-of-government-regulation/"><u>Cracking Down on Digital Goliaths: The Path of Government Regulation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-set-top-10-4k-gaming-laptops-unveiled/"><u>Elite Set  Top 10 4K Gaming Laptops Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-m34-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy M34? Try These Fixes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-easy-steps-how-to-record-on-vimeo/"><u>In 2024, Easy Steps  How to Record on Vimeo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-up-your-game-luminous-methods-for-iphone-video-enhancement/"><u>In 2024, Step Up Your Game  Luminous Methods for iPhone Video Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-zte-axon-40-lite-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your ZTE Axon 40 Lite Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>In 2024, The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>In 2024, The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-phrases-that-drive-business-growth/"><u>In 2024, Transformative Talk  20 Phrases That Drive Business Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-full-potential-in-the-metaverse/"><u>In 2024, Unleash Your Full Potential in the Metaverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>In 2024, Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ase-engagement-essential-tools-for-effective-youtube-keywords/"><u>Increase Engagement  Essential Tools for Effective YouTube Keywords</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems-for-2024/"><u>Unveiling the Top 5 Elite Slow Camera Systems for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/xbox-game-memories-save-them-with-screenshots-in-2024/"><u>Xbox Game Memories, Save Them with Screenshots, In 2024</u></a></li>
+</ul></div>
