@@ -1,7 +1,7 @@
 ---
 title: "[New] The Obscured Oath (Black) VS The Illuminated Edict (Silver)"
-date: 2024-07-12T14:24:58.916Z
-updated: 2024-07-13T14:24:58.916Z
+date: 2024-08-15T10:07:29.898Z
+updated: 2024-08-16T10:07:29.898Z
 tags: 
   - screen-recording
   - ai video
@@ -134,3 +134,73 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-techniques-for-writing-eye-catching-podcast-summaries/"><u>[New] 2024 Approved  Techniques for Writing Eye-Catching Podcast Summaries</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-serenity-in-animated-worlds-top-youtube-picks/"><u>[New] In 2024, Finding Serenity in Animated Worlds  Top YouTube Picks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-live-stream-360-videos-on-facebook/"><u>[New] In 2024, How to Live Stream 360 Videos on Facebook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-quickening-vimeo-content-streams/"><u>[New] In 2024, Quickening Vimeo Content Streams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-rising-above-the-crowd-trending-techniques-for-youtubers/"><u>[New] In 2024, Rising Above the Crowd  Trending Techniques for YouTubers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-listenleaders-pursuing-better-podcasts/"><u>[New] ListenLeaders  Pursuing Better Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-spark-interest-drive-engagement-top-30-video-ideas/"><u>[New] Spark Interest, Drive Engagement  Top 30 Video Ideas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sunset-symphony-cinematic-darkening-in-pro/"><u>[New] Sunset Symphony  Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-3d-tools-for-animated-designers/"><u>[New] Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tackling-fuzzy-visuals-on-online-video-platforms/"><u>[New] Tackling Fuzzy Visuals on Online Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-macos-safari-video-conversion-apps/"><u>[New] Top 5 macOS Safari Video Conversion Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-guide-find-your-own-tiktok-stream-key/"><u>[Updated] [Step-by-Step Guide] Find Your Own TikTok Stream Key</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-live-gaming-snapshot-with-fraps-analysis-for-2024/"><u>[Updated] Live Gaming Snapshot with Fraps Analysis for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-sourcing-a-list-cinematography-experts/"><u>[Updated] Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-top-tier-photo-viewing-app/"><u>[Updated] Swift Top-Tier Photo Viewing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>[Updated] The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-11-windows-11-secrets-unveiled/"><u>[Updated] Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-6-platforms-facilitating-enterprise-social-synergy/"><u>[Updated] Top 6 Platforms Facilitating Enterprise-Social Synergy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-old-vhs-with-new-online-techniques/"><u>[Updated] Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-potential-channel-building-mastery-for-2024/"><u>[Updated] Unleashing Potential  Channel Building Mastery for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-comprehensive-commentary-delving-deep-into-bublcams-360-degree-world/"><u>2024 Approved  Comprehensive Commentary  Delving Deep Into Bublcam's 360-Degree World</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>2024 Approved  Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-surge-in-youtubers-popularity/"><u>2024 Approved  The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-for-seamless-system-evolutions/"><u>2024 Approved  The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-melody-meets-discovering-crossfade-magic/"><u>2024 Approved  The Melody Meets  Discovering Crossfade Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>2024 Approved  The Ultimate Mobile Cinema Showcase  Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>2024 Approved  The Ultimate VR Player Guide  Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-5-best-tv-for-ps5-and-xbox-series-x-updated-july/"><u>2024 Approved  Top 5 Best TV for Ps5 and Xbox Series X (Updated July)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-video-downloaders-preserve-your-linkedin-media-masterfully/"><u>2024 Approved  Top 6 Video Downloaders  Preserve Your LinkedIn Media Masterfully</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-troubleshooting-youtube-fixing-warped-video-frames/"><u>2024 Approved  Troubleshooting YouTube  Fixing Warped Video Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>2024 Approved  Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/a-new-dawn-for-data-hubs-stellar-services/"><u>A New Dawn for Data Hubs: Stellar Services</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/chromeos-top-free-screen-capture-software-for-2024/"><u>ChromeOS  Top Free Screen Capture Software for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/googles-next-big-thing-the-much-awaited-pixel-10-leaks-price-estimates-and-release-prospects/"><u>Google's Next Big Thing: The Much-Awaited Pixel 10 Leaks, Price Estimates & Release Prospects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-fe-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 FE Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-poco-f5-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Poco F5 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-premiere-pro-for-youtube-cutting/"><u>In 2024, Step-by-Step Guide  Premiere Pro for YouTube Cutting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-costless-conundrum-of-final-cut-pro-access/"><u>In 2024, The Costless Conundrum of Final Cut Pro Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-mixing-linktree-and-tiktok-bios/"><u>In 2024, The Essential Guide to Mixing Linktree and TikTok Bios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-straightforward-approach-to-editing-age-on-tiktok/"><u>In 2024, The Straightforward Approach to Editing Age on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>In 2024, Tips and Tricks for GoPro  Get the Most From Your GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-professional-ringtone-designer-guide/"><u>In 2024, Top Picks  Professional Ringtone Designer Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tiktok-wallpaper-templates-uncovered/"><u>In 2024, Top TikTok Wallpaper Templates Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turnback-artisan-hub/"><u>In 2024, Turnback Artisan Hub</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-uninterrupted-access-to-9-premium-christmas-films-enjoyment-at-zero-cost/"><u>In 2024, Uninterrupted Access to 9 Premium Christmas Films  Enjoyment at Zero Cost</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-12-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 12 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italian-essentials-the-100-phrase-voyagers-companion/"><u>Italian Essentials: The 100-Phrase Voyager's Companion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-k70e-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi K70E, is it possible?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-6-web-spaces-for-corporate-social-connections/"><u>Prime 6 Web Spaces for Corporate Social Connections</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spectral-sync-solutions/"><u>Spectral Sync Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategizing-visibility-for-podcasts-through-design-for-2024/"><u>Strategizing Visibility for Podcasts Through Design for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-flaw-of-ai-chatbots-in-crafting-persuasive-texts/"><u>The Flaw of AI Chatbots in Crafting Persuasive Texts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-sharper-images-during-zoom-calls-for-2024/"><u>Tips for Sharper Images During Zoom Calls for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-mirrorless-cameras-ideal-for-vloggers/"><u>Top 8 Mirrorless Cameras Ideal for Vloggers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turning-spoken-words-into-written-phrases-a-guide-for-windows-users/"><u>Turning Spoken Words Into Written Phrases: A Guide for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-top-16-free-video-players-for-2024/"><u>Ultimate Guide to Top 16 Free Video Players for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-upticks-celebrating-top-10-reddit-discussions-for-2024/"><u>Unmatched Upticks  Celebrating Top 10 Reddit Discussions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-the-mystery-of-stalled-instagram-videos-for-2024/"><u>Unraveling the Mystery of Stalled Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-assessment-varied-perspectives-for-2024/"><u>Upcoming Assessment  Varied Perspectives for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Unveiling Modern Techniques for Gesture Interpretation"
-date: 2024-07-12T14:23:29.780Z
-updated: 2024-07-13T14:23:29.780Z
+date: 2024-08-15T10:08:39.994Z
+updated: 2024-08-16T10:08:39.994Z
 tags: 
   - screen-recording
   - ai video
@@ -85,6 +85,9 @@ Before we go further about them, let us learn about Python quickly. Python is a 
 
 To get a deeper understanding of OpenCV, please read our article: _Opencv Tracking, a compete review_.（同期交付文章，请插入相关内链\~）
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### What Is Media Pipe
 
 Media Pipe is an open-source framework by Google that provides a set of tools for working with multimedia data or media processing. It includes modules for handling audio, video, and images. Media Pipe also supports various codecs and file formats.
@@ -105,14 +108,23 @@ Before starting to create Hand Tracking, you need to install the [Pycharm IDE](h
 Click the **“New Project”** option and select **“Create”** on the next Window. Open the **Terminal** to install the two libraries.
 
 ![install and launch the pycharm app on your pc](https://images.wondershare.com/filmora/article-images/2022/07/install-and-launch-the-pycharm-app-on-your-pc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 Copy and paste the following command in the **Terminal** to install **OpenCV:**
 
 ![copy and paste command to install opencv](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now, to install **MediaPipe**, copy and paste the following command:
 
 ![install mediapipe](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Coding**
 
@@ -123,12 +135,18 @@ A _main.py_ file for writing code will be automatically created in _Pycharm_ app
 First, import the OpenCV and MediaPipe to use their dependencies. Once done, create an object _cap_ for video capturing and three other objects; _mpHands, hands,_ and _mpDraw_ to manipulate your input using MediaPipe.
 
 ![importing the libraries](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 
 ##### Step2 Capturing And Processing An Image Input
 
 Copy and paste the following line of code to take the image input from your PC webcam.
 
 ![capturing and processing an image input](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
 The image is converted to RGB from BGR because MediaPipe works with this type of image. The RBG image is then processed to track the hand.
 
@@ -149,6 +167,9 @@ Afterward, use the above code to create a method for using specifically to ident
 To create a method for finding the x and y coordinates of the z21 hand points and a list that you will use to keep the values of these, write the code below:
 
 ![locate x and y coordinate of hand point](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-7.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 
 In this method, use the code that you used to find the ID and hand landmark of each hand point. Moreover, put the code you will use to circle the hand point.
 
@@ -157,12 +178,18 @@ In this method, use the code that you used to find the ID and hand landmark of e
 Now, write the below dummy code to showcase what the module can do, i.e., identify and track hands. The code appears in the main method and uses the _lmlist object_ and _image_.
 
 ![](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-8.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step7 Main Method Execution
 
 To execute the main method, copy and paste the following code lines:
 
 ![main method execution](https://images.wondershare.com/filmora/article-images/2022/07/hand-tracking-9.jpg)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step8 Result
 
@@ -180,6 +207,9 @@ Learn more about Filmora:
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we’ve explored Hand Tracking and its two types, i.e., tracking with interface and tracking without interface. Moreover, we provided step-by-step guidance on using Python, OpenCV, and MediaPipe to create a Hand Tracking module.
@@ -217,3 +247,46 @@ We hope this guide helped resolve your queries, and you can now create a Hand Tr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-local-audiences-with-social-media-videos/"><u>[New] In 2024, Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-what-does-the-signature-blue-glyph-on-messenger-stand-for/"><u>[New] In 2024, What Does the Signature Blue Glyph on Messenger Stand For?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-monetized-critique-videos-the-truth-unveiled/"><u>[New] Monetized Critique Videos  The Truth Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-orchestrating-scene-sounds-with-imovie/"><u>[New] Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-take-your-photography-to-new-heights-with-lightrooms-hdr-capabilities/"><u>[New] Take Your Photography to New Heights with Lightroom’s HDR Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-apex-of-narrative-content-youtubes-finest-in-23/"><u>[New] The Apex of Narrative Content  YouTube’s Finest in '23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-battle-of-av1-and-vp9-outcomes-revealed/"><u>[New] The Battle of AV1 and VP9  Outcomes Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-top-8-online-places-for-free-3d-text-files/"><u>[New] The Ultimate Guide  Top 8 Online Places for Free 3D Text Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-places-for-accessing-gratis-graphics/"><u>[New] Top 10 Places for Accessing Gratis Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tips-for-meme-magic-with-kinemaster/"><u>[New] Top Tips for Meme Magic with KineMaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-ranking-humor-image-editor/"><u>[New] Top-Ranking Humor Image Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-moonlit-musings-capturing-the-essence-of-nocturnal-imagery/"><u>[Updated] 2024 Approved  Moonlit Musings  Capturing the Essence of Nocturnal Imagery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-landscapes-with-mi-drone-4k-analysis/"><u>[Updated] Capturing Landscapes with MI Drone 4K Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>[Updated] The Instagram Analyst's Handbook  Decoding Engagement and Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>[Updated] The Ultimate iPhone Photography Playbook  Prime Angles Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-essential-gopro-extras/"><u>[Updated] Top 20 Essential Gopro Extras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-free-video-text-dynamics/"><u>2024 Approved  Mastering FREE Video Text Dynamics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-ringtone-overhaul-transforming-your-phones-sound-identity/"><u>2024 Approved  Ringtone Overhaul  Transforming Your Phone's Sound Identity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-chuckles-and-pixels-suite/"><u>2024 Approved  Ultimate Chuckles and Pixels Suite</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/deactivating-instagrams-igtv-feature/"><u>Deactivating Instagram's IGTV Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-repairing-amazon-prime-streaming-problems/"><u>DIY Guide: Repairing Amazon Prime Streaming Problems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-top-wi-fi-routers-how-does-the-tp-link-archer-ax6000-stack-up-against-the-nighthawk-ax12/"><u>Evaluating Top Wi-Fi Routers: How Does The TP-Link Archer AX6000 Stack Up Against the Nighthawk AX12?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>In 2024, Step-by-Step Guide  Enhancing Snaps with Zoom Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-photos-top-6-iphone-tools-for-object-elimination/"><u>In 2024, Streamline Your Photos  Top 6 iPhone Tools for Object Elimination</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion/"><u>In 2024, The Easy Way to Progressively Reduce Sound Levels in Lumafusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>In 2024, The Encyclopedia of Motion Sensing  Types & Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tinkering-with-technology-a-new-sound-for-your-phone/"><u>In 2024, Tinkering with Technology  A New Sound for Your Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-pc-vr-headsets-2023-update/"><u>In 2024, Top 10 PC VR Headsets -2023 Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-images-into-dynamic-visual-stories/"><u>In 2024, Transform Your Images Into Dynamic Visual Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-versatile-tips-for-avoiding-vr-motion-sickness/"><u>In 2024, Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-new-drivers-for-your-intel-ac-abbbb-9560-card/"><u>Installing New Drivers for Your Intel AC Abbbb 9560 Card</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-unveiling-10-innovative-audio-processing-platforms-for-scalable-performance/"><u>New Unveiling 10 Innovative Audio Processing Platforms for Scalable Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/spice-up-your-feeds-text-based-meme-magic-for-2024/"><u>Spice Up Your Feeds  Text-Based Meme Magic for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-balance-of-cost-and-performance-expert-review-on-the-zte-blade-a3-y-model/"><u>The Balance of Cost and Performance: Expert Review on the ZTE Blade A3 Y Model</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-video-hue-correction-11-steps-for-2024/"><u>The Essential Guide to Video Hue Correction (11 Steps) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-method-to-seamless-integration-of-linktree-into-tiktok-profiles/"><u>The Ultimate Method to Seamless Integration of Linktree Into TikTok Profiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-the-power-of-pause-tips-for-slow-motion-video-using-photo-apps-for-2024/"><u>Unleash the Power of Pause  Tips for Slow-Motion Video Using Photo Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-packaging-a-marketing-approach-for-2024/"><u>Unraveling the Packaging  A Marketing Approach for 2024</u></a></li>
+</ul></div>

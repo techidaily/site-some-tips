@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essentials of Time-Stamped Photography\""
-date: 2024-07-12T14:24:43.716Z
-updated: 2024-07-13T14:24:43.716Z
+date: 2024-08-15T10:07:15.400Z
+updated: 2024-08-16T10:07:15.400Z
 tags: 
   - screen-recording
   - ai video
@@ -95,17 +95,27 @@ The stock Android Camera app has full editing features that allow you to crop, r
 
 The stock iPhone Camera app also has full editing tools that allow you to crop, rotate and adjust the contrast of your photos. You can also add stickers and frames to your photo within this app.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use other photo editors to edit photos
 
 Why knowing **how to add date to a photo** with your in-built app is important; here is a complete guide on how you can use other third-party apps to **edit photos on your phone**.
 
 You can make use of other photo editing apps to edit your pictures. Here are three applications that you will find useful to do this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### **Instasize**
 
 Instasize is an app that you will find quite useful. The app was developed for influencers and social media users who wish to produce captivating, imaginative images and films..
 
 ![instasize](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Key features**
 
@@ -119,6 +129,9 @@ Instasize is an app that you will find quite useful. The app was developed for i
 
 You can download the app on [Android](https://play.google.com/store/apps/details?id=com.jsdev.instasize&gl=US) and [iPhone.](https://apps.apple.com/us/app/instasize-photo-editor-video/id576649830)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Adobe Photoshop Lightroom**
 
 Another photo editing app you can find useful is Adobe Photoshop Lightroom. The app makes dozens of photo enhancement and editing products.
@@ -126,6 +139,9 @@ Another photo editing app you can find useful is Adobe Photoshop Lightroom. The 
 The Adobe Photoshop Lightroom is a cloud-based product where you can upload and edit batches of images together. Below are some of the features of Adobe Photoshop Lightroom
 
 ![adobe photoshop lightroom](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -142,6 +158,10 @@ You can download the app on [android](https://play.google.com/store/apps/details
 VSCO is another editing app you can use for your photo editing. VSCO has an easy-to-use UI and many useful functions. The enormous filter library, which can be used to improve your photographs and make them shareable, is its best feature.
 
 ![vsco](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-4.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -154,10 +174,21 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 
 The app is available for [Android](https://play.google.com/store/apps/details?id=com.vsco.cam&hl=en&gl=US) and [iPhone](https://apps.apple.com/us/app/vsco-photo-video-editor/id588013838)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 3\. Edit Photos and Add Date Stamps On The Computer
 
 Mac and windows have free image editing programs that allow you to copy an image from its source, paste it into the editor, crop it, resize it, and then save it. First, let's look at how to **edit a photo on a Mac.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Use the inbuilt photo on Mac to edit the photo
 
 Drag and drop your image onto the app window after launching the built-in Images app from your dock or **Finder > Applications** to begin editing photos on your Mac.
@@ -199,6 +230,9 @@ Step3Click on the text button.
 Step4Proceed to add date and time into the text area manually.
 
 ![add data and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-10.jpg)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5When ready, drag and slide the date to the area of the image where you wish to stamp it.
 
@@ -206,6 +240,10 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 Step6Finally, select File>Save to add your date to the picture.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Use an inbuilt app to edit photos on Windows
 
 Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the image you want to edit.
@@ -213,9 +251,17 @@ Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the imag
 Step2At the top of your screen, click on Edit & Create to get.
 
 ![click on edit create to get](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-12.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Add date stamps using Windows PC
 
 Step1Launching the Photos app will **add a date to a photo** when using a windows PC.
@@ -227,6 +273,9 @@ Step2Select Edit & Create > Edit with Paint 3D in the upper right corner of the 
 Step3Go to the screen's top and click Text.
 
 ![click on text](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-14.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4To create a text box, click and drag.
 
@@ -235,10 +284,17 @@ Step4To create a text box, click and drag.
 Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step6Select Menu in the upper-left corner.
 
 ![select menu](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-17.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 
 Step7Proceed to click on the Save option.
 
@@ -273,6 +329,9 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Wrinkle Remover
 * Blemish Remover
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 3\. PIXLR
 
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
@@ -285,6 +344,9 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 * Background Remover
 * Retouching of photo
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Hopefully, these steps will be helpful if you ever want to **add a date** or **edit your photos on your phone** or computer. Hence, next time you take a picture, consider doing some editing and adding a date stamp using these steps.
@@ -325,3 +387,38 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-amplifying-audience-engagement-on-igtv/"><u>[New] 2024 Approved  The Art of Amplifying Audience Engagement on IGTV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-seconds-to-enjoy-a-look-at-20mb-video-files/"><u>[New] In 2024, Seconds to Enjoy - A Look at 20MB Video Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience  Safe Area & PIP Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-10-insider-canva-tricks/"><u>[New] Unlocking Creativity  Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-maximize-views-with-these-top-rated-keyword-analysis-tools/"><u>[Updated] In 2024, Maximize Views with These Top-Rated Keyword Analysis Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-secrets-to-sharing-videos-on-instagram/"><u>[Updated] In 2024, Unlocking the Secrets to Sharing Videos on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>[Updated] Streamline Your Screen Experience  PIP Mastery for Mac Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>[Updated] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] Top Live Streaming Technologies for Broadcinas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures  A Pexels Search Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-power-of-srt-in-broadcasting/"><u>[Updated] Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved  Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved  Unleash Creativity  Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/capture-childhood-memories-effortlessly/"><u>Capture Childhood Memories Effortlessly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966712498-download-prolific-usb-to-serial-driver-on-windows-the-easy-way/"><u>Download Prolific Usb to Serial Driver on Windows - The Easy Way</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-vivo-y27-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Vivo Y27 4G Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-20c-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark 20C?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-scout-audible-assets-in-gaming-worlds/"><u>In 2024, Scout Audible Assets in Gaming Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-innovative-ai-based-podcast-name-generators/"><u>In 2024, Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review  All You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-vocalizing-text-pioneering-audio-to-written-content-conversion/"><u>New Vocalizing Text Pioneering Audio to Written Content Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-route-to-collecting-pictorial-frame-downloads-for-2024/"><u>The Route to Collecting Pictorial Frame Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-science-behind-whatsapp-voice-talks-for-2024/"><u>The Science Behind WhatsApp Voice Talks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion-for-2024/"><u>The Ultimate Handbook to Metaverse Promotion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/yi-4k-action-camera-review/"><u>YI 4K Action Camera Review</u></a></li>
+</ul></div>
