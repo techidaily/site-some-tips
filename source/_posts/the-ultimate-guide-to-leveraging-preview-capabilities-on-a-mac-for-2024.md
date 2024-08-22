@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024"
-date: 2024-07-12T14:00:39.081Z
-updated: 2024-07-13T14:00:39.081Z
+date: 2024-08-21T16:11:46.108Z
+updated: 2024-08-22T16:11:46.108Z
 tags: 
   - screen-recording
   - ai video
@@ -80,6 +80,9 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -92,6 +95,9 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -108,6 +114,9 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -140,6 +149,9 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -152,6 +164,18 @@ After opening an image, click **File** from the menu bar at the top, and click *
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Part 2: FAQs About Preview App on Mac
 
 #### What is the Preview App?
@@ -186,6 +210,9 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,3 +248,49 @@ Follow @Ollie Mattison
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-must-see-top-5-youtube-link-share-extensions/"><u>[New] 2024 Approved  Must-See Top 5 YouTube Link Share Extensions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-real-time-combination-of-screenwebcam-feed/"><u>[New] 2024 Approved  Real-Time Combination of Screen/Webcam Feed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-script-to-screenshot-crafting-viral-meme-gifs/"><u>[New] From Script to Screenshot  Crafting Viral Meme GIFs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-monotonous-to-mesmerizing-grading-guidance-for-editors/"><u>[New] In 2024, From Monotonous to Mesmerizing  Grading Guidance for Editors</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-techniques-for-efficiently-storing-fb-messenger-conversations/"><u>[New] In 2024, Techniques for Efficiently Storing FB Messenger Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-timing-translation-from-20mb-to-seconds-measurement/"><u>[New] Timing Translation  From 20Mb to Seconds Measurement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video  Elite Webcams for Podcasting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-chuckle-crafting-tool/"><u>[Updated] Chuckle Crafting Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-epic-youtube-playback-stories/"><u>[Updated] In 2024, Epic YouTube Playback Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-optimize-rl-recording-hardware-and-software/"><u>[Updated] In 2024, How to Optimize RL Recording Hardware & Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-independent-artists-guide-to-personalized-visual-tricks/"><u>[Updated] Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pivotal-user-feedback-a-look-at-vllo/"><u>[Updated] Pivotal User Feedback  A Look at VLLO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-pc-edition-of-image-overlay-mastery/"><u>[Updated] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-potential-with-the-vida-editing-suite/"><u>[Updated] Unleashing Potential with the Vida Editing Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt/"><u>[Updated] Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-20-top-anime-song-starters/"><u>[Updated] Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved  Kickstart Creative Video Editing with Xp Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supercharge-your-screens-with-video-enhancer-v22/"><u>2024 Approved  Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved  The Art of Photo Edits  Clearing Out Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>2024 Approved  Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>2024 Approved  Upcoming VR Masterpieces  Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-warriors-youtubes-top-ten-women/"><u>Digital Warriors  YouTube’s #Top Ten Women</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-beyond-the-norm-redefining-fun-with-vr-technology/"><u>In 2024, Beyond the Norm  Redefining Fun with VR Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-leading-the-charge-in-modern-presentation-recordings/"><u>In 2024, Leading the Charge in Modern Presentation Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>In 2024, The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party-for-2024/"><u>Optimal Energy Solutions for GoPro Hero5  Certified & Third-Party for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/redefining-collaboration-the-power-of-immersive-vr-for-2024/"><u>Redefining Collaboration  The Power of Immersive VR for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y78t-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y78t</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/setting-up-auto-play-youtube-content-on-facebook-platform/"><u>Setting Up Auto-Play YouTube Content on Facebook Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-eliminate-windows-unknown-value-warning/"><u>Strategies to Eliminate Windows Unknown Value Warning</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-s23-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel S23 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures  New Realms Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed-for-2024/"><u>Top 5 Cloud-Based Voice Customizers for Chrome OS  Vocal Transformation Tools Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight-for-2024/"><u>Unlocking Potential  The Right Propeller Match in FPV Flight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-success-in-podcasts-with-seo-know-how-for-2024/"><u>Unlocking Success in Podcasts with SEO Know-How for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+</ul></div>

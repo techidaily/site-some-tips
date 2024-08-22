@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips for Unlocking YouTube Video Comments\""
-date: 2024-07-12T13:53:40.044Z
-updated: 2024-07-13T13:53:40.044Z
+date: 2024-08-21T16:18:10.402Z
+updated: 2024-08-22T16:18:10.402Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,9 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -56,6 +59,9 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -74,10 +80,16 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
@@ -114,6 +126,12 @@ Comments history also contains the link to the video where you've left the comme
 
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -153,3 +171,58 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-compact-obs-setup-for-underpriced-pcs/"><u>[New] 2024 Approved  Compact OBS Setup for Underpriced PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-10-most-admirable-photo-frame-apps/"><u>[New] The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-importance-of-non-primary-footage-in-editing/"><u>[New] The Importance of Non-Primary Footage in Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>[New] The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[New] The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>[New] Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-15-color-grading-plugins-for-action-cam-video/"><u>[New] Ultimate 15 Color Grading Plugins for Action Cam Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-review-of-premium-pc-cameras-in-win-11-for-2024/"><u>[Updated] Comprehensive Review of Premium PC Cameras in Win 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailoring-your-headline-for-job-searches/"><u>[Updated] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[Updated] The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-role-of-visual-aids-in-pedagogy/"><u>[Updated] The Role of Visual Aids in Pedagogy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-1-online-festival-watching/"><u>[Updated] Top 1 Online Festival Watching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tips-for-iphones-hdr-images/"><u>[Updated] Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-creative-naming-top-10-ai-podcast-names/"><u>[Updated] Unleashing Creative Naming  Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-impact-techniques-for-ai-text-depth/"><u>[Updated] Unleashing Visual Impact  Techniques for AI Text Depth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-video-potential-nine-superior-stream-filters/"><u>[Updated] Unlock Your Video Potential  Nine Superior Stream Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-podcasts-peak-listening-times/"><u>[Updated] Unveiling Podcasts  Peak Listening Times</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>2024 Approved  The Strength of Details  Why HDR Triumphs Over SDR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-free-clip-art-licenses/"><u>2024 Approved  The Ultimate Guide to Free Clip Art Licenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-8-online-photo-montage-maker/"><u>2024 Approved  Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-film-aesthetics-using-luts/"><u>2024 Approved  Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-still-faces-picsarts-motion-blur-magic/"><u>2024 Approved  Transforming Still Faces  Picsart's Motion Blur Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tutorials-for-downgrading-macos-sierra-to-el-capitan/"><u>2024 Approved  Tutorials for Downgrading MacOS Sierra To El Capitan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-speed-in-video-production/"><u>2024 Approved  Unlock the Power of Speed in Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-potential-master-dvd-burning-with-your-mac/"><u>2024 Approved  Unlocking Potential  Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/contrastive-analysis-the-8-unique-features-of-myai-on-snapchat-against-bing-chat-on-skype/"><u>Contrastive Analysis: The 8 Unique Features of MyAI on Snapchat Against Bing Chat on Skype</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-t2-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-great-convertible-and-inexpensive-asus-chromebook-with-our-detailed-review/"><u>Experience a Great, Convertible & Inexpensive Asus Chromebook with Our Detailed Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c300-bootloader-easily-by-drfone-android/"><u>How to Unlock Nokia C300 Bootloader Easily</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-film-editing-expertise-exchange/"><u>In 2024, Film Editing Expertise Exchange</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streaming-soundscapes-on-your-iphone/"><u>In 2024, Streaming Soundscapes on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>In 2024, Streamlined Browsing  Navigating Multi-Screen Views in Chrome</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-workflow-fixes-for-adobe-premiere-srt-freeze/"><u>In 2024, Streamlining Workflow  Fixes for Adobe Premiere SRT Freeze</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tactics-for-transformative-first-moments-in-your-podcasts/"><u>In 2024, Tactics for Transformative First Moments in Your Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>In 2024, Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-for-gopro-professionals/"><u>In 2024, The Ultimate Guide for GoPro Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-design-discover-the-best-software-for-vectors/"><u>Pioneering Design  Discover the Best Software for Vectors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simple-steps-for-iphone-to-pc-file-shift-for-2024/"><u>Simple Steps for iPhone-to-PC File Shift for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smooth-start-gradual-appearance-for-2024/"><u>Smooth Start  Gradual Appearance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-freevista-vistas-treasuring-the-visual-wealth-of-costless-tiktok-screens-for-2024/"><u>The FREEvista Vistas  Treasuring the Visual Wealth of Costless TikTok Screens for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quintessential-list-best-tales-from-youtube-in-23-for-2024/"><u>The Quintessential List  Best Tales From YouTube in '23 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tips-for-a-smoother-gameplay-in-fortnite-putting-an-end-to-frustrating-delays/"><u>Tips for a Smoother Gameplay in Fortnite: Putting an End to Frustrating Delays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-online-music-venues-for-2024/"><u>Top 30 Online Music Venues for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-essential-ai-powered-chatbots-and-plugins-for-your-cryptocurrency-platform/"><u>Top 8 Essential AI-Powered Chatbots & Plugins for Your Cryptocurrency Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing-for-2024/"><u>Unleash Creativity with Ease  Mastering the Art of Photo Text Editing for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-with-top-10-youtube-short-video-editors-for-2024/"><u>Unleash Creativity with Top 10 YouTube Short Video Editors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-advanced-splitting-with-non-xsplit-apps-for-2024/"><u>Unlock Advanced Splitting with Non-Xsplit Apps for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung
-date: 2024-08-19 17:33:27
-updated: 2024-08-22 12:38:24
+date: 2024-08-21T15:49:47.698Z
+updated: 2024-08-22T15:49:47.698Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd29168db916ce8a5c89a69be.jpg
@@ -39,12 +39,27 @@ ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Ges
 
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Über den Geschäftsbereich Alaris von Kodak Alaris
 
 Kodak Alaris ist ein führender Anbieter von Informationserfassungslösungen, die Unternehmensprozesse vereinfachen. Wir unterstützen Unternehmen, Informationen sinnvoll mit intelligenten, vernetzten Lösungen zu nutzen, basierend auf innovativer Bildwissenschaft, die seit Jahrzehnten unsere Kernkompetenz darstellt. Unsere [ausgezeichneten](https://www.alarisworld.com/de-de/about-us/industry-recognition?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=brand) Scanner, Software und Services sind weltweit über unsere Channelpartner verfügbar. Für weitere Informationen besuchen Sie bitte [AlarisWorld.com](http://www.alarisworld.com/) und folgen uns unter [@AlarisDACH](https://twitter.com/AlarisDACH).
 
 ©2022 Kodak Alaris Inc. TM/MC/MR: Alaris. Alle Marken und Markennamen sind Eigentum ihrer jeweiligen Inhaber. Die Marke Kodak und das Logo von Kodak werden unter Lizenz von der Eastman Kodak Company verwendet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Unternehmenskontakt:
 
 Kodak Alaris Germany GmbH
@@ -61,6 +76,9 @@ E-Mail: [scannerfamilie@kodakalaris.com](https://tools.techidaily.com/abbyy/prod
 
 Internet: <http://www.AlarisWorld.com>
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pressekontakt:
 
 public touch –
@@ -93,3 +111,43 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2023-techniques-posting-tiktoks-on-twitter-for-2024/"><u>[New] 2023 Techniques  Posting TikToks on Twitter for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-global-cloud-savings-summary-comparing-and-choosing-the-cheapest/"><u>[New] In 2024, Global Cloud Savings Summary  Comparing and Choosing the Cheapest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sdr-evolution-into-hdri-the-ultimate-video-enhancers-handbook/"><u>[New] SDR Evolution Into HDRI  The Ultimate Video Enhancer's Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synching-worlds-instagram-to-tiktok-essentials/"><u>[New] Synching Worlds  Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-pristine-zoom-video-settings/"><u>[New] The Path to Pristine Zoom Video Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-runners-digital-dream-top-virtual-reality-walkers/"><u>[New] The Runner's Digital Dream  Top Virtual Reality Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-photography-frames/"><u>[New] Top 10 Photography Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-high-quality-low-speed-video-gear/"><u>[New] Top 5 High-Quality Low-Speed Video Gear</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-instagram-perfect-integration-of-twitters-visual-content/"><u>[Updated] 2024 Approved  Instagram-Perfect Integration of Twitter's Visual Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-polishing-the-best-ios-tools-for-removing-obstructions/"><u>[Updated] Swift Image Polishing  The Best iOS Tools for Removing Obstructions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>[Updated] The Art of Crafting Exceptional Instagram Ringtone Alerts  A Compreeved Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>[Updated] The Clear Path  A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-audfreexpress-assessment-users/"><u>[Updated] The Comprehensive AudFreeXpress Assessment Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-lg-bp350-review-audiovisual-performance-analysis/"><u>[Updated] The LG BP350 Review  Audiovisual Performance Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-motion-systems-scrutiny-report/"><u>[Updated] Total Motion Systems Scrutiny Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-insights-into-the-art-of-srt-file-creation/"><u>[Updated] Ultimate Insights Into the Art of SRT File Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-battle-of-video-players-vlc-vs-mx/"><u>2024 Approved  The Battle of Video Players  VLC Vs. MX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-learners-handbook-of-av1-technology/"><u>2024 Approved  The Learner's Handbook of AV1 Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-standard-edition-review-of-djis-drone-model-3/"><u>2024 Approved  The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-unlocking-youtube-video-comments/"><u>2024 Approved  Tips for Unlocking YouTube Video Comments</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Galaxy F14 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-dead-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover data from dead iPhone 12 mini | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-hot-30-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-language-liberation-discover-the-top-25-apps-for-flawless-video-conversion/"><u>In 2024, Language Liberation  Discover the Top 25 Apps for Flawless Video Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>In 2024, Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>In 2024, The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>In 2024, Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>In 2024, Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-integrating-visuals-into-windows-10-with-finesse/"><u>In 2024, Ultimate Guide  Integrating Visuals Into Windows 10 with Finesse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-metaverse-and-multimetase-distinctions-expert-explanation/"><u>In 2024, Unraveling Metaverse and Multimetase Distinctions (Expert Explanation)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/resolving-an-alone-earpiece-dilemma-for-2024/"><u>Resolving an Alone Earpiece Dilemma for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-instructions-for-prolonged-iphone-shots-for-2024/"><u>The Ultimate Instructions for Prolonged iPhone Shots for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-visuals-unleash-the-power-of-6-video-types-for-2024/"><u>Transformative Visuals  Unleash the Power of 6 Video Types for 2024</u></a></li>
+</ul></div>

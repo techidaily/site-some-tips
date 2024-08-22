@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Easy Path to Observing Well-Liked Comments on the Video Platform\""
-date: 2024-07-12T14:18:10.119Z
-updated: 2024-07-13T14:18:10.119Z
+date: 2024-08-21T15:53:50.196Z
+updated: 2024-08-22T15:53:50.196Z
 tags: 
   - screen-recording
   - ai video
@@ -83,10 +83,16 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Scroll down a little bit and click the **More** button.
 
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 Step3 Click the **Comments** section.
 
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
@@ -105,16 +111,25 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +162,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -187,3 +205,53 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/0-best-history-youtube-channels-for-students-and-history-lovers-for-2024/"><u>[New] 10 Best History YouTube Channels for Students & History Lovers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-5-browser-screen-recorders/"><u>[New] 2024 Approved  Top 5 Browser Screen Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-image-editors-ultimate-toolkit-review/"><u>[New] The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-potential-best-video-editing-hacks/"><u>[New] Unlock Your Potential  Best Video Editing Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-zooms-background-blurring-magic/"><u>[Updated] 2024 Approved  Mastering Zoom's Background-Blurring Magic</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-aesthetic-assembly-android-and-ios-video-sets-for-insta-for-2024/"><u>[Updated] Aesthetic Assembly  Android & iOS Video Sets for Insta for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>[Updated] Swift Listening on Spotify  How to Accelerate Audio Safely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tapping-into-community-spirit-a-guide-to-thriving-fb-gifting-campaigns/"><u>[Updated] Tapping Into Community Spirit  A Guide to Thriving FB Gifting Campaigns</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-financial-anatomy-of-youtube-shorts-money-splitting/"><u>[Updated] The Financial Anatomy of YouTube Shorts Money Splitting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hero5-users-blueprint-for-incredible-time-lapse-videos/"><u>[Updated] The Hero5 User's Blueprint for Incredible Time-Lapse Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-significance-of-video-in-client-promotional-power/"><u>[Updated] The Significance of Video in Client Promotional Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smartest-podcast-renaming-options-through-ai-technology/"><u>[Updated] The Smartest Podcast Renaming Options Through AI Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-avant-garde-creators-in-digital-media/"><u>[Updated] Top 5 Avant-Garde Creators in Digital Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-budget-friendly-pinterest-video-grabs/"><u>[Updated] Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tunes-twining-a-new-multimedia-approach/"><u>[Updated] Tunes Twining  A New Multimedia Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-a-complete-review-of-powerdirector-2024/"><u>[Updated] Unlocking Potential  A Complete Review of PowerDirector 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-timers-for-weddings-top-10-choices-on-phones/"><u>[Updated] Unmatched Timers for Weddings  Top 10 Choices on Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-pathway-to-perfected-kinemaster-edits/"><u>2024 Approved  The Ultimate Pathway to Perfected Kinemaster Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-ever-approved-reddit-threads-a-historical-list/"><u>2024 Approved  Top 10 Ever-Approved Reddit Threads  A Historical List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>2024 Approved  Ultimate Guide  Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>2024 Approved  Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-skin-deep-sage-setting-up-your-beauty-channel-for-2024/"><u>Becoming a Skin-Deep Sage  Setting Up Your Beauty Channel for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-cinematic-experiences-in-w11-interface/"><u>Crafting Cinematic Experiences in W11 Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-bootloader-easily-by-drfone-android/"><u>How to Unlock Itel Bootloader Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>In 2024, Streamline Your Video Projects  Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>In 2024, The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-beginners-guide-to-converting-spoken-words-to-written-form-ms-word/"><u>In 2024, The Beginner’s Guide to Converting Spoken Words to Written Form (MS Word)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>In 2024, The Metrics of Mastery  Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-footage-for-2024/"><u>New Beyond Quik Exploring the Best PC Video Editing Software for GoPro Footage for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-interruptions-during-steam-video-streaming/"><u>Preventing Interruptions During Steam Video Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-methods-syncing-ios-images-and-movies-to-windows-for-2024/"><u>Quick Methods  Syncing iOS Images & Movies to Windows for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-guide-to-efficient-video-capture-with-zd-software-tools-for-2024/"><u>Step-by-Step Guide to Efficient Video Capture with ZD Software Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast-for-2024/"><u>Stream Wars  Evaluating Streamers' Top Contenders, OBS & Wirecast for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/streamline-your-views-eradicate-lags-in-vlc/"><u>Streamline Your Views, Eradicate Lags in VLC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-artisans-approach-to-metaverse-laughter-and-online-jokes/"><u>The Artisan's Approach to Metaverse Laughter & Online Jokes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-guide-to-excellence-in-zoom-webinars-for-2024/"><u>The Insider’s Guide to Excellence in Zoom Webinars for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts-for-2024/"><u>The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/timeless-thread-triumphs-reddits-all-time-fave-list-top-10-for-2024/"><u>Timeless Thread Triumphs  Reddit’s All-Time Fave List (Top 10) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits-for-2024/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/untangling-the-video-jams-in-digital-portfolits-for-2024/"><u>Untangling the Video Jams in Digital Portfolits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-14-dynamic-text-animation-samples-for-2024/"><u>Unveiling 14 Dynamic Text Animation Samples for 2024</u></a></li>
+</ul></div>

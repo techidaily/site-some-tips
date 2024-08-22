@@ -1,7 +1,7 @@
 ---
 title: "Superior Screenplays Distributed Among Classified Types for 2024"
-date: 2024-07-12T13:31:56.917Z
-updated: 2024-07-13T13:31:56.917Z
+date: 2024-08-21T16:40:31.582Z
+updated: 2024-08-22T16:40:31.582Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,9 @@ As aspiring screenwriters, it is important for us to focus on markets where we c
 
 ## Part 2\. Scripts examples from 8 genre
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Best horror scripts
 
 **_1\. Annabelle_**
@@ -75,6 +78,9 @@ Part of its enduring appeal is the simplicity of its concept: A kid who murdered
 
 ![21 jump street](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Writer:** [Michael Bacall](https://en.wikipedia.org/wiki/Michael%5FBacall), [Stephen J. Cannell](https://en.wikipedia.org/wiki/Stephen%5FJ.%5FCannell)
 
 The script of 21 Jump Street gives a new twist to the Buddy action movie genre by giving comedy equal weight to action. It takes the premise of the original TV show but flips the tone from straightforward action to offbeat comedy. Always think, “How can I subvert genres? How can I mix genres and create something new?
@@ -87,6 +93,9 @@ Download the script here: <https://www.scriptslug.com/script/21-jump-street-2012
 
 ![the edge of seventeen](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 **Writer:** Kelly Fremon Craig
 
 How this amazing comedy drama script came about is a good example of a writer who punches above his weight. If you have a great comedy script and a favorite producer or director, there's nothing stopping you from sending it to them and seeing what happens.
@@ -95,6 +104,9 @@ That's exactly what new screenwriter [**Kelly Fremon Craig**](https://en.wikiped
 
 **Download the script here:** <https://www.scriptslug.com/script/the-edge-of-seventeen-2016>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Best Christmas play scripts
 
 _**1\. A Christmas Carol – Large Cast**_Every man has the power to do good.
@@ -111,12 +123,18 @@ _**2\. Angel's Poinsettia**_
 
 ![angel's poinsettia](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Writer:** Sally Painter
 
 Angel, a child fairy, learns a valuable lesson about caring for the sick when she runs away from home. Angel ventures into the human world, only her magic goes awry and she finds herself an unloved poinsettia plant. A homeless woman rescues Angel from a trash can and takes care of her back. Angel returns home with a greater appreciation for caring and caring for others. This skit takes approximately five minutes to complete.
 
 **Download the script here:** <https://cf.ltkcdn.net/christmas/files/2502-angels-poinsettia.pdf>
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best promotional video scripts
 
 ![best promotional video scripts](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-8.jpg)
@@ -161,6 +179,9 @@ Suitable for: _All ages_
 
 ![a gift](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 In this ten-minute play for two actors, two young men meet on a train. One is a serious young man on his way to propose to his girlfriend, the other is a cynical loner who advises the former to escape the wedding while he can. The council backfires and an earnest young man sets out on a journey, leaving the recluse in this comedy-drama with a wonderful twist to his story.
 
 **Download the script here:** <https://offthewallplays.com/2016/12/24/gift-ten-minute-play-for-two-actors/>
@@ -185,6 +206,9 @@ Level of difficulty: _6/10 – conversational, easy lines to remember and that a
 
 ![a walk in the park](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 When Jack meets Esther in the park one day, he swears she looks familiar. Although Esther initially denies that she even knows him, she invites him to sit down and they start talking. Jack tells her a story about a girl he knew a long time ago, a girl he called "Essie", who helped him get over another girl who broke his heart a long time ago. A short five-minute game for seniors - one man and one woman.
 
 **Download the script here:** <http://offthewallplays.com/wp-content/uploads/2018/12/WALK-IN-PARK-half-script-1.pdf>
@@ -211,6 +235,9 @@ Secret Agent James Bond sets out on a mission as 007 in a screenplay that can sh
 
 **Download the script:** <https://thescriptlab.com/script-library/casinoroyale-pdf/>
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Best thriller scripts
 
 **_1\. PRIMER_**
@@ -231,6 +258,9 @@ Download the script here: <https://www.takarabio.com/documents/User%20Manual/RR0
 
 ![unbreakable](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 **Writer:** M. Night Shyamalan
 
 Night Shyamalan (not necessarily a name you'd expect on a list of 'thriller screenplays you should read') has been praised as much for THE SIXTH SENSE as he is criticized for everything that isn't THE SIXTH SENSE, but UNBREAKABLE is a film that ironically, it breaks the mold.
@@ -261,10 +291,16 @@ Like any child of the 90s, I admit to having a soft spot for The Lion King. The 
 
 **Download the script here:** <https://www.studiobinder.com/blog/the-lion-king-script-screenplay-pdf-download/>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3\. Make your own short movie now
 
 Have you ever stored various videos and photos on a memory card or on the computer? Why not create a movie to show them off? Once finish making a great movie, you can share it with others in a variety of ways including on YouTube, Facebook, and Instagram. Your followers will be amazed at the extraordinarily delightful works. In fact, making a movie using your own photos, videos and audio is easy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Make a Video with Wondershare Filmora Easy Movie Maker
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a video editing software that enables users to create amazing videos efficiently using a wide range of powerful editing tools. It gives filters, animated elements, and other video effects. The filters and overlays allow transforming of video with a variety of filters and graphic overlays.
@@ -283,6 +319,9 @@ The [color tuning](https://tools.techidaily.com/wondershare/filmora/download/) f
 
 ![color tuning](https://images.wondershare.com/filmora/article-images/2022/07/best-screenplays-from-8-genre-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Creating video content that can potentially go viral is no longer a complicated process that takes an enormous amount of time and effort. Each of the scripts we featured in this article offers more than enough brilliant scripts that are going to impress your target audience. Make your own short movies and script plays using [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) and checks out additional features explained in the article.
@@ -316,3 +355,52 @@ Creating video content that can potentially go viral is no longer a complicated 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-eliminating-exposure-how-to-conceal-private-video-sections-for-2024/"><u>[New] Eliminating Exposure  How to Conceal Private Video Sections for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-iphones-guide-to-night-photography-excellence/"><u>[New] IPhone's Guide to Night Photography Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-latest-lg-360-camera-features-and-review/"><u>[New] Latest LG 360 Camera Features and Review</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-insta-metrics-comprehensive-ig-data-analysis-for-2024/"><u>[New] Mastering Insta Metrics  Comprehensive IG Data Analysis for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-guide-to-record-google-meet-in-your-browser-for-2024/"><u>[New] Quick Guide to Record Google Meet in Your Browser for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-top-tier-cameras/"><u>[New] The Ultimate List of Top-Tier Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-ps4ps5-voice-modification-handbook/"><u>[New] The Ultimate PS4/PS5 Voice Modification Handbook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost-for-2024/"><u>[New] Top Notch Voice Alteration for Valorant Players - Available at Zero Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-emotionally-enhanced-youtube-commentary/"><u>[Updated] 2024 Approved  Emotionally-Enhanced YouTube Commentary</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-video-recorder-disentangler/"><u>[Updated] In 2024, Video Recorder Disentangler</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamer-profitability-analysis-and-verification/"><u>[Updated] Streamer Profitability Analysis and Verification</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>[Updated] Supercharge Image Editing  10 Must-Know Pixlr Strategies</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tailoring-your-vimeo-experience-from-free-to-pro-for-2024/"><u>[Updated] Tailoring Your Vimeo Experience  From Free to Pro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-basics-of-electronic-story-craftsmanship/"><u>[Updated] The Basics of Electronic Story Craftsmanship</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-win11s-potential-with-zoom-conferencing/"><u>[Updated] Unleashing Win11's Potential with Zoom Conferencing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-tailored-volume-reduction-in-audacity/"><u>[Updated] Utilizing Tailored Volume Reduction in Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-leading-narrative-construction-sphere/"><u>2024 Approved  Leading Narrative Construction Sphere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-psd-text-direction/"><u>2024 Approved  Superior PSD Text Direction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-eight-master-your-photos-with-grid-masters/"><u>2024 Approved  The Elite Eight  Master Your Photos with Grid Masters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-path-to-stunning-hdr-portraits/"><u>2024 Approved  The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tales-best-yt-storytellers-for-23/"><u>2024 Approved  Top Tales  Best YT Storytellers for '23</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-80211n-wifi-drivers-for-windows-111087-download-now/"><u>Get the Newest 802.11N WiFi Drivers for Windows 11/10/8/7 - Download Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-21-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to 21 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-motorola-edge-40-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Motorola Edge 40</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-13c-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 13C to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-workplace-data-cloud-hubs/"><u>In 2024, Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>In 2024, Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/master-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-c65-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C65 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-ai-chatbot-moderation-and-its-effects/"><u>Navigating the World of AI Chatbot Moderation and Its Effects</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-gameplay-hurdles-god-of-war/"><u>Overcoming Gameplay Hurdles: 'God of War'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-success-without-xsplit-for-2024/"><u>Streaming Success Without Xsplit for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-youtube-video-transformations-into-mpegs-for-2024/"><u>Streamlining YouTube Video Transformations Into MPEGs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-supplements-for-superior-gopro-performance-for-2024/"><u>Superior Supplements for Superior Gopro Performance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-windows-8-podcast-apps-overview-for-2024/"><u>Superior Windows 8 Podcast Apps Overview for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-masterful-lunapic-photography-for-2024/"><u>The Complete Guide to Masterful LunaPic Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact-for-2024/"><u>The Ultimate Display Decoded  BenQ’s BL2711U and Its Professional Impact for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-picking-drones-balance-equipment-for-2024/"><u>The Ultimate Guide to Picking Drones' Balance Equipment for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-streaming-high-quality-cricket-matches-for-2024/"><u>The Ultimate Guide to Streaming High-Quality Cricket Matches for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mobile-vr-experiences-the-leading-10-headsets-for-2024/"><u>Top Mobile VR Experiences - The Leading 10 Headsets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats-for-2024/"><u>Transformative Power of VLC  From MP4 to a Multitude of Formats for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-5g-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G 5G (2023) fingerprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint-for-2024/"><u>Unlock the Potential  Tutorial on Enabling Speech Transcription in PowerPoint for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vectors-demystified-starting-point-and-software-selection-tips-for-2024/"><u>Vectors Demystified  Starting Point & Software Selection Tips for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Phones</u></a></li>
+</ul></div>

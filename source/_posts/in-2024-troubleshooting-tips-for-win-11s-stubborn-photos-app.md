@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Troubleshooting Tips for Win 11'S Stubborn Photos App"
-date: 2024-07-12T13:18:19.907Z
-updated: 2024-07-13T13:18:19.907Z
+date: 2024-08-21T16:53:40.730Z
+updated: 2024-08-22T16:53:40.730Z
 tags: 
   - screen-recording
   - ai video
@@ -56,6 +56,9 @@ Here is how to troubleshoot –
 1. From the list of Apps displayed on the screen, click ‘Windows Store Apps’ and press the ‘Next’ button.
 2. Now, the troubleshooter will troubleshoot every app within the Windows Store Applications and fix them in a jiffy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 2: Restore Default Libraries
 
 Restoring the default libraries would resolve the Windows 10 Photos App crash issues. Resetting the Photo App to its default source to a valid network, path fixes the case.
@@ -67,8 +70,20 @@ Restoring the default libraries would resolve the Windows 10 Photos App crash is
 
 ![windows 10 photos app crashes](https://images.wondershare.com/filmora/article-images/windows-10-photos-app-crashes-restore.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 1. Lastly, click on ‘Apply’ followed by ‘OK’ and the issue will be resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Solution 3: Reset it
 
 When you reset the Windows Photo App itself, your issue gets resolved. Plenty of Windows users have mentioned that resetting the Photo App has fixed the unresponsive or crashing app problems.
@@ -90,6 +105,10 @@ Let’s fix the issue by repairing the Photos App package installed on your comp
 3. Allow few minutes to make the changes effective and then restart the Windows 10 computer.
 4. Now, the Windows 10 Photos App won’t crash.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Solution 5: Reinstall Windows 10 Photos app
 
 Alternatively, if nothing works out in your favor, you can always fix Windows 10 Photos App crash issue by reinstalling Windows 10 Photos App. A corrupted Photos App might create disturbance for you, so reinstalling would get a fresh and bug free version on your system from the Microsoft Store.
@@ -107,8 +126,14 @@ From the above article, we have concluded that experiencing Windows 10 Photos Ap
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -144,3 +169,59 @@ Follow @Shanoon Cox
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-essential-words-in-the-digital-realms-lexicon/"><u>[New] Essential Words in the Digital Realm's Lexicon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>[New] Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-steam-with-your-switch-pro-controller/"><u>[New] Navigating Steam With Your Switch Pro Controller</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/implified-design-guide-add-your-own-style-to-your-video-shorts/"><u>[New] Simplified Design Guide  Add Your Own Style to Your Video Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syncopation-and-screenplay-directing-music-videos-with-ios/"><u>[New] Syncopation & Screenplay  Directing Music Videos with iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[New] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit  PixelPioneer's Reveal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-8-superior-online-srt-translation-tools/"><u>[New] Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-harnessing-the-full-potential-of-movie-maker-windows-8/"><u>[New] Unleashing Creativity  Harnessing the Full Potential of Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-free-video-embedding-for-dynamic-online-articles/"><u>[Updated] Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-from-bland-to-blockbuster-framing-videos-in-a-square-perspective/"><u>[Updated] In 2024, From Bland to Blockbuster  Framing Videos in a Square Perspective</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-practical-methods-reflecting-video-via-vlc-software-for-2024/"><u>[Updated] Practical Methods  Reflecting Video via VLC Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-high-quality-sound-recording-via-audacity/"><u>[Updated] The Art of High-Quality Sound Recording via Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thriving-livestreams-strategies-for-beginners-with-low-followers/"><u>[Updated] Thriving Livestreams  Strategies for Beginners with Low Followers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-screenplays-reflective-of-diverse-themes/"><u>[Updated] Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-what-are-the-best-sites-to-download-text-effects/"><u>[Updated] What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frame-your-vision-leading-lines-for-dynamic-iphone-photos/"><u>2024 Approved  Frame Your Vision  Leading Lines for Dynamic iPhone Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-movements-intova-xs-video-excellence/"><u>2024 Approved  Mastering Movements  Intova X's Video Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-accompanying-visual-content-with-music/"><u>2024 Approved  The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-incorporating-s2t-features-into-ppt/"><u>2024 Approved  The Art of Incorporating S2T Features Into PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-selection-best-photo-frame-software/"><u>2024 Approved  The Artisan's Selection  Best Photo Frame Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>2024 Approved  The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>2024 Approved  Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>2024 Approved  Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-top-hdr-camera-brands-and-features/"><u>2024 Approved  Unraveling Top HDR Camera Brands and Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-lost-reddit-content-instant-access-techniques/"><u>2024 Approved  Unveiling Lost Reddit Content  Instant Access Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/code-vein-freezing-problems-master-the-fix-with-these-proven-techniques/"><u>Code Vein Freezing Problems? Master the Fix with These Proven Techniques!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-of-the-netatmo-weather-station-the-ultimate-gadget-for-mobile-device-lovers/"><u>Expert Evaluation of the Netatmo Weather Station: The Ultimate Gadget For Mobile Device Lovers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-10-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Spark 10 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-s18-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo S18 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-of-crafting-impactful-spotify-ads/"><u>In 2024, The Essentials of Crafting Impactful Spotify Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-android-time-lapses-innovations-in-video-capture/"><u>In 2024, The Future of Android Time-Lapses  Innovations in Video Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>In 2024, The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-edge-40-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Edge 40 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-top-10-subtitle-editors-web/"><u>In 2024, Ultimate List  Top 10 Subtitle Editors Web</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-no-fee-visual-aids-for-2024/"><u>Navigating the World of No-Fee Visual Aids for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/nopriceplaybacks-securely-save-your-games-anytime-for-2024/"><u>NoPricePlaybacks  Securely Save Your Games Anytime for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-dialog-box-for-trusted-hardware-in-windows-11/"><u>Securing Dialog Box for Trusted Hardware in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tales-before-twilight-a-review-of-video-driven-narratives-for-2024/"><u>Tales Before Twilight  A Review of Video-Driven Narratives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fastest-way-to-scan-windows-files-for-2024/"><u>The Fastest Way to Scan Windows Files for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-polyglot-panorama-africas-linguistic-spectrum/"><u>The Polyglot Panorama: Africa’s Linguistic Spectrum</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-years-finest-photo-framers-and-organizers-compilation-for-2024/"><u>The Year's Finest Photo Framers & Organizers Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-smooth-transitioning-from-zoom-to-fb-live-events-for-2024/"><u>Tips for Smooth Transitioning From ZOOM to FB Live Events for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-video-editing-apps-for-macos-big-sur-11-for-2024/"><u>Top 6 Video Editing Apps for macOS Big Sur 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-seo-strategies-to-elevate-your-podcast-rankings-for-2024/"><u>Top-Tier SEO Strategies to Elevate Your Podcast Rankings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turn-out-clearer-snaps-ranking-the-most-effective-online-editors-for-2024/"><u>Turn Out Clearer Snaps  Ranking the Most Effective Online Editors for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-elevate-your-visuals-advanced-slideshow-techniques-in-final-cut-pro/"><u>Updated In 2024, Elevate Your Visuals Advanced Slideshow Techniques in Final Cut Pro</u></a></li>
+</ul></div>

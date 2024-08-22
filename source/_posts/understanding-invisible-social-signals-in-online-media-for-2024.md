@@ -1,7 +1,7 @@
 ---
 title: "Understanding Invisible Social Signals in Online Media for 2024"
-date: 2024-07-12T13:14:02.126Z
-updated: 2024-07-13T13:14:02.126Z
+date: 2024-08-21T16:58:26.395Z
+updated: 2024-08-22T16:58:26.395Z
 tags: 
   - screen-recording
   - ai video
@@ -95,12 +95,18 @@ Now you will see your comment history, including the date when you commented on 
 
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To see videos/comments you liked or disliked, please follow these steps as continuation:
 
 Step4 In the **Google My Activity** tab, click **Other activity**.
 
 ![other activity youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/other-activity-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
@@ -109,12 +115,35 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -147,6 +176,9 @@ Because understanding how to comment is only one aspect of the issue; very impor
 
 Try making a joke, pointing out something amusing, providing helpful information, or expressing sympathy or concern for a fan. Additionally, a simple thumbs-up or heart can go a long way to demonstrate that you are paying attention even if you aren't feeling very friendly (we all have bad days, it's OK!).
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did you know what a Highlighted comment is?
 
 A highlighted comment on YouTube aims to draw the content creator's attention with an automated feature.
@@ -189,3 +221,42 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-stealthy-watcher-fb-story-viewer-for-2024/"><u>[New] Stealthy Watcher  FB Story Viewer for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[New] Streaming Spectacle  How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-insiders-guide-to-perfected-picture-hues/"><u>[New] The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-a-beginners-guide-the-essentials-of-using-tiktok-macos/"><u>[Updated] 2024 Approved  A Beginner's Guide  The Essentials of Using TikTok (macOS)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-behind-the-scenes-youtubes-view-count-algorithm/"><u>[Updated] In 2024, Behind the Scenes  YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>[Updated] In 2024, Overwatch  The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-insights-into-full-periscope-utilization/"><u>[Updated] In-Depth Insights Into Full Periscope Utilization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-full-breakdown-of-facetunes-updated-features/"><u>[Updated] The Full Breakdown of Facetune's Updated Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>[Updated] Tomorrow's Digital Playground  A Comparative Study of Metaverse & Omniverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-brand-with-a-decades-worth-of-smm-wisdom-distilled-into-10-steps/"><u>[Updated] Transform Your Brand with a Decade's Worth of SMM Wisdom, Distilled Into 10 Steps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-trendsetters-pictures-origins-explored/"><u>[Updated] Trendsetters' Pictures  Origins Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-basics-an-approachable-hdr-review/"><u>[Updated] Unveiling the Basics  An Approachable HDR Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-iconic-vhs-visuals-to-transform-video-projects/"><u>2024 Approved  Iconic VHS Visuals to Transform Video Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>2024 Approved  The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-building-blocks-of-graphic-animation/"><u>2024 Approved  The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-pro-windows-10-mastery-hacks/"><u>2024 Approved  Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/commanding-attention-top-20-creative-tiktok-captions-for-2024/"><u>Commanding Attention  Top 20 Creative TikTok Captions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-elite-guide-to-gopro-side-by-side-shopping/"><u>In 2024, The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-strategic-approach-to-advertising-on-spotify/"><u>In 2024, The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-timeless-family-adventures-on-screen-this-season/"><u>In 2024, Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/join-the-giggle-roll-and-tearful-talks-on-instagram-memes-for-2024/"><u>Join the Giggle-Roll and Tearful Talks on Instagram Memes for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-vivo-y17s-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo Y17s? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/qualcomm-atheros-ar956x-driver-installation-for-wireless-adapters-free-download/"><u>Qualcomm Atheros AR956x Driver Installation for Wireless Adapters - Free Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speeding-up-periscope-live-broadcasting-tips-for-2024/"><u>Speeding Up Periscope Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symphony-of-sights-picture-plus-sound-videography-for-2024/"><u>Symphony of Sights  Picture + Sound Videography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-with-symphonies-music-on-whatsapp-status-for-2024/"><u>Syncing with Symphonies  Music on WhatsApp Status for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-words-on-the-screen-crafting-clear-concise-dialogue-for-2024/"><u>The Art of Words on the Screen  Crafting Clear, Concise Dialogue for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundation-defining-electronic-storytelling-for-2024/"><u>The Foundation  Defining Electronic Storytelling for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-gaming-escape-lgs-virtual-reality-journey-for-2024/"><u>The Ultimate Gaming Escape  LG's Virtual Reality Journey for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-ios-photo-alignment-and-cloud-synchronization-for-2024/"><u>The Ultimate Handbook  IOS Photo Alignment & Cloud Synchronization for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online-for-2024/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-speed-solutions-for-sluggish-android-videos-for-2024/"><u>Top Speed Solutions for Sluggish Android Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-voice-change-programs-for-2024/"><u>Ultimate List of Top Voice-Change Programs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>Unleash Creativity  A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Creative's Handbook  Obtaining Stock Visuals for Media\""
-date: 2024-07-12T14:18:31.953Z
-updated: 2024-07-13T14:18:31.953Z
+date: 2024-08-21T15:54:11.057Z
+updated: 2024-08-22T15:54:11.057Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,9 @@ If you looking for a royalty-free stock image website with beautiful collections
 
 Shutterstock supports photo collections from several categories such as tech, wildlife, business, sports, and many more. This platform is well-organized with an interactive user interface that makes it easy for you to navigate around it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Method 2: Use Background Remove Tools to Get Transparent Background
 
 Should you find images that suit your requirement but don't like the background, you can edit them. To do that, you need a background remover. There are several software programs designed for this purpose. Here are the top 4 you can use:
@@ -76,6 +79,9 @@ Should you find images that suit your requirement but don't like the background,
 
 ![media.io](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Media.io is an all-in-one media solution you can use to remove backgrounds from images without distorting the quality. This software program lets you transform your image background from solid color to a transparent one without stress.
 
 You can also count on this software to convert your media files, whether video, audio, or image, from one format to another. It also lets you compress large-size media files at zero cost fee.
@@ -116,12 +122,18 @@ Step2Next, drag and drop the video into the timeline just as shown in the image 
 
 ![drag and drop video into timeline](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now double-click the image in the timeline. A settings tab will pop up on your screen. Navigate around the settings option till you find **Chroma Key**. Kindly enable Chroma Key, and your photo background would become transparent automatically. Click on **OK** to confirm your actions then move to the next step.
 
 Step3Now that you've successfully transformed the background of your photo into a transparent one, locate and click on the **Export** button to save it to your local storage.
 
 ![click on the export button](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-8.png)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 1. **iMovie**
 
 ![imovie](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-9.jpg)
@@ -134,10 +146,22 @@ You don't need to be a tech guru to use this software. Thanks to the clean user 
 
 ![canvas](https://images.wondershare.com/filmora/article-images/2022/08/background-stock-images-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 With Canva, you can also remove background from your images conveniently. This Windows operating system compatible software lets you delete an image background so it appears transparent. It's one of the most versatile software to own.
 
 In addition to the functionalities of Canva, it can also be used to create aesthetic designs like logos, presentations, posters, flyers, ads video, etc. The software supports several customized templates that you can use to decorate your images.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Part 2\. How to Use a Background Media in your own Photos and Videos?
 
 Using background media in a photo or video is easy. All you need is professional photo or video editing software. We've introduced 4 amazing photo editors in the section above. Filmora is the best amongst them as it supports both video and photo editing.
@@ -185,3 +209,39 @@ In addition, we shared with you some of the best background editing software tha
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unleash-your-social-media-potential-find-the-best-8-instagram-timers/"><u>[New] 2024 Approved  Unleash Your Social Media Potential  Find the Best 8 Instagram Timers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-experts-choice-best-hdmi-21-display-models-evaluated/"><u>[New] Expert's Choice  Best HDMI 2.1 Display Models Evaluated</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-adjusting-low-bit-rate-settings-obs/"><u>[New] In 2024, Adjusting Low-Bit Rate Settings (OBS)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-photoshop-simplified-beginner-friendly-editing-secrets/"><u>[New] Photoshop Simplified  Beginner-Friendly Editing Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-prime-8-transformative-lenses-for-virtual-conferencing/"><u>[New] Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience  Safe Area & PIP Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quick-glitch-fix-for-podcast-broadcasts/"><u>[New] The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-10-insider-canva-tricks/"><u>[New] Unlocking Creativity  Top 10 Insider Canva Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-dive-into-ar-sticker-technology-and-alternatives/"><u>[Updated] A Dive Into AR Sticker Technology and Alternatives</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secrets-of-9-high-quality-webcam-enhancements/"><u>[Updated] Secrets of 9 High-Quality Webcam Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>[Updated] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] Top Live Streaming Technologies for Broadcinas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-tech-upgrading-phones-for-a-vr-experience/"><u>[Updated] Transformative Tech  Upgrading Phones for a VR Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures  A Pexels Search Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>[Updated] Unveiling the Magic  Transforming Scenes with GoPro Timelapse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved  Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>2024 Approved  The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved  Unleash Creativity  Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/balancing-frequency-and-quality-in-youtube-video-uploads-for-2024/"><u>Balancing Frequency & Quality in YouTube Video Uploads for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-breaking-ground-in-easy-modern-nft-creation-techniques/"><u>In 2024, Breaking Ground in Easy, Modern NFT Creation Techniques</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-7-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 7 Plus Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tech-assisted-jogs-top-virtual-reality-walking-machines-explored/"><u>In 2024, Tech-Assisted Jogs  Top Virtual Reality Walking Machines Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-innovative-ai-based-podcast-name-generators/"><u>In 2024, Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review  All You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-black-ops-cold-war-effective-fixes-for-episode-8-8-7-a00-groovy-code/"><u>Mastering Black Ops Cold War: Effective Fixes for Episode 8-8-7 A00 Groovy Code</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-route-to-collecting-pictorial-frame-downloads-for-2024/"><u>The Route to Collecting Pictorial Frame Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-science-behind-whatsapp-voice-talks-for-2024/"><u>The Science Behind WhatsApp Voice Talks for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-getting-your-frozen-airpods-back-in-action/"><u>Troubleshooting Tips: Getting Your Frozen AirPods Back in Action</u></a></li>
+</ul></div>

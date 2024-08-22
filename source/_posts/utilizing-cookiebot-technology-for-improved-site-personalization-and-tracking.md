@@ -1,7 +1,7 @@
 ---
 title: Utilizing Cookiebot Technology for Improved Site Personalization and Tracking
-date: 2024-08-20 11:40:38
-updated: 2024-08-22 10:48:17
+date: 2024-08-21T15:53:16.309Z
+updated: 2024-08-22T15:53:16.309Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146a8bbd42e4f0e8dd5abd0510.jpg
@@ -62,6 +62,12 @@ Common use cases for OCR solutions can include organizations to facilitate compl
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How it works
 
 IDP incorporates optical character recognition (OCR) to convert printed or handwritten text into typed text/machine-readable format. IDP also applies artificial intelligence (AI) and machine learning (ML) techniques to read, understand and process structured, semi-structured, and unstructured data in documents like a human.
@@ -88,6 +94,9 @@ IDP technology closely mirrors the way humans understand and manage documents, s
 * **Scalability.** As business operations grow, the volume of documents to be processed also increases. IDP solutions can easily scale to handle larger document volumes without a proportional increase in labor costs.
 * **Easy integration to company workflow.** IDP can be integrated with other digital systems and workflows to enable seamless and efficient digitization of business processes across company departments and your entire organization.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What’s the difference between OCR and IDP?
 
 OCR has been around for a long time and is known as a document capture-related technology. **OCR is primarily used to extract text from paper documents, scanned images or photographs and convert them into typed text that can be edited digitally on a computer.**
@@ -123,6 +132,9 @@ Research shows that 90 percent of organizations see potential customers abandon 
 
 With intelligent document processing, you can take away the bottlenecks that lead to abandonment. [Businesses can leverage IDP technology for identity proofing](https://tools.techidaily.com/abbyy/products/) and identity affirmation, which make it easier for customers and more secure for businesses. IDP can capture and classify ID documents like driving licenses or passports, or supporting documents like bank statements or utility bills, that are needed for proof of address. For example, it can be used by the department of motor vehicles (DMV) for a driver license renewal or a bank for mortgage applications.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OCR vs. IDP: Which is best for your business?
 
 **OCR can sometimes be mistaken as an IDP platform, when, in fact, IDP has far broader capabilities.**. OCR focuses primarily on extracting full text from images and documents so that it can be transferred and edited on a computer screen. It recognizes different font styles, images and handwritten notes and translates them into editable and searchable digital text. For businesses looking for digital archiving solutions or to create assistive technologies that require excellent text recognition, PDF conversion, and data capture functionalities, an OCR solution is best-suited. You can get excellent document capture functionalities with [ABBYY’s OCR Software Development Kit.](https://tools.techidaily.com/abbyy/products/) (SDK)
@@ -131,6 +143,9 @@ With intelligent document processing, you can take away the bottlenecks that lea
 
 [Request demo](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Frequently asked questions
 
 [Does IDP use OCR?](https://tools.techidaily.com/abbyy/products/)
@@ -171,6 +186,23 @@ OCR (optical character recognition) and IDP (intelligent document processing) te
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 Slavena Hristova
 
 Director of Product Marketing, Vantage group at ABBYY
@@ -241,3 +273,46 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-securing-every-moment-tips-for-reliable-capture-of-google-meet-sessions/"><u>[New] In 2024, Securing Every Moment  Tips for Reliable Capture of Google Meet Sessions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-video-sectioning-mastery-in-vimeo-videos/"><u>[New] In 2024, Video Sectioning Mastery in Vimeo Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-synergy-wearable-helps-open-mac-gadgets-for-2024/"><u>[New] Seamless Synergy  Wearable Helps Open Mac Gadgets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>[New] Sharpen Your Shots  Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>[New] Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamsavvy-exploring-alternatives-to-dacast/"><u>[New] StreamSavvy  Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers/"><u>[New] Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-tutorial-on-making-an-impact-with-instagram-live/"><u>[Updated] In 2024, The Ultimate Tutorial on Making an Impact with Instagram Live</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-restoring-visibility-in-your-youtube-screens/"><u>[Updated] Restoring Visibility in Your YouTube Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-script-architect-space/"><u>[Updated] Superior Script Architect Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-photo-edits-clearing-out-backgrounds/"><u>[Updated] The Art of Photo Edits  Clearing Out Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>[Updated] The Art of Shots  Discover the Best Camera Angles for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[Updated] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast/"><u>[Updated] The Stream Reversal Manual  An 18-Step Guide to Control Your Broadcast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-effortless-gameplay-enhancement-with-simple-screen-recorders/"><u>2024 Approved  Effortless Gameplay Enhancement with Simple Screen Recorders</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-hangout-history-capture-and-keep/"><u>2024 Approved  Hangout History  Capture & Keep</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-the-science-and-art-of-attention-grabbing-titles/"><u>2024 Approved  Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>2024 Approved  The Power of Networking  Building Strong Relationships with Stakeholders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-top-picks-elite-4k-displays-for-cutting-edge-editing/"><u>2024 Approved  Top Picks  Elite 4K Displays for Cutting-Edge Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-creative-potential-with-filmora-answers/"><u>2024 Approved  Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-pop-8-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Pop 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-gaming-experience-expert-tips-for-achieving-120fps-on-ps5/"><u>Elevate Your Gaming Experience: Expert Tips for Achieving 120FPS on PS5</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-why-doesnt-the-ascent-work-on-my-pc-solutions-and-fixes/"><u>Expert Advice: Why Doesn't 'The Ascent' Work on My PC? Solutions and Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-an-abrupt-failure-of-your-automobiles-sound-system/"><u>Fixing an Abrupt Failure of Your Automobile's Sound System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-g42-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia G42 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-12-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 12 for Free</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-poco-c51-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Poco C51 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-speedy-realignment-youtube-videos-for-mac-views/"><u>In 2024, Speedy Realignment  YouTube Videos for MAC Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>In 2024, Streamlining Your Process  Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-supplements-to-enhance-gopro/"><u>In 2024, Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-imaging-embracing-quantum-hdr/"><u>In 2024, The Future of Imaging  Embracing Quantum HDR</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-restore-calling-functions-on-android-phones/"><u>Step-by-Step Solutions to Restore Calling Functions on Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-melodies-with-inshot-clips-for-2024/"><u>Synchronizing Melodies with InShot Clips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tactics-for-transformative-first-moments-in-your-podcasts-for-2024/"><u>Tactics for Transformative First Moments in Your Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-smoothing-iphone-pics-4-methods-for-2024/"><u>The Ultimate Guide to Smoothing iPhone Pics (4 Methods) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-plan-to-grow-your-subscriber-base-for-2024/"><u>The Ultimate Plan to Grow Your Subscriber Base for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed-for-2024/"><u>The Ultimate Resource  50+ No-Fee Visual Effects Websites Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-text-boosting-techniques-in-videos-for-2024/"><u>Top 10 Text Boosting Techniques in Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>Unleash Speed  Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
+</ul></div>

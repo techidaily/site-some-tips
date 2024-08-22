@@ -1,7 +1,7 @@
 ---
 title: "[New] Top Picks for Shining 3D Type Designs with a Golden Touch"
-date: 2024-07-12T13:38:12.677Z
-updated: 2024-07-13T13:38:12.677Z
+date: 2024-08-21T16:34:08.754Z
+updated: 2024-08-22T16:34:08.754Z
 tags: 
   - screen-recording
   - ai video
@@ -79,6 +79,9 @@ Step3 **Download** the best option according to your requirement.
 * Rude support staff.
 * Restrictions are applicable even for paid users to download only 100 resources per day.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Behancē
 
 Behancē is another superb tool from which you can get 3D gold text effects, cinematic texts, and mockups. It's a child company of Adobe. The platform gives a chance to hard-working creators from all over the world to upload their work, get connected to other designers and employers, and maybe land a deal.
@@ -113,6 +116,9 @@ Step3 Check for a link. If the link is free, you just proceed to the **Download*
 
 ![downloading 3d gold text behance](https://images.wondershare.com/filmora/article-images/downloading-3d-gold-text-behance.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Resource Richness**
 
 Behancē is the only place where you'll find some of the best creators in the whole globe. You can easily trust the resource, as only original work is available here.
@@ -123,12 +129,19 @@ Behancē is the only place where you'll find some of the best creators in the wh
 * Even if the download link is free, you'll have to sign up on various sites.
 * The premium content requires a subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Vecteezy
 
 Vecteezy is a genuine resource for finding 3D gold text effects for videos, stock photos, vector images, icons, videos, and illustrations. You can get high-quality graphic material for creating amazing websites and other marketing products.
 
 ![3d gold text behance vecteezy](https://images.wondershare.com/filmora/article-images/3d-gold-text-behance-vecteezy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 **Pricing**
 
 Both free and paid versions are available. A yearly unlimited subscription is $54.00/year. A monthly unlimited subscription is $7.00/month.
@@ -170,6 +183,9 @@ Envato Elements is an awesome website that possesses billions of quality artwork
 
 ![envato elements 3d gold text effects](https://images.wondershare.com/filmora/article-images/Envato-Elements-3d-gold-text-effects.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Pricing**
 
 The Individual plan starts from $16.50/month. For students, the pricing is $11.50/month.
@@ -196,6 +212,9 @@ Step3 Click **“Subscribe to download,”** fill in the necessary details, and 
 
 ![finding 3d gold text effects envanto elements](https://images.wondershare.com/filmora/article-images/finding-3d-gold-text-effects-envanto-elements.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Resource Richness**
 
 Envato Element is constantly being updated with high-quality artwork daily. Moreover, learners can access ebooks, tutorials, how-to articles, and more to enhance their knowledge.
@@ -234,6 +253,9 @@ Step2 Search **“3D gold text”** in the search bar.
 
 ![searching 3d gold text hyperpix](https://images.wondershare.com/filmora/article-images/searching-3d-gold-text-hyperpix.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Step3 **Download** the free or paid content.
 
 **Limitations**
@@ -242,6 +264,9 @@ Step3 **Download** the free or paid content.
 * Refunds are not processed immediately.
 * The free library is minimal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 6\. Pikbest
 
 Pikbest is a massive resource for downloading epic 3D models, 3D gold text effects, illustrations, PNG images, presentations, audio and video files, background images, and more.
@@ -273,6 +298,9 @@ Step3 Select the **Free download** or **Personal Premium** download option and *
 
 ![downloading 3d gold text effect pikbest](https://images.wondershare.com/filmora/article-images/downloading-3d-gold-text-effect-pikbest.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Resource Richness**
 
 Daily, more than 1,000 graphic materials, including 3D gold text effects, are uploaded by several professional designers.
@@ -282,12 +310,18 @@ Daily, more than 1,000 graphic materials, including 3D gold text effects, are up
 * For free download, you'll have to give attributions.
 * Free material is not available to use commercially.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. GraphicRiver
 
 Graphicriver, part of Envato Elements, is an excellent place for creators to download 3D gold text effects, fonts, logos, web elements, print elements, vector images, and presentations for using them in videos. It's an affordable website for freelancers and has a very basic UI that makes it easy to use.
 
 ![graphicriver 3d gold text effect](https://images.wondershare.com/filmora/article-images/graphicriver-3d-gold-text-effect.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Pricing**
 
 The price of each asset varies between $2 to $500\. Envato Elements membership is also valid on GraphicRiver.
@@ -327,6 +361,9 @@ PNGTree is last on our list, which provides 3D gold text effects, PNG images, te
 
 ![3d gold text PNGTree](https://images.wondershare.com/filmora/article-images/3d-gold-text-PNGTree.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 **Pricing**
 
 The 3-month plan is $69\. The 6-months plan is $109\. The annual plan is $179\. There's also a lifetime plan for $199.
@@ -357,6 +394,9 @@ Step3 Click on **“Download.”**
 * Bad reviews on the internet.
 * Poor customer service.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## How to Edit Text Effects in Video?
 
 The above are the best 8 websites to find 3D gold text effects. However, if you want to be artistic and create your own 3D gold text, we recommend using Wondershare Filmora.
@@ -377,6 +417,9 @@ Step2 Select the **Project Media** folder, import your video, and drag a clip on
 
 ![viewing text effects filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Choose a text effect template, drop it in the timeline, and position the text layer in the video. Finally, click **“Viewer,”** adjust the text effect on the clip, select the text layer, and simply enter your text words.
 
 ![editing text effects in video filmora](https://images.wondershare.com/filmora/guide/edit-text-effects.png)
@@ -418,3 +461,65 @@ Recommendation - 8 websites to find 3D gold text
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-to-adding-music-to-vimeo-videos/"><u>[New] A Step-by-Step to Adding Music to Vimeo Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>[New] Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-web-microphones-at-a-glance/"><u>[New] Best Web Microphones at a Glance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-finalizing-your-linkedin-journey-steps-for-termination-for-2024/"><u>[New] Finalizing Your LinkedIn Journey  Steps for Termination for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-savvy-approach-to-downloading-apods-content/"><u>[New] Tech-Savvy Approach to Downloading APods Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>[New] The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>[New] The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>[New] Transform Your Workflow  Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unveiling-efficient-techniques-in-screencastify-recording/"><u>[New] Unveiling Efficient Techniques in Screencastify Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solved-auto-unloading-issue/"><u>[Solved] Auto Unloading Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-premier-alternative-activities-to-watching-sports/"><u>[Updated] 10 Premier Alternative Activities to Watching Sports</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>[Updated] 2024 Approved  80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-ipad-recording-tools-3-edition/"><u>[Updated] 2024 Approved  Essential iPad Recording Tools  #3 Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-call-capturing-on-windowsmac-the-comprerances-list/"><u>[Updated] Efficient Call Capturing on Windows/Mac - The Comprerances' List</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-interpreting-the-functionality-behind-blue-icons-in-chat-apps-for-2024/"><u>[Updated] Interpreting the Functionality Behind Blue Icons in Chat Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>[Updated] The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-insight-navigating-through-googles-podcast-app/"><u>[Updated] Total Insight  Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-best-on-screen-capture-devices/"><u>[Updated] Ultimate Camera Guide  2024'S Best On-Screen Capture Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-whatsapps-vocal-messaging-secrets/"><u>[Updated] Unlocking WhatsApp's Vocal Messaging Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[Updated] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-to-visuals-converting-tweets-to-costless-cgi-for-2024/"><u>[Updated] Viral Video to Visuals  Converting Tweets to Costless CGI for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-adding-emojis-in-youtube-discussions/"><u>2024 Approved  Adding Emojis in YouTube Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-hp-envy-27s-4k-features/"><u>2024 Approved  The Complete Guide to HP Envy 27'S 4K Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-editing-game-changer-fcps-best-10-plugins/"><u>2024 Approved  The Editing Game Changer  FCP's Best 10 Plugins</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>2024 Approved  The Ultimate Showdown  GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>2024 Approved  Tips & Tricks for Effective CD Handling with WMP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audience-hooks-writing-captivating-podcast-descriptions-for-2024/"><u>Audience Hooks  Writing Captivating Podcast Descriptions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/budget-friendly-syma-107g-rc-helicopter-comprehensive-user-guide-and-reviews/"><u>Budget-Friendly Syma 107G RC Helicopter - Comprehensive User Guide & Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cost-effective-yet-questionable-accuracy-a-comprehensive-review-of-the-thermopro-tp67/"><u>Cost-Effective Yet Questionable Accuracy: A Comprehensive Review of the ThermoPro TP67</u></a></li>
+<li><a href="https://facebook.techidaily.com/creating-engaging-job-posts-on-facebook/"><u>Creating Engaging Job Posts on Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-download-compatible-sound-driver-software-for-windows-7-systems/"><u>Free Download: Compatible Sound Driver Software for Windows 7 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grau-gmbhs-comprehensive-guide-to-professional-video-repair-techniques-and-tools/"><u>Grau GmbH's Comprehensive Guide to Professional Video Repair Techniques and Tools</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-crafting-success-in-youtubes-creator-hub/"><u>In 2024, Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-find-n3-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Find N3 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-e13-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto E13 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-slug-lines-into-your-writing-process/"><u>In 2024, Integrating Slug Lines Into Your Writing Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-compilation-of-2023-writers-on-youtube/"><u>In 2024, The Ultimate Compilation of 2023’ Writers on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-digital-collage-crafting-software/"><u>In 2024, TOP 8 Digital Collage Crafting Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-worlds-of-gigantic-intelligent-language-models/"><u>Inside Worlds of Gigantic, Intelligent Language Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professional-data-annihilation-explained-bitraser-enterprise-edition-video-tutorial/"><u>Professional Data Annihilation Explained – BitRaser Enterprise Edition Video Tutorial</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-with-enhanced-exposure-controls-for-2024/"><u>Pushing Boundaries with Enhanced Exposure Controls for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-horizon-capture-versus-focused-dimensionality-for-2024/"><u>Total Horizon Capture Versus Focused Dimensionality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-podcasts-identity-with-ai-name-makers-for-2024/"><u>Transform Your Podcast's Identity with AI Name Makers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-get-discord-overlay-back-up-and-running/"><u>Troubleshooting Guide: How to Get Discord Overlay Back Up & Running</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshooting-your-chatgpt-sign-in-woes-efficiently/"><u>Troubleshooting Your ChatGPT Sign-In Woes Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-imessage-block-notifications-and-indicators/"><u>Understanding iMessage Block Notifications & Indicators</u></a></li>
+</ul></div>

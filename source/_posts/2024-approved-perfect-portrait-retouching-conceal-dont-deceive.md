@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Perfect Portrait Retouching  Conceal, Don't Deceive\""
-date: 2024-07-12T14:10:06.257Z
-updated: 2024-07-13T14:10:06.257Z
+date: 2024-08-21T16:01:38.306Z
+updated: 2024-08-22T16:01:38.306Z
 tags: 
   - screen-recording
   - ai video
@@ -61,6 +61,9 @@ If you want to blur face Photoshop, follow the steps below.
 1. Dial the radius up; do this until the face is completely blurred.
 2. Hit the OK button to apply the effect and save the new image on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Blur the Background in Photoshop
 
 You can create beautiful soft backgrounds in Photoshop using the blur effect. Using Photoshop blur part of image helps you increase the focus on a subject. To learn how to blur the background on photoshop, follow the steps below:
@@ -97,6 +100,9 @@ Photoshop allows you to blur text on your image to hide some information from vi
 
 ![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 1. Draw a selection around the text you want to blur.
 2. Now, go to Filter and choose Blur. Select the Gaussian Blur option.
 
@@ -106,9 +112,15 @@ Photoshop allows you to blur text on your image to hide some information from vi
 
 ![blur text in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 1. Increase or decrease the blur effect in the Radius option.
 2. Click on File on the menu bar and select Save As to save your edited image with blurred text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Frequently Asked Questions About Blur Photos in Photoshop
 
 #### What Options Do I Have When Using Photoshop to Blur Images?
@@ -150,10 +162,16 @@ For macOS 10.12 or later
 
 ![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 1. Target the video clip on the timeline and click on the Effects options, then select Utility on the side menu.
 
 ![how to blur face in video using filmora](https://images.wondershare.com/filmora/article-images/2022/03/blur-faces-in-photoshop-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 1. Drag the Mosaic effect above the footage you want to edit. It will create a small blur area in the middle of the preview screen.
 2. Look at your main tracks before making adjustments to ensure you don't move them by accident.
 3. Clicking on the preview window will end up highlighting the mosaic blurred layer.
@@ -162,6 +180,9 @@ For macOS 10.12 or later
 6. Click OK to save the changes you have made.
 7. Export to save your video. Be sure to choose the right format for your video and the save option.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 ● Now that you know how to blur faces in Photoshop, you can use it to draw focus to your photos and enhance emotions. Use Filmora to blur faces on videos if you want to hide the identity of anyone in your videos.
@@ -195,3 +216,46 @@ For macOS 10.12 or later
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-10-youtube-music-how-toes-2023-edition/"><u>[New] 2024 Approved  Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-superior-solutions-top-bdr-softwares-for-windows-macos/"><u>[New] Superior Solutions  Top BDR Softwares for Windows, macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-audio-tools-for-professional-podcast-creators/"><u>[New] Top Audio Tools for Professional Podcast Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit  PixelPioneer's Reveal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software/"><u>[New] Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blades-high-dynamic-range-redefined-in-four-kaps/"><u>[Updated] Blade's High Dynamic Range Redefined in Four Kaps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-integrating-end-screen-elements-with-vimeo-for-2024/"><u>[Updated] Integrating End Screen Elements with Vimeo for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-micro-film-narrative-blueprint/"><u>[Updated] Micro-Film Narrative Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer  Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-high-quality-sound-recording-via-audacity/"><u>[Updated] The Art of High-Quality Sound Recording via Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-screenplays-reflective-of-diverse-themes/"><u>[Updated] Unrivaled Screenplays Reflective of Diverse Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-what-are-the-best-sites-to-download-text-effects/"><u>[Updated] What Are The Best Sites To Download Text Effects?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-audiophile-tools-best-audio-interfaces-for-podcasters/"><u>2024 Approved  Audiophile Tools  Best Audio Interfaces for Podcasters</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-voice-over-recording-for-videos/"><u>2024 Approved  Mastering Voice-Over Recording for Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-access-to-youtube-srt-files-three-key-points/"><u>2024 Approved  Swift Access to YouTube SRT Files  Three Key Points</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-accompanying-visual-content-with-music/"><u>2024 Approved  The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-4k-monitors-spotlight-on-bl2711u-by-benq/"><u>2024 Approved  The Professional's Guide to 4K Monitors - Spotlight on BL2711U by BenQ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-iphone-user-manual-for-water-imagery/"><u>2024 Approved  The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>2024 Approved  Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>2024 Approved  Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976337668-get-your-canon-mf743cdw-windows-compatible-printing-solutions-here/"><u>Get Your Canon MF743CDW Windows-Compatible Printing Solutions Here!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-optimal-sonic-selections-android-centric/"><u>In 2024, Optimal Sonic Selections, Android-Centric</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sunny-side-up-videography-for-android/"><u>In 2024, Sunny Side-Up Videography for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-android-time-lapses-innovations-in-video-capture/"><u>In 2024, The Future of Android Time-Lapses  Innovations in Video Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>In 2024, The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>In 2024, Unveiling Facetune's Potential  Photo Editing Like Never Before</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-global-chatgpt-anywhere-connectivity/"><u>Navigating Global ChatGPT: Anywhere Connectivity</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-tips-shrink-your-mov-files-by-transforming-them-into-compact-xvid-format/"><u>Quick Tips: Shrink Your MOV Files by Transforming Them Into Compact XviD Format</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-mini-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 mini Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-uncomplicated-hdr-techniques-for-2024/"><u>The Fundamentals of Uncomplicated HDR Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-from-tweet-vids-to-mp3-audio-files-for-2024/"><u>The Ultimate Guide  From Tweet Vids to MP3 Audio Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-seo-strategies-to-elevate-your-podcast-rankings-for-2024/"><u>Top-Tier SEO Strategies to Elevate Your Podcast Rankings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-android-photo-fixes-for-2024/"><u>Ultimate Guide to Android Photo Fixes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-design-your-own-logos-using-template-assets-free-for-2024/"><u>Unleash Creativity  Design Your Own Logos Using Template Assets (Free) for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-beginner-friendly-choir-separation-technology-for-professional-use/"><u>Updated Beginner-Friendly Choir Separation Technology for Professional Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-exclusive-club-festivities-after-vidcon-for-2024/"><u>Youtube's Exclusive Club  Festivities After VidCon for 2024</u></a></li>
+</ul></div>

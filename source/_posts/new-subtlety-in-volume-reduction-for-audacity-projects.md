@@ -1,7 +1,7 @@
 ---
 title: "[New] Subtlety in Volume Reduction for Audacity Projects"
-date: 2024-07-12T13:20:27.853Z
-updated: 2024-07-13T13:20:27.853Z
+date: 2024-08-21T16:51:42.921Z
+updated: 2024-08-22T16:51:42.921Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,10 @@ Choose your audio segment, go to the Effect menu, slide to the bottom, and pick 
 
 A dialog box will show up on the screen when you choose the customizable fade option. You may customize the form and pattern of the fading using that dialog box. You may use this ability to make partial fades if you'd like. You must maintain the tracks stacked one on top of the other with the lower track underneath the higher track and its end overlapping when employing this form of fade.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### **Steps to Use Adjustable Fade:**
 
 * Select Effect from the menu.
@@ -57,6 +61,12 @@ A dialog box will show up on the screen when you choose the customizable fade op
 
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Crossfades Audacity
 
 There are two choices available when using this effect. You have two options: either manually make a crossfade of your own, or utilize one of the pre-existing crossfades in Audacity. In Audacity, there are two crossfades that are accessible. Crossfade clips and Crossfade tracks are what they are. Crossfade clips make it easier to switch between two distinct clips. Additionally, crossfade tracks aid in crossfading between two audio tracks and are more exact.
@@ -69,8 +79,14 @@ Select the area to be crossfaded using the Selection tool, and then click Effect
 
 ![crossafade audio with audacity](https://images.wondershare.com/filmora/article-images/2022/07/crossafade-audio-with-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 Use your Selection tool to organize the clips such that a crossfade will be applied between two clips on different tracks. Go to Effect > Crossfade Songs, place the cursor where you want the fade to begin, then drag it across the tracks you wish to blend.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5\. Alternative Way to Fade Audio
 
 Even though it's still thought of as difficult, time-consuming work, audio editing is really pretty easy with the correct program or tool. The quality of audio tracks in a video is often disregarded by amateur video producers. In addition to having advanced features like 4K editing support, GIF support, noise removal, color tuning, an advanced text editor, an audio mixer, video stabilization, scene detection, and an audio equalizer, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is fairly simple to use and allows for extensive customization of pre-existing templates.
@@ -89,6 +105,9 @@ In the step that follows, we'll show you how to use this platform to fade in and
 
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
 
 ##### Step3 Open the Audio Editor in Filmora
@@ -103,6 +122,9 @@ The first step in this process is to learn how to use Filmora to start fading in
 
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 To finish the fade-out, click and drag the other icon in Filmora to the necessary duration. You may hear the music by playing the file within the timeline of the Filmora preview layout.
 
 ##### Step5 Export the Modified File
@@ -143,3 +165,65 @@ You may access a variety of tools and services on the platform known as Audacity
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-roku-experience-for-facebook-live-broadcasts/"><u>[New] 2024 Approved  Enhancing Roku Experience for Facebook Live Broadcasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-flip-the-script-instagrams-video-trick/"><u>[New] 2024 Approved  Flip the Script  Instagram's Video Trick</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-easy-paths-to-profitable-youtube-business-channels-top-10-list-for-2024/"><u>[New] Easy Paths to Profitable YouTube Business Channels, Top 10 List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-esl-english-as-second-language-for-vr/"><u>[New] The ESL (English as Second Language) for VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-through-the-viewfinder-tips-for-artistic-photo-edits/"><u>[New] Through the Viewfinder  Tips for Artistic Photo Edits</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-from-virality-to-value-gauge-your-content-against-competing-craftsmen/"><u>[Updated] From Virality to Value  Gauge Your Content Against Competing Craftsmen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-the-art-of-choosing-excellent-videographers/"><u>[Updated] In 2024, Mastering the Art of Choosing Excellent Videographers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-pioneering-perspectives-on-first-moments-in-audio/"><u>[Updated] Pioneering Perspectives on First Moments in Audio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>[Updated] Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-session-naming-service/"><u>[Updated] Supreme Session Naming Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-intelligence-in-moto-z2-reviewed/"><u>[Updated] The Essence of Intelligence in Moto Z2 Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-for-google-pixel-tones/"><u>[Updated] The Ultimate List for Google Pixel Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>[Updated] Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transition-your-tunes-transferring-collections-between-services/"><u>[Updated] Transition Your Tunes  Transferring Collections Between Services</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transitioning-from-standard-to-custom-thumbnails-in-twitter-videos/"><u>[Updated] Transitioning From Standard to Custom Thumbnails in Twitter Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-software-guide-for-video-game-shows/"><u>[Updated] Ultimate Software Guide for Video Game Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tutorial-for-srt-tagging-in-mp4-videos-2024/"><u>[Updated] Ultimate Tutorial for SRT Tagging in MP4 Videos 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] Unleash the Content  FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[Updated] Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-free-animation-digitalphysical-realms/"><u>[Updated] Unlocking Free Animation  Digital/Physical Realms</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-master-the-art-of-video-editing-with-top-10-fcp-tools/"><u>2024 Approved  Master the Art of Video Editing with Top 10 FCP Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-speedy-windows-image-browser/"><u>2024 Approved  Superior Speedy Windows Image Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-insiders-guide-to-ultimate-audio-equipment/"><u>2024 Approved  The Insider's Guide to Ultimate Audio Equipment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-youtube-mp3-converters-ranked/"><u>2024 Approved  The Ultimate Guide  YouTube Mp3 Converters Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more/"><u>2024 Approved  The Ultimate Tutorial  Sending Subtitles via SRT to Twitter, Facebook & More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-this-years-breakthrough-in-vr-gaming-technology/"><u>2024 Approved  This Year's Breakthrough in VR Gaming Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-pioneers-making-waves-in-digital-av-creation/"><u>2024 Approved  Top Pioneers Making Waves in Digital AV Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-diverse-windows-movie-maker-versions/"><u>2024 Approved  Unveiling Diverse Windows Movie Maker Versions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>2024 Approved  Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-xiaomis-precision-flight-insights-via-4k-lens/"><u>2024 Approved  Xiaomi's Precision Flight Insights via 4K Lens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-professional-360-cam-gear/"><u>Best Professional 360° Cam Gear</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-z50-ultra-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify missing hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-summit-elite-production-space-25/"><u>In 2024, Summit Elite Production Space 25</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-storytelling-spanning-eight-movie-types/"><u>In 2024, Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>In 2024, The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-best-text-effects-for-your-video/"><u>In 2024, Top 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>In 2024, Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-shipping-surprises-into-experiences/"><u>In 2024, Transforming Shipping Surprises Into Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-invisible-social-signals-in-online-media/"><u>In 2024, Understanding Invisible Social Signals in Online Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>In 2024, Unleashing the Power of Social Proof  Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>In 2024, Upgrade Your Photo Edits  The Ultimate Guide to Pixlr Power</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-assessment-of-apple-music-pricing-structure-advantagesdisadvantages-and-how-to-get-started/"><u>In-Depth Assessment of Apple Music: Pricing Structure, Advantages/Disadvantages, and How to Get Started</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-sabrent-rocket-nano-2242-1tb-ssd-evaluation-the-ultimate-m2-pcie-gen3-x4-storage-solution/"><u>In-Depth Sabrent Rocket Nano 2242 1TB SSD Evaluation – The Ultimate M.2 PCIe Gen3 X4 Storage Solution</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-steps-to-watching-vr-on-your-ios-device-for-2024/"><u>Streamlined Steps to Watching VR on Your IOS Device for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-guide-to-dialogic-depth-in-screenplays-for-2024/"><u>The Writers' Guide to Dialogic Depth in Screenplays for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartphone-selection-for-superior-video-recording-for-2024/"><u>Ultimate Smartphone Selection for Superior Video Recording for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-your-soundtrack-sets-from-different-spaces-for-2024/"><u>Uniting Your Soundtrack Sets From Different Spaces for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-audio-processing-at-zero-cost-for-2024/"><u>Unlimited Audio Processing at Zero Cost for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-periscope-mastery-for-2024/"><u>Unlocking the Secrets of Periscope Mastery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques-for-2024/"><u>Unlocking YouTube Subtitles  A Guide with 3 Efficient Techniques for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-dell-xps-13-easy-access-to-the-latest-device-drivers-and-software-patches/"><u>Upgrade Your Dell XPS 13: Easy Access to the Latest Device Drivers & Software Patches</u></a></li>
+</ul></div>

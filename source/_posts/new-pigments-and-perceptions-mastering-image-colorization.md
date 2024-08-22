@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pigments & Perceptions  Mastering Image Colorization\""
-date: 2024-07-12T13:20:26.492Z
-updated: 2024-07-13T13:20:26.492Z
+date: 2024-08-21T16:51:41.964Z
+updated: 2024-08-22T16:51:41.964Z
 tags: 
   - screen-recording
   - ai video
@@ -64,16 +64,34 @@ Then select the New Project to create a new project file and click Import to fin
 
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
 **Saturation:** This setting constitutes the amount of gray in proportion to the hue. You can adjust it to make the entire video image's colors look soaked or unnoticeable.
@@ -104,6 +122,9 @@ First, you need to select the specific video portion you want to change the colo
 
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
@@ -126,12 +147,18 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 ![color panel windows filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-panel-windows-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Step2Color grading with Wondershare Filmora
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 **Color Histogram**
 
 The color histogram informs you of the color condition of this video. This reflects the exact allotment of colors throughout a specific image, highlighting the various colors on the screen and the pixels for every color type. When the color histogram points out as “Three Color Histograms,” a specific assignment of the three primary colors (R, B, and G) is reflected.
@@ -203,3 +230,45 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-short-film-producer-yt/"><u>[New] 2024 Approved  Short Film Producer YT</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cinemas-craftsmanship-the-best-camera-tricks-and-techniques-24-edition/"><u>[New] Cinema's Craftsmanship  The Best Camera Tricks & Techniques - '24 Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-demanding-high-standards-is-aurora-up-to-par-for-2024/"><u>[New] Demanding High Standards  Is Aurora Up to Par for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-discovering-direct-conversations-on-snapchat-in-a-click/"><u>[New] Discovering Direct Conversations on Snapchat in a Click</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-graphic-software-showdown-acid-pros-rivalry/"><u>[New] Graphic Software Showdown  ACID Pro's Rivalry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-hand-tracking-encyclopedia/"><u>[New] The Complete Hand-Tracking Encyclopedia</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-step-by-step-for-adding-a-link-in-your-tiktok-bios/"><u>[New] The Ultimate Step-by-Step for Adding a Link in Your TikTok Bios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-ordinary-recordings-into-pro-level-with-audacity/"><u>[New] Transforming Ordinary Recordings Into Pro-Level With Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-creativity-time-lapse-on-samsung/"><u>[New] Unleashing Creativity  Time-Lapse on Samsung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>[New] Unlock Vivid Visuals  Windows HD+ Guide to HDR Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[Updated] The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>[Updated] The Seamless Storyteller  Leveraging Inshot for Elegant Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transferring-tactics-swiftly-send-files-to-devices/"><u>[Updated] Transferring Tactics  Swiftly Send Files to Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-audio-potential-pazeras-free-tool-review/"><u>[Updated] Unleash Your Audio Potential  Pazera's Free Tool Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hear-divine-voices-downloading-and-altering-ringtone-audio/"><u>2024 Approved  Hear Divine Voices  Downloading & Altering Ringtone Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved  The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>2024 Approved  The Compact Powerhouse in Flight  DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>2024 Approved  Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-mac-streaming-discover-the-1-5-tools/"><u>2024 Approved  Unmatched Mac Streaming  Discover the #1-5 Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-common-errors-in-the-ms-office-word-processor-with-these-simple-tips/"><u>Fixing Common Errors in the MS Office Word Processor with These Simple Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/give-new-life-to-vintage-computers-using-damn-small-linux-easy-setup-tips/"><u>Give New Life to Vintage Computers Using Damn Small Linux - Easy Setup Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-mini-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 mini iOS? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-14-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 14</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>In 2024, Top 30 Metaverse Gems  DIY Meme Ideas Unleashed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>In 2024, Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncover-roblox-hidden-treasures-with-zoom-techniques/"><u>In 2024, Uncover Roblox Hidden Treasures with Zoom Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-secrets-of-cinematic-visuals-on-windows-10/"><u>In 2024, Unraveling the Secrets of Cinematic Visuals on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-photo-editing-inserting-dates-in-images-for-2024/"><u>Mastering Photo Editing  Inserting Dates in Images for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-memory-feature-on-new-windows-11/"><u>Overcoming Disabled Memory Feature on New Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/primevideos-leaders-twitters-best-liked-and-most-watched-content/"><u>PrimeVideos Leaders  Twitter's Best-Liked & Most-Watched Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-guide-integrating-instagram-with-tiktok-for-2024/"><u>Seamless Guide  Integrating Instagram with TikTok for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symbolizing-sound-designing-a-captivating-podcast-image-for-2024/"><u>Symbolizing Sound  Designing a Captivating Podcast Image for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-2024-must-have-reading-apps-ranked-a-comprehensive-review-of-top-8-picks/"><u>The 2024 Must-Have Reading Apps Ranked: A Comprehensive Review of Top 8 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-smart-technique-for-iphone-videos-reduction-and-scaling-for-2024/"><u>The Smart Technique for iPhone Videos Reduction & Scaling for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-choice-top-mp4-players-unveiled-for-2024/"><u>Ultimate Choice  Top MP4 Players Unveiled for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-oppo-reno-8t-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Oppo Reno 8T Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>

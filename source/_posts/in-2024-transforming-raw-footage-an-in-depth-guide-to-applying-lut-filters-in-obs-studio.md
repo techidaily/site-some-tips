@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Transforming Raw Footage  An In-Depth Guide to Applying LUT Filters in OBS Studio\""
-date: 2024-07-12T13:23:52.797Z
-updated: 2024-07-13T13:23:52.797Z
+date: 2024-08-21T16:48:07.188Z
+updated: 2024-08-22T16:48:07.188Z
 tags: 
   - screen-recording
   - ai video
@@ -60,14 +60,26 @@ For more easy-to-use effects and filters to make your video cinematic, have a tr
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![filmora 3d lut](https://images.wondershare.com/filmora/features/3d-lut-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to use LUTs in OBS Studio
 
 To create your LUT, follow the instructions below.
@@ -94,12 +106,18 @@ Add Luts to OBS
 
 Many of the greatest free LUTs may now be found freely on the internet. So, we did some digging and came up with the top list of the top free LUTs that every filmmaker and colorist should have. You'll probably find what you're looking for here, whether it's strong, dramatic LUTs or stylish, vintage LUTs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### 1\. Gaming careers free LUTs
 
 Gaming Careers has created a LUT package that includes 30 free webcam filters that you may use on your webcam footage. It's a little bothersome that you have to join an email list to get the bundle, but it's well worth it. Each LUT is well-made and suitable for various situations and live feeds.
 
 ![free obs luts - Gaming careers](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 Gaming careers
 
 ### 2\. OBS forums free LUTs
@@ -108,6 +126,9 @@ This package contains 76 ready-to-use LUT filter files for OBS. Use these filter
 
 ![free obs luts - OBS Forums](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 OBS forums
 
 ### 3\. Video Mark free LUTs
@@ -118,14 +139,23 @@ You'll get 18 cinematic LUTs with this Video Mark package. This filter set focus
 
 Video Mark
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Rocket stock free LUTs
 
 For your next video production, you can get 35 FREE LUTs. Add one of these retro or cinematic effects to your footage or adjust them to suit your needs. The 35 Free LUTs from RocketStock are 3D.CUBE files may be used in a variety of NLEs and color grading tools.
 
 ![free obs luts - Rocket stock](https://images.wondershare.com/filmora/article-images/2022/05/obs-luts-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Rocket stock
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Christian Mate Grab free LUT
 
 Then there's Christian Mate Grab's LUT. It's only a single LUT filter with an orange and teal grade to give it a more cinematic appearance. This one likewise requires you to join their email list. You may color grade your films in real-time using straight in OBS.
@@ -168,3 +198,42 @@ As a result, adding professionalism to your talents is now even easier and more 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-engaging-gamers-banners-using-pre-made-themes/"><u>[New] 2024 Approved  Crafting Engaging Gamers' Banners  Using Pre-Made Themes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premium-terraria-enhancements-guide/"><u>[New] 2024 Approved  Premium Terraria Enhancements Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-5-ios-photo-background-swap-apps/"><u>[New] The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-syma-x8c-user-guide-insights/"><u>[New] The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[New] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-reign-supreme-on-facebook-mastering-keyword-seo-techniques/"><u>[Updated] 2024 Approved  Reign Supreme on Facebook  Mastering Keyword SEO Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-add-videos-to-youtube-playlist/"><u>[Updated] Add Videos to YouTube Playlist</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-adapt-posting-techniques-after-instagrams-revisions/"><u>[Updated] How to Adapt Posting Techniques After Instagram’s Revisions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-resolving-srt-export-woes-in-adobe-premiere/"><u>[Updated] Resolving SRT Export Woes in Adobe Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] The Pulse of the Population  VLLO Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>[Updated] The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-podcasts-identity-with-ai-name-makers/"><u>[Updated] Transform Your Podcast's Identity with AI Name Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-the-power-leveraging-windows-11-and-zoom-maximum/"><u>[Updated] Unveil the Power  Leveraging Windows 11 and Zoom Maximum</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-effective-techniques-to-archive-vimeo-content/"><u>2024 Approved  Effective Techniques to Archive Vimeo Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-to-aiseesofts-screencasting-features/"><u>2024 Approved  Essential Guide to Aiseesoft's Screencasting Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>2024 Approved  Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>2024 Approved  Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-no-frills-guide-to-basic-hdr-techniques/"><u>2024 Approved  The No-Frills Guide to Basic HDR Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-top-ringtones-for-pixel-devices-for-2024/"><u>Explore Top Ringtones for Pixel Devices for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m34-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy M34 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-quantum-hdr-101-a-complete-breakdown/"><u>In 2024, Quantum HDR 101  A Complete Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>In 2024, Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-first-step-in-photo-rehabilitation-software/"><u>Stellar's First Step in Photo Rehabilitation Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-post-production-mastering-the-green-screen-process-kinemaster-for-2024/"><u>Streamlining Post-Production  Mastering the Green Screen Process (KineMaster) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-popular-images-journey-to-meme-status-for-2024/"><u>The Most Popular Images' Journey to Meme Status for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-syma-x8c-user-guide-insights-for-2024/"><u>The Syma X8C User Guide Insights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-for-effortless-finding-exceptional-pexel-images-for-2024/"><u>Tips and Tricks for Effortless Finding Exceptional Pexel Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-guide-avian-video-avi-to-graphic-image-gif-in-filmora-for-2024/"><u>Transformative Guide  Avian Video (AVI) to Graphic Image (GIF) in Filmora for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turbo-speed-photo-browser-for-windows-10-for-2024/"><u>Turbo Speed Photo Browser for Windows 10 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-companion-navigating-through-different-ipados-releases/"><u>Ultimate Companion: Navigating Through Different iPadOS Releases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-frames-per-second-for-slow-clips-for-2024/"><u>Ultimate Frames Per Second for Slow Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-secrets-of-silent-video-suggestions-in-feed-for-2024/"><u>Unlocking the Secrets of Silent Video Suggestions in Feed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ustream-live-and-comparable-platforms-for-2024/"><u>Ustream Live & Comparable Platforms for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y36i | Dr.fone</u></a></li>
+</ul></div>

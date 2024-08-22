@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep Into Tech Jargon: Understanding OCR and IDP's Key Differences"
-date: 2024-08-20 11:40:40
-updated: 2024-08-22 10:22:36
+date: 2024-08-21T15:48:53.389Z
+updated: 2024-08-22T15:48:53.389Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6fb318adf671f70aacd812852.jpg
@@ -37,12 +37,18 @@ Bevor es OCR gab, musste man zur Dateneingabe Text manuell in ein Computersystem
 
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Wie es funktioniert
 
 OCR beginnt mit der Datei, aus der Sie Informationen extrahieren möchten. Dabei kann es sich um ein gescanntes Dokument, eine PDF-Datei oder um Fotos von Papierdokumenten handeln. Moderne OCR-Plattformen können automatisch die Qualität verbessern, den Kontrast erhöhen und die Auflösung schärfen, um die Genauigkeit zu erhöhen. Als Nächstes verwenden die OCR-Algorithmen vorab trainierte Extraktionsmodelle, um Wörter und Zeilen im Bild zu identifizieren und einzelne erkannte Zeichen zu extrahieren.
 
 Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern oder Vorlagen abgeglichen, die bekannte Zeichen und Symbole darstellen. Dabei können Technologien wie maschinelles Lernen und neuronale Netze eingesetzt werden, um die Erkennungsgenauigkeit zu verbessern und verschiedene Schriftarten und Sprachen oder komplizierte Layouts wie Tabellen und Listen oder Strichcodes zu verarbeiten. Wenn die OCR auf ein Problem stößt, kann sie dieses zur menschlichen Bearbeitung kennzeichnen. Nach Abschluss des Zeichenerkennungsprozesses müssen Sie das Ergebnis eventuell noch auf Fehler prüfen oder die Genauigkeit durch Rechtschreibprüfung, Kontextanalyse oder Sprachmodellierung verbessern. Die OCR-Software erzeugt dann den endgültigen maschinenlesbaren Text, der in das Computersystem Ihres Unternehmens integriert werden kann.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Vorteile der OCR
 
 [OCR](https://tools.techidaily.com/abbyy/products/) ist eine unverzichtbare Technologie für alle Branchen, in denen viel mit Dokumenten gearbeitet wird, sei es bei der täglichen Arbeit der Mitarbeitenden mit ihren aktuellen Dokumenten, bei der Digitalisierung von Archiven oder bei der Erstellung von barrierefreien digitalen Dokumentenarchiven durch die Verarbeitung einer großen Menge von Dokumenten, z. B. von Dokumentenstapeln im Gesundheitswesen oder von Logistikdokumentationen.
@@ -62,6 +68,9 @@ Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Wie es funktioniert
 
 IDP beinhaltet eine optische Zeichenerkennung (OCR), um gedruckten oder handschriftlichen Text in ein maschinenlesbares Format umzuwandeln. IDP nutzt darüber hinaus Techniken der künstlichen Intelligenz (KI) und des maschinellen Lernens (ML), um strukturierte, halbstrukturierte und unstrukturierte Daten in Dokumenten wie ein Mensch zu lesen, zu verstehen und zu verarbeiten.
@@ -88,6 +97,9 @@ Die IDP-Technologie orientiert sich eng an der Art und Weise, wie Menschen Dokum
 * **Skalierbarkeit.** Mit wachsender Geschäftstätigkeit steigt auch das Volumen der zu verarbeitenden Dokumente. IDP-Lösungen können problemlos skaliert werden, um größere Dokumentenmengen zu verarbeiten, ohne dass die Arbeitskosten proportional ansteigen.
 * **Einfache Integration in den Unternehmens-Workflow.** IDP kann mit anderen digitalen Systemen und Workflows kombiniert werden, um eine nahtlose und effiziente Digitalisierung von Geschäftsprozessen in allen Unternehmensbereichen und in der gesamten Organisation zu ermöglichen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Was ist der Unterschied zwischen OCR und IDP?
 
 OCR gibt es schon seit Langem und ist als Technologie zur Dokumentenerfassung bekannt. **OCR wird in erster Linie verwendet, um Text aus Papierdokumenten, gescannten Bildern oder Fotos zu extrahieren und in maschinengeschriebenen Text umzuwandeln, der digital auf einem Computer bearbeitet werden kann.**
@@ -105,6 +117,9 @@ So kann IDP beispielsweise eine Rechnung lesen, ihren Inhalt mit einer entsprech
 | **Technologie**              | Bildverbesserung, Objekterkennung OCR / ICR                                                                                                                                                                                                                        | Klassifizierung Deep Machine Learning Fast Machine Learning Extraktionsregeln Segmentierung Erkennung von Eigennamen (NER) Natural Language Processing (NLP)                                                                                                                                      |
 | **Typische Anwendungsfälle** | Bietet Zugang zu maschinenlesbarem Text als Grundlage für: PDF-Konvertierung, Digitale Archivierung / Suche eDiscovery Erweiterte Suche / Digitale Forensik Datenanalyse Intelligente Dokumentenverarbeitung (IDP)                                                 | Automatisierung aller dokumentenzentrierten Geschäftsprozesse: Automatisierung der Kreditorenbuchhaltung Neukundenaufnahme / KYC Kreditbearbeitung Automatisierung von Transport- und Logistikdokumentation Bearbeitung von Versicherungsansprüchen                                               |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Beispiele für OCR und IDP in Geschäftsprozessen
 
 #### Bearbeitung von Rechnungen
@@ -171,6 +186,9 @@ Technologien für OCR (optische Zeichenerkennung) und IDP (intelligente Dokument
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 Slavena Hristova
 
 Director of Product Marketing, Vantage group at ABBYY
@@ -237,3 +255,50 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-visibility-comprehensive-guide-to-video-marketing-titles/"><u>[New] In 2024, Elevate Visibility  Comprehensive Guide to Video Marketing Titles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora/"><u>[New] In 2024, Quickly Create a YouTube Animation for Your Subscribe Button with Filmora</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfected-audio-chain-guidebook/"><u>[New] Perfected Audio Chain Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[New] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-of-bulk-tiktok-media-extraction/"><u>[New] Unlocking the Potential of Bulk TikTok Media Extraction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-sharpen-images-with-windows-11-pro/"><u>[Updated] Swiftly Sharpen Images with Windows 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-smart-users-guide-to-enhancing-technology/"><u>[Updated] The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-step-by-step-process-to-embed-timestamps-on-youtube-links-for-2024/"><u>[Updated] The Step-by-Step Process to Embed Timestamps on YouTube Links for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[Updated] The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-using-adobe-and-finding-substitutes/"><u>[Updated] The Ultimate Guide to Using Adobe and Finding Substitutes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-dynamic-anime-openers-songs/"><u>[Updated] Top 20 Dynamic Anime Openers' Songs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-video-editors-for-macos-sierra/"><u>[Updated] Top 5 Video Editors for macOS Sierra</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop/"><u>2024 Approved  Expert Strategies for Perfectly Shared Screens on Mobile/Desktop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-level-up-in-valorant-with-a-costless-cutting-edge-voice-modification-solution/"><u>2024 Approved  Level Up in Valorant with a Costless, Cutting-Edge Voice Modification Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-guide-to-audio-interfaces-in-podcasting/"><u>2024 Approved  The Definitive Guide to Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>2024 Approved  The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>2024 Approved  The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrilling-twists-and-turns-short-track-22/"><u>2024 Approved  Thrilling Twists & Turns - Short Track '22</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-tiny-film-plot-proposal/"><u>2024 Approved  Tiny Film Plot Proposal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-technical-tips-to-secure-flawless-broadcasting/"><u>2024 Approved  Top-Tier Technical Tips to Secure Flawless Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved  Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-quantum-leap-hdr-innovations/"><u>2024 Approved  Understanding the Quantum Leap  HDR Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unexplained-tilted-images-on-instagrams-video-section/"><u>2024 Approved  Unexplained Tilted Images on Instagram's Video Section</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unfreezing-photo-booth-recordings-a-guide-to-smoother-playback/"><u>2024 Approved  Unfreezing Photo Booth Recordings  A Guide to Smoother Playback</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-switch-off-techniques-for-single-device-usage-only/"><u>AirPods Switch-Off Techniques for Single Device Usage Only</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/assessing-photoshop-sway-reduction-a-necessity-debate/"><u>Assessing Photoshop Sway Reduction  A Necessity Debate?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-screen-problems-how-to-reclaim-your-graphics-driver-control-on-any-window-os/"><u>Easy Fixes for Screen Problems: How to Reclaim Your Graphics Driver Control on Any Window OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-zte-blade-a73-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of ZTE Blade A73 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-rated-desktops-for-peak-performance/"><u>In 2024, Top-Rated Desktops for Peak Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-metaverse-marketing-secrets/"><u>In 2024, Unlocking Potential  Metaverse Marketing Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unrivaled-vr-sets-for-aerial-adventures/"><u>In 2024, Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-utilizing-in-browser-multiframe-pip/"><u>In 2024, Utilizing In-Browser Multiframe  PIP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-shared-device-conflicts-in-win11/"><u>Navigating Shared Device Conflicts in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/story-lore-who-are-the-premier-channels-for-2024/"><u>Story Lore  Who Are the Premier Channels for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-definitive-guide-to-classic-anime-themes/"><u>The Definitive Guide to Classic Anime Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pinnacle-of-artistry-highlighting-top-6-nft-creators-for-2024/"><u>The Pinnacle of Artistry  Highlighting Top 6 NFT Creators for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-autofocus-aided-hdr-photography-for-2024/"><u>The Rise of Autofocus Aided HDR Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-camcorders-for-extreme-weather-and-splashes-review-for-2024/"><u>Top 7 Camcorders for Extreme Weather and Splashes Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-home-filmmaking-tricks-the-quick-and-easy-guide-for-2024/"><u>Top Home Filmmaking Tricks  The Quick and Easy Guide for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unboxing-lenovos-best-legion-go-features-at-ifa-2-written-by-alex-johnson-mba/"><u>Unboxing Lenovo's Best Legion Go Features at IFA 2 Written by Alex Johnson, MBA</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-14-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 14 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-storytelling-potential-for-2024/"><u>Unlock Your Storytelling Potential for 2024</u></a></li>
+</ul></div>

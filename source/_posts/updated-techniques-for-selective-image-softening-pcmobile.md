@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Techniques for Selective Image Softening PC/Mobile"
-date: 2024-07-12T13:10:24.308Z
-updated: 2024-07-13T13:10:24.308Z
+date: 2024-08-21T17:02:24.650Z
+updated: 2024-08-22T17:02:24.650Z
 tags: 
   - screen-recording
   - ai video
@@ -74,11 +74,17 @@ PowerPoint is a great tool that allows you to create presentations for personal 
 
 ![blur a part of image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 1. To blur a certain area of a picture, you need to cover that particular part with a shape. You can select a shape by clicking on Insert and then Shapes. Select any shape you prefer from the list displayed.
 2. Once you have selected a shape of your choice, draw it on the area of the picture you would like to blur. Place your mouse on any side of the photo, then press and hold the left-click; drag the shape to the other side.
 
 ![blur a part of image - powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 1. The shape you draw will be blue, meaning the burred shape will be of this color, too. To change this color, navigate to Format, then click on the Shape Fill option. Choose the Eyedropper tool.
 
 ![step to blur a image using powerpoint](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-6.png)
@@ -94,6 +100,9 @@ PowerPoint is a great tool that allows you to create presentations for personal 
 
 1. Now, right-click on the image, then click Save as Picture. Name your image, and then save it on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### 3\. Use Built-in Paint Tool
 
 Microsoft Paint is a raster graphics editor included in all the available versions of Microsoft Windows. This simple program can open and save files in single-page TIFF, PNG, GIF, JPEG, and Windows bitmap (BMP) formats. MS Paint doesn't have a direct way of creating blurred effects to pictures; however, you can use some basic techniques to get the blur effect. Remember, once you save your photo with the blur effect, removing it from the image can be challenging. As such, you might want to back up your photos if needed.
@@ -109,14 +118,23 @@ Microsoft Paint is a raster graphics editor included in all the available versio
 
 ![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 1. Click Save to save the blur effect on your image.
 
 ![blur part of image using paint tool](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Blur a Part of Picture on Mobile
 
 Sometimes you might want to hide sensitive details in a picture before sharing it with your family members and friends or on social media. Cropping the photo won't be the best solution in these cases. That's why you should learn how to blur part of an image. That said, here are two ways you can blur part of a picture on your mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Use App
 
 You can use a mobile app to blur specific areas in your images. YouCam Perfect is one of the most popular mobile applications compatible with iOS and Android devices. Want to know how to blur part of an image on your mobile devices using YouCam Perfect? Follow the steps below.
@@ -125,6 +143,9 @@ You can use a mobile app to blur specific areas in your images. YouCam Perfect i
 
 ![blur a part of image on mobile](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Launch the app on your mobile device. Since you are using this application for the first time, click the Skip button in the upper right corner.
 2. After transferring the interface, click the arrow icon at the upper left corner.
 3. If you want to edit an image in your photo gallery, click the OK button to continue.
@@ -152,11 +173,17 @@ You can blur parts of a picture on your Android phone without installing a third
 
 ![blur a part of image on mobile using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 1. Choose the decoration icon.
 2. Go to the covers option with the blur feature.
 
 ![blur a part of image using photo edit](https://images.wondershare.com/filmora/article-images/2022/03/blur-part-of-an-image-15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 1. Using your finger, draw a box over the part of the image you need to blur.
 2. Make the necessary adjustments, then tap on the image in the right corner at the bottom of the screen.
 3. Once you have finished applying the blur effect you prefer, accept the changes, and you are now ready to share your edited image.
@@ -194,3 +221,39 @@ You can blur parts of a picture on your Android phone without installing a third
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-world-of-google-ar-accessories-and-beyond/"><u>[New] The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-sites-for-vector-graphics-collection/"><u>[New] Top 10 Sites for Vector Graphics Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>[New] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[New] Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-the-practical-benefits-of-photo-stability-features/"><u>[New] Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-color-richness-the-role-of-look-up-tables-in-adobe-photos/"><u>[New] Unlocking Color Richness  The Role of Look-Up Tables in Adobe Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-musical-instagram-narratives-without-for-2024/"><u>[Updated] Crafting Musical Instagram Narratives (Without) for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-best-compact-cameras-for-1000-or-less-4k/"><u>[Updated] In 2024, Best Compact Cameras for $1000 or Less (4K)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-perfect-guide-iosipad-podcast-recording-tips-for-engaging-interviews-for-2024/"><u>[Updated] Perfect Guide  IOS/iPad Podcast Recording Tips for Engaging Interviews for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>[Updated] The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>[Updated] Unlocked Gems  Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-in-depth-analysis-complete-revamp-of-facetune-app/"><u>2024 Approved  In-Depth Analysis  Complete Revamp of Facetune App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-approach-integrating-typefaces-in-ae/"><u>2024 Approved  The Artisan's Approach  Integrating Typefaces in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-final-word-on-powerdirector-a-complete-review/"><u>2024 Approved  The Final Word on PowerDirector  A Complete Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-for-google-pixel-tunes/"><u>2024 Approved  The Ultimate List for Google Pixel Tunes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-video-dominance-on-instagram-designing-a-pro-marketing-approach/"><u>2024 Approved  Video Dominance on Instagram  Designing a Pro-Marketing Approach</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-advertise-on-twitter/"><u>How to Advertise on Twitter</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-se-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone SE - 4 Easy Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>In 2024, Stylish Methodology  Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>In 2024, The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-quick-fix-guide-to-instagram-popularity-accelerate-your-visibility-with-15-tricks-of-the-trade/"><u>In 2024, The Quick-Fix Guide to Instagram Popularity  Accelerate Your Visibility with 15 Tricks of the Trade</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-transform-your-ideas-into-videos-with-the-power-of-movie-maker-windows-11-edition/"><u>In 2024, Transform Your Ideas Into Videos with the Power of Movie Maker, Windows 11 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-full-potential-of-powerdirector-24/"><u>In 2024, Unveiling the Full Potential of PowerDirector '24</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-digital-creation-complete-guide-to-picsart/"><u>Mastering Digital Creation  Complete Guide to PicsArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-handbook-of-gopro-time-lapse-photography-excellence-for-2024/"><u>The Complete Handbook of GoPro Time-Lapse Photography Excellence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundations-of-vsco-photo-manipulation-for-2024/"><u>The Foundations of VSCO Photo Manipulation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tonal-transition-triumphs-for-creative-virtuosos-for-2024/"><u>Tonal Transition Triumphs for Creative Virtuosos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-no-cost-software-for-professional-capture-at-home/"><u>Top 10 No-Cost Software for Professional Capture at Home</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-quality-video-uplift-immaculate-resolution-for-2024/"><u>Top Quality Video Uplift  Immaculate Resolution for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-srt-editing-techniques-for-apple-devices-for-2024/"><u>Transformative SRT Editing Techniques for Apple Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ustream-overview-plus-similar-services-for-2024/"><u>Ustream Overview + Similar Services for 2024</u></a></li>
+</ul></div>

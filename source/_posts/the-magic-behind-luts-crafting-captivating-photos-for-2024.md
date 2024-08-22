@@ -1,7 +1,7 @@
 ---
 title: "\"The Magic Behind LUTs  Crafting Captivating Photos for 2024\""
-date: 2024-07-12T13:22:40.683Z
-updated: 2024-07-13T13:22:40.683Z
+date: 2024-08-21T16:49:37.196Z
+updated: 2024-08-22T16:49:37.196Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +84,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -97,6 +103,9 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -131,3 +140,54 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-efficient-video-categorization-with-tags/"><u>[New] 2024 Approved  Efficient Video Categorization with Tags</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-skype-recording-guide-top-picks/"><u>[New] 2024 Approved  Skype Recording Guide - Top Picks</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-watch-facebook-live-in-2024/"><u>[New] How to Watch Facebook Live, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-making-shapes-pop-with-photoshop-tips-for-2024/"><u>[New] Making Shapes Pop with Photoshop Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-spark-interest-drive-engagement-top-30-video-ideas/"><u>[New] Spark Interest, Drive Engagement  Top 30 Video Ideas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-3d-tools-for-animated-designers/"><u>[New] Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-applications-for-image-driven-video-creation/"><u>[New] Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-macos-safari-video-conversion-apps/"><u>[New] Top 5 macOS Safari Video Conversion Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-perfect-zoom-recordings/"><u>[Updated] 2024 Approved  Unlocking the Secrets to Perfect Zoom Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-sourcing-a-list-cinematography-experts/"><u>[Updated] Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-exclusive-guide-to-best-4k-screens-for-mac-devotees/"><u>[Updated] The Exclusive Guide to Best 4K Screens for Mac Devotees</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>[Updated] The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-11-windows-11-secrets-unveiled/"><u>[Updated] Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-transformations-in-vegaspro-19/"><u>[Updated] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>2024 Approved  Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-surge-in-youtubers-popularity/"><u>2024 Approved  The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-for-seamless-system-evolutions/"><u>2024 Approved  The Essentials for Seamless System Evolutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-fourfold-path-to-blurring-iphone-images/"><u>2024 Approved  The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-melody-meets-discovering-crossfade-magic/"><u>2024 Approved  The Melody Meets  Discovering Crossfade Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>2024 Approved  The Ultimate VR Player Guide  Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-video-downloaders-preserve-your-linkedin-media-masterfully/"><u>2024 Approved  Top 6 Video Downloaders  Preserve Your LinkedIn Media Masterfully</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>2024 Approved  Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/access-top-shorter-video-downloads-for-free-online/"><u>Access Top Shorter Video Downloads for FREE Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-enjoyable-british-shows-on-netflix-this-week/"><u>Discover the Most Enjoyable British Shows on Netflix This Week</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-codegpt-future-of-automated-source-coding/"><u>Dissecting CodeGPT: Future of Automated Source Coding</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elden-ring-update-understanding-the-games-new-release-timeline/"><u>Elden Ring Update: Understanding the Game's New Release Timeline</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-15-pro-max-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 15 Pro Max and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-oppo-a2-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Oppo A2</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-6s-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 6s Plus to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-costless-conundrum-of-final-cut-pro-access/"><u>In 2024, The Costless Conundrum of Final Cut Pro Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-straightforward-approach-to-editing-age-on-tiktok/"><u>In 2024, The Straightforward Approach to Editing Age on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>In 2024, Tips and Tricks for GoPro  Get the Most From Your GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>In 2024, Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turnback-artisan-hub/"><u>In 2024, Turnback Artisan Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-laughing-photo-editing-tools-iosandroid/"><u>In 2024, Ultimate Guide to Laughing Photo Editing Tools (iOS/Android)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unlock-the-secret-of-social-media-impact/"><u>In 2024, Unlock the Secret of Social Media Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>In 2024, Unlocking Smooth Ocean Footage  Proven Film-Maker's Methods</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-correcting-a-500-http-status-code-issue/"><u>Step-by-Step Solution: Correcting a 500 HTTP Status Code Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategizing-visibility-for-podcasts-through-design-for-2024/"><u>Strategizing Visibility for Podcasts Through Design for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-platforms-for-amplifying-youtube-content-for-2024/"><u>Top Platforms for Amplifying YouTube Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-top-16-free-video-players-for-2024/"><u>Ultimate Guide to Top 16 Free Video Players for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-single-scenes-iphone-multi-media-magic-for-2024/"><u>Uniting Single Scenes  IPhone Multi-Media Magic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-assessment-varied-perspectives-for-2024/"><u>Upcoming Assessment  Varied Perspectives for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] The Fundamentals of Color Grading Using LUTs in AE"
-date: 2024-07-12T13:17:48.037Z
-updated: 2024-07-13T13:17:48.037Z
+date: 2024-08-21T16:54:30.944Z
+updated: 2024-08-22T16:54:30.944Z
 tags: 
   - screen-recording
   - ai video
@@ -96,6 +96,9 @@ C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Creative
 C:\\Users\\yourusername\\AppData\\Roaming\\Adobe\\Common\\LUTs\\Technical
 * The custom LUT files will be available to you as presets next time you launch Adobe Effects. The process only works if you are the primary user. Furthermore, ensure you put each copy in the relevant directories.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to use LUTs in After Effects
 
 Now that you have a variety of Adobe After Effects LUTs at your disposal, here is how you apply them.
@@ -109,6 +112,9 @@ Now that you have a variety of Adobe After Effects LUTs at your disposal, here i
 
 ![how to use luts in after effects](https://images.wondershare.com/filmora/article-images/2022/03/after-effects-luts-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 Adobe After Effects allows you to use LUTs on multiple clips. However, you need an adjustment layer for this to work. Here is how you enable the function.
 
 * Right-click on the area of your timeline that you want to edit.
@@ -146,3 +152,45 @@ Adobe After Effects allows you to use LUTs on multiple clips. However, you need 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-final-flourishes-crafting-memorable-video-closures/"><u>[New] 2024 Approved  Final Flourishes  Crafting Memorable Video Closures</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-entrepreneurs-handbook-quick-channel-creation-on-the-go-with-mobile-devices/"><u>[New] 2024 Approved  The Entrepreneur's Handbook  Quick Channel Creation on the Go with Mobile Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>[New] 2024 Approved  The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-kid-friendly-driving-delights/"><u>[New] In 2024, Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-the-acquisition-of-background-visual-content/"><u>[New] Streamlining the Acquisition of Background Visual Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-vr-equipment-for-drone-flight/"><u>[New] Superior VR Equipment for Drone Flight</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-earnings-via-sponsored-youtube-videos/"><u>[Updated] In 2024, Mastering Earnings via Sponsored YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>[Updated] The Ultimate Guide to Selective Mounting  GoPro's Best 6 Helmet Accessories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-mac-speech-to-text-apps-youre-not-aware-of/"><u>[Updated] Top Mac Speech-to-Text Apps You're Not Aware Of</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-achieving-sonic-harmony-advanced-crossfading-in-audacity/"><u>2024 Approved  Achieving Sonic Harmony  Advanced Crossfading in Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-best-text-effects-of-psd/"><u>2024 Approved  Best Text Effects of PSD</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-enthusiastic-presentation-appraisal-version-08/"><u>2024 Approved  Enthusiastic Presentation Appraisal, Version 08</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-iphone-framing-finding-the-best-camera-positions/"><u>2024 Approved  The Art of iPhone Framing  Finding the Best Camera Positions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-interactive-virtuality/"><u>2024 Approved  The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-textual-treasures-ae-font-exploration/"><u>2024 Approved  Transform Textual Treasures  AE Font Exploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creative-potential-for-video-editing-in-windows-photos/"><u>2024 Approved  Unleash Creative Potential for Video Editing in Windows Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-secrets-of-memetic-success-through-gifs/"><u>2024 Approved  Unlocking the Secrets of Memetic Success Through GIFs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/video-lessons-to-vivid-engaging-gifs-no-download-needed-for-2024/"><u>From Video Lessons to Vivid, Engaging GIFs – No Download Needed for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-htc-u23-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast HTC U23 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-honor-90-lite-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor 90 Lite FRP Bypass Instantly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media/"><u>In 2024, Effortless Viewing  Automatic Playback of YouTube Videos on Social Media</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-8-plusipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-capture-savvy-top-four-techniques-for-recording-games/"><u>In 2024, Screen Capture Savvy  Top Four Techniques for Recording Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-text-tools-and-after-effects/"><u>In 2024, Superior Text Tools & After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-surging-up-the-search-results-with-effective-podcast-seo/"><u>In 2024, Surging Up the Search Results with Effective Podcast SEO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-insights-on-iphone-based-podcast-acquisition/"><u>In 2024, The Expert's Insights on iPhone-Based Podcast Acquisition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>In 2024, The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-revised-sony-s3700-experience/"><u>In 2024, Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-vector-journey-start-categories-tools-and-initial-steps/"><u>In 2024, Vector Journey Start  Categories, Tools, & Initial Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitech-speakers-and-headphones-software-update-for-windows-users-win-1178/"><u>Logitech Speakers and Headphones Software Update for Windows Users (Win 11/7/8)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-your-battle-skills-with-optimized-ping-expert-strategies-to-reduce-lag-in-codmwii-wz2k4/"><u>Master Your Battle Skills with Optimized Ping - Expert Strategies to Reduce Lag in COD:MWII (WZ2k4)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-hp-printer-functionality-in-windows-10/"><u>Streamlining HP Printer Functionality in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-of-capturing-emotion-in-digital-gif-formats-for-2024/"><u>Techniques of Capturing Emotion in Digital GIF Formats for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-art-of-pinpointing-perfect-pexels-photographs-for-2024/"><u>The Art of Pinpointing Perfect Pexels Photographs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-watching-basketball-with-precision-for-2024/"><u>The Ultimate Guide  Watching Basketball with Precision for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-free-memes-for-everyday-chuckles-for-2024/"><u>Top-Tier Free Memes for Everyday Chuckles for 2024</u></a></li>
+</ul></div>

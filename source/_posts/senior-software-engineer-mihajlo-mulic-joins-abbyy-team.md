@@ -1,7 +1,7 @@
 ---
 title: Senior Software Engineer Mihajlo Mulic Joins ABBYY Team
-date: 2024-08-19 10:10:24
-updated: 2024-08-22 10:59:18
+date: 2024-08-21T15:52:41.122Z
+updated: 2024-08-22T15:52:41.122Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe958d62fe3b92ea45616652f65.jpg
@@ -41,18 +41,27 @@ The added perk is that I can work from different locations, which is a huge bonu
 
 ![Berlin, Germany - Mihajlo Mulic](https://static1.abbyy.com/abbyycommedia/38044/mihajlo-mulic-abbyy-berlin.png)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Your work journey is quite diverse; what was your previous experience before ABBYY, and how did you find your way into this area of Software Development?
 
 Before joining ABBYY, I worked in various software development companies, on products ranging from Advanced Distribution Management Systems for electrical grids to Financial Management Systems.
 
 My academic background was initially in financial mathematics, but my heart was always in computer programming, dating back to my high school days. High school exposed me to mathematics and programming allowing me to gain a really solid set of skills, since I attended the class for gifted students. This made the transition to software engineering smooth and easy, and the rest... is history.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What attracted you to ABBYY, what's the best part of your job at ABBYY?
 
 The most exciting part, without a doubt, is the people. I have the privilege of working with incredibly smart and talented individuals. At ABBYY I found the perfect balance between autonomy and teamwork, which I believe is essential to allow space for creativity and to maximize your productivity.
 
 My job is very dynamic in nature, there are different problems to solve each day, and it keeps things exciting. You're constantly challenged to solve problems, innovate, and improve solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What do you find most challenging in your role?
 
 Haha! The most challenging part is, ironically, solving different problems every day. In the short term, it can sometimes feel intense, but in the long run, it's what leads to personal and professional growth.
@@ -61,6 +70,9 @@ The beginning, transitioning into a new role or company, is often the toughest. 
 
 ![Santorini, Greece - ABBYY Software Developers - Mihajlo Mulic](https://static1.abbyy.com/abbyycommedia/38045/mihajlo-mulic-abbyy-santorini.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### Your top advice to someone looking to follow a career path in Software Development?
 
 My advice is simple: cultivate curiosity and patience. **Curiosity keeps you asking questions and exploring, while patience enables you to tackle complex problems. Both are crucial for continuous learning, a must in the fast-evolving landscape of software engineering.**
@@ -73,6 +85,9 @@ Sometimes this means staying late to finish a task, but sometimes it could mean 
 
 ![](https://static1.abbyy.com/abbyycommedia/38047/mihajlo-mulic-family-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://static1.abbyy.com/abbyycommedia/38048/mihajlo-mulic-family-2.png)
 
 ### Lastly, could you recommend us a book/movie/series/ or activity you have recently discovered or are enjoying at the moment? What’s so great about it?
@@ -81,16 +96,25 @@ Not long after I was born, my parents opened a bookstore (pictured below), and i
 
 ![](https://static1.abbyy.com/abbyycommedia/38049/mihajlo-mulic-library.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Since then, I've really broadened my reading horizons. I even got impatient waiting for translations and started diving into books in English. One that stands out is _The Wheel of Time_ series, which just got its television adaptation that is fantastic. Although, I'd say it's worth reading the books first.
 
 Aside from reading and watching movies/series, I really enjoy running, traveling, and occasionally, video gaming.
 
 ![Mihajlo Mulic ABBYY Sr. Software Developer](https://static1.abbyy.com/abbyycommedia/38046/mihajlo-mulic-abbyy.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ---
 
 Want to follow Mihajlo's footsteps and join one of our tech hubs? You're in luck! Check out our [careers page](https://tools.techidaily.com/abbyy/products/) for opportunities to join our team in Serbia, Cyprus, Hungary, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy?itm%5Fsource=corpblog)
@@ -169,3 +193,45 @@ Connect with us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bring-your-messages-to-life-on-tiktok-with-text-effects/"><u>[New] 2024 Approved  Bring Your Messages to Life on TikTok with Text Effects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>[New] 2024 Approved  Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-select-6-best-iphone-slide-show-creation-apps/"><u>[New] Select 6 Best iPhone Slide Show Creation Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pulse-of-the-population-vllo-analysis/"><u>[New] The Pulse of the Population  VLLO Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-essential-mac-live-streaming-apps/"><u>[New] Top 5 Essential Mac Live Streaming Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram/"><u>[New] Unleash Creativity  Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>[New] Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-premium-free-srt-translation-services/"><u>[New] Unveiling Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-revamp-your-tiktok-videos-insightful-strategies-for-backdrop-changes/"><u>[Updated] 2024 Approved  Revamp Your TikTok Videos  Insightful Strategies for Backdrop Changes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-choosing-video-aspect-ratios/"><u>[Updated] The Art of Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-editing-hauls-for-online-audiences/"><u>[Updated] The Comprehensive Guide to Editing Hauls for Online Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-online-spaces-for-youtube-traffic-increase/"><u>[Updated] Top Online Spaces for YouTube Traffic Increase</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-the-power-to-download-igtv-videos-effortlessly-for-2024/"><u>[Updated] Unlock the Power to Download IGTV Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-easy-metaverse-character-creation/"><u>[Updated] Unlocking the Secrets to Easy Metaverse Character Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-unlocking-youtube-potential-with-perpetual-creative-commons-membership/"><u>[Updated] Unlocking YouTube Potential with Perpetual Creative Commons Membership</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-attention-grabber-composer/"><u>2024 Approved  Top Attention Grabber Composer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/asian-language-hierarchy-first-second-third-leaders/"><u>Asian Language Hierarchy: First, Second, Third Leaders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-take-away-included-iphone-software-programs-easily/"><u>Can You Take Away Included iPhone Software Programs Easily?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/capturing-the-skies-dji-drone-content-for-facebook-live/"><u>Capturing the Skies  DJI Drone Content for Facebook Live</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-canon-pro-100-printer-setup-for-windows-the-quick-guide/"><u>Easy Canon PRO 100 Printer Setup for Windows: The Quick Guide</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-choices-full-sweep-video-recording-systems/"><u>In 2024, Top Choices  Full Sweep Video Recording Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-collection-no-cost-ae-template-gold/"><u>In 2024, Ultimate Collection  No-Cost AE Template Gold</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>In 2024, Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>In 2024, Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-of-text-with-photo-shading-psx/"><u>In 2024, Unlock the Potential of Text with Photo Shading PSX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-dji-phantom-3s-superior-flight-control-features/"><u>In 2024, Unveiling DJI Phantom 3'S Superior Flight Control Features</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-screen-not-functioning-discover-quick-fixes-here/"><u>Iphone Screen Not Functioning? Discover Quick Fixes Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-boot-woes-overcome-support-issues-with-top-fixes/"><u>Secure Boot Woes: Overcome Support Issues with Top Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smoothest-android-3d-video-streaming-for-2024/"><u>Smoothest Android 3D Video Streaming for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-installing-latest-mono-laser-driver-for-your-dell-2330d-or-2330dn-printer/"><u>Step-by-Step Guide: Installing Latest Mono Laser Driver for Your Dell 2330D or 2330DN Printer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube-for-2024/"><u>The Complete Guide for Professional Livestreaming Using Zoom on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-green-screen-expertise-with-kinemaster-for-2024/"><u>The Ultimate Guide to Green Screen Expertise with Kinemaster for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-d3d9dll-not-detected-error-in-windows-systems/"><u>Troubleshooting the d3d9.dll Not Detected Error in Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-gently-fading-audio-in-audacity-for-2024/"><u>Unraveling the Secrets to Gently Fading Audio in Audacity for 2024</u></a></li>
+</ul></div>

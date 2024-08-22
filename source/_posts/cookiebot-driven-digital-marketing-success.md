@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Digital Marketing Success
-date: 2024-08-21 21:37:18
-updated: 2024-08-22 12:16:24
+date: 2024-08-21T15:52:53.543Z
+updated: 2024-08-22T15:52:53.543Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb02943a66dd5dba0e650f0e39da1.jpg
@@ -42,6 +42,9 @@ Die [IDP-Plattform von ABBYY](https://tools.techidaily.com/abbyy/products/) ist 
 
 Mit der richtigen Kombination von Technologien und Techniken können die [IDP-Lösungen von ABBYY jede Art von Dokument verarbeiten](https://tools.techidaily.com/abbyy/products/) \- jedes Format, jede Sprache, jede Struktur. Alle spezialisierten Techniken wurden für die bestmöglichen Schlussfolgerungen und den geringstmöglichen Ressourcenbedarf optimiert, so dass die Kosten und der ROI für die Kunden optimiert werden können.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Large Language Models (LLMs) und Kontext bezogene Antworten. 
 
 Kaum überraschend, aber die Geschäftsprozesse laufen weiterhin auf Basis zahlreichen Dokumenten ab. Der Bedarf an intelligenter Dokumentenverarbeitung (IDP) reißt auch nicht ab, denn die IDP ist ein wesentliches Instrument in einem RAG-Projekt. RAG? Wieder eine Abkürzung, die nach Erklärung ruft. RAG bedeutet wörtlich „Retrieval Augmented Generation“. RAG verwendet vorhandene Unternehmensdokumente zur Anreicherung von Datenbanken und zur Feinabstimmung von KI-Modellen, um genauere und kontextspezifische Antworten zu ermöglichen. Durch den Einsatz unternehmensspezifischer Informationen gehen die RAG-Modelle über generische Antworten hinaus, die auf zuvor trainierten Daten basieren, und liefern stattdessen maßgeschneiderte Antworten, die den einzigartigen Kontext und die Bedürfnisse des Unternehmens widerspiegeln und zusätzlich die Zuverlässigkeit erhöhen, indem u.a. auch sog. Hallucination – eine in der KI auftretende Halluzination (auch Konfabulation genannt) verhindert werden. 
@@ -50,6 +53,9 @@ Dies ist somit eine kostengünstige Methode, die die Fähigkeiten großer Sprach
 
 So unterstützt ABBYY die Unternehmen, mit generativer KI erfolgreich zu sein: Daten liegen oft in Silos innerhalb des Unternehmens vor, sind aber größtenteils in Geschäftsdokumenten eingeschlossen. Eine intelligente Dokumentenverarbeitung extrahiert Dokumentendaten und stellt sie in einen Kontext. Diese Daten und der Kontext werden dann mit der Benutzer-Prompot an das LLM kombiniert, um sie inhaltsbezogen zu machen. Das bedeutet, Genauigkeit, Qualität und Zuverlässigkeit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Convolutional Neural Networks (CNN) und Transformatoren
 
 ABBYYs End-to-End-Ansatz für OCR (Optical Character Recognition) – optische Zeichenerkennung und ICR (was für Intelligent Character Recognition – also die handgeschriebenen Zeichen steht) wurde vor vielen Jahren bereits auf den Markt gebracht und seitdem kontinuierlich weiterentwickelt. ABBYY verwendet die gleichen Technologien wie ChatGPT und andere LLMs - neuronale Faltungsnetzwerke, Transformatoren und große Sprachmodelle. 
@@ -58,12 +64,18 @@ Das LLM, das ABBYY einsetzt, ist sehr spezifisch auf die Bedürfnisse der Kunden
 
 Diese Technik verbessert die Leistung und Genauigkeit unserer OCR-Funktionen insgesamt drastisch und wird in Kombination mit unserem statistischen Ansatz eingesetzt. Die KI entscheidet automatisch, welcher Ansatz für Ihre Dokumente am besten geeignet ist, um sie im Hinblick auf Konsistenz, Genauigkeit und Geschwindigkeit zu optimieren, was zu besseren Durchsatzraten führt. 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Deep Learning und schnelles maschinelles Lernen (ML) 
 
 Deep Learning ermöglicht es ABBYY, KI-Modelle in seiner Plattform für einen ganz bestimmten Zweck vorzutrainieren. Das ist etwas anderes als bei Open-Source-LLMs oder Anbietern generativer KI, die diese als API anbieten. Während generative KI erstaunliche neue Möglichkeiten schafft, wie man mit Technologien interagiert, wird sie nicht bei allem gut funktionieren. Durch Deep Learning werden Modelle für einen ganz bestimmten Zweck trainiert, und darin ist es hervorragend, denn es ist zweckgebunden. Wie oben erwähnt, setzt ABBYY eine Kombination aus vielen verschiedenen Technologien ein, um eine intelligente Dokumentenverarbeitung der Spitzenklasse zu bieten. 
 
 Im ABBYY Produkt „Vantage“ vereint ABBYY eine Kombination aus Deep Learning und schnellem maschinellem Lernen auf einer Low-Code-IDP-Plattform, um die Durchsatzrate zu maximieren. Mit Deep Learning allein können die Kunden mit den von ABBYY trainierten Modellen sofort eine Genauigkeit von oftmals bis zu 90 Prozent erreichen. Durch die Einbeziehung des schnellen maschinellen Lernens kann die Genauigkeit sogar auf über 95 Prozent steigen. Schnelles maschinelles Lernen merkt sich die Ausreißer, die tiefes maschinelles Lernen (Deep Learning) nicht erreichen konnte, und arbeitet schnell, mit nur wenigen Variationen der fraglichen Dokumente. Das Modell verbessert sich kontinuierlich anhand der verarbeiteten Dokumente -und deren Variationen-, sowie basierend auf manuellem Input während des sogenannten HITL (Human in the Loop). Was so viel bedeutet wie manuelle Verifikation. Somit erzielen die Modelle mit der Zeit eine immer höhere Genauigkeit.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Natural Language Processing (NLP) 
 
 Natural Language Processing (NLP), im deutschen Sprachraum auch Computerlinguistik bzw. linguistische Datenverarbeitung genannt, ist ein Bereich der KI als auch des maschinellen Lernens. Diese beschäftigt sich mit der Analyse und Generierung von natürlicher Sprache. Einerseits können wir durch Natural Language Processing mit Computern mittels Sprache kommunizieren, wie „Hey Alex, dimme das Licht im Pool“, andererseits erlaubt es hoch entwickelten Intelligent Document Processing (IDP), dieses Sprach-„Verständnis“ zu nutzen, um Dokumente jeglicher Art und Komplexität zu „verstehen“- unabhängig davon, ob diese textlastig, unstrukturierte hochkomplexe Dokumente sind. 
@@ -80,6 +92,9 @@ Um ein Update zu erhalten, wenn neue Artikel veröffentlicht sind, melden Sie si
 
 ![Christian Marquardt](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/blog/autors-Headshots/christian-marquadt-110x110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Christian Marquardt 
 
 Regional Sales Director for the DACH region at ABBYY Europe
@@ -148,3 +163,43 @@ Vernetzen Sie sich mit uns
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[New] 2024 Approved  FullFrame Alliance  How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-make-a-video-from-photo-with-music/"><u>[New] 2024 Approved  Make a Video From Photo with Music</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleashing-video-potential-efficiently-add-subtitlescc-to-your-youtube-videos/"><u>[New] In 2024, Unleashing Video Potential  Efficiently Add Subtitles/CC to Your YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sparring-spirits-versus-social-media-savvy/"><u>[New] Sparring Spirits Versus Social Media Savvy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surpass-everyday-photo-taking-with-ios-11/"><u>[New] Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-practice-manual-for-text-on-picture-edits/"><u>[New] The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-perfect-tweet-mastering-the-art-of-video-upload/"><u>[Updated] 2024 Approved  The Perfect Tweet  Mastering the Art of Video Upload</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-most-wallet-friendly-cloud-haven-for-mass-datasets/"><u>[Updated] The Most Wallet-Friendly Cloud Haven for Mass Datasets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] Top Zero-Cost Image Amplifier  Desktop/Mobile Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-best-in-class-steadicams-for-high-end-dslr-projects/"><u>[Updated] Uncovering Best-in-Class Steadicams for High-End DSLR Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-become-a-top-notch-interviewer/"><u>2024 Approved  Strategies to Become a Top-Notch Interviewer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-end-to-end-guide-to-picsart/"><u>2024 Approved  The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>2024 Approved  The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-mac-exclusive-free-drawing-platforms/"><u>2024 Approved  Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-with-easy-online-cropping-steps/"><u>2024 Approved  Transforming Photos with Easy Online Cropping Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uncovering-superior-free-viewers-for-your-webm-media-files/"><u>2024 Approved  Uncovering Superior, Free Viewers for Your WebM Media Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-in-ar-applying-lut-techniques/"><u>2024 Approved  Unleashing Potential in AR  Applying LUT Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved  Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-c53-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme C53 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hilarity-unleashed-kinemaster-meme-creation-for-2024/"><u>Hilarity Unleashed  KineMaster Meme Creation for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-s23-fe-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy S23 FE Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-13-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 13 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-eliminating-backgrounds-in-photography/"><u>In 2024, The Art of Eliminating Backgrounds in Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-places-for-accessible-photography-loot/"><u>In 2024, Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>In 2024, Ultimate Guide  The Art of Background Music for Video Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-windows-10-for-aspiring-filmmakers/"><u>In 2024, Unlocking the Potential of Windows 10 for Aspiring Filmmakers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-vsdc-vs-alternatives-a-comprehensive-evaluation/"><u>In 2024, VSDC vs Alternatives  A Comprehensive Evaluation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024-hotlist-of-discovery-plus-shows-you-cant-miss/"><u>July 2024 Hotlist of Discovery Plus Shows You Can't Miss</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-art-of-capturing-content-on-vimeo/"><u>The Art of Capturing Content on Vimeo</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-magic-disk-customers-journey-to-restored-photo-richness/"><u>The Magic Disk: Customer's Journey to Restored Photo Richness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-free-online-havens-for-3d-text-psdfiles-for-2024/"><u>Top 8 FREE Online Havens for 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
+</ul></div>

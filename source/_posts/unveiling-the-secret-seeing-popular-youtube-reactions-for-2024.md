@@ -1,7 +1,7 @@
 ---
 title: "\"Unveiling the Secret  Seeing Popular YouTube Reactions for 2024\""
-date: 2024-07-12T13:28:41.815Z
-updated: 2024-07-13T13:28:41.815Z
+date: 2024-08-21T16:43:50.179Z
+updated: 2024-08-22T16:43:50.179Z
 tags: 
   - screen-recording
   - ai video
@@ -87,10 +87,16 @@ Step2 Scroll down a little bit and click the **More** button.
 
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Click the **Comments** section.
 
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
@@ -105,16 +111,37 @@ Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Cl
 
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -189,3 +216,43 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-explore-the-world-of-custom-thumbnails-top-6-tools-reviewed/"><u>[New] 2024 Approved  Explore the World of Custom Thumbnails - Top 6 Tools Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-your-content-with-effortlessly-added-youtube-subtitles-for-2024/"><u>[New] Enhancing Your Content with Effortlessly Added YouTube Subtitles for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-inside-the-metaverse-comprehending-6-intricate-instances/"><u>[New] Inside the Metaverse  Comprehending 6 Intricate Instances</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones  How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[New] The Path to Effective Marketing  Best Practices for Health Promos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-best-cams-for-professional-streaming/"><u>[New] The Ultimate Guide  Best Cams for Professional Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-fixing-rtmp-streams-in-premiere/"><u>[New] The Ultimate Guide to Fixing RTMP Streams in Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[New] Unleashing Creativity in iPhone Videography  8 Best Practices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-premium-top-8-smoothest-capture-tools/"><u>[Updated] 2024 Approved  Premium Top 8 Smoothest Capture Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoiding-piracy-safe-techniques-for-youtube-to-mp4/"><u>[Updated] In 2024, Avoiding Piracy  Safe Techniques for Youtube-to-MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded/"><u>[Updated] Streamline Your Listening Experience  How to Get Apple Podcasts Downloaded</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-cutting-edge-of-vid-extraction-top-5-free-fast-pinterest-tools/"><u>[Updated] The Cutting Edge of Vid Extraction  Top 5 Free, Fast Pinterest Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[Updated] The Ultimate Guide  Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-live-streaming-mic-guide-choosing-from-the-best-6/"><u>[Updated] The Ultimate Live-Streaming Mic Guide  Choosing From the Best 6</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-years-finest-photo-framers-and-organizers-compilation/"><u>[Updated] The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-zoom-tricks-for-chromebook-users/"><u>[Updated] Ultimate Zoom Tricks for Chromebook Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-ps-simple-grading-techniques-for-perfection/"><u>[Updated] Unlocking PS  Simple Grading Techniques for Perfection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-technicalities-of-podcast-rss-file-design/"><u>2024 Approved  The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-eyeball-enticer-author/"><u>2024 Approved  Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-fps-enhancement-choosing-the-best-extensions/"><u>2024 Approved  Ultimate FPS Enhancement  Choosing the Best Extensions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nubia-z50-ultra-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nubia Z50 Ultra to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/accelerating-videos-an-easy-start-with-snapchat-for-2024/"><u>Accelerating Videos  An Easy Start with Snapchat for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-c53-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme C53</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>In 2024, Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-online-tips-creating-title-magic/"><u>In 2024, Top Online Tips  Creating Title Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/magix-acid-pro-unveiled-and-options-examined/"><u>Magix ACID Pro Unveiled & Options Examined</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-best-online-video-editors-for-chromebook/"><u>New In 2024, Best Online Video Editors for Chromebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/perfecting-onscreen-image-clarity-and-detail-for-2024/"><u>Perfecting Onscreen Image Clarity and Detail for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-exploring-youtube-comments-for-2024/"><u>The Essential Guide to Exploring YouTube Comments for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/understanding-the-disparities-youtube-versus-dailymotion/"><u>Understanding the Disparities  YouTube Versus Dailymotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-vectors-first-steps-and-essential-apps-for-2024/"><u>Understanding Vectors  First Steps and Essential Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-your-creativity-innovative-online-crop-strategies-for-2024/"><u>Unleash Your Creativity - Innovative Online Crop Strategies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-ustreams-offerings-and-opponents-for-2024/"><u>Unveiling Ustream's Offerings and Opponents for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-your-multimedia-experience-new-drivers-for-hp-omen-15/"><u>Update Your Multimedia Experience: New Drivers for HP Omen 15</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Online Portals for Text Artistry for 2024"
-date: 2024-07-12T13:51:53.557Z
-updated: 2024-07-13T13:51:53.557Z
+date: 2024-08-21T16:20:26.093Z
+updated: 2024-08-22T16:20:26.093Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,9 @@ Freepik is one of the most popular sites for Adobe Photoshop text effect PPSD do
 
 You can also search different categories of text effects such as 3D text effect, neon effect, gold effect, and much more. You can also sort the text effects by their color and orientation so that you can choose as per your project requirements. You get exactly what you see in the mock typography and you can download PSD file instantly and edit everything as per your preference. The website is particularly popular for its 3D text effects, text effect fonts, and gold text effects.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 2\. GraphicsFamily
 
 <https://graphicsfamily.com/downloads/category/text-effects/>
@@ -62,6 +65,9 @@ Dribble is another text effect PSD download platform where you get out of the bo
 
 ![dribble text effect](https://images.wondershare.com/filmora/article-images/2022/09/dribble-text-effect.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Starting from underwater and neon text effects to glitch and broken text effects, you can download free as well as premium effects instantly. There are over 10,000+ text effects available to choose from. You can search by tags, text color, as well as timeframe to get the desired text effect for your graphics project.
 
 ### 4\. Envato Elements
@@ -98,16 +104,28 @@ Step1 Download and install Wondershare Filmora on your computer. Launch Filmora 
 
 ![download and install filmora](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 Step2 Import your video clip under Project Media folder. Drag and drop the clip onto the timeline and go to Titles option located at the top. Check out the different categories of text effects on the left panel.
 
 ![import video clip under project media folder](https://images.wondershare.com/filmora/guide/add-titles-win-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Select a text effect template and drop it onto the timeline. Place the text layer where you want the text to appear in the video. Go to Viewer and reposition the text on the video frame. Double-click on the text layer and type in your text words.
 
 ![select a text effect template](https://images.wondershare.com/filmora/guide/text-animation-win-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 Edit the style of the text as well as other settings as you think fit. You can even go to Advanced section to customize the effect minutely as per your requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If texts and titles are an important part of your graphics or videos, you should have the best text effect templates and presets. We have selected the best sites from where you can download text effects for Adobe photos and video editors. If you want to add text effects to your video, we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) where there are unlimited text effects and templates that you can add and edit for customization and personalization.
@@ -141,3 +159,41 @@ Part 1\. Best Sites to Download Text Effects
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-conveniently-share-your-videos-youtube-shorts-mobilecomputer-tips/"><u>[New] 2024 Approved  Conveniently Share Your Videos  YouTube Shorts Mobile/Computer Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-meme-manifestation-station/"><u>[New] Meme Manifestation Station</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>[New] The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-eye-opening-journey-with-q500/"><u>[New] The Eye-Opening Journey with Q500</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>[New] The Ultimate Stabilizer  Unmatched Smartphone Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-kid-safe-toy-quadcopters-unveiled/"><u>[New] Top Kid-Safe Toy Quadcopters Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-11-insider-tips-for-outstanding-hue-alignment/"><u>[Updated] 11 Insider Tips for Outstanding Hue Alignment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hidden-features-top-30-unknown-window-11-tips/"><u>[Updated] Hidden Features  Top 30 Unknown WINDOW 11 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtle-harmonies-on-desktop-systems/"><u>[Updated] Subtle Harmonies on Desktop Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncing-social-media-zoom-and-facebook-live-interactions/"><u>[Updated] Syncing Social Media  Zoom and Facebook Live Interactions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-technicalities-of-podcast-rss-file-design/"><u>[Updated] The Technicalities of Podcast RSS File Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-budget-friendly-timer-tools/"><u>[Updated] Top Budget-Friendly Timer Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-vr-classics-dont-miss-out/"><u>[Updated] Top VR Classics - Don’t Miss Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-potential-of-text-with-photo-shading-psx/"><u>[Updated] Unlock the Potential of Text with Photo Shading PSX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-digital-workshop-title-maker/"><u>2024 Approved  Top-Tier Digital Workshop Title Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-controlling-safaris-pip-feature/"><u>2024 Approved  Understanding and Controlling Safari's PIP Feature</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-navigating-the-world-of-instagram-filters-a-comprehensive-guide-to-2023/"><u>In 2024, Navigating the World of Instagram Filters  A Comprehensive Guide to 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-premier-essentials-seamless-audio-switching/"><u>In 2024, Premier Essentials  Seamless Audio Switching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-smileshop-memelore-hub/"><u>In 2024, SmileShop  Memelore Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unboxing-marketing-strategy/"><u>In 2024, Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-windows-10-sound-capabilities/"><u>In 2024, Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-wraps-for-virtual-reality-enthusiasts/"><u>Next-Gen Wraps for Virtual Reality Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/perfecting-gameplay-capture-on-the-newest-windows-11-for-2024/"><u>Perfecting Gameplay Capture on the Newest Windows 11 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/stream-the-best-games-list-9-for-2024/"><u>Stream the Best Games  List #9 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-premier-selection-of-vr-cycling-options-for-2024/"><u>The Premier Selection of VR Cycling Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tiktok-mastery-the-art-of-editing-your-number-for-2024/"><u>TikTok Mastery  The Art of Editing Your Number for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-wedding-clock-apps-for-android-and-ios-to-keep-your-day-on-track-for-2024/"><u>Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722123995741-top-4-must-try-ai-powered-story-creation-tools-unleash-your-imagination/"><u>Top 4 Must-Try AI-Powered Story Creation Tools - Unleash Your Imagination</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-repairing-a-non-functional-logitech-mouse-scroll-wheel/"><u>Troubleshooting Guide: Repairing a Non-Functional Logitech Mouse Scroll Wheel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade-for-2024/"><u>Unlock HDRI Magic  Compreranial SDR to High Dynamic Range Upgrade for 2024</u></a></li>
+</ul></div>
