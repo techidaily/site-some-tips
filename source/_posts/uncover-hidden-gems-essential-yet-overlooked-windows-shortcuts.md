@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts"
-date: 2024-08-27 22:40:29
-updated: 2024-08-29 12:10:41
+date: 2024-08-29T19:30:00.570Z
+updated: 2024-08-30T19:30:00.570Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -62,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Pair a device via Bluetooth in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-pair-a-device-via-bluetooth-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
  Once paired, select the “Accounts” tab on the left, go to “Sign-In Options,” scroll down and expand the “Dynamic Lock” section, and check the box next to “Allow Windows to lock your device automatically when you're away.” Now, whenever your smartphone moves out of range (typically 30 feet), your laptop will automatically lock.
 
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ##  Automate Tasks With Task Scheduler
 
  Task Scheduler is a useful but often overlooked utility in Windows. It allows you to [schedule tasks to run at specific times or in response to certain events](https://fox-direct.techidaily.com/updated-banish-the-chaos-strategies-to-refine-overwhelming-tiktok-drafts/), helping you automate routine tasks, improve efficiency, and save time. You can define one or more triggers and specify the action that Windows needs to take when the triggers are activated.
@@ -76,10 +85,16 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Setting up a trigger for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-setting-up-a-trigger-for-a-task-in-task-scheduler.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  After that, navigate to the “Actions” tab, click “New,” define an action such as “Start a Program,” and add any additional arguments for advanced tasks. Then, go to the “Conditions” tab, and define conditions for when the task shouldn’t run. Once the task is properly configured, click “OK.”
 
 ![Defining conditions for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-defining-conditions-for-a-task-in-task-scheduler.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Share Content Between Two Windows PCs
 
  While we usually have [various options to share files between a PC and a smartphone](https://on-screen-recording.techidaily.com/new-in-2024-home-sweet-habitat-6-basic-mc-dwellings-demystified/), things get a bit complicated when sharing content between two PCs. If both computers run Windows, and they both have a Bluetooth _and_ Wi-Fi connection, you can use the Nearby Sharing feature for a seamless file transfer. To use this feature, enable the feature on both PCs and ensure they are connected to the internet.
@@ -92,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
  With Nearby Sharing enabled, right-click the file you want to share and select “Share.” In the Nearby Sharing window, choose the target laptop. The recipient will receive a notification to accept the file. Once they accept the file transfer notification, they will receive the file wirelessly.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Capture Screenshots and Record the Screen Using the Game Bar
 
  If you often capture screenshots or record your screen using a third-party app, you may not have explored the Windows Game Bar tool yet. While designed primarily for capturing screenshots and recording gameplay, it also allows you to take screenshots and [record your screen](https://extra-resources.techidaily.com/saga-storytellers-syndicate-quintessential-quartet/) in other applications.
@@ -120,3 +138,78 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-simplified-pathway-using-instagram-live-effectively/"><u>[New] In 2024, Simplified Pathway  Using Instagram Live Effectively</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-redefining-schooling-with-virtual-reality/"><u>[New] Redefining Schooling with Virtual Reality</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-altering-numbers-on-tiktok/"><u>[New] Step-by-Step Guide  Altering Numbers on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-comprerancial-guide-to-building-an-influential-online-following/"><u>[New] The Comprerancial Guide to Building an Influential Online Following</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-creating-accessibility-your-guide-to-an-intuitive-youtube-signup/"><u>[Updated] 2024 Approved  Creating Accessibility  Your Guide to an Intuitive YouTube Signup</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-precise-age-setting-made-simple-tiktoks-guide/"><u>[Updated] 2024 Approved  Precise Age Setting Made Simple  TikTok's Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-supreme-writing-talents-through-genre-lenses/"><u>[Updated] 2024 Approved  Supreme Writing Talents Through Genre Lenses</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-branding-beats-technicalities-focus-on-your-streams-signature-style/"><u>[Updated] Branding Beats Technicalities  Focus on Your Stream's Signature Style</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-invisible-interactions-on-snapchat/"><u>[Updated] Detecting Invisible Interactions on Snapchat</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-media-content-via-youtube-studio-editing-skills/"><u>[Updated] Elevate Your Media Content via YouTube Studio Editing Skills</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-core-techniques-for-capturing-smartphone-content/"><u>[Updated] In 2024, Core Techniques for Capturing Smartphone Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-essential-guide-to-radiant-android-videos/"><u>[Updated] In 2024, The Essential Guide to Radiant Android Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-strategies-for-deleting-watch-later-items-on-youtube/"><u>[Updated] Strategies for Deleting Watch Later Items on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-mastering-fb-buzz-creating-share-worthy-content/"><u>2024 Approved  Mastering FB Buzz  Creating Share-Worthy Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-elevates-global-finance-management-for-renault-argentina/"><u>ABBYY Elevates Global Finance Management for Renault Argentina</u></a></li>
+<li><a href="https://some-tips.techidaily.com/additional-provisions-for-effective-data-management-strategy-a-comprehensive-guide/"><u>Additional Provisions for Effective Data Management Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-site-personalization-via-ai-based-analytics-developed-using-coqui-bot/"><u>Advanced Site Personalization via AI-Based Analytics – Developed Using Coqui Bot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-with-cookiebot-enhancing-website-personalization-and-tracking/"><u>Automated with Cookiebot: Enhancing Website Personalization and Tracking</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-misinterpretation-with-non-ai-text-summarization/"><u>Avoid Potential Misinterpretation with Non-AI Text Summarization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Boost Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-performance-boosting-web-traffic-effortlessly/"><u>Cookiebot-Driven Performance: Boosting Web Traffic Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-optimized-user-experience/"><u>Cookiebot-Enabled Sites: Optimized User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-sites-engagement-with-smart-tracking/"><u>Cookiebot-Enabled: Enhance Your Site's Engagement with Smart Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-leading-analytics-integration/"><u>Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-engagement/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-optimizing-site-engagement/"><u>Cookiebot-Enhanced User Experience: Optimizing Site Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-enhancing-your-websites-seo-and-conversion-rates/"><u>Cookiebot-Enhanced: Enhancing Your Website's SEO and Conversion Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-powering-your-website-with-cutting-edge-automation/"><u>Cookiebot-Enhanced: Powering Your Website with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-robotic-process-automation-outcomes-with-cutting-edge-process-analytics-abbyy/"><u>Elevating Robotic Process Automation Outcomes with Cutting-Edge Process Analytics | ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowerment/"><u>Empowerment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-site-functionality-with-our-cookiebot-integration-solutions/"><u>Enhance Site Functionality with Our Cookiebot Integration Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhance Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-through-innovative-cookiebot-solutions/"><u>Enhanced Personalization Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-with-cookiebot-technology/"><u>Enhanced Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-online-experience-with-cookiebot-technology/"><u>Enhancing Online Experience with Cookiebot Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/essential-guide-to-selecting-best-video-grabber-tools-for-2024/"><u>Essential Guide to Selecting Best Video Grabber Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertise-en-efficacite-des-transports-comment-accelerer-vos-processus-avec-notre-chef-lieu-checklist/"><u>Expertise en Efficacité Des Transports : Comment Accélérer Vos Processus Avec Notre Chef-Lieu Checklist !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-weigh-in-on-the-highly-affordable-and-functional-aliexpress-3d-printer-for-77/"><u>Experts Weigh In on the Highly Affordable and Functional AliExpress 3D Printer for $77</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-process-intelligence-insights-and-applications/"><u>Exploring the World of Process Intelligence: Insights and Applications</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202139299-fixing-the-issue-steelseries-arctis-5-headset-microphone-malfunction-resolved/"><u>Fixing the Issue: SteelSeries Arctis 5 Headset Microphone Malfunction Resolved!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-insights-and-conversions/"><u>Harness the Power of Cookiebot for Superior Website Insights & Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-for-superior-site-engagement/"><u>Harnessing the Power of Cookiebot for Superior Site Engagement</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-sony-xperia-1-v-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Sony Xperia 1 V Phone Screen?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-get-cod-black-ops-cold-war-running-smoothly-on-your-computer/"><u>How to Get Cod: Black Ops Cold War Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nokia-g310-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nokia G310</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-save-top-cloud-providers-rates-for-2024/"><u>How to Save  Top Cloud Providers' Rates for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v17-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.7 document with digital signature app</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-e13-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Moto E13 Lock Screen Password?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-video-editing-for-virality-a-comprehensive-guide-to-instagram-success/"><u>In 2024, Video Editing for Virality  A Comprehensive Guide to Instagram Success</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-us-for-an-exciting-showcase-of-abbyy-technologies-at-ai-pulse-developers-conference-2024/"><u>Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-analytics-and-seo-performance/"><u>Leverage Cookiebot Technology for Superior User Analytics and SEO Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-online-marketing-with-cookiebots-advanced-ad-management-technology/"><u>Optimize Your Online Marketing with Cookiebot's Advanced Ad Management Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-enhance-your-sites-personalization/"><u>Optimized with Cookiebot Technology: Enhance Your Site's Personalization</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-vivo-y200-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Vivo Y200</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionarer-ansatz-des-abbyy-sdks-zur-verbesserung-der-mobilgerate-onboarding-erfahrungen/"><u>Revolutionärer Ansatz Des ABBYY-SDKs Zur Verbesserung Der Mobilgeräte-Onboarding-Erfahrungen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/selecting-abbyy-vantage-the-reason-behind-sidetrades-choice-for-enhanced-payment-solutions/"><u>Selecting ABBYY Vantage: The Reason Behind Sidetrade's Choice for Enhanced Payment Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-when-outlook-cannot-be-launched/"><u>Solutions for When Outlook Cannot Be Launched</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-reno-8t-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Reno 8T Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-8-authentic-youtube-growth-tools/"><u>Top 8 Authentic YouTube Growth Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-influence-of-ai-on-economic-progress-insights-from-abbyy-experts/"><u>Unveiling the Influence of AI on Economic Progress: Insights From ABBYY Experts</u></a></li>
+</ul></div>

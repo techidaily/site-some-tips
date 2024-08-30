@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney"
-date: 2024-08-27 19:15:22
-updated: 2024-08-29 10:43:32
+date: 2024-08-29T19:31:02.476Z
+updated: 2024-08-30T19:31:02.476Z
 tags:
   - cutting-edge
 categories:
@@ -33,24 +33,40 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
  This means the AI chatbot is taking over the job of prompt engineer, and that gives us the opportunity to use its prompt engineering prowess in MidJourney.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Porting ChatGPT's DALL-E 3 Prompts Back into MidJourney
 
  It's not immediately obvious where the actual prompts are that DALL-E 3 has used to create the images you asked for, but all you have to do is click on one of the images in the results to open the gallery.
 
 ![DALL-E 3 Output of Space Octopuses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-20.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
  To the right of the image is the prompt, although you'll likely not see it all in the preview. Click the "Copy" button below the prompt to copy it to the clipboard.
 
 ![DALL-E 3 Copy Button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, in MidJourney, paste the prompt into Discord where you would [usually type your prompt](https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-moto-g73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/). Add any parameters that are MidJourney-specific (such as the [aspect ratio](https://youtube-lab.techidaily.com/gateway-to-youtube-entrepreneurship-the-best-10-easy-to-create-channels/)) and send the instructions to the AI.
 
 ![MidJourney With Prompt from DALL-E 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, enjoy the results!
 
 ![MidJourney Results from DALL-E 3 Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  Keep in mind that each of the (up to) four images that DALL-E 3 produces in ChatGPT will have their own unique prompt, so use the one that resulted in the best result according to your own taste.
 
 ---
@@ -71,3 +87,59 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-augmented-gaming-experience-the-top-8-list/"><u>[New] Augmented Gaming Experience  The Top 8 List</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-beginning-with-tweets-your-new-twitter-journey/"><u>[New] Beginning with Tweets  Your New Twitter Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-step-by-step-creating-your-own-chat-signal-ios-and-android-edition/"><u>[New] In 2024, Step-by-Step  Creating Your Own Chat Signal - iOS & Android Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-strikingly-successful-nicknames-a-must-have-list-for-disco-channels-for-2024/"><u>[New] Strikingly Successful Nicknames  A Must-Have List for Disco Channels for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-your-pcgaming-with-obs/"><u>[Updated] 2024 Approved  Unlock the Full Potential of Your PC/Gaming with OBS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-crafting-shareable-moments-a-guide-to-enhanced-viewership-in-15-second-videos-for-2024/"><u>[Updated] Crafting Shareable Moments  A Guide to Enhanced Viewership in 15-Second Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-crafting-winning-collaboration-plans-on-youtube-for-2024/"><u>[Updated] Crafting Winning Collaboration Plans on YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-recorder-at-zero-free-capture-of-your-android-content/"><u>[Updated] In 2024, Recorder at Zero  Free Capture of Your Android Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-blueprint-for-setting-up-google-meet-for-2024/"><u>[Updated] The Ultimate Blueprint for Setting Up Google Meet for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-brainless-beats-continue-selecting-top-8-zombie-masterpieces/"><u>2024 Approved  Brainless Beats Continue  Selecting Top 8 Zombie Masterpieces</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-logical-path-to-exit-a-discord-platform/"><u>2024 Approved  The Logical Path to Exit a Discord Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-recent-advancements-in-text-recognition-what-you-need-to-know/"><u>ABBYY's Recent Advancements in Text Recognition: What You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-data-collection-with-cookiebot-for-smarter-personalization-and-analytics/"><u>Automated Data Collection with Cookiebot for Smarter Personalization & Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-data-collection-with-cookiebot-your-key-to-enhanced-seo/"><u>Automated Data Collection with Cookiebot: Your Key to Enhanced SEO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-cookiebot-enhance-your-online-presence/"><u>Automated Marketing with Cookiebot: Enhance Your Online Presence</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-traffic-with-cookiebot-essential-techniques-for-search-engine-mastery/"><u>Boost Traffic with Cookiebot: Essential Techniques for Search Engine Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-sites-analytics-capabilities-using-cookiebot-technology/"><u>Boost Your Site's Analytics Capabilities Using Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-web-traffic-with-cookiebot-technology-the-smart-way-to-seo-success/"><u>Boosting Web Traffic with Cookiebot Technology – The Smart Way to SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-based-identity-confirmation-elevated-with-trustids-integration-of-abbyy-optical-character-recognition-technology/"><u>Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-experience/"><u>Cookiebot-Driven Personalization Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience/"><u>Cookiebot-Driven Personalization: Enhancing User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-user-engagement-with-smart-analytics/"><u>Cookiebot-Driven Success: Enhancing User Engagement with Smart Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-conversion-optimization-boost-your-site-performance-easily/"><u>Cookiebot-Enabled Conversion Optimization: Boost Your Site Performance Easily!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-performance-and-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Performance and User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-ultimate-powering-tool-for-your-digital-marketing-success/"><u>Cookiebot: The Ultimate Powering Tool for Your Digital Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebots-innovative-technology-drives-digital-marketing-success-and-engagement-optimization/"><u>Cookiebot's Innovative Technology Drives Digital Marketing Success and Engagement Optimization</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-11-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 11 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-experience-and-conversions-through-cookiebot-driven-optimization/"><u>Enhance User Experience & Conversions Through Cookiebot-Driven Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-rates-via-cutting-edge-cookiebot-analytics-tools/"><u>Enhanced Conversion Rates via Cutting-Edge Cookiebot Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-trouble-free-feeding-routines-with-arf-pets-automatic-pet-dispenser-the-ultimate-care-compan-1/"><u>Experience Trouble-Free Feeding Routines with Arf Pets Automatic Pet Dispenser: The Ultimate Care Compan 1</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-significance-of-versions-in-windows-updates/"><u>Exploring the Significance of Versions in Windows Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-download-and-install-corsair-void-pro-drivers-on-windows-in-minutes/"><u>How To Securely Download And Install Corsair Void Pro Drivers on Windows - In Minutes!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-brilliant-asus-monitor-ultrahd-true-black/"><u>In 2024, Brilliant Asus Monitor  UltraHD, True Black</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mac-users-choice-why-screenflow-dominates-the-market/"><u>In 2024, Mac Users' Choice  Why ScreenFlow Dominates the Market</u></a></li>
+<li><a href="https://driver-error.techidaily.com/integrated-driver-setup-for-pc-cards/"><u>Integrated Driver Setup for PC Cards</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-issue-of-missing-incoming-emails-in-yahoo/"><u>Solving the Issue of Missing Incoming Emails in Yahoo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-accounts-payable-with-abbyy-solutions-the-key-to-streamlining-adactus-housing-groups-bills/"><u>Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-advanced-traffic-insights-with-our-cookiebot-technology-integration/"><u>Unlocking Advanced Traffic Insights with Our Cookiebot Technology Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-web-insights-with-cookiebot-the-key-to-advanced-data-tracking-and-conversion-optimization/"><u>Unlocking Web Insights with Cookiebot: The Key to Advanced Data Tracking and Conversion Optimization</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974891586-update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webinar-insights-mastering-the-art-of-customer-delight-through-effective-business-processes/"><u>Webinar Insights: Mastering the Art of Customer Delight Through Effective Business Processes</u></a></li>
+</ul></div>
