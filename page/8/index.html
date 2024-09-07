@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"some-tips.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -693,32 +750,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/bc6e0c08f36b012f885710643ac64bca838b2cd03d9601b077f3603bbf1a3a0e.jpg" alt="Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/abbyy-welcomes-chip-vonburg-as-their-new-cco/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9c704c9ab8ca818eb8c547f35c543ea321e006214fab450eba00af5408d5f618.jpg" alt="ABBYY Welcomes Chip VonBurg as Their New CCO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/">
-                            Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings
+                        <a href="/abbyy-welcomes-chip-vonburg-as-their-new-cco/">
+                            ABBYY Welcomes Chip VonBurg as Their New CCO
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Unlocking the Secrets: 13 Quick Methods to Access Windows 10 SettingsQuick Links
-Use a Keyboard Shortcut 
-Use the Start Menu ...
+                             Click here ## ABBYY Welcomes Chip VonBurg as Their New CCO ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:30:02 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -731,7 +786,7 @@ Use the Start Menu ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -740,21 +795,9 @@ Use the Start Menu ...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/">Read more<span class="seo-reader-text">Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/abbyy-welcomes-chip-vonburg-as-their-new-cco/">Read more<span class="seo-reader-text">ABBYY Welcomes Chip VonBurg as Their New CCO</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -770,32 +813,30 @@ Use the Start Menu ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1a9ff9a0df36e63422a5b90ac24e55bb1f02f4633cff516b42a4d7954e71a5e9.jpg" alt="Understanding Batch Files: A Comprehensive Guide on What They Are &amp; How To Access Them" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/abbyy-dominates-the-2023-everest-group-id-5-assessment-peaking-with-excellence/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg" alt="ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/">
-                            Understanding Batch Files: A Comprehensive Guide on What They Are &amp; How To Access Them
+                        <a href="/abbyy-dominates-the-2023-everest-group-id-5-assessment-peaking-with-excellence/">
+                            ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Understanding Batch Files: A Comprehensive Guide on What They Are &amp; How To Access ThemQuick Links
-What is a BAT File? 
-Ho...
+                             ## ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence Report Everest Group Intelligent ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:30:01 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -808,7 +849,7 @@ Ho...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -817,21 +858,9 @@ Ho...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/">Read more<span class="seo-reader-text">Understanding Batch Files: A Comprehensive Guide on What They Are &amp; How To Access Them</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/abbyy-dominates-the-2023-everest-group-id-5-assessment-peaking-with-excellence/">Read more<span class="seo-reader-text">ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -847,32 +876,30 @@ Ho...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13a9fad029c088861e5549a8a.jpg" alt="Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/uipathabbyy-flexicapture/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8f63bb0ba2ec8bc31c40485e081b6a90e2c27c800c8dc1ddbd91690f85f039c9.jpg" alt="紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/">
-                            Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts
+                        <a href="/uipathabbyy-flexicapture/">
+                            紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Uncover Hidden Gems: Essential Yet Overlooked Windows ShortcutsQuick Links
-Adjust the Volume of Individual Apps 
-Minimize the...
+                            紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上お客様のストーリーに戻る Information &amp; Communication | Accounts Payable Automation...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:30:00 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -885,7 +912,7 @@ Minimize the...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -894,21 +921,9 @@ Minimize the...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/">Read more<span class="seo-reader-text">Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/uipathabbyy-flexicapture/">Read more<span class="seo-reader-text">紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -924,31 +939,30 @@ Minimize the...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/ultimate-selection-premium-mac-screens-and-monitors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg" alt="Ultimate Selection: Premium Mac Screens and Monitors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-top-10-advantages-of-leveraging-process-analytics-insights-from-the-abbyy-expert-team/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/02857e9a5729a034df5799d80242303ce172ee6947ee8ec278b9096d58e3459c.jpg" alt="The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/ultimate-selection-premium-mac-screens-and-monitors/">
-                            Ultimate Selection: Premium Mac Screens and Monitors
+                        <a href="/the-top-10-advantages-of-leveraging-process-analytics-insights-from-the-abbyy-expert-team/">
+                            The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Ultimate Selection: Premium Mac Screens and MonitorsRead update 
-We’ve reviewed our recommendations and updated our picks for...
+                             ## The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team Back to ABBYY Blog ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:59 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -961,7 +975,7 @@ We’ve reviewed our recommendations and updated our picks for...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -970,21 +984,9 @@ We’ve reviewed our recommendations and updated our picks for...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/ultimate-selection-premium-mac-screens-and-monitors/">Read more<span class="seo-reader-text">Ultimate Selection: Premium Mac Screens and Monitors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-top-10-advantages-of-leveraging-process-analytics-insights-from-the-abbyy-expert-team/">Read more<span class="seo-reader-text">The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1000,30 +1002,30 @@ We’ve reviewed our recommendations and updated our picks for...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb75637faff2a09a30c684309.jpg" alt="Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/senior-software-engineer-mihajlo-mulic-joins-abbyy-team/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/911f3006727fe16b140b96791552a2ef85c3bfe958d62fe3b92ea45616652f65.jpg" alt="Senior Software Engineer Mihajlo Mulic Joins ABBYY Team" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/">
-                            Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems
+                        <a href="/senior-software-engineer-mihajlo-mulic-joins-abbyy-team/">
+                            Senior Software Engineer Mihajlo Mulic Joins ABBYY Team
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux SystemsSlowly but surely, the Linux ecosystem is switc...
+                            Senior Software Engineer Mihajlo Mulic Joins ABBYY TeamBack to ABBYY Blog ABBYY Spotlight: Mihajlo Mulic, Senior Software De...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:58 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -1036,7 +1038,7 @@ We’ve reviewed our recommendations and updated our picks for...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1045,21 +1047,9 @@ We’ve reviewed our recommendations and updated our picks for...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/">Read more<span class="seo-reader-text">Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/senior-software-engineer-mihajlo-mulic-joins-abbyy-team/">Read more<span class="seo-reader-text">Senior Software Engineer Mihajlo Mulic Joins ABBYY Team</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1075,31 +1065,30 @@ We’ve reviewed our recommendations and updated our picks for...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-9-methods-for-accessing-powershell-on-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/52781818963_ddd89fcf7e_o-3.jpg" alt="Top 9 Methods for Accessing PowerShell on Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimized-with-crawlbot-enhancing-site-traffic/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d04c4091c93f7c6e0ae17b31cbbed37cb1d18932b8605027dfc827051ad0a043.jpg" alt="Optimized with CrawlBot: Enhancing Site Traffic" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-9-methods-for-accessing-powershell-on-windows-10/">
-                            Top 9 Methods for Accessing PowerShell on Windows 10
+                        <a href="/optimized-with-crawlbot-enhancing-site-traffic/">
+                            Optimized with CrawlBot: Enhancing Site Traffic
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Top 9 Methods for Accessing PowerShell on Windows 10Quick Links
-What Is the Difference Between PowerShell and Command Prompt?...
+                             ## Optimized with CrawlBot: Enhancing Site Traffic Back to Webinars ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:56 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -1112,7 +1101,7 @@ What Is the Difference Between PowerShell and Command Prompt?...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1121,21 +1110,9 @@ What Is the Difference Between PowerShell and Command Prompt?...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/top-9-methods-for-accessing-powershell-on-windows-10/">Read more<span class="seo-reader-text">Top 9 Methods for Accessing PowerShell on Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimized-with-crawlbot-enhancing-site-traffic/">Read more<span class="seo-reader-text">Optimized with CrawlBot: Enhancing Site Traffic</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1151,32 +1128,30 @@ What Is the Difference Between PowerShell and Command Prompt?...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-8-essential-steps-for-optimizing-your-new-windows-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-laptop-with-the-windows-11-settings-screen-and-a-gear-next-to-it.jpg" alt="Top 8 Essential Steps for Optimizing Your New Windows PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76f6e17526af1715e861dd9a8.jpg" alt="Optimized With Cookiebot Technology - Boost Your Site&#39;s Engagement and Conversions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-8-essential-steps-for-optimizing-your-new-windows-pc/">
-                            Top 8 Essential Steps for Optimizing Your New Windows PC
+                        <a href="/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/">
+                            Optimized With Cookiebot Technology - Boost Your Site&#39;s Engagement and Conversions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Top 8 Essential Steps for Optimizing Your New Windows PCQuick Links
-Install Pending Updates 
-Uninstall Pre-Installed Bloatwar...
+                             ## Optimized With Cookiebot Technology - Boost Your Site's Engagement and Conversions ABBYY FineReader Engine ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:55 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -1189,7 +1164,7 @@ Uninstall Pre-Installed Bloatwar...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1198,21 +1173,9 @@ Uninstall Pre-Installed Bloatwar...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/top-8-essential-steps-for-optimizing-your-new-windows-pc/">Read more<span class="seo-reader-text">Top 8 Essential Steps for Optimizing Your New Windows PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/">Read more<span class="seo-reader-text">Optimized With Cookiebot Technology - Boost Your Site&#39;s Engagement and Conversions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1228,31 +1191,30 @@ Uninstall Pre-Installed Bloatwar...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/14595ce84d31d38abb3ed2fa0891687712e003ea9a69810e6bfa5725263bbf33.jpg" alt="The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimize-with-cookiebot-elevate-website-performance-and-tracking/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57491460fea382eb83a2be019.jpg" alt="Optimize with Cookiebot: Elevate Website Performance &amp; Tracking" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/">
-                            The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac
+                        <a href="/optimize-with-cookiebot-elevate-website-performance-and-tracking/">
+                            Optimize with Cookiebot: Elevate Website Performance &amp; Tracking
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My MacKey Takeaways
-Too many developers opt out of all...
+                             ## Optimize with Cookiebot: Elevate Website Performance & Tracking Newsroom ## ABBYY ernennt Anthony Maccio...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:54 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -1265,7 +1227,7 @@ Too many developers opt out of all...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1274,21 +1236,9 @@ Too many developers opt out of all...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/">Read more<span class="seo-reader-text">The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimize-with-cookiebot-elevate-website-performance-and-tracking/">Read more<span class="seo-reader-text">Optimize with Cookiebot: Elevate Website Performance &amp; Tracking</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1304,32 +1254,30 @@ Too many developers opt out of all...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/13a2ed7d3d473fc4b094f952faefa5141a38181bbb0354fc87e696c7a5f69650.png" alt="Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf58375585e8d7cab9fd27ade4.jpg" alt="Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/">
-                            Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems
+                        <a href="/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/">
+                            Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 SystemsQuick Links
-Perform Some Preliminary Checks 
-Unmut...
+                             ## Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics Newsroom ## ABBYY verhi...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:53 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -1342,7 +1290,7 @@ Unmut...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1351,21 +1299,9 @@ Unmut...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/">Read more<span class="seo-reader-text">Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/">Read more<span class="seo-reader-text">Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,32 +1317,30 @@ Unmut...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-the-problem-unsuccessful-booting-in-windows-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39a7d079da9e7faa5dde71ba1.jpg" alt="Solving the Problem: Unsuccessful Booting in Windows Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc76b52ba12d66889ac85fb462.jpg" alt="Leverage Mobile OCR for Streamlined Customer Onboarding Processes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-the-problem-unsuccessful-booting-in-windows-systems/">
-                            Solving the Problem: Unsuccessful Booting in Windows Systems
+                        <a href="/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/">
+                            Leverage Mobile OCR for Streamlined Customer Onboarding Processes
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Solving the Problem: Unsuccessful Booting in Windows SystemsQuick Links
-First Things First: Has Anything Changed? 
-If the Com...
+                            Leverage Mobile OCR for Streamlined Customer Onboarding ProcessesBack to ABBYY Blog ## Putting business into custome...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 29 2024 19:29:52 GMT+0800">
+            <span class="home-article-date" data-date="Fri Sep 06 2024 23:23:52 GMT+0800">
                 
-                    2024-08-29
+                    2024-09-06
                 
             </span>
         </span>
@@ -1419,7 +1353,7 @@ If the Com...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/abbyy/">abbyy</a>&nbsp;
                         </li>
                     
                     
@@ -1428,21 +1362,9 @@ If the Com...
         </span>
         
         
-            <span class="home-article-tag">
-                <i class="fa-solid fa-tags"></i>&nbsp;
-                <ul>
-                    
-                        <li>
-                            
-                            <a href="/tags/desktop/">desktop</a>&nbsp;
-                        </li>
-                    
-                </ul>
-            </span>
-        
     </div>
 
-    <a href="/solving-the-problem-unsuccessful-booting-in-windows-systems/">Read more<span class="seo-reader-text">Solving the Problem: Unsuccessful Booting in Windows Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/">Read more<span class="seo-reader-text">Leverage Mobile OCR for Streamlined Customer Onboarding Processes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
