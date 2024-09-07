@@ -1,22 +1,46 @@
 ---
 title: Enhancing Online Experience with Cookiebot Technology
-date: 2024-08-21T15:51:54.463Z
-updated: 2024-08-22T15:51:54.463Z
+date: 2024-09-06T23:23:51.842Z
+updated: 2024-09-07T23:23:51.842Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9878ff62b08356ff78ffb4d4ce5fd0c27ab1ffdc4dd530f388b0fa3845feed6f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhancing Online Experience with Cookiebot Technology
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY stellt Open-Source KI-Bibliothek NeoML vor
 
 16\. Juni 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### _Das Framework bietet Softwareentwicklern leistungsstarke Algorithmen, um die Erstellung von Anwendungen mittels Deep Learning und traditionellem maschinellen Lernen zu unterstützen._ 
 
 ABBYY, ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, stellt heute „NeoML“ vor, eine Open-Source-Bibliothek für die Erstellung, das Trainieren und die Bereitstellung von Modellen für maschinelles Lernen. NeoML ist ab sofort auf GitHub verfügbar und unterstützt sowohl Deep Learning als auch herkömmliche Algorithmen des maschinellen Lernens, die sich für Aufgaben wie prädiktive Analysen und Risikomanagement eignen. Das plattformübergreifende Framework ist für Anwendungen optimiert, die in Cloud-Umgebungen sowie auf Desktop- und Mobilgeräten ausgeführt werden. Im Vergleich zu anderen Open-Source-Bibliotheken bietet NeoML bis zu 15 Prozent schnellere Leistung bei der Inferenz von trainierten Modellen, die auf einem verwendeten Gerät laufen. Die Kombination aus höherer Inferenzgeschwindigkeit und Plattformunabhängigkeit macht die Bibliothek ideal für mobile Lösungen, die eine nahtlose Kundenerfahrung mit Datenverarbeitungsaufgaben vereinen.\*
@@ -110,7 +134,3 @@ Vernetzen Sie sich mit uns
 <li><a href="https://some-tips.techidaily.com/turning-images-into-scenes-syncing-beats-for-2024/"><u>Turning Images Into Scenes, Syncing Beats for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-12-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 12 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->

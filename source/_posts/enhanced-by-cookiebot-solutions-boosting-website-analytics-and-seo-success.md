@@ -1,24 +1,48 @@
 ---
 title: "Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success"
-date: 2024-08-21T15:52:59.055Z
-updated: 2024-08-22T15:52:59.055Z
+date: 2024-09-06T23:23:52.835Z
+updated: 2024-09-07T23:23:52.835Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978f937cb6e50b9af175371190.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY社、前田まりこがABBYYジャパン代表取締役社長に就任、日本市場のさらなる成長をめざす
 
 4月14日, 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Mariko Maeda 848X444](https://static4.abbyy.com/abbyycommedia/35508/april14-848x444.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 インテリジェント ドキュメント プロセッシング（IDP）とプロセスマイニングのソリューション提供を主軸にインテリジェント オートメーションを推進するABBYY社（本社：米国ノースカロライナ州、日本法人ABBYYジャパン株式会社、本社：東京）は、本年4月１日付で、前田まりこがABBYYジャパン株式会社の代表取締役社長に就任したことをお知らせいたします。
 
 ABBYYの最高収益責任者(CRO)である Adrian Jones （エイドリアン・ジョーンズ）は次のように述べています。「この度、前田まりこが日本の代表取締役社長に就任したことを発表できることを、大変嬉しく思います。彼女はダウ・ジョーンズ・ジャパン、トムソン・ロイター、オートメーション・エニウェア、GreyOrangeでシニア・ポジションを務めており、日本のインテリジェント・オートメーション市場に対する情熱と深い理解、そして国内外の金融機関や大手事業法人だけでなく、政府官公庁や大手コンサルティング企業の経営層と深いネットワークを持っており、ABBYYが日本市場拡大を加速するのにふさわしい人物です。テクノロジーに対する彼女のエネルギーと熱意をもって、日本チームが目標を達成できるように支援することで、新しい顧客を獲得し、既存顧客の満足度を高め、弊社が重要視している日本市場における当社の存在感を高めることを期待しています」
@@ -29,6 +53,12 @@ ABBYYジャパン代表取締役社長に就任した前田まりこは、次の
 
 前田まりこは、ABBYY入社以前は米国に拠点を置く自動化ロボットのリーディング・カンパニーであるGreyOrangeで日本及び韓国チームを統括してきました。また営業、ソリューション・コンサルティング、オペレーション、カスタマー・エクスペリエンスに焦点を当てたセールス戦略と収益拡大をリードするなど、豊富な経験を誇ります。（早稲田大学大学院修士課程修了）
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ABBYYについて
 
 ABBYYはインテリジェント・オートメーションを推進するリーディング・カンパニーです。オートメーション・プラットフォームの原動力となるテクノロジーを提供することにより、人々の働き方やビジネス加速の方法に新しいビジョンをもたらしています。ABBYYのソリューションは、企業データを変換し、よりスマートかつ迅速な業務の遂行に必要なインサイトを提供します。 
@@ -42,7 +72,16 @@ ABBYYはインテリジェント・オートメーションを推進するリー
 ABBYYは、登録商標または商標の場合があります。ABBYYグループ企業のロゴ、企業名（またはその一部）、製品名の一部である場合もあり、各所有者の同意なしに使用することは禁じられています。
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 報道関係者お問い合わせ先
 

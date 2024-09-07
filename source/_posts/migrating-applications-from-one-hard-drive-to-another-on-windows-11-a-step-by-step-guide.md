@@ -1,7 +1,7 @@
 ---
 title: "Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide"
-date: 2024-08-29T19:29:45.715Z
-updated: 2024-08-30T19:29:45.715Z
+date: 2024-09-06T23:23:46.952Z
+updated: 2024-09-07T23:23:46.952Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ## Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Things to Do Before Relocating Programs or Games](https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-plus-learn-all-4-methods-by-drfone-ios/)
@@ -19,6 +31,12 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 * [How to Relocate Games Installed Through Gaming Clients](https://facebook-video-recording.techidaily.com/new-2024-approved-shine-a-light-the-12-ultimate-fixes-for-making-facebook-videos-visible-again/)
 * [Things Not to Do When Relocating Apps](https://extra-information.techidaily.com/updated-anonymous-live-on-instagram-the-sneaky-techniques/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Before relocating programs, take a few precautions: create a System Restore point, back up your app files, and free up storage space on the destination drive.
@@ -27,6 +45,12 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  Running out of storage space on a drive and considering moving some games or apps to another location? Or have you accidentally installed a game on the wrong drive and want to move it? Fortunately, relocating apps and programs between drives is super easy. We'll show you how to do just that.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Things to Do Before Relocating Programs or Games
 
  Before moving apps and programs between drives, take a few precautions to avoid file corruption, data loss, or other issues.
@@ -38,7 +62,16 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  Also, ensure your laptop is sufficiently charged, and if you're using a desktop PC, it's worth checking for potential electrical outages in your area. Besides that, confirm that the destination drive—where you're going to relocate an app—has ample space to accommodate the relocated program. If space is limited, take the necessary measures to [free up storage](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Transfer Apps From One Drive to Another Through the Settings App
 
@@ -49,12 +82,21 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 ![Opening the installed apps settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-opening-the-installed-apps-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Find the app or program you intend to move, click on the three horizontal dots next to it, and click the "Move" option.
 
 ![Clicking on the 'Move' option to relocate an app in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-clicking-on-the-move-option-to-relocate-an-app-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Windows will display the program's current installation location and the drives that you can transfer the program to. Select your preferred drive, and then click on "Move."
 
 ![Selecting the destination drive to relocate an app to in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-selecting-the-destination-drive-to-relocate-an-app-to-in-the-windows-settings-app.jpg) 
@@ -69,16 +111,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ![Opening the installation location of the Mozilla Firefox app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-opening-the-installation-location-of-the-mozilla-firefox-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Right-click the app icon again and select "Open File Location." This will lead you to the program's actual installation location.
 
 ![Opening the file location of the Mozilla Firefox App in the Start Menu Folder on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-file-location-of-the-mozilla-firefox-app-in-the-start-menu-folder-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Copy and paste the program's installation folder path into a Notepad file. We'll use the term "old" to refer to this path.
 
  Afterward, navigate to the drive where you intend to relocate the app. Create a folder specifically for the app within that drive, copy the path of this newly created folder, and paste it into the same Notepad file. We'll use the term "new" to refer to this path.
@@ -89,6 +125,12 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You need to input your "old" and "new" paths into the following command:
 
         `robocopy "old" "new" /sec /move /e`
@@ -102,7 +144,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 ![Running the Robocopy command in Windows Command Prompt to relocate Mozilla Firefox from one drive to another on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-running-the-robocopy-command-in-windows-command-prompt-to-relocate-mozilla-firefox-from-one-drive-to-another-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Following that, insert both the "old" and "new" paths into the following command:
 
@@ -112,9 +157,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ![Running the MKLINK command in the Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-running-the-mklink-command-in-the-windows-command-prompt.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  The above process doesn't automatically remove the app from its old location. So, after successfully relocating the app to a new location and creating a junction between the old and new directories, manually delete the app to free up storage space.
 
  If you encounter an error message stating, "Cannot Create a File When That File Already Exists," when running the mklink command, delete the app from the old location.
@@ -127,9 +169,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  Not every gaming client, like the Epic Games Launcher, provides a built-in feature for relocating games between different drives. You may have to move them manually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ##  Things Not to Do When Relocating Apps
 
  You should strictly avoid taking a few actions when relocating apps from one drive to another. First, refrain from updating your Windows device. Secondly, don't install another program while the relocation process is ongoing. Besides that, don't run the app that is being relocated, avoid making alterations to the drives involved in the relocation, and don't modify the settings of those drives.

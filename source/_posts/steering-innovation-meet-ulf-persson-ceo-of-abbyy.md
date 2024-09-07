@@ -1,7 +1,7 @@
 ---
 title: Steering Innovation - Meet Ulf Persson, CEO of ABBYY
-date: 2024-08-21T15:53:09.281Z
-updated: 2024-08-22T15:53:09.281Z
+date: 2024-09-06T23:23:52.957Z
+updated: 2024-09-07T23:23:52.957Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383e5008c1e4699b06b4a4f916.jpg
@@ -35,10 +35,6 @@ I’m based in London. One part of my role is to help ABBYY set ambitious goals 
 
 It’s hard to give one single piece of advice. To me, it’s all about trust and people focus. I always aim to have the best possible people around me. People who are much better at their roles than I could ever be, and then trust these people to do their job while making sure we all pull in the same direction. To do this, you first must understand your own strengths and weaknesses. While listening to other opinions before moving forward with a decision is important for the quality and subsequent acceptance, speed is also of the essence. Most of the time, we base decisions on imperfect information. Better to make a call and then correct if it was wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Do you have any hobbies or fun interests?
 
 When I was a boy, I wanted to be a professional athlete. I played ice hockey and football, but soon realized I wasn’t good enough. However, I’m still an avid football fan, supporting Arsenal in the English Premier League and Richmond Park FC, where my daughter plays. My position on the football pitch was central midfield, and I was a goal-keeper when playing hockey. I can relate both those roles to my role as CEO at ABBYY; I’m there to direct the game and help others, not necessarily scoring the goals myself (I’ll score some), and to make sure we are solid at the back.
@@ -46,33 +42,56 @@ When I was a boy, I wanted to be a professional athlete. I played ice hockey and
 ![Ulf Persson family](https://static1.abbyy.com/abbyycommedia/35267/ulfpersson-wife-458.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Nowadays, to keep in shape and clear my brain, I go for a run. During the lockdown, I was working inside too much, as most of us were, and began walking a lot with my wife and our dog, sometimes ten kilometers or more. I also make family time a priority. We have three daughters, and the whole family enjoys good food, togetherness, and discussions around the dinner table. We also try to make use of the multitude of things that London has to offer.
 
 ![Ulf Persson family](https://static1.abbyy.com/abbyycommedia/35266/ulfpersson-daughters-458.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### If you had one wish come true, what would it be?
 
 That we as humans were better at weighing short-term satisfaction and benefits with long-term effects and sustainability. This would help improve consumption patterns, drive different individual, governmental, and corporate behavior, and ultimately help us solve the big issues such as climate change and societal health.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What’s your pet peeve?
 
 I get really frustrated when we, for one reason or the other, don’t live up to our customers’ expectations, but I am not sure if that would fall in the pet peeve category, so here’s another one: when someone shares a document or presentation with me, whether for internal or external consumption, that contains silly mistakes and spelling errors, my blood pressure builds up. To me, quality is not a selective game. You play it all the time.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What was the last book you read?
 
 I am currently reading the first book in the Wolf Hall trilogy by Hilary Mantel. It describes life in London under Henry VIII and, specifically, the rise to power of the protagonist Thomas Cromwell from a modest family of blacksmiths to the king’s closest advisor.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What’s next for ABBYY, what does the future hold?
 
@@ -85,7 +104,10 @@ Want to work with a company at the forefront of technology that puts its people 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Like, share or repost
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Create Restore Points in Windows 10?
-date: 2024-08-25T17:53:25.990Z
-updated: 2024-08-26T17:53:25.990Z
+date: 2024-09-06T23:23:48.510Z
+updated: 2024-09-07T23:23:48.510Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes How to Enable and Create Restore Points in Windo
 thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddebe9cf76be61f42eab18cd22c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Enable and Create Restore Points in Windows 10?
 
 **System Restore** is a very important and useful function in Windows system. It tracks software installations, driver changes and software updates and allows a user to revert to their prior state if something unexpected happens. The record created by System Restore service is called**System restore points** . Windows automatically creates restore points once a week.   
@@ -23,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/create-a-restore-point.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  2) The status of the**Protection** should be**Off** if you haven’t done anything to it before.   
   
@@ -32,10 +44,22 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/configure.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click to enable**Turn on system protection** . Then use the**Max Usage** slider to decide how much of your hard drive you would like to use to store Restore Points. (5% to 10% is usually enough.) Then click**OK** .   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/turn-on-system-protection.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) You can manually create a restore point now by going back to System Properties window. Under**System Protection** tab, click the**Create** button.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-protection.jpg)   
@@ -44,11 +68,23 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816c15d989ef.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  7) Wait for the process to finish. Then you will see a notification as shown below.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5816c16331a7d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -119,7 +155,3 @@ thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddeb
 <li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-ai-the-key-to-unlocking-iot-potential-insights-from-abbyy/"><u>Unleashing the Power of AI: The Key to Unlocking IoT Potential - Insights From ABBYY</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unlocking-significant-savings-with-abbyy-discover-the-story-of-a-6m-windfall-for-a-leading-finance-firm/"><u>Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->

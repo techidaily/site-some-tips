@@ -1,16 +1,34 @@
 ---
 title: "Cookiebot-Driven Analytics: Elevate Your Site's User Experience & Conversion Rates"
-date: 2024-08-21T15:52:12.042Z
-updated: 2024-08-22T15:52:12.042Z
+date: 2024-09-06T23:23:52.117Z
+updated: 2024-09-07T23:23:52.117Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb2511c6882fb283e99f7aa6165.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cookiebot-Driven Analytics: Elevate Your Site's User Experience & Conversion Rates
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 新型コロナウィルス（新データ）：悪い業務プロセスの従業員への影響
 
 ###### Bruce Orcutt
@@ -29,6 +47,12 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 
 驚いたのは、職場の課題に対するもう1つの主要な要因がプロセスであったことです。 効率性、コンプライアンス、そして、より良いビジネス成果を促進するために業務プロセスが用意されていることには、ほとんどの人が同意します。しかしながら、回答者のほぼ半数（48％）が、業務プロセスが仕事をより困難にした、つまり不十分であると非難し、それを理由に4人に1人が仕事を辞めたいと考えています。 別の36％は、プロセスが時間を無駄にし、プロセスを使えなくしたと述べています。
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### では、プロセスは従業員の仕事にどのように悪影響を及ぼしますか？ そして、これに対処するために何ができるでしょうか？
 
 答えは、多くの組織が、人々がシステム、アプリケーションと対話しながら異常値のイベントを処理するような方法ではなく、どうプロセスが流れるべきかの考えに基づいてプロセスを開発することにあります。 業務内の複数のプロセスを分析し、業務オペレーションと業務プロセスのデジタルプロセスモデル（「デジタルツイン」）を提供できる[プロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を活用して、ABBYYはこの問題を解決します。
@@ -39,6 +63,12 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 
 ![COVID Impact on Business, Employees](https://static1.abbyy.com/abbyycommedia/30408/abbyy-global-covid-technology-survey_us_1200x628.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 従業員がタスクを実行する方法を監視することは、タスクマイニングと呼ばれる、プロセスインテリジェンスの初期のカテゴリのものにあたります。 タスクマイニングを使用すると、ユーザの操作を収集して分析することにより、どのようにタスクをやりくりしているのかを理解できます。 このような深い理解は、プロセスを自動化、そして改善するのに役立ちます。 タスクマイニングはプロセスマイニングと類似していますが、システムのログファイルやビジネス指標ではなく、ユーザとアプリとの相互やり取りのデータを使用してプロセスを分析します。 [ABBYY Task Mining（英語版）](https://tools.techidaily.com/abbyy/products/) は、デスクトップ上のユーザインタラクションデータ（ユーザとアプリとの相互やり取りデータ）を分析し、システムイベントデータからマイニング（取り出）されたプロセスの詳細とシームレスにリンクします。これにより、プロセスを遅くしている反復的で非効率的なタスクとタスクシーケンスを特定し、適切な場所にリソースを割り当て、解決することが可能となります。
 
 タスクマイニングへのアプローチは、従業員のパフォーマンスの一部としての行動（アクション）を監視することと混同されることが多いですが、最適なタスク実行パターンを明らかにして、従業員が反復性の高いタスクから離れ、より価値の高いタスクに集中できるようにすることを可能にします。また、タスクマイニングツールは、従業員がどのように作業しているか、どのように改善できるかを確認し、どの領域の自動化が従業員を支援できるかを特定するための個人の生産性を上げることを目的としたツールとして効果的に使用できます。たとえば、従業員がプログラムのメリットを実感できない場合、現在の計画で何時間失うか、またはそれが仕事の生産性にどのように悪影響を及ぼしているかを雇用主に示すことができます。
@@ -61,12 +91,21 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Bruce Orcutt
 
 Vice President of Product Marketing at ABBYY
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 

@@ -1,22 +1,40 @@
 ---
 title: ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type
-date: 2024-08-21T15:51:33.165Z
-updated: 2024-08-22T15:51:33.165Z
+date: 2024-09-06T23:23:51.509Z
+updated: 2024-09-07T23:23:51.509Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f2561431aa2bb888dda851d0.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Enters New Path in Document Classification
 
 January 12, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### _Now available in Western Europe: New language-based ABBYY Smart Classifier helps businesses to get a grip on big content, sort unstructured information and turn it into action_ 
 
 ABBYY®, a leading provider of technologies and solutions to action information today announced the availability of ABBYY Smart Classifier on the European market. The new product enables businesses to leverage and act on complex, unstructured information by delivering highly accurate document classification. Based on Compreno®, ABBYY’s innovative natural language processing (NLP) technology, Smart Classifier quickly organises large repositories of documents according to both statistic and semantic analysis of content. Once classified, information is ready for search and retrieval, automated routing, intelligent data extraction and decision-making.
@@ -120,8 +138,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity  Bypassing Background in Photopea for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams  Overcoming Premiere's Export Hurdle for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->

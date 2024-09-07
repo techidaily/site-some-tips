@@ -1,12 +1,18 @@
 ---
 title: Cookiebot-Driven Analytics and Tracking Solutions
-date: 2024-08-21T15:51:41.937Z
-updated: 2024-08-22T15:51:41.937Z
+date: 2024-09-06T23:23:51.667Z
+updated: 2024-09-07T23:23:51.667Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4082ac6c30e6e25f75285938.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cookiebot-Driven Analytics and Tracking Solutions
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
@@ -17,16 +23,40 @@ September 14, 2018
 
 ![Key takeaways from Information Show 2018 Congress in Sao Paolo Brazil | ABBYY Blog Post](https://static5.abbyy.com/abbyycommedia/25311/9576e_blog_brazil-signalsblog.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Ranked as the [9th world’s largest technology market](http://web6.bnamericas.com/en/news/ict/brazil-the-worlds-ninth-it-market-but-needs-incentives/), Brazil has always attracted innovative companies from across the globe. This year's [Information Show 2018 Congress](http://informationshow.com.br/), which was held in São Paulo, attracted more than 700 professionals from many world's leading technology companies. The Congress has been billed as Latin America's largest meeting on Information Management, Documents and Digital Business and was sponsored by world's leading providers of document processing technologies including [ABBYY](https://tools.techidaily.com/abbyy/products/), IBM and Fujitsu to name but a few.
 
 With [Content Intelligence](https://tools.techidaily.com/abbyy/products/) (CI) panning out as the leading document automation technology, efficient document management using artificial intelligence (AI) can be challenging. Information Show 2018 Congress was conceived to address the challenges, identify opportunities especially since the protracted economic crisis of the last few years had a significant impact on the IT market and its players as large innovative projects were frozen for an indefinite period. The show also strived to provide perspective on the entire context of Enterprise Content Management (ECM) solutions to make companies more competitive in the era of data-driven decision-making. It is also an important annual gathering point for IT professionals for sharing industry knowledge, ideas and expertise and for networking.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to tackle the digital transformation challenge effectively
 
 Business-critical information accumulates as technology advances, putting pressure on businesses to find more efficient way of processing data. A [survey by AIIM](http://www.m-files.com/blog/digital-transformation-intelligent-information-management-10-data-points/) concludes that the rising tide of information chaos and confusion is creating a demand for new information management practices that extend beyond traditional ECM. However, latest advances in AI and automation is also creating huge opportunities for businesses, Maria Ilicheva, the Regional Manager of ABBYY in Latin America told the Congress attendees. A good example is the [new FlexiCapture platform](https://tools.techidaily.com/abbyy/products/) that enables organizations to automatically classify, extract, validate and direct business critical data from written customer communications and operational processes – such as customer claims, applications and transactions, she said.
 
 For ABBYY, Brazil is a top priority market, despite its instability and complexity, presenting a favorable environment for IT business. Brazil was the world's 7th largest IT market before the 2016 the economic crisis resulted in the decrease of the GDP by 3.6% with reductions across all sectors of the economy including IT. The good news though is that IT sector is expected to post growth of 5.8% this year, according to estimates released by IDC Brazil. This is already a visible evidence that some of the companies which abandoned their IT projects in the wake of the crisis are trickling back. The Government is also encouraging foreign participation in Brazilian ICT companies through the Association for Promotion of the Excellence of the Brazilian Software (Softex) and the Brazilian Agency of Promotion of exports and investments (Apex-Brazil).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Taking responsibility for social progress
 
 As a global leader, ABBYY is actively trying to expand its footprint in the Latin America . In May this year, the company was a participant of the RPA Congress which brought together consultants, industry experts and users to discuss and exchange experiences on the transformation power of RPA. Along with IBM, Fujitsu and other big players, ABBYY was a Diamond Sponsor of the 9th Session of the Information Show that was recently concluded in Brazil.
@@ -38,7 +68,16 @@ This is not ABBYY's first foray into the Brazilian market. Earlier, the company 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Events](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Like, share or repost
 

@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance
-date: 2024-08-29T19:30:12.150Z
-updated: 2024-08-30T19:30:12.150Z
+date: 2024-09-06T23:23:47.355Z
+updated: 2024-09-07T23:23:47.355Z
 tags:
   - deals
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/52920514194_5f136d8949_o.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance
 
 Upscaling technology can greatly enhance the PC gaming experience, particularly on low-wattage laptops. But because each GPU platform has a unique "[Super Resolution](https://desktop-recording.techidaily.com/new-2024-approved-capture-master-high-res-screen-record/)" upscaler, game developers aren't keen on implementing the technology. Now, Microsoft hopes to solve the problem with its new [DirectSR API](https://devblogs.microsoft.com/directx/directx-innovation-on-display-at-gdc-2024/).
@@ -86,7 +92,3 @@ Upscaling technology can greatly enhance the PC gaming experience, particularly 
 <li><a href="https://fox-links.techidaily.com/virtual-groove-hunt-try-this-online-software/"><u>Virtual Groove Hunt – Try This Online Software</u></a></li>
 <li><a href="https://mondly-stories.techidaily.com/eyxes-morfwn-klisma-dyshs/"><u>Ευχές Μόρφων Κλίσμα Δύσης</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

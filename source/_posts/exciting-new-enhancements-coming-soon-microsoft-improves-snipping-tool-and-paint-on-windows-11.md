@@ -1,7 +1,7 @@
 ---
 title: "Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11"
-date: 2024-08-29T19:29:38.499Z
-updated: 2024-08-30T19:29:38.499Z
+date: 2024-09-06T23:23:46.838Z
+updated: 2024-09-07T23:23:46.838Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/c19a308589c95b1ddee27c6a5a356d350b91c656d430e8488c37e77595b9f657.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11
 
 Snipping Tool and Paint have already received several updates in Windows 11, but Microsoft isn’t stopping there. More changes are on the way, including new tools and emoji in Snipping Tool.
@@ -19,6 +25,12 @@ Snipping Tool and Paint have already received several updates in Windows 11, but
 
 ![Screenshot of Snipping Tool with emojis over a text chat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/untitled.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/05/09/snipping-tool-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 
  Snipping Tool can also now detect [QR codes](https://android-unlock.techidaily.com/how-to-change-lava-yuva-3-lock-screen-password-by-drfone-android/) in screenshots and provide a button for following the code’s link. If you see a QR code on your PC today that doesn’t have a clickable link version, there’s no built-in way to follow the link—this seems to be Microsoft’s solution to that issue. You still have to take the screenshot first, but at least you don’t need a third-party tool for it anymore.
@@ -27,6 +39,12 @@ Snipping Tool and Paint have already received several updates in Windows 11, but
 
 ![Snipping Tool screenshot with paint brush menu open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/untitled-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Microsoft](https://blogs.windows.com/windows-insider/2024/05/09/snipping-tool-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 
  Meanwhile, [the “Cocreator” AI image generation feature](https://tech-hub.techidaily.com/resolving-in-transit-issues-in-gpt-conversations/) in Paint is being renamed to “Image Creator.” That’s the same name Microsoft has settled on for its other AI image tools, so it makes sense to give Paint’s feature the same name. [Bing’s AI image generator](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/) was rebranded to “Image Creator from Designer” a while ago, for example. The actual functionality in Paint hasn’t changed, though.
@@ -98,7 +116,3 @@ Snipping Tool and Paint have already received several updates in Windows 11, but
 <li><a href="https://some-tips.techidaily.com/unleashing-endless-possibilities-the-future-of-document-capture-solutions-insights-from-abbyy/"><u>Unleashing Endless Possibilities: The Future of Document Capture Solutions - Insights From ABBYY</u></a></li>
 <li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->

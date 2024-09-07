@@ -1,7 +1,7 @@
 ---
 title: My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers
-date: 2024-08-29T19:31:03.781Z
-updated: 2024-08-30T19:31:03.781Z
+date: 2024-09-06T23:23:48.029Z
+updated: 2024-09-07T23:23:48.029Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b3e79548.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers
 
 ### Quick Links
@@ -26,6 +32,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  But what started as a mostly great experience ultimately turned into an awful headache. And in the end? I bought a car from a dealership where I got a better deal and better treatment. Here's how it went down.
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ordering a Car Online Is Mostly Easy
 
 ![the Carvana website, featuring a CR-V Hybrid with several yellow symbols](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/c0b938d1.jpg) 
@@ -48,6 +66,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![An email confirming an on-time delivery.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/97151f47.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before the morning the car was supposed to arrive, we made sure to get everything ready. That included adding the new car to the insurance policy because Carvana wouldn't deliver without proof of insurance. The day before delivery, Carvana sent us an email assuring us that the car was on the way. "Great News! Your Honda CR-V Hybrid is on schedule for delivery and will be making its way into your loving arms lickity split!" And right on time, the car shop finished fixing our other car. As soon as Carvana dropped off, we could go pick up our second car, and we'd be whole again.
 
  And that's where everything went downhill. About an hour before the expected delivery time came a text: "Hi, your Honda CR-V Hybrid appointment experienced a transportation delay." After that came another, "We apologize for the delay and appreciate your patience. Please be on the lookout for a text with your new appointment date, and feel free to text us with questions."
@@ -57,7 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![An email stating your order has been updated.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/2ae674e0.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  All we got was a text later. "Your delivery has been rescheduled." The new delivery day was over a week later. Shortly after, another email confirmed the new date with the helpful note, "a change has been made in your order." I made yet another phone call and finally got an explanation. When Carvana went to load up the car for transportation wherever it was, the hauling truck was full. So, they didn't send it. I can understand a brief delay from that, but not a week. Look around the internet, and [you'll find](https://www.reddit.com/r/carvana/comments/cr62he/11%5Fday%5Fdelivery%5Fdelay%5Fongoing/) [plenty of](https://www.reddit.com/r/carvana/comments/fcfsm7/third%5Fdelivery%5Fdelay%5Fso%5Ffar/) [similar stories](https://www.sitejabber.com/reviews/carvana.com). That's especially confusing, considering the email from just one day before confirming the car was on the way.
 
@@ -71,15 +98,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  That false hope of an early delivery really felt like Carvana was gaslighting us at this point. Remember, just a day before the first delivery date, Carvana sent an email assuring us the car was on the way and would be delivered as scheduled. We managed to get help from a relative to pick up our repaired car, which opened a world of opportunities.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  You Mean I Can Get a New Car For Less?
 
 ![The same steel-grey Honda CR-V Hybrid from before, at another angle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/52b0fd28.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Josh Hendrickson / Review Geek
 
@@ -94,15 +121,21 @@ Josh Hendrickson / Review Geek
  Even better, the local dealership will pick up my car, drive it to the service center, do any maintenance like oil changes, then bring it back to me---at no additional charge. Carvana can't hope to offer a service like that. What it did do was jerk me around a little more.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Let's Cancel That Cancel Button
 
 ![A website with a cancel button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/7520596d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  I didn't cancel the Carvana order right away, because I was afraid the dealership would fall through. But one benefit to the entire delay is that failing to deliver on time automatically voided the contract I signed with Carvana. Naturally, the company had another set of contracts to sign immediately, but I didn't.
 
  But it did make me feel better that a cancel button appeared after the Carvana delivery delay. That seemed to be an automated process. Every day we logged in to check the status of the delivery for any changes. Every day the cancel button was there---until one morning, it wasn't.
@@ -111,9 +144,6 @@ Josh Hendrickson / Review Geek
 
 ![The same page, with no cancel button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/d7850b2e.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Thankfully, I still had a tab open on another device to take screenshots for this article. That tab hadn't reloaded, and the cancel button still showed. So, I canceled it. Now you would think someone from Carvana would reach out to change our minds, especially if it spent money transporting the car. You'd think Carvana would send a confirmation email that the order is canceled. But none of that happened. The only reason I can be certain that my order really canceled is that the car never came, and it's back up for sale on the site.
 
  In the meantime, my dealership already reached to make sure everything is going well with the new car we purchased.

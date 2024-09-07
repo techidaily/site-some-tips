@@ -1,22 +1,46 @@
 ---
 title: "Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration"
-date: 2024-08-21T15:51:12.976Z
-updated: 2024-08-22T15:51:12.976Z
+date: 2024-09-06T23:23:51.219Z
+updated: 2024-09-07T23:23:51.219Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d94da77b1f5b8b2204a1d875.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Paul Nizov tritt dem Führungsteam von ABBYY als Chief Information Security Officer bei
 
 20\. April 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY, ein Unternehmen für Digital Intelligence, gab heute die Erweiterung seines Führungsteams durch Paul Nizov als Chief Information Security Officer bekannt. In dieser neu geschaffenen Position wird sich Paul Nizov für die Bedeutung und den Einfluss von Sicherheit einsetzen, Sicherheitsrisiken managen und die strategischen, operativen und budgetären Aspekte der sicheren Softwareentwicklung, des Datenschutzes und des Informationsschutzes beaufsichtigen.
 
 "Die Rolle des Chief Information Security Officer (CISO) ist für Technologieunternehmen von größter Bedeutung und wir freuen uns, dass Paul ABBYY beigetreten ist, um die höchsten Sicherheitsstandards für die SaaS- und On-Premises-Bereitstellung unserer schnell wachsenden Digital Intelligence-Lösungen weiter voranzutreiben", sagt Ulf Persson, CEO von ABBYY. "Die Verstärkung unseres Teams durch Paul spiegelt unser Engagement wieder, Kunden und Partnern Produkte und Lösungen anzubieten, die unter Berücksichtigung modernster Sicherheitsverfahren entwickelt, implementiert und geliefert werden. Informationssicherheit und Datenschutz sind für uns unverzichtbar."
@@ -105,7 +129,3 @@ Vernetzen Sie sich mit uns
 <li><a href="https://some-tips.techidaily.com/unmatched-upticks-celebrating-top-10-reddit-discussions-for-2024/"><u>Unmatched Upticks  Celebrating Top 10 Reddit Discussions for 2024</u></a></li>
 <li><a href="https://video-capture.techidaily.com/visionsplit-assessment-overview/"><u>VisionSplit Assessment Overview</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

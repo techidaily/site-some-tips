@@ -1,12 +1,18 @@
 ---
 title: Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen
-date: 2024-08-21T15:52:18.538Z
-updated: 2024-08-22T15:52:18.538Z
+date: 2024-09-06T23:23:52.206Z
+updated: 2024-09-07T23:23:52.206Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4cdf9e1e7a019fd8723bea435ee85e9220196351b1b22d3eef75a6f40f6097c7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen
 
 Das Leben bei ABBYY
@@ -19,6 +25,18 @@ So sieht das Leben bei ABBYY aus
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/visuals/careers-visual-abbyy.jpg?h=1000&iar=0&w=5120)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unsere Werte 
 
 Der Erfolg von ABBYY basiert auf einem Fundament gemeinsamer Werte, die definieren, wer wir sind und wie wir als Team arbeiten. Unser Bekenntnis zu diesen Werten ist nicht nur eine Aussage, sondern ein Lebensstil innerhalb unseres Unternehmens. Diese Werte dienen als Kompass, der jeden Tag unser Handeln, unsere Entscheidungen und unsere Interaktionen leitet. 
@@ -37,12 +55,24 @@ Wir vertrauen unseren Kolleginnen und Kollegen mit Wissen und Informationen. Wir
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_people_employee-1-128.svg?h=128&iar=0&w=128)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Respekt 
 
 Respekt steht bei uns an erster Stelle. Wir sind freundlich zu unseren Kolleginnen und Kollegen, respektieren die Meinung anderer und hören zu. 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-1.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-3.jpg?h=395&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-2.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-1-2023.jpg?h=242&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-2.jpg?h=242&iar=0&w=458)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-3.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-4-2023.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-5-2023.jpg?h=396&iar=0&w=360)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-1.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-3.jpg?h=395&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-2.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-1-2023.jpg?h=242&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-2.jpg?h=242&iar=0&w=458)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-3.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-4-2023.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-5-2023.jpg?h=396&iar=0&w=360)
 
 ABBYYs Vision ist es, der führende Anbieter für intelligente Automatisierung zu sein. Dies erfordert ein sehr starkes Engagement für die Umsetzung von Strategien, Geschäftsplänen, Umsatzwachstum, Rentabilität und anderen Zielen. Aber das bringt uns nur bedingt weiter. Unser größter Vorteil sind unsere Mitarbeitenden, die Ideen und Pläne in die Tat umsetzen. Indem wir den Menschen in den Mittelpunkt stellen, wollen wir ein großartiger Arbeitgeber sein, bei dem man sich sowohl beruflich als auch persönlich weiterentwickeln kann. 
@@ -99,22 +129,22 @@ In den letzten Jahren haben wir bei unseren monatlichen unternehmensweiten Umfra
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/drawer-image-2.jpg?h=389&iar=0&w=750)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Der Reichtum liegt in der Vielfalt unserer kollektiven Erfahrungen, unserer Geschichte, unseres Hintergrunds, unserer Fähigkeiten und Perspektiven – all das kann in einer Gemeinschaft gedeihen, selbst wenn diese Gemeinschaft um einen geschäftlichen Zweck herum organisiert ist. 
 
 Wie die meisten erfolgreichen Unternehmen sind wir bestrebt, unser Produkt so zu gestalten, dass wir es von anderen abheben und unsere Kunden besser bedienen können; dazu müssen wir in der Lage sein, innovativ zu sein – Innovation ist eine Funktion der Herausforderung und des nicht-linearen Denkens, was wiederum durch Personen ermöglicht wird, die unterschiedliche Perspektiven vertreten. Um vielfältige Talente einzustellen und zu halten, müssen wir ein integratives Umfeld bieten – eine Gemeinschaft, in der Unterschiede gefeiert werden und der wir uns alle zugehörig fühlen können. Das ist unser Bestreben und unsere Vision für ABBYY. 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Ökologische und soziale Verantwortung 
 
 Bei ABBYY sind Initiativen im Bereich Umwelt und soziale Verantwortung seit langem von entscheidender Bedeutung. Unsere Produkte helfen nicht nur Hunderten von Kundinnen und Kunden auf der ganzen Welt, Ineffizienzen zu verringern und ihr Ressourcenmanagement zu verbessern, sondern wir haben auch eigene Initiativen entwickelt, um Nachhaltigkeit und soziale Verantwortung zu fördern. 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_checkmark-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Für jedes abgeschlossene Geschäft wird ein Baum gepflanzt 
 
 Für jeden neuen Kundenvertrag spenden wir über One Tree Planted einen Baum und haben 2021 über 2.000 Bäume gepflanzt. 
@@ -122,7 +152,10 @@ Für jeden neuen Kundenvertrag spenden wir über One Tree Planted einen Baum und
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_people_employee-1-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Bezahlter Urlaub für einen guten Zweck 
 
@@ -130,9 +163,6 @@ Alle Mitarbeitenden erhalten zwei bezahlte Tage pro Jahr, um Organisationen zu u
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_mountain-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##### Auf unserem Weg zur Klimaneutralität 
 
 Ab 2023 messen wir unseren CO2-Fußabdruck bei Reisen und investieren in Ausgleichsprogramme. 
@@ -140,15 +170,15 @@ Ab 2023 messen wir unseren CO2-Fußabdruck bei Reisen und investieren in Ausglei
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### Unsere ABBYY-Sommer-Challenge 
 
 Jedes Jahr veranstalten wir einen weltweiten Sportwettbewerb, bei dem für jeden gelaufenen, geradelten, gewanderten oder geschwommenen Kilometer unserer Kolleginnen und Kollegen Spenden für wohltätige Zwecke gesammelt werden. 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Erfahren Sie mehr über ABBYY 
 
 Das führende Unternehmen für KI-gesteuerte intelligente Automatisierung 

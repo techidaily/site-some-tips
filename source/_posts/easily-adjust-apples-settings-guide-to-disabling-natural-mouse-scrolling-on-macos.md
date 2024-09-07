@@ -1,7 +1,7 @@
 ---
 title: "Easily Adjust Apple's Settings: Guide to Disabling Natural Mouse Scrolling on macOS"
-date: 2024-08-29T19:29:33.599Z
-updated: 2024-08-30T19:29:33.599Z
+date: 2024-09-06T23:23:46.762Z
+updated: 2024-09-07T23:23:46.762Z
 tags:
   - desktop
 categories:
@@ -19,12 +19,24 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  In 2011, Apple introduced "natural" scrolling to macOS, and ever since, anyone who has used a scroll wheel on macOS has experienced the gnashing of teeth. Natural scrolling has advantages, but right now this setting is all or nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Natural Scrolling Is Great for Touchpads, Not Wheels
 
  Natural scrolling reverses the scroll direction from what you're normally used to. This is great when using a trackpad, because it means there's a one-to-one relationship between the motion of your fingers and the motion of the page on the screen. It makes scrolling work the same way it does on a touch screen.
 
 ![apple macbook pro 16 m3 max](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/apple-macbook-pro-16-m3-max.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  This is a good thing! When I use my [M1 MacBook Air](https://facebook-video-share.techidaily.com/new-2024-approved-discover-the-best-tools-and-tips-to-accurately-tag-your-videos/) on the go, I never think twice about scrolling using my fingers, because, as the name suggests, it feels natural. The problem is that when I sit at my desk, I use an external mouse instead. With natural scrolling enabled, that means the wheel does the opposite of what I expected. So every time I start scrolling, I have a little false start, and then have to reverse course.
@@ -32,24 +44,30 @@ Apple
  Yes, you can absolutely get used to this, and I think this is probably what most "pure" Mac users do, but there are just as many of us who have to switch to Windows or Linux systems on the regular. That's something I never got used to, and every time I switch between my MacBook and my Windows gaming laptop, I scroll in the wrong direction for a while.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  You Can’t Turn It Off Just for Your Mouse
 
  You'd think it's the most natural thing in the world to have this setting only apply to actual touchpads, but for some reason [toggling natural scrolling on or off](https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-f04-face-lock-by-drfone-android/) affects both touchpads and mice.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## ![MacOS natural scrolling.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/macos-natural-scrolling.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  So, if I wanted to ensure that my trackpad and mouse each behaved in the right way, I would have to head over to my trackpad settings and toggle natural scrolling every time.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Third-Party Apps Are the Only Solution
 
@@ -58,7 +76,10 @@ Apple
  I can also understand that Apple tends to spend a long time perfecting features before they add them. For example, while Windows has had intuitive window snapping since Windows Vista, macOS users will only get [window snapping in macOS Sequoia](https://video-screen-grab.techidaily.com/2024-approved-top-8-safe-online-collaboration-software-for-businesses/). Still, it seems that figuring out an elegant Apple-style window-snapping solution is far more complicated than getting a mouse feature toggle to split between devices,
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  It’s Been Over a Decade, What Gives?
 

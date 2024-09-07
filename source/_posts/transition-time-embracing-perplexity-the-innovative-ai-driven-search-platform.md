@@ -1,7 +1,7 @@
 ---
 title: "Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform"
-date: 2024-08-29T19:31:19.852Z
-updated: 2024-08-30T19:31:19.852Z
+date: 2024-09-06T23:23:48.304Z
+updated: 2024-09-07T23:23:48.304Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,20 @@ categories:
 thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d59553e6950da1a4414daed51.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Perplexity provides more comprehensive and better-formatted search results compared to Google.
@@ -27,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/5e307eed611f17e095f5d88028b2351fba3d967d5
 
  Now, with Google's recently [launched AI-powered Search Generative Experience (SGE)](https://fox-cloud.techidaily.com/2024-approved-powering-up-your-action-footage-one-gadget-at-a-time/), we have a potential solution to this issue. SGE will try to understand your search query and then reference a few articles to generate an answer to your question. The only thing is, [Perplexity does this a lot better](https://screen-sharing-recording.techidaily.com/new-step-by-step-guide-to-recording-on-your-macbook/)!
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Google Wishes Search Generative Experience (SGE) Was as Good as Perplexity
 
  I believe in showing rather than telling. So this is the search query I used:
@@ -64,16 +73,10 @@ Close
 
  Perplexity is not reading through every single article end-to-end to generate the answers. Instead, it's just reading through the excerpts of the source articles for a search, cross-referencing it with what it knows already, and then generating a response from there.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Why Did I Switch To Perplexity?
 
  Perplexity offers a lot of useful features that fit my writer/marketer workflow. For context, I do a lot of online research and read tons of articles (more than 50 articles per day), and a tool like Perplexity helps streamline this process and saves hours of my time. Here's how:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ###  Controlling The Sources and Focused Searches
 
  Perplexity neatly shows all the sources it used to generate the answer. What's more, you can click on the "View More" option to open a list of all the sources, from which you can remove particular sources that you don't like or feel irrelevant to your question. Perplexity will regenerate the answer with the updated list of sources.
@@ -85,12 +88,21 @@ Close
 ![Perplexity Focus a Search to Particular Sources](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/perplexity-focus-a-search-to-particular-sources.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  That said, Google search also offers many [advanced features, including fine-tuning search results](https://vp-tips.techidaily.com/new-in-2024-dramatic-discourse-penning-powerful-narrative-dialogues/), but it's not as _natural_ as is the case with Perplexity.
 
  I generally start any search set to "All," so Perplexity searches the entire web and fetches all possible results. If I don't like the referenced source, then I search again with a focused search, either set to Reddit or Academic, depending on the search intent.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Follow-Up Questions and Related Search
 
 ![Use Perplexity to Ask Follow up Questions and Related Searches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/use-perplexity-to-ask-follow-up-questions-and-related-searches.png) 
@@ -98,7 +110,16 @@ Close
  Perplexity generates a list of Related questions (or search queries) following the generated answer, so you can dive into the topic further. This is similar to Google's People Also Ask feature. Each of these new answers is related to the original search term, forming a thread of questions and answers resembling a chat. That said, if you don't like any of the predefined Related questions, you can also enter your own question as a follow-up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Search Images and Videos
 
@@ -109,8 +130,10 @@ Close
  A Generate Image option is also available, which will create an AI-generated image based on the search query. However, this feature is only available to paid users.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Perplexity Pro Search
 
@@ -122,12 +145,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Free users are limited to only 5 Pro Searches every 4 hours. For most, I think this is okay because you need it in rare cases when you're asking a complex question that's dependent on a lot of variables. However, if you need more Pro Searches, upgrading to the paid plan will give you access to 300 Pro Searches per day.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  The Generative Speed
 
  You might have noticed how Google showcases that it found x results in something like 0.y seconds.
 
 ![Google Search Speed Showcase](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/google-search-speed-showcase.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Perplexity isn't that fast. It takes a moment to fetch the sources and, from there, generate the response. However, it's fast enough. I usually get the source list within 1–2 seconds. Also, the AI answer is generated faster than my reading speed, so I never had this break my flow. It usually takes a similar amount of time as other AI tools like ChatGPT or Microsoft Copilot.
 
 ##  But Google Is Free, and Perplexity is Paid
@@ -136,9 +171,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  As a result, the free version serves as a Google Search alternative, while the [paid version competes with ChatGPT (and other similar tools)](https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-your-video-impact-with-slow-motion-on-ig/), especially given it's similar $20/month pricing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  When Is Google Search Better?
 
  All search queries can be categorized into [4 distinct search intent types](https://yoast.com/search-intent/):

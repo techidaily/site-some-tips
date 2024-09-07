@@ -1,12 +1,18 @@
 ---
 title: "Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog"
-date: 2024-08-21T15:49:45.506Z
-updated: 2024-08-22T15:49:45.506Z
+date: 2024-09-06T23:23:49.880Z
+updated: 2024-09-07T23:23:49.880Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d1b350a14d170a43db0a71bd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
@@ -19,12 +25,24 @@ April 27, 2018
 
 ![Linking AI to Business Value: How Mobile and RPA transform knowledge work | ABBYY Blog Post](https://static1.abbyy.com/abbyycommedia/25284/9156e_blog_linking-ai-to-business-value-with-new-content-intelligence-solutions_4_blog_934x400.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The growing trend of integrating artificial intelligence into business processes not only augments any work involving data-driven decision-making, but also changes the way knowledge work gets done in many organizations.
 
 In the words of Peter Drucker, who first coined the term ‘knowledge workers’ back in 1959, the greatest challenge is to “increase the productivity of [knowledge work](https://aibusiness.com/intelligent-rpa-transforming-knowledge-work-business-world/) and knowledge workers.” Given how the office environment is changing, automation can significantly increase the overall scale of a department or organization by eliminating routine tasks and freeing up employees to handle exceptions or perform creative work. It empowers knowledge workers to focus on higher value scenarios and help minimize human error.
 
 Two important trends are having a significant impact on [knowledge work](https://aibusiness.com/kim-technologies-interview/). One is mobile, which is moving many business processes towards a self-serve model. The other is automation, and the use of AI, when it comes to basic decision-making.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Mobile and RPA transform knowledge work
 
 The exponential growth in the use of mobile devices has introduced a major paradigm shift in the workplace. Many tasks that the knowledge worker used to own and drive are now being driven and owned by the end user initiating the mobile engagement.
@@ -37,6 +55,18 @@ Organizations are using RPA to automate reoccurring, support-driven tasks, often
 
 Furthermore, AI adds significant value to both RPA and mobile. In relation to RPA, sophisticated machine learning algorithms can watch and learn how knowledge workers react and take action in given circumstances and predict future outcomes or recommended courses of action.
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What the future holds for AI in business
 
 Despite the hype and general exaggeration around AI, organizations should expect tangible benefits from artificial intelligence applications in the coming year. Near and dear to our hearts is the need for organizations to simplify and automate the transformation of unstructured content into structured content, so they can take action and make better decisions quicker.
@@ -51,12 +81,19 @@ _This is the abridged version of the article: New Content Intelligence Solutions
 
 ![Anthony Macciola ABBYY](https://static4.abbyy.com/abbyycommedia/25717/anthonymacciola-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Anthony Macciola
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Like, share or repost
 

@@ -1,16 +1,28 @@
 ---
 title: How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
-date: 2024-08-21T15:49:39.783Z
-updated: 2024-08-22T15:49:39.783Z
+date: 2024-09-06T23:23:49.792Z
+updated: 2024-09-07T23:23:49.792Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988bda1b4b5ab8aef4726e226b5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thrive in a Post-COVID World: The Future of Financial Institutions and Insurance Organizations
 
 ###### Eileen Potter
@@ -19,6 +31,12 @@ April 23, 2021
 
 ![](https://static1.abbyy.com/abbyycommedia/33505/buyers-contactless-payment-new.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The pandemic forced financial institutions and insurance organizations to make overnight changes in how they operated, and for two industries not known for speed in adapting to change—or changing processes on the fly—this proved that they can be nimble when they need to be. It was almost like these established organizations had an overnight shift in culture, trading in their suits and ties for hoodies to become more accessible and focused on customer experience.
 
 Many of the operational changes exposed gaps in existing digital capabilities, and some of these changes—like the shift to remote work and virtual customer engagement—appear to be settling in as the new normal.
@@ -33,6 +51,12 @@ As part of a recent presentation we gave at [OPEX Financial Services](https://ww
 
 ![intersection of financial services and insurance](https://static1.abbyy.com/abbyycommedia/32811/intersection-of-financial-services-and-insurance.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 So, how can established organizations in both industries thrive going forward? Here are three of the main challenges we see, and some of the ways organizations can respond:
 
 #### Increasing customer expectations
@@ -63,8 +87,20 @@ It’s not exactly breaking news to talk about how much the business landscape f
 
 ![](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Eileen Potter
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -169,7 +205,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems-for-2024/"><u>Unveiling the Top 5 Elite Slow Camera Systems for 2024</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>Updated 2024 Approved Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

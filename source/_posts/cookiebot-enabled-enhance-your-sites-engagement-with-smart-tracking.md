@@ -1,22 +1,40 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Site's Engagement with Smart Tracking"
-date: 2024-08-21T15:51:44.083Z
-updated: 2024-08-22T15:51:44.083Z
+date: 2024-09-06T23:23:51.700Z
+updated: 2024-09-07T23:23:51.700Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d640a76c9d9df4c625ff11a27.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cookiebot-Enabled: Enhance Your Site's Engagement with Smart Tracking
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 株式会社MAIAは人口知能より高精度な文字認識を実現した「AI-OCR」を教材とする「ABBYY®FlexiCapture®用MAIAラーニング」を提供開始
 
 1月16日, 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 ABBYYジャパン株式会社（本社: 神奈川県横浜市、代表取締役: 小原 洋、以下 ABBYY）は、パートナーである「RPA女子プロジェクト」による人材の教育及び、人とテクノロジーを教育で繋ぎ「循環型社会」を創出する為の支援ツールを提供する株式会社MAIA（本社:東京都港区、代表取締役社長:月田有香、以下「MAIA」）が、AI-OCR\*技術で業務効率化を実現する FlexiCapture®のオンライン教育コンテンツ「ABBYY® FlexiCapture® 用MAIAラーニング」を、2020年1月16日(木)よりサービスとして提供開始することをお知らせいたします。
 
@@ -106,11 +124,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-voice-ms-words-speech-recognition-features-for-2024/"><u>Unleashing the Power of Voice  MS Word's Speech Recognition Features for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/utilizing-b-roll-in-video-production-effectively-for-2024/"><u>Utilizing B-Roll in Video Production Effectively for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->

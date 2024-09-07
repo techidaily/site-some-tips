@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Milestone by T-Mobile: Ultimate Speed Triumphs as New Record for Sub-6 5G Uploads Established"
-date: 2024-08-29T19:31:06.120Z
-updated: 2024-08-30T19:31:06.120Z
+date: 2024-09-06T23:23:48.056Z
+updated: 2024-09-07T23:23:48.056Z
 tags:
   - cutting-edge
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/3c44f0be88269dfe58e87652a332c52a578262780df7f0b33d89646c55a92321.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Revolutionary Milestone by T-Mobile: Ultimate Speed Triumphs as New Record for Sub-6 5G Uploads Established
 
 A new technology called "UL Tx switching" may provide a massive leap in 5G upload speeds. Tests of UL Tx switching, which were conducted by T-Mobile, resulted in 345 Mbps uplink speeds on the Sub-6 5G band. The previous record was just 275 Mbps.
@@ -86,7 +92,3 @@ A new technology called "UL Tx switching" may provide a massive leap in 5G uploa
 <li><a href="https://screen-recording.techidaily.com/unleash-creativity-top-screencast-tools-recommended-by-experts-for-2024/"><u>Unleash Creativity  Top Screencast Tools Recommended by Experts for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unlocking-significant-savings-with-abbyy-discover-the-story-of-a-6m-windfall-for-a-leading-finance-firm/"><u>Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

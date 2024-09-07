@@ -1,12 +1,24 @@
 ---
 title: Boost Your Site's Traffic with Cookiebot Technology
-date: 2024-08-21T15:52:10.968Z
-updated: 2024-08-22T15:52:10.968Z
+date: 2024-09-06T23:23:52.100Z
+updated: 2024-09-07T23:23:52.100Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4123069d71208845b762ea4c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Site's Traffic with Cookiebot Technology
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
@@ -17,12 +29,30 @@ July 23, 2018
 
 ![](https://static1.abbyy.com/abbyycommedia/26356/mobile-monday-42.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Today, you can hardly find a person who doesn’t take selfies or general photos while strolling around on the street. This issue features: accessories for a perfect selfie, looking for a business card by the creation date, and traveling alone.
 
 We’ve been surfing the web and encountered the photos below. And simply couldn’t help but share them with you!
 
 ![how to make selfie example bread](https://static1.abbyy.com/abbyycommedia/26357/selfi.jpg)![girls and creative way of doing selfie](https://static1.abbyy.com/abbyycommedia/26358/selfi-devushki.jpg)![familly innovative selfie](https://static1.abbyy.com/abbyycommedia/26359/innovatsionnoe-selfi.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **iOS and Android Tip: Taking a Perfect Selfie**
 
 Today we won’t separate our tips by mobile OS. All devices that we discuss below work perfectly both on iOS and Android.
@@ -35,11 +65,23 @@ How often are you asked to take a photo of a person on the street? Now, the odds
 * Bifie – a selfie in bikini
 * Groufie (Ussie) – a group selfie with friends![селфи селебритис](https://static1.abbyy.com/abbyycommedia/26360/selfi-selebritis-1024x576.jpg)
 * Elevator selfie – a selfie taken in an elevator
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Momfie – a selfie with your mom
 * Manfie – a selfie of a man
 * Relfie – a selfie with your significant other
 * Suglie – a selfie of a person who makes faces![types of selfie suglie](https://static1.abbyy.com/abbyycommedia/26361/suglie.jpg)
 * Bathroom mirror selfie – a selfie in a bathroom
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * Wake up selfie – a selfie where your head is on a pillow and you have a sleepy face![types of selfie wake up selfie](https://static1.abbyy.com/abbyycommedia/26362/wake-up-selfie.jpg)
 * Felfie – a selfie with your pet originally taken on a farm
 * Welfie – a fitness selfie made in a gym
@@ -50,6 +92,18 @@ How often are you asked to take a photo of a person on the street? Now, the odds
 
 ![types of selfie extreme selfie](https://static1.abbyy.com/abbyycommedia/26363/extreme-selfie.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The most important thing for an excellent selfie is your smartphone and its camera. On top of that, there are plenty of accessories and devices that help in taking excellent photos. Let’s talk about them in detail.
 
 **Camera phones**
@@ -64,10 +118,22 @@ But have you ever heard of [Flexy Paw](https://www.pawchamps.com/)? This phone a
 
 ![gadget for selfies flexy paw](https://static1.abbyy.com/abbyycommedia/26364/flexy-paw.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [GripSnap](https://www.kickstarter.com/projects/143547447/gripsnap-the-coolest-multi-use-monopod-with-a-magn) is a monopod with a magnetic holder that can be attached to a metal surface such as a light pole or a fence when you have no place to place your phone.
 
 ![gadget for selfies grip snap](https://static1.abbyy.com/abbyycommedia/26365/grip-snap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Selfie drones**
 
 [Pitta](https://www.pitta.co/) is an unusual device for taking selfies and recording videos. Its developers now raise money on [Kickstarter](https://www.kickstarter.com/projects/1627662609/pitta-transformative-autonomous-4k-selfie-drone/updates). This is a ball-shaped gadget that can perform functions of an action camera, drone or a home video surveillance system.
@@ -90,20 +156,44 @@ This device can upload recorded videos to the internet by connecting via Wi-Fi o
 
 ![hypno eye animation effect](https://static1.abbyy.com/abbyycommedia/26369/hypno-eye-animation-video-1024x429.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Photo cameras**
 
 Instant photo cameras are really popular among teenagers and professional Instagrammers. Take [Instax](http://www.fujifilmusa.com/products/instax/index.html), for example. It lets you take a photo and print it… instantly! If you opt for Instax, try scrapbooking sets that enable you to design and make your own photo albums.
 
 ![gadget for selfies instant photo instax](https://static1.abbyy.com/abbyycommedia/26370/instax-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Prynt](https://www.prynt.co/#/?%5Fk=p122lz#/#/) is a one-of-a-kind smartphone case that is also a printer. Want to print a photo directly from your smartphone? What can be easier! Just put this case on, pair it with your phone, and voila! You get magical pictures just like in the Harry Potter movies. Select a photo for your camera to send it to a cloud and apply animation. Then print a photo and point your camera to it. It will come to life!
 
 ![gadget for selfies prynt instant photo](https://static1.abbyy.com/abbyycommedia/26371/prynt-1024x576.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The [Qlippie](https://www.qlippieworld.com/) portable wide-angle camera is so small that you can hide it in your pocket. With a special clip, this device can be attached to virtually any place. If needed, you can additionally purchase a monopod and cute stickers to freshen up camera’s design.
 
 ![gadget for selfies qlippie with different covers](https://static1.abbyy.com/abbyycommedia/26372/qlippie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [DxO ONE](https://www.dxo.com/us/dxo-one) would be a general digital camera if it didn’t have a lightening plug on the side panel. To use this device, simply install [its app](https://itunes.apple.com/us/app/dxo-one-professional-quality/id981525548?mt=8) and start taking pictures. DxO ONE can take photos in the RAW format that saves a negative to the memory card and a JPEG file to your Gallery. You can easily rotate it to take selfies as well. DxO ONE can be connected only to [iPhone](https://itunes.apple.com/us/app/dxo-one-professional-quality/id981525548?mt=8).
 
 ![gadget for selfies through lightning for iPhone dxo one](https://static1.abbyy.com/abbyycommedia/26373/dxo-one.jpg)
@@ -114,6 +204,12 @@ To expand capabilities of your camera even further, attach additional lenses. On
 
 ![gadgets for selfies different lenses](https://static1.abbyy.com/abbyycommedia/26374/fish-eye.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can also buy an even more convenient lens with tripods, just like on the photo below.
 
 ![gadget for selfies lens with tripods](https://static1.abbyy.com/abbyycommedia/26375/lens-with-tripods.jpg)
@@ -132,9 +228,6 @@ Do you want to have a nourishing breakfast and feast your eyes on your own pictu
 
 ![gadget for selfies to make toasts look like you](https://static1.abbyy.com/abbyycommedia/26378/selfie-toaster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **ABBYY Tip: Searching For Business Cards By Date**
 
 Do you remember the date of a conference but the name of a person that you’ve met totally slips your memory? Yes, we’ve all been there. Try looking for their business card by its recognition date:
@@ -146,12 +239,6 @@ Do you remember the date of a conference but the name of a person that you’ve 
 
 ![Abbyy BCR search by date](https://static1.abbyy.com/abbyycommedia/26379/image-from-ios-576x1024.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **App of the Week: Roofbot**
 
 ![Roofbot app logic puzzle](https://static1.abbyy.com/abbyycommedia/26380/screen-0.jpg)
@@ -161,14 +248,29 @@ Roofbot is a conundrum game. Its main character is a cute robot who moves across
 ![roofbot that is trying to save planet](https://static1.abbyy.com/abbyycommedia/26381/643x0w.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 It features 120 levels and 25 tips that help you find the correct route. Roofbot is an exciting conundrum with a high rating that comes in reasonable price—only $2.99.
 
 ![roofbot app for two platforms android and ios](https://static1.abbyy.com/abbyycommedia/26382/roofbot-android-ios.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Available on [iOS](https://itunes.apple.com/us/app/roofbot-puzzler-on-the-roof/id1148435076?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.doublecoconut.roofbot&hl=de).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **First-Hand Experience: Advice From a Colleague**
 
 _By Sergey Kharchenko, iOS developer_
@@ -186,6 +288,18 @@ I personally would go for the second option and here is why:
 
 ![beach](https://static1.abbyy.com/abbyycommedia/26384/beach-1024x768.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 But this way of traveling also comes with a set of disadvantages:
 
 1. Traveling by yourself is often more expensive.
@@ -201,9 +315,6 @@ I believe that making your trips more and more complex is a better way to ease i
 
 ![river](https://static1.abbyy.com/abbyycommedia/26386/river-1024x768.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 Thinking of traveling alone, with your partner or with a group? It is always up to you, but in life there’s always a place for something new, right? Why not try all of these options? Go for it! Travelling will give you strength for new achievements and will help you discover something exciting!
 
 That’s all for now, see you next Monday!
@@ -212,9 +323,6 @@ P.S. The previous issue is [here](https://tools.techidaily.com/abbyy/products/).
 
 [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

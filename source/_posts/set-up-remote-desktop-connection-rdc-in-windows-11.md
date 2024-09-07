@@ -1,7 +1,7 @@
 ---
 title: Set up Remote Desktop Connection (RDC) in Windows 11
-date: 2024-08-25T17:53:30.463Z
-updated: 2024-08-26T17:53:30.463Z
+date: 2024-09-06T23:23:48.565Z
+updated: 2024-09-07T23:23:48.565Z
 tags:
   - win11
   - win10
@@ -29,6 +29,12 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
   
 ![a6](https://images.drivereasy.com/wp-content/uploads/2016/11/a6-3.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before you proceed to the next step, make sure the computer you will connect to will not go to sleep and stay on as long as possible.  
   
  Right click the _**Start**_ button, select**Control Panel** .  
@@ -54,22 +60,58 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
   
 ![a1](https://images.drivereasy.com/wp-content/uploads/2016/11/a1-10.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select**System** in the panel.  
   
 ![a2](https://images.drivereasy.com/wp-content/uploads/2016/11/a2-6-600x444.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the**About** tab, note the PC name which you will later be using it to connect with.  
   
 ![a3](https://images.drivereasy.com/wp-content/uploads/2016/11/a3-9-600x480.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enter**Remote Desktop Connection** on the search box and open it.  
   
 ![a9](https://images.drivereasy.com/wp-content/uploads/2016/11/a9-2-327x600.png)   
   
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enter the PC name you just noted, click**Connect** .  
   
 ![a7](https://images.drivereasy.com/wp-content/uploads/2016/11/a7-2.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enter the credentials that will be used to connect to the computer, then click OK to start the connection.  
   
 ![a10](https://images.drivereasy.com/wp-content/uploads/2016/11/a10.png)   
@@ -131,7 +173,3 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
 <li><a href="https://bypass-frp.techidaily.com/top-5-itel-s23plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Itel S23+ Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-how-to-convert-digital-videos-into-cartoons/"><u>Updated 2024 Approved How to Convert Digital Videos Into Cartoons?</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

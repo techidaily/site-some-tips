@@ -1,28 +1,58 @@
 ---
 title: ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド
-date: 2024-08-21T15:48:39.311Z
-updated: 2024-08-22T15:48:39.311Z
+date: 2024-09-06T23:23:48.802Z
+updated: 2024-09-07T23:23:48.802Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468e25eb7e04a5333cdbe19d66.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Timeline Connector for Alteryx®のご紹介
 
 2月3日, 2021
 
 ![](https://static4.abbyy.com/abbyycommedia/31704/alteryx-abbyy-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYYは、DX（デジタルトランスフォーメーション）のイニシアチブを加速するため、アナリティック・プロセス・オートメーション（APA™）のリーダーである[Alteryx (NYSE:AYX)](https://www.alteryx.com/ja)と連携し、同社の[Alteryx Analytic Process Automation Platform™](https://www.alteryx.com/ja/products/apa-platform)を補うProcess Intelligence機能の提供を始めました。そして、[ABBYYの公式サイト](https://tools.techidaily.com/abbyy/products/)で、「Alteryx連携コネクタ」が公開されました。（[2020年10月23日ニュースリリース](https://tools.techidaily.com/abbyy/products/)）
 
 AlteryxのAPAプラットフォーム™は、分析、データサイエンス、データ処理を中心とするプロセスオートメーションを1つのセルフサービスプラットフォームへと統合するものです。コネクタを利用することで、Alteryx Designer®より[ABBYY Timeline](https://tools.techidaily.com/abbyy/products/)へシームレスにデータ連携が可能になり、ユーザーは、エンドツーエンドの分析と業務プロセスの実行評価をすばやく開始、分析、予測、監視することが可能となります。
 
 ![ABBYY Connector for Alteryx](https://static1.abbyy.com/abbyycommedia/31692/alteryx-abbyy-connector.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 どのようにABBYY TimelineがAlteryxのAPAプラットフォーム™に統合されているか、詳細は動画をご覧下さい。
 
 ---
@@ -41,6 +71,12 @@ ABBYY Timeline Connector for Alteryxについてのお問い合わせは[こち�
 
 [デジタルインテリジェンス](https://tools.techidaily.com/abbyy/products/) [プロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/) [エンタープライズ](https://tools.techidaily.com/abbyy/products/) [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -144,7 +180,3 @@ Connect with us
 <li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-behind-chatgpt-shared-link-functionality-a-step-by-step-breakdown/"><u>Unveiling the Secrets Behind ChatGPT Shared Link Functionality: A Step-by-Step Breakdown</u></a></li>
 <li><a href="https://some-tips.techidaily.com/utilizing-b-roll-in-video-production-effectively-for-2024/"><u>Utilizing B-Roll in Video Production Effectively for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->

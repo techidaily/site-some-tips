@@ -1,16 +1,28 @@
 ---
 title: Harness the Power of Cookiebot for Superior Website Insights & Conversions
-date: 2024-08-21T15:51:56.678Z
-updated: 2024-08-22T15:51:56.678Z
+date: 2024-09-06T23:23:51.879Z
+updated: 2024-09-07T23:23:51.879Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def47629f17026d118c0eda7b469c.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Harness the Power of Cookiebot for Superior Website Insights & Conversions
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Impact of AI on the Legal Profession
 
 ###### Michael Simon
@@ -19,6 +31,18 @@ November 27, 2018
 
 ![The Impact of AI on the Legal Profession: ABBYY Blog Post #5 of 5 Content Analytics](https://static5.abbyy.com/abbyycommedia/25324/9787e_blog_content-analytics-blog-seriesblog_5.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As some of you might know – but most of you probably don’t – I am the lead author (along with three tremendous co-authors from the law firm of [HoganLovells](https://www.hoganlovells.com/)) of a recent article in the Yale Law School Journal of Law and Technology: [Lola V. Skadden](https://yjolt.org/lola-v-skadden-and-automation-legal-profession). Our article looks at the explosive, exponential growth of [Artificial Intelligence (“AI”)](https://www.bernardmarr.com/default.asp?contentID=963) and what the law as a profession along with individual lawyers can – and should – do about it. We’ve done our best in the article, I think, to present both the dangers and opportunities presented by AI to not just the law, but to our society as a whole.
 
 Now, I don’t expect any of you to be familiar with the Lola v. Skadden case, because, frankly, it was a somewhat obscure case. In a very short summary a very important and influential US court (not the US Supreme Court, but one of the most important Federal appellate courts just below it) held that when it comes to the practice of law, anything that a machine can do simply cannot be considered to be “the practice of law.”
@@ -43,12 +67,24 @@ For those just starting out in their legal careers, it’s probably going to tak
 
 ![Mike Simon Attorney](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Michael Simon
 
 Michael Simon is the Principal of Seventh Samurai, an e-Discovery and Information Governance expert consulting firm. As a trial attorney in Chicago, he was an early innovator in using electronic evidence to win cases for his clients. He is an adjunct professor at Michigan State University College of Law (and formerly at Boston University School of Law), teaching classes in e-Discovery. He has advised a number of companies and government agencies on how to best mitigate the risks arising from their information while best optimizing value, and provides strategic consulting for companies in the analytics, security, privacy, and legal technology markets.
 
 Michael is a legal technology thought leader, having made over 100 presentations and written dozens of articles on e-Discovery and legal technology topics, including a book on Internet Law in 2002\. He received his J.D. from Loyola University Chicago School of Law, and his B.A. cum laude from Tufts University.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -180,7 +216,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/unusual-sideway-photos-in-instagram-storytelling-for-2024/"><u>Unusual Sideway Photos in Instagram Storytelling for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unveiling-the-secret-seeing-popular-youtube-reactions-for-2024/"><u>Unveiling the Secret  Seeing Popular YouTube Reactions for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,22 +1,40 @@
 ---
 title: "Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit"
-date: 2024-08-21T15:50:19.188Z
-updated: 2024-08-22T15:50:19.188Z
+date: 2024-09-06T23:23:50.370Z
+updated: 2024-09-07T23:23:50.370Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc74fde8e765814f3eec97fd83.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The AI Summit Helps Businesses to Look Beyond AI Hype
 
 June 07, 2019
 
 ![ABBYY AI Summit at London Tech Week 2019 | ABBYY Blog Post](https://static5.abbyy.com/abbyycommedia/25363/10644_smm_blog_the-ai-summit-helps-businesses-to-look-beyond-ai-hype_blog.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 AI is already delivering real value in business. It is being implemented across all industries and business functions creating unprecedented efficiencies in human productivity. That was also the verdict of a recent [Forbes Insights survey](https://www.forbes.com/insights-intelai/ai-issue-1/) of 300-plus executives, in which 95% believe that AI will play an important role in their responsibilities in the near-future. Among the business benefits from AI most-cited by corporate leaders are: increased productivity (40%), reduced operating costs (28%), improved speed to market (21%) and transformed business and operating models (20%).
 
 Since its launch in 2015, The AI Summit has shifted the focus of AI conferences from research and academia to practical implementation for enterprise business use across the globe. This revolutionary new take lead rapidly to major partnerships including the likes of Amazon, Facebook, Google, IBM Watson, Intel, Microsoft, and many more helping events to spread from London, to Cape Town, New York, San Francisco, Singapore, and Tokyo. Today, the AI Summit not only brings together world-renowned experts on Artificial Intelligence, it has become the first-ever conference and exhibition globally to explore what AI practically means for enterprises.
@@ -31,6 +49,18 @@ To accelerate business processes and get a stronger foothold in markets already 
 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") [Enterprise](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
@@ -143,7 +173,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-periscope-mastery-for-2024/"><u>Unlocking the Secrets of Periscope Mastery for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10-for-2024/"><u>Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10 for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

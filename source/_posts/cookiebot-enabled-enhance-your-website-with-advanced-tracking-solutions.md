@@ -1,22 +1,46 @@
 ---
 title: "Cookiebot-Enabled: Enhance Your Website with Advanced Tracking Solutions"
-date: 2024-08-21T15:49:22.473Z
-updated: 2024-08-22T15:49:22.473Z
+date: 2024-09-06T23:23:49.457Z
+updated: 2024-09-07T23:23:49.457Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b57bdcbb41c7763c82190be25c28d361f666df5033d9cd0a341320bf7b8e56fa.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cookiebot-Enabled: Enhance Your Website with Advanced Tracking Solutions
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Christian Marquardt neuer Channel-Chef bei ABBYY Europe
 
 19\. September 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY®, ein globaler Anbieter von Lösungen und Services für Content Intelligence, stellt mit Christian Marquardt einen neuen Channel-Chef für die europäischen Kernregionen an. Marquardt wird ab sofort in der Rolle des Director of Partnerships & Alliances DACH, BeNelux, France & UK das Wachstum des Partnergeschäfts in den Tier-1-Regionen in Europa weiter vorantreiben.
 
 „Christian verfügt über langjährige Erfahrung und fundierte Kenntnisse sowohl in der Capture-Branche als auch im RPA-Umfeld. Diese konnte er während seiner beruflichen Laufbahn ausbauen. Er kennt sowohl den Markt als auch die Partnerlandschaft“, so Markus Pichler, VP Global Partnerships & Alliances. „Ich bin mir sicher, dass Christian sowohl menschlich als auch fachlich ein Gewinn für mein Team sein wird. Denn er vereint technisches Hintergrundwissen mit umfangreicher Erfahrung im indirekten Vertrieb und weiß, was im Channel-Markt wichtig ist.“
@@ -114,7 +138,3 @@ Vernetzen Sie sich mit uns
 <li><a href="https://extra-hints.techidaily.com/top-video-editors-aiding-in-app-dev-creation/"><u>Top Video Editors Aiding in App Dev Creation</u></a></li>
 <li><a href="https://some-tips.techidaily.com/ultimate-luxury-cosmetics-series-for-2024/"><u>Ultimate Luxury Cosmetics Series for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,22 +1,40 @@
 ---
 title: "How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit"
-date: 2024-08-21T15:52:31.215Z
-updated: 2024-08-22T15:52:31.215Z
+date: 2024-09-06T23:23:52.425Z
+updated: 2024-09-07T23:23:52.425Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY and UiPath at the Future of Finance Summit
 
 February 09, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### _ABBYY and partner will showcase capture-driven business process automation solutions for shared service providers_ 
   
 ABBYY, a leading global provider of technologies and solutions to action information, will present capture-driven process automation solutions for BPOs and Shared Service Centers (SSC) at [the Future of Finance Summit](https://www.financetransformationeurope.com/ "The Future of Finance Summit, 2017") in London. This industry-leading event for CFOs, Finance Leaders and Global Process Owners addresses the most pressing topics in the industry and crafts a shared vision of the direction finance is taking. On the 15th and 16th of February, ABBYY’s experts, together with UiPath, a premium vendor of Robotic Process Automation (RPA) software, will showcase innovative and trendsetting solutions for automating Accounts Payable processes.
@@ -126,7 +144,3 @@ Connect with us
 <li><a href="https://youtube-webster.techidaily.com/king-efficiency-the-top-5-video-shortener-tools/"><u>Unlocking Efficiency  The Top 5 Video Shortener Tools</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

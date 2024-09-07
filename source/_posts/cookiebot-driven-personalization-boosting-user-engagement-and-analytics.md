@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Driven Personalization: Boosting User Engagement and Analytics"
-date: 2024-08-21T15:48:45.802Z
-updated: 2024-08-22T15:48:45.802Z
+date: 2024-09-06T23:23:48.897Z
+updated: 2024-09-07T23:23:48.897Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6ea4b6540cbc9defac45234e6794ae14daad67ae8e54d2f0a08f445fb5dafc81.jpg
@@ -17,12 +17,24 @@ May 12, 2023
 
 ![](https://static2.abbyy.com/abbyycommedia/37761/paula-đàm-diệu-phương.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Flexible working was a deal clincher for Paula Dam when she joined ABBYY—and now we know why! The Senior Talent Acquisition Partner certainly has an active personal life—including running, cycling, canoeing, volunteering, and travelling, which only comes after her daily ritual of meditation.
 
 And flexibility and remote working are not the only perks that attracted Paula to ABBYY. She says our team spirit and endless support from colleagues makes her feel appreciated and motivated. Here’s what else she had to say about life at ABBYY…
 
 **[Follow us on Instagram and get to know the people at ABBYY](https://www.instagram.com/abbyyglobal/ "Instagram")**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What is it that you do at ABBYY and what is your favorite thing about it?
 
 I am the Senior Talent Acquisition Partner at ABBYY’s regional Asia-Pacific (APAC) headquarters in Singapore. We are the ambassadors of ABBYY when it comes to hiring. I work hand in hand with hiring managers on identifying and recruiting people from across the Asia-Pacific and Japan (APJ) region and I am usually the first person to interact and engage with those who will potentially become ABBYY colleagues!
@@ -40,7 +52,22 @@ In the evening, I have a catch-up meeting with my manager, Talent Acquisition (T
 ![](https://static1.abbyy.com/abbyycommedia/37164/meet-paula-dam-1.png?width=750&height=570)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### What was your previous experience before ABBYY?
 
@@ -54,21 +81,6 @@ The reason I accepted the offer from ABBYY was due to the company’s stance on 
 
 ![](https://static1.abbyy.com/abbyycommedia/37165/meet-paula-dam-2.png?width=750&height=570)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What keeps you going, and what are some highlights of your journey with ABBYY so far?
 
 Besides what made me join ABBYY, I think another important factor is what’s making me stay. For me, it’s the people – my colleagues in the Singapore office, Japan, and across ABBYY worldwide.
@@ -81,15 +93,18 @@ I am blessed to be part of ABBYY and surrounded by great leaders in the region, 
 
 ![](https://static1.abbyy.com/abbyycommedia/37166/meet-paula-dam-3.png?width=750&height=570)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Your top advice to someone joining ABBYY, and for someone joining ABBYY in a similar role?
 
 If you are someone who likes challenges, wants to make a change, and create something new, ABBYY will give you that opportunity. It’s a place where you will enjoy taking the initiative and figuring out new ways to work as if this is your own business. You are part of ABBYY and ABBYY is part of you.
 
 ABBYY has more than 30 years in the business yet, in many ways, it maintains a startup mentality. Your experience and ideas will be somehow utilized, and you’ll be a great contribution to our organization. It’s an adult working environment. You just need some principal guidelines, and then you can ride the boat as a ‘captain’ in your field.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### We know that you are living an active lifestyle. Tell us more about it, how do you spend your free time?
 
 I am committed to taking care of myself both physically and mentally. Physically, I try to explore different sports and enjoy running and cycling. The longest distance I ever ran was a full marathon, but I regularly jog between 5-10 kilometer (km). I sometimes join my friends biking around Singapore and on average we cycle 40-70 km. I also practice outrigger canoeing (OC) at Sentosa Island during the weekend and early in the morning before starting work (5am to 6.30pm is our weekday training session).
@@ -100,25 +115,22 @@ Besides my environmental and sustainability activities, I am also a regular volu
 
 For my mental health, I practice Vipassana mediation every morning. Travelling is also a big part of my life. I travel to learn, connect, and experience new things.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### If you could have one wish come true, what would it be and why?
 
 I don’t really believe in wishes coming true or hypotheses. If you want something, work and find a way to achieve it instead of wishing. If we face challenges and tough times in our lives, we may be able to handle them with our own great courage and attitude.
 
 ![](https://static1.abbyy.com/abbyycommedia/37167/meet-paula-dam-4.png?width=750&height=570)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What is your definition of work-life balance?
 
 It’s when I am excited about starting work in the morning, continue to enjoy it during the day and at the same time have my personal life fulfilled. It's when I am going to sleep happily knowing that I have had a fulfilled and meaningful, yet challenging day!
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Lastly, could you recommend us a book/movie/series/ or activity you have recently discovered or are enjoying at the moment? What’s so great about it?
 
 Meditation: practice Vipassana Mediation! I went to the 10 days Vipassana Mediation taught by S.N Goenka in the tradition of Sayagyi last Christmas in Bali. It was a life-changing experience and I have had so much benefit from a mental health perspective.
@@ -132,27 +144,48 @@ There are two books I recommend:
 
 Both books can be easily found on the internet and if you prefer audiobooks, they are available for free on YouTube!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Interested in joining the ABBYY team? Please check the vacancies below and apply!
 
 [See all open positions](https://boards.eu.greenhouse.io/abbyy?itm%5Fsource=corpblog)
 
 [Meet Our Team](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Related posts
 
 ![](https://static2.abbyy.com/abbyycommedia/37760/nina-walker.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [ABBYY Spotlight: Nina Walker, Head of Customer Experience](https://tools.techidaily.com/abbyy/products/) 
 
 ![](https://static5.abbyy.com/abbyycommedia/37764/viacheslav-prodan.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [ABBYY Spotlight: Viacheslav Prodan, Director Customer Excellence (CEx) Systems, Processes, and Automations](https://www.abbyy.com/blog/meet-viacheslav-prodan/) 
 
 #### Subscribe for blog updates

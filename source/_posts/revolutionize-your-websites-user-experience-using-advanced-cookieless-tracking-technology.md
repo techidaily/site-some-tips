@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Website's User Experience Using Advanced Cookieless Tracking Technology
-date: 2024-08-21T15:49:42.292Z
-updated: 2024-08-22T15:49:42.292Z
+date: 2024-09-06T23:23:49.828Z
+updated: 2024-09-07T23:23:49.828Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426c62a6f89484db17077fafde.jpg
@@ -11,6 +11,18 @@ thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426
 
 ABBYYでの仕事と生活
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYYでの自分を想像する 
 
 ABBYYでの仕事とは 
@@ -19,6 +31,24 @@ ABBYYでの仕事とは
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/visuals/careers-visual-abbyy.jpg?h=1000&iar=0&w=5120)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 当社の価値観 
 
 ABBYYの成功の土台は、企業とその社員のアイデンティティ、そしてチームとしての仕事を定義する共通の価値観で成り立つものです。この価値観に対するコミットメントは、ただの声明ではありません。これこそが組織としての「生き方」なのです。この価値観が羅針盤となり、当社の日々の行動、決断、互いの影響を生み出し、形作っています。 
@@ -31,6 +61,12 @@ ABBYYの成功の土台は、企業とその社員のアイデンティティ、
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-128.svg?h=128&iar=0&w=128)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### 透明性 
 
 ABBYYは、社員の知識と情報に信頼を置いています。当社は、透明性を保って行動することが、チームの努力とエンゲージメントを支える何よりの要素だと信じています。 
@@ -43,6 +79,12 @@ ABBYYは、社員の知識と情報に信頼を置いています。当社は、
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-1.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-3.jpg?h=395&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-2.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-1-2023.jpg?h=242&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-2.jpg?h=242&iar=0&w=458)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-3.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-4-2023.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-5-2023.jpg?h=396&iar=0&w=360)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-1.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-3.jpg?h=395&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-2.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-1-2023.jpg?h=242&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-2.jpg?h=242&iar=0&w=458)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-3.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-4-2023.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-5-2023.jpg?h=396&iar=0&w=360)
 
 ABBYYのビジョンは、インテリジェント・オートメーションの推進におけるリーダーとなることです。これは戦略、ビジネスプラン、収益成長、収益性、その他の目標達成への極めて強固なコミットメントを必要とするものます。 ですが、それだけではさらなる高みを目指すことはできません。ABBYYの最大の強みは、アイデアや計画を実際の成果に変える人材なのです。人材を何よりも優先し、ひとりひとりがプロとして、また個人として成長することができる環境を整えることが当社の目標です。 
@@ -51,6 +93,12 @@ Ulf Persson、ABBYYグループCEOおよび代表取締役
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/drawer-1.jpg?h=389&iar=0&w=750)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYYの基本指針 
 
 当社の卓越性へのコミットメントは、単なるチームの価値観にとどまりません。我々の日常的な行動や決断を導く原則となるものです。この原則が羅針盤となり、最高水準の誠実さ、協調性、顧客中心主義が守り抜かれているのです。 
@@ -103,9 +151,6 @@ ABBYYでは、フレックスタイム制により、すべての社員にリモ
 
 多くの成功しているビジネスがそうであるように、ABBYYも企業としての個性を重視し、顧客により良いサービスを提供できる製品を作ろうと努力しています。 イノベーションは、挑戦と非線形思考の機能であり、それは異なる視点を反映する個人によって可能になるものなのです。多様な人材を雇用し、維持するためには、何者も排除しない環境、つまり違いが尊重され、誰もが自分の居場所だと感じられるようなコミュニティを提供する必要があります。それがABBYYの願いであり、ビジョンです」 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 環境および社会に対する責任 
 
 ABBYYにおいて、環境および社会的責任への取り組みは、長きにわたって極めて重要なものであり続けています。当社の製品は、世界中の何百ものクライアントが非効率を解消し、資源管理を改善するのに役立っていますが、当社では持続可能性と社会的責任を促進するための独自のイニシアチブも展開しています。 
@@ -113,7 +158,16 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_checkmark-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### 取り引きが1件成立するごとに1本の木を植樹 
 
@@ -122,7 +176,16 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_people_employee-1-64.svg?h=64&iar=0&w=64)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##### 価値ある目的のための有給休暇 
 
@@ -130,25 +193,16 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_mountain-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##### カーボンニュートラルへの道 
 
 2023年から、ABBYYは出張時の二酸化炭素排出量を測定し、オフセットプログラムに投資しています。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### ABBYY Summer Challenge 
 
 毎年、世界的なスポーツコンペティションを開催し、社員が1キロメートル走ったり、サイクリングしたり、歩いたり、泳いだりするごとにチャリティを寄付しています。 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### ABBYYについて詳しく 
 
 AIを活用したインテリジェントオートメーションのリーディング企業

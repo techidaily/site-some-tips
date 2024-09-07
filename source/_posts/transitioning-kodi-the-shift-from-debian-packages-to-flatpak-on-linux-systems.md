@@ -1,7 +1,7 @@
 ---
 title: "Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems"
-date: 2024-08-29T19:29:58.201Z
-updated: 2024-08-30T19:29:58.201Z
+date: 2024-09-06T23:23:47.124Z
+updated: 2024-09-07T23:23:47.124Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb75637faff2a09a30c684309.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems
 
 Slowly but surely, the Linux ecosystem is switching to packaged software bundles, like Snap and Flatpak. The Kodi media center project has announced it will no longer distribute installations or updates through the Team Kodi PPA, instead using [Flatpak](https://flathub.org/apps/tv.kodi.Kodi) as its primary software repository on Linux.
@@ -82,7 +88,3 @@ Slowly but surely, the Linux ecosystem is switching to packaged software bundles
 <li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-searching-for-free-sports-streaming-sites-look-no-further/"><u>Updated In 2024, Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
 <li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

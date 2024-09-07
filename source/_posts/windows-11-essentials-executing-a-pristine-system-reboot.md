@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Essentials: Executing a Pristine System Reboot"
-date: 2024-08-25T17:53:40.767Z
-updated: 2024-08-26T17:53:40.767Z
+date: 2024-09-06T23:23:48.692Z
+updated: 2024-09-07T23:23:48.692Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Windows 11 Essentials: Executing a Pristine Sys
 thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2334e4827cc51dbf7be6e12c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows 11 Essentials: Executing a Pristine System Reboot
 
 A clean boot allows you to start Windows without running non-Microsoft services. It would help you troubleshoot and determine what application or program is causing the problem that you have. After upgrading to Windows 10 or updating Windows 10, you may encounter software conflicts. To fix the problem, it is necessary to perform a clean boot. Here you will learn how to perform a clean boot in Windows 10.  
@@ -25,15 +31,33 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5847cf8919edb.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3\. In**General**tab, under Selective startup,**uncheck**the box next to**Load startup items**. Then click on Apply button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5847d80e75a8e.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 4\. Click on**Services**tab and check the box next to**Hide all Microsoft services**. Then click on**Disable all**button.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5847d0ffb1b99.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Click**Apply** then**OK** button.  
   
  **Tips to troubleshoot what applications or program is causing the problem**   
@@ -42,6 +66,12 @@ Follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5847d45a5a361.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -93,7 +123,3 @@ Follow these steps:
 <li><a href="https://extra-lessons.techidaily.com/unveiling-the-top-rated-srt-translators-for-zero-cost/"><u>Unveiling the Top-Rated SRT Translators for Zero Cost</u></a></li>
 <li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->

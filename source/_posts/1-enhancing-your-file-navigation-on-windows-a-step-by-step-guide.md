@@ -1,7 +1,7 @@
 ---
 title: "1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide"
-date: 2024-08-29T19:29:25.357Z
-updated: 2024-08-30T19:29:25.357Z
+date: 2024-09-06T23:23:46.654Z
+updated: 2024-09-07T23:23:46.654Z
 tags:
   - desktop
 categories:
@@ -9,8 +9,32 @@ categories:
 thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b573d2796a1411e612ad84808.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Search faster with Everything, a lightweight search engine for Windows.
@@ -29,12 +53,30 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![Filer options in Everything Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/ksnip_20240801-024646.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Whenever you update or add a file, Everything indexes it right away. It builds its database within seconds of the first installation, and it scans for changes in real time. It’s so fast that you don’t even have to complete the query to retrieve a file or folder. It pulls up files as you type. No progress bars.
 
  You can even search through network folders. Just press the hotkey—Ctrl+N by default—and start typing.
 
  It takes very few resources to run Everything and it’s completely free. If you have a lot of files on your computer, [Everything is a must-have](https://facebook-video-content.techidaily.com/seamless-share-youtube-videos-set-up-autoplay-on-fb-for-2024/).
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Work Faster With PowerToys
 
  PowerToys isn’t built into Windows, but it is an official Microsoft product. It’s a set of utilities designed to enhance workflows on Windows. It’s installed as a single program and gives you access to a whole library of amazingly useful tools. Let's take a look at a few of these utilities (there are [a lot more](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/)).
@@ -43,27 +85,18 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![Customizing FancyZones settings in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pt-fancyzones-multimon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Microsoft
 
  Preview panes on Windows show the contents of a file without opening it. Sadly, it’s mostly limited to image previews. With PowerToys, you can preview more than 150 types of files, including PDF files, source code files, [markdowns](https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/), and more. If your workflow involves jumping between files often, PowerToys can save you some time.
 
 ![PowerToys preview pane.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/powertoys-fileexplorer-win11.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 Microsoft
 
  Ever run into the error “you can’t delete this file because it’s being used by another process?” You have to manually scroll through the list of active processes in the Task Manager to find which program is using the file you’re trying to modify or delete. It can be time-consuming and might not always work. Let the File Locksmith utility in PowerToys automatically find and terminate that program for you.
 
 ![Ending an open task in File Locksmith](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/powertoys-file-locksmith.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft
 
  Bulk rename files with PowerRename. Use the color picker anywhere on your screen or any app with a hotkey. Create custom shortcuts. Paste text in any format using Advanced Paste. Resize images on the fly with Image Resizer (launched from the right-click context menu). Or instantly launch apps with PowerToys Run. Just press Alt+Space and type in the app name (it only indexes apps).
@@ -72,22 +105,22 @@ Close
 
 [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) is a must-have for power users. Plus, it’s free and lightweight.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  Clean Up Messy Folders with File Juggler
 
  Instead of manually and regularly organizing files, you can automate the whole process. With [File Juggler](https://www.filejuggler.com/), you can set rules to automatically move files into folders. It can automatically rename, delete, and copy files into folders too. That way you don’t have to deal with ever-growing clutter on your computer.
 
 ![Configuring file sorting automation in File Juggler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move-downloaded-pdf-files-1000-x2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  File Juggler can also read the contents of documents to automatically name them and move them wherever they belong based on their content. It’ll monitor new documents and organize them too.
 
  You only have to set it up once. After that, File Juggler will take over any incoming files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Faster File Browsing with Explorer++
 
  I love a browser-style bookmarks bar in my file explorer; it is one of my favorite things about [Explorer++](http://explorerplusplus.com/download). It lets me quickly bookmark locations and access them quickly. I know pinned folders exist in Windows Explorer, but they’re mixed in with the rest of the file tree. A clean bookmark stands out, and it’s just more convenient.
@@ -106,6 +139,12 @@ Explorer++
 
  Explorer++ is freeware and lightweight. Its UI is also customizable, so you can make it fit your particular workflow. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Safely Delete Files With Eraser
 
  When you delete a file on Windows, it’s not the file that’s deleted but its index. Think of the index as the table of contents for a book. Even if you remove a chapter from the index, the actual pages of the chapter still remain in the book.
@@ -114,12 +153,21 @@ Explorer++
 
 ![Eraser dashboard for scheduling deletions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240806-140116.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Eraser is a freeware utility that deletes files by overwriting them multiple times. Once you’ve deleted a file like that, it’s impossible to recover it. It’s so effective, in fact, that the United States government recommends it for wiping devices.
 
 ![Eraser context menu launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ksnip_20240806-135856.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can delete a file with Eraser from the right-click context menu. It might take a little longer than regular deletion though (especially for bigger files). You can [download Eraser](https://eraser.heidi.ie/download/) from the official website.
 

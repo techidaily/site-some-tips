@@ -1,12 +1,18 @@
 ---
 title: "Optimized with Cookiebot Technology: Enhance Your Site's Personalization"
-date: 2024-08-21T15:52:03.329Z
-updated: 2024-08-22T15:52:03.329Z
+date: 2024-09-06T23:23:51.981Z
+updated: 2024-09-07T23:23:51.981Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb6000047d745afbd7491bdcb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Optimized with Cookiebot Technology: Enhance Your Site's Personalization
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
@@ -19,10 +25,22 @@ thumbnail: https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb
 
 ![News 15 Businessbuildings](https://static4.abbyy.com/abbyycommedia/33670/news-15-businessbuildings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY wurde aufgrund der wachsenden Dynamik seiner Lösungen für die intelligente Dokumentenverarbeitung (IDP) sowohl im [ISG Provider Lens™ Intelligent Automation Solutions & Services Assessment](https://tools.techidaily.com/abbyy/products/), welches die USA, Großbritannien, die nordischen Länder, Brasilien und Deutschland umfasst, als auch in der [SPARK-Matrix für IDP 2021 von Quadrant Knowledge Solutions](https://tools.techidaily.com/abbyy/products/) zu einem der führenden Technologieunternehmen ernannt. Die Anerkennung ist auf die starken Bewertungen seiner umfassenden No-Code-Plattform für die Dokumentenverarbeitung, ABBYY Vantage, zurückzuführen. ABBYY ist zudem in der Spitzengruppe der [ISG-Matrix für den Process-Mining-Markt](https://tools.techidaily.com/abbyy/products/) platziert.
 
 ![](https://static1.abbyy.com/abbyycommedia/35270/qks-idp-spark-matrix-2021.png?width=985&height=553)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ISG, ein weltweit führendes Forschungs- und Beratungsunternehmen, definiert die intelligente Dokumentenverarbeitung über die traditionelle optische Zeichenerkennung (OCR) hinaus als Software, die Technologien der künstlichen Intelligenz (KI) wie Natural Language Processing (NLP), maschinelles Lernen (ML), Computer Vision und Deep Learning einsetzt, um große Mengen unstrukturierter Daten aus verschiedenen Formaten zu filtern und zu analysieren, damit sie weiterverarbeitet, gespeichert und in anderen Anwendungen genutzt werden können. Eine intelligente Dokumentenverarbeitung ermöglicht es Unternehmen nicht nur, Kosten zu senken, sondern auch die Produktivität ihrer Mitarbeiter zu erhöhen, die Genauigkeit zu verbessern, die Einhaltung von Richtlinien zu gewährleisten und die Kundenzufriedenheit zu steigern. ABBYY zeichnet sich durch sein branchenerprobtes Lösungsportfolio in Verbindung mit kundenorientierten Vertriebsteams und strategisch globalen Partnerschaften mit wichtigen Anbietern von RPA und anderen intelligenten Automatisierungslösungen aus. ABBYY bietet seinen Kunden die Schlüsseltechnologien zum Ermitteln von Bedeutung aus Unternehmensdokumenten, die sie benötigen, um sich einen Wettbewerbsvorteil zu verschaffen und ihren Geschäftswert zu steigern.
 
 „ABBYYs starke Vision und Roadmap, sein großer Kundenstamm und sein innovatives Technologieangebot, gepaart mit benutzerfreundlichen Funktionen für Geschäftsanwender und seinem robusten Partner-Ökosystem, machen das Unternehmen zu einem dominanten Akteur auf dem IDP-Markt", kommentiert **Amar Changulani, Manager und Principal Analyst bei ISG**.
@@ -33,6 +51,18 @@ ISG, ein weltweit führendes Forschungs- und Beratungsunternehmen, definiert die
 
 ![](https://static1.abbyy.com/abbyycommedia/35269/isg-idp-leader-2021.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Die Anerkennung von ABBYY als IDP Leader erfolgt nach der erfolgreichen Einführung von [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) und dem [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/). Mehr als 500 Unternehmen haben die Plattform seit der allgemeinen Freigabe genutzt und ein überwältigend positives Feedback zu ABBYYs neuer Art der Dokumentenverarbeitung gegeben, darunter vier der größten US-Banken und viele Cloud-basierte Unternehmen. Das Produkt wurde außerdem vom KMWorld Magazine als eines der [zukunftsweisenden Produkte des Jahres 2021](https://tools.techidaily.com/abbyy/products/) bezeichnet. Um mehr über die neuesten Funktionen und Vorteile von ABBYY Vantage zu erfahren, lesen Sie: [Advanced AI Document Processing | Latest ABBYY Vantage 2.1 Release](https://tools.techidaily.com/abbyy/products/).
 
 Den vollständigen Bericht über ISG Provider Lens™ Intelligent Automation - Solutions & Services 2021 - IDP (U.S.) finden Sie unter: <https://www.abbyy.com/resources/report/intelligent-document-processing-isg-provider-lens/>.
@@ -41,6 +71,18 @@ Den vollständigen Bericht über ISG Provider Lens™ Intelligent Automation - S
 
 Den vollständigen Bericht zur Quadrant Knowledge Solutions SPARK Matrix for IDP 2021 finden Sie unter: <https://www.abbyy.com/resources/report/intelligent-document-processing-quadrant-knowledge-solutions/>.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich[Intelligent Document Processing (IDP)](https://tools.techidaily.com/abbyy/products/) und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
@@ -48,15 +90,21 @@ ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Ges
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Pressekontakt:
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Bianca Stupp
 
 _ABBYY_

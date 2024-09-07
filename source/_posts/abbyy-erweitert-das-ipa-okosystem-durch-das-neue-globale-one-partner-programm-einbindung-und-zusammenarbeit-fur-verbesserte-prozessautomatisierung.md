@@ -1,12 +1,18 @@
 ---
 title: "ABBYY Erweitert Das IPA-Ökosystem Durch Das Neue, Globale One Partner Programm: Einbindung Und Zusammenarbeit Für Verbesserte Prozessautomatisierung"
-date: 2024-08-21T15:49:11.211Z
-updated: 2024-08-22T15:49:11.211Z
+date: 2024-09-06T23:23:49.292Z
+updated: 2024-09-07T23:23:49.292Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901d539098fb8807351d6a9dda.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Erweitert Das IPA-Ökosystem Durch Das Neue, Globale One Partner Programm: Einbindung Und Zusammenarbeit Für Verbesserte Prozessautomatisierung
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
@@ -17,8 +23,20 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![News Partners32](https://static4.abbyy.com/abbyycommedia/33882/news-partners32.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY startet sein neues globales Partnerprogramm [ABBYYOne](https://tools.techidaily.com/abbyy/products/), um Partnern zu ermöglichen, die intelligente Prozessautomatisierung (IPA) in Unternehmen zu beschleunigen. Der IPA-Markt wird Schätzungen des Forschungsunternehmens IDC zufolge in den nächsten Jahren um durchschnittlich 20,1% wachsen und bis 2025 einen Wert von 42,4 Milliarden US-Dollar erreichen\[1\]. Er vereint künstliche Intelligenz (KI) und Automatisierung, um Unternehmen mehr Kontrolle über die Geschäftsabläufe zu geben und vereinfacht sowohl die Automatisierung und Verbesserung von Prozessen als auch die Entscheidungsfindung. Das neue Partnerprogramm bietet ABBYY-Partnern die richtigen Rahmenbedingungen um den Wachstumsmarkt IPA mit ABBYYs branchenführenden Lösungen in den Bereichen [Intelligent Document Processing](https://tools.techidaily.com/abbyy/products/) (IDP) und [Process Intelligence](https://tools.techidaily.com/abbyy/products/) erfolgreich zu adressieren. Dabei verbindet ABBYYOne ein vielfältiges Ökosystem von Partnern auf der ganzen Welt und hilft somit, Unternehmen auf ihrem Weg zur intelligenten Automatisierung zu unterstützen.
 
 „ABBYY wird von Tausenden von Unternehmen weltweit genutzt, oft über unsere Partner, die auf bestimmte Branchen, Anwendungsfälle oder Regionen spezialisiert sind", erklärt Neil Murphy, Global Channel Chief bei ABBYY. „Mit dem neuen ABBYYOne-Programm wollen wir auf dem bestehenden Erfolg unseres Partner-Ökosystems aufbauen, indem wir unsere globale Partnerstrategie neu ausrichten. Wir möchten, dass neue und bestehende Partner ihr Geschäft ausbauen können, indem sie die Herausforderungen der Kunden im Bereich der intelligenten Automatisierung mit [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) und [Timeline](https://tools.techidaily.com/abbyy/products/) lösen und bieten ihnen dafür die Unterstützung, die sie für ihren Erfolg benötigen." 
@@ -31,6 +49,12 @@ Das neue Partnerprogramm umfasst mehr als 1.000 bestehende Business Partner, Tec
 
 \[1\] IDC, Worldwide Intelligent Process Automation Software Forecast, 2021–2025, Doc # US48015622, July 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seinen Lösungen für intelligente Prozessautomatisierung die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://tools.techidaily.com/abbyy/products/) und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
@@ -38,15 +62,26 @@ ABBYY ermöglicht es, mit seinen Lösungen für intelligente Prozessautomatisier
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Pressekontakt:
 
 ![02-NoPhoto-99x99](https://static1.abbyy.com/abbyycommedia/25632/02-nophoto-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### Bianca Stupp
 

@@ -1,7 +1,7 @@
 ---
 title: "This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets"
-date: 2024-08-29T19:29:20.654Z
-updated: 2024-08-30T19:29:20.654Z
+date: 2024-09-06T23:23:46.597Z
+updated: 2024-09-07T23:23:46.597Z
 tags:
   - mobile
 categories:
@@ -13,16 +13,24 @@ thumbnail: https://thmb.techidaily.com/7f58c54be3fb446b417c67b3b88e71900b79dad1a
 
 There was a whole lot of tech news this week, from the arrival of Copilot+ Windows laptops to the release of new Spotify plans. Here are the biggest stories you might have missed.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Big News
 
 ### [Spotify Has a New Secret Premium Plan](https://fox-links.techidaily.com/updated-2024-approved-samsungs-rival-the-leading-cameras-to-match-your-gear-360-needs/) 
 
  Spotify Basic is $1 cheaper per month for individuals, with one missing feature.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### [Android 15 Beta 3 Has Arrived](https://article-knowledge.techidaily.com/new-2024-approved-unveiling-cropped-lengths-imovies-automatic-trimming-logic/) 
 
  We're getting close to the final release of Android 15, and Google has now released the third beta for eager testers and app developers.
@@ -37,27 +45,39 @@ There was a whole lot of tech news this week, from the arrival of Copilot+ Windo
 
 ![Screenshot of Vivaldi Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1920w_mail_preview.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Vivaldi
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Lenovo’s New Tablet Is All About All About That Bass](https://fox-glue.techidaily.com/updated-2024-approved-legacy-in-pixels-iphone-x-memories-photography/) 
 
  The Lenovo Tab Plus has eight integrated speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Proton Drive Can Now Replace Google Photos on iPhone](https://win-amazing.techidaily.com/1722970879070-get-the-latest-realtek-pci-express-fe-chipset-drivers-on-windows-10-no-cost/) 
 
  Automated photo and video backups with full end-to-end encryption is coming to the Proton Drive app for iPhone and iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Google is Selling a LEGO-Like Chrome Dinosaur Set](https://techno-recovery.techidaily.com/yahoo-mail-alert-what-to-do-when-your-inbox-stops-populating-emails/) 
 
@@ -65,15 +85,24 @@ Vivaldi
 
 ![Chrome Dino set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/dino.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Google / Corbin Davenport
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### [Microsoft Is Serious About Gaming on ARM Windows Laptops](https://some-knowledge.techidaily.com/updated-humorhatchery-app/) 
 
  ARM Windows laptops won't replace your gaming PC anytime soon, but now they can run many of the same games.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Other Stuff
 
  The first Copilot+ Windows laptops were [released earlier this week](https://blogs.windows.com/devices/2024/06/18/top-things-to-know-about-copilot-pcs-from-microsoft-surface-available-today-at-microsoft-com/), with Qualcomm’s ARM-based Snapdragon X Elite chipsets instead of the usual AMD or Intel processors found in PC laptops. We’ll have to wait and see how well they work over time, but they more closely match the power efficiency of Apple’s MacBook lineup (which use ARM-based Apple Silicon chips).

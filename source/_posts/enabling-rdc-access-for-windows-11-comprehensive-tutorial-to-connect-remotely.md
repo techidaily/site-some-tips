@@ -1,7 +1,7 @@
 ---
 title: "Enabling RDC Access for Windows 11: Comprehensive Tutorial to Connect Remotely"
-date: 2024-08-25T17:53:21.680Z
-updated: 2024-08-26T17:53:21.680Z
+date: 2024-09-06T23:23:48.453Z
+updated: 2024-09-07T23:23:48.453Z
 tags:
   - win11
   - win10
@@ -29,6 +29,12 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
   
 ![a6](https://images.drivereasy.com/wp-content/uploads/2016/11/a6-3.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Before you proceed to the next step, make sure the computer you will connect to will not go to sleep and stay on as long as possible.  
   
  Right click the _**Start**_ button, select**Control Panel** .  
@@ -43,6 +49,18 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
   
 ![a14](https://images.drivereasy.com/wp-content/uploads/2016/11/a14-600x266.png)   
   
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Change**Put the computer to sleep** to **Never**  from the drop down list, then save changes to apply.  
   
 ![a11](https://images.drivereasy.com/wp-content/uploads/2016/11/a11.png)   
@@ -54,18 +72,42 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
   
 ![a1](https://images.drivereasy.com/wp-content/uploads/2016/11/a1-10.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select**System** in the panel.  
   
 ![a2](https://images.drivereasy.com/wp-content/uploads/2016/11/a2-6-600x444.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the**About** tab, note the PC name which you will later be using it to connect with.  
   
 ![a3](https://images.drivereasy.com/wp-content/uploads/2016/11/a3-9-600x480.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enter**Remote Desktop Connection** on the search box and open it.  
   
 ![a9](https://images.drivereasy.com/wp-content/uploads/2016/11/a9-2-327x600.png)   
   
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Enter the PC name you just noted, click**Connect** .  
   
 ![a7](https://images.drivereasy.com/wp-content/uploads/2016/11/a7-2.png)   
@@ -132,7 +174,3 @@ With Remote Desktop Connection, you can connect to a computer running Windows fr
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-htc-u23-by-drfone-android/"><u>Universal Unlock Pattern for HTC U23</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unveiling-the-influence-of-ai-on-economic-progress-insights-from-abbyy-experts/"><u>Unveiling the Influence of AI on Economic Progress: Insights From ABBYY Experts</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

@@ -1,22 +1,40 @@
 ---
 title: Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology
-date: 2024-08-21T15:50:35.492Z
-updated: 2024-08-22T15:50:35.492Z
+date: 2024-09-06T23:23:50.632Z
+updated: 2024-09-07T23:23:50.632Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42d3ab8c5759ae25bd6bbada4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TrustID moves to the cloud for identity validation using ABBYY OCR
 
 March 06, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### _Document checking service business deploys ABBYY’s text recognition technology in its identity validation solution_
 
 ABBYY, a leading global provider of technologies and solutions to action information, announced that [TrustID](http://trustid.co.uk/ "TrustID Website"), a provider of IT-based solutions for validation of personal identification documents, has chosen ABBYY OCR technology to power its TrustID Cloud service. Private and public-sector customers can use this service to validate ID documents presented to them and easily detect possible fraudulent actions.
@@ -121,7 +139,3 @@ Connect with us
 <li><a href="https://techno-recovery.techidaily.com/the-complete-matrix-journey-viewing-order-and-timeline-explained/"><u>The Complete Matrix Journey: Viewing Order and Timeline Explained</u></a></li>
 <li><a href="https://some-tips.techidaily.com/untangling-the-video-jams-in-digital-portfolits-for-2024/"><u>Untangling the Video Jams in Digital Portfolits for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

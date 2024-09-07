@@ -1,22 +1,40 @@
 ---
 title: Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions
-date: 2024-08-21T15:53:07.132Z
-updated: 2024-08-22T15:53:07.132Z
+date: 2024-09-06T23:23:52.924Z
+updated: 2024-09-07T23:23:52.924Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cf4cfca74e707c3edc4a37fda10a303db8db8787c02ebc67e636aa7aaaa7e69b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## RPA Firm Robiquity in Major Partnership Deal with Content IQ Provider ABBYY
 
 March 12, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### _The two companies will collaborate technologically to help enterprises digitize their businesses as well as create, deploy and operate their digital workforce platforms_
 
 Manchester-based Robotic Process Automation (RPA) solutions provider Robiquity has entered into a new partnership with ABBYY, a global leader in Content IQ solutions and services, to incorporate cognitive technologies like machine learning and natural language processing.
@@ -124,7 +142,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/ultimate-guide-20-incredible-no-cost-storage-platforms-1tbplus-for-2024/"><u>Ultimate Guide  20 Incredible No-Cost Storage Platforms (1TB+) for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unveiling-clarity-overcoming-gopro-haze-challenges-for-2024/"><u>Unveiling Clarity  Overcoming GoPro Haze Challenges for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->

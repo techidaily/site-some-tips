@@ -1,7 +1,7 @@
 ---
 title: Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation
-date: 2024-08-25T17:53:20.685Z
-updated: 2024-08-26T17:53:20.685Z
+date: 2024-09-06T23:23:48.439Z
+updated: 2024-09-07T23:23:48.439Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Download Windows 11 Insider Build 15031? Resolve
 thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b9ff66af20d69e9744d56a33.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation
 
 When downloading Windows 10 Insider Preview Build 15031, if you stuck at “Initializing…” for a long time, don’t worry. You can download the build successfully in the end.  
@@ -27,14 +33,32 @@ If you can’t wait so long, try below method.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589c1a89707c7.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3\. In Services dialog box, find and double-click on**Windows Update** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589c1b4c8af69.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4\. Under Service status, click**Stop** button. Then click**OK** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589c1bca0e384.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5\. Reboot your PC.  
   
  6\. Launch Windows Update and check for updates again.  
@@ -100,7 +124,3 @@ If you can’t wait so long, try below method.
 <li><a href="https://some-tips.techidaily.com/the-top-10-advantages-of-leveraging-process-analytics-insights-from-the-abbyy-expert-team/"><u>The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team</u></a></li>
 <li><a href="https://win-howtos.techidaily.com/troubleshooting-usb-connectivity-issues-resolve-persistent-device-not-recognized/"><u>Troubleshooting USB Connectivity Issues - Resolve Persistent 'Device Not Recognized'</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->

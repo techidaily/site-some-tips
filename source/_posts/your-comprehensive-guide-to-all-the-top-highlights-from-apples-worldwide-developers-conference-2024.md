@@ -1,7 +1,7 @@
 ---
 title: Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024
-date: 2024-08-29T19:30:04.135Z
-updated: 2024-08-30T19:30:04.135Z
+date: 2024-09-06T23:23:47.232Z
+updated: 2024-09-07T23:23:47.232Z
 tags:
   - desktop
 categories:
@@ -15,8 +15,20 @@ Apple held its Worldwide Developers Conference earlier this week, revealing doze
 
  We got our first real look at the upcoming iOS 18, macOS Sequoia, iPadOS 18, visionOS 2, tvOS 18, and watchOS 11 updates this week. The big reveal was Apple Intelligence, the company’s long-awaited answer to the generative AI rush. Even though it looks more useful and more private than many other recent attempts at AI tools ([looking at you, Recall](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/)), it won’t even enter testing until later this year, so there are still some open questions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Big News
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Here's How AI Will Transform the iPhone, iPad, and Mac This Fall](https://youtube-videos.techidaily.com/investing-successfully-with-a-makeup-channel/) 
 
  Apple Intelligence is coming later this year, powering a revamped Siri and new writing and design tools.
@@ -30,52 +42,53 @@ Apple held its Worldwide Developers Conference earlier this week, revealing doze
  Window management features, iPhone Mirroring, a Passwords app, and more are coming to a Mac near you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [iOS 18 Update Has Home Screen Upgrades, New Mail Features, and More](https://some-guidance.techidaily.com/2024-approved-the-ultimate-visual-companion-premium-webcams-for-podcasts/) 
 
  This might be the biggest update for iPhones in years.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### [The iPad Now Has a Calculator App, Thanks to iPadOS 18](https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-narzo-60-5g-by-drfone-android/) 
 
  No amount of AI innovation can top this.
 
 ![Solving basic math problems with Math Notes on iPadOS18.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/math-notes-on-ipados-18-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Finally, Apple Watch Will Let You Pause Activity Rings](https://youtube-web.techidaily.com/024-approved-flex-your-viewing-muscles-handling-multiple-youtube-videos/) 
 
  Take a rest day without losing your streak, plus everything else in watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Your Apple ID Is Going Away (But Not Really)](https://www.howtogeek.com/apple-id-is-now-apple-account/) 
 
  Goodbye Apple ID, hello Apple Account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Apple Bakes More Predatory Lending Options Into the iPhone](https://audio-shaping.techidaily.com/updated-free-web-based-daws-that-are-changing-music-production-the-top-10-for-2024/) 
 
  As if the Apple credit card and Pay Later service weren't enough.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Even More News
 
  The [Safari 18 update](https://www.apple.com/newsroom/2024/06/macos-sequoia-takes-productivity-and-intelligence-on-mac-to-new-heights/#:~:text=next-,Big%20Updates%20Come%20to%20Safari,-Safari%2C%20the%20world%E2%80%99s) coming to macOS Sequoia, iOS 18, iPadOS 18, and visionOS 2 has a redesigned Reader mode, a one-click button to move web videos to a larger view, and (on supported devices) page summarization. Apple also published [a full technical changelog](https://webkit.org/blog/15443/news-from-wwdc24-webkit-in-safari-18-beta/) for the update, if you’re curious about the underlying engine changes.

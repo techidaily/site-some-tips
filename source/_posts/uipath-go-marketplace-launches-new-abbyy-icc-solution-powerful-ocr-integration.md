@@ -1,22 +1,46 @@
 ---
 title: "UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration"
-date: 2024-08-21T15:53:11.441Z
-updated: 2024-08-22T15:53:11.441Z
+date: 2024-09-06T23:23:52.989Z
+updated: 2024-09-07T23:23:52.989Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f43714543b259bc14c7475306.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Intelligent Capture Connector Is Now Available on the UiPath Go! RPA Marketplace
 
 November 08, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### _Additionally, ABBYY has been recognized as the Best Technology Partner at the annual #UiPathForward Americas partner event._
 
 ABBYY, a leading provider of content intelligence solutions and services, today announced that ABBYY FlexiCapture Connector is now available for the UiPath robotic process automation (RPA) platform via the newly launched marketplace, [UiPath Go!](https://go.uipath.com/component/abbyy-flexicapture-connector-for-uipath-31cc20 "UiPath Go!"). This enables RPA developers, line-of-business users and partners to instantly have the power of ABBYY’s enterprise-level intelligent capture integrated directly within a UiPath robotic process flow. Additionally, ABBYY was selected by UiPath as the Best Technology Partner at its #UiPathForward Americas partner event on October 3rd.
@@ -119,8 +143,3 @@ Connect with us
 <li><a href="https://some-tips.techidaily.com/unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
 <li><a href="https://fox-info.techidaily.com/visionary-viewpoints-deciding-between-digital-and-device-dominance/"><u>Visionary Viewpoints  Deciding Between Digital and Device Dominance</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->

@@ -1,22 +1,40 @@
 ---
 title: ABBYY Elevates Global Finance Management for Renault Argentina
-date: 2024-08-21T15:51:07.562Z
-updated: 2024-08-22T15:51:07.562Z
+date: 2024-09-06T23:23:51.130Z
+updated: 2024-09-07T23:23:51.130Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Elevates Global Finance Management for Renault Argentina
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY Revs Ups Renault Argentina SA’s Global Finance Operations
 
 October 08, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Renault Argentina SA, one of the oldest Renault operations in the world, is using ABBYY Digital Intelligence solutions to revitalize its finance operations. ABBYY completely digitized Renault’s invoice processing which includes complex invoices containing customs and foreign trade details in multiple languages and seamless integration into SAP ERP financial software.
 
 Renault Argentina SA’s CIO, Matias Ghirardi, commented, “Working with ABBYY was a rich experience, not only because we could truly improve and simplify several processes within the company but also because they delivered exactly as was promised and with great time-to-market.”
@@ -108,7 +126,3 @@ Connect with us
 <li><a href="https://extra-tips.techidaily.com/unveiling-hidden-sights-in-google-meet-conferences/"><u>Unveiling Hidden Sights in Google Meet Conferences</u></a></li>
 <li><a href="https://some-approaches.techidaily.com/versamix-suite-mac-and-pc-for-2024/"><u>VersaMix Suite - Mac & PC for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->

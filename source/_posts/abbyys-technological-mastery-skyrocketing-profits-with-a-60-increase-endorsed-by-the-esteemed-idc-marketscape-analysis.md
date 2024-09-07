@@ -1,16 +1,28 @@
 ---
 title: "ABBYY's Technological Mastery: Skyrocketing Profits with a 60%% Increase, Endorsed by the Esteemed IDC MarketScape Analysis"
-date: 2024-08-21T15:49:14.426Z
-updated: 2024-08-22T15:49:14.426Z
+date: 2024-09-06T23:23:49.339Z
+updated: 2024-09-07T23:23:49.339Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a0f93c1d40da6af2b9bde3e74ba5294285ae770778758b00dbab648f390ba250.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY's Technological Mastery: Skyrocketing Profits with a 60% Increase, Endorsed by the Esteemed IDC MarketScape Analysis
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY、AIソリューション・プラスで2023年の売上成長と IDC MarketScapeのリーダーシップ選定のお知らせ
 
 2024 年 2 月 13 日
@@ -29,6 +41,12 @@ Ulf Persson, Chief Executive Officer at ABBYY
 
 ![IDC IDP MarketScape 2023-2024](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/content-images/idc-idp-marketscape-2023-2024.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 さらに、ABBYYはそのAIソリューションが複数のアナリスト企業から評価され、[最近ではIDC MarketScapeのリーダーに選ばれました： Worldwide Intelligent Document Processing (IDP) 2023-2024」](https://tools.techidaily.com/abbyy/products/)においてリーダー企業に選ばれました。ドキュメントの文脈における多用途性、カスタマーサクセスへのアプローチ、業界経験などが評価されたこの初刊のレポートは、機能性、ユースケースの多様性、各ソリューションのカスタマーサービスと満足度提供など、さまざまな基準に基づいてベンダーを検討しています。
 
 「ABBYYは、構造化および半構造化ドキュメントの分類と抽出に関する専門知識で知られており、非構造化ドキュメントのユースケースにも顧客との取引を拡大し続けています。顧客を直接サポートするための広範で多層的なアプローチ、パートナーやソリューションプロバイダーからなる広範でグローバルなエコシステム、文書やユースケースに特化した専門知識の実証により、ABBYYは、IDPの利用をより広範に実験、学習、拡大したいと考えているあらゆる組織にとって、検討すべきベンダーとなるはずです」
@@ -37,6 +55,12 @@ Matt Arcaro, IDC’s Research Director, Computer Vision and AI
 
 ABBYYは、インテリジェントオートメーションエコシステムにおいて影響力のある企業としてアナリストに認められ続けており、Gartner社、Everest Group社、NelsonHall社、GigaOm社の業界アナリスト4社も、ABBYYをインテリジェントドキュメントプロセッシング（IDP）とプロセスマイニングソリューションのリーダーとして位置づけています。ガートナーは、カスタマーサービスおよびサポートテクノロジー、ITマネジメントインテリジェンス、自律型会計、ERP、収益および販売テクノロジーを含む5つの2023年ハイプサイクルレポートでABBYYを取り上げました。
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ABBYYについて 
 
 ABBYYは、目的を絞り込んだAIでお客様の情報を活用します。当社はイノベーションと経験を組み合わせ、ビジネスクリティカルなドキュメントのデータをリアルタイムで200以上の言語に対応し、インテリジェントな実用的成果に変換します。ABBYY は、フォーチュン 500 社の多くを含む世界 10,000 社以上の企業が、カスタマーエクスペリエンス、オペレーショナルエクセレンス、競争優位性など、最も重要な分野で大きな成果を上げることを可能にします。ABBYYは米国カリフォルニア州ミルピタスに本社を置き、12カ国にオフィスを構えるグローバル企業です。詳細については、[www.abbyy.com/company/about-us/](https://tools.techidaily.com/abbyy/products/), [LinkedIn](https://www.linkedin.com/company/abbyy), [Twitter](https://twitter.com/ABBYY%5FSoftware), [Facebook](https://www.facebook.com/ABBYYsoft) でフォローしてください。.
@@ -44,14 +68,26 @@ ABBYYは、目的を絞り込んだAIでお客様の情報を活用します。�
 ABBYY は登録商標または商標であり、ABBYY グループ会社のロゴ、会社名 (またはその一部)、製品名の一部である場合もあり、それぞれの所有者の同意なしに使用することはできません。
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### ABBYY編集部連絡先
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### Gina Ray
 

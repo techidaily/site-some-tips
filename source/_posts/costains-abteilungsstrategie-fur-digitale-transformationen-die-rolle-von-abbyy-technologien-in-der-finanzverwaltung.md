@@ -1,22 +1,46 @@
 ---
 title: Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung
-date: 2024-08-21T15:49:28.308Z
-updated: 2024-08-22T15:49:28.308Z
+date: 2024-09-06T23:23:49.572Z
+updated: 2024-09-07T23:23:49.572Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565ec0bfaa1522a3466ddc9fcb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Finanzabteilung von Costain meistert digitale Transformation dank ABBYY-Technologie
 
 3\. Juni 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY, ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, wurde von Costain, einem Unternehmen für intelligente Infrastrukturlösungen, als Technologiepartner für die strategische Digitalisierung des eigenen Finanzbereichs ausgewählt.
 
 Ein essentieller Schritt von Costains Digitalstrategie bestand in der Umstellung des Procure-to-Pay-Betriebs. Das Unternehmen hat damit enorme Kosteneinsparungen bei einem großen Infrastrukturprojekt in London erreicht. Durch die Aufstockung seines Finanzteams hat die Costain Group erfolgreich eine End-to-End-Lösung implementiert, mit der Rechnungen abgerufen, erfasst, identifiziert und die wesentlichen Daten darin extrahiert werden können. Anschließend werden die Rechnungen an RPA-Bots (Robotic Process Automation) übertragen, die sie schließlich in das ERP-System (Enterprise Resource Planning) einbuchen.
@@ -118,7 +142,3 @@ Vernetzen Sie sich mit uns
 <li><a href="https://some-tips.techidaily.com/utilizing-skys-bounty-to-brighten-indoors-for-2024/"><u>Utilizing Sky's Bounty to Brighten Indoors for 2024</u></a></li>
 <li><a href="https://facebook-videos.techidaily.com/whats-encrypted-exploring-the-role-of-facebooks-blue-icon-for-2024/"><u>What's Encrypted  Exploring the Role of Facebook's Blue Icon for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,26 +1,50 @@
 ---
 title: "Unlocking Web Insights with Cookiebot: The Key to Advanced Data Tracking and Conversion Optimization"
-date: 2024-08-21T15:51:30.880Z
-updated: 2024-08-22T15:51:30.880Z
+date: 2024-09-06T23:23:51.479Z
+updated: 2024-09-07T23:23:51.479Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4ccddc2cbd35cdd9b67d25078c429c9af70b9857f2a9c36b863ed5899c4ce463.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlocking Web Insights with Cookiebot: The Key to Advanced Data Tracking and Conversion Optimization
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Robert Youngjohns
 
 Chairman of the Board
 
 ![Robert Youngjohns](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/management/headshots/cards-headshots/1486x836-robert-youngjohns.jpg?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Robert Youngjohns serves as Chairman of the Board at ABBYY where he works with the CEO and executive management team to accelerate ABBYY’s market leadership as a Digital Intelligence solutions provider and drive the company’s growth strategy globally.
 
 Robert has over 40 years of experience as an executive in the technology industry. He is currently an Operating Executive in Marlin Operations Group, Inc. and serves as a Board member for a select few innovative technologies. Previously, he served as the Executive Vice President and General Manager of Software and Cloud at Hewlett Packard Enterprise, where he led HP’s new cloud strategy (HPE Helion) and spearheaded the $8.5 billion merger of HPE’s Software Business Segment with Micro Focus. Prior to HPE, Robert was President of Microsoft North America where he was responsible for sales, marketing and services totaling $25 billion of revenue across all product lines and channels in the U.S. and Canada. Additionally, he has held key executive management positions at leading technology companies including Automation Anywhere, Callidus Software, Sun Microsystems and IBM.
 
 Robert holds a Master’s degree with honors in Physics and Philosophy from Oxford University.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ready to speak with an expert?
 
 [Schedule a demo](https://tools.techidaily.com/abbyy/products/)[Get in touch](https://tools.techidaily.com/abbyy/products/)
@@ -78,7 +102,3 @@ Robert holds a Master’s degree with honors in Physics and Philosophy from Oxfo
 <li><a href="https://some-tips.techidaily.com/unveiling-ustreams-offerings-and-opponents-for-2024/"><u>Unveiling Ustream's Offerings and Opponents for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases-for-2024/"><u>Unveiling Virtual Horizons  A Deep Dive Into 6 Metaverse Cases for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->

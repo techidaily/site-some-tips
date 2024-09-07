@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Retrieving Icons From Windows Executable Files
-date: 2024-08-29T19:30:30.875Z
-updated: 2024-08-30T19:30:30.875Z
+date: 2024-09-06T23:23:47.597Z
+updated: 2024-09-07T23:23:47.597Z
 tags:
   - deals
 categories:
@@ -11,10 +11,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Step-by-Step Guide to Retrieving Icons From Windows Executable Files
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Extract an Icon from an EXE with IconViewer](https://ai-editing-video.techidaily.com/full-spectrum-data-salvage-system-next-level-technical-assistance-for-complete-data-recovery/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Install IconViewer to extract high-quality Windows 10 application icons from an EXE file.
@@ -24,7 +42,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Sometimes you're working on a project and need access to a high-quality version of a Windows 10 application icon, but you can't find one on the internet. Luckily, a free utility called [IconViewer](https://www.botproductions.com/iconview/iconview.html) makes it easy to extract a high-quality icon from an application's EXE file. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  How to Extract an Icon from an EXE with IconViewer
 
@@ -35,35 +62,35 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Right-click the shortcut you want the icon from, then click "Properties."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then click "Open File Location" in the "Shortcut" tab, and you'll be taken directly to the EXE's location in File Explorer.
 
 ![Click the 'Shortcut' tab, then click 'Open File Location.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-shortcut-open-file-location.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Otherwise, you can usually find an application's EXE file in sub-folders of "C:\\Program Files" or "C:\\Program Files (x86)." When you've found the application's EXE file, right-click it and select "Properties."
 
 ![Right-click the EXE, then select 'Properties.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-firefox-click-properties.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Properties window, click the "Icons" tab. This is a special tab that only appears if you install the IconViewer utility.
 
 ![In the EXE Properties window on Windows 10, click the special IconViewer "Icon" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_click_icons_tab.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the Icons tab, you will see a box listing all of the available icons stored in the EXE file. Some icons will be stored in multiple sizes. In Windows 10, the largest available icon will usually be listed as "256x256, 32-bit (PNG)" in the Icons tab.
 
  Click the icon you'd like to extract, and select the size of the icon in the "Device images" box. Then click the "Save" icon, which looks like a vintage [3.5" floppy disk](https://buynow-tips.techidaily.com/in-depth-analysis-of-the-asus-bw-16d1x-u-blu-ray-burner-aesthetic-appeal-meets-minor-imperfections/).
 
 ![Select the icon you want, the resolution you want, then click the floppy disk icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-icon-save.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the "Save As" dialog pops up, choose the location where you'd like to save it, then type in a file name.
 
  Next, choose the extracted icon's file format in the "Save As Type" drop-down menu. You can pick "Icon (\*.ico)," "Bitmap Image (\*.bmp)," or "PNG Image (\*.png)." If you're going to be using the icon with another program, pick "Icon (\*.ico)." If you'll be using the icon in a graphic design project and would like to preserve background transparency, choose "PNG Image (\*.png)."
@@ -73,7 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Select '.png' from the drop down list, then click 'Save.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-save-the-icon-as-png.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After that, the icon will be extracted and saved to the location you chose. You're free to close the EXE file's properties window, or extract different icons from the same file. Very handy!
 

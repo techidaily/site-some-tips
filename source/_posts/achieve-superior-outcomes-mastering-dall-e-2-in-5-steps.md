@@ -1,7 +1,7 @@
 ---
 title: "Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps"
-date: 2024-08-29T19:30:36.737Z
-updated: 2024-08-30T19:30:36.737Z
+date: 2024-09-06T23:23:47.675Z
+updated: 2024-09-07T23:23:47.675Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 
 ## Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Describe the Subject in Detail](https://extra-guidance.techidaily.com/2024-approved-introducing-low-tier-sound-diminution-tricks-with-audacity/)
@@ -37,6 +43,18 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A steam punk retro robot eating a taco.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-39-04.png) 
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Don't just assume your vision of a "robot" will match up with what DALL-E creates. Be descriptive.
 
 ##  Don't Forget About the Background
@@ -45,15 +63,30 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A grasshopper superhero action figure.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_11-57-04.png) 
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  I've got a pretty good result for my grasshopper superhero action figure, but now I need a background. By adding "being held by a kid" I've created a much more interesting image.
 
 ![A grasshopper superhero action figure being held by a kid.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_11-56-57.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  An easy way to fill out the background is to use a location. You can simply add "in Times Square" at the end, for example. The key is to give the background some love.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Specify an Art Style
 
  One of the best ways to get really good results is to use art styles in your prompts. This can be broad art styles or even specific artists and paintings.
@@ -62,13 +95,22 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A oil painting of a forest filled with trees made of pizza](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-01-06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Now we have four images that distinctly look like an oil painting of a forest filled with trees made of pizza. If you're trying to [create some art to hang up in your home](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/), using an art style in your prompt will make for much better results.
 
 Related: [What Can You Do With AI Generated Art?](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/) 
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Set the Mood of the Scene
 
  You're probably noticing a theme---be descriptive. That applies to more than the subject and background. It's also important to describe the general mood you're going for.
@@ -78,14 +120,20 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 ![a 6-legged zebra running through a candy corn field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-13-54.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It totally ignored the "6-legged" part, but that's pretty good. Let's fine tune the mood a bit. The zebra is "sad" now and it's running through the field in the "dark." Two simple words and now we have very different results.
 
 ![A sad zebra running through a candy corn field in the dark.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-15-54.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Expand on Existing Photos
 
@@ -96,15 +144,15 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 ![DALL-E outpainting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dall-e-outpainting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also use this feature to "edit" certain parts of images. Say I didn't like the Sombrero in one of the robot images above. I can erase the Sombrero and describe a different hat or let DALL-E remove it entirely from the image.
 
 ![A robot eating a taco without the sombrero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-29-15.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Outpainting is one of the coolest DALL-E features. There's a lot you can do with it to edit your own existing images or images created by DALL-E. It's easy to get lost in creating new prompts, but don't overlook Outpainting.
 
 ---

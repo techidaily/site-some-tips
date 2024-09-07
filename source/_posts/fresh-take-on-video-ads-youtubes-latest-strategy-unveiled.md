@@ -1,7 +1,7 @@
 ---
 title: "Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled"
-date: 2024-08-29T19:28:53.659Z
-updated: 2024-08-30T19:28:53.659Z
+date: 2024-09-06T23:23:46.226Z
+updated: 2024-09-07T23:23:46.226Z
 tags:
   - web
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/4b4c42d86cbc7f5900b95e8b4af00dbe97e236701df75d0c16e39e29a2174a46.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled
 
 YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive when these ads pop up in the middle of a live stream. YouTube seems to have recognized as much, and it’s testing alternative solutions to present midroll ads.
@@ -17,6 +23,12 @@ YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive 
 
 ![The information button for an youtube ad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2023-11-17_15-30-33.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To address the problem, YouTube announced that it’s testing a Picture-in-Picture (PiP) format for midroll ad breaks during live streams. Google says, “some viewers on select devices will begin to see the new ad format in the coming months, allowing creators to run ads without disrupting the live stream!”
 
  Picture-in-Picture is the most reasonable format to present any ads during a live stream. But YouTube hasn’t shared any technical details for this experiment. Presumably, with a Picture-in-Picture ad, the viewers will only see a small floating pop-up ad while the stream continues in the background. We can also assume it won’t play its own audio on top of the stream, meaning YouTube will mute these ads by default.
@@ -86,8 +98,3 @@ YouTube’s midroll ad breaks can be disruptive, but it’s even more intrusive 
 <li><a href="https://some-tips.techidaily.com/strategies-dadoption-des-technologies-dans-lindustrie-de-lassurance-un-plan-detaille/"><u>Stratégies D'Adoption Des Technologies Dans L'Industrie De L'Assurance : Un Plan Détaillé</u></a></li>
 <li><a href="https://some-tips.techidaily.com/abbyy-timeline-connector-for-alteryx-abbyy/"><u>ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->

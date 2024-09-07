@@ -1,7 +1,7 @@
 ---
 title: Shielding Your Information From Unavoidable Security Incidents
-date: 2024-08-29T19:28:58.446Z
-updated: 2024-08-30T19:28:58.446Z
+date: 2024-09-06T23:23:46.296Z
+updated: 2024-09-07T23:23:46.296Z
 tags:
   - web
 categories:
@@ -11,6 +11,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Shielding Your Information From Unavoidable Security Incidents
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How Do You Know My Data Will Be Breached?](https://games-able.techidaily.com/joining-forces-gaming-squad-on-xbox-10/)
@@ -32,9 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Your privacy and security on the internet isn't just dependent on your own behavior, it also relies on the websites and apps you use being secure. Unfortunately, this is often not the case, and sensitive information regularly leaks online. Here's how to protect yourself for when it happens to you.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How Do You Know My Data Will Be Breached?
 
  Your private data will leak (and probably has already), whether you're aware of it or not. Whenever you make an online purchase, log into a website or app, or enter any other information online, you trust the owner of that service to keep it secure. The unfortunate reality is that your trust is probably misplaced. 
@@ -50,15 +53,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You should pay extra attention to securing your email and mobile phone provider accounts, as these are the contact methods you'll need to reset your password for other accounts. Emails are also frequently used to sign in to other services, too, which makes them a major weak point in your security if they're compromised. If you lose access to your email account, you may not be able to recover it, or anything else.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Set Recovery Contact Methods
 
  Make sure you have contact methods set up for account recovery. Add your phone number and an email address to your important accounts (banking, online payments, and social media accounts) so that you can receive password reset messages in case someone else gains access to the account and tries to take it over.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use a Password Manager
 
  You should use a unique password for every online account so that if one leaks, the others are safe. Remembering all of them would be impossible, so use a [password manager](https://extra-resources.techidaily.com/in-2024-benq-sw320-monitor-review-a-leap-into-4k-territory/) to keep track of them.
@@ -66,7 +75,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You should also avoid answering those security questions (like "What is your mother's maiden name") with real answers and instead use and record nonsensical answers, as all of that information is readily available online.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Pay With Online Payment Services
 
@@ -83,7 +95,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Firefox also offers [data breach alerts](https://tech-recovery.techidaily.com/step-by-step-guide-customize-gmail-sounds-on-android-and-ios/), while Apple lets you [check for leaked passwords](https://phone-solutions.techidaily.com/g54-5g-messages-recovery-recover-deleted-messages-from-g54-5g-by-fonelab-android-recover-messages/) stored in iCloud.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Keep an Eye on Your Bank Accounts
 
@@ -91,19 +106,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If you do think your payment details have leaked, change your login details and report your credit card as stolen so that you receive a new credit card number.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Make Sure Your Friends, Family, and Colleagues Are Security-Aware
 
  You're not the only potential source for private information about yourself: your friends and family know enough private information for a scammer to use (for example, by gathering information to answer your security questions).
 
  Make sure those around you are also [vigilant about their online security](https://video-screen-grab.techidaily.com/new-expert-techniques-for-thriving-in-online-meetings-how-to-be-a-zoom-pro/).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Don’t Put Anything Online That You Don’t Want the World To See (Even in DMs)
 
  Anything that you post online, be it public social media posts or private messages, may eventually come to light in a breach. If you are concerned about privacy, use an [encrypted messaging service](https://tech-renaissance.techidaily.com/resolving-jscriptdll-file-absence-a-comprehensive-guide/) to protect your communications. If you upload sensitive files to the cloud for storage (like pictures of your passport), consider encrypting the image first, so that no one besides you can retrieve it. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Protecting Yourself Online Isn’t a One-Time Thing
 
  You'll always be a target for cybercrime (everyone is!), but you can make yourself a small target. By staying vigilant, following security best practices, and not over-sharing, you can [reduce the useful information](https://on-screen-recording.techidaily.com/new-2024-approved-leading-10-high-resolution-monitors-with-built-in-video-editing/) available to hackers.

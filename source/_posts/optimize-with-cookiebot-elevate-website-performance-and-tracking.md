@@ -1,22 +1,46 @@
 ---
 title: "Optimize with Cookiebot: Elevate Website Performance & Tracking"
-date: 2024-08-21T15:52:37.880Z
-updated: 2024-08-22T15:52:37.880Z
+date: 2024-09-06T23:23:52.523Z
+updated: 2024-09-07T23:23:52.523Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57491460fea382eb83a2be019.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Optimize with Cookiebot: Elevate Website Performance & Tracking
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ABBYY ernennt Anthony Macciola zum Chief Innovation Officer
 
 29\. November 2017
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ABBYY, ein führender und globaler Anbieter von Technologien und Lösungen für den effektiven Einsatz von Informationen in Organisationen, hat bekannt gegeben, dass Anthony Macciola zum Chief Innovation Officer ernannt wurde. In dieser neu geschaffenen Rolle wird Macciola Innovationen fördern und im Rahmen der marktorientierten Strategie von ABBYY die Entwicklung neuer Produkt- und Servicekonzepte vorantreiben.
 
 „Anthony Macciola ist als Vordenker im Bereich der Produkte, Lösungen und Technologien für Intelligent Capture, RPA, BPM, BI sowie Mobile Capture bekannt. Unsere Kunden und Partner werden von seinem umfangreichen technischen Wissen und seinen fundierten Branchenkenntnissen in Bezug auf Künstliche Intelligenz (KI), Machine Learning und intelligente Textanalyse – Bereiche, in denen ABBYY kontinuierlich neue Lösungen entwickelt – auf jeden Fall profitieren“, sagt Ulf Persson, CEO der ABBYY Gruppe.  
@@ -147,7 +171,3 @@ Vernetzen Sie sich mit uns
 <li><a href="https://extra-resources.techidaily.com/unveiling-mixed-reality-a-comprehensive-insight/"><u>Unveiling Mixed Reality  A Comprehensive Insight</u></a></li>
 <li><a href="https://some-tips.techidaily.com/unveiling-techniques-for-harmonious-crossfades-in-tracks-for-2024/"><u>Unveiling Techniques for Harmonious Crossfades in Tracks for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

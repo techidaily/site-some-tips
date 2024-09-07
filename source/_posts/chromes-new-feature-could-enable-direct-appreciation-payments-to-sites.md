@@ -1,7 +1,7 @@
 ---
 title: Chrome's New Feature Could Enable Direct Appreciation Payments to Sites
-date: 2024-08-29T19:28:50.006Z
-updated: 2024-08-30T19:28:50.006Z
+date: 2024-09-06T23:23:46.181Z
+updated: 2024-09-07T23:23:46.181Z
 tags:
   - web
 categories:
@@ -9,6 +9,18 @@ categories:
 thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/google-chrome-hero.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Chrome's New Feature Could Enable Direct Appreciation Payments to Sites
 
 Google has confirmed plans to add an upcoming Web Monetization standard currently being developed by the Web Platform Incubator Community Group to its Chrome browser. You'll be able to support your favorite blogs and websites to help them keep the lights on, and not rely solely on advertising revenue or subscriptions.
@@ -99,7 +111,3 @@ Google has confirmed plans to add an upcoming Web Monetization standard currentl
 <li><a href="https://facebook-video-footage.techidaily.com/viewers-to-earners-journey-calculating-necessary-counts-for-2024/"><u>Viewers to Earner's Journey  Calculating Necessary Counts for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->

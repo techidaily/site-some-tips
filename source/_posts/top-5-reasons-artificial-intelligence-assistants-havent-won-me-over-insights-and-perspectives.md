@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives"
-date: 2024-08-29T19:31:17.745Z
-updated: 2024-08-30T19:31:17.745Z
+date: 2024-09-06T23:23:48.257Z
+updated: 2024-09-07T23:23:48.257Z
 tags:
   - cutting-edge
 categories:
@@ -9,8 +9,26 @@ categories:
 thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05dab74619d5212fa55287fa1c5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [AI Is Just Another Buzzword](https://on-screen-recording.techidaily.com/updated-covert-composition-of-private-recordings-for-2024/)
@@ -35,11 +53,14 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 ![Facebook AI interpreting a joke badly and offering up nonsense AI-generated suggestions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/img_7249.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  So you’re forgiven for feeling jaded when you see the term “AI” splashed around as a mark of quality or genuine innovation. Facebook’s Meta AI is a good example that's garnered a lot of eye-rolls since being foisted upon users. It has invaded the search box across multiple apps, it bugs you like a clingy ex, and still manages to miss the mark entirely (as you can see above).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  I Struggle to Integrate AI Into My Work Life
 
  I wrote this article the old-fashioned way, using lots of coffee and a keyboard. I’m not employed to come up with auto-generated copy, and I’d almost certainly get fired for turning in something authored by ChatGPT (assuming my editors could tell). As an editor, I’m looking for authority, personal experience, readability and flow.
@@ -52,18 +73,12 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
  If you’re able to integrate tools like ChatGPT into your work life, I salute you. Formal letters are sterile and time-consuming, I bet ChatGPT is great for that. You could generate a CV using such a tool, then spice it up with your own words to stand out from the crowd. This is just a selection of the [basic tasks that ChatGPT is good for](https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/), but few of them get me particularly excited.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ##  My Life Isn't Complicated Enough Outside of Work
 
  Call me boring, but I don’t need an AI tool to summarize my emails or help me draft new ones. I’m perfectly fine with ignoring my inbox, thanks. I don’t run a _Dungeons & Dragons_ group where I need help coming up with characters or scenarios, and even if I did I’m not sure I’d defer the more enticing creative aspects of running a campaign to a word prediction machine.
 
 ![AI-generated image of Jesus made from plastic bottles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ptdlxoo.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  I’m not an artist, and I have my own ethical concerns about using generative AI trained on other people's work. I still find it relatively easy to [spot AI-generated images](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/) thanks to hallucinations like extra fingers, noisy fine details, and ghastly uncanny valley expressions.
 
  If I’m going to be creative, it’s going to be all me. I don’t want ChatGPT to write poetry for me, or plan events. I’d rather do that myself while my brain are still work good. I’m also not going to pretend that my shutting the door on these sorts of tools isn’t heavily influenced by personal preference.
@@ -71,7 +86,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
  I’ve read countless Reddit threads and social media posts about how people are using these tools, and I’m still not convinced I need ChatGPT and others in my life.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  These Tools Still Need Hand Holding
 
@@ -79,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 ![Asking ChatGPT what its knowledge cut-off date is.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-18-at-09-56-26.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  ChatGPT has been particularly bad for this in the past. Things have improved and the current free version of ChatGPT is able to interpret web results, but the knowledge cutoff is still nearly a year out of date in terms of training data. There are many examples of [ChatGPT getting simple sums wrong](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/), and the LLM is known to make things up if it lacks the training data to make a decision.
 
  Relying on these sorts of tools to help you accomplish tasks you aren’t familiar with can backfire. [Programmers can make good use generative AI](https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-making-it-possible-by-drfone-ios/) to help speed up their workflows, but how can those with little to no knowledge audit that code? This technology is far from "the great equalizer" in terms of technical know-how.
@@ -89,7 +104,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
  Because I can’t implicitly trust tools like ChatGPT, I have a hard time embracing them. Some recommend using these tools for legal documents like contracts or the sort of letters you’d normally consult a lawyer or solicitor to write. While that sounds great in theory and could save you hundreds or thousands of dollars, it’s still too much of a gamble for me.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Personalized AI Tech Looks More Promising
 
@@ -101,6 +119,12 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 ![A wrap-up of features made possible with Apple Intelligence at WWDC 2024.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple_intelligence_wrap_up-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  Microsoft is busy at work integrating Copilot into Windows which can help you do things like [debug code in Notepad or remove image backgrounds in Paint](https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y77t-screen-to-pc-with-chromecast-drfone-by-drfone-android/). Microsoft has laid out its plans for [Copilot+ PCs that handle many of these operations locally](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/), though missteps have been made with its Recall feature that posed a privacy risk and forced the company to reassess.

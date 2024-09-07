@@ -1,7 +1,7 @@
 ---
 title: "Advancing Banking Innovation: How IDC Enables the Future of Finance with Cutting-Edge Automation"
-date: 2024-08-21T15:51:37.209Z
-updated: 2024-08-22T15:51:37.209Z
+date: 2024-09-06T23:23:51.578Z
+updated: 2024-09-07T23:23:51.578Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0087bea05b577dbfb71c5ba8ff49de27f95d036e8af8878f0f3b10198632d36b.jpg
@@ -15,6 +15,12 @@ Third-party content
 
 ![Empowering Financial Services to Innovate Through Automation](https://static1.abbyy.com/abbyycommedia/35831/idc_finserv_june_2022.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Digital strategies for banks and financial institutions to innovate and improve
 
 IDC research shows that 67% of financial institutions believe AI will provide better service levels and reduce wasted time, and 83% of banks are increasing automation budgets in the next 12–24 months.
@@ -22,31 +28,46 @@ IDC research shows that 67% of financial institutions believe AI will provide be
 Intelligent Process Automation technologies are helping banks to improve onboarding processes, mitigate fraud, manage customer engagement processes, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Download this infographic to see IDC’s research about where, how, and why leading financial institutions are ramping up strategic technology investments to reap these benefits.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Thank you for your interest in ABBYY.
 
 [Read the report](https://digital.abbyy.com/hubfs/documents/content/infographic-financialservices-IDC-innovate-through-document-automation-en.pdf "Read the report") 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### You might also be interested in...
 
 [![ABBYY for Insurance](https://static2.abbyy.com/abbyycommedia/31575/03a-insurance-cases-process.jpg) Intelligent Automation for Insurers: Strategically Automate and Digitize Policy and Claims Processes Learn more](https://www.abbyy.com/solutions/insurance/ "Intelligent Automation for Insurers: Strategically Automate and Digitize Policy and Claims Processes")[![ABBYY Timeline Process Mining](https://static4.abbyy.com/abbyycommedia/34808/vantage-new-product-video.jpg) ABBYY Vantage Intelligent Document Processing for Insurance Watch video](https://www.youtube.com/watch?v=LcNkRzqhgRY "ABBYY Vantage Intelligent Document Processing for Insurance")[![Optimize your claims processes from intake to close - ABBYY eBook](https://static3.abbyy.com/abbyycommedia/34064/104-how-well-does-your-clain-management-lifecycle-perform-en-360x232.jpg) How Well Does Your Claims Management Lifecycle Perform? Download eBook](https://digital.abbyy.com/hubfs/documents/content/ebook-insurance-claims-management-lifecycle-en.pdf "How Well Does Your Claims Management Lifecycle Perform?") 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 

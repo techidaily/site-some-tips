@@ -1,7 +1,7 @@
 ---
 title: "Mastering Digital Sticky Notes: A Comprehensive Tutorial for Microsoft Edge Users"
-date: 2024-08-25T17:53:29.391Z
-updated: 2024-08-26T17:53:29.391Z
+date: 2024-09-06T23:23:48.552Z
+updated: 2024-09-07T23:23:48.552Z
 tags:
   - win11
   - win10
@@ -23,6 +23,12 @@ Windows 10 recommended you a new browser Microsoft Edge. Microsoft Edge allows y
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58467b7679b56.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If not, type**Microsoft Edge** in the search box then select Microsoft Edge on the pop-up menu to open Microsoft Edge.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58467ecbdc7a5.jpg)   
@@ -33,10 +39,22 @@ Windows 10 recommended you a new browser Microsoft Edge. Microsoft Edge allows y
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58467fd35bb1d.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can use the**Pen** to make a note for some content of the web page.   
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5846835a0aa34.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Choose the**Color** and the**Size** for the Pen according to your needs. For example, I choose the pen with red in middle size and use it to draw a line which will appear like this:  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5846864ad0cc4.jpg)   
@@ -49,6 +67,12 @@ Windows 10 recommended you a new browser Microsoft Edge. Microsoft Edge allows y
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58468fe7ad1c7.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  If you want to erase the note, use**Eraser** .   
   
@@ -58,14 +82,38 @@ Windows 10 recommended you a new browser Microsoft Edge. Microsoft Edge allows y
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584688bd1e4c7.jpg)   
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click on the**Type** icon to write a note in the box. You can add your comments anywhere on the webpage.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_5846896c7df64.jpg)   
   
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can use the **Clip** to clip the area that you want to the clipboard. After clicking on the Clip icon, left click and hold on mouse to outline the area. Release the mouse, and paste the image where you like.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58468a74c4df9.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
  After finishing making the note, you can save it to a specific location. Click the**Save Web Note** icon in top right corner then choose a location where you wish to save the note.  
   
@@ -130,7 +178,3 @@ Windows 10 recommended you a new browser Microsoft Edge. Microsoft Edge allows y
 <li><a href="https://some-tips.techidaily.com/unveiling-the-latest-innovation-by-abbyy-enhanced-ocr-software-development-kit-sdk-with-finereader-engine-v12-features/"><u>Unveiling the Latest Innovation by ABBYY - Enhanced OCR Software Development Kit (SDK) with FineReader Engine V.12 Features</u></a></li>
 <li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

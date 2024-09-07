@@ -1,22 +1,46 @@
 ---
 title: "Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration"
-date: 2024-08-21T15:51:21.212Z
-updated: 2024-08-22T15:51:21.212Z
+date: 2024-09-06T23:23:51.339Z
+updated: 2024-09-07T23:23:51.339Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa2499ea9263be6a00f18fb658c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## tangro® Elevates Document Processing Availability Thanks to ABBYY
 
 June 30, 2016
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _**New functionality in integrated OCR technology strengthens fail-safe processing capabilities of SAP-based document management solution**_ 
   
 ABBYY, a leading provider of document recognition, data capture, and linguistic technologies, announced that [tangro software components GmbH.](http://www.tangro.de/en.html) has further increased the reliability of its document processing solutions through integration of a new component of the ABBYY OCR technology. The Germany-based provider of embedded SAP solutions and long-standing ABBYY customer integrates ABBYY’s optical character recognition (OCR) technology for document digitisation and text recognition in its software for automated document processing. tangro uses text recognition to provide the foundation for extraction of data and their later processing in SAP. A new feature in the ABBYY OCR toolkit, the redundant network licence manager, ensures continuous and fail-safe text recognition of all incoming documents in tangro’s applications. As a result, users of tangro software benefit from the overall increased availability of the document processing system.  
@@ -131,7 +155,3 @@ Connect with us
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-from-idea-to-audio-book-your-modern-guide-to-effortless-publishing/"><u>Updated 2024 Approved From Idea to Audio Book Your Modern Guide to Effortless Publishing</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-xr21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia XR21 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->

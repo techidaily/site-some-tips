@@ -1,7 +1,7 @@
 ---
 title: Leverage Mobile OCR for Streamlined Customer Onboarding Processes
-date: 2024-08-21T15:52:35.556Z
-updated: 2024-08-22T15:52:35.556Z
+date: 2024-09-06T23:23:52.486Z
+updated: 2024-09-07T23:23:52.486Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc76b52ba12d66889ac85fb462.jpg
@@ -11,16 +11,46 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Putting business into customers' pockets
 
 August 03, 2017
 
 ![Mobile capture SDK real time image from ABBYY | ABBYY Blog Post](https://static4.abbyy.com/abbyycommedia/25214/real-time-recognition-sdk.png) 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If you want to see a bank customer wince, ask him to manually input some long numbers into your system. Yet in this digital transformation times, a large number of payments made by customers are still done by keying in data manually. The data that many businesses still require customers to provide range from account numbers, bank's routing numbers, tax code numbers, tracking numbers to ID cards and passport numbers.
 
 Meanwhile, new technologies are popping up enabling business processes to be more responsive to customer demands. Such technologies leverage mobility, flexibility, and efficiency of the new generation of tech-savvy users and may soon determine whether a business can survive and thrive in the unfolding digital era.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Instant data capture and processing
 
 Mobile OCR may seem trendy, but it is a trend with a variety of benefits for companies from customer-facing industries such as banks and insurance companies. Financial service companies can greatly optimize their operations by empowering customers to scan and digitize their data using new apps on their own mobile devices. Such apps can now insert information necessary for a money transfer into the fields of a mobile banking app simply by focusing the smartphone’s camera on payment slips, invoices or other payment documents.
@@ -28,21 +58,30 @@ Mobile OCR may seem trendy, but it is a trend with a variety of benefits for com
 Allowing engaged customers ‘self-service experience’ can engender in them self-confidence and pave the way for building trust and credibility. New mobile capture technology also enables customer-facing teams to manage customers and recruit prospects, while enhancing customer loyalty and retention.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Data protection and security
 
 According to a recent [Pew Research](http://www.pewinternet.org/2015/04/01/chapter-one-a-portrait-of-smartphone-ownership/), 24 percent of U.S. citizens have paid their bills using smartphones, while 44 percent said they are aware of such services. Yet, most people surveyed - 73 percent - avoid mobile payment apps, citing security and privacy as top worries. New mobile OCR technology now offers not only a fast, safe and convenient user experience, but data security as well. Data such as bank details, credit card number, card owner’s name or payment amount can be instantly captured, processed and transferred without saving copies on the device. For banks and insurance companies, this is a sure way to build trust and credibility with engaged customers.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Customer-onboarding with ease
 
 Real-time recognition technology promises [efficient customer onboarding](https://www.forbes.com/sites/adrianbridgwater/2017/04/19/abbyy-builds-instant-text-capture-recognition-tool-for-mobile/#3cb40997521f) that can help small businesses create a positive first impression and turn their customers into advocates. This is particularly true for front-end service providers such as airlines, hotels and car rental companies. Manual registration process for new customers is often frustrating, cumbersome and time-consuming. With the new technology, however, customers can simply point their mobile phone cameras at their identification documents and have their data transferred into a company's system without leaving a trace on the device.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Facilitating visual connection
 
@@ -62,9 +101,6 @@ To see ABBYY's latest technology solutions, visit the [ABBYY Products page](http
 
 [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Financial Services](https://tools.techidaily.com/abbyy/products/) [Mobile](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Like, share or repost
 
 Share 

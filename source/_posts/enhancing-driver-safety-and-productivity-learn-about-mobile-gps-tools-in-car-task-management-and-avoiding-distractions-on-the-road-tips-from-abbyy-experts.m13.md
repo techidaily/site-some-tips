@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts"
-date: 2024-08-21T15:50:49.076Z
-updated: 2024-08-22T15:50:49.076Z
+date: 2024-09-06T23:23:50.847Z
+updated: 2024-09-07T23:23:50.847Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
@@ -21,6 +21,12 @@ It’s very rare to see a car driver without a smartphone. Today, you’ll find 
 
 Regardless of the type of smartphone you use, you must always remember to respect traffic rules and other drivers on the road. You may want to place your phone in a special cradle but it must not block the view of the road, dashboard, and airbag. If you are planning to rent a car abroad, try looking into the local traffic rules.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **iOS Tip: How to Use Your iPhone at the Wheel**
 
 Drivers tend to use their iPhones as a sound system, navigation system or even dash cam. But how do you use it without putting yourself, passengers, and other drivers at risk? Here are a few ways to go about it.
@@ -57,9 +63,6 @@ And the last option, now for advanced iOS users. [CarPlay](https://www.apple.com
 
 Use a USB cable to connect your device. When connected, CarPlay lets you access standard iOS apps and some third-party apps as well. It provides access to the microphone and audio system which is installed in the car. This way you will be able to build routes, receive messages, listen to music while paying attention to driving itself. It must be noted that CarPlay is supported by a limited number of cars.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Android Tip:** **Android Device at the Wheel**
 
 Do you want to know how to stay safe on the road with Android? Read on!
@@ -80,6 +83,18 @@ Another way to use your smartphone efficiently without any risk to your health i
 
 ![drive car In-Traffic Reply android](https://static1.abbyy.com/abbyycommedia/26288/in-traffic.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Android Auto**
 
 Another way to make use of your device while on the road is [Android Auto](https://www.android.com/intl/en%5Fen/auto/). This app shows your phone’s functionalities on a car's display not worse than Apple’s CarPlay.
@@ -87,13 +102,18 @@ Another way to make use of your device while on the road is [Android Auto](https
 ![android auto app driving car](https://static1.abbyy.com/abbyycommedia/26289/android-auto.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 With Android Auto, you can put your caller on speaker, listen to messages, control your music, and build routes. The advantage of this app over its competitors is that it allows you to use its functionality regardless of whether your car supports this system or not. If your car does not feature a screen, simply place it on the dashboard-installed phone-holder and use the system via your device. The app has a user-friendly interface with large icons and navigation tips.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **ABBYY Tip: Location-Based Search for Business Cards**
 
@@ -111,7 +131,10 @@ Bear in mind that this feature only works if you have allowed access to your geo
 3. Make sure that you have marked **While Using the App** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **App of The Week: Evernote**
 
@@ -120,16 +143,43 @@ Evernote is a powerful digital notebook that lets you take your productivity and
 ![App Evernote time management effective](https://static1.abbyy.com/abbyycommedia/26290/evernote.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Evernote allows you to create theme-based notepads, for example, one for your household chores and the other for your work-related matters. Notepads support notes of different types: with links, lists, tables, attachments, and audio files. Let us suppose you have a flat renovation coming up. One notepad may be dedicated to everything related to the upcoming process under the _#renovation_ hashtag: scans of contracts with contractors, links to design solutions, your cost estimate, to-do lists, a work plan, photos of items that you liked on the internet, etc. This will save time when you will need the-phone-of-that-plumber-that-you-saw-on-the-internet.
 
 ![evernote-android-iphone](https://static1.abbyy.com/abbyycommedia/26291/evernote-android-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 One of the most incredible features in Evernote is called [Web Clipper](https://evernote.com/intl/en/products/webclipper). Simply add the Evernote plugin to your browser, click a button, and all the contents of a web page will be saved to your notepad.
 
 ![evernote webclipper save content web page](https://static1.abbyy.com/abbyycommedia/26292/evernote-webclipper-300x244.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 For businesses, the company offers [Evernote Business](https://evernote.com/intl/en/business) which is designed for teamwork, project management, and storing large amounts of working data.
 
 Want to learn more about Evernote? Visit their [Youtube](https://www.youtube.com/user/EvernoteVideos/videos) channel, check [use cases](https://evernote.com/intl/en/business/use-cases) and read [customer stories](https://evernote.com/intl/en/business/customer-stories).
@@ -141,8 +191,10 @@ _By Anna Boyko, Marketing Consultant_
 ![arrange picnic nature abbyy advice](https://static1.abbyy.com/abbyycommedia/26293/anna.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Summer is just around the corner and all I want during weekends is leave the city and go camping. I love organizing such events and today I’ll share with you how to arrange a perfect picnic. I believe that there are few things that make an excellent get-together, these are a good mood, positive attitude, and tight-knit group. Now let’s drill down to more details.
 

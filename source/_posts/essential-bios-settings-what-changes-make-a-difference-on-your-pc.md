@@ -1,7 +1,7 @@
 ---
 title: "Essential BIOS Settings: What Changes Make a Difference on Your PC"
-date: 2024-08-29T19:30:08.878Z
-updated: 2024-08-30T19:30:08.878Z
+date: 2024-09-06T23:23:47.302Z
+updated: 2024-09-07T23:23:47.302Z
 tags:
   - deals
 categories:
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
  Navigating the BIOS can feel overwhelming, with so many settings to consider. But there are a few simple tweaks you should make in the BIOS to boost the performance and stability of your system. We'll show you some of those tweaks, and explain when and why you might want to use them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1  1\. Password Protect Your BIOS 
 
  While we're careful to password-protect our user accounts, we often overlook securing the BIOS. This oversight can enable anyone to enter your computer's BIOS and alter system security settings, even if your user account is password-protected. By setting up a password for your BIOS, you can mitigate these risks and protect your data if the device gets stolen.
@@ -29,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
  From now on, whenever you need to modify a BIOS setting, you'll need to confirm your identity by entering the password.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  2\. Change Fan Control Settings 
 
  If your PC overheats or struggles with heat dissipation (which is most noteably a problem with laptops), one effective solution is to increase the fan speed. Conversely, reducing the fan speed can prolong its lifespan. Since Windows lacks built-in [options to control fan speed](https://win11.techidaily.com/uniting-emails-adding-gmail-accounts-to-outlook-windows-style/), users often turn to third-party software. If you don't want to go that route, you can adjust fan speed in BIOS.
@@ -41,13 +44,13 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![Manually controlling the fan speed curve in BIOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manually-controlling-the-fan-speed-curve-in-bios.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Not all manufacturers include fan control options in their BIOS settings, particularly on laptops. Desktop computers typically offer more flexibility in fan speed management.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3  3\. Change the Boot Order 
 
  The boot order refers to the sequence in which a BIOS or UEFI searches for a bootable operating system during startup. If multiple storage devices are installed and your primary operating system resides on a lower-priority drive, your computer might expend unnecessary effort searching for a bootable OS on other drives.
@@ -56,13 +59,16 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
 ![Changing the Boot Order in BIOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/changing-the-boot-order-in-bios.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  After you've made these adjustments, save the changes, exit BIOS, and restart your computer. You may experience a noticeable improvement in boot time. 
 
  Even if you don't get a performance improvement, changing your boot order to [include a Windows recovery USB](https://screen-mirroring-recording.techidaily.com/updated-zooming-in-a-step-by-step-guide-to-perfect-screenshare/) or [other utility programs](https://win-answers.techidaily.com/the-complete-2024-handbook-to-eliminating-unwanted-chrome-flickering-on-your-windows-machine/) is an important part of troubleshooting a malfunctioning PC. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4  4\. Overclock Your RAM 
 
  Although you can adjust other parameters, overclocking RAM primarily involves increasing data transfer rates and refining timings to enhance overall device performance, especially for tasks that require substantial memory usage. These adjustments reduce latency, which makes applications more responsive and snappy. 
@@ -71,6 +77,12 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
  To mitigate these risks, you can use pre-configured profiles such as[XMP (for Intel systems) or DOCP or AMP (for AMD systems)](http://www.howtogeek.com/what-is-xmp/), which provide safe overclocking options. The preset overclocking options available through XMP, DOCP, or AMP are usually pretty stable, but there are no guarantees that every specific setting will work with every hardware configuration. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  5\. Disable the Unused Integrated Peripherals 
 
  Turning off unused integrated peripherals through the BIOS can yield several benefits. For instance, disabling onboard audio when using a dedicated sound card can prevent conflicts between audio devices and improve audio performance. This doesn't just apply to sound cards—dedicated and integrated hardware trying to do the same thing usually increases the chances of bugs occurring. 
@@ -82,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 ![Disabling HD audio controller in BIOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-disabling-hd-audio-controller-in-bios.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6  6\. Optimize CPU Performance 
 
@@ -97,6 +109,12 @@ thumbnail: https://thmb.techidaily.com/1265acc31daaf1de37767d4e97f39f4ae2ccc01cb
 
 ![Tweaking the CPU configurations in BIOS](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tweaking-the-cpu-configurations-in-bios.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Adjust the settings according to your requirements. Once configured, remember to save the changes and exit the BIOS.
 
 ---
