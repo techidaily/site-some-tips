@@ -1,28 +1,23 @@
 ---
 title: "UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration"
-date: 2024-09-06T23:23:52.989Z
-updated: 2024-09-07T23:23:52.989Z
+date: 2024-09-12T07:21:26.879Z
+updated: 2024-09-13T07:21:26.879Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f43714543b259bc14c7475306.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Intelligent Capture Connector Is Now Available on the UiPath Go! RPA Marketplace
 
 November 08, 2018
@@ -30,17 +25,12 @@ November 08, 2018
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### _Additionally, ABBYY has been recognized as the Best Technology Partner at the annual #UiPathForward Americas partner event._
 
 ABBYY, a leading provider of content intelligence solutions and services, today announced that ABBYY FlexiCapture Connector is now available for the UiPath robotic process automation (RPA) platform via the newly launched marketplace, [UiPath Go!](https://go.uipath.com/component/abbyy-flexicapture-connector-for-uipath-31cc20 "UiPath Go!"). This enables RPA developers, line-of-business users and partners to instantly have the power of ABBYY’s enterprise-level intelligent capture integrated directly within a UiPath robotic process flow. Additionally, ABBYY was selected by UiPath as the Best Technology Partner at its #UiPathForward Americas partner event on October 3rd.
@@ -78,8 +68,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,57 +77,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-key-to-youtube-success-understanding-your-cpm/"><u>[New] 2024 Approved  The Key to YouTube Success  Understanding Your CPM</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-craft-your-contents-voyage-from-camera-to-instagram-tv/"><u>[New] Craft Your Content's Voyage From Camera to Instagram TV</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-obs-recording-tech-breakdown-comparing-leading-screen-recorders/"><u>[New] OBS Recording Tech Breakdown  Comparing Leading Screen Recorders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-online-stream-setup-the-vlc-methodology/"><u>[New] Optimal Online Stream Setup  The VLC Methodology</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-reddit-user-bio-image-guide-size-in-pixels-type-length/"><u>[New] Reddit User Bio Image Guide  Size in Pixels, Type, Length</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>[New] Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>[New] Unleash Video Potential  Top 4K Downloader Apps Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video  Elite Webcams for Podcasting</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-optimizing-igtv-videos-editing-strategies-for-2024/"><u>[Updated] Optimizing IGTV Videos  Editing Strategies for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-perfect-slideshow-software-for-iphone-fi-and-pro-max-for-2024/"><u>[Updated] Perfect Slideshow Software For iPhone Fi & Pro Max for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-slow-motion-showcase-top-cameras-with-unparalleled-snapshot-power/"><u>[Updated] Slow-Motion Showcase  Top Cameras with Unparalleled Snapshot Power</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-synchronized-system-apple-watch-and-mac-unlocking/"><u>[Updated] Synchronized System  Apple Watch and Mac Unlocking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>[Updated] Textual Transformation  Enrich Your Images with Words, PC/Mac Style</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-hidden-world-exploring-vlc-player-extras/"><u>[Updated] The Hidden World  Exploring VLC Player Extras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[Updated] Time-Honored Techniques  Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-undo-motion-recapturing-video-from-mobile-devices/"><u>[Updated] Undo Motion  Recapturing Video From Mobile Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-vanguard-20-top-anime-song-starters/"><u>[Updated] Vanguard 20 Top Anime Song Starters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-creating-an-impactful-entry-for-your-podcast/"><u>2024 Approved  Creating an Impactful Entry for Your Podcast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-from-dissonance-to-harmony-kinemasters-transition-magic/"><u>2024 Approved  From Dissonance to Harmony  Kinemaster’s Transition Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved  Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-supercharge-your-screens-with-video-enhancer-v22/"><u>2024 Approved  Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved  The Art of Photo Edits  Clearing Out Backgrounds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-photographic-archives/"><u>2024 Approved  Top Tier Photographic Archives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>2024 Approved  Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>2024 Approved  Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>2024 Approved  Upcoming VR Masterpieces  Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-virtual-reality-capture-heres-the-best-software/"><u>2024 Approved  Virtual Reality Capture? Here's the Best Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-thinkpad-x260-drivers-for-windows-10-step-by-step-guide/"><u>Download and Update Lenovo ThinkPad X260 Drivers for Windows 10: Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/enhancing-your-listening-experience-troubleshooting-windows-11s-audio-issues/"><u>Enhancing Your Listening Experience: Troubleshooting Windows 11'S Audio Issues</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-the-seven-superior-water-tough-cams-guide/"><u>Exploring the Seven Superior Water-Tough Cams Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-11-year-olds-financial-rise-via-youtube-stardom/"><u>In 2024, 11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-clipcomposer-critique-full-report/"><u>In 2024, ClipComposer Critique – Full Report</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>In 2024, The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-method-for-timestamping-your-youtube-videos/"><u>In 2024, The Expert's Method for Timestamping Your YouTube Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-zero-price-screen-capture-software-for-windows-10-users/"><u>In 2024, Top 5 Zero Price Screen Capture Software for Windows 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-fix-for-quick-signature-bg-disposal/"><u>In 2024, Ultimate Fix for Quick Signature BG Disposal</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unravel-the-secrets-of-crafting-engaging-snapchat-boomerangs/"><u>In 2024, Unravel the Secrets of Crafting Engaging Snapchat Boomerangs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-your-windows-webcams-with-these-essential-downloadable-driver-packages/"><u>Master Your Window's Webcams with These Essential Downloadable Driver Packages</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-google-pixel-fold-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Google Pixel Fold FRP</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/syncing-with-symphonies-music-on-whatsapp-status/"><u>Syncing with Symphonies  Music on WhatsApp Status</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-game-changer-how-to-optimize-your-fb-giveaway-posts-for-2024/"><u>The Game-Changer  How to Optimize Your FB Giveaway Posts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tiktokplusinstagram-social-media-fusion-guide-for-2024/"><u>TikTok+Instagram  Social Media Fusion Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures  New Realms Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/transforming-raw-footage-into-polished-youtube-videos-with-finalcut/"><u>Transforming Raw Footage Into Polished YouTube Videos with FinalCut</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight-for-2024/"><u>Unlocking Potential  The Right Propeller Match in FPV Flight for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-through-virtualization-for-2024/"><u>Unlocking Potential Through Virtualization for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-success-in-podcasts-with-seo-know-how-for-2024/"><u>Unlocking Success in Podcasts with SEO Know-How for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/visionary-viewpoints-deciding-between-digital-and-device-dominance/"><u>Visionary Viewpoints  Deciding Between Digital and Device Dominance</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-abcd-of-effective-copy-in-facebook-campaigns/"><u>[New] 2024 Approved The ABCD of Effective Copy in Facebook Campaigns</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mycam-recorder-insights-a-thorough-technical-assessment/"><u>[New] In 2024, MyCam Recorder Insights A Thorough Technical Assessment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-stream-picks-expertly-chosen-hardware-and-software-combo/"><u>[Updated] Pro Stream Picks Expertly Chosen Hardware & Software Combo</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-transforming-storytelling-into-cinematic-art/"><u>[Updated] Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-compreenas-an-insightful-guide-to-photography-mastery/"><u>2024 Approved Compreenas An Insightful Guide to Photography Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/august-9th-new-york-times-insight-decode-todays-424-connection-clues/"><u>August 9Th New York Times Insight: Decode Today’s #424 Connection Clues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avoid-these-5-mistakes-not-everything-should-be-stored-in-the-cloud/"><u>Avoid These 5 Mistakes - Not Everything Should Be Stored in the Cloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/chromes-new-feature-could-enable-direct-appreciation-payments-to-sites/"><u>Chrome's New Feature Could Enable Direct Appreciation Payments to Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/crack-the-puzzle-with-todays-nyt-july-11-connections-hints-and-answer-part-396/"><u>Crack the Puzzle with Today's NYT - July 11 Connections Hints and Answer, Part #396</u></a></li>
+<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-repairing-and-preventing-screen-burn-in-across-various-displays/"><u>Effective Solutions: Repairing and Preventing Screen Burn-In Across Various Displays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-fix-errors-when-uploading-hevc-files-in-adobe-premiere-pro/"><u>How to Fix Errors When Uploading HEVC Files in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-your-gta-5-keeps-crashing/"><u>Step-by-Step Fixes for When Your GTA 5 Keeps Crashing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-spotifys-dual-playback-capabilities-for-paired-users/"><u>Understanding Spotify's Dual Playback Capabilities for Paired Users.</u></a></li>
 </ul></div>
+

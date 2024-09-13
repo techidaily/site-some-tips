@@ -1,28 +1,23 @@
 ---
 title: "Optimize with Cookiebot: Elevate Website Performance & Tracking"
-date: 2024-09-06T23:23:52.523Z
-updated: 2024-09-07T23:23:52.523Z
+date: 2024-09-12T07:20:46.405Z
+updated: 2024-09-13T07:20:46.405Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57491460fea382eb83a2be019.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optimize with Cookiebot: Elevate Website Performance & Tracking
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY ernennt Anthony Macciola zum Chief Innovation Officer
 
 29\. November 2017
@@ -30,17 +25,12 @@ thumbnail: https://thmb.techidaily.com/7e2c59b8b1649e31fbe322986a570ae3c50e92f57
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ABBYY, ein führender und globaler Anbieter von Technologien und Lösungen für den effektiven Einsatz von Informationen in Organisationen, hat bekannt gegeben, dass Anthony Macciola zum Chief Innovation Officer ernannt wurde. In dieser neu geschaffenen Rolle wird Macciola Innovationen fördern und im Rahmen der marktorientierten Strategie von ABBYY die Entwicklung neuer Produkt- und Servicekonzepte vorantreiben.
 
 „Anthony Macciola ist als Vordenker im Bereich der Produkte, Lösungen und Technologien für Intelligent Capture, RPA, BPM, BI sowie Mobile Capture bekannt. Unsere Kunden und Partner werden von seinem umfangreichen technischen Wissen und seinen fundierten Branchenkenntnissen in Bezug auf Künstliche Intelligenz (KI), Machine Learning und intelligente Textanalyse – Bereiche, in denen ABBYY kontinuierlich neue Lösungen entwickelt – auf jeden Fall profitieren“, sagt Ulf Persson, CEO der ABBYY Gruppe.  
@@ -89,8 +79,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,74 +88,16 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-guide-streaming-and-saving-hulu-seasons-flawlessly/"><u>[New] Expert Guide  Streaming and Saving Hulu Seasons Flawlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-iphones-quintet-of-premier-podcast-tools/"><u>[New] IPhone's Quintet of Premier Podcast Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-network-neutralizer-overcoming-facebook-intrusion-for-2024/"><u>[New] Network Neutralizer  Overcoming Facebook Intrusion for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-premium-sound-to-text-converters/"><u>[New] Premium Sound to Text Converters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-prime-dialogue-draft-directory/"><u>[New] Prime Dialogue Draft Directory</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-technology-showcase-highlights-of-the-5-best-slow-cams/"><u>[New] Technology Showcase  Highlights of the 5 Best Slow Cams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-cheat-sheet-essentials-for-vlc-and-mac/"><u>[New] The Ultimate Cheat Sheet  Essentials for VLC and Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[New] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-5-video-tweaking-apps-for-social-networking/"><u>[New] Top 5 Video Tweaking Apps for Social Networking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-iphone-audio-applications-ranked/"><u>[New] Top iPhone Audio Applications Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-videos-with-tiktok-effects/"><u>[New] Transform Videos with TikTok Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[New] Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-balancing-focus-zooming-tips-for-clear-instagram-stories/"><u>[Updated] 2024 Approved  Balancing Focus  Zooming Tips for Clear Instagram Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] 2024 Approved  Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac/"><u>[Updated] 2024 Approved  Navigating Skype's Ecosystem  Essential Free and Paid Recording Methods (Windows/Mac)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-elevate-your-game-on-instagram-5-key-tactics-for-top-tier-influencers-for-2024/"><u>[Updated] Elevate Your Game on Instagram  5 Key Tactics for Top-Tier Influencers for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-seamlessly-add-vimeo-videos-to-insta-feed/"><u>[Updated] How to Seamlessly Add Vimeo Videos to Insta Feed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-seamlessly-backup-your-camera-roll-exporting-to-snapchat-made-easy/"><u>[Updated] Seamlessly Backup Your Camera Roll  Exporting to Snapchat Made Easy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-best-motivational-films-to-fuel-your-ambition/"><u>[Updated] The Best Motivational Films to Fuel Your Ambition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-kids-drones/"><u>[Updated] The Ultimate Guide to Kids' Drones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-smartphone-photography-with-iphones-hdr/"><u>[Updated] Transform Your Smartphone Photography with iPhone’s HDR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-top-hdr-camera-picks/"><u>[Updated] Ultimate Selection  Top HDR Camera Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[Updated] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-efficiency-incorporating-zoom-into-your-gmail-routine/"><u>[Updated] Unlocking Efficiency  Incorporating Zoom Into Your Gmail Routine</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-laughlineart-memogallery/"><u>2024 Approved  LaughLineArt  MemoGallery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-optimizing-unused-scenes-a-filmmakers-approach/"><u>2024 Approved  Optimizing Unused Scenes  A Filmmaker's Approach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-stabilizing-aerial-vision-a-comprehensive-guide-to-choosing-a-gimbal/"><u>2024 Approved  Stabilizing Aerial Vision  A Comprehensive Guide to Choosing a Gimbal</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-syncing-zen-and-zeal-elevating-youtube-livestreams-on-zoom/"><u>2024 Approved  Syncing Zen and Zeal  Elevating YouTube Livestreams on Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-core-language-of-cutting-edge-vr-experiences/"><u>2024 Approved  The Core Language of Cutting-Edge VR Experiences</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-fundamentals-of-gif-design-and-creation/"><u>2024 Approved  The Fundamentals of GIF Design and Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-the-experience-top-9-streams/"><u>2024 Approved  Unleash the Experience  Top 9 Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-enlightening-general-knowledge-trivia-channels-in-24/"><u>2024 Approved  Unveiling the Most Enlightening General Knowledge Trivia Channels in '24</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-se-2020-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone SE (2020) to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ai-takes-a-backseat-as-qualcomms-hefty-ad-budget-celebrates-copilotpluss-rise-due-to-enhanced-battery-durability/"><u>AI Takes a Backseat as Qualcomm's Hefty Ad Budget Celebrates Copilot+'s Rise Due to Enhanced Battery Durability</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/amazfit-bip-review/"><u>Amazfit Bip Review</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-pova-6-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/error-code-0x80242016-stopping-windows-updates/"><u>Error Code 0X80242016 Stopping Windows Updates</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-y100a-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo Y100A Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/improve-pc-efficiency-with-free-gb-memory-driver-software/"><u>Improve PC Efficiency with Free GB Memory Driver Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-fast-fixes-streamlining-your-gotomeeting-record-keeping/"><u>In 2024, Fast Fixes  Streamlining Your GoToMeeting Record Keeping</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>In 2024, Inside the Speech of Cyberspace  Must-Know VR Terms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-authoritative-periscope-users-bible/"><u>In 2024, The Authoritative Periscope User's Bible</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>In 2024, The Ultimate Path to Becoming an FCP Specialist</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tips-for-writing-irresistible-podcast-intros/"><u>In 2024, Tips for Writing Irresistible Podcast Intros</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-10-games-like-gta-v/"><u>In 2024, Top 10 Games Like GTA V</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-xs-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone XS Max Before the Plan Expires</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-ultra-clear-video-in-zoom-meetings/"><u>In 2024, Unlocking Ultra-Clear Video in Zoom Meetings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-upgrading-your-mp4s-integrating-premium-srt-sound/"><u>In 2024, Upgrading Your MP4s  Integrating Premium SRT Sound</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors-for-2024/"><u>Master Your Captions  The Top 10 Precision Subtitle Editors for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigate-effortlessly-an-in-depth-review-of-the-economical-bouncie-vehicle-connector/"><u>Navigate Effortlessly: An In-Depth Review of the Economical Bouncie Vehicle Connector</u></a></li>
-<li><a href="https://driver-error.techidaily.com/neutralized-hardware-misreadings/"><u>Neutralized Hardware Misreadings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/night-owls-techniques-for-long-exposure-iphone-pics-for-2024/"><u>Night Owls' Techniques for Long-Exposure iPhone Pics for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pioneering-editing-snapseed-for-the-newcomer-for-2024/"><u>Pioneering Editing  Snapseed for the Newcomer for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-fires-of-rubicons-performance-issues-on-pc/"><u>Solving Fires of Rubicon's Performance Issues on PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tales-on-the-silver-screen-writing-for-cinema-for-2024/"><u>Tales on the Silver Screen  Writing for Cinema for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-blueprint-for-obtaining-premium-visuals-for-free-for-2024/"><u>The Essential Blueprint for Obtaining Premium Visuals for Free for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-wagering-vegas-pros-evolution-in-21-for-2024/"><u>The Future of Wagering  Vegas Pro's Evolution in '21 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-closer-insight-in-roblox-games-for-2024/"><u>The Ultimate Guide to Closer Insight in Roblox Games for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-20-ae-templates-for-aspiring-designers-for-2024/"><u>Top 20 AE Templates for Aspiring Designers for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/transforming-your-tiktok-presence-with-exceptional-photos-for-2024/"><u>Transforming Your TikTok Presence with Exceptional Photos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-techniques-for-flawless-inshot-videos-for-2024/"><u>Transition Techniques for Flawless Inshot Videos for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-windows-compatibility-problems-for-msi-mystic-light/"><u>Troubleshooting Guide: Resolving Windows Compatibility Problems for MSI Mystic Light</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-auto-startup-diagnosing-why-windows-11-turns-on-by-itself/"><u>Unexpected Auto Startup: Diagnosing Why Windows 11 Turns On by Itself</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-mixed-reality-a-comprehensive-insight/"><u>Unveiling Mixed Reality  A Comprehensive Insight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-techniques-for-harmonious-crossfades-in-tracks-for-2024/"><u>Unveiling Techniques for Harmonious Crossfades in Tracks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>[Updated] 2024 Approved Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-anticipating-innovations-in-next-gen-ai-and-bot-conversational-technologies/"><u>Beyond ChatGPT - Anticipating Innovations in Next-Gen AI & Bot Conversational Technologies</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-13-mini-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 13 mini in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnaclescreenpro-capturing-like-a-pro-on-w10-for-2024/"><u>PinnacleScreenPro Capturing Like a Pro on W10 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-familys-effortless-coordination-why-we-cant-live-without-cozi/"><u>The Secret Behind My Family's Effortless Coordination: Why We Can't Live Without Cozi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
 </ul></div>
+

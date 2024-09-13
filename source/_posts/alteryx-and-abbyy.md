@@ -1,34 +1,23 @@
 ---
 title: Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される
-date: 2024-09-06T23:23:53.275Z
-updated: 2024-09-07T23:23:53.275Z
+date: 2024-09-12T07:21:49.155Z
+updated: 2024-09-13T07:21:49.155Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a0ff9dab5d25b004c909ef6a.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYYがAlteryxと提携し、高度なProcess IntelligenceによりAlteryx社のアナリティック・プロセス・オートメーション（APA）プラットフォームを拡張
 
 10月23日, 2020
@@ -36,11 +25,12 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **_統合型のソリューションを通じてデジタルトランスフォーメーションの主要なイニシアチブを加速_**
 
   
@@ -120,8 +110,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,42 +119,12 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-free-range-riffs-and-rhythms-in-free-fire/"><u>[New] 2024 Approved  Free Range Riffs and Rhythms in Free Fire</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlocking-instagrams-hidden-qanda-features/"><u>[New] 2024 Approved  Unlocking Instagram’s Hidden Q&A Features</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-top-7-adblocker-apps-for-android-users/"><u>[New] 2024 Approved  Unveiling Top 7 AdBlocker Apps for Android Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-best-picks-no-charging-high-definition-video-players-for-pcmacos/"><u>[New] Best Picks  No-Charging, High Definition Video Players for PC/MacOS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-change-facebook-cover-photo-for-2024/"><u>[New] How to Change Facebook Cover Photo for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-maximize-impact-with-professional-grade-fb-cover-videos-for-2024/"><u>[New] Maximize Impact with Professional-Grade FB Cover Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-zooming-in-youtube-videos/"><u>[New] The Art of Zooming in YouTube Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>[New] The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[New] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>[New] The Secret to Love in Video Editing  Filmora's Best Aspects</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-perfect-your-social-media-history-looking-back-mastery/"><u>[Updated] 2024 Approved  Perfect Your Social Media History  Looking Back Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] IPhone Tips  Bringing Out the Best with HDR Photography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-listen-and-direct-voice-control-without-payment/"><u>[Updated] Listen and Direct  Voice Control Without Payment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-laughter-no-10-memes-ranked-by-fun/"><u>[Updated] The Art of Laughter  No. 10 Memes Ranked by Fun</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-photographers-list-of-top-10-lenses/"><u>[Updated] The Photographer's List of Top 10 Lenses</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[Updated] Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-storytelling-channels-for-impactful-yt-watching/"><u>2024 Approved  Best Storytelling Channels for Impactful YT Watching</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-syncopating-soundtracks-with-flawless-audio-transitions/"><u>2024 Approved  Syncopating Soundtracks with Flawless Audio Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-double-edged-sword-of-virtual-reality/"><u>2024 Approved  The Double-Edged Sword of Virtual Reality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-illustrator-guide-to-dynamic-text-art/"><u>2024 Approved  The Illustrator Guide to Dynamic Text Art</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-route-to-sharpen-your-meme-skills-at-9gag/"><u>2024 Approved  The Ultimate Route to Sharpen Your Meme Skills at 9GAG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>2024 Approved  Ultimate Studio Tracker  XVideoExploration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>2024 Approved  Unveil Clearer Visuals  Essential Tips for Zooming on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-9-webcam-filters-for-professional-streamers/"><u>2024 Approved  Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/how-to-repair-and-restore-exchange-database/"><u>How to Repair and Restore Exchange Database</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 13 without Apple Account</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>In 2024, Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turning-compressed-files-into-srt-speaking-texts-quickly/"><u>In 2024, Turning Compressed Files Into .Srt Speaking Texts Quickly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>In 2024, Ultimate Monitor Match-Up  Recommendations for Top-Tier Xbox SX Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-audio-transformation-tools-unleash-voices-for-2024/"><u>Superior Audio Transformation Tools  Unleash Voices for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-fast-loading-facebook-videos-for-2024/"><u>The Art of Fast-Loading Facebook Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023-for-2024/"><u>The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-future-is-now-examining-hp-envy-27s-innovations-for-2024/"><u>The Future Is Now  Examining HP Envy 27'S Innovations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro-for-2024/"><u>Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tier-steadicam-options-for-drone-video-production-for-2024/"><u>Top-Tier Steadicam Options for Drone Video Production for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-slomo-videography-app-review-update-for-2024/"><u>Ultimate Guide to SloMo Videography  App Review Update for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-photo-editing-potential-with-these-clever-pixlr-techniques-for-2024/"><u>Unlock Photo Editing Potential with These Clever Pixlr Techniques for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-reddit-success-in-business-promotions-for-2024/"><u>Unlocking the Secrets to Reddit Success in Business Promotions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitsoundscape-audio-from-tweets-for-2024/"><u>[Updated] TwitSoundscape Audio From Tweets for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cting-youtubes-features-and-mechanisms-after-uploading-content-for-2024/"><u>Dissecting YouTube’s Features and Mechanisms After Uploading Content for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/google-wifi-unveiled-the-essential-home-wi-fi-system-that-delivers-quality-and-reliability-to-everyone/"><u>Google WiFi Unveiled – The Essential Home Wi-Fi System That Delivers Quality and Reliability to Everyone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-know-your-customer-approach-with-the-latest-techniques-insights-from-abbyy/"><u>Revamping Your Know-Your-Customer Approach with the Latest Techniques - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-enhance-page-ranking-and-web-traffic-through-seo-techniques/"><u>Strategies to Enhance Page Ranking and Web Traffic Through SEO Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-legal-processes-using-abbyys-innovative-contract-analysis-platform/"><u>Streamline Legal Processes Using ABBYY's Innovative Contract Analysis Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-pro-9015-get-the-newest-printer-software-here/"><u>Update Your HP OfficeJet Pro ˈ9015: Get the Newest Printer Software Here!</u></a></li>
 </ul></div>
+

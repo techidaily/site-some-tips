@@ -1,7 +1,7 @@
 ---
 title: "How ABBYY Leads Digital Evolution for Modern Insurers: Strategic Transformation Tactics"
-date: 2024-09-06T23:23:51.376Z
-updated: 2024-09-07T23:23:51.376Z
+date: 2024-09-12T07:19:19.523Z
+updated: 2024-09-13T07:19:19.523Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
@@ -16,79 +16,66 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 English
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Featuring
 
 ![Eileen Potter](https://static4.abbyy.com/abbyycommedia/25121/logo-2021-90x27.svg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Eileen Potter](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Eileen Potter
 
 Solutions Marketing Manager, Insurance, **ABBYY**
 
 ![Peter Stockhammer](https://static1.abbyy.com/abbyycommedia/35585/generalivitality-forspeakers-56x56.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Peter Stockhammer](https://static1.abbyy.com/abbyycommedia/34958/101-peterstockhammer-198x198.png)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Peter Stockhammer
 
 Managing Director, **Generali Vitality**
 
 Join Eileen Potter from ABBYY and Peter Stockhammer from Generali Vitality, who had a fireside chat on ‘Becoming a truly digital insurer’.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tune in to find out:
 
 * What are the prerequisites for success in digital transformation?
 * Understanding the role of analytics: why is analytical excellence essential, and how can it best be delivered?
 * Collaborating to innovate: how can this be successfully achieved both internally and with ecosystem partners?
 * Scaling digital technologies across the business: what determines the most effective roadmap?
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Watch now
 
@@ -102,25 +89,21 @@ All personal information collected via this method is under full scope of all pr
 [![The Next Frontier](https://static5.abbyy.com/abbyycommedia/34962/the-next-frontier.jpg)](https://www.youtube.com/watch?v=85s2aAxwUxM) 
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
 #### Please fill in this form to watch the webinar:
@@ -177,8 +160,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,37 +169,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-building-a-brand-in-the-metaverse-ecosystem/"><u>[New] Building a Brand in the Metaverse Ecosystem</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-capturing-lol-games/"><u>[New] Comprehensive Guide to Capturing LOL Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[New] Streamline Your Cloud Strategy  Expert Recommendations for Top 20 Free Providers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-the-best-17-picture-filters/"><u>[New] The Ultimate Guide to the Best 17 Picture Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tuneful-transmissions-integrating-audio-with-statuses/"><u>[New] Tuneful Transmissions  Integrating Audio with Statuses</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-for-effortless-finding-exceptional-pexel-images/"><u>[Updated] Tips and Tricks for Effortless Finding Exceptional Pexel Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-7-essential-metaverse-tech-for-your-arsenal/"><u>[Updated] Top 7 Essential Metaverse Tech for Your Arsenal</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-your-tiktok-profile-altering-account-numbers/"><u>[Updated] Transforming Your TikTok Profile  Altering Account Numbers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[Updated] Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo/"><u>2024 Approved  Transform Your Edits  How to Negate Distracting Surroundings Using Affinity Photo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-sites-for-stylish-metallic-3d-text-artistry/"><u>2024 Approved  Ultimate Sites for Stylish, Metallic 3D Text Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>2024 Approved  Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unmatched-mobileweb-image-magnification-toolkit/"><u>2024 Approved  Unmatched Mobile/Web Image Magnification Toolkit</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-your-windows-11s-performance-on-5g-networks/"><u>Boosting Your Windows 11'S Performance on 5G Networks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-made-mobile-friendly-activating-and-utilizing-ai-conversations-on-android-and-ios-platforms/"><u>ChatGPT Made Mobile-Friendly: Activating and Utilizing AI Conversations on Android & iOS Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/guide-to-premium-podcasting-top-mic-picks-for-2024/"><u>Guide to Premium Podcasting  Top Mic Picks for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-delving-into-filmoras-appeal-its-essential-10-features/"><u>In 2024, Delving Into Filmora's Appeal  Its Essential 10 Features</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>In 2024, Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>In 2024, Streamline Your Cloud Strategy  Expert Recommendations for Top 20 Free Providers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tutorial-guide-to-fade-out-music-in-premiere-pro/"><u>In 2024, Tutorial Guide To Fade Out Music In Premiere Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>In 2024, Unlocking Visuals  Detailed Guide to Hero5 Black Proficiency</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-the-upcoming-playstation-5s-release-timing-cost-analysis-news-highlights-and-hardware-features/"><u>Inside the Upcoming PlayStation 5S: Release Timing, Cost Analysis, News Highlights, and Hardware Features</u></a></li>
-<li><a href="https://extra-support.techidaily.com/introduce-audible-elements-seamlessly-to-premiere-pro-for-2024/"><u>Introduce Audible Elements Seamlessly to Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/keyframe-kinetics-collections-for-2024/"><u>Keyframe Kinetics Collections for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-strategies-for-fixing-guided-access-glitches-on-ios-devices/"><u>Step-by-Step Strategies for Fixing Guided Access Glitches on iOS Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-gathering-free-photo-display-videos-for-2024/"><u>The Art of Gathering Free Photo Display Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-most-innovative-5k-screens-ranked-8-for-2024/"><u>The Most Innovative 5K Screens Ranked #8 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>The Stream Reversal Manual  An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tomorrows-reflection-varied-solutions-for-2024/"><u>Tomorrow’s Reflection  Varied Solutions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-free-video-players-vlc-or-mpc-winner-in-2024/"><u>Top 5 Free Video Players  VLC or MPC Winner, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-spectrum-simple-fixes-for-perfect-photoshop-palette-adjustments-for-2024/"><u>Unveiling the Spectrum  Simple Fixes for Perfect Photoshop Palette Adjustments for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/using-inshot-for-laptoppc-and-other-video-editing-alternatives-for-2024/"><u>Using Inshot for Laptop/PC and Other Video Editing Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-from-basics-to-blockbusters-building-an-audience-on-gaming-channels/"><u>[New] 2024 Approved From Basics to Blockbusters Building an Audience on Gaming Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-charting-your-financial-course-the-3-step-methodology-for-estimating-youtube-income-for-2024/"><u>[Updated] Charting Your Financial Course The 3-Step Methodology for Estimating YouTube Income for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-create-youtube-channel-in-mobile-personal-and-business-for-2024/"><u>[Updated] How to Create YouTube Channel in Mobile [Personal & Business] for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-crafting-compelling-obs-livestreams-for-facebook-fans/"><u>[Updated] In 2024, Crafting Compelling OBS Livestreams for Facebook Fans</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-professional-tricks-for-youtube-audio-amplification-for-2024/"><u>[Updated] Professional Tricks for YouTube Audio Amplification for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-hyper-scape-pc-crashes-step-by-step-troubleshooting-guide/"><u>Fixing Hyper Scape PC Crashes: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y55s-5g-2023-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y55s 5G (2023) Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-get-and-set-up-microsofts-xp-video-editor-installer/"><u>In 2024, Get & Set Up Microsoft's XP Video Editor Installer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-steps-to-overcome-latency-and-reduce-ping-issues-in-valorant-gaming/"><u>Resolved: Steps to Overcome Latency & Reduce Ping Issues in VALORANT Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/snapdragon-challenges-apples-silicon-qualcomm-demonstrates-x-series-power/"><u>Snapdragon Challenges Apple's Silicon: Qualcomm Demonstrates X Series Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-retrieving-icons-from-windows-executable-files/"><u>Step-by-Step Guide to Retrieving Icons From Windows Executable Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-running-a-windows-11-laptop-in-sleep-mode-while-closed-for-extended-use/"><u>Step-by-Step Guide: Running a Windows 11 Laptop in Sleep Mode While Closed for Extended Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-quicktime-the-complete-guide-to-apples-media-player/"><u>Understanding QuickTime: The Complete Guide to Apple's Media Player</u></a></li>
 </ul></div>
+

@@ -1,34 +1,23 @@
 ---
 title: "Cookiebot-Driven Analytics: Elevate Your Site's User Experience & Conversion Rates"
-date: 2024-09-06T23:23:52.117Z
-updated: 2024-09-07T23:23:52.117Z
+date: 2024-09-12T07:20:16.567Z
+updated: 2024-09-13T07:20:16.567Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb2511c6882fb283e99f7aa6165.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cookiebot-Driven Analytics: Elevate Your Site's User Experience & Conversion Rates
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 新型コロナウィルス（新データ）：悪い業務プロセスの従業員への影響
 
 ###### Bruce Orcutt
@@ -36,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 1月21日, 2021
 
 ![Blog Cover Image | ABBYY Blog Post](https://static1.abbyy.com/abbyycommedia/30442/12447_blog-cover-image_848х444_3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 新型コロナウィルスが職場に与える影響については、多くのことを耳にしました。在宅勤務への移行、健康と安全を心配する従業員への感情的な犠牲、学齢期の子供たちの遠隔教育のやりくりなどです。 そして、新しい日常のルーチンに落ち着くと、職場で別の課題が明らかになりました。それは「悪い業務プロセス」です。
 
@@ -48,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 驚いたのは、職場の課題に対するもう1つの主要な要因がプロセスであったことです。 効率性、コンプライアンス、そして、より良いビジネス成果を促進するために業務プロセスが用意されていることには、ほとんどの人が同意します。しかしながら、回答者のほぼ半数（48％）が、業務プロセスが仕事をより困難にした、つまり不十分であると非難し、それを理由に4人に1人が仕事を辞めたいと考えています。 別の36％は、プロセスが時間を無駄にし、プロセスを使えなくしたと述べています。
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### では、プロセスは従業員の仕事にどのように悪影響を及ぼしますか？ そして、これに対処するために何ができるでしょうか？
 
 答えは、多くの組織が、人々がシステム、アプリケーションと対話しながら異常値のイベントを処理するような方法ではなく、どうプロセスが流れるべきかの考えに基づいてプロセスを開発することにあります。 業務内の複数のプロセスを分析し、業務オペレーションと業務プロセスのデジタルプロセスモデル（「デジタルツイン」）を提供できる[プロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/)を活用して、ABBYYはこの問題を解決します。
@@ -64,11 +61,12 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 ![COVID Impact on Business, Employees](https://static1.abbyy.com/abbyycommedia/30408/abbyy-global-covid-technology-survey_us_1200x628.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 従業員がタスクを実行する方法を監視することは、タスクマイニングと呼ばれる、プロセスインテリジェンスの初期のカテゴリのものにあたります。 タスクマイニングを使用すると、ユーザの操作を収集して分析することにより、どのようにタスクをやりくりしているのかを理解できます。 このような深い理解は、プロセスを自動化、そして改善するのに役立ちます。 タスクマイニングはプロセスマイニングと類似していますが、システムのログファイルやビジネス指標ではなく、ユーザとアプリとの相互やり取りのデータを使用してプロセスを分析します。 [ABBYY Task Mining（英語版）](https://tools.techidaily.com/abbyy/products/) は、デスクトップ上のユーザインタラクションデータ（ユーザとアプリとの相互やり取りデータ）を分析し、システムイベントデータからマイニング（取り出）されたプロセスの詳細とシームレスにリンクします。これにより、プロセスを遅くしている反復的で非効率的なタスクとタスクシーケンスを特定し、適切な場所にリソースを割り当て、解決することが可能となります。
 
 タスクマイニングへのアプローチは、従業員のパフォーマンスの一部としての行動（アクション）を監視することと混同されることが多いですが、最適なタスク実行パターンを明らかにして、従業員が反復性の高いタスクから離れ、より価値の高いタスクに集中できるようにすることを可能にします。また、タスクマイニングツールは、従業員がどのように作業しているか、どのように改善できるかを確認し、どの領域の自動化が従業員を支援できるかを特定するための個人の生産性を上げることを目的としたツールとして効果的に使用できます。たとえば、従業員がプログラムのメリットを実感できない場合、現在の計画で何時間失うか、またはそれが仕事の生産性にどのように悪影響を及ぼしているかを雇用主に示すことができます。
@@ -92,21 +90,23 @@ thumbnail: https://thmb.techidaily.com/f21de38b9a60edd6d3298db1bc5cbe93a61c6bb25
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Bruce Orcutt
 
 Vice President of Product Marketing at ABBYY
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### いいね！、シェア、再投稿
 
 シェア 
@@ -161,8 +161,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,47 +170,15 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comedy-gold-examining-the-goofy-vhs-experience/"><u>[New] 'Comedy Gold'  Examining the Goofy VHS Experience</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-seamless-timelapse-footage-with-ios-technology/"><u>[New] In 2024, Seamless Timelapse Footage with iOS Technology</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-self-verification-on-instagram-what-does-it-mean-for-us/"><u>[New] Self-Verification on Instagram - What Does It Mean for Us?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlining-avi-conversions-create-gifs-with-filmora-on-pcmac/"><u>[New] Streamlining AVI Conversions  Create GIFs with Filmora on PC/Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-audio-how-to-download-and-customize-whatsapp-tones-on-devices/"><u>[New] Tailoring Audio  How to Download & Customize WhatsApp Tones on Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-metaverse-brand-strategies/"><u>[New] The Essential Guide to Metaverse Brand Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-seamless-journey-of-filming-and-editing-haul-videos/"><u>[New] The Seamless Journey of Filming and Editing Haul Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-gear-for-tempo-tinkering-in-stories/"><u>[New] The Ultimate Gear for Tempo Tinkering in Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tips-for-embedding-music-in-social-media-videos/"><u>[New] Tips for Embedding Music in Social Media Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-premium-free-fb-imagemotion-graphics-builder/"><u>[Updated] 2024 Approved  Premium Free FB Image/Motion Graphics Builder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-from-basic-to-brilliant-top-10-pixlr-techniques/"><u>[Updated] From Basic to Brilliant  Top 10 Pixlr Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>[Updated] The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-nine-game-streaming-haven-explored/"><u>[Updated] Top Nine Game Streaming Haven Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>[Updated] Transform Your Photos  Mastering Time Lapse with Samsung Mobile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>[Updated] Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-method-for-combining-gopro-footage-with-full-spherical-vids/"><u>2024 Approved  Advanced Method for Combining GoPro Footage with Full Spherical Vids</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-gaming-without-limits-screen-recorder-alternatives-explained/"><u>2024 Approved  Gaming Without Limits  Screen Recorder Alternatives Explained</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-sleep-well-with-asmr-techniques-and-tips/"><u>2024 Approved  Sleep Well with ASMR Techniques and Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-identifying-lowest-cloud-data-rates/"><u>2024 Approved  Strategies for Identifying Lowest Cloud Data Rates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-satire-picture-styler/"><u>2024 Approved  Superior Satire Picture Styler</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-route-for-finding-visual-gold-on-pexels/"><u>2024 Approved  The Essential Route for Finding Visual Gold on Pexels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>2024 Approved  The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-to-use-game-soundtracks-online/"><u>2024 Approved  Top 10 Free-to-Use Game Soundtracks Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-secrets-with-enhanced-scopes-in-roblox-games/"><u>2024 Approved  Unveiling Secrets with Enhanced Scopes in Roblox Games</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-collection-of-the-most-engrossing-amusing-ig-accounts-for-2024/"><u>A Collection of The Most Engrossing, Amusing IG Accounts for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung Galaxy A05s?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conducting-a-cross-platform-playlist-symphony-for-2024/"><u>Conducting a Cross-Platform Playlist Symphony for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-8-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Google Pixel 8 Phone without Any Data Loss</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-6s-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 6s when Phone is Broken?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-iphone-multitasking-how-to-toggle-pip-on-youtube-app/"><u>In 2024, Master iPhone Multitasking  How to Toggle PIP on YouTube App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-skype-soundtrack-hub-finding-the-right-tones-online/"><u>In 2024, Skype Soundtrack Hub  Finding the Right Tones Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-revision-efficient-erasing-techniques-in-psx/"><u>In 2024, The Art of Revision  Efficient Erasing Techniques in PSX</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-increase-likes-on-your-tiktok-videos/"><u>In 2024, The Ultimate Checklist to Increase Likes on Your TikTok Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>In 2024, Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-translating-megabits-to-seconds-a-20-video-challenge/"><u>In 2024, Translating Megabits to Seconds  A 20-Video Challenge</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-multi-app-playlists-synchronization-secrets/"><u>In 2024, Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-complexities-of-music-licensing-on-instagram/"><u>In 2024, Unraveling the Complexities of Music Licensing on Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leverage-with-these-free-video-teasers-for-2024/"><u>Leverage with These Free Video Teasers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quick-fixes-to-keep-your-photos-app-fixed-on-win-11/"><u>Quick Fixes to Keep Your Photos App Fixed on Win 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/snapcutxp-review-complete-evaluation-of-video-editing-software-for-2024/"><u>SnapCutXp Review – Complete Evaluation of Video Editing Software for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-x100-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo X100 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbeatable-prices-for-top-budget-4k-cameras-(1000-for-2024/"><u>Unbeatable Prices for Top Budget 4K Cameras (<$1,000) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>[New] In 2024, Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-master-the-art-of-gameye-and-webcam-recordings/"><u>[Updated] In 2024, Master the Art of GamEye and WebCam Recordings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/achieve-superior-outcomes-mastering-dall-e-2-in-5-steps/"><u>Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/from-basic-snaps-to-spectacular-shots-snapchats-edits-for-everyone-for-2024/"><u>From Basic Snaps to Spectacular Shots Snapchat's Edits for Everyone for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-complete-guide-to-inverted-footage-in-instagram/"><u>In 2024, The Complete Guide to Inverted Footage in Instagram</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-eficientes-metodos-para-instalar-el-complemento-de-codec-av1-en-windows-11/"><u>Top 3 Eficientes Métodos Para Instalar El Complemento De Códec AV1 en Windows 11</u></a></li>
 </ul></div>
+

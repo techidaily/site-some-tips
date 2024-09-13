@@ -1,24 +1,12 @@
 ---
 title: Enhanced Website Analytics Through the Innovative Use of CookieBot Technology
-date: 2024-09-06T23:23:52.373Z
-updated: 2024-09-07T23:23:52.373Z
+date: 2024-09-12T07:20:34.954Z
+updated: 2024-09-13T07:20:34.954Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d27bd20369a0206f3a047b7bb4f9e0b9ec6c2aca32544460f90baebbc95c9231.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enhanced Website Analytics Through the Innovative Use of CookieBot Technology
 
 1234567891011/ 11100%实际尺寸适合宽度适合高度适合页面自动介绍杂志连续的
@@ -42,8 +30,6 @@ November 2023, IDC #US49988723e IDC MarketScape IDC MarketScape: Worldwide Intel
 ©2023 IDC #US49988723e 9 IDC MarketScape Methodology IDC MarketScape criteria selection, weightings, and vendor scores represent well-researched IDC judgment about the market and specific vendors. IDC analysts tailor the range of standard characteristics by which vendors are measured through structured discussions, surveys, and interviews with market leaders, participants, and end users. Market weightings are based on user interviews, buyer surveys, and the input of IDC experts in each market. IDC analysts base individual vendor scores, and ultimately vendor positions on the IDC MarketScape, on detailed surveys and interviews with the vendors, publicly available information, and end-user experiences in an effort to provide an accurate and consistent assessment of each vendor’s characteristics, behavior, and capability. Market Definition IDC outlines the definition and location of these submarkets as part of IDC’s Worldwide Software taxonomy (for more information see IDC’s Worldwide Software Taxonomy, 2023, IDC #US50513623, April 2023): ▪ Capture applications convert unstructured data to structured information that can be passed to another enterprise application and/or consumed by a downstream task or process. These applications may increasingly use embedded AI software services, such as entity recognition/extraction and image recognition. ▪ Document understanding AI software uses embedded technologies from the conversational AI and computer vision AI tools submarkets such as computer vision, natural language processing (NLP), ontologies, and language analysis for harvesting intelligence from scanned documents and/or images of documents. Documents are often unstructured, which means the content’s location or format may vary between two otherwise similar forms. Vendors deploying document understanding AI technologies are increasingly investigating and integrating generative AI (GenAI) and large language models (LLMs) to help deliver additional software features and capabilities including semantic understanding, document querying, and advanced entity extraction. LEARN MORE Related Research ▪ Market Analysis Perspective: Worldwide Document Understanding AI Software, 2023 (IDC #US51220023, September 2023) ▪ Worldwide Intelligent Document Processing Market Shares, 2022: Document AI Drives Market Growth (IDC #US49993023, July 2023) ▪ Worldwide Intelligent Document Processing Software Forecast, 2023–2027 (IDC #US50254123, July 2023) ▪ IDC TechBrief: Future of Work — Intelligent Document Processing (IDC #US50824423, June 2023) ▪ Intelligent Document Processing: Using AI to Reimagine the Document and Improve Content Accessibility and Usage (IDC #US50618723, May 2023) ▪ IDC MaturityScape Benchmark: Content-Centric Workflow 2.0 in the United States, 2023 (IDC #US50426223, May 2023) 
 
 ©2023 IDC #US49988723e 10 Synopsis This IDC study represents a vendor assessment of the intelligent document processing market through the IDC MarketScape model. This assessment discusses both quantitative and qualitative characteristics that explain success in the IDP market. This IDC MarketScape covers a variety of vendors participating in the IDP space. The evaluation is based on a comprehensive and rigorous framework that assesses vendors relative to the criteria and to one another and highlights the factors expected to be the most influential for success in the market in both the short term and the long term. “This extensive IDC MarketScape study aims to help technology buyers understand the complexity and nuances of the ever-changing IDP software vendor landscape,” said Matt Arcaro, research director of IDC’s Computer Vision AI Tools and Technology research program. “Although at the topmost level many approaches and technologies seem very similar, there are often subtle vendor differences that ultimately impact the success of deployment or solution fit. IDC has tried to capture some of these differences, nuances, as well as competitive differentiation within the outputs and rigor of this study.” “It is an exciting time for companies looking to convert their business-critical unstructured documents into structured, centralized data resources whose insights are tied directly into downstream systems and processes/workflows,” said Amy Machado, research manager of IDC’s Enterprise Content and Knowledge Strategies research program. “With the breadth of offerings and leaps made in the last year with GenAI, buyers have many options to fulfill their IDP needs, and this study will help them find the right partner.” 
-
-
 
 0/0
 
@@ -73,21 +59,11 @@ November 2023, IDC #US49988723e IDC MarketScape IDC MarketScape: Worldwide Intel
 
 [![Created with BuildVu](https://www.abbyy.com/buildvu-logo.png)](https://www.idrsolutions.com/online-pdf-to-html-converter)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -98,35 +74,26 @@ November 2023, IDC #US49988723e IDC MarketScape IDC MarketScape: Worldwide Intel
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-broadcast-battle-royale-deciding-between-vmix-and-wirecast-for-2024/"><u>[New] Broadcast Battle Royale  Deciding Between VMix and Wirecast for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-seamless-content-consumption-configuring-pip-for-youtube-on-iphone/"><u>[New] Seamless Content Consumption  Configuring PIP for YouTube on iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-cutting-edge-professional-cameras-a-360-overview-2023/"><u>[New] The Cutting-Edge Professional Cameras - A 360° Overview, 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-through-virtual-lenses-a-historical-view/"><u>[New] Through Virtual Lenses  A Historical View</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[New] Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-amplifying-your-video-presence-with-seo-tips-for-2024/"><u>[Updated] Guide to Amplifying Your Video Presence with SEO Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-liberating-laughter-through-limitations-funniest-facebook-detainment-tales/"><u>[Updated] In 2024, Liberating Laughter Through Limitations  Funniest Facebook Detainment Tales</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-seamless-integration-combining-b-roll-and-main-scenes/"><u>[Updated] Seamless Integration  Combining B-Roll and Main Scenes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-securing-product-sponsors-on-youtube/"><u>[Updated] Strategies for Securing Product Sponsors on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-editors-ally-smooth-operation-in-m1-with-top-tools/"><u>[Updated] The Editor's Ally  Smooth Operation in M1 with Top Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>[Updated] The Seamless Media Magic  Turning XML, SSA Into Dynamic SRTs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[Updated] Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unwrapping-utopia-creating-magical-unboxing-moments/"><u>[Updated] Unwrapping Utopia  Creating Magical Unboxing Moments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-tactics-from-experts-a-journey-of-online-brand-growth/"><u>2024 Approved  Top 5 Tactics From Experts  A Journey of Online Brand Growth</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-podcast-rankings-and-visibility/"><u>2024 Approved  Transformative Strategies for Podcast Rankings and Visibility</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-turn-your-tactical-talks-into-a-thriving-youtube-trade/"><u>2024 Approved  Turn Your Tactical Talks Into a Thriving YouTube Trade</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/brother-printer-not-working-solve-it-in-win1011/"><u>Brother Printer Not Working? Solve It in Win10/11</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/discover-fresh-windows-10-gaming-and-application-delights/"><u>Discover Fresh Windows 10 Gaming & Application Delights</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/everyday-moments-epic-movies-the-power-of-video-editing-for-2024/"><u>Everyday Moments, Epic Movies The Power of Video Editing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tunetracker-outside-of-dacast-realm/"><u>In 2024, TuneTracker  Outside of DaCast Realm</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/next-level-entertainment-the-rise-of-vr-applications/"><u>Next-Level Entertainment  The Rise of VR Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-video-editing-on-windows-11s-movie-maker-for-2024/"><u>Streamlining Video Editing on Windows 11'S Movie Maker for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-audio-modification-software-with-enchanting-features-for-2024/"><u>Superior Audio Modification Software with Enchanting Features for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/taking-your-photo-skills-to-new-heights-creating-timelapse-footage-with-gopro-studio-for-2024/"><u>Taking Your Photo Skills to New Heights  Creating Timelapse Footage with GoPro Studio for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-complete-youtubers-guide-to-editing-in-premiere-pro/"><u>The Complete Youtuber's Guide to Editing in Premiere Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-asus-chromebook-c202sa-a-student-and-kids-durable-tech-partner/"><u>The Ultimate Guide to Asus Chromebook C202SA - A Student and Kid's Durable Tech Partner</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-creating-flawless-passport-photos-for-free-for-2024/"><u>The Ultimate Guide to Creating Flawless Passport Photos for Free for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Redmi Note 12T Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-gratis-lut-files-comprehensive-analysis-and-downloads-for-2024/"><u>Top 10 Gratis LUT Files - Comprehensive Analysis & Downloads for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-platforms-for-free-skype-ringtones-for-2024/"><u>Top 4 Platforms for Free Skype Ringtones for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-insta-authenticity-your-selfie-verification-journey-for-2024/"><u>Unlocking Insta Authenticity  Your Selfie Verification Journey for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-google-translate-for-superior-speech-to-text/"><u>[New] In 2024, Navigating Google Translate for Superior Speech-to-Text</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-broadcasters-dilemma-opt-for-wirecast-or-obs/"><u>[Updated] Broadcaster's Dilemma Opt for Wirecast or OBS?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-identifying-the-top-12-easiest-to-use-flip-screen-cams/"><u>[Updated] Identifying the Top 12 Easiest to Use Flip Screen Cams</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-audio-precision-microsoft-enhances-speech-clarity-across-additional-personal-computers/"><u>Advancing Audio Precision: Microsoft Enhances Speech Clarity Across Additional Personal Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-your-playstation-5-dualsense-controller-with-windows-11-a-step-by-step-guide/"><u>Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-windows-11-govt-version-insights-and-reasons-to-think-twice-before-choosing-it/"><u>Decoding Windows 11 Govt. Version - Insights & Reasons to Think Twice Before Choosing It.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/direct-line-to-assistance-how-to-contact-snapchat-customer-service-efficiently/"><u>Direct Line to Assistance: How to Contact Snapchat Customer Service Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-arc-browser-newly-released-for-windows-10-users/"><u>Download Arc Browser: Newly Released for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easily-adjust-apples-settings-guide-to-disabling-natural-mouse-scrolling-on-macos/"><u>Easily Adjust Apple's Settings: Guide to Disabling Natural Mouse Scrolling on macOS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-x7b-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor X7b FRP Locks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-filters-for-safe-browsing/"><u>Mastering Windows Filters for Safe Browsing</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-step-by-step-guide-to-getting-baldurs-gate-3-running-smoothly/"><u>Success! Step-by-Step Guide to Getting Baldur's Gate 3 Running Smoothly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transforming-your-mac-a-step-by-step-guide-to-using-windows-compatible-keyboards-mice-and-trackballs/"><u>Transforming Your Mac: A Step-by-Step Guide to Using Windows-Compatible Keyboards, Mice, and Trackballs</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

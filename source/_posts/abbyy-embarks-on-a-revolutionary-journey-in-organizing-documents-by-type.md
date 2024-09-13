@@ -1,28 +1,23 @@
 ---
 title: ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type
-date: 2024-09-06T23:23:51.509Z
-updated: 2024-09-07T23:23:51.509Z
+date: 2024-09-12T07:19:29.655Z
+updated: 2024-09-13T07:19:29.655Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f2561431aa2bb888dda851d0.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Enters New Path in Document Classification
 
 January 12, 2017
@@ -30,11 +25,12 @@ January 12, 2017
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### _Now available in Western Europe: New language-based ABBYY Smart Classifier helps businesses to get a grip on big content, sort unstructured information and turn it into action_ 
 
 ABBYY®, a leading provider of technologies and solutions to action information today announced the availability of ABBYY Smart Classifier on the European market. The new product enables businesses to leverage and act on complex, unstructured information by delivering highly accurate document classification. Based on Compreno®, ABBYY’s innovative natural language processing (NLP) technology, Smart Classifier quickly organises large repositories of documents according to both statistic and semantic analysis of content. Once classified, information is ready for search and retrieval, automated routing, intelligent data extraction and decision-making.
@@ -76,8 +72,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -87,54 +81,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-psp-emulator-ios-top-5-picks-on-2023/"><u>[New] 2024 Approved  PSP Emulator iOS  Top 5 Picks on 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-how-to-and-where-download-unboxing-video-background-music/"><u>[New] How To & Where Download Unboxing Video Background Music</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ultimate-list-of-top-hashtag-tracker-tools-fb-twitter-insta/"><u>[New] In 2024, Ultimate List of Top Hashtag Tracker Tools (FB, Twitter, Insta)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-logic-pro-method-to-gradually-reduce-audio-levels/"><u>[New] Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-presence-optimal-obs-use-on-facebook-feed/"><u>[New] Streamline Your Presence  Optimal OBS Use on Facebook Feed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[New] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-editors-archive-curating-timeless-vhs-effects-for-the-digital-age/"><u>[New] The Editor's Archive  Curating Timeless VHS Effects for the Digital Age</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[New] The Next Wave of Social Media  Top Apps as Periscope Alternates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transforming-visuals-a-complete-guide-to-video-enhancer-22/"><u>[New] Transforming Visuals  A Complete Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-instagram-stardom-crafting-attractive-unboxing-videos/"><u>[New] Unlock Instagram Stardom  Crafting Attractive Unboxing Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-20-best-twitter-unfollowers-and-tools/"><u>[Updated] In 2024, Top 20 Best Twitter Unfollowers & Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-best-practice-manual-for-text-on-picture-edits/"><u>[Updated] The Best Practice Manual for Text-on-Picture Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] The Least Expensive SkyVault Service for Big Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>[Updated] The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-smooth-imports-in-windows-10-os/"><u>[Updated] Unlocking the Secrets to Smooth Imports in Windows 10 OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-podcast-rss-mastery/"><u>[Updated] Unveiling the Art of Podcast RSS Mastery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-elevated-visuals-selecting-the-right-card/"><u>2024 Approved  Elevated Visuals  Selecting the Right Card</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovation-at-hand-creating-3d-textures-with-photo/"><u>2024 Approved  Innovation at Hand  Creating 3D Textures with PHOTO</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-optimal-quick-image-reader-for-pcs/"><u>2024 Approved  Optimal Quick Image Reader for PCs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved  Pioneering Editing  Snapseed for the Newcomer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>2024 Approved  Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-pcs-for-serious-workers/"><u>2024 Approved  Superior PCs for Serious Workers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved  The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>2024 Approved  The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved  The Ultimate Drone Journey  Full Phantom 4 Features Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>2024 Approved  The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved  The Ultimate VSCO Photo Workflow Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-replay-magic-stream-control-secrets/"><u>2024 Approved  Twitch Replay Magic  Stream Control Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>2024 Approved  Ultimate Metaverse VR Gear List  Top 8 Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved  Unleashing Creative Stories  Zoom Techniques on Snapchat</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cracking-down-on-code-224003-unlock-your-stuck-videos/"><u>Cracking Down on Code 224003 - Unlock Your Stuck Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-nonfunctional-camera-on-your-hp-laptop-running-windows-aturate-with-an-active-and-dynamic-atmosphere/"><u>Fixing a Nonfunctional Camera on Your HP Laptop Running Windows Aturate with an Active and Dynamic Atmosphere</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone X without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-podcasts-starts-with-smart-name-generation/"><u>In 2024, The Future of Podcasts Starts with Smart Name Generation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>In 2024, The Ultimate Check  DJi FPV Drone Spectacles' Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-stunning-hdr-portraits/"><u>In 2024, The Ultimate Path to Stunning HDR Portraits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unleashing-screen-content-with-zdsofts-magic/"><u>In 2024, Unleashing Screen Content with ZDSoft's Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential  10+ LUT Samples, Some at Zero Cost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-your-amazon-firestick-the-ultimate-guide-to-syncing-the-perfect-remote/"><u>Mastering Your Amazon Firestick: The Ultimate Guide to Syncing the Perfect Remote</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/overcoming-intel-driver-errors-mastering-the-art-of-installing-dptf-drivers-effortlessly/"><u>Overcoming Intel Driver Errors: Mastering the Art of Installing DPTF Drivers Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-catch-up-effective-methods-for-skipping-edgenuity-courses-for-2024/"><u>Quick Catch-Up  Effective Methods for Skipping Edgenuity Courses for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-nord-3-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Nord 3 5G FRP</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-revolution-of-perception-in-augmented-realms-for-2024/"><u>The Revolution of Perception in Augmented Realms for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-scriptsmiths-network-for-2024/"><u>Ultimate Scriptsmiths Network for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-the-best-android-photo-editor-does-picku-stand-out-in-2024/"><u>Uncover the Best Android Photo Editor – Does PickU Stand Out, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-expenses-in-music-video-creation-for-2024/"><u>Understanding Expenses in Music Video Creation for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity  Bypassing Background in Photopea for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams  Overcoming Premiere's Export Hurdle for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-audio-silencing-for-clearer-videographies-freepremium-for-2024/"><u>[New] Audio Silencing for Clearer Videographies (Free/Premium) for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-navigate-meeting-arrangements-with-zoom-ease/"><u>[New] Navigate Meeting Arrangements with Zoom Ease</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/hitman-series-finale-examined-flawless-endgame/"><u>Hitman Series Finale Examined: Flawless Endgame</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-picking-between-filmora-and-democracy-creator-for-edits/"><u>In 2024, Picking Between Filmora and Democracy Creator for Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-essential-steps-for-optimizing-your-new-windows-pc/"><u>Top 8 Essential Steps for Optimizing Your New Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-innovative-and-poignant-soundscapes-paving-the-path/"><u>Updated In 2024, Innovative and Poignant Soundscapes Paving the Path</u></a></li>
 </ul></div>
+

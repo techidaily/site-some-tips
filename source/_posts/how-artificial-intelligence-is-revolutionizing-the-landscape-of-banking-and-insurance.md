@@ -1,28 +1,23 @@
 ---
 title: How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
-date: 2024-09-06T23:23:49.792Z
-updated: 2024-09-07T23:23:49.792Z
+date: 2024-09-12T07:17:16.088Z
+updated: 2024-09-13T07:17:16.088Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988bda1b4b5ab8aef4726e226b5.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Thrive in a Post-COVID World: The Future of Financial Institutions and Insurance Organizations
 
 ###### Eileen Potter
@@ -32,11 +27,12 @@ April 23, 2021
 ![](https://static1.abbyy.com/abbyycommedia/33505/buyers-contactless-payment-new.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The pandemic forced financial institutions and insurance organizations to make overnight changes in how they operated, and for two industries not known for speed in adapting to change—or changing processes on the fly—this proved that they can be nimble when they need to be. It was almost like these established organizations had an overnight shift in culture, trading in their suits and ties for hoodies to become more accessible and focused on customer experience.
 
 Many of the operational changes exposed gaps in existing digital capabilities, and some of these changes—like the shift to remote work and virtual customer engagement—appear to be settling in as the new normal.
@@ -45,6 +41,13 @@ According to a recent McKinsey study: [Fully 75% of people using digital channel
 
 ![thrive in a post covid world](https://static1.abbyy.com/abbyycommedia/32815/fintech-insurtech-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 While both industries were able to survive this year by making temporary fixes to processes so customer service wouldn’t suffer, it has become clear that there is a significant need to accelerate digital adoption and enhance virtual operations, finding better and more permanent solutions to address those gaps.
 
 As part of a recent presentation we gave at [OPEX Financial Services](https://www.processexcellencenetwork.com/events-opex-in-financial-services/), my colleague, Cheryl Chiodi, and I put together a Venn Diagram to illustrate what we called “The Intersection of Financial Services and Insurance.” And the areas in common are exactly why both need to reset, reinvest, and reimagine their business operations to compete with Fintechs and Insurtechs, so they can be ready for what is next—and what will be the next after that—whatever that is.
@@ -52,11 +55,12 @@ As part of a recent presentation we gave at [OPEX Financial Services](https://ww
 ![intersection of financial services and insurance](https://static1.abbyy.com/abbyycommedia/32811/intersection-of-financial-services-and-insurance.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 So, how can established organizations in both industries thrive going forward? Here are three of the main challenges we see, and some of the ways organizations can respond:
 
 #### Increasing customer expectations
@@ -64,6 +68,19 @@ So, how can established organizations in both industries thrive going forward? H
 It would not be an overstatement to say that customers have an expectation of now—and that their expectations are being set by their last, best digital experience. The time of rushing over to a bank branch or insurance office during “business hours” is long over, and hours of operation are no longer being set by the bank or the insurance company, but by the customer. They want to be able to communicate using their channel and device of choice, and they expect faster response times for policy quotes, claims settlement, and credit decisions. Streamlined account opening and onboarding are table stakes.
 
 ![improve customer experience with artificial intelligence](https://static1.abbyy.com/abbyycommedia/32423/b-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Forward-thinking organizations can facilitate this digital engagement with [Process Intelligence](https://tools.techidaily.com/abbyy/products/), enabling them to personalize the customer journey and help to ensure customer loyalty.
 
@@ -87,20 +104,15 @@ It’s not exactly breaking news to talk about how much the business landscape f
 
 ![](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Eileen Potter
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -155,8 +167,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,42 +176,15 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-stir-to-screen-masterful-cooking-videos-for-2024/"><u>[New] From Stir to Screen  Masterful Cooking Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-companion-for-a-seamless-instagram-video-journey/"><u>[New] In 2024, The Ultimate Companion for a Seamless Instagram Video Journey</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-innovate-with-spinning-images-iphone-filming-tactics-for-2024/"><u>[New] Innovate with Spinning Images  IPhone Filming Tactics for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-online-gif-conversion-for-videos-top-5/"><u>[New] Streamlined Online GIF Conversion for Videos (Top 5)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>[New] The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-auditory-transitions/"><u>[New] The Key to Smooth Auditory Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-pathway-to-delicate-audible-reduction-within-lumafusion/"><u>[New] The Pathway to Delicate Audible Reduction Within Lumafusion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>[New] The Pro's Choice  A List of 17 Superior Video-to-Text Converters</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/op-picks-7-exceptional-android-adblocking-apps/"><u>[New] Top Picks  7 Exceptional Android AdBlocking Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-an-insiders-take-on-instagram-highlights/"><u>[Updated] An Insider's Take on Instagram Highlights</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-best-and-free-facebook-picture-video-maker-for-2024/"><u>[Updated] Best And Free Facebook Picture Video Maker for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-final-cuts-ultimate-10-plug-in-essentials-list/"><u>[Updated] Final Cut's Ultimate 10 Plug-In Essentials List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-shadowing-secrets/"><u>[Updated] Swift Shadowing Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-switch-to-picture-in-picture-for-youtube-videos-on-iphones/"><u>[Updated] Switch to Picture-in-Picture for YouTube Videos on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-into-simple-hdr-imaging/"><u>[Updated] Thorough Investigation Into Simple HDR Imaging</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-timeless-1980s-filters-and-techniques-in-editing/"><u>[Updated] Timeless 1980S Filters & Techniques in Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tools-that-enhance-your-travel-videos/"><u>[Updated] Tools That Enhance Your Travel Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>[Updated] Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-lut-applications-in-ae/"><u>2024 Approved  Mastering LUT Applications in AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations/"><u>2024 Approved  Unveiling the Hidden Truths Behind VR's Advantages and Limitations</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-12-websites-for-watching-movies-at-no-charge/"><u>Discover the Top 12 Websites for Watching Movies at No Charge</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-ideal-mac-companion-mouse/"><u>Explore the Ideal Mac Companion Mouse</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/how-to-start-join-or-schedule-a-zoom-meeting-android-for-2024/"><u>How to Start, Join, or Schedule a Zoom Meeting Android for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-elevating-your-itunes-media-library-with-recordings/"><u>In 2024, Elevating Your iTunes Media Library with Recordings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synthesize-sounds-and-images-in-ppts/"><u>In 2024, Synthesize Sounds and Images in PPTS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>In 2024, The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-affordable-cloud-space-best-of-the-20/"><u>In 2024, The Ultimate Guide to Affordable Cloud Space  Best of the 20</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-full-potential-in-the-metaverse/"><u>In 2024, Unleash Your Full Potential in the Metaverse</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>In 2024, Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-xbox-experience-with-video-capture-techniques/"><u>In 2024, Unlocking Xbox Experience with Video Capture Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-update-tackles-previous-server-connections-errors-in-mlb-the-show-2021/"><u>Latest Update Tackles Previous Server Connections Errors in MLB The Show 2021</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/recovering-degraded-mobile-video-files/"><u>Recovering Degraded Mobile Video Files</u></a></li>
-<li><a href="https://games-able.techidaily.com/revolutionary-gpd-win-4-for-gamers-and-pros/"><u>Revolutionary GPD Win 4 for Gamers & Pros</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-tiktok-experience-with-new-user-numbers-for-2024/"><u>Transform Your TikTok Experience with New User Numbers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-top-5-elite-slow-camera-systems-for-2024/"><u>Unveiling the Top 5 Elite Slow Camera Systems for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-multimodal-media-mastery-integrating-audio-into-video-projects-today/"><u>Updated 2024 Approved Multimodal Media Mastery Integrating Audio Into Video Projects Today</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-iphoneandroids-best-5-multimedia-capturing-apps-reviewed/"><u>[New] 2024 Approved IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pitch-preservation-monitoring-microphones/"><u>[New] In 2024, Pitch Preservation Monitoring Microphones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-sharpen-your-content-for-unlimited-youtube-exposure/"><u>[Updated] Sharpen Your Content for Unlimited YouTube Exposure</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-manual-for-modifying-cover-images/"><u>[Updated] The Complete Manual for Modifying Cover Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>In 2024, Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-pro-now-full-software-package-available-for-download/"><u>Update Your HP OfficeJet Pro 지정기 드라이버 Now – Full Software Package Available for Download</u></a></li>
 </ul></div>
+

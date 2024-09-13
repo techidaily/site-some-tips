@@ -1,45 +1,48 @@
 ---
 title: "Cookiebot-Driven: Unleashing the Power of Personalized Tracking"
-date: 2024-09-06T23:23:49.431Z
-updated: 2024-09-07T23:23:49.431Z
+date: 2024-09-12T07:16:52.679Z
+updated: 2024-09-13T07:16:52.679Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f4673334fb3a900060d9f0bc.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Cookiebot-Driven: Unleashing the Power of Personalized Tracking
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 CASE STUDY | HEALTHCARE
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Manchester University NHS Foundation Trust Fully Automates Invoice Processing and Reduces Payment Risk
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/nhs-75-manchester-logo-white_120x40.png?h=38&iar=0&w=121)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Manchester University NHS Foundation Trust (MFT) is one of the largest acute trusts in the UK, operating 10 hospitals and employing over 20,000 staff. With smooth, reliable communication between ABBYY IDP and its ERP system, MFT has reduced invoice processing time and freed its staff to focus on other business-critical areas. 
 
 Adopting ABBYY IDP has resulted in an evolution of our function and our staff, expanding their skillset in a way that feels a lot more stable, with a tool they know is reliable and is pushing things in the right direction.
 
 Edd Berry, Director of Finance Innovation, Manchester University NHS Foundation Trust
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Challenge
 
@@ -53,11 +56,12 @@ MFT needed to find an IDP solution that could:
 * Reduce invoice validation and training time
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution
 
 ABBYY IDP identifies relevant invoice data, even in the most complex documents, with the highest accuracy. The RPA tool can now successfully pass it to the ERP system.
@@ -81,24 +85,12 @@ The consistent and reliable results achieved with invoice automation has given M
 
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### ABBYY Solutions for Accounts Payable Automation
 
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### PDF Version
 
 [Learn more](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/customer-story-intelligent-document-processing-healthcare-nhs-manchester-university-foundation-trust-en.pdf)
@@ -106,11 +98,25 @@ The consistent and reliable results achieved with invoice automation has given M
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ready to speak with an expert?
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -121,8 +127,6 @@ The consistent and reliable results achieved with invoice automation has given M
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,50 +136,17 @@ The consistent and reliable results achieved with invoice automation has given M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-an-impactful-online-presence-with-perfect-yt-dimensions/"><u>[New] Crafting an Impactful Online Presence with Perfect YT Dimensions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-hilarity-highway-the-funniest-youtube-videos-on-twitter/"><u>[New] Hilarity Highway  The Funniest YouTube Videos on Twitter</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-perfect-timeline-control-with-top-20-tweet-management-apps-for-2024/"><u>[New] Perfect Timeline Control with Top 20 Tweet Management Apps for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-perfecting-phone-screenshots-with-snapchat-for-2024/"><u>[New] Perfecting Phone Screenshots with Snapchat for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-rapid-video-capture-software-w-audible-commentaries/"><u>[New] Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>[New] The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-webinar-archiving/"><u>[New] The Ultimate Guide to Webinar Archiving</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-twitch-time-warp-strategies/"><u>[New] Twitch Time Warp Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-uncomplicated-strategy-for-fish-phonetics-tweaking/"><u>[New] Uncomplicated Strategy for Fish Phonetics Tweaking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-luts-to-amplify-your-photo-quality/"><u>[New] Understanding LUTs to Amplify Your Photo Quality</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-melodious-memories-capturing-songs-in-your-snaps/"><u>[Updated] 2024 Approved  Melodious Memories  Capturing Songs in Your Snaps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-craft-your-future-with-instagram-video-marketing-step-by-step-guide/"><u>[Updated] In 2024, Craft Your Future with Instagram Video Marketing  Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ultimate-listing-best-no-ad-android-recording-apps/"><u>[Updated] In 2024, Ultimate Listing  Best No-Ad Android Recording Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-allure-vs-warnings-of-virtual-reality-worlds/"><u>[Updated] The Allure vs Warnings of Virtual Reality Worlds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>[Updated] The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>[Updated] The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-creating-continuous-viewing-pleasure-on-television/"><u>2024 Approved  Creating Continuous Viewing Pleasure on Television</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>2024 Approved  Master Video Editing  Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed/"><u>2024 Approved  The Ultimate Resource  50+ No-Fee Visual Effects Websites Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>2024 Approved  Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-streaming-landscape-twitch-vs-youtube-compared/"><u>2024 Approved  Understanding the Streaming Landscape  Twitch Vs YouTube Compared</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-10-video-text-effects/"><u>2024 Approved  Unleash Creativity with These Top 10 Video Text Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-your-potential-with-periscope-broadcasts/"><u>2024 Approved  Unleash Your Potential with Periscope Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-creativity-free-animation-techniques/"><u>2024 Approved  Unlocking Creativity  Free Animation Techniques</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-motorola-g24-power-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Motorola G24 Power Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y78plus-t1-edition-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y78+ (T1) Edition is off? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-craft-a-compelling-narrative-with-your-igtv-video-titles-and-texts/"><u>In 2024, Craft a Compelling Narrative with Your IGTV Video Titles & Texts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>In 2024, Maximizing Your Influence  A Selection of Expert Instagram Analytics Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-subtly-dimming-your-computers-audio-output/"><u>In 2024, Subtly Dimming Your Computer's Audio Output</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>In 2024, Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-twitter-video-links-to-audio/"><u>In 2024, Transforming Twitter Video Links to Audio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-figmas-bg-elimination-mastery/"><u>In 2024, Unveiling Figma's BG Elimination Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>In 2024, Unveiling Immersion  The LG 360 Virtual Reality Experience</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/linkedin-luminaries-chatting-with-snapchat-for-2024/"><u>LinkedIn Luminaries Chatting with Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/iming-deleted-youtube-treasures-a-2-step-guide/"><u>Reclaiming Deleted YouTube Treasures  A 2-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-webcams-revolutionizing-podcast-recording-for-2024/"><u>Superior Webcams Revolutionizing Podcast Recording for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-invisible-recorder-how-to-save-online-music-streams-for-2024/"><u>The Invisible Recorder  How to Save Online Music Streams for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/tracing-the-paths-of-instagram-unfollows-for-2024/"><u>Tracing the Paths of Instagram Unfollows for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-collection-top-notch-free-meme-designs-for-2024/"><u>Ultimate Collection  Top-Notch FREE Meme Designs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-a-diy-guide-to-haul-edits-for-2024/"><u>Unleash Creativity with a DIY Guide to Haul Edits for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-google-chromes-pip-potential-on-all-platforms-for-2024/"><u>Unlocking Google Chrome's PIP Potential on All Platforms for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-vrs-immersive-visual-experience-for-2024/"><u>Unveiling VR's Immersive Visual Experience for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-free-clip-art-for-graphic-designs-for-2024/"><u>Utilizing Free Clip Art for Graphic Designs for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/xsplit-report-download-and-assessment-summary/"><u>XSplit Report  Download and Assessment Summary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-frugal-shopping-for-cheap-vr-headsets-china/"><u>2024 Approved Frugal Shopping for Cheap VR Headsets (China)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-navigating-the-secrets-of-funimate-download/"><u>2024 Approved Navigating the Secrets of Funimate Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adjusting-your-ubuntu-desktop-relocating-the-dock-side-panel/"><u>Adjusting Your Ubuntu Desktop: Relocating the Dock Side Panel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-correcting-helperdll-file-absent-messages/"><u>Comprehensive Guide on Correcting Helper.dll File Absent Messages</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-lenovo-x220-support-software-for-optimal-performance/"><u>Easy Installation of Lenovo X220 Support Software for Optimal Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-latest-features-of-the-16-gen-9-lenovo-legion-pro-7i-gaming-laptop-reviewed/"><u>Exploring the Latest Features of the 16 Gen 9 Lenovo Legion Pro 7I Gaming Laptop Reviewed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-total-war-warhammer-ii-system-errors/"><u>Resolved: Fixes for TOTAL WAR: WARHAMMER II System Errors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/secure-your-space-an-in-depth-review-of-arlos-advanced-home-surveillance-tech/"><u>Secure Your Space: An In-Depth Review of Arlo’s Advanced Home Surveillance Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-ai-with-windows-copilot-enable-and-harness-microsofts-intelligent-assistant-efficiently/"><u>Unlocking the Power of AI with Windows Copilot - Enable & Harness Microsoft’s Intelligent Assistant Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-natures-artistry-a-guide-to-apple-vision-pro-wonders-and-the-iconic-beauty-of-lake-vrangla/"><u>Unveiling Nature's Artistry: A Guide to Apple Vision Pro Wonders and the Iconic Beauty of Lake Vrangla</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-perplexity-your-ultimate-investment-in-an-exclusive-ai-chatbot/"><u>Unveiling Perplexity: Your Ultimate Investment in an Exclusive AI Chatbot</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+

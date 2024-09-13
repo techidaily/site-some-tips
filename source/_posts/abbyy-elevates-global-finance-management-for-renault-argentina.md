@@ -1,28 +1,23 @@
 ---
 title: ABBYY Elevates Global Finance Management for Renault Argentina
-date: 2024-09-06T23:23:51.130Z
-updated: 2024-09-07T23:23:51.130Z
+date: 2024-09-12T07:18:59.892Z
+updated: 2024-09-13T07:18:59.892Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Elevates Global Finance Management for Renault Argentina
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Revs Ups Renault Argentina SA’s Global Finance Operations
 
 October 08, 2020
@@ -30,11 +25,18 @@ October 08, 2020
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Renault Argentina SA, one of the oldest Renault operations in the world, is using ABBYY Digital Intelligence solutions to revitalize its finance operations. ABBYY completely digitized Renault’s invoice processing which includes complex invoices containing customs and foreign trade details in multiple languages and seamless integration into SAP ERP financial software.
 
 Renault Argentina SA’s CIO, Matias Ghirardi, commented, “Working with ABBYY was a rich experience, not only because we could truly improve and simplify several processes within the company but also because they delivered exactly as was promised and with great time-to-market.”
@@ -73,8 +75,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,45 +84,17 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streaming-stardom-and-salary-the-pewdiepie-profit-piece/"><u>[New] Streaming Stardom and Salary – The PewDiePie Profit Piece</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[New] Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-perfect-snap-infusing-dynamic-blur-into-faces-through-picsart-editing/"><u>[New] The Perfect Snap  Infusing Dynamic Blur Into Faces Through Picsart Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[New] The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-uncover-the-full-potential-of-vitas-video-editor-comprehensive-guide-2024/"><u>[New] Uncover the Full Potential of Vita's Video Editor - Comprehensive Guide 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-magic-in-marketing-top-20-keyphrases/"><u>[New] Unlocking Magic in Marketing - Top 20 Keyphrases</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unparalleled-top-5-agile-camcorders-guide/"><u>[New] Unparalleled Top 5 Agile Camcorders Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capturing-your-mi-11-screens-step-by-step/"><u>[Updated] In 2024, Capturing Your Mi 11 Screens - Step by Step</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-depth-steps-to-document-googles-collaborative-sessions-for-2024/"><u>[Updated] In-Depth Steps to Document Google's Collaborative Sessions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality/"><u>[Updated] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[Updated] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-comparison-best-tablets-that-outshine-filmoras-capabilities/"><u>[Updated] The Ultimate Comparison  Best Tablets That Outshine Filmora's Capabilities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-advanced-screen-recording-methods-on-dell-laptops/"><u>2024 Approved  Advanced Screen Recording Methods on Dell Laptops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-mobileweb-invest-in-no-cost-imagery-upgrade/"><u>2024 Approved  Prime Mobile/Web  Invest in No-Cost Imagery Upgrade</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-founders-flowchart-for-launching-a-review-video-channel/"><u>2024 Approved  The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-key-to-gain-likes-in-tiktok-unpack-sessions/"><u>2024 Approved  The Key to Gain Likes in TikTok Unpack Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-macbook-mixer-dynamic-perfect-streams-in-5-steps/"><u>2024 Approved  The MacBook-Mixer Dynamic  Perfect Streams in 5 Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-perfected-collage-making-blueprint/"><u>2024 Approved  The Perfected Collage-Making Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>2024 Approved  Top 5 Ultra-HD Screens  Mastering Hue and Shade</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-essential-windows-10-skills-review/"><u>2024 Approved  Unleash Potential  Essential Windows 10 Skills Review</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/a-step-by-step-solution-for-intels-failed-dptf-driver-installation-no-more-struggles/"><u>A Step-by-Step Solution for Intel's Failed DPTF Driver Installation - No More Struggles</u></a></li>
-<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11f-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11F 5G FRP Locks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-resolve-d3dx930dll-errors-when-they-go-unfound-or-vanish/"><u>How to Correctly Resolve d3dx9_30.dll Errors When They Go Unfound or Vanish</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-70-lite-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor 70 Lite 5G FRP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X6 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-supreme-script-craftsmanship-on-the-big-screen/"><u>In 2024, Supreme Script Craftsmanship on the Big Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y36i-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y36i Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-picture-narrative-craft-pro-edition/"><u>In 2024, Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>In 2024, Uncomplicated Process  Altering Clown Fish Voices in WinOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-creativity-time-lapse-on-samsung/"><u>In 2024, Unleashing Creativity  Time-Lapse on Samsung</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-plan-youtube-content-into-mp4/"><u>Master Plan  YouTube Content Into MP4</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-overcoming-startup-issues-in-the-popular-fall-guys-game/"><u>Step-by-Step Guide: Overcoming Startup Issues in the Popular Fall Guys Game</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-film-crafting-with-kinemaster-tools-for-2024/"><u>The Art of Film Crafting with Kinemaster Tools for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-path-to-picsart-proficiency-for-2024/"><u>The Ultimate Path to PicsArt Proficiency for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-underdeveloped-world-of-vr-experiences-for-2024/"><u>The Underdeveloped World of VR Experiences for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-picks-for-your-next-shot-in-4k-reflective-tech-for-2024/"><u>Top Picks for Your Next Shot in 4K Reflective Tech for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-resolve-error-8007000e-in-windows-update-without-delay/"><u>Troubleshooting Tips to Resolve Error 8007000E in Windows Update Without Delay</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-hidden-sights-in-google-meet-conferences/"><u>Unveiling Hidden Sights in Google Meet Conferences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/versamix-suite-mac-and-pc-for-2024/"><u>VersaMix Suite - Mac & PC for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagrammashup-androidandios-video-tiles/"><u>[New] InstagramMashup Android&iOS Video Tiles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i/"><u>[Updated] 2024 Approved Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-user-generated-feedback-influences-video-ranks/"><u>[Updated] In 2024, How User-Generated Feedback Influences Video Ranks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-lut-manipulation-a-comprehensive-photoshop-guide/"><u>[Updated] Mastering LUT Manipulation A Comprehensive PhotoShop Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-the-art-of-phone-recordings-for-2024/"><u>[Updated] Mastering the Art of Phone Recordings for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-tactical-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Tactical Edition without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-understanding-and-enforcing-rights-on-youtube/"><u>In 2024, Understanding and Enforcing Rights on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-s23-fe-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy S23 FE to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
 </ul></div>
+

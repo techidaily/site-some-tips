@@ -1,40 +1,23 @@
 ---
 title: Discover How ABBYY's Lance Vantage 2 Is Revolutionizing Digital Change with Its Innovative AI-Driven Marketplace
-date: 2024-09-06T23:23:52.807Z
-updated: 2024-09-07T23:23:52.807Z
+date: 2024-09-12T07:21:09.746Z
+updated: 2024-09-13T07:21:09.746Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b9ff66af20d69e9744d56a33.jpeg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Discover How ABBYY's Lance Vantage 2 Is Revolutionizing Digital Change with Its Innovative AI-Driven Marketplace
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY lance Vantage 2 et sa nouvelle Marketplace d’IA pour ré-imaginer la transformation numérique
 
 23 mars 2021
@@ -42,11 +25,12 @@ thumbnail: https://thmb.techidaily.com/c6291d176ca52af593ed97a64202c588c0b54ac6b
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * **Vantage 2 offre des procédés d’automatisation clés en main basés sur l’Intelligence Artificielle.**
 * **La Marketplace d’ABBYY quant à elle fournit aux utilisateurs les compétences cognitives nécessaires pour accélérer les initiatives d’automatisation.**
 
@@ -92,8 +76,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,63 +85,15 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-compare-and-save-with-top-6-affordable-camera-picks/"><u>[New] Compare and Save with Top 6 Affordable Camera Picks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-home-content-a-commercialized-vlog-journey/"><u>[New] In 2024, Harnessing Home Content  A Commercialized Vlog Journey</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-text-temporal-tinkering-tools/"><u>[New] In 2024, Text Temporal Tinkering Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-integrating-skype-into-zoom-meetings-made-simple/"><u>[New] Integrating Skype Into Zoom Meetings Made Simple</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-evaluation-of-hdr-quality-with-luminance/"><u>[New] The Evaluation of HDR Quality with Luminance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-jaunt-vr-journey-explained/"><u>[New] The Jaunt VR Journey Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle  Assembling Songs in New Spaces</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-sierra-icloud-document-and-desktop-guide/"><u>[New] The Ultimate Sierra iCloud Document & Desktop Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>[New] Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-custom-tunes-for-your-pixel-phone/"><u>[New] Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-social-storytellers-playbook-maximizing-video-impact-on-fb/"><u>[Updated] 2024 Approved  A Social Storyteller’s Playbook  Maximizing Video Impact on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-hdri-vs-sdr-a-comparative-analysis-for-filmmakers/"><u>[Updated] 2024 Approved  HDRI Vs. SDR  A Comparative Analysis for Filmmakers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-best-text-animation-presets/"><u>[Updated] Best Text Animation Presets</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-hidden-shotshaper-advanced-stealthy-methods-for-capturing-images-for-2024/"><u>[Updated] Hidden ShotShaper  Advanced Stealthy Methods for Capturing Images for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-cutting-edge-techniques-for-outstanding-tiktok-video-production-using-templates/"><u>[Updated] In 2024, Cutting-Edge Techniques for Outstanding TikTok Video Production Using Templates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-master-levels-enhancing-steam-gameplay-videos/"><u>[Updated] Master Levels  Enhancing Steam Gameplay Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-premium-picks-for-the-ultimate-gopro-experience/"><u>[Updated] Premium Picks for the Ultimate Gopro Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-best-professional-template-pack-for-premiere-pro/"><u>[Updated] The Best Professional Template Pack for Premiere Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-price-point-in-online-advertising/"><u>[Updated] The Price Point in Online Advertising</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[Updated] The Secret to Stability  Overcoming Handheld Videography Challenges</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-transformation-of-windows-10-landscape/"><u>[Updated] The Transformation of Windows 10 Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-ios-podcast-apps-your-ultimate-listing/"><u>[Updated] Top 5 iOS Podcast Apps  Your Ultimate Listing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[Updated] Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-psd-style-boosting/"><u>[Updated] Ultimate PSD Style Boosting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-luts-to-amplify-your-photo-quality/"><u>[Updated] Understanding LUTs to Amplify Your Photo Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-analysis-the-power-of-quantum-hdr/"><u>2024 Approved  In-Depth Analysis  The Power of Quantum HDR</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-using-azures-voice-recognition/"><u>2024 Approved  The Essentials of Using Azure's Voice Recognition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-streamlined-sea-filmmaking-techniques/"><u>2024 Approved  The Ultimate Guide to Streamlined Sea Filmmaking Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-your-single-picture-into-video-magic-with-pixiz/"><u>2024 Approved  Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-res-video-leading-4k-conversion-tools/"><u>2024 Approved  Unlock High-Res Video  Leading 4K Conversion Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-lava-yuva-2-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Lava Yuva 2 System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-crafting-seamless-visuals-with-instagrams-chroma-key/"><u>In 2024, Crafting Seamless Visuals with Instagram's Chroma Key</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-mastery-in-purchasing-pristine-stock-images/"><u>In 2024, Mastery in Purchasing Pristine Stock Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-unlocking-the-best-video-production-talents/"><u>In 2024, The Key to Unlocking the Best Video Production Talents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-vr-innovations-reviewed/"><u>In 2024, The Next Generation of VR  Innovations Reviewed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-4-places-to-download-skype-tones/"><u>In 2024, Top-Ranked 4 Places to Download Skype Tones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unleash-full-potential-with-camcapturers-innovations/"><u>In 2024, Unleash Full Potential with CamCapturer's Innovations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-windows-10-complexities-simplified/"><u>In 2024, Unraveling Windows 10 Complexities Simplified</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-facebook-live-embedding-techniques-on-websites/"><u>Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/new-tricks-to-keep-warcraft-3-reforged-stable-on-windows-1011-systems-warcraft-3-crash-solutions/"><u>New Tricks to Keep Warcraft 3 Reforged Stable on Windows 10/11 Systems (Warcraft 3 Crash Solutions )</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/strategies-for-universal-zoom-availability-across-platforms/"><u>Strategies for Universal Zoom Availability Across Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-engaging-crafting-compelling-reddit-content-for-2024/"><u>The Art of Engaging  Crafting Compelling Reddit Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-upside-and-downside-of-virtual-reality-experience-for-2024/"><u>The Upside and Downside of Virtual Reality Experience for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-turning-off-automatic-podcast-adds-on-spotify-for-2024/"><u>Tips for Turning Off Automatic Podcast Adds on Spotify for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-15-nba-live-stream-techniques-for-2024/"><u>Top 15 NBA LIVE STREAM Techniques for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tier-image-manipulations-for-2024/"><u>Top-Tier Image Manipulations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/total-circles-capture-systems-for-2024/"><u>Total Circles Capture Systems for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/twilight-assessment-diverse-ideas-for-2024/"><u>Twilight Assessment  Diverse Ideas for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-5-speedy-shot-strategies-right-from-your-living-room-for-2024/"><u>Ultimate 5 Speedy Shot Strategies Right From Your Living Room for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-for-2024/"><u>Ultimate Guide to GoPro  Max or Hero 11 for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleash-potential-the-finest-6-nft-creation-spaces-for-2024/"><u>Unleash Potential  The Finest 6 NFT Creation Spaces for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-spotifys-advertising-opportunities-a-roadmap-for-2024/"><u>Unlocking Spotify’s Advertising Opportunities  A Roadmap for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-7-bluetooth-setup-made-simple/"><u>Windows 7 Bluetooth Setup Made Simple</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-high-fidelity-remote-call-software-beyond-zoom/"><u>[Updated] 2024 Approved High-Fidelity Remote Call Software (Beyond Zoom)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dive-into-the-world-of-expertise-with-youtubes-top-10-makeup-vloggers/"><u>[Updated] In 2024, Dive Into the World of Expertise with YouTube's Top 10 Makeup Vloggers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tutorial-on-youtube-thumbnail-extraction-for-all-os-enthusiasts/"><u>2024 Approved Tutorial on YouTube Thumbnail Extraction for All OS Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/27-significant-metaverse-demonstrations-unveiled-for-2024/"><u>27 Significant Metaverse Demonstrations Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-configuring-your-pc-with-windows-11-no-microsoft-account-required/"><u>Guide: Configuring Your PC with Windows 11 - No Microsoft Account Required</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-microsofts-directx-raytracing-dxr-innovation-propels-next-gen-pc-gaming-performance/"><u>How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-your-preferred-mic-and-cam-in-windows-11-step-by-step-guide/"><u>Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stress-busters-using-chatgpt-insights/"><u>Stress Busters Using ChatGPT Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-repairing-shelldll-file-issues-effectively/"><u>Troubleshooting and Repairing 'Shell.dll' File Issues Effectively</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-transform-your-videos-top-free-and-paid-android-video-editing-apps/"><u>Updated 2024 Approved Transform Your Videos Top Free and Paid Android Video Editing Apps</u></a></li>
 </ul></div>
+

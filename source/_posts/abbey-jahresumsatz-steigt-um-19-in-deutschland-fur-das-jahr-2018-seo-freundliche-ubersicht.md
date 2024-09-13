@@ -1,28 +1,23 @@
 ---
 title: ABBEY Jahresumsatz Steigt Um 19 %% in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht
-date: 2024-09-06T23:23:48.739Z
-updated: 2024-09-07T23:23:48.739Z
+date: 2024-09-12T07:15:58.528Z
+updated: 2024-09-13T07:15:58.528Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175af9626b84f7c3d068d74a0f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBEY Jahresumsatz Steigt Um 19 % in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY meldet 19% Umsatzwachstum im Jahr 2018 für Deutschland
 
 7\. März 2019
@@ -30,11 +25,18 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### _Die Bereitstellung von Content IQ Skills für Unternehmenskunden ist ein wichtiger Erfolgsfaktor_
 
 ABBYY, ein weltweit führender Anbieter von Lösungen und Services für Content IQ, gab heute sein Umsatzwachstum von 19% für den deutschen Markt bekannt. Die Fähigkeit von ABBYY, Content IQ Skills für die neuen digitalen Mitarbeiter bereitzustellen, bildete einen der wichtigsten Wachstumstreiber. Das Enterprise-Segment war ein weiterer Wachstumsfaktor mit deutlichen Zuwächsen in den Bereichen Finanzdienstleistungen, Versicherungen, Transport und Logistik sowie Recht. 
@@ -91,8 +93,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,47 +102,15 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-video-size-strategy-for-maximum-engagement/"><u>[New] In 2024, Insta Video Size Strategy for Maximum Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-subtlety-in-volume-reduction-for-audacity-projects/"><u>[New] Subtlety in Volume Reduction for Audacity Projects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-your-story-a-guide-to-crafting-engaging-podcast-episodes/"><u>[New] Tailoring Your Story  A Guide to Crafting Engaging Podcast Episodes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-science-behind-effective-slug-lines/"><u>[New] The Science Behind Effective Slug Lines</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-verdict-on-splitcam-premium-recording-experience/"><u>[New] The Verdict on SplitCam - Premium Recording Experience?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[New] Vectors Unveiled  A Novice’s Path Through Types and Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-behind-the-curtain-peek-tracking-insta-post-watchers/"><u>[Updated] Behind-the-Curtain Peek  Tracking Insta Post Watchers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users/"><u>[Updated] Elite Voice Capture Tech  The Ultimate 5 Apps for Mac Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-gameplay-chronicles-top-four-ways-to-record-on-xbox-one-for-2024/"><u>[Updated] Gameplay Chronicles  Top Four Ways to Record on Xbox One for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-keep-it-burning-ensuring-an-everlasting-snapchat-connection/"><u>[Updated] In 2024, Keep It Burning  Ensuring an Everlasting Snapchat Connection</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unlocking-twitters-full-potential-the-ultimate-guide/"><u>[Updated] In 2024, Unlocking Twitter’s Full Potential  The Ultimate Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-pioneering-technologies-vr-applications/"><u>[Updated] Pioneering Technologies  VR Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[Updated] Streamline Overload  Efficiently Editing Oversized TikTok Drafts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>[Updated] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-full-potential-of-media-player-through-subtitles/"><u>[Updated] Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-iphonepcs-best-video-conversion-software-8/"><u>[Updated] Unveiling iPhone/PC's Best Video Conversion Software #8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-todays-drones-tomorrows-promise/"><u>[Updated] Unveiling Today's Drones  Tomorrow's Promise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>2024 Approved  Optimal Free Tools  5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-and-basic-win-driven-design-applications-guide/"><u>2024 Approved  Premium & Basic Win-Driven Design Applications Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-shots-a-windows-11-guide/"><u>2024 Approved  Streamline Your Shots  A Windows 11 Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>2024 Approved  Streamline Your Video Projects  Using Movie Maker on Windows 8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-fast-loading-facebook-videos/"><u>2024 Approved  The Art of Fast-Loading Facebook Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-turning-your-old-photos-into-snaps-with-camera-roll/"><u>2024 Approved  Turning Your Old Photos Into Snaps with Camera Roll</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-serene-power-with-the-best-aio-a-comprehensive-look-at-hytes-thicc-q6-similar-problem/"><u>Experience Serene Power with the Best AIO - A Comprehensive Look at Hyte's THICC Q6 # Similar Problem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-15-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 15 with 3 Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-master-management-with-our-12-best-tycoon-games-ever-crafted/"><u>In 2024, Master Management with Our #12 Best Tycoon Games Ever Crafted</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-collection-of-film-scripts-by-genre/"><u>In 2024, The Ultimate Collection of Film Scripts by Genre</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
-<li><a href="https://extra-support.techidaily.com/is-aurora-hdr-setting-photography-trends-in-2024/"><u>Is Aurora HDR Setting Photography Trends, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/maximizing-social-interaction-with-innovative-fb-slideshow-techniques-for-2024/"><u>Maximizing Social Interaction with Innovative FB Slideshow Techniques for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-revolutionize-your-video-content-high-quality-made-simple/"><u>New 2024 Approved Revolutionize Your Video Content High-Quality Made Simple</u></a></li>
-<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-iphone-hdr-photos-made-easy-for-2024/"><u>Pro iPhone HDR Photos Made Easy for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-ideas-for-making-your-podcast-stand-out-visually-for-2024/"><u>Top 10 Ideas for Making Your Podcast Stand Out Visually for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
-<li><a href="https://win-answers.techidaily.com/twitch-audio-problems-resolved-learn-the-steps-to-restore-sound-during-broadcasts/"><u>Twitch Audio Problems Resolved? Learn the Steps to Restore Sound During Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-live-setting-picks-for-2024/"><u>Ultimate Live Setting Picks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effortlessly-create-and-manage-cross-platform-communication-channels-with-skype-groups/"><u>[New] Effortlessly Create and Manage Cross-Platform Communication Channels with Skype Groups</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unleash-creativity-on-instagram-stories-with-branded-emojis/"><u>[New] Unleash Creativity on Instagram Stories with Branded Emojis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-webcam-creation-video-making-for-mac-users/"><u>[Updated] Webcam Creation Video Making for Mac Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-moto-e13-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Moto E13 Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-redmi-12-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi Redmi 12 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
 </ul></div>
+

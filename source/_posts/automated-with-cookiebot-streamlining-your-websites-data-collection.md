@@ -1,34 +1,23 @@
 ---
 title: "Automated with Cookiebot: Streamlining Your Website's Data Collection"
-date: 2024-09-06T23:23:49.369Z
-updated: 2024-09-07T23:23:49.369Z
+date: 2024-09-12T07:16:47.645Z
+updated: 2024-09-13T07:16:47.645Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5835b7f75acb6f437f70d9b6865adddf58cf9307d1c89bac2789b98350d1bacd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Automated with Cookiebot: Streamlining Your Website's Data Collection
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Launches No-Code Platform Vantage 2 and AI Marketplace to Reimagine Digital Transformation
 
 March 23, 2021
@@ -36,11 +25,12 @@ March 23, 2021
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 _Vantage 2 delivers ready-to-use AI skills for intelligent automation. The ABBYY Marketplace allows users to try cognitive skills to accelerate their automation initiatives._ 
 
 ABBYY, a Digital Intelligence company, announced today, during its [Reimagine](https://tools.techidaily.com/abbyy/products/) virtual conference, the launch of Vantage 2, a low-code/no-code platform that delivers cognitive skills for RPA robots, automation systems, chatbots, and mobile solutions, enabling organizations to gain insights from documents and content. The company also launched ABBYY Marketplace, the first open marketplace where organizations can discover, try, and purchase reusable AI skills to accelerate their automation initiatives, while partners can build and publish skills to automate all types of content-centric processes.
@@ -96,8 +86,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,70 +95,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere/"><u>[New] Next Gen Storytelling  10 Sci-Fi Films Transporting You Elsewhere</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-preserve-precision-4-advanced-screen-recording-for-gamers/"><u>[New] Preserve Precision  4 Advanced Screen Recording for Gamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-conversion-selecting-the-top-10-free-tools/"><u>[New] Streamline Conversion  Selecting the Top 10 Free Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>[New] The Evolved 2023 Samsung BD-J5900  A Deep Dive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>[New] Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-5-best-screens-for-playstation-5-gamers/"><u>[New] TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>[New] Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-travel-video-setup-must-have-items-checklist/"><u>[New] Travel Video Setup  Must-Have Items Checklist</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-with-these-14-exceptional-text-animations/"><u>[New] Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-yourwebcamunlocked-astep-by-steprecordingpath-for-2024/"><u>[New] YourWebcamUnlocked  AStep-by-StepRecordingPath for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-amplify-your-audience-engagement-with-strategic-instagram-videos/"><u>[Updated] 2024 Approved  Amplify Your Audience Engagement with Strategic Instagram Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-download-instagram-highlights-in-2-ways/"><u>[Updated] How to Download Instagram Highlights in 2 Ways?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>[Updated] In 2024, Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-interactive-link-integration-for-instagram-users/"><u>[Updated] In 2024, Interactive Link Integration for Instagram Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-multiplatform-iptv-interoperability/"><u>[Updated] Multiplatform IPTV Interoperability</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-locations-to-grab-snapchat-chime-downloads/"><u>[Updated] Prime Locations to Grab Snapchat Chime Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-integrating-b-footage-into-main-shots/"><u>[Updated] The Art of Integrating B-Footage Into Main Shots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-evolved-examination-of-sony-bdp-s3700/"><u>[Updated] The Evolved Examination of Sony BDP-S3700</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>[Updated] The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-meme-design-props/"><u>[Updated] The Ultimate Guide to Meme Design Props</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-innovations-in-podcast-titling-with-ai-assistants/"><u>[Updated] Top Innovations in Podcast Titling with AI Assistants</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>[Updated] Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] Unleashing Humor  The Kapwing Meme Builder Way</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unleashing-your-gaming-potential-with-win10-recordings/"><u>[Updated] Unleashing Your Gaming Potential with Win10 Recordings</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pushing-boundaries-top-2023s-professional-360-cameras/"><u>2024 Approved  Pushing Boundaries  Top 2023'S Professional 360 Cameras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-tiktok-usage-efficiently-change-user-numbers/"><u>2024 Approved  Streamline TikTok Usage  Efficiently Change User Numbers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>2024 Approved  The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-liberating-tracks-with-pazeras-tools/"><u>2024 Approved  The Ultimate Guide to Liberating Tracks with Pazera's Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stock-image-memes-real-life-narratives/"><u>2024 Approved  Top 10 Stock Image Memes  Real Life Narratives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-iphone-videos-shorten-and-resize-with-ease/"><u>2024 Approved  Transform Your iPhone Videos  Shorten & Resize with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-world-in-a-whole-view-video-edition/"><u>2024 Approved  Unveiling the World in a Whole View  Video Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unwrapping-utopia-creating-magical-unboxing-moments/"><u>2024 Approved  Unwrapping Utopia  Creating Magical Unboxing Moments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cure-your-sony-vegas-breakdowns-with-these-troubleshooting-steps/"><u>Cure Your Sony Vegas Breakdowns with These Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/greatest-of-all-time-reddits-favorite-threads/"><u>Greatest of All Time  Reddit's Favorite Threads</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-itel-p55-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Itel P55 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-nokia-c210-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Nokia C210 to Another | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-nailing-the-perfect-shot-expert-tips-for-android-time-lapse-videography/"><u>In 2024, Nailing the Perfect Shot  Expert Tips for Android Time-Lapse Videography</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-reno-11f-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo Reno 11F 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach  Integrating Typefaces in AE</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-90-lite-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor 90 Lite Phone Hassle-Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-seamless-tutorial-for-image-background-cleanup-on-canva/"><u>In 2024, The Seamless Tutorial for Image Background Cleanup on Canva</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>In 2024, Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-7-packet-opening-experience-hacks/"><u>In 2024, Top 7 Packet Opening Experience Hacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-for-finding-the-best-online-cricket-matches-today/"><u>In 2024, Top Tips for Finding the Best Online Cricket Matches Today</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-comic-editor-app/"><u>In 2024, Ultimate Comic Editor App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-current-and-future-of-drone-use-for-2024/"><u>Navigating Current and Future of Drone Use for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/optimized-nvidia-drivers-for-rtx-2060-super-on-windows-11-pcs-free-software-downloads-available/"><u>Optimized NVIDIA Drivers for RTX 2060 Super on Windows 11 PCs: Free Software Downloads Available</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/securing-your-online-sessions-pcmobile-recording/"><u>Securing Your Online Sessions  PC/Mobile Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-your-viewing-experience-how-to-use-floating-window-on-netflix-for-2024/"><u>Streamline Your Viewing Experience  How To Use Floating Window on Netflix for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-quest-for-superior-video-playback-software-for-2024/"><u>The Quest for Superior Video Playback Software for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files-for-2024/"><u>Three Key Strategies for Acquiring YouTube SRT Files for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-windows-11-task-managers-perfect-for-organizing-daily-chores/"><u>Top 6 Windows 11 Task Managers Perfect for Organizing Daily Chores</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-content-warning-issues-in-voice-chats/"><u>Troubleshooting Guide: Resolving 'Content Warning' Issues in Voice Chats</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-free-stopwatches-without-a-price-tag-for-2024/"><u>Ultimate Free Stopwatches Without a Price Tag for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-idevice-video-recording-guide-for-2024/"><u>Ultimate iDevice Video Recording Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-strategies-to-increase-your-fps-in-tainted-grail-conquest-gameplay/"><u>Ultimate Strategies to Increase Your FPS in Tainted Grail: Conquest Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unheard-voices-on-youtube-livestream-success-beyond-1000-supporters-for-2024/"><u>Unheard Voices on YouTube  Livestream Success Beyond 1000 Supporters for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-potential-our-picks-for-the-most-inspiring-films-for-2024/"><u>Unleash Potential  Our Picks for the Most Inspiring Films for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/vanish-without-a-trace-tips-for-anonymous-instagram-live-for-2024/"><u>Vanish Without A Trace  Tips for Anonymous Instagram Live for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/virtual-worlds-unleashed-predicted-best-psvr-gaming-experiences-for-2024/"><u>Virtual Worlds Unleashed  Predicted Best PSVR Gaming Experiences for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-comparing-digital-platform-profits-dailymovement-to-youtube-revenue/"><u>[New] Comparing Digital Platform Profits DailyMovement to YouTube Revenue</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-sky-symphony-top-10-websites-presenting-dynamic-hdr-imagery/"><u>[Updated] In 2024, Sky Symphony - Top 10 Websites Presenting Dynamic HDR Imagery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-interconnecting-platforms-sharing-tiktok-to-facebook/"><u>[Updated] Interconnecting Platforms Sharing TikTok to Facebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-minimizing-moments-edit-longer-videos-for-youtube/"><u>2024 Approved Minimizing Moments Edit Longer Videos for YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-ark-game-from-crashing-on-desktop-top-9-troubleshooting-steps/"><u>How to Stop Your ARK Game From Crashing on Desktop – Top 9 Troubleshooting Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-oppo-a79-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo A79 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-x100-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo X100</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-the-universal-zero-cost-meta-vr-community-a-new-era-of-virtual-interaction-begins/"><u>Join the Universal, Zero-Cost Meta VR Community - A New Era of Virtual Interaction Begins!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-personalized-text-generation-emulating-your-writing-style-with-chatgpt/"><u>Mastering Personalized Text Generation: Emulating Your Writing Style with ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-creative-outputs-mastering-the-synergy-of-chatgpt-dall-e-ter-and-midjourney/"><u>Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-disappointing-experience-with-online-car-shopping-at-carvana-vs-traditional-dealers/"><u>My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers</u></a></li>
 </ul></div>
+

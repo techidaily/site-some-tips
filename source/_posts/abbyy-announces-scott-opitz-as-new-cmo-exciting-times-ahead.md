@@ -1,28 +1,23 @@
 ---
 title: "ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead"
-date: 2024-09-06T23:23:48.754Z
-updated: 2024-09-07T23:23:48.754Z
+date: 2024-09-12T07:15:59.755Z
+updated: 2024-09-13T07:15:59.755Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668667f50f1987a428d6465f16.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Scott Opitz wird neuer Chief Marketing Officer von ABBYY
 
 11\. Februar 2020
@@ -30,17 +25,12 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [ABBYY](https://tools.techidaily.com/abbyy/products/), ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, ernennt Scott Opitz zum neuen Chief Marketing Officer. Er tritt die Nachfolge von Jupp Stoepetie an, der sich nach 20-jähriger Betriebszugehörigkeit in den Ruhestand verabschiedet.
 
 Scott Opitz verfügt über 30 Jahre Erfahrung in der Computerindustrie und fungierte als Präsident für den Bereich ABBYY Process Intelligence seit der Übernahme der TimelinePI Inc. durch ABBYY im August. Er ist Mitbegründer und CEO von TimelinePI Inc.. In seiner Rolle als President Process Intelligence bei ABBYY beaufsichtigte er bisher die Integration der Process Intelligence-Lösungen von TimelinePI (jetzt ABBYY Timeline) in die globalen Verkaufs- und Vertriebskanäle von ABBYY und trieb die Integration von Timeline-Lösungen und dem restlichen ABBYY-Portfolio voran.
@@ -78,8 +68,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,62 +77,20 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-effortless-installation-and-fun-with-ifunnys-memes/"><u>[New] Effortless Installation & Fun with iFunny's Memes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-revealing-hidden-group-media-on-messenger-app/"><u>[New] In 2024, Revealing Hidden Group Media on Messenger App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-pigments-and-perceptions-mastering-image-colorization/"><u>[New] Pigments & Perceptions  Mastering Image Colorization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-power-of-perception-iconic-podcast-design-tips/"><u>[New] The Power of Perception  Iconic Podcast Design Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-creativity-in-micro-videography-and-photography/"><u>[New] Unleashing Creativity in Micro Videography and Photography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[New] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-grasping-chroma-key-magic-a-complete-beginners-guide-to-green-screens/"><u>[Updated] 2024 Approved  Grasping Chroma Key Magic  A Complete Beginner's Guide to Green Screens</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-art-of-uncommon-youtube-channel-labels-filmmaker-edition/"><u>[Updated] 2024 Approved  The Art of Uncommon YouTube Channel Labels  Filmmaker Edition</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-comprehensive-tips-for-monitoring-subscriber-engagement/"><u>[Updated] Comprehensive Tips for Monitoring Subscriber Engagement</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-decode-and-resolve-your-guide-to-instagram-video-problems/"><u>[Updated] Decode and Resolve  Your Guide to Instagram Video Problems</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-inquiry-youtubes-payment-scheme-for-creators/"><u>[Updated] Inquiry  YouTube's Payment Scheme for Creators</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-iphone-time-travel-mastering-prolonged-photo-captures/"><u>[Updated] IPhone Time Travel  Mastering Prolonged Photo Captures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-8-trending-vr-adventures-on-oculus/"><u>[Updated] Top 8 Trending VR Adventures on Oculus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] Unlocking Zoom's Potential  Learn How to Use Video Filters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-warmth-amidst-cold-selecting-perfect-winter-backdrops/"><u>[Updated] Warmth Amidst Cold  Selecting Perfect Winter Backdrops</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-pip-feature-a-comprehensive-guide/"><u>2024 Approved  Harnessing PIP Feature  A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lgs-smart-tv-leap-discovering-the-bp550-update/"><u>2024 Approved  LG's Smart TV Leap  Discovering the BP550 Update</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-smartphone-accessories-for-making-videos/"><u>2024 Approved  Smartphone Accessories for Making Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>2024 Approved  The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-websites-aimed-at-enhancing-text-appearance/"><u>2024 Approved  Top Websites Aimed at Enhancing Text Appearance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>2024 Approved  Transformative Strategies for Impartiating Patient Narratives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved  Twitch vs YouTube  An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved  UHD Precision Converter  Clearer, Sharper Visuals</u></a></li>
-<li><a href="https://fox-links.techidaily.com/beginners-guide-to-best-entry-level-cams-2024/"><u>Beginner's Guide to Best Entry-Level Cams 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/discover-hidden-ui-in-win10s-advanced-settings/"><u>Discover Hidden UI in Win10's Advanced Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
-<li><a href="https://article-helps.techidaily.com/diving-into-movavis-premium-video-tools-edition-for-2024/"><u>Diving Into Movavi's Premium Video Tools Edition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-live-stream-360-videos-on-facebook/"><u>How to Live Stream 360 Videos on Facebook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-asus-rog-phone-8-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Asus ROG Phone 8 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-tips-securing-audio-for-unboxing-vids/"><u>In 2024, Master Tips  Securing Audio for Unboxing Vids</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715859918482-in-2024-next-gen-online-meeting-apps-azoom-no-more/"><u>In 2024, Next-Gen Online Meeting Apps  Azoom No More!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>In 2024, Talk Turned Type  Essential Apps for Offline Speech Recognition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-apps-upgrade-your-mobile-movies-instantly/"><u>In 2024, Top Apps  Upgrade Your Mobile Movies Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-mkv-players-macos-edition/"><u>In 2024, Top-Tier MKV Players  MacOS Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-trends-and-techniques-for-skyrocketing-youtube-views/"><u>In 2024, Trends and Techniques for Skyrocketing YouTube Views</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-a-detailed-look-at-vsco-features/"><u>In 2024, Unleash Creativity  A Detailed Look at VSCO Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast-for-2024/"><u>Premiere Pro  Refinements for iPhone HD Video Clarity and Contrast for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-s17t-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo S17t and Browser | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/pro-iphone-methods-for-spherical-footage/"><u>Pro iPhone Methods for Spherical Footage</u></a></li>
-<li><a href="https://driver-download.techidaily.com/recognizing-your-usb-a-step-by-step-solution-for-windows-10-users/"><u>Recognizing Your USB: A Step-by-Step Solution for Windows 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods-for-2024/"><u>Simplified Approach to Download YouTube Captions  3 Proven Methods for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/steps-to-stabilize-your-pc-and-prevent-house-flipper-n-crashes/"><u>Steps to Stabilize Your PC and Prevent House Flipper N Crashes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading-for-2024/"><u>Swift & Smooth  Your Ultimate Guide to iPhone Podcast Downloading for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences-for-2024/"><u>The Art of iPhone Cinematography  Transforming Fast Motion Into Sluggish Sequences for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-art-of-language-acquisition-through-scientifically-backed-melodies/"><u>The Art of Language Acquisition Through Scientifically Backed Melodies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range-for-2024/"><u>Transform Imaging  Expertise in Adobe's High Dynamic Range for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release-for-2024/"><u>Unboxing PureAudioFinder  A Look Into the Latest Release for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unleash-optimal-printing-fixed-hp-laserjet-1-points/"><u>Unleash Optimal Printing: Fixed HP LaserJet 1 Points</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>[New] In 2024, Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-titans-clash-discovering-the-ultimate-7-grand-wars/"><u>[New] In 2024, Titans Clash Discovering the Ultimate 7 Grand Wars</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unleashing-your-gaming-potential-with-win10-recordings-for-2024/"><u>[Updated] Unleashing Your Gaming Potential with Win10 Recordings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/crafting-impactful-reactions-the-ultimate-guidebook-for-2024/"><u>Crafting Impactful Reactions The Ultimate Guidebook for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-photos-to-film-how-to-create-an-unforgettable-video-for-2024/"><u>From Photos to Film How to Create an Unforgettable Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-possibilities-my-wishlist-for-the-new-ipad-mini-7/"><u>Innovative Possibilities: My Wishlist for the New iPad Mini 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tomorrow-cosmic-as-your-gateway-to-the-next-gen-linux-experience/"><u>Navigating Tomorrow: COSMIC as Your Gateway to the Next-Gen Linux Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/smooth-sailing-in-wizarding-worlds-overcome-hogwarts-legacys-launch-hiccups-with-these-8-tips/"><u>Smooth Sailing in Wizarding Worlds: Overcome Hogwarts Legacy's Launch Hiccups with These 8 Tips</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-resolving-wireless-keyboard-connectivity-problems-on-windows-systems/"><u>Step-by-Step Solution for Resolving Wireless Keyboard Connectivity Problems on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/"><u>Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-journey-to-glamorous-guruship-launching-an-aesthetic-channel-for-2024/"><u>Your Journey to Glamorous Guruship Launching an Aesthetic Channel for 2024</u></a></li>
 </ul></div>
+

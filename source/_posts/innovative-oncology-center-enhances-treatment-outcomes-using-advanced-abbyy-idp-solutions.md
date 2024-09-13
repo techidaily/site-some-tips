@@ -1,18 +1,12 @@
 ---
 title: Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions
-date: 2024-09-06T23:23:49.164Z
-updated: 2024-09-07T23:23:49.164Z
+date: 2024-09-12T07:16:29.344Z
+updated: 2024-09-13T07:16:29.344Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070a4884d479fae689522aa348.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
@@ -23,12 +17,6 @@ CASE STUDY | HEALTHCARE
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/customer-stories/white-logos/coblh_logo_tagline_white_greenblue_40px.png?h=40&iar=0&w=99)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 With over 100 projects underway at any time, and with service to nearly 60,000 patients every year, Chris O’Brien Lifehouse is one of Australia’s leading cancer treatment and research facilities. ABBYY IDP has helped it eliminate 80 percent of paper records to accelerate and improve access to critical patient information. 
 
 The number one impact on the patient experience is the quick access to all previous documentation: There are no (or significantly reduced) wait times as we are able to fast track our clinical and outpatient appointments. Everything is available online.
@@ -36,11 +24,12 @@ The number one impact on the patient experience is the quick access to all previ
 Jov Simic, Clinical Application Specialist
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Challenge
 
 For every patient registering with Chris O’Brien Lifehouse, staff created a physical folder that needed to be present at every single appointment and inpatient stay. All paperwork was completed on hard copy and was saved in the physical medical record.
@@ -52,6 +41,13 @@ To reach its goals for a paperless environment, the organization needed:
 * A way to convert a huge backlog of physical documents
 * The highest accuracy possible to deliver the highest standard of patient care and quality of research
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution
 
 ABBYY IDP automatically converts large collections of documents for search, long-term retention, collaboration, or additional processing.
@@ -59,6 +55,13 @@ ABBYY IDP automatically converts large collections of documents for search, long
 The IDP solution is used hospital-wide at Chris O’Brien Lifehouse to process any document still completed in paper form, easily handling the 90 or so different document definitions with AI-powered optical character recognition (OCR) that delivers fast, accurate results.
 
 The organization has been able to fast track its clinical and outpatient appointments by enabling secure, real-time online availability. For cancer patients, that is critical.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Value
 
@@ -73,6 +76,13 @@ The organization has been able to fast track its clinical and outpatient appoint
 
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### ABBYY Solutions for Enterprise Automation
 
 [Learn more](https://tools.techidaily.com/abbyy/products/)
@@ -80,11 +90,18 @@ The organization has been able to fast track its clinical and outpatient appoint
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### PDF Version
 
 [Read the document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/customer-story-intelligent-document-processing-healthcare-lifehouse-cancer-treatment-research-facilities-en.pdf)
@@ -92,23 +109,18 @@ The organization has been able to fast track its clinical and outpatient appoint
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Ready to speak with an expert?
 
 [Contact us](https://tools.techidaily.com/abbyy/products/)
@@ -119,8 +131,6 @@ The organization has been able to fast track its clinical and outpatient appoint
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,44 +140,18 @@ The organization has been able to fast track its clinical and outpatient appoint
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-popular-tiktok-food-challenges/"><u>[New] 2024 Approved  Popular TikTok Food Challenges</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-expert-guide-to-snagging-twitter-gifs-pc-for-2024/"><u>[New] Expert Guide to Snagging Twitter GIFs (PC) for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mediacutmaster-review-in-depth-evaluation/"><u>[New] MediaCutMaster Review – In-Depth Evaluation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>[New] The Full Review of LG's High Definition Monitoring Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[New] The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[New] Utilizing B-Footage  An Essential Filmmaking Skill</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-reversing-the-clock-a-complete-guide-for-instagram-users/"><u>[Updated] 2024 Approved  Reversing the Clock  A Complete Guide for Instagram Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-expert-crafting-top-tier-reddit-posts/"><u>[Updated] From Novice to Expert  Crafting Top-Tier Reddit Posts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-reddits-most-adored-and-upvoted-stories/"><u>[Updated] The Ultimate List  Reddit's Most Adored and Upvoted Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-plan-to-grow-your-subscriber-base-for-2024/"><u>[Updated] The Ultimate Plan to Grow Your Subscriber Base for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-8-headsets-for-an-immersive-virtual-world-adventure/"><u>[Updated] Top 8 Headsets for an Immersive Virtual World Adventure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-trending-picture-tales-history-revealed/"><u>[Updated] Trending Picture Tales  History Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-the-impact-of-aurora-hdr-on-photography/"><u>[Updated] Understanding the Impact of Aurora HDR on Photography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>[Updated] Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-pixel-gatherings-unique-ringtone-repository/"><u>2024 Approved  Ideal Pixel Gatherings  Unique Ringtone Repository</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>2024 Approved  The Art of Perusing Past Facebook Pages  To Review or Not To?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-azure-guide-to-speech-to-text-integration/"><u>2024 Approved  The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-instagram-guide-for-curating-and-sharing-podcasts/"><u>2024 Approved  The Instagram Guide for Curating and Sharing Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-spreading-online-jokes-fast/"><u>2024 Approved  The Key to Spreading Online Jokes Fast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-transformation-of-windows-10-landscape/"><u>2024 Approved  The Transformation of Windows 10 Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>2024 Approved  The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-pro-rated-gopro-head-straps-and-mastering-usage/"><u>2024 Approved  Top 6 Pro-Rated GoPro Head Straps & Mastering Usage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>2024 Approved  Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-the-directx-graphics-error-errgfxd3dinit-on-grand-theft-auto-v/"><u>Diagnosing and Repairing the DirectX Graphics Error ERR_GFX_D3D_INIT on Grand Theft Auto V</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diy-repair-tips-for-a-samsung-soundbar-that-wont-turn-on-or-work-properly/"><u>DIY Repair Tips for a Samsung Soundbar That Won't Turn On or Work Properly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-catalina-to-big-sur-a-comprehensive-mac-os-shift-guide-for-2024/"><u>From Catalina to Big Sur  A Comprehensive Mac OS Shift Guide for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y02t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y02T Phone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-infinix-hot-40-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Infinix Hot 40 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-weavers-codex-looms-screen-capture-secrets/"><u>In 2024, The Weaver’s Codex  Loom's Screen Capture Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-personalizing-mbp-screens-with-skins/"><u>In 2024, Top Picks for Personalizing MBP Screens with Skins</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-voice-modification-tools-essential-choices-for-vtuber-creators/"><u>In 2024, Top Voice Modification Tools  Essential Choices for VTuber Creators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-free-memes-for-everyday-chuckles/"><u>In 2024, Top-Tier Free Memes for Everyday Chuckles</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/inside-instagrams-maximum-video-restriction-policy-for-2024/"><u>Inside Instagram's Maximum Video Restriction Policy for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-royalty-ranking-the-top-10-platforms-for-real-time-content-for-2024/"><u>Streaming Royalty  Ranking the Top 10 Platforms for Real-Time Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-archivists-collection-essential-retro-visual-hacks-for-video-editors-for-2024/"><u>The Archivist's Collection  Essential Retro Visual Hacks for Video Editors for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-for-a-solo-show-that-stands-out-for-2024/"><u>The Ultimate Guide for a Solo Show that Stands Out for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed-for-2024/"><u>Transform Sound with Cloud Tools  Top 5 Online Text-to-Speech Services Reviewed for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-essential-online-spots-for-digitized-artwork/"><u>[Updated] 2024 Approved Essential Online Spots for Digitized Artwork</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-giggle-gang-exploring-the-best-memetic-apps/"><u>[Updated] Giggle Gang Exploring the Best Memetic Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-pc-clipping-apps-essential-shortcuts-for-2024/"><u>[Updated] Top 5 PC Clipping Apps Essential Shortcuts for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-13-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 13 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-strategies-for-taking-screenshots-of-dvd-content-online/"><u>Effortless Strategies for Taking Screenshots of DVD Content Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-the-hurdle-of-error-0x800f0831-quickly-with-built-in-windows-update-features/"><u>Eliminate the Hurdle of 'Error 0X800F0831' Quickly with Built-In Windows Update Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-wds-newly-released-nvme-ssd-the-perfect-choice-for-future-creatives/"><u>Introducing WD's Newly Released NVMe SSD: The Perfect Choice for Future Creatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/locating-your-apps-executable-in-no-time-a-fast-guide-for-windows-10-users/"><u>Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-convert-untapped-mac-keyboard-buttons-to-instant-shortcut-magic-using-our-simple-tool/"><u>Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool</u></a></li>
 </ul></div>
+

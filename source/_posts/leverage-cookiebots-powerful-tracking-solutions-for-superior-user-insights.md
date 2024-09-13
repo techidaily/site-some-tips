@@ -1,7 +1,7 @@
 ---
 title: Leverage Cookiebot's Powerful Tracking Solutions for Superior User Insights
-date: 2024-09-06T23:23:52.468Z
-updated: 2024-09-07T23:23:52.468Z
+date: 2024-09-12T07:20:42.596Z
+updated: 2024-09-13T07:20:42.596Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f05d7d6cac870afba65fb3588.jpg
@@ -12,42 +12,59 @@ thumbnail: https://thmb.techidaily.com/cd8e54aa3eca787ba3997c63d63710b97ceb4c1f0
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY Proof of Identity - A Better Way to Secure (and Easy) Customer Onboarding
 
 December 12, 2022 | English
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Featuring
 
 ![Brian Hettinger 165X165](https://static4.abbyy.com/abbyycommedia/35123/logo-2021-90x27.svg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Brian Hettinger 165X165](https://static4.abbyy.com/abbyycommedia/36481/brian-hettinger-165x165.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Brian Hettinger
 
 Senior Director, Product Marketing - Mobility, **ABBYY**
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Instant identity proofing and affirmation — anytime, anywhere.
 
@@ -65,32 +82,8 @@ We cover:
 
 By combining identity reading, verification, and validation along with advanced document processing, you can solve the challenge of effective onboarding. Join ABBYY as we present a better way to engage customers, prove their identity and verify the supporting documents and content required to deliver a frictionless experience.
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Watch now
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
@@ -101,6 +94,13 @@ All personal information collected via this method is under full scope of all pr
 [![ABBYY Proof of Identity - A Better Way to Secure (and Easy) Customer Onboarding](https://static1.abbyy.com/abbyycommedia/36473/cover-abbyy-poi-a-better-way-to-secure-and-easy-customer-onboarding-643x363.jpg)](https://www.youtube.com/watch?v=tYNO7MS5KTc) 
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
 
@@ -158,8 +158,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,42 +167,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-essential-skills-for-efficient-teamsnap-photo-taking-for-2024/"><u>[New] Essential Skills for Efficient TeamSnap Photo Taking for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-from-game-to-gigabyte-an-essential-guide-for-2024/"><u>[New] From Game to Gigabyte  An Essential Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-infinite-snaps-ensuring-a-lasting-snapchat-connection/"><u>[New] In 2024, Infinite Snaps  Ensuring a Lasting Snapchat Connection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-navigating-noise-sensational-success-in-telegram-marketing/"><u>[New] Navigating Noise  Sensational Success in Telegram Marketing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transforming-viewers-into-fans-a-guide-to-igtv-hash-tags-for-2024/"><u>[New] Transforming Viewers Into Fans  A Guide to IGTV Hash Tags for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-6-tech-for-subtitle-creation-in-video/"><u>[New] Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-broadcast-your-play-obs-studio-techniques/"><u>[Updated] In 2024, Broadcast Your Play - OBS Studio Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mirrorless-vs-dslr-cameras-which-is-better-for-videos-in-2024/"><u>[Updated] Mirrorless Vs. DSLR Cameras  Which Is Better for Videos, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-blurring-iphone-images-four-steps-covered/"><u>[Updated] The Art of Blurring iPhone Images - Four Steps Covered</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-10-best-cases-for-your-gopro/"><u>[Updated] The Elite List  10 Best Cases for Your GoPro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tweaking-sound-on-ps5ps4-games/"><u>[Updated] Tweaking Sound on PS5/PS4 Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>[Updated] Unlocking Content Creation  Free Tools for Downloading Vids Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>[Updated] Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-versatile-intro-editing-app-for-your-device-repertoire/"><u>[Updated] Versatile Intro Editing App for Your Device Repertoire</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-access-free-picturing-content-streams/"><u>2024 Approved  Mastering Access  Free Picturing Content Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-steadicams-for-drone-shooting-precision/"><u>2024 Approved  Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>2024 Approved  The Complete Blueprint  Adding Professional Effects to Your Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-maximize-win11-usage/"><u>2024 Approved  Top Strategies to Maximize Win11 Usage</u></a></li>
-<li><a href="https://games-able.techidaily.com/access-advantages-analysis-xbox-game-pass-vs-psplus-essential-comparison/"><u>Access Advantages Analysis: Xbox Game Pass Vs. PS+ Essential Comparison</u></a></li>
-<li><a href="https://extra-information.techidaily.com/branding-excellence-through-joint-video-campaigns-with-youtube-for-2024/"><u>Branding Excellence Through Joint Video Campaigns with YouTube for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-beantech-bitwatch-s1plus-smartwatch-analysis-exceptional-value-for-money/"><u>Comprehensive Beantech Bitwatch S1+ Smartwatch Analysis - Exceptional Value for Money</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-oneplus-nord-n30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your OnePlus Nord N30 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Tecno Photos  An Easy Method Explained.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-p55t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel P55T Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-itunes-radio-downloading-blueprint/"><u>In 2024, The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-topic-titling-artisans-assistant/"><u>In 2024, Topic Titling Artisan's Assistant</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>In 2024, Unlocking iPhone Capabilities  Crafting & Transforming Slow Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>In 2024, Unmasking the Giants of Live Broadcast  Twitch Vs YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unwind-twitch-feeds-immediately/"><u>In 2024, Unwind Twitch Feeds Immediately</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ipados-masterpieces-best-pencil-programs-for-2024/"><u>IPadOS Masterpieces  Best Pencil Programs for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quickly-restore-charging-functionality-to-your-laptop-expert-tips-inside/"><u>Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-post-production-with-after-effects-and-luts-for-2024/"><u>Streamlining Post Production with After Effects and LUTs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android-for-2024/"><u>The Art of Auditory Identity  Crafting Your Own Ringtones & Sounds for Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-in-2024/"><u>Ultimate Guide to GoPro  Max or Hero 11, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-innovation-in-desktop-computers-for-2024/"><u>Ultimate Innovation in Desktop Computers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-potential-with-hero5-black-perfecting-cinematography-skills-for-2024/"><u>Unleash Potential with Hero5 Black  Perfecting Cinematography Skills for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-revenue-revolution-a-practical-guide-for-monetization-for-2024/"><u>[Updated] Youtube's Revenue Revolution A Practical Guide for Monetization for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/breaking-barriers-twitter-to-facebook-posting-process-for-2024/"><u>Breaking Barriers Twitter-to-Facebook Posting Process for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/fostering-relationships-not-just-viewers-a-guide-to-subscriptions/"><u>Fostering Relationships, Not Just Viewers A Guide to Subscriptions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y55s-5g-2023-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y55s 5G (2023) FRP Bypass Instantly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peer-into-professionalism-with-these-elite-cam-recorders-top-18/"><u>In 2024, Peer Into Professionalism with These Elite Cam Recorders (Top 18)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tomorrow-cosmic-as-your-gateway-to-the-next-gen-linux-experience/"><u>Navigating Tomorrow: COSMIC as Your Gateway to the Next-Gen Linux Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-integration-of-startech-drivers-on-old-and-new-windows/"><u>Seamless Integration of StarTech Drivers on Old and New Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-guide-choosing-the-perfect-17-inch-laptop/"><u>Ultimate Guide: Choosing the Perfect 17-Inch Laptop</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-dont-let-plugin-issues-hold-you-back-fcpx-troubleshooting-tips/"><u>Updated In 2024, Dont Let Plugin Issues Hold You Back FCPX Troubleshooting Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-1011movie-maker/"><u>Windows 10/11內建的Movie Maker電影編輯器下載</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
 </ul></div>
+

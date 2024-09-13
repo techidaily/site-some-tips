@@ -1,34 +1,29 @@
 ---
 title: Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung
-date: 2024-09-06T23:23:49.572Z
-updated: 2024-09-07T23:23:49.572Z
+date: 2024-09-12T07:17:02.793Z
+updated: 2024-09-13T07:17:02.793Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565ec0bfaa1522a3466ddc9fcb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Finanzabteilung von Costain meistert digitale Transformation dank ABBYY-Technologie
 
 3\. Juni 2020
@@ -36,11 +31,12 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ABBYY, ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, wurde von Costain, einem Unternehmen für intelligente Infrastrukturlösungen, als Technologiepartner für die strategische Digitalisierung des eigenen Finanzbereichs ausgewählt.
 
 Ein essentieller Schritt von Costains Digitalstrategie bestand in der Umstellung des Procure-to-Pay-Betriebs. Das Unternehmen hat damit enorme Kosteneinsparungen bei einem großen Infrastrukturprojekt in London erreicht. Durch die Aufstockung seines Finanzteams hat die Costain Group erfolgreich eine End-to-End-Lösung implementiert, mit der Rechnungen abgerufen, erfasst, identifiziert und die wesentlichen Daten darin extrahiert werden können. Anschließend werden die Rechnungen an RPA-Bots (Robotic Process Automation) übertragen, die sie schließlich in das ERP-System (Enterprise Resource Planning) einbuchen.
@@ -84,8 +80,6 @@ Vernetzen Sie sich mit uns
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,50 +89,18 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-seizing-photographic-segments-from-videos-in-windows-11/"><u>[New] Seizing Photographic Segments From Videos in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>[New] Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>[Updated] Laying Down the Law  VEGAS Pro '21 Edition Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-audio-content-with-googles-tools/"><u>[Updated] Streamline Your Audio Content with Google’s Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tech-gear-review-vr-treadmills-showdown/"><u>[Updated] Tech Gear Review  VR Treadmills Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-premier-guide-to-high-definition-android-viewing-tools/"><u>[Updated] The Premier Guide to High-Definition Android Viewing Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[Updated] The Ultimate Compilation  4 Websites for Ringtone Hunt</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-onestream-playbook-for-live-streamers/"><u>[Updated] The Ultimate OneStream Playbook for Live Streamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] The Ultimate Visual Companion  Premium Webcams for Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tiny-tale-telling-framework/"><u>[Updated] Tiny Tale Telling Framework</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transcribe-speaking-to-writing-free-of-charge/"><u>[Updated] Transcribe Speaking to Writing  Free of Charge</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-the-zip-to-srt-file-transition/"><u>[Updated] Understanding the Zip to Srt File Transition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-melodic-content-and-legalities-on-insta/"><u>2024 Approved  Melodic Content and Legalities on Insta</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimize-logitech-footage-background-free-method/"><u>2024 Approved  Optimize Logitech Footage - Background-Free Method</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-pc-audio-with-simple-techniques/"><u>2024 Approved  Streamline Your PC Audio with Simple Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-using-telegram-web-effectively/"><u>2024 Approved  The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-for-lut-use-in-after-effects/"><u>2024 Approved  The Ultimate Tutorial for LUT Use in After Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-pedagogy-through-vr-innovation/"><u>2024 Approved  Transforming Pedagogy Through VR Innovation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-20-pubg-photo-mashups-without-copyrights/"><u>2024 Approved  Ultimate 20 PUBG Photo Mashups, Without Copyrights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-potential-of-wide-angle-360-photos/"><u>2024 Approved  Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>2024 Approved  Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-ai-boundaries-excel-skills-that-outshine-chatgpts-reach/"><u>Beyond AI Boundaries: Excel Skills That Outshine ChatGPT's Reach</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comparing-immersive-technologies-ar-vr-mr-and-xr-demystified/"><u>Comparing Immersive Technologies: AR, VR, MR & XR Demystified</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-installation-failed-a-step-by-step-guide-to-a-smooth-disco-experience/"><u>Fixing 'Installation Failed': A Step-by-Step Guide to a Smooth Disco Experience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-14-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on Apple iPhone 14 Plus/iPad/iPod</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-companies-for-haptic-rich-views/"><u>In 2024, Pioneering Companies for Haptic-Rich Views</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme Narzo N53? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-journey-to-zoom-mastery/"><u>In 2024, Streamline Your Journey to Zoom Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-melodies-for-deep-meditation-and-inner-peace/"><u>In 2024, Top 10 Free Melodies for Deep Meditation and Inner Peace</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-online-portals-for-text-artistry/"><u>In 2024, Ultimate Guide to Online Portals for Text Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-expertise-within-polarrs-photography-suite/"><u>In 2024, Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-powerful-titles/"><u>In 2024, Unveiling the Secrets of Powerful Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>In 2024, Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-thumbnail-crafting-simplified-macos-edition/"><u>In 2024, YouTube Thumbnail Crafting Simplified (macOS Edition)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/"><u>Instantaneous Installation  Laugh with iFunny Memes Easily for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-inshot-the-best-video-editing-app-our-in-depth-review-for-2024/"><u>Is InShot the Best Video Editing App? Our In-Depth Review for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/prime-video-communication-platforms-for-modern-tech-for-2024/"><u>Prime Video Communication Platforms for Modern Tech for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/proven-strategies-for-creating-superb-igtv-videos-on-smartphonesdlsrs-for-2024/"><u>Proven Strategies for Creating Superb IGTV Videos on Smartphones/DLSRs for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-critical-factors-for-upgrading-your-4k-lens-for-2024/"><u>The Critical Factors for Upgrading Your 4K Lens for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included-for-2024/"><u>The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-ae-text-configurations-from-basics-to-brilliance-for-2024/"><u>Top AE Text Configurations  From Basics to Brilliance for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unhackable-blueprint-for-inserting-your-tiktok-links-for-2024/"><u>Unhackable Blueprint for Inserting Your TikTok Links for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-your-podcast-covers-now-for-2024/"><u>Unlock the Potential of Your Podcast Covers Now for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-skys-bounty-to-brighten-indoors-for-2024/"><u>Utilizing Sky's Bounty to Brighten Indoors for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/whats-encrypted-exploring-the-role-of-facebooks-blue-icon-for-2024/"><u>What's Encrypted  Exploring the Role of Facebook's Blue Icon for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-content-writers-cant-rely-on-ai-chatbots/"><u>8 Reasons Why Content Writers Can't Rely on AI Chatbots</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/become-a-pro-at-networked-streams-with-vlc/"><u>Become a Pro at Networked Streams with VLC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/direct-twitter-media-transfer-to-whatsapp/"><u>Direct Twitter Media Transfer to WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-file-removal-techniques-with-windows-powershell-commands/"><u>Efficient File Removal Techniques with Windows PowerShell Commands</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/pinnacle-posts-on-reddit-celebrating-the-most-popular-10/"><u>Pinnacle Posts on Reddit Celebrating the Most Popular (10)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-your-youtube-presence-with-google-analytics-skills-for-2024/"><u>Propel Your YouTube Presence with Google Analytics Skills for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-tasks-with-these-windows-11-hacks/"><u>Streamline Tasks with These Windows 11 Hacks</u></a></li>
 </ul></div>
+

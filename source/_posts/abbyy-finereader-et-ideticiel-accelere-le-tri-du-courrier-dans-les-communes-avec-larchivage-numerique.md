@@ -1,18 +1,12 @@
 ---
 title: ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique
-date: 2024-09-06T23:23:48.770Z
-updated: 2024-09-07T23:23:48.770Z
+date: 2024-09-12T07:16:00.983Z
+updated: 2024-09-13T07:16:00.983Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d5c6f331ff630995ba1cfe29.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
@@ -20,47 +14,32 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 Government
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY FineReader et les solutions d’IDéation informatique facilitent le traitement du courrier entrant et l’archivage dans les collectivités locales
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/39659.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## ABBYY FineReader et les solutions d’IDéation informatique facilitent le traitement du courrier entrant et l’archivage dans les collectivités locales
 
 [Afficher ou télécharger une version imprimable de cet article (PDF 377 kb)](https://static4.abbyy.com/abbyycommedia/10193/cs-idã-ation-fr-f.pdf) 
@@ -72,17 +51,12 @@ _IDéation informatique, une société de services indépendante intervenant dan
 ![IDéation Informatique](https://static1.abbyy.com/abbyycommedia/10192/logoid1.png "IDéation Informatique")IDéation informatique est confronté depuis de nombreuses années aux besoins d’administrations locales (mairies, communautés de communes, préfectures) qui cherchent à gérer le suivi du courrier et l’archivage. Ces collectivités locales doivent pouvoir gérer tous les correspondants concernés par un courrier, gérer des alertes sur des dates limites de réponse et de traitement, ou encore, analyser le flux des courriers au sein de leurs services.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 L’un des objectifs des collectivités locales est d’être capable de tracer les courriers et d’établir des liens entre leurs différents documents.
 
 L’autre objectif est de pouvoir effectuer des recherches contextuelles rapides sur le contenu de tous les courriers papier, numérisés préalablement, afin de retrouver, analyser et réutiliser toutes les informations nécessaires.
@@ -130,11 +104,12 @@ Contact: [www.ideation.fr](http://www.ideation.fr/)
 Partager 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -147,8 +122,6 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,57 +131,15 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-master-the-art-of-photo-display-with-best-frames/"><u>[New] Master the Art of Photo Display with Best Frames</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-techniques-to-lower-audio-levels-in-os-xwindows-for-2024/"><u>[New] Techniques to Lower Audio Levels in OS X/Windows for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>[New] The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-vector-graphics-101-overview-of-varieties-and-tools/"><u>[New] Vector Graphics 101  Overview of Varieties & Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[Updated] From Low-Res to HD  Your First Foray Into Frame Rates</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat/"><u>[Updated] Identifying Unresponsiveness  Signs Someone Has Blocked on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>[Updated] The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-fcp-tutorial-for-new-users/"><u>[Updated] Ultimate FCP Tutorial for New Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-powerful-titles/"><u>[Updated] Unveiling the Secrets of Powerful Titles</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effortless-obs-and-zoom-stream-merge-steps/"><u>2024 Approved  Effortless OBS and Zoom Stream Merge Steps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-insights-into-instagrams-intermittent-video-flow/"><u>2024 Approved  Insights Into Instagram's Intermittent Video Flow</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-lut-shifts-enhancing-imagesvideos/"><u>2024 Approved  Mobile LUT Shifts  Enhancing Images/Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-swift-windows-insight-sharing-methods/"><u>2024 Approved  Swift Windows Insight Sharing Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved  Top Starter Gear for GoPro Cameras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-ten-clandestine-corrections-for-artists/"><u>2024 Approved  Top Ten Clandestine Corrections for Artists</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-funny-photo-editor/"><u>2024 Approved  Ultimate Funny Photo Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved  Understanding and Leveraging Snapchat Spotlight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>2024 Approved  Unleashing Clarity  The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>2024 Approved  Unlocking Cinematic Magic  Top 5 Filmmaking Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-quality-hdr-camera-brands-and-models/"><u>2024 Approved  Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ustream-overview-plus-similar-services/"><u>2024 Approved  Ustream Overview + Similar Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ensuring-thumbnails-show-shorts-video-troubleshooting/"><u>Ensuring Thumbnails Show  Shorts Video Troubleshooting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/exclusive-downloads-top-8-stealthy-tools/"><u>Exclusive Downloads  Top 8 Stealthy Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates-in-2024/"><u>How Much Money Can You Make via YouTube Ad Revenue and CPM Rates, In 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-c33-2023-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme C33 2023 Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-video-editor-comparing-inshots-features/"><u>In 2024, Top Video Editor  Comparing InShot's Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-videos-with-tiktok-effects/"><u>In 2024, Transform Videos with TikTok Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>In 2024, Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>In 2024, Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-humor-with-excellent-zero-cost-memes/"><u>In 2024, Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-latest-gadgets-with-tom-a-hardware-expertise-review/"><u>Navigating the Latest Gadgets with Tom - A Hardware Expertise Review</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-fcp-hack-how-to-create-a-vhs-aesthetic-in-minutes/"><u>New FCP Hack How to Create a VHS Aesthetic in Minutes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-reinstalling-ios-without-using-itunes/"><u>Step-by-Step Guide: Reinstalling iOS without Using iTunes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-success-easily-convert-srt-formats-for-2024/"><u>Streaming Success  Easily Convert SRT Formats for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/symphonic-selection-ideal-websites-for-ringtones-for-2024/"><u>Symphonic Selection  Ideal Websites for Ringtones for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-editors-roadmap-to-perfection-in-fcp-for-2024/"><u>The Editor's Roadmap to Perfection in FCP for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-handbook-for-instagram-reels-for-2024/"><u>The Essential Handbook for Instagram Reels for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-creating-dynamic-podcast-feeds-for-2024/"><u>The Fundamentals of Creating Dynamic Podcast Feeds for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/what-does-virtual-mean-in-a-world-of-reality/"><u>What Does 'Virtual' Mean in a World of Reality?</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-google-pixel-8-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Google Pixel 8 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-channel-removal-pcphone-for-2024/"><u>[New] The Ultimate Guide to Youtube Channel Removal (PC/Phone) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iktok-versus-youtube-shorts-assessing-personal-usage-value/"><u>[New] TikTok versus YouTube Shorts Assessing Personal Usage Value</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-analyzing-investment-costs-for-auditory-visual-fusion/"><u>[Updated] Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expertly-selected-asmr-tools-for-androidios/"><u>[Updated] Expertly Selected ASMR Tools for Android/iOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-androids-screen-shutter-select-the-best-eight-free-tools/"><u>2024 Approved Android's Screen Shutter - Select the Best Eight Free Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhance-website-analytics-using-cookiebot-technology-precise-data-collection-methods/"><u>Enhance Website Analytics Using Cookiebot Technology – Precise Data Collection Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-passion-for-starry-jewelry-denied-by-samsung-a-tale-of-cosmic-aspirations-and-tech-restrictions/"><u>My Passion for Starry Jewelry Denied by Samsung – A Tale of Cosmic Aspirations and Tech Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-8-pro-vs-oneplus-12-face-off-determining-the-undeniable-champion/"><u>Pixel 8 Pro Vs. OnePlus 12 Face-Off: Determining the Undeniable Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-contact-manager-unveiling-the-latest-updates-in-microsofts-outlook-mobile-application/"><u>Revamped Contact Manager: Unveiling the Latest Updates in Microsoft's Outlook Mobile Application</u></a></li>
 </ul></div>
+

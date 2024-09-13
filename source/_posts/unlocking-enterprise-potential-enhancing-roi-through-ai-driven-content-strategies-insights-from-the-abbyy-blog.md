@@ -1,18 +1,12 @@
 ---
 title: "Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog"
-date: 2024-09-06T23:23:49.880Z
-updated: 2024-09-07T23:23:49.880Z
+date: 2024-09-12T07:17:22.549Z
+updated: 2024-09-13T07:17:22.549Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d1b350a14d170a43db0a71bd.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
@@ -25,12 +19,6 @@ April 27, 2018
 
 ![Linking AI to Business Value: How Mobile and RPA transform knowledge work | ABBYY Blog Post](https://static1.abbyy.com/abbyycommedia/25284/9156e_blog_linking-ai-to-business-value-with-new-content-intelligence-solutions_4_blog_934x400.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The growing trend of integrating artificial intelligence into business processes not only augments any work involving data-driven decision-making, but also changes the way knowledge work gets done in many organizations.
 
 In the words of Peter Drucker, who first coined the term ‘knowledge workers’ back in 1959, the greatest challenge is to “increase the productivity of [knowledge work](https://aibusiness.com/intelligent-rpa-transforming-knowledge-work-business-world/) and knowledge workers.” Given how the office environment is changing, automation can significantly increase the overall scale of a department or organization by eliminating routine tasks and freeing up employees to handle exceptions or perform creative work. It empowers knowledge workers to focus on higher value scenarios and help minimize human error.
@@ -38,11 +26,18 @@ In the words of Peter Drucker, who first coined the term ‘knowledge workers’
 Two important trends are having a significant impact on [knowledge work](https://aibusiness.com/kim-technologies-interview/). One is mobile, which is moving many business processes towards a self-serve model. The other is automation, and the use of AI, when it comes to basic decision-making.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How Mobile and RPA transform knowledge work
 
 The exponential growth in the use of mobile devices has introduced a major paradigm shift in the workplace. Many tasks that the knowledge worker used to own and drive are now being driven and owned by the end user initiating the mobile engagement.
@@ -56,17 +51,18 @@ Organizations are using RPA to automate reoccurring, support-driven tasks, often
 Furthermore, AI adds significant value to both RPA and mobile. In relation to RPA, sophisticated machine learning algorithms can watch and learn how knowledge workers react and take action in given circumstances and predict future outcomes or recommended courses of action.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## What the future holds for AI in business
 
 Despite the hype and general exaggeration around AI, organizations should expect tangible benefits from artificial intelligence applications in the coming year. Near and dear to our hearts is the need for organizations to simplify and automate the transformation of unstructured content into structured content, so they can take action and make better decisions quicker.
@@ -82,19 +78,27 @@ _This is the abridged version of the article: New Content Intelligence Solutions
 ![Anthony Macciola ABBYY](https://static4.abbyy.com/abbyycommedia/25717/anthonymacciola-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Anthony Macciola
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Like, share or repost
 
 Share 
@@ -149,8 +153,6 @@ Connect with us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,36 +162,16 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>[New] Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-shooting-essential-gimbals-and-handhelds-reviewed/"><u>[New] Streamlined Shooting  Essential Gimbals and Handhelds Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-video-edits-the-reason-for-imovie-cropping/"><u>[New] Tailoring Video Edits  The Reason for iMovie Cropping</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-video-storytelling-integrating-audio-narration/"><u>[New] The Art of Video Storytelling  Integrating Audio Narration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-closer-look-approach-to-team-collaboration/"><u>[New] The Closer Look Approach to Team Collaboration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-studio-magic-comprehensive-xreview/"><u>[New] Unveiling Studio Magic  Comprehensive XReview</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-effortless-methods-to-document-console-gaming-for-2024/"><u>[Updated] Effortless Methods to Document Console Gaming for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-how-to-securely-document-whatsapp-discussions/"><u>[Updated] In 2024, How to Securely Document WhatsApp Discussions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>[Updated] The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-best-4k-monitors/"><u>[Updated] The Ultimate List of Best 4K Monitors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-of-ifunnys-meme-application/"><u>[Updated] Unleash the Potential of iFunny’s Meme Application</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-upside-exploring-asmrs-advantages/"><u>[Updated] Unlocking the Upside  Exploring ASMR's Advantages</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-swift-tweeting-solutions-with-video-conversion/"><u>2024 Approved  Swift Tweeting Solutions with Video Conversion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-cheat-sheet-to-mastering-spotify-advertising/"><u>2024 Approved  The Comprehensive Cheat Sheet to Mastering Spotify Advertising</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-font-customization-in-ae/"><u>2024 Approved  The Ultimate Guide to Font Customization in AE</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-google-pixel-7amirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Google Pixel 7aMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-does-the-system-restore-feature-work-in-windows-11/"><u>How Does the System Restore Feature Work in Windows 11?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-tips-for-digital-boards-in-zoom-desktops-and-mobile/"><u>In 2024, Essential Tips for Digital Boards in Zoom Desktops & Mobile</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synergy-strategies-for-ig-and-tiktok/"><u>In 2024, Synergy Strategies for IG & TikTok</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-9-free-android-mp3-extractors/"><u>In 2024, Top 9 FREE Android MP3 Extractors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-trip-diary-into-haul-video-hype/"><u>In 2024, Transform Your Trip Diary Into Haul Video Hype</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-obs-potential-strategies-involving-lut-filters/"><u>In 2024, Unlocking OBS Potential  Strategies Involving LUT Filters</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-analysis-navigating-zoom-for-webinars-and-livestreams/"><u>In-Depth Analysis  Navigating Zoom for Webinars and Livestreams</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>New 2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/polishing-zoom-picture-quality-simple-solutions/"><u>Polishing Zoom Picture Quality  Simple Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shining-spots-on-screen-top-video-lights-strategies-for-2024/"><u>Shining Spots on Screen  Top Video Lights Strategies for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-definitive-list-high-quality-costless-lut-options-explored-for-2024/"><u>The Definitive List  High-Quality, Costless LUT Options Explored for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-visualizing-audio-brilliance-for-2024/"><u>The Ultimate Guide to Visualizing Audio Brilliance for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-photos-removing-backdrops-with-ease-for-2024/"><u>Transform Your Photos  Removing Backdrops with Ease for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-start-to-mastering-io-screen-recording/"><u>[New] 2024 Approved Quick Start to Mastering IO Screen Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unveiling-youtubes-cc-policy-for-aspiring-creators/"><u>[New] 2024 Approved Unveiling YouTube's CC Policy for Aspiring Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimizing-video-flow-for-social-networks/"><u>[New] Optimizing Video Flow for Social Networks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-setting-the-stage-your-first-virtual-boardroom-with-google/"><u>[Updated] In 2024, Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-best-10-free-converters-for-jpeg-and-gif/"><u>[Updated] Navigating Best 10 Free Converters for JPEG & GIF</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>2024 Approved Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-gt-neo-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme GT Neo 5 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-visuals-with-our-cutting-edge-fork-of-stable-diffusion-perfect-for-creating-large-format-images-effortlessly/"><u>Enhance Your Visuals with Our Cutting-Edge Fork of Stable Diffusion, Perfect for Creating Large Format Images Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-rocket-league-performance-hiccups-and-stutters/"><u>How to Address Rocket League Performance Hiccups and Stutters</u></a></li>
 </ul></div>
+
