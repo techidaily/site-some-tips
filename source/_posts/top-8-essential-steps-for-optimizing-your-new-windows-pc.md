@@ -1,7 +1,7 @@
 ---
 title: Top 8 Essential Steps for Optimizing Your New Windows PC
-date: 2024-09-12T07:13:49.346Z
-updated: 2024-09-13T07:13:49.346Z
+date: 2024-09-16T16:05:41.882Z
+updated: 2024-09-17T16:05:17.541Z
 tags:
   - desktop
 categories:
@@ -34,20 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the blue "Check for Updates" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/check-for-updates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Uninstall Pre-Installed Bloatware
 
  Bloatware refers to unnecessary apps and programs that are pre-installed on your laptop by the manufacturer. These can include antivirus software, music or streaming apps, weather and news apps, video games, OEM-branded apps, and more. These apps occupy valuable storage space and reduce system performance by running in the background.
@@ -57,13 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Locate the unnecessary apps, click on the three horizontal dots next to them, and click “Uninstall.”
 
 ![Uninstalling an app in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-uninstalling-an-app-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Configure Backup
 
@@ -76,10 +55,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It never hurts to create a local backup of your important data either, in addition to a cloud solution. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a System Restore Point
@@ -90,13 +69,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Creating a system restore point in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-creating-a-system-restore-point-in-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Disable Ads and Recommendations
 
  Microsoft displays advertisements in various areas of the operating system, including the Start menu, Lock Screen, File Explorer, Windows Search, Windows Store, and more.
@@ -104,13 +76,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While Microsoft personalizes these ads and recommendations based on the apps and services you use, aiming to enhance the user experience by suggesting relevant services, they can become quite annoying over time. If you prefer not to be bothered by them, you’ll need to disable them.
 
  Unfortunately, there isn’t a one-click option to turn off all ads; you’ll have to[disable them in each section individually](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Enable Find My Device
 
@@ -120,20 +85,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Turning on Find My Device in Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-turning-on-find-my-device-in-windows-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Set Up Windows Hello
 
  Next, [set up Windows Hello](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to instantly sign in to your laptop using facial recognition, fingerprint scanning, or a PIN, so you can avoid typing a long password. To do this, open Settings, go to the “Accounts” tab on the left, and navigate to Accounts > Sign-In Options. Click on the sign-in option you want to set up and follow the on-screen instructions.
 
 ![Different Windows Hello Sign In Options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-different-windows-hello-sign-in-options.jpg) 
 
- If your PC doesn’t have a fingerprint sensor or doesn’t support facial recognition, you won’t be able to use those options.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If your PC doesn’t have a fingerprint sensor or doesn’t support facial recognition, you won’t be able to use those options.
 
 ##  Install Essential Apps
 
@@ -160,18 +132,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-essential-tutorial-for-vrecorder-setup/"><u>[Updated] 2024 Approved The Essential Tutorial for VRecorder Setup</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-compendium-of-camera-types-for-professional-videos/"><u>[Updated] Compendium of Camera Types for Professional Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-linux-skills-with-tips-from-chatgpt-a-personal-experience/"><u>Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/electric-vehicle-charging-issues-unraveling-the-top-8-causes-of-connection-failures/"><u>Electric Vehicle Charging Issues: Unraveling the Top 8 Causes of Connection Failures</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Lenovo Phone without Google Account?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-5-steps-to-crafting-engaging-cost-effective-youtube-ads/"><u>In 2024, 5 Steps to Crafting Engaging, Cost-Effective YouTube Ads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-the-complete-guide-to-precision-crafting-in-minecraft-worlds/"><u>In 2024, The Complete Guide to Precision Crafting in Minecraft Worlds</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-compression-mastery-how-to-get-the-most-out-of-compressor-in-fcpx/"><u>New 2024 Approved Compression Mastery How to Get the Most Out of Compressor in FCPX</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mac-green-screen-software-finding-the-perfect-fit-for-you/"><u>New In 2024, Mac Green Screen Software Finding the Perfect Fit for You</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-5-free-online-video-editors-similar-to-imovie-updated-2023/"><u>Updated 5 Free Online Video Editors Similar to iMovie (Updated 2023)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/zero-down-time-fix-apex-legends-crash/"><u>Zero Down Time: Fix Apex Legends Crash</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>[Updated] 2024 Approved Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-inexpensive-quality-camera-solutions/"><u>2024 Approved Inexpensive Quality Camera Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-film-color-correction-with-luts/"><u>2024 Approved Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-for-resolving-update-error-0xc1900208-on-windows-11-systems/"><u>Comprehensive Solution for Resolving Update Error 0Xc1900208 on Windows 11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expertise-en-efficacite-des-transports-comment-accelerer-vos-processus-avec-notre-chef-lieu-checklist/"><u>Expertise en Efficacité Des Transports : Comment Accélérer Vos Processus Avec Notre Chef-Lieu Checklist !</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-insights-and-conversions/"><u>Harness the Power of Cookiebot for Superior Website Insights & Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-for-superior-site-engagement/"><u>Harnessing the Power of Cookiebot for Superior Site Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-us-for-an-exciting-showcase-of-abbyy-technologies-at-ai-pulse-developers-conference-2024/"><u>Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!</u></a></li>
 </ul></div>
 

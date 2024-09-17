@@ -1,7 +1,7 @@
 ---
 title: ABBYY's Latest SDK Revolutionizes Receipt Digitization with Cutting-Edge Features
-date: 2024-09-12T07:16:05.903Z
-updated: 2024-09-13T07:16:05.903Z
+date: 2024-09-11T16:00:01.807Z
+updated: 2024-09-17T16:14:51.531Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
@@ -11,31 +11,11 @@ thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d3
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Announces Receipt Capture SDK
 
 June 28, 2016
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**Developers Can Capture New Business, New Value Quickly and Easily**_ 
 
@@ -92,20 +72,29 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-the-best-high-res-capture-software/"><u>[New] Ultimate Guide to the Best High-Res Capture Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-fixing-iphone-x-overcoming-face-id-malfunction/"><u>2024 Approved Fixing iPhone X Overcoming Face ID Malfunction</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-art-of-iphone-photography-mastering-image-cropping/"><u>2024 Approved The Art of iPhone Photography Mastering Image Cropping</u></a></li>
-<li><a href="https://some-tips.techidaily.com/chromes-new-feature-could-enable-direct-appreciation-payments-to-sites/"><u>Chrome's New Feature Could Enable Direct Appreciation Payments to Sites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/crack-the-puzzle-with-todays-nyt-july-11-connections-hints-and-answer-part-396/"><u>Crack the Puzzle with Today's NYT - July 11 Connections Hints and Answer, Part #396</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/curating-background-beats-for-impactful-trailers/"><u>Curating Background Beats for Impactful Trailers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
-<li><a href="https://techidaily.com/exploring-copernic-a-comprehensive-guide-to-efficient-photo-browsing/"><u>Exploring Copernic: A Comprehensive Guide to Efficient Photo Browsing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998671715-god-of-war-action-packed-first-person-shooter-now-available-for-windows-gamers/"><u>God of War Action-Packed First Person Shooter Now Available for Windows Gamers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>In 2024, Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-addressing-visual-anomalies-on-computer-screens/"><u>Troubleshooting Tips: Addressing Visual Anomalies on Computer Screens</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/picurean-eminence-best-online-chefs-and-cooks/"><u>[New] Epicurean Eminence Best Online Chefs & Cooks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-psychology-behind-effective-interviews/"><u>[Updated] 2024 Approved The Psychology Behind Effective Interviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-conversion-rates-efficiently-using-the-power-of-cookiebot-technology-for-websites/"><u>Enhance Conversion Rates Efficiently Using the Power of Cookiebot Technology for Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-website-with-cookiebot-driven-analytics-solutions/"><u>Enhance Your Website with Cookiebot-Driven Analytics Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-using-the-latest-cookiebot-features/"><u>Enhanced Performance Using the Latest Cookiebot Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-via-automated-trackers/"><u>Enhanced Performance via Automated Trackers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/nvidia-rtx-2080-drivers-fresh-release-download-now-for-windows-1178/"><u>NVIDIA RTX 2080 Drivers - Fresh Release: Download Now for Windows 11/7/8</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-creative-expression-through-zero-cost-animation-for-2024/"><u>Pioneering Creative Expression Through Zero-Cost Animation for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-d3dx92missingnot-found-dll-errors-a-step-by-step-guide/"><u>Resolving D3dx9_2([missing|not Found]) DLL Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722077791787-tackling-ransomware-for-under-50-with-smartphone-tricks-a-sneak-peek-at-how-chatgpt-enhances-our-podcasts/"><u>Tackling Ransomware for Under $50 with Smartphone Tricks - A Sneak Peek at How ChatGPT Enhances Our Podcasts!</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated In 2024, Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

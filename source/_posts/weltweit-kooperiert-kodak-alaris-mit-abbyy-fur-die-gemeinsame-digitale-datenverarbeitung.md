@@ -1,7 +1,7 @@
 ---
 title: Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung
-date: 2024-09-12T07:17:25.075Z
-updated: 2024-09-13T07:17:25.075Z
+date: 2024-09-15T16:07:52.681Z
+updated: 2024-09-17T16:02:46.814Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd29168db916ce8a5c89a69be.jpg
@@ -11,40 +11,13 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Kodak Alaris baut weltweite Kooperation mit ABBYY aus
 
 19\. Januar 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![News 21 Partners](https://static1.abbyy.com/abbyycommedia/33676/news-21-partners.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Kodak Alaris gab die [globale strategische Kooperation](https://www.alarisworld.com/landing-page/global-alliance-partners?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=ABBYY) mit dem Digital Intelligence-Unternehmen ABBYY bekannt. Die Vereinbarung erweitert die langjährige Partnerschaft durch Integration der [ausgezeichneten Informationserfassungslösungen](https://www.alarisworld.com/about-us/newsroom/2021/2021-bli-scanner-line-of-the-year?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=ABBYY) von Kodak Alaris in die branchenführende, cloudbasierte intelligente Low-Code-/No-Code-Dokumentenverarbeitungsplattform (IDP) [Vantage](https://tools.techidaily.com/abbyy/products/) von ABBYY. Mit ihr können Unternehmen Dokumente erfolgreich in verwertbare Daten verwandeln.
 
@@ -60,13 +33,6 @@ Der INfuse Scanner digitalisiert Dokumente und liefert die Daten direkt an die A
 
 Weitere Informationen unter [AlarisWorld.com](https://www.AlarisWorld.com).
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Über ABBYY
 
 ABBYY ermöglicht es, mit seiner Digital Intelligence Plattform die gesamten Geschäftsprozesse und Informationen, die ein Unternehmen antreiben, zu analysieren und im Detail zu verstehen. ABBYY-Technologien werden von mehr als 5.000 Unternehmen weltweit eingesetzt, darunter viele Fortune-500-Unternehmen. Die als führend ausgezeichneten Lösungen im Bereich [Intelligent Document Processing (IDP)](https://www.abbyy.com/company/news/everest-group-recognizes-abbyy-as-a-leader-in-intelligent-document-processing-products-peak-matrix-assessment-for-second-consecutive-year-2020/ "Everest Group Recognizes ABBYY as a Leader in Intelligent Document Processing Products") und [Process Discovery & Mining](https://tools.techidaily.com/abbyy/products/) steigern Effizienz, Rentabilität und Wettbewerbsfähigkeit eines Unternehmens und verbessern das Kundenerlebnis nachhaltig. ABBYY ist ein globales Unternehmen mit Niederlassungen in 14 Ländern. Weitere Informationen finden Sie unter <https://www.abbyy.com/de>.
@@ -80,10 +46,10 @@ Kodak Alaris ist ein führender Anbieter von Informationserfassungslösungen, di
 ©2022 Kodak Alaris Inc. TM/MC/MR: Alaris. Alle Marken und Markennamen sind Eigentum ihrer jeweiligen Inhaber. Die Marke Kodak und das Logo von Kodak werden unter Lizenz von der Eastman Kodak Company verwendet.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Unternehmenskontakt:
@@ -103,10 +69,10 @@ E-Mail: [scannerfamilie@kodakalaris.com](https://tools.techidaily.com/abbyy/prod
 Internet: <http://www.AlarisWorld.com>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pressekontakt:
@@ -142,16 +108,21 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-gaming-techniques-mastering-switch-pro-controller-on-steam/"><u>[New] Expert Gaming Techniques Mastering Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-smile-stashers-the-ultimate-list-of-meme-makers/"><u>2024 Approved Smile Stashers The Ultimate List of Meme Makers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-m54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy M54 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computer-hardware-with-tom-a-detailed-analysis/"><u>Exploring the World of Computer Hardware with Tom - A Detailed Analysis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-tecno-pop-7-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Tecno Pop 7 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/identifying-genuine-interactions-distinguishing-authentic-chatgpt-communications-from-fake-ones/"><u>Identifying Genuine Interactions: Distinguishing Authentic ChatGPT Communications From Fake Ones</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 15 Plus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-apples-anticipated-vision-pro-glasses-a-comprehensive-review/"><u>Introducing Apple's Anticipated Vision Pro Glasses: A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-stable-diffusion-3-next-level-ai-innovation-unveiled/"><u>Introducing Stable Diffusion 3: Next-Level AI Innovation Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-investing-in-a-virtual-reality-vr-headset-worth-it/"><u>Is Investing in a Virtual Reality (VR) Headset Worth It?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/join-the-universal-zero-cost-meta-vr-community-a-new-era-of-virtual-interaction-begins/"><u>Join the Universal, Zero-Cost Meta VR Community - A New Era of Virtual Interaction Begins!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-reality-redefined-examining-vr-today-and-upcoming-challenges/"><u>[New] In 2024, Reality Redefined Examining VR Today & Upcoming Challenges</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-your-channel-a-guide-to-gaining-viewers/"><u>Boosting Your Channel A Guide to Gaining Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-online-forms-and-data-collection-effortlessly/"><u>Cookiebot Driven Success: Enhancing Online Forms & Data Collection Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-automation-enhance-your-websites-seo-effortlessly/"><u>Cookiebot-Driven Automation: Enhance Your Website's SEO Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-enhancing-your-sites-performance/"><u>Cookiebot-Driven Solutions: Enhancing Your Site's Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-marketing-solutions/"><u>Cookiebot-Enabled Marketing Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-your-reliable-partner-for-enhanced-website-traffic-and-analytics/"><u>Cookiebot: Your Reliable Partner for Enhanced Website Traffic and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/die-top-vorteile-von-jobs-bei-abbyy-erfolgsgeschichte-aufsteigen/"><u>Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-how-to-activate-and-deactivate-subtitles-for-a-better-disneyplus-experience/"><u>Discover How to Activate and Deactivate Subtitles for a Better Disney+ Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-digitize-documents-scan-and-convert-with-ocr-technology-perfect-app-for-iphone-users/"><u>Efficiently Digitize Documents: Scan & Convert with OCR Technology - Perfect App for iPhone Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2020-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2020) to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-fe-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 FE Phone with Broken Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-oppo-a2-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Oppo A2 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovating-with-snapchats-new-highlight-feature/"><u>Innovating with Snapchat's New Highlight Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-past-opengl-problems-in-minecraft-practical-strategies-and-fixes/"><u>Navigate Past OpenGL Problems in Minecraft: Practical Strategies and Fixes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-how-to-repair-a-malfunctioning-imessage-on-ios-devices-and-computers/"><u>Quick Solutions: How to Repair a Malfunctioning iMessage on iOS Devices and Computers</u></a></li>
 </ul></div>
 

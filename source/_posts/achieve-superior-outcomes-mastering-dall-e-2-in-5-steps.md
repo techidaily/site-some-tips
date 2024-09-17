@@ -1,7 +1,7 @@
 ---
 title: "Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps"
-date: 2024-09-12T07:14:34.621Z
-updated: 2024-09-13T07:14:34.621Z
+date: 2024-09-12T16:03:12.519Z
+updated: 2024-09-17T16:13:00.376Z
 tags:
   - cutting-edge
 categories:
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
  First, you can sign up for [DALL-E](https://openai.com/dall-e-2/) beta [on OpenAI's website](https://labs.openai.com/auth/signup). It's free to sign up with an email address, Google account, or Microsoft account. Everyone gets 50 free credits their first month and 15 free credits each subsequent month. One credit is good for one prompt, which spits out four images.
 
 Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-hints.techidaily.com/best-practices-for-converting-webp-to-jpg-format-for-2024/) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Describe the Subject in Detail
 
@@ -66,22 +59,21 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 
 ![A oil painting of a forest filled with trees made of pizza](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-01-06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now we have four images that distinctly look like an oil painting of a forest filled with trees made of pizza. If you're trying to [create some art to hang up in your home](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/), using an art style in your prompt will make for much better results.
 
 Related: [What Can You Do With AI Generated Art?](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set the Mood of the Scene
@@ -92,28 +84,15 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 
 ![a 6-legged zebra running through a candy corn field.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-13-54.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It totally ignored the "6-legged" part, but that's pretty good. Let's fine tune the mood a bit. The zebra is "sad" now and it's running through the field in the "dark." Two simple words and now we have very different results.
 
 ![A sad zebra running through a candy corn field in the dark.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-15-54.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Expand on Existing Photos
@@ -125,22 +104,21 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 ![DALL-E outpainting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dall-e-outpainting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also use this feature to "edit" certain parts of images. Say I didn't like the Sombrero in one of the robot images above. I can erase the Sombrero and describe a different hat or let DALL-E remove it entirely from the image.
 
 ![A robot eating a taco without the sombrero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-29-15.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Outpainting is one of the coolest DALL-E features. There's a lot you can do with it to edit your own existing images or images created by DALL-E. It's easy to get lost in creating new prompts, but don't overlook Outpainting.
 
@@ -169,13 +147,16 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-do-screen-recording-on-iphone-easily-in-2024/"><u>[New] How to Do Screen Recording on Iphone Easily, In 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-learn-quickly-flipping-video-sequence-android-style/"><u>[Updated] 2024 Approved Learn Quickly Flipping Video Sequence Android-Style</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unlock-creative-closure-ideas-with-our-template-service/"><u>[Updated] Unlock Creative Closure Ideas with Our Template Service</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-simplifying-avi-gif-conversion-with-filmora-on-windowsmac/"><u>2024 Approved Simplifying AVI-GIF Conversion with Filmora on Windows/Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-value-ev-charger-bundles-top-reviews-of-anker-powerdrive-with-accelerated-battery-replacement/"><u>Best Value EV Charger Bundles – Top Reviews of Anker PowerDrive with Accelerated Battery Replacement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fixing-issues-with-your-windows-start-menu-a-comprehensive-guide/"><u>Fixing Issues with Your Windows Start Menu: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/making-the-most-of-onedrive-with-windows-11-why-microsoft-encourages-integration/"><u>Making the Most of OneDrive with Windows 11: Why Microsoft Encourages Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/resizing-icons-effortlessly-in-windows-10-a-step-by-step-guide/"><u>Resizing Icons Effortlessly in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-secrets-of-iphones-video-loops/"><u>[Updated] Unveiling the Secrets of iPhone's Video Loops</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tactical-video-migration-youtube-to-dailymotion-masterclass/"><u>2024 Approved Tactical Video Migration YouTube to Dailymotion Masterclass</u></a></li>
+<li><a href="https://facebook.techidaily.com/administrative-control-integrating-new-members-on-facebook-pages/"><u>Administrative Control: Integrating New Members on Facebook Pages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customizing-windows-11-with-tailored-themes-and-styles/"><u>Customizing Windows 11 with Tailored Themes and Styles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enabling-rdc-access-for-windows-11-comprehensive-tutorial-to-connect-remotely/"><u>Enabling RDC Access for Windows 11: Comprehensive Tutorial to Connect Remotely</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-interactive-achievements-the-click-based-reward/"><u>In 2024, Interactive Achievements The Click-Based Reward</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-gif-animation-explained/"><u>In 2024, The Art of GIF Animation Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/valider-les-pieces-didentite-a-distance-grace-a-la-technologie-de-reconnaissance-optique-de-caracteres-ocr-de-abbyy-avec-le-systeme-trustid-en-nuage/"><u>Valider Les Pièces D'identité À Distance Grâce À La Technologie De Reconnaissance Optique De Caractères (OCR) De ABBYY Avec Le Système TrustID en Nuage</u></a></li>
 </ul></div>
 

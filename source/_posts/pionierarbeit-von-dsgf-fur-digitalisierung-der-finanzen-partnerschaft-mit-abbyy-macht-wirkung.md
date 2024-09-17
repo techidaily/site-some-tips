@@ -1,7 +1,7 @@
 ---
 title: "Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung"
-date: 2024-09-12T07:18:53.546Z
-updated: 2024-09-13T07:18:53.546Z
+date: 2024-09-13T16:05:46.135Z
+updated: 2024-09-17T16:06:53.642Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c360208046bfffff6e9458bb6e.jpg
@@ -11,37 +11,11 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Führender Prozessgestalter der Sparkassen-Finanzgruppe digitalisiert Auftragsmanagement mit ABBYY
 
 5\. November 2019
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### _Die DSGF treibt mit ABBYY digitale Transformation in der Finanzbranche voran_
 
@@ -101,19 +75,30 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-affordable-cameras-for-effective-vloggers/"><u>[New] In 2024, Affordable Cameras for Effective Vloggers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-shopping-strategy-top-7-affordable-4k-mirrorless/"><u>2024 Approved Smart Shopping Strategy Top 7 Affordable 4K Mirrorless</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bridging-cultures-top-10-reasons-to-dive-into-another-tongue/"><u>Bridging Cultures: Top 10 Reasons to Dive Into Another Tongue</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-gadget-evaluations-with-toms-hardware-experts/"><u>Expert Gadget Evaluations with Tom's Hardware Experts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/guide-to-use-luts-in-premiere-pro-for-2024/"><u>Guide to Use LUTs in Premiere Pro for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-xiaomi-redmi-13c-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi 13C 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-nioh-2-game-stalling-problems-a-step-by-step-solution/"><u>How To Fix Nioh 2 Game Stalling Problems – A Step-By-Step Solution</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-breaking-barriers-to-sound-in-twitters-visual-share/"><u>In 2024, Breaking Barriers to Sound in Twitter's Visual Share</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/os-melhores-programas-gratuitos-de-extracao-e-ripagem-de-dvd-em-windows-11-download-totalmente-completo/"><u>Os Melhores Programas Gratuitos De Extração E Ripagem De DVD Em Windows 11 – Download Totalmente Completo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/"><u>The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-8-essential-steps-for-optimizing-your-new-windows-pc/"><u>Top 8 Essential Steps for Optimizing Your New Windows PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-ultimate-highlight-hits-ios-and-android-instagram-covers-apps/"><u>[New] In 2024, Ultimate Highlight Hits IOS & Android Instagram Covers Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-angles-the-complete-manual-for-effective-video-turns/"><u>[New] Instagram Angles The Complete Manual for Effective Video Turns</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-channel-titles-that-shine-how-to-innovate/"><u>[Updated] 2024 Approved Channel Titles That Shine How to Innovate</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capture-the-essence-choose-from-these-top-9-gif-recipes-for-windows/"><u>2024 Approved Capture the Essence Choose From These Top 9 GIF Recipes for Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-immersive-image-editing-online-cropping-essentials/"><u>2024 Approved Immersive Image Editing Online Cropping Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-possibilities-my-wishlist-for-the-new-ipad-mini-7/"><u>Innovative Possibilities: My Wishlist for the New iPad Mini 7</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/swift-video-repair-techniques-for-macos-devices/"><u>Swift Video Repair Techniques for macOS Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-refresh-3000-revolutionary-windows-rebooting/"><u>Tech Refresh 3000: Revolutionary Windows Rebooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-checklist-to-prepare-your-zoom-room-for-2024/"><u>The Ultimate Checklist to Prepare Your Zoom Room for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

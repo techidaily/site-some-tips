@@ -1,7 +1,7 @@
 ---
 title: "Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions"
-date: 2024-09-12T07:18:45.950Z
-updated: 2024-09-13T07:18:45.950Z
+date: 2024-09-16T16:12:18.460Z
+updated: 2024-09-17T16:01:02.203Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b3072dcf3b79b657b93df0cfe34.jpg
@@ -11,37 +11,11 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## From A for ABBYY to Z for the zenith of technology: ABBYY is the best-in-class technology partner of Eucon
 
 06 juin 2018
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Eucon is an expert in the technically correct examination, automated processing and digital management of claims documents. Long-term industry know-how, extensive databases and the latest technologies enable it to offer highly specialised solutions. With ABBYY Capture software, documents are captured, the relevant data is extracted and information is intelligently transferred to the appropriate workflows.
 
@@ -63,19 +37,6 @@ The centralized capture and categorisation of documents with ABBYY solutions ena
 "ABBYY Capture software provides us with the document capture basis for the subsequent design of our machine learning modules. This allows us to offer optimal support for our customer processes in the business areas of insurance and real estate," explains Jörg Niestroj, Director of Research & Development at Eucon Digital GmbH. "ABBYY has impressed us with its excellent recognition rate. The software provides us with outstanding results with respect to document capture. Moreover, adjustments to the underlying rules are very easy. Thanks to the automation and standardisation of processes, our customers can realise significant savings and improve their processes optimally. The result is greater efficiency, transparency and service quality in document processing."  
   
 ![](https://static1.abbyy.com/abbyycommedia/18859/eucon_dokumenten_scan_validierung_video_1500x792px_15.jpg?width=600&height=348)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Eucon processes documents for insurance and real estate companies with ABBYY OCR with a high degree of automation. Source: Eucon Digital GmbH
 
@@ -111,16 +72,31 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-orchestrate-audio-amidst-slides/"><u>2024 Approved Orchestrate Audio Amidst Slides</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-big-benefits-in-small-packages-detailed-assessment-of-the-acer-predator-triton-300-se/"><u>Exploring Big Benefits in Small Packages: Detailed Assessment of the Acer Predator Triton 300 SE</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/hosting-youtube-webinars-for-no-charge/"><u>Hosting YouTube Webinars for No Charge</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-photo-finishes-picarts-background-erase-method-for-2024/"><u>Perfect Photo Finishes PicArt's Background Erase Method for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-m54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy M54 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-secretive-instagram-viewing-for-2024/"><u>The Ultimate Guide to Secretive Instagram Viewing for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-top-10-best-photo-layering-and-editing-apps-iosandroid/"><u>[New] Explore Top 10 Best Photo Layering & Editing Apps iOS/Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-soaring-high-with-q500s-4k-vision/"><u>[New] Soaring High with Q500's 4K Vision</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-3-efficient-methods-for-saving-youtubes-standardized-images-for-2024/"><u>[Updated] 3 Efficient Methods for Saving YouTube's Standardized Images for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-rapid-routes-transferring-ios-photos-and-videos/"><u>[Updated] Rapid Routes Transferring iOS Photos & Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-digital-diving-into-youtubes-veiled-video-vaults/"><u>2024 Approved Digital Diving Into YouTube’s Veiled Video Vaults</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-savvy-text-communication-tricks-to-avoid-overspending/"><u>Data-Savvy Text Communication: Tricks to Avoid Overspending</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-solutions-for-diagnosing-and-correcting-dpc-watchdog-errors-in-windows-10/"><u>Effective Solutions for Diagnosing and Correcting DPC Watchdog Errors in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-file-removal-techniques-with-windows-powershell-commands/"><u>Efficient File Removal Techniques with Windows PowerShell Commands</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/gamers-guide-to-affordable-performance-the-top-2024-graphic-card-reviews/"><u>Gamers' Guide to Affordable Performance: The Top 2024 Graphic Card Reviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lag-solutions-for-dota-2s-performance-issues-on-windows-11/"><u>Overcoming Lag: Solutions for Dota 2'S Performance Issues on Windows 11</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

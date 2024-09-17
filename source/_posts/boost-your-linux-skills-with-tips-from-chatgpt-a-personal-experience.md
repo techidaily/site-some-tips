@@ -1,7 +1,7 @@
 ---
 title: Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience
-date: 2024-09-12T07:14:38.448Z
-updated: 2024-09-13T07:14:38.448Z
+date: 2024-09-13T16:08:12.298Z
+updated: 2024-09-17T16:06:23.974Z
 tags:
   - cutting-edge
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,13 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Navigating Linux With ChatGPT](https://extra-hints.techidaily.com/introducing-effortless-age-correction-in-profiles/)
 
  When I first got into Linux, it felt like I was going on an adventure without a guide. Every command seemed like a challenge, and every error message felt like a cryptic puzzle. But then I got hold of a secret weapon—ChatGPT. It transformed my Linux journey for good.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Linux Can Be Challenging but AI Tools Are There to Help You
 
@@ -57,29 +43,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Linux file system explained by ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/linux-file-system-explained-by-chatgpt-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It talked about [inodes](https://fox-http.techidaily.com/enthralling-examination-and-replacement-ideas-for-2024/), which I wasn't quite familiar with. So I asked for more explanation on that point.
 
 ![Inodes being explained by ChatGPT-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/inodes-being-explained-by-chatgpt-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The great thing about this is that you can revisit this conversation anytime in the future and recall the key points. No need to do multiple Google searches. If you think something is going over your head, you can ask ChatGPT to explain it simply. Here's an example where I asked ChatGPT to [explain kernels](https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/).
 
@@ -107,24 +73,24 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT breakdowns a command used for deleting old log files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breakdowns-a-command-used-for-deleting-old-log-files.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fun fact, with a bit of prompting, you could use ChatGPT as a Linux terminal simulator. A Reddit user named [cyb3rofficial](https://www.reddit.com/user/cyb3rofficial/) shared a long prompt that could turn your ChatGPT conversation into a Linux terminal session. This can be useful when you'd like to learn what a command will do in your system without running it on a real device. Here's the prompt:
 
 > I want you to act as a Linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. Do not write explanations. Do not type commands unless I instruct you to do so. When I need to tell you something in English I will do so by putting text inside curly brackets {like this}. My first command is pwd.
 
 ![ChatGPT acting as a Linux terminal where the user can input Linux commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-acting-as-a-linux-terminal.png) 
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Troubleshooting Linux Errors
 
@@ -140,6 +106,20 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT demonstrating the command for installing software on openSUSE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-demonstrating-the-command-for-installing-software-on-opensuse.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Learn How to Do Something on Linux
 
  A common [mistake new Linux users make](https://screen-capture.techidaily.com/updated-cross-platform-zoom-meeting-setup-guide-for-2024/) is to think that Linux is the same as Windows. That's not the case. So when you [switch to Linux](https://fox-http.techidaily.com/customize-with-ease-adding-personalized-audio-to-android-devices/) from Windows for the first time, you'll have to change many of your workflows. From [installing software](https://extra-guidance.techidaily.com/smarter-spending-on-cloud-data-services-insights-and-recommendations-for-2024/) and [monitoring processes](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nubia-z50s-pro-drfone-by-drfone-virtual/) to [navigating the system](https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/), and configuring the settings.
@@ -150,26 +130,13 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT giving Linux alternatives of Windows Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-giving-linux-alternatives-of-windows-task-manager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  So it gives you all the Linux alternatives to Task Manager. Likewise, you can ask ChatGPT for any step-by-step process of doing an activity on Linux, and it'll show you how to do that.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Creating Bash Scripts to Automate Tasks
@@ -180,31 +147,11 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT creating a Bash script for monitoring memory and CPU usage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-bash-script-for-monitoring-memory-and-cpu-usage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It created a Bash script with proper comments on what's happening in the code. It went further and also provided instructions on using the script, customizing it, and running it in the background. Pretty neat!
 
  Without the AI tool, you'd have to learn Bash syntax in depth, know how to create good scripts, and make sure there are no errors (and if there are, look for them). Talk about saving time to save more time!
 
  Again, I'll have to remind you though. ChatGPT can make mistakes. And when it comes to running code or scripts on a real system, you should be more cautious.
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Navigating Linux With ChatGPT
 
@@ -225,14 +172,15 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[Updated] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-luminous-android-videography-techniques/"><u>[Updated] Luminous Android Videography Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-images-into-movies-xp-software-guide/"><u>[Updated] Transform Images Into Movies XP Software Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-walk-down-memory-lane-rediscovering-our-love-for-dial-up-connections-and-their-quirks/"><u>A Walk Down Memory Lane: Rediscovering Our Love for Dial-Up Connections and Their Quirks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-evolution-in-management-tools-how-windows-11-transforms-the-classic-task-manager/"><u>Discovering Evolution in Management Tools: How Windows 11 Transforms the Classic Task Manager</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/elevate-your-website-analytics-and-performance-through-advanced-cookiebot-technology/"><u>Elevate Your Website Analytics and Performance Through Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-pcs-creativity-with-advanced-ai-powered-image-generation/"><u>Enhance Your PC's Creativity with Advanced AI-Powered Image Generation</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m34-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M34 5Gwith/without a PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-vn-video-editor-pc-edition-a-brief-inspection/"><u>Updated In 2024, VN Video Editor PC Edition A Brief Inspection</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[New] In 2024, Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-shorts-guide-what-is-it-and-how-to-make-shorts-video/"><u>[Updated] YouTube Shorts Guide What Is It and How To Make Shorts Video?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-decoding-the-code-for-quick-fb-media/"><u>2024 Approved Decoding the Code for Quick FB Media</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/size-doesnt-limit-excellence-a-comprehensive-review-of-the-iphone-12-mini-by-apple/"><u>Size Doesn't Limit Excellence: A Comprehensive Review of the iPhone 12 Mini by Apple</u></a></li>
+<li><a href="https://video-capture.techidaily.com/smartphones-and-tablets-leading-gb-gameplayers/"><u>Smartphones & Tablets Leading GB Gameplayers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide to Setting Up System Restore on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-how-to-determine-your-windows-10-edition-and-build/"><u>Step-by-Step Guide: How to Determine Your Windows 10 Edition and Build</u></a></li>
+<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-valkyrie-vind-sl125-reviewed-stunning-design-yet-lacking-in-robust-performance/"><u>The Valkyrie Vind SL125 Reviewed: Stunning Design, Yet Lacking in Robust Performance</u></a></li>
 </ul></div>
 

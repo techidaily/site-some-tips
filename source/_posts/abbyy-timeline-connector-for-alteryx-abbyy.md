@@ -1,7 +1,7 @@
 ---
 title: ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド
-date: 2024-09-12T07:16:03.433Z
-updated: 2024-09-13T07:16:03.433Z
+date: 2024-09-12T16:07:57.362Z
+updated: 2024-09-17T16:11:47.009Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468e25eb7e04a5333cdbe19d66.jpg
@@ -11,44 +11,17 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Timeline Connector for Alteryx®のご紹介
 
 2月3日, 2021
 
 ![](https://static4.abbyy.com/abbyycommedia/31704/alteryx-abbyy-2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ABBYYは、DX（デジタルトランスフォーメーション）のイニシアチブを加速するため、アナリティック・プロセス・オートメーション（APA™）のリーダーである[Alteryx (NYSE:AYX)](https://www.alteryx.com/ja)と連携し、同社の[Alteryx Analytic Process Automation Platform™](https://www.alteryx.com/ja/products/apa-platform)を補うProcess Intelligence機能の提供を始めました。そして、[ABBYYの公式サイト](https://tools.techidaily.com/abbyy/products/)で、「Alteryx連携コネクタ」が公開されました。（[2020年10月23日ニュースリリース](https://tools.techidaily.com/abbyy/products/)）
 
 AlteryxのAPAプラットフォーム™は、分析、データサイエンス、データ処理を中心とするプロセスオートメーションを1つのセルフサービスプラットフォームへと統合するものです。コネクタを利用することで、Alteryx Designer®より[ABBYY Timeline](https://tools.techidaily.com/abbyy/products/)へシームレスにデータ連携が可能になり、ユーザーは、エンドツーエンドの分析と業務プロセスの実行評価をすばやく開始、分析、予測、監視することが可能となります。
 
 ![ABBYY Connector for Alteryx](https://static1.abbyy.com/abbyycommedia/31692/alteryx-abbyy-connector.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 どのようにABBYY TimelineがAlteryxのAPAプラットフォーム™に統合されているか、詳細は動画をご覧下さい。
 
@@ -67,13 +40,6 @@ ABBYY Timeline Connector for Alteryxについてのお問い合わせは[こち�
 ※AlteryxはAlteryx, Inc.の登録商標です。その他Alteryx Designerを含む製品名は、Alteryxの商標または登録商標である可能性があります。
 
 [デジタルインテリジェンス](https://tools.techidaily.com/abbyy/products/) [プロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/) [エンタープライズ](https://tools.techidaily.com/abbyy/products/) [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### いいね！、シェア、再投稿
 
@@ -138,14 +104,23 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-explore-top-10-premium-free-iosandroid-live-video-platforms-for-2024/"><u>[Updated] Explore Top 10 Premium-Free iOS/Android Live Video Platforms for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-evolution-of-drone-remote-control-systems-syma-x8c/"><u>2024 Approved The Evolution of Drone Remote Control Systems – Syma X8C</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-6s-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 6s Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/premium-cellphone-discounts-and-promotions-by-verizon-for-this-period/"><u>Premium Cellphone Discounts and Promotions by Verizon for This Period</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-familys-effortless-coordination-why-we-cant-live-without-cozi/"><u>The Secret Behind My Family's Effortless Coordination: Why We Can't Live Without Cozi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-record-your-mac-view-in-minutes/"><u>[New] Record Your Mac View in Minutes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-horizontal-or-vertical-crafting-the-best-fb-video-posts/"><u>[Updated] In 2024, Horizontal or Vertical Crafting the Best FB Video Posts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-the-perfect-way-to-add-linktree-to-tiktok-bio/"><u>[Updated] The Perfect Way to Add Linktree to TikTok Bio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-boost-your-seo-success/"><u>Cookiebot-Driven Site Optimization: Boost Your SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-experience-enhancing-website-personalization-and-marketing/"><u>Cookiebot-Enabled User Experience: Enhancing Website Personalization and Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics-tools/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Analytics Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pioneering-tomorrow-visionary-developments-in-vr/"><u>In 2024, Pioneering Tomorrow Visionary Developments in VR</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premier-5-web-video-capture-tech/"><u>Premier 5 Web Video Capture Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-converting-your-dall-e-webp-to-jpgpng-with-ease/"><u>Simple Steps: Converting Your DALL-E WebP to JPG/PNG with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-flashy-game-collection-quick-and-lightweight/"><u>Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-digital-outreach-insights-into-facebook-twitter-instagram-and-youtubes-impact/"><u>Understanding Digital Outreach: Insights Into Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney"
-date: 2024-09-12T07:15:01.851Z
-updated: 2024-09-13T07:15:01.851Z
+date: 2024-09-12T16:02:40.700Z
+updated: 2024-09-17T16:03:47.668Z
 tags:
   - cutting-edge
 categories:
@@ -21,13 +21,6 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
  I've tried to generate prompts with plain vanilla ChatGPT (both the free and paid version), and while it will create a prompt for use with MidJourney, those prompts don't seem anywhere near as good as the ones created by the specialized DALL-E mode for ChatGPT. I don't know if that's just the placebo effect in action, but it stands to reason that OpenAI would have done some fine-tuning with this mode of ChatGPT to produce better images.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How DALL-E 3 Works in ChatGPT
 
  To understand why you can get such good prompts from DALL-E 3, it's necessary to briefly explain how generating images using ChatGPT and DALL-E 3 works, and how it differs from MidJourney.
@@ -38,40 +31,13 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
 ![DALL-E 3 Prompt Request in ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/1-20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This means the AI chatbot is taking over the job of prompt engineer, and that gives us the opportunity to use its prompt engineering prowess in MidJourney.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Porting ChatGPT's DALL-E 3 Prompts Back into MidJourney
 
  It's not immediately obvious where the actual prompts are that DALL-E 3 has used to create the images you asked for, but all you have to do is click on one of the images in the results to open the gallery.
 
 ![DALL-E 3 Output of Space Octopuses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-20.png) 
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To the right of the image is the prompt, although you'll likely not see it all in the preview. Click the "Copy" button below the prompt to copy it to the clipboard.
 
@@ -81,29 +47,9 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
 ![MidJourney With Prompt from DALL-E 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-11.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, enjoy the results!
 
 ![MidJourney Results from DALL-E 3 Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-11.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Keep in mind that each of the (up to) four images that DALL-E 3 produces in ChatGPT will have their own unique prompt, so use the one that resulted in the best result according to your own taste.
 
@@ -126,19 +72,25 @@ DALL-E 3 via [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-ef
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/2024-approved-backtrack-with-your-iphone-films/"><u>2024 Approved Backtrack with Your iPhone Films</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopro-studio-secrets-building-professional-time-lapses/"><u>2024 Approved GoPro Studio Secrets Building Professional Time Lapses</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-80-pro-straight-screen-edition-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor 80 Pro Straight Screen Edition Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems-for-2024/"><u>Best Practices for Safe, No-Cost VLC Player Download on Apple Systems for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-a-seamless-gift-discovery-journey-for-2024/"><u>Crafting a Seamless Gift Discovery Journey for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-unmatched-travel-planning-with-bings-innovative-ai-concierge/"><u>Experience Unmatched Travel Planning with Bing's Innovative AI Concierge</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-creality-k1-max-how-this-3d-printer-is-changing-the-game-for-hobbyists-and-professionals-alike/"><u>Exploring the Creality K1 Max: How This 3D Printer Is Changing the Game for Hobbyists and Professionals Alike</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-innovative-strategy-behind-duckduckgos-latest-ai-powered-search-technology/"><u>Exploring the Innovative Strategy Behind DuckDuckGo's Latest AI-Powered Search Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-access-chatgpt-now-offers-customized-gpt-models-to-everyone/"><u>Free Access: ChatGPT Now Offers Customized GPT Models to Everyone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-effectively-recharge-oculus-quest-vr-controllers-a-comprehensive-tutorial/"><u>How To Effectively Recharge Oculus Quest VR Controllers - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/identifying-genuine-interactions-distinguishing-authentic-chatgpt-communications-from-fake-ones/"><u>Identifying Genuine Interactions: Distinguishing Authentic ChatGPT Communications From Fake Ones</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/identifying-if-someone-has-removed-you-from-their-snap-circle/"><u>Identifying if Someone Has Removed You From Their Snap Circle</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-score-a-bargain-on-final-cut-pro-with-our-education-bundle-guide/"><u>New 2024 Approved Score a Bargain on Final Cut Pro with Our Education Bundle Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/window-capture-suite-pro-xp-for-2024/"><u>Window Capture Suite Pro XP for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-samsung-printer-driver-for-windows/"><u>[Download] Samsung Printer Driver For Windows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-elevate-your-mobile-film-experience-with-optimal-accessories-for-2024/"><u>[New] Elevate Your Mobile Film Experience with Optimal Accessories for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-crafting-a-viral-video-journey-6-key-strategies-on-youtube/"><u>[Updated] 2024 Approved Crafting a Viral Video Journey 6 Key Strategies on YouTube</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-direct-obs-video-feed-for-instagram/"><u>[Updated] 2024 Approved Direct OBS Video Feed for Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insights-into-instagrams-maxed-out-videos/"><u>[Updated] 2024 Approved Insights Into Instagram's Maxed-Out Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unifying-zoom-meeting-dates-across-phone-tablet-and-computer-for-2024/"><u>[Updated] Unifying Zoom Meeting Dates Across Phone, Tablet, and Computer for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-amplify-content-with-free-audio-samples/"><u>In 2024, Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-meizu-21-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Meizu 21 for Free? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/locating-your-apps-executable-in-no-time-a-fast-guide-for-windows-10-users/"><u>Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-convert-untapped-mac-keyboard-buttons-to-instant-shortcut-magic-using-our-simple-tool/"><u>Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/migrating-applications-from-one-hard-drive-to-another-on-windows-11-a-step-by-step-guide/"><u>Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-more-local-watches-netflix-abandons-windows-offline-download-feature/"><u>No More Local Watches? Netflix Abandons Windows Offline Download Feature</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-calm-in-the-digital-realm-navigating-to-your-personal-sanctuary-online/"><u>Updated 2024 Approved Calm in the Digital Realm Navigating to Your Personal Sanctuary Online</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog"
-date: 2024-09-12T07:17:22.549Z
-updated: 2024-09-13T07:17:22.549Z
+date: 2024-09-12T16:05:18.996Z
+updated: 2024-09-17T16:04:01.254Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d1b350a14d170a43db0a71bd.jpg
@@ -25,19 +25,6 @@ In the words of Peter Drucker, who first coined the term ‘knowledge workers’
 
 Two important trends are having a significant impact on [knowledge work](https://aibusiness.com/kim-technologies-interview/). One is mobile, which is moving many business processes towards a self-serve model. The other is automation, and the use of AI, when it comes to basic decision-making.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Mobile and RPA transform knowledge work
 
 The exponential growth in the use of mobile devices has introduced a major paradigm shift in the workplace. Many tasks that the knowledge worker used to own and drive are now being driven and owned by the end user initiating the mobile engagement.
@@ -49,19 +36,6 @@ Like mobile, automation – or more specifically, [robotic process automation](h
 Organizations are using RPA to automate reoccurring, support-driven tasks, often referred to as ‘swivel chair’ activities. These are activities where the knowledge worker interacts with various systems and data streams to complete a task. RPA does an excellent job automating these tasks, reducing manual operations costs by 25 to 40% or more, and the tools are typically easy enough to use – allowing almost anyone to build a ‘robot’.
 
 Furthermore, AI adds significant value to both RPA and mobile. In relation to RPA, sophisticated machine learning algorithms can watch and learn how knowledge workers react and take action in given circumstances and predict future outcomes or recommended courses of action.
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What the future holds for AI in business
 
@@ -77,27 +51,7 @@ _This is the abridged version of the article: New Content Intelligence Solutions
 
 ![Anthony Macciola ABBYY](https://static4.abbyy.com/abbyycommedia/25717/anthonymacciola-99x99.png)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Anthony Macciola
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -162,16 +116,26 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-start-to-mastering-io-screen-recording/"><u>[New] 2024 Approved Quick Start to Mastering IO Screen Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unveiling-youtubes-cc-policy-for-aspiring-creators/"><u>[New] 2024 Approved Unveiling YouTube's CC Policy for Aspiring Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimizing-video-flow-for-social-networks/"><u>[New] Optimizing Video Flow for Social Networks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-setting-the-stage-your-first-virtual-boardroom-with-google/"><u>[Updated] In 2024, Setting the Stage Your First Virtual Boardroom with Google</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-best-10-free-converters-for-jpeg-and-gif/"><u>[Updated] Navigating Best 10 Free Converters for JPEG & GIF</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>2024 Approved Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-gt-neo-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme GT Neo 5 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-visuals-with-our-cutting-edge-fork-of-stable-diffusion-perfect-for-creating-large-format-images-effortlessly/"><u>Enhance Your Visuals with Our Cutting-Edge Fork of Stable Diffusion, Perfect for Creating Large Format Images Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-rocket-league-performance-hiccups-and-stutters/"><u>How to Address Rocket League Performance Hiccups and Stutters</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfectly-shot-episodes-top-webcams-for-podcast-producers/"><u>[New] Perfectly Shot Episodes Top Webcams for Podcast Producers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-saving-your-best-on-instagram-a-comprehensive-guide-for-2024/"><u>[Updated] Saving Your Best on Instagram A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1-create-captivating-mac-photo-slideshows-with-our-free-slider-tool/"><u>1. Create Captivating Mac Photo Slideshows with Our FREE Slider Tool!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-orchestrating-smart-process-integration-the-abbyy-way/"><u>1. Orchestrating Smart Process Integration: The ABBYY Way</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamlining-visual-storytelling-best-plugin-choices-in-ae/"><u>2024 Approved Streamlining Visual Storytelling Best Plugin Choices in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-innovatives-rebranding-die-digitale-revolution-und-der-fokus-auf-den-menschen-im-modernen-markendesign/"><u>ABBYY's Innovatives Rebranding - Die Digitale Revolution Und Der Fokus Auf Den Menschen Im Modernen Markendesign</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-unleashing-potential-with-apples-ipad-mini-tier/"><u>Comprehensive Assessment: Unleashing Potential with Apple's iPad Mini Tier</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pcs-performance-with-the-latest-downloadable-drivers-for-amd-radeon-r5-supporting-win8-win10-and-win11/"><u>Enhance Your PC's Performance with the Latest Downloadable Drivers for AMD Radeon R5 - Supporting Win8, Win10 & Win11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/pronunciacion-de-colores-hispanoamericana/"><u>Pronunciación De Colores Hispanoamericana</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ease-behind-kids-embracing-second-languages/"><u>The Ease Behind Kids Embracing Second Languages</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-directx-errors-on-fifa-20-expert-tips-and-fixes/"><u>Troubleshooting DirectX Errors on FIFA 20 – Expert Tips and Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-innovation-by-abbyy-enhanced-ocr-software-development-kit-sdk-with-finereader-engine-v12-features/"><u>Unveiling the Latest Innovation by ABBYY - Enhanced OCR Software Development Kit (SDK) with FineReader Engine V.12 Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

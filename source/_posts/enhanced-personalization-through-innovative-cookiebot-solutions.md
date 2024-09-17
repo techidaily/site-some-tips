@@ -1,7 +1,7 @@
 ---
 title: Enhanced Personalization Through Innovative Cookiebot Solutions
-date: 2024-09-12T07:19:10.624Z
-updated: 2024-09-13T07:19:10.624Z
+date: 2024-09-11T16:11:54.115Z
+updated: 2024-09-17T16:11:26.882Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3ccf5eb07317cde4aac3003016.jpg
@@ -13,31 +13,11 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
 Construction | Digital Archiving
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 建設情報プロバイダCMDが、ABBYYの拡張性の高いOCRソリューション導入で、大規模な建設文書処理を効率化
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/ja/93821.png?h=40&iar=0&w=120)
 
 [お客様のストーリーに戻る](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 建設情報プロバイダCMDが、ABBYYの拡張性の高いOCRソリューション導入で、大規模な建設文書処理を効率化
 
@@ -48,13 +28,6 @@ Construction | Digital Archiving
 #### お客様の概要
 
 ![Construction Management Data (CMD)](https://static1.abbyy.com/abbyycommedia/15457/cmd-logo-150.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 | 氏名     | Construction Management Data (CMD)            |
 | ------ | --------------------------------------------- |
@@ -126,40 +99,13 @@ Mykulowyc氏によると、建設は季節的な事業だといいます。「2�
 
 [![ABBYY認識サーバーは、ABBYY FineReaderサーバーとしてブランド変更されました](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (現在、ABBYY FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![ドキュメントアーカイブ<small>EN</small>](https://static1.abbyy.com/abbyycommedia/14355/5-document-archiving.jpg)](https://tools.techidaily.com/abbyy/products/) [ドキュメントアーカイブEN](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [詳細を読む](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF版](https://static3.abbyy.com/abbyycommedia/15558/11-construction-management-data-cmd-2.png)](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") [PDF版](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [詳細を読む](https://static4.abbyy.com/abbyycommedia/23672/customer-story-cmd-ja.pdf "PDF版") 
 
@@ -192,14 +138,23 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-a-marketers-manual-for-recognizing-fabricated-supporters-for-2024/"><u>[New] A Marketer’s Manual for Recognizing Fabricated Supporters for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-subscriber-chart-5-most-subscribed-youtuber/"><u>[Updated] YouTube Subscriber Chart - 5 Most Subscribed YouTuber</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-13-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-compare-and-contrast-best-6-hdmi-monitor-models-in-detail/"><u>In 2024, Compare & Contrast Best 6 HDMI Monitor Models in Detail</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-apples-anticipated-vision-pro-glasses-a-comprehensive-review/"><u>Introducing Apple's Anticipated Vision Pro Glasses: A Comprehensive Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-stable-diffusion-3-next-level-ai-innovation-unveiled/"><u>Introducing Stable Diffusion 3: Next-Level AI Innovation Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-investing-in-a-virtual-reality-vr-headset-worth-it/"><u>Is Investing in a Virtual Reality (VR) Headset Worth It?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-choices-unveiling-the-best-eight-mobile-gaming-experiences/"><u>Leading Choices: Unveiling the Best Eight Mobile Gaming Experiences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-fast-favorites-todays-highest-youtube-tracks/"><u>[Updated] In 2024, Fast Favorites Today's Highest Youtube Tracks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-synthesize-music-with-images-in-ppts/"><u>[Updated] In 2024, Synthesize Music with Images in PPTs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-which-is-more-fitting-for-you-tiktok-or-youtubes-micro-video-channels/"><u>[Updated] Which Is More Fitting for You TikTok or YouTube's Micro-Video Channels?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/asus-bt500-bluetooth-device-installing-and-updating-drivers-on-win11win10win8/"><u>Asus BT500 Bluetooth Device: Installing and Updating Drivers on Win11/Win10/Win8</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-v29e-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V29e Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-magic-vs-2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor Magic Vs 2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/steering-innovation-meet-ulf-persson-ceo-of-abbyy/"><u>Steering Innovation - Meet Ulf Persson, CEO of ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-order-management-how-dot-foods-empowers-sales-team-with-automated-po-systems/"><u>Streamlining Order Management: How Dot Foods Empowers Sales Team with Automated PO Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-anatomy-of-a-web-page-essentials-for-optimization/"><u>Understanding the Anatomy of a Web Page: Essentials for Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

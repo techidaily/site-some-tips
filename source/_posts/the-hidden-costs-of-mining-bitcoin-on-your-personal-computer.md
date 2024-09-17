@@ -1,7 +1,7 @@
 ---
 title: The Hidden Costs of Mining Bitcoin on Your Personal Computer
-date: 2024-09-12T07:15:16.405Z
-updated: 2024-09-13T07:15:16.405Z
+date: 2024-09-11T16:10:51.077Z
+updated: 2024-09-17T16:08:56.856Z
 tags:
   - cutting-edge
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## The Hidden Costs of Mining Bitcoin on Your Personal Computer
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,19 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [Laptops Are Bad at Mining, Anyway](https://facebook-video-share.techidaily.com/new-engaging-vlogger-subjects-each-day-for-2024/)
 
  Laptops and [mining crypto](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/) don't mix. Even a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) doesn't have the hardware to go all-out 24/7\. Using your laptop as a mining rig is a good way to damage the hardware---and it won't be able to mine well.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What Crypto Mining Does to a Computer
 
@@ -53,13 +33,6 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  This isn't necessarily a problem for desktop GPUs. [A GPU used for mining may still have a good lifespan ahead of it if it was properly cooled](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/). However, a laptop is very different from a mining rig.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Laptops Are Not Designed For This
 
  Most laptops, even high-end ones for gaming and creative professional work, are not designed to run at peak capacity 24/7\. Instead, they ramp up performance as needed and keep heat and power levels as low as possible the rest of the time. Even heavy workloads, such as playing a AAA video game for hours, don't peg your computer's CPU and GPU at 100%. Instead, the load is dynamic, providing small opportunities to dump heat.
@@ -68,29 +41,9 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  There are laptops that are designed as number-crunching workstations, but these computers are better described as "portable" rather than mobile computers. Some of these workstation laptops have socketed desktop CPUs, which are designed to suck power from a wall outlet and really push those thermal limits. Unless you have one of these behemoths, your laptop probably wasn't made to handle the stresses of mining.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Fans Wear Out
 
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
 
@@ -101,10 +54,16 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  Modern laptops dynamically adjust fan speeds to match the thermal load, with some even switching them off when the system is only under a light load. If you're mining cryptocurrency, they'll be screaming headlong towards the end.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Thermal Battery Aging
@@ -112,6 +71,13 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  While most of your electronic components will probably be fine as long as they stay within the rated safe temperate range, one component that might not take the heat well is the laptop's battery. Lithium-ion batteries should operate between -20 °C to 60 °C depending on the specific application and manufacturer recommendation. If they are exposed to temperatures higher than that, they can degrade and have their lifespans shortened due to an effect known as thermal aging.
 
  In 2018, Shuai Ma and colleagues published a [paper on thermal impact and lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S1002007118307536). They cite research showing that lithium batteries subjected to 75 °C for a few days show severe degradation. While that doesn't mean sustained high temperatures in your laptop will kill your batteries quickly, it's worth remembering that components like the GPU can hit temperatures close to 100 °C, especially in a laptop where the line between "safe" and "too hot" is very thin.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Laptops Are Bad at Mining, Anyway
 
@@ -134,19 +100,21 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-bridging-content-gap-youtube-videos-to-instagram/"><u>[New] 2024 Approved Bridging Content Gap YouTube Videos to Instagram</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-superior-websites-for-a-modern-social-experience-for-2024/"><u>[New] Superior Websites for a Modern Social Experience for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-aesthetic-fusion-studio-ultimate-photo-alchemy/"><u>[Updated] 2024 Approved Aesthetic Fusion Studio Ultimate Photo Alchemy</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-digital-video-capturing-demystified-systematic-guide/"><u>[Updated] Digital Video Capturing Demystified Systematic Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancing-audio-precision-microsoft-enhances-speech-clarity-across-additional-personal-computers/"><u>Advancing Audio Precision: Microsoft Enhances Speech Clarity Across Additional Personal Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-connections-through-ai-how-chatgpt-can-help-fight-feelings-of-isolation/"><u>Building Connections Through AI: How ChatGPT Can Help Fight Feelings of Isolation</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy S24+? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reconstructing-broken-nikon-mov-media/"><u>Reconstructing Broken Nikon MOV Media</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/traverse-times-tapestry-with-public-domain-art/"><u>Traverse Time's Tapestry with Public Domain Art</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-next-level-splitting-tools-beyond-xsplit-for-2024/"><u>[Updated] Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-googles-leap-forward-an-insight-into-the-power-of-palm-2-technology/"><u>Decoding Google’s Leap Forward: An Insight Into the Power of PaLM 2 Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elevate-your-video-projects-storyremix-meets-windows-11-photos-for-2024/"><u>Elevate Your Video Projects StoryRemix Meets Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-engagement-best-practices-for-b-roll-integration/"><u>Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-realme-12-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Realme 12 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-retrieve-your-lost-instagram-login-credentials/"><u>Step-by-Step Guide: Retrieve Your Lost Instagram Login Credentials</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-on-portable-drivereasy-for-mobile-troubleshooting/"><u>Step-by-Step Tutorial on Portable DriverEasy for Mobile Troubleshooting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722844917969-top-15-sites-offering-complimentary-music-downloads/"><u>Top 15 Sites Offering Complimentary Music Downloads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-data-usage-24-hour-videography-in-gbs-for-2024/"><u>Total Data Usage 24-Hour Videography in GBs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wireguard-integration-available-in-proton-vpns-new-release-improved-privacy-and-speed-for-linux-users/"><u>WireGuard Integration Available in Proton VPN's New Release – Improved Privacy and Speed for Linux Users</u></a></li>
 </ul></div>
 

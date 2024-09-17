@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Website's User Experience Using Advanced Cookieless Tracking Technology
-date: 2024-09-12T07:17:18.565Z
-updated: 2024-09-13T07:17:18.565Z
+date: 2024-09-11T16:13:42.070Z
+updated: 2024-09-17T16:01:55.554Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426c62a6f89484db17077fafde.jpg
@@ -11,19 +11,6 @@ thumbnail: https://thmb.techidaily.com/2cea6027c03bd4c55f4ae87f65e8c9bc1f9246426
 
 ABBYYでの仕事と生活
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYYでの自分を想像する 
 
 ABBYYでの仕事とは 
@@ -31,13 +18,6 @@ ABBYYでの仕事とは
 [募集中のポジション](https://tools.techidaily.com/abbyy/products/)
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/visuals/careers-visual-abbyy.jpg?h=1000&iar=0&w=5120)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 当社の価値観 
 
@@ -50,13 +30,6 @@ ABBYYの成功の土台は、企業とその社員のアイデンティティ、
 物事をシンプルに保つことを心がけましょう。簡単に説明、理解できることが極めて重要です。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-128.svg?h=128&iar=0&w=128)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### 透明性 
 
@@ -72,31 +45,11 @@ ABBYYは、社員の知識と情報に信頼を置いています。当社は、
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-1.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-3.jpg?h=395&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/carousel-2.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-1-2023.jpg?h=242&iar=0&w=360)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-2.jpg?h=242&iar=0&w=458)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-3.jpg?h=242&iar=0&w=263)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-4-2023.jpg?h=396&iar=0&w=750)![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/image-gallery/working-1-5-2023.jpg?h=396&iar=0&w=360)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ABBYYのビジョンは、インテリジェント・オートメーションの推進におけるリーダーとなることです。これは戦略、ビジネスプラン、収益成長、収益性、その他の目標達成への極めて強固なコミットメントを必要とするものます。 ですが、それだけではさらなる高みを目指すことはできません。ABBYYの最大の強みは、アイデアや計画を実際の成果に変える人材なのです。人材を何よりも優先し、ひとりひとりがプロとして、また個人として成長することができる環境を整えることが当社の目標です。 
 
 Ulf Persson、ABBYYグループCEOおよび代表取締役 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/life-at-abbyy/drawer-1.jpg?h=389&iar=0&w=750)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ABBYYの基本指針 
 
@@ -146,13 +99,6 @@ ABBYYでは、フレックスタイム制により、すべての社員にリモ
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/careers/drawer-image-2.jpg?h=389&iar=0&w=750)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 「私たち全体の経験、歴史、経歴、能力、考え方は豊かであり、たとえそれがビジネスの目的で組織されたコミュニティであるにも関わらず、これらが1つのコミュニティの中で大切にされています。 
 
 多くの成功しているビジネスがそうであるように、ABBYYも企業としての個性を重視し、顧客により良いサービスを提供できる製品を作ろうと努力しています。 イノベーションは、挑戦と非線形思考の機能であり、それは異なる視点を反映する個人によって可能になるものなのです。多様な人材を雇用し、維持するためには、何者も排除しない環境、つまり違いが尊重され、誰もが自分の居場所だと感じられるようなコミュニティを提供する必要があります。それがABBYYの願いであり、ビジョンです」 
@@ -175,29 +121,22 @@ ABBYYにおいて、環境および社会的責任への取り組みは、長き
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_mountain-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### カーボンニュートラルへの道 
 
 2023年から、ABBYYは出張時の二酸化炭素排出量を測定し、オフセットプログラムに投資しています。 
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/2-color-16/_misc_heart-64.svg?h=64&iar=0&w=64)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### ABBYY Summer Challenge 
 
 毎年、世界的なスポーツコンペティションを開催し、社員が1キロメートル走ったり、サイクリングしたり、歩いたり、泳いだりするごとにチャリティを寄付しています。 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ABBYYについて詳しく 
 
@@ -220,18 +159,20 @@ AIを活用したインテリジェントオートメーションのリーディ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-world-of-vsco-editing-features/"><u>[New] Navigating the World of VSCO Editing Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-online-audio-solutions-2023-guide/"><u>2024 Approved Best Online Audio Solutions 2023 Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/achieve-superior-outcomes-mastering-dall-e-2-in-5-steps/"><u>Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-cutting-edge-results-with-our-latest-ai-enhanced-google-search/"><u>Discover Cutting-Edge Results with Our Latest AI-Enhanced Google Search</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-excels-latest-feature-pasting-data-without-unwanted-formatting-via-keyboard-shortcut/"><u>Discover Excel’s Latest Feature: Pasting Data without Unwanted Formatting via Keyboard Shortcut</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Pro Max Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-process-changing-your-facebook-login-credentials/"><u>Step-by-Step Process: Changing Your Facebook Login Credentials</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unlock-follower-growth-secrets-on-facebook-in-10-simple-ways-for-2024/"><u>Unlock Follower Growth Secrets on Facebook in 10 Simple Ways for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content-for-2024/"><u>[New] Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-blaze-curve-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Blaze Curve 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/auroras-approach-to-hdv-standing-out-or-same-old/"><u>Aurora's Approach to HDV Standing Out or Same Old</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-site-visibility-with-cookiebots-advanced-seo-tools/"><u>Enhance Your Site Visibility with Cookiebot's Advanced SEO Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-by-cookiebot-solutions-boosting-website-analytics-and-seo-success/"><u>Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-microsoft-sharepoint-through-advanced-ocr-discover-the-power-of-abbyys-innovative-tools/"><u>Enhancing Microsoft SharePoint Through Advanced OCR: Discover the Power of ABBYY's Innovative Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-site-traffic-with-the-power-of-cookiebot-technology/"><u>Enhancing Site Traffic with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-la-banca-popolare-dellemilia-romagna-streamlines-processes-using-abbyy-finereader-software/"><u>How La Banca Popolare Dell'Emilia Romagna Streamlines Processes Using ABBYY FineReader Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-tailored-online-interactions-and-seo-success/"><u>Leveraging Cookiebot Technology for Tailored Online Interactions and SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/line-of-business-insights-overcoming-logistics-hurdles-by-mirroring-staff-knowledge/"><u>Line-of-Business Insights: Overcoming Logistics Hurdles by Mirroring Staff Knowledge</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/privacy-of-your-interactions-with-chatgpt-how-secure-are-they/"><u>Privacy of Your Interactions with ChatGPT: How Secure Are They?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revolutionize-your-drive-the-ultimate-car-code-readers-compilation-best-books-and-articles-on-auto-engineering/"><u>Revolutionize Your Drive: The Ultimate Car Code Readers Compilation – Best Books and Articles on Auto Engineering !</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-portable-charger-showdown-spotlight-on-poweradd-pilot-pro2/"><u>The Ultimate Portable Charger Showdown - Spotlight on POWERADD Pilot Pro2</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-corrupted-images-on-your-pc-windows-1110-solutions/"><u>Troubleshooting Corrupted Images on Your PC – Windows 11/10 Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-ideal-frames-per-second-for-excellent-slow-mo-videos-for-2024/"><u>Unveiling Ideal Frames Per Second For Excellent Slow-Mo Videos for 2024</u></a></li>
 </ul></div>
 

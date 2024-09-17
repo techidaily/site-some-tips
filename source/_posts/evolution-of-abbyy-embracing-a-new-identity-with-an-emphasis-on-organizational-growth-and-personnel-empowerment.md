@@ -1,7 +1,7 @@
 ---
 title: "Evolution of ABBYY: Embracing a New Identity with an Emphasis on Organizational Growth and Personnel Empowerment"
-date: 2024-09-12T07:17:51.321Z
-updated: 2024-09-13T07:17:51.321Z
+date: 2024-09-15T16:00:44.897Z
+updated: 2024-09-17T16:02:46.755Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94df04c327a143f8799409248.jpg
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY’s New Brand Reflects Its Focus on People and Business Transformation
 
 March 18, 2021
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), a global Digital Intelligence company, revealed today its new corporate brand identity, featuring vibrant illustrations and colors and an updated logo. The new brand design, created with brand and design agency, [Shuka](https://shuka.design/), reflects what ABBYY represents: a visionary, innovative, trusted, high-energy, and creative expert who helps to reimagine and accelerate organizations’ transformations globally.
 
@@ -73,18 +59,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-boosting-sale-traffic-top-15-fb-analysis-tools-reviewed-for-2024/"><u>[New] The Ultimate Guide to Boosting Sale Traffic Top 15 FB Analysis Tools Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-download-instagram-videos-on-pc-and-mac/"><u>[Updated] How to Download Instagram Videos on PC and Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/apex-legends-cheating-glitch-solution-overcome-with-ease/"><u>Apex Legends Cheating Glitch Solution - Overcome with Ease</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ring-t-series-youtube-profit-strategy/"><u>Exploring T-Series YouTube Profit Strategy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y28-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y28 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/transforming-your-android-device-into-a-portable-wireless-access-point/"><u>Transforming Your Android Device Into a Portable Wireless Access Point</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-your-mac-creating-captivating-style-videography/"><u>[Updated] 2024 Approved Mastering Your Mac Creating Captivating Style Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximizing-your-social-media-impact-group-photosvideos-on-ig/"><u>[Updated] 2024 Approved Maximizing Your Social Media Impact Group Photos/Videos on IG</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-streamline-your-life-with-these-5-chrome-tools-for-fb-video-grabs/"><u>[Updated] Streamline Your Life with These 5 Chrome Tools for FB Video Grabs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-kinemaster-edge-mastering-video-segmentation-and-transitioning/"><u>2024 Approved The Kinemaster Edge Mastering Video Segmentation and Transitioning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-configuring-finder-display-preferences-for-main-and-subfolders/"><u>Guide: Configuring Finder Display Preferences for Main & Subfolders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-connoisseurs-melding-visionary-sounds-and-frames/"><u>In 2024, Connoisseurs Melding Visionary Sounds & Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-power-streamlining-eucon-workflows-with-smart-ocr-solutions/"><u>Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-infinix-smart-8-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Infinix Smart 8 Phone? Unlock It Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/newcomer-needs-efficient-purchases-of-monetizing-platforms-for-2024/"><u>Newcomer Needs Efficient Purchases of Monetizing Platforms for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-relink-not-launching-error-in-granblue-fantasy-a-step-by-step-guide/"><u>Solving the 'Relink Not Launching' Error in Granblue Fantasy – A Step-by-Step Guide</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

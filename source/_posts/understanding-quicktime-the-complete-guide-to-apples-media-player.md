@@ -1,7 +1,7 @@
 ---
 title: "Understanding QuickTime: The Complete Guide to Apple's Media Player"
-date: 2024-09-12T07:14:32.137Z
-updated: 2024-09-13T07:14:32.137Z
+date: 2024-09-13T16:01:10.226Z
+updated: 2024-09-17T16:10:39.630Z
 tags:
   - deals
 categories:
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
 ## Understanding QuickTime: The Complete Guide to Apple's Media Player
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [The Origins of QuickTime](https://fox-info.techidaily.com/2024-approved-the-art-of-integrating-b-footage-into-main-shots/)
 * [QuickTime Isn't Dead (Yet)](https://www.howtogeek.com/what-is-quicktime-player/#quicktime-isn-39-t-dead-yet)
 * [Alternatives to QuickTime Player](https://screen-video-capture.techidaily.com/2024-approved-multiangle-exploration-guide/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 * QuickTime's functionality now includes basic video and audio playback, recording, and screen mirroring, with alternatives like VLC Player available.
 
  Apple's QuickTime technology used to be one of the main ways to watch videos across web browsers, Macs, and Windows PCs. Those days are over, but QuickTime Player is still a core application on Mac computers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Origins of QuickTime
 
@@ -56,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
 ![Apple website screenshot with text explaining What is Quicktime 7.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard-feb-26-2024-at-5-45-pm.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Apple / Internet Archive](https://web.archive.org/web/20110826055111/http://www.apple.com/quicktime/what-is/)
 
  QuickTime is commonly associated with the [QuickTime file format](https://en.wikipedia.org/wiki/QuickTime%5FFile%5FFormat), which usually has a file ending with MOV or QT. QuickTime movie files are just container formats, though, and they can use any number of different video and audio codecs. Most of the MOV files you find online will probably have MPEG-4 video (mostly H.264) with AAC audio.
@@ -73,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
  Apple continued supporting QuickTime on Windows for a while, but the [final update was QuickTime 7.7.9 in 2016](https://vimeo-videos.techidaily.com/new-vimeo-decoded-an-in-depth-look-at-video-hosting-for-2024/), and it is no longer supported.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  QuickTime Isn't Dead (Yet)
 
  Even though the QuickTime framework and file formats have been replaced by newer and better technology, some components are still around to this day. The MOV file format is still used for video and screen recordings on Apple devices, as well as some online videos, typically using the H.264 or HEVC/H.265 video codec, similar to most MP4 files.
@@ -94,21 +53,28 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
 ![Screenshot of QuickTime Player with a clip from Tron: Legacy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/clipboard-feb-13-2024-at-4-05-pm.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  QuickTime Player can also record video or audio files from a mix of input devices, or mirror and record the screen from a connected iPhone or iPad. There's also an option to record your Mac's screen, but the same capture and record tool is available with the Command+Shift+5 keyboard shortcut without opening QuickTime.
 
  Even though QuickTime Player is still present on macOS, it's much more basic than the old QuickTime Player 7 and its Pro edition. The only editing capabilities are removing video or audio tracks from files (the entire track, not sections), trimming the file, and rotating. The file conversion options are also limited.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to QuickTime Player
@@ -134,14 +100,20 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-saving-youtube-videos-a-legal-overview/"><u>[New] 2024 Approved Saving YouTube Videos A Legal Overview</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleashing-potential-key-tips-for-hospitals-fb-ad-reach/"><u>2024 Approved Unleashing Potential Key Tips for Hospitals' FB Ad Reach</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-6-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 6 online without SIM Card?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-top-10-reading-list-chosen-by-our-community/"><u>The Ultimate Top 10 Reading List, Chosen by Our Community</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-reasons-artificial-intelligence-assistants-havent-won-me-over-insights-and-perspectives/"><u>Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-ai-art-with-simple-tweaks-unlock-potential-using-these-essential-8-midjourney-commands/"><u>Transforming AI Art with Simple Tweaks: Unlock Potential Using These Essential 8 Midjourney Commands</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-time-embracing-perplexity-the-innovative-ai-driven-search-platform/"><u>Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-unleash-your-creativity-a-step-by-step-guide-to-video-effects/"><u>Updated Unleash Your Creativity A Step-by-Step Guide to Video Effects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-discovering-the-best-free-videodownloaders-for-pinterest/"><u>[New] Discovering the Best Free Videodownloaders for Pinterest</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-celestial-craftsmanship-perfecting-night-portraits-step-by-step/"><u>[Updated] Celestial Craftsmanship Perfecting Night Portraits Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quickly-uncover-lately-watched-facebook-videos/"><u>[Updated] In 2024, Quickly Uncover Lately Watched Facebook Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-with-advanced-web-tracking-technology-experience-seamless-user-targeting/"><u>Enhanced with Advanced Web Tracking Technology: Experience Seamless User Targeting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-online-engagement-with-our-cookiebot-seo-solutions/"><u>Experience Enhanced Online Engagement with Our Cookiebot SEO Solutions!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-aac-audio-file-converter-toolkit-optimized-for-windows-10-11-and-8-systems/"><u>Free AAC Audio File Converter Toolkit: Optimized for Windows 10, 11 and 8 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-razer-drivers-compatible-with-windows-10-8-7-xp-and-vista/"><u>Get the Latest Razer Drivers Compatible with Windows 10, 8, 7, XP & Vista</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-elevate-your-website-experience/"><u>Harnessing the Power of Cookiebot: Elevate Your Website Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-sync-the-beat-unleashing-your-inner-dancer-with-tiktok-and-mac/"><u>In 2024, Sync the Beat Unleashing Your Inner Dancer with TikTok and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-ways-to-enhance-your-websites-visibility-mastering-page-optimization/"><u>Innovative Ways to Enhance Your Website's Visibility: Mastering Page Optimization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>JPG/PNG Images Transformation IPhone's PDF Creation Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-with-tom-a-comprehensive-hardware-review-site/"><u>Mastering Gadgets with Tom - A Comprehensive Hardware Review Site</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-power-boosting-traffic-and-engagement/"><u>Optimize with Cookiebot Power: Boosting Traffic and Engagement</u></a></li>
 </ul></div>
 

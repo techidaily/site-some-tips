@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of Cookiebot for Superior Website Insights & Conversions
-date: 2024-09-12T07:19:58.267Z
-updated: 2024-09-13T07:19:58.267Z
+date: 2024-09-14T16:09:36.179Z
+updated: 2024-09-17T16:01:54.035Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def47629f17026d118c0eda7b469c.png
@@ -11,19 +11,6 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Impact of AI on the Legal Profession
 
 ###### Michael Simon
@@ -31,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 November 27, 2018
 
 ![The Impact of AI on the Legal Profession: ABBYY Blog Post #5 of 5 Content Analytics](https://static5.abbyy.com/abbyycommedia/25324/9787e_blog_content-analytics-blog-seriesblog_5.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As some of you might know – but most of you probably don’t – I am the lead author (along with three tremendous co-authors from the law firm of [HoganLovells](https://www.hoganlovells.com/)) of a recent article in the Yale Law School Journal of Law and Technology: [Lola V. Skadden](https://yjolt.org/lola-v-skadden-and-automation-legal-profession). Our article looks at the explosive, exponential growth of [Artificial Intelligence (“AI”)](https://www.bernardmarr.com/default.asp?contentID=963) and what the law as a profession along with individual lawyers can – and should – do about it. We’ve done our best in the article, I think, to present both the dangers and opportunities presented by AI to not just the law, but to our society as a whole.
 
@@ -63,31 +43,11 @@ For those just starting out in their legal careers, it’s probably going to tak
 
 ![Mike Simon Attorney](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Michael Simon
 
 Michael Simon is the Principal of Seventh Samurai, an e-Discovery and Information Governance expert consulting firm. As a trial attorney in Chicago, he was an early innovator in using electronic evidence to win cases for his clients. He is an adjunct professor at Michigan State University College of Law (and formerly at Boston University School of Law), teaching classes in e-Discovery. He has advised a number of companies and government agencies on how to best mitigate the risks arising from their information while best optimizing value, and provides strategic consulting for companies in the analytics, security, privacy, and legal technology markets.
 
 Michael is a legal technology thought leader, having made over 100 presentations and written dozens of articles on e-Discovery and legal technology topics, including a book on Internet Law in 2002\. He received his J.D. from Loyola University Chicago School of Law, and his B.A. cum laude from Tufts University.
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -152,15 +112,30 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-bargain-bin-chinese-vr-technology/"><u>[New] Bargain Bin Chinese VR Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-techniques-for-windows-partition-consolidation/"><u>Advanced Techniques for Windows Partition Consolidation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-windows-11-power-management-a-complete-guide-to-using-the-battery-report-feature/"><u>Mastering Windows 11 Power Management: A Complete Guide to Using the Battery Report Feature</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revamp-your-iphones-dictation-5-key-fixes-for-improved-speech-recognition/"><u>Revamp Your iPhone's Dictation: 5 Key Fixes for Improved Speech Recognition</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-sync-immediate-notebook-access-after-boot-up/"><u>Seamless Sync: Immediate Notebook Access After Boot-Up</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-poco-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Poco Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-see-what-you-just-watched-on-facebook/"><u>[New] In 2024, How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ideal-accessories-for-optimal-gopro-photography/"><u>[Updated] Ideal Accessories for Optimal GoPro Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-outperforming-the-gear-360-best-cameras-of-the-year-reviewed/"><u>[Updated] Outperforming the Gear 360 Best Cameras of the Year Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-your-iphones-gif-experience-from-savings-to-showtime/"><u>[Updated] Streamlining Your iPhone's GIF Experience - From Savings to Showtime</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>2024 Approved Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a15-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-backbone-of-your-sites-personalization-strategy/"><u>Cookiebot: The Backbone of Your Site's Personalization Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/costains-abteilungsstrategie-fur-digitale-transformationen-die-rolle-von-abbyy-technologien-in-der-finanzverwaltung/"><u>Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/digitale-transformation-zum-profitieren-vom-unternehmensarchiv-zur-effizienten-dokumentverwaltung/"><u>Digitale Transformation Zum Profitieren! Vom Unternehmensarchiv Zur Effizienten Dokumentverwaltung.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-14-pro-max-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 14 Pro Max For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-cutting-edge-cost-free-after-effects-packages/"><u>In 2024, Cutting-Edge, Cost-Free After Effects Packages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/straightforward-screen-capture-app-win10-edition-for-2024/"><u>Straightforward Screen Capture App, Win10 Edition for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

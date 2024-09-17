@@ -1,7 +1,7 @@
 ---
 title: Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom
-date: 2024-09-12T07:18:43.381Z
-updated: 2024-09-13T07:18:43.381Z
+date: 2024-09-15T16:04:48.879Z
+updated: 2024-09-17T16:08:54.227Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg
@@ -11,31 +11,11 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Nobly chooses ABBYY for automated classification of healthcare documents
 
 February 16, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### _Partnership to provide powerful integrated advance capture solutions available through resellers_ 
 
@@ -93,21 +73,27 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-achieving-seamless-gaming-with-switch-pro-and-steam-for-2024/"><u>[New] Achieving Seamless Gaming with Switch Pro & Steam for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mitigate-playback-problems-in-android-and-ios-apps/"><u>[New] In 2024, Mitigate Playback Problems in Android & iOS Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-revolutionize-your-creation-process-canvas-secret-edits/"><u>[Updated] 2024 Approved Revolutionize Your Creation Process Canva's Secret Edits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-demystifying-absence-no-recommended-video-content-on-facebook-for-2024/"><u>[Updated] Demystifying Absence No Recommended Video Content on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-instagram-video-troubleshooting-no-silence-full-sound/"><u>[Updated] In 2024, Instagram Video Troubleshooting - No Silence, Full Sound</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-xbox-livestreaming-on-facebook-platform-for-2024/"><u>[Updated] Mastering Xbox Livestreaming on Facebook Platform for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-walk-down-memory-lane-rediscovering-our-love-for-dial-up-connections-and-their-quirks/"><u>A Walk Down Memory Lane: Rediscovering Our Love for Dial-Up Connections and Their Quirks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discovering-evolution-in-management-tools-how-windows-11-transforms-the-classic-task-manager/"><u>Discovering Evolution in Management Tools: How Windows 11 Transforms the Classic Task Manager</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-pcs-creativity-with-advanced-ai-powered-image-generation/"><u>Enhance Your PC's Creativity with Advanced AI-Powered Image Generation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-bios-settings-what-changes-make-a-difference-on-your-pc/"><u>Essential BIOS Settings: What Changes Make a Difference on Your PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-risks-understanding-windows-11-government-version-and-its-potential-pitfalls/"><u>Exploring the Risks: Understanding Windows 11 Government Version and Its Potential Pitfalls</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-from-mute-to-magic-editing-audio-in-final-cut-pro-for-2024/"><u>New From Mute to Magic Editing Audio in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-samsung-galaxy-a34-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Samsung Galaxy A34 5G without backup.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-quicktime-the-complete-guide-to-apples-media-player/"><u>Understanding QuickTime: The Complete Guide to Apple's Media Player</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unintended-hp-printer-software-updates-how-theyre-auto-installing-on-windows-computers/"><u>Unintended HP Printer Software Updates: How They're Auto-Installing on Windows Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-vivo-y27-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y27 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users/"><u>[New] 2024 Approved Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-ultimate-software-showdown-winning-windows-10-video-grabbers/"><u>[Updated] In 2024, Ultimate Software Showdown Winning Windows 10 Video Grabbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-audio-precision-microsoft-enhances-speech-clarity-across-additional-personal-computers/"><u>Advancing Audio Precision: Microsoft Enhances Speech Clarity Across Additional Personal Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dive-into-literature-easily-with-our-selection-of-5-cutting-edge-ai-book-discovery-services/"><u>Dive Into Literature Easily with Our Selection of 5 Cutting-Edge AI Book Discovery Services</u></a></li>
+<li><a href="https://games-able.techidaily.com/foremost-joy-cons-and-pro-grips-a-comprehensive-review-of-2024/"><u>Foremost Joy-Cons and Pro Grips: A Comprehensive Review of 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-samsung-galaxy-f34-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Samsung Galaxy F34 5G Face Lock?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-titles-and-tags-for-improved-youtube-visibility/"><u>Optimizing Titles and Tags for Improved YouTube Visibility</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pro-photographys-selections-the-creme-de-la-4k-dslrs-for-2024/"><u>Pro Photography's Selections The Crème De La 4K DSLRs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-intro-creator-software-for-windows-and-mac/"><u>Updated 2024 Approved Best Intro Creator Software for Windows and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

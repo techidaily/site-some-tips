@@ -1,7 +1,7 @@
 ---
 title: 1. Protecting Your Data Against OneDrive Software Glitches
-date: 2024-09-12T07:13:18.569Z
-updated: 2024-09-13T07:13:18.569Z
+date: 2024-09-15T16:08:32.104Z
+updated: 2024-09-17T16:10:27.075Z
 tags:
   - desktop
 categories:
@@ -10,19 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Protecting Your Data Against OneDrive Software Glitches
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,13 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  When you save a file to your computer, you expect it to stay put. Unfortunately, this isn't always what happens, thanks to some of OneDrive's default behaviors in Windows 11\. Here's how to make sure you don't lose your important work documents and family photos.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What's OneDrive Doing to Your Files?
 
  There are two things OneDrive does by default that are frustrating for users.
@@ -47,6 +27,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  First, it [moves folders](https://www.tenforums.com/general-support/163813-onedrive-has-taken-over-file-structure.html "https://www.tenforums.com/general-support/163813-onedrive-has-taken-over-file-structure.html")—including your Documents, Videos and Pictures to point to OneDrive—changing their location on your computer. Secondly, it automatically syncs these folders (and anything else you have in OneDrive) online—which in itself isn't a problem (that's what OneDrive is for), but it also removes your files from your local machine, which could be a big problem for most users.
 
  Frustratingly, you do not get the choice of opting out of this. OneDrive enables these "features" automatically, and even if you uninstall it, it has a habit of [re-installing itself](https://www.reddit.com/r/sysadmin/comments/brai09/onedrive%5Fkeeps%5Freinstalling%5Fitself/ "https://www.reddit.com/r/sysadmin/comments/brai09/onedrive_keeps_reinstalling_itself/") with Windows updates.
+
+##  How Does This Put Your Files at Risk?
+
+ First, your files aren't where you saved them, which is just plain frustrating and could lead you to think that they've gone missing.
+
+ Secondly, internet connection problems will put your files out of reach if they are only kept online in OneDrive. Even worse, if you lose access to your Microsoft account, you could lose your files too, which is why it's important to confirm that your Microsoft Account details are correct, just in case your [account needs to be recovered](https://extra-support.techidaily.com/2024-approved-quick-guide-to-gopro-4k-video-enhancement/). You should also set up [two-factor authentication](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/) on your account to make sure that nobody else can log in and lock you out.
+
+ Sync issues are also a concern: if you have OneDrive set up on multiple computers, files can get out of sync if you're editing them at the same time, or while offline, and you might wind up with an old version instead of your latest work. Can you imagine finishing writing a university paper only to find that it was overwritten by an earlier draft? This happened to me recently, and it is not an experience I wish for others.
 
 <!-- affiliate ads begin -->
 <span id="1770544">
@@ -61,21 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-##  How Does This Put Your Files at Risk?
-
- First, your files aren't where you saved them, which is just plain frustrating and could lead you to think that they've gone missing.
-
- Secondly, internet connection problems will put your files out of reach if they are only kept online in OneDrive. Even worse, if you lose access to your Microsoft account, you could lose your files too, which is why it's important to confirm that your Microsoft Account details are correct, just in case your [account needs to be recovered](https://extra-support.techidaily.com/2024-approved-quick-guide-to-gopro-4k-video-enhancement/). You should also set up [two-factor authentication](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/) on your account to make sure that nobody else can log in and lock you out.
-
- Sync issues are also a concern: if you have OneDrive set up on multiple computers, files can get out of sync if you're editing them at the same time, or while offline, and you might wind up with an old version instead of your latest work. Can you imagine finishing writing a university paper only to find that it was overwritten by an earlier draft? This happened to me recently, and it is not an experience I wish for others.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How To Stay Safe From Data Loss
 
  You should always have an offline copy of your files to protect them (in addition to a cloud backup in case you lose your offline copy).
@@ -85,16 +58,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Whether you are using OneDrive or not, ensure you have a [reliable backup solution](https://extra-resources.techidaily.com/new-timing-and-frequency-what-is-the-best-day-to-release-a-podcast/), and make regular backups so that if something goes wrong, you can restore a recent copy. Windows File History notoriously does _not_ back up all of your files by default (and can be buggy), including [files in Onedrive](https://answers.microsoft.com/en-us/windows/forum/all/can-windows-file-history-be-used-with-onedrive/afa60a0e-2d30-415e-b275-ec84de1f7699 "https://answers.microsoft.com/en-us/windows/forum/all/can-windows-file-history-be-used-with-onedrive/afa60a0e-2d30-415e-b275-ec84de1f7699"), so choose a third party backup solution that fits your needs. Once you've done that, manually confirm that it is actually backing up everything you need.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Don't Let Malware Put Your Files at Risk, Either
@@ -118,16 +85,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-professional-recording-methods-for-your-social-video-sessions/"><u>[New] Professional Recording Methods for Your Social Video Sessions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-reimagining-home-security-the-rise-of-multi-camera-recorders-for-2024/"><u>[Updated] Reimagining Home Security The Rise of Multi-Camera Recorders for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/advanced-display-settings-lacking-in-windows-11/"><u>Advanced Display Settings Lacking in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-file-explorers-classic-ribbon-interface-in-windows-11/"><u>How to Restore File Explorer’s Classic Ribbon Interface in Windows 11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>In 2024, Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-disappointing-experience-with-online-car-shopping-at-carvana-vs-traditional-dealers/"><u>My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/next-level-smart-features-how-apples-cutting-edge-artificial-intelligence-transforms-siri-and-app-usage/"><u>Next-Level Smart Features: How Apple's Cutting-Edge Artificial Intelligence Transforms Siri and App Usage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-milestone-by-t-mobile-ultimate-speed-triumphs-as-new-record-for-sub-6-5g-uploads-established/"><u>Revolutionary Milestone by T-Mobile: Ultimate Speed Triumphs as New Record for Sub-6 5G Uploads Established</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rt-of-creating-youtube-video-thumbnails/"><u>The Art of Creating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-m6-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco M6 5G Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-poco-x6-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-snapping-and-recording-screen-on-macos/"><u>[New] 2024 Approved Snapping and Recording Screen on macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-ultimate-guide-to-choosing-between-m1-macbooks/"><u>[New] The Ultimate Guide to Choosing Between M1 MacBooks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-free-drawing-tools-top-mac-apps-listed/"><u>[New] Ultimate Free Drawing Tools Top Mac Apps Listed</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-tallying-up-mr-beasts-billions/"><u>[Updated] 2024 Approved Tallying Up Mr. Beast's Billions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/elevate-your-online-interactions-master-microsoft-teams-snap-for-2024/"><u>Elevate Your Online Interactions Master Microsoft Teams Snap for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-recorder-pro-a-beginners-handbook-for-mac-for-2024/"><u>Screen Recorder Pro A Beginner's Handbook for Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/see-the-world-through-different-lenses-3-strategies-for-successful-pov-reactions-on-youtube-for-2024/"><u>See the World Through Different Lenses 3 Strategies for Successful POV Reactions on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-retrieve-your-lost-instagram-login-credentials/"><u>Step-by-Step Guide: Retrieve Your Lost Instagram Login Credentials</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-essentials-of-earning-on-youtube-latest-changes-for-2024/"><u>The Essentials of Earning on YouTube Latest Changes for 2024</u></a></li>
 </ul></div>
 

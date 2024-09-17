@@ -1,7 +1,7 @@
 ---
 title: Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung
-date: 2024-09-12T07:17:02.793Z
-updated: 2024-09-13T07:17:02.793Z
+date: 2024-09-12T16:08:33.648Z
+updated: 2024-09-17T16:04:25.704Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565ec0bfaa1522a3466ddc9fcb.jpg
@@ -11,31 +11,11 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Finanzabteilung von Costain meistert digitale Transformation dank ABBYY-Technologie
 
 3\. Juni 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ABBYY, ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, wurde von Costain, einem Unternehmen für intelligente Infrastrukturlösungen, als Technologiepartner für die strategische Digitalisierung des eigenen Finanzbereichs ausgewählt.
 
@@ -89,18 +69,25 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-savvy.techidaily.com/8-reasons-why-content-writers-cant-rely-on-ai-chatbots/"><u>8 Reasons Why Content Writers Can't Rely on AI Chatbots</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/become-a-pro-at-networked-streams-with-vlc/"><u>Become a Pro at Networked Streams with VLC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/direct-twitter-media-transfer-to-whatsapp/"><u>Direct Twitter Media Transfer to WhatsApp</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficient-file-removal-techniques-with-windows-powershell-commands/"><u>Efficient File Removal Techniques with Windows PowerShell Commands</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 Plus After Forgetting the Passcode?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
-<li><a href="https://article-posts.techidaily.com/pinnacle-posts-on-reddit-celebrating-the-most-popular-10/"><u>Pinnacle Posts on Reddit Celebrating the Most Popular (10)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/l-your-youtube-presence-with-google-analytics-skills-for-2024/"><u>Propel Your YouTube Presence with Google Analytics Skills for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamline-tasks-with-these-windows-11-hacks/"><u>Streamline Tasks with These Windows 11 Hacks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-making-your-own-youtube-beginnings-and-endings-cheaply/"><u>[New] Making Your Own YouTube Beginnings & Endings Cheaply</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlined-strategy-to-create-your-custom-youtube-queue/"><u>[New] Streamlined Strategy to Create Your Custom YouTube Queue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-upload-with-ease-instagram-and-vimeo-harmony/"><u>[New] Upload with Ease Instagram and Vimeo Harmony</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-outdoor-gadgets-for-making-road-trip-videos/"><u>[Updated] In 2024, Outdoor Gadgets for Making Road-Trip Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-headgear-selection-for-your-virtual-exploration/"><u>[Updated] Ultimate Headgear Selection for Your Virtual Exploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-y200e-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo Y200e 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-tomorrow-cosmic-as-your-gateway-to-the-next-gen-linux-experience/"><u>Navigating Tomorrow: COSMIC as Your Gateway to the Next-Gen Linux Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-ensuring-administrator-access-every-time-for-windows-11-apps-with-ease/"><u>Ultimate Guide: Ensuring Administrator Access Every Time for Windows 11 Apps with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/"><u>Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Drive Traffic with Automated Conversion Tracking: Powered by Cookiebot"
-date: 2024-09-12T07:17:42.426Z
-updated: 2024-09-13T07:17:42.426Z
+date: 2024-09-14T16:16:40.903Z
+updated: 2024-09-17T16:10:06.772Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1ee9eb3884a315921c0899b5d.jpg
@@ -11,31 +11,11 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Étude : 1/3 des projets d’automatisation visent à limiter les burnouts
 
 20 avril 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![News AI](https://static5.abbyy.com/abbyycommedia/33743/news-ai.jpg) 
 
@@ -44,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 * 39% des répondants affirment avoir obtenu un ROI 2 fois supérieur à leur investissement grâce aux projets d’automatisation
 
 [![](https://static1.abbyy.com/abbyycommedia/35586/2022-04-14_infographic_survey_fr_v1.jpg?width=1068&height=558)](https://www.abbyy.com/media/35586/2022-04-14%5Finfographic%5Fsurvey%5Ffr%5Fv1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), entreprise spécialisée dans l'Intelligent Process Automation (IPA), révèle les conclusions de sa nouvelle étude, menée en partenariat avec Sapio Research, portant sur l’identification des facteurs de succès ou d'échec de projets d’automatisation en entreprise. La pandémie a eu pour conséquence, qu’au cours des deux dernières années, 99% des décideurs IT ont adopté des technologies d'automatisation. Sur cette période, un changement s'est opéré dans la manière dont les décideurs IT appréhendent les technologies d'automatisation, marqué par une nouvelle approche centrée sur les collaborateurs. Les résultats de ce changement d’orientation sont matérialisés par une réduction des investissements dans l’automatisation robotisée des processus (RPA), couplée à la montée en puissance de l’Intelligent Document Processing (IDP) et des technologies d'automatisation des processus. Ainsi, 82% des entreprises françaises estiment avoir réussi à déployer des systèmes de Process Automation, alors qu'elles n'étaient que [30% à 50%](https://www.ey.com/en%5Fgl/consulting/five-design-principles-to-help-build-confidence-in-rpa-implement) dans le passé à n’utiliser que la RPA.
 
@@ -89,42 +62,15 @@ _Linda Ameur, Directrice France chez ABBYY_
 
 Cette étude a été menée par ABBYY en collaboration avec Sapio Research en mars 2022 auprès de 1 208 décideurs informatiques répartis en France, au Royaume-Uni, en Allemagne, aux États-Unis et au Japon sur les investissements des entreprises dans des projets d'automatisation, les raisons pour lesquelles elles ont opté pour des stratégies technologiques et l'impact du facteur comportemental sur la réussite des projets.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### À propos d’ABBYY
 
 ABBYY est un acteur référent de l’Intelligent Process Automation. L’entreprise ambitionne de réinventer la manière dont ses clients et leurs équipes se développent en leur apportant la connaissance nécessaire au bon fonctionnement des plateformes d’automatisation. Les solutions d’ABBYY transforment les données d’entreprise dans le but de permettre un gain en agilité et en rapidité. ABBYY aide plus de 5 000 clients dans le monde, dont bon nombre des entreprises du Fortune 500, à obtenir un impact positif dans des domaines majeurs tels que l’expérience client, la rentabilité et la compétitivité.
 
 ABBYY est une multinationale basée aux États-Unis, et dont les bureaux sont répartis au sein de 15 pays. Pour plus d’informations, veuillez consulter le site <https://www.abbyy.com/fr/>.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Contact presse
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Bianca Stupp
 
@@ -149,15 +95,27 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-advancing-audible-experience-safely-on-spotify-platforms/"><u>[New] Advancing Audible Experience Safely on Spotify Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-save-your-video-tweets-as-high-quality-mp3-files/"><u>[Updated] How to Save Your Video Tweets as High-Quality MP3 Files</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/direct-path-from-srt-to-sub/"><u>Direct Path From SRT to SUB</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/samsung-gear-vr-fun-the-top-5-list/"><u>Samsung Gear VR Fun - The Top 5 List</u></a></li>
-<li><a href="https://games-able.techidaily.com/smarter-system-control-with-corsair-icue-link-top-4-reasons-to-purchase/"><u>Smarter System Control with Corsair iCUE Link - Top 4 Reasons to Purchase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solving-the-problem-unsuccessful-booting-in-windows-systems/"><u>Solving the Problem: Unsuccessful Booting in Windows Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/"><u>Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/"><u>The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-comedy-canvas-painting-laughter-with-top-10-video-concepts/"><u>[New] 2024 Approved Comedy Canvas Painting Laughter with Top 10 Video Concepts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-televised-content-ease-youtube-loop-integration-guide/"><u>[New] Televised Content Ease YouTube Loop Integration Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-best-ios-filmmaking-software/"><u>2024 Approved Best iOS Filmmaking Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-windowsmacos-visual-enhancement-a-guide-to-text-embellishments-in-photos/"><u>2024 Approved Windows/MacOS Visual Enhancement A Guide to Text Embellishments in Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-optimal-ai-performance-six-techniques-to-combat-hallucination-in-machine-learning-models/"><u>Achieve Optimal AI Performance: Six Techniques to Combat Hallucination in Machine Learning Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-with-cookiebot-technology/"><u>Enhanced Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-process-intelligence-insights-and-applications/"><u>Exploring the World of Process Intelligence: Insights and Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-leads-digital-evolution-for-modern-insurers-strategic-transformation-tactics/"><u>How ABBYY Leads Digital Evolution for Modern Insurers: Strategic Transformation Tactics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unloaded-textures-in-fortnite-warzone-gameplay/"><u>How to Resolve Unloaded Textures in Fortnite Warzone Gameplay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-ai-in-recruitment-utilize-these-6-tips-with-chatgpt/"><u>Unlocking the Power of AI in Recruitment: Utilize These 6 Tips with ChatGPT</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

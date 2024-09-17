@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit"
-date: 2024-09-12T07:18:01.494Z
-updated: 2024-09-13T07:18:01.494Z
+date: 2024-09-12T16:08:44.301Z
+updated: 2024-09-17T16:00:54.942Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc74fde8e765814f3eec97fd83.jpg
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The AI Summit Helps Businesses to Look Beyond AI Hype
 
 June 07, 2019
 
 ![ABBYY AI Summit at London Tech Week 2019 | ABBYY Blog Post](https://static5.abbyy.com/abbyycommedia/25363/10644_smm_blog_the-ai-summit-helps-businesses-to-look-beyond-ai-hype_blog.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 AI is already delivering real value in business. It is being implemented across all industries and business functions creating unprecedented efficiencies in human productivity. That was also the verdict of a recent [Forbes Insights survey](https://www.forbes.com/insights-intelai/ai-issue-1/) of 300-plus executives, in which 95% believe that AI will play an important role in their responsibilities in the near-future. Among the business benefits from AI most-cited by corporate leaders are: increased productivity (40%), reduced operating costs (28%), improved speed to market (21%) and transformed business and operating models (20%).
 
@@ -44,13 +30,6 @@ Business leaders looking to accelerate their digital transformation initiatives 
 To accelerate business processes and get a stronger foothold in markets already crowded with competitors, a growing number of business leaders are looking at AI-powered cognitive automation platforms like ABBYY Vantage. Vantage is the next generation Content IQ platform for the enterprise that adds the ability to configure text recognition, machine learning, and artificial intelligence (AI) from within the RPA tools that are used to configure software robots. With the pace of enterprise AI adoption accelerating, most forward-thinking business leaders will converge in London next week to learn more about how Content IQ is helping AI deliver on its promise.
 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Artificial Intelligence (AI)](https://www.abbyy.com/blog/artificial-intelligence-ai/ "Artificial Intelligence (AI)") [Robotic Process Automation (RPA)](https://www.abbyy.com/blog/robotic-process-automation-rpa/ "Robotic Process Automation (RPA)") [Enterprise](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -115,15 +94,23 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-horned-gods-hearing-essential-websites-for-got-sound-files/"><u>[Updated] Horned God's Hearing Essential Websites for GoT Sound Files</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/s-top-free-youtube-image-extractors-for-2024/"><u>10+ Top FREE YouTube Image Extractors for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inside-the-engine-room-the-apple-m1-unveiled/"><u>2024 Approved Inside the Engine Room The Apple M1 Unveiled</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/androids-premier-animal-experience-compilation/"><u>Android's Premier Animal Experience Compilation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/fiscal-summary-producing-a-music-video/"><u>Fiscal Summary Producing a Music Video</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-mastering-the-art-of-multitasking-with-picture-in-picture/"><u>In 2024, Mastering the Art of Multitasking with Picture In Picture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rufus-amazons-persuasive-ai-companion-encouraging-increased-sales/"><u>Rufus: Amazon's Persuasive AI Companion Encouraging Increased Sales</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-get-your-origin-app-working-again-in-modern-windows-environments/"><u>Step-by-Step Guide to Get Your Origin App Working Again in Modern Windows Environments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/taco-bell-introduces-artificial-intelligence-for-drive-thru-orders/"><u>Taco Bell Introduces Artificial Intelligence for Drive-Thru Orders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-news-recap-what-to-expect-from-the-latest-phone-launches-by-google-and-samsung-this-week/"><u>Tech News Recap: What to Expect From the Latest Phone Launches by Google and Samsung This Week</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488440-asus-rog-azoth-extreme-ultimate-gamers-choice-oled-touch-screen-robust-aluminum-body-with-carbon-fiber-at-499/"><u>ASUS ROG AZOTH Extreme: Ultimate Gamer's Choice - OLED Touch Screen, Robust Aluminum Body with Carbon Fiber at $499</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-15-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 15 Pro?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g310-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G310 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-text-recognition-vw-explores-enhanced-infotainment-tech/"><u>Leveraging ABBYY's Text Recognition: VW Explores Enhanced Infotainment Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-advanced-website-insights-and-customized-content/"><u>Leveraging Cookiebot Technology for Advanced Website Insights and Customized Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-mental-clarity-tips-on-quieting-phones-organizing-thoughts-and-reflective-introspection-from-the-abbyy-experts/"><u>Mastering Mental Clarity: Tips on Quieting Phones, Organizing Thoughts, and Reflective Introspection From the ABBYY Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-expert-advice-from-toms-corner/"><u>Navigating the World of Hardware: Expert Advice From Tom's Corner</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/through-the-fins-pro-techniques-for-taking-superior-gopro-videos-underwater-for-2024/"><u>Through the Fins Pro Techniques for Taking Superior GoPro Videos Underwater for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-portable-audio-choices-decoded/"><u>Top Portable Audio Choices Decoded</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

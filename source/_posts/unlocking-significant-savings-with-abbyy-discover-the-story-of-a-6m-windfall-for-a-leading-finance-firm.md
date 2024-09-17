@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm"
-date: 2024-09-12T07:18:12.255Z
-updated: 2024-09-13T07:18:12.255Z
+date: 2024-09-12T16:09:31.581Z
+updated: 2024-09-17T16:05:43.352Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe11541a9628c11209d7640f5.jpg
@@ -13,36 +13,15 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 CASE STUDY | FINANCIAL SERVICES
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Financial Services Firm Mines $6M in Savings Using ABBYY Process Intelligence 
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Executives in a Fortune 100 financial services firm had questions about the cost-efficiency of processes involved in managing a high volume of transactions across hundreds of internal systems. ABBYY Process Intelligence enabled their analysts to turn around data-driven answers rapidly—and find where process improvements would yield significant ROI.
 
 “What I love about ABBYY process mining is how quickly you can pivot and get to quantitative results that help you get the best business cases funded.”
 
 Director of Business Planning
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Challenge
 
@@ -64,13 +43,6 @@ ABBYY also helped analysts find a specific type of transaction with higher delay
 
 Customer service analysts used ABBYY to find key points of high friction in customer processes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Value
 
 * A live, end-to-end view of transactions from 2M daily events and 40 different systems on a timeline—without coding
@@ -82,13 +54,6 @@ Customer service analysts used ABBYY to find key points of high friction in cust
 [Learn more](https://tools.techidaily.com/abbyy/products/)
 
 ![FC_1](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Intelligent Automation for Financial Services
 
@@ -103,10 +68,17 @@ Customer service analysts used ABBYY to find key points of high friction in cust
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ready to speak with an expert?
@@ -128,18 +100,18 @@ Customer service analysts used ABBYY to find key points of high friction in cust
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-by-step-guide-to-creating-a-video-channel-reviewing-tech-accessories/"><u>[New] 2024 Approved Step-by-Step Guide to Creating a Video Channel Reviewing Tech Accessories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-three-trustworthy-ways-to-extract-audio-from-youtube-videos/"><u>[New] Three Trustworthy Ways to Extract Audio From YouTube Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-pro-editor-picks-craft-the-perfect-instagram-reel-masterpiece-for-2024/"><u>[Updated] Pro Editor Picks - Craft the Perfect Instagram Reel Masterpiece for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-a2-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on A2</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-next-gen-gaming-the-best-oculus-players-uncovered/"><u>In 2024, Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-solving-the-multiversus-wont-start-issue-on-windows/"><u>Troubleshooting Steps: Solving the 'MultiVersus Won't Start' Issue on Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonize-your-status-with-a-track/"><u>[New] Harmonize Your Status with a Track</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-practices-for-secure-youtube-mp4-conversion/"><u>[Updated] 2024 Approved Best Practices for Secure YouTube MP4 Conversion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-prime-websites-to-acquire-custom-youtube-ringtones/"><u>[Updated] Prime Websites to Acquire Custom YouTube Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-intelligence-in-automation-the-synergy-of-abbyy-and-uipath/"><u>Enhancing Intelligence in Automation: The Synergy of ABBYY and UiPath</u></a></li>
+<li><a href="https://some-tips.techidaily.com/environmental-commitment-by-abbyy-over-2000-new-trees-set-for-yearly-planting-press-disclosure/"><u>Environmental Commitment by ABBYY: Over 2,000 New Trees Set for Yearly Planting - Press Disclosure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/federal-tech-innovations-automating-government-with-intelligence-official-podcast/"><u>Federal Tech Innovations: Automating Government with Intelligence - Official Podcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-digital-with-abbyys-advanced-data-capture-tech-revolutionizing-healthcare-management/"><u>Going Digital with ABBYY's Advanced Data Capture Tech: Revolutionizing Healthcare Management</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus Open Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>In 2024, Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-phantom-v-flip-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Phantom V Flip FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-methods-syncing-ios-images-and-movies-to-windows/"><u>Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/speednova-by-rog-cetair-in-depth-testing-of-truewireless-headphones-for-enhanced-audio-and-reduced-game-lag/"><u>SpeedNova by ROG CeTAIR: In-Depth Testing of TrueWireless Headphones for Enhanced Audio and Reduced Game Lag</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot: The Backbone of Your Site's Personalization Strategy"
-date: 2024-09-12T07:17:01.553Z
-updated: 2024-09-13T07:17:01.553Z
+date: 2024-09-10T16:06:06.795Z
+updated: 2024-09-17T16:14:41.765Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae913812fa6d796b06a5e79fd2f303.jpg
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
 [Back to Webinars](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fraud and Financial Crime in 2021: The Journey to the New Normal
 
 English
@@ -26,13 +19,6 @@ English
 
 ![Julieconroy 198X198](https://static4.abbyy.com/abbyycommedia/33138/aite-logo-forcards.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Julieconroy 198X198](https://static2.abbyy.com/abbyycommedia/31836/julieconroy-198x198.png)
 
 ### Julie Conroy
@@ -40,22 +26,15 @@ English
 Research Director, Fraud & AML Practice, **Aite Group**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Overview
 
 The COVID-19 pandemic has accelerated digital trends in financial services and has simultaneously brought significant changes to financial crime trends, and the way organized crime rings operate.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Watch it now!
 
@@ -68,10 +47,10 @@ ABBYY was honored to have Julie Conroy, Research Director for Aite Group’s Fra
 ### Watch now
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get in touch with us
@@ -84,10 +63,16 @@ All personal information collected via this method is under full scope of all pr
 [![Fraud And Financial Crime In 2021 EN 750x422](https://static1.abbyy.com/abbyycommedia/33139/fraud-and-financial-crime-in-2021.jpg)](https://www.youtube.com/watch?v=j-xCMSpNLJs) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
@@ -157,17 +142,14 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-engage-audience-directly-from-xbox-with-fb-live/"><u>[Updated] 2024 Approved Engage Audience Directly From Xbox with FB Live</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-funny-youtube-shorts-video-ideas/"><u>[Updated] Top 10 Funny YouTube Shorts Video Ideas</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-screen-capture-devices-for-education/"><u>2024 Approved Efficient Screen Capture Devices for Education</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-arc-browser-newly-released-for-windows-10-users/"><u>Download Arc Browser: Newly Released for Windows 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easily-adjust-apples-settings-guide-to-disabling-natural-mouse-scrolling-on-macos/"><u>Easily Adjust Apple's Settings: Guide to Disabling Natural Mouse Scrolling on macOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effective-solutions-for-diagnosing-and-correcting-dpc-watchdog-errors-in-windows-10/"><u>Effective Solutions for Diagnosing and Correcting DPC Watchdog Errors in Windows 10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/exploring-the-best-screenshot-apps-for-idevices-for-2024/"><u>Exploring the Best Screenshot Apps for iDevices for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-evaluating-inshot-is-it-truly-top-notch/"><u>In 2024, Evaluating InShot Is It Truly Top-Notch?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-photo-distortions-adobe-photoshop-techniques/"><u>Mastering Photo Distortions Adobe Photoshop Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/night-shutdown-strategy-unveiling-the-5-advantages-of-turning-off-your-laptop-at-night/"><u>Night Shutdown Strategy: Unveiling the 5 Advantages of Turning Off Your Laptop at Night</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-steps-to-reactivate-your-disabled-ios-device/"><u>Troubleshooting Steps to Reactivate Your Disabled iOS Device</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-excellent-apps-to-record-in-high-definition-for-2024/"><u>[New] Excellent Apps to Record in High Definition for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-sony-vaio-drivers-installed-on-your-pc-with-windows-os/"><u>Get the Latest Sony Vaio Drivers Installed on Your PC with Windows OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/streamlining-audio-addition-in-creative-cloud-suite-for-2024/"><u>Streamlining Audio Addition in Creative Cloud Suite for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-essence-and-mechanics-of-photodna-explored/"><u>The Essence and Mechanics of PhotoDNA Explored</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-power-of-free-enhancing-your-obs-studio-projects-using-luts-for-2024/"><u>The Power of Free Enhancing Your OBS Studio Projects Using LUTs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
 </ul></div>
 

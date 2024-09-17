@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Intelligence in Automation: The Synergy of ABBYY and UiPath"
-date: 2024-09-12T07:17:11.054Z
-updated: 2024-09-13T07:17:11.054Z
+date: 2024-09-14T16:13:30.260Z
+updated: 2024-09-17T16:05:17.149Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f48925536bf6b239c0ddfd779.jpg
@@ -9,27 +9,7 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 
 ## Enhancing Intelligence in Automation: The Synergy of ABBYY and UiPath
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ABBYY | UiPath
 
@@ -43,21 +23,7 @@ UiPathのテクノロジーパートナーとして、ABBYYは、UiPathのお客
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### ABBYYとUiPathがどう連携するか 
 
@@ -95,17 +61,10 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 専門家に相談してみませんか？
@@ -127,19 +86,20 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-expressiveness-enhancing-youtube-comments-via-emojis-for-2024/"><u>[New] Expressiveness Enhancing YouTube Comments via Emojis for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premium-assessment-of-parrots-second-gen-model-20/"><u>[Updated] 2024 Approved Premium Assessment of Parrot's Second-Gen Model 2.0</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-minimizing-moments-edit-longer-videos-for-youtube/"><u>[Updated] Minimizing Moments Edit Longer Videos for YouTube</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/celestial-data-refresh/"><u>Celestial Data Refresh</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-ransomware-50-mobile-phone-guide-plus-behind-the-scenes-of-chatgpt-in-our-podcast/"><u>Decoding Ransomware: $50 Mobile Phone Guide + Behind-the-Scenes of ChatGPT in Our Podcast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-possibilities-my-wishlist-for-the-new-ipad-mini-7/"><u>Innovative Possibilities: My Wishlist for the New iPad Mini 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-image-missing-from-tvs-panel/"><u>Laptop Image Missing From TV's Panel</u></a></li>
-<li><a href="https://fox-access.techidaily.com/music-enhanced-whatsapp-expressions-for-2024/"><u>Music-Enhanced WhatsApp Expressions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-passion-for-starry-jewelry-denied-by-samsung-a-tale-of-cosmic-aspirations-and-tech-restrictions/"><u>My Passion for Starry Jewelry Denied by Samsung – A Tale of Cosmic Aspirations and Tech Restrictions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-k11x-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11x Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/optimizing-video-conference-set-ups-slack-and-filmora-guide-for-2024/"><u>Optimizing Video Conference Set-Ups Slack & Filmora Guide for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-skullduggery-scribbler-for-2024/"><u>[Updated] Skullduggery Scribbler for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/banishing-isolation-with-chatgpt-a-guide-to-finding-connection/"><u>Banishing Isolation with ChatGPT: A Guide to Finding Connection</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhancing-video-signals-with-youtube-cards-for-2024/"><u>Enhancing Video Signals with YouTube Cards for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-siri-back-to-work-on-iphoneipad-a-guide-to-overcoming-7-challenges/"><u>Getting Siri Back to Work on iPhone/iPad: A Guide to Overcoming 7 Challenges</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/high-engagement-stories-filters-list-for-2024/"><u>High-Engagement Stories Filters List for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-convert-srt-to-subc-innovative-3-ways-uncovered/"><u>In 2024, Convert SRT to SUBC Innovative 3 Ways Uncovered</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-enhancing-visual-storytelling-applying-luts-from-cg-central/"><u>In 2024, Enhancing Visual Storytelling Applying Luts From CG Central</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-stepwise-journey-to-excellence-in-voice-memos/"><u>In 2024, Stepwise Journey to Excellence in Voice Memos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-retrieve-your-lost-instagram-login-credentials/"><u>Step-by-Step Guide: Retrieve Your Lost Instagram Login Credentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wireguard-integration-available-in-proton-vpns-new-release-improved-privacy-and-speed-for-linux-users/"><u>WireGuard Integration Available in Proton VPN's New Release – Improved Privacy and Speed for Linux Users</u></a></li>
 </ul></div>
 

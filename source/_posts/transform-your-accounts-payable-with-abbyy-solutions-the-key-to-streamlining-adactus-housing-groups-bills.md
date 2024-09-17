@@ -1,7 +1,7 @@
 ---
 title: Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills
-date: 2024-09-12T07:19:24.556Z
-updated: 2024-09-13T07:19:24.556Z
+date: 2024-09-14T16:13:03.991Z
+updated: 2024-09-17T16:10:27.884Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8b3d2d47a5002bc66759eafaa4c246c7aaef6efd4d358641ba5470b5ab5b74e3.jpg
@@ -25,29 +25,9 @@ Other | Accounts Payable Automation
 
 [![09-case-adactus](https://static4.abbyy.com/abbyycommedia/15131/09-case-adactus.jpg)](https://www.youtube.com/watch?v=VSzi7j1qpcE) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Customer Overview
 
 ![Adactus Group](https://static2.abbyy.com/abbyycommedia/14441/adactus_155x80.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 | Name                  | Adactus Group                                               |
 | --------------------- | ----------------------------------------------------------- |
@@ -81,33 +61,20 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Up to **60,000**
 
 paper invoices are normally received each year
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **24** suppliers
 
 represent 50% of the transactions stream
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4** full time staff
 
@@ -156,22 +123,15 @@ The benefit of introducing this solution is a slicker way of working which limit
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
@@ -208,21 +168,16 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-best-mac-slicer-software-enhance-video-production-prowess/"><u>[New] In 2024, Best Mac Slicer Software Enhance Video Production Prowess</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-quick-guide-lecture-capture-with-your-computer-mac/"><u>[New] Quick Guide Lecture Capture with Your Computer (Mac)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-quest-for-the-ultimate-cinematography-experts/"><u>[New] The Quest for the Ultimate Cinematography Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-quickcapture-studio-chrome-os-snapper/"><u>2024 Approved QuickCapture Studio Chrome OS Snapper</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancing-audio-precision-microsoft-enhances-speech-clarity-across-additional-personal-computers/"><u>Advancing Audio Precision: Microsoft Enhances Speech Clarity Across Additional Personal Computers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-14-pro-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 14 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/connecting-your-playstation-5-dualsense-controller-with-windows-11-a-step-by-step-guide/"><u>Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-windows-11-govt-version-insights-and-reasons-to-think-twice-before-choosing-it/"><u>Decoding Windows 11 Govt. Version - Insights & Reasons to Think Twice Before Choosing It.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-arc-browser-newly-released-for-windows-10-users/"><u>Download Arc Browser: Newly Released for Windows 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/easily-adjust-apples-settings-guide-to-disabling-natural-mouse-scrolling-on-macos/"><u>Easily Adjust Apple's Settings: Guide to Disabling Natural Mouse Scrolling on macOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/favourites-revealed-top-20-anime-melodies-for-2024/"><u>Favourites Revealed Top 20 Anime Melodies for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-key-pages-to-acquire-text-styling-assets/"><u>In 2024, Key Pages to Acquire Text Styling Assets</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-pinning-landscape-in-snapchat/"><u>Navigating the Pinning Landscape in Snapchat</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/personalized-website-insights-via-cookiebots-advanced-tracking-solutions/"><u>Personalized Website Insights via Cookiebot's Advanced Tracking Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-leveraging-secondary-footage-for-visual-impact/"><u>[New] In 2024, Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-animation-in-instagram-stories-a-step-by-step-guide/"><u>[New] Mastering Animation in Instagram Stories A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-transforming-gameplay-discovering-the-seven-stars-of-stardew-updates/"><u>[Updated] In 2024, Transforming Gameplay Discovering the Seven Stars of Stardew Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-your-social-score-best-tools-for-post-and-engagement/"><u>2024 Approved Elevate Your Social Score Best Tools for Post and Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-engagement/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevating-robotic-process-automation-outcomes-with-cutting-edge-process-analytics-abbyy/"><u>Elevating Robotic Process Automation Outcomes with Cutting-Edge Process Analytics | ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empowerment/"><u>Empowerment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/paladins-stability-boost-cutting-edge-solutions-to-eliminate-game-crashes/"><u>Paladins Stability Boost - Cutting-Edge Solutions to Eliminate Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-how-to-fix-the-hyper-scape-game-crashes/"><u>Resolving PC Issues: How to Fix the Hyper Scape Game Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Chrome's New Feature Could Enable Direct Appreciation Payments to Sites
-date: 2024-09-12T07:12:38.375Z
-updated: 2024-09-13T07:12:38.375Z
+date: 2024-09-12T16:07:16.097Z
+updated: 2024-09-17T16:10:21.312Z
 tags:
   - web
 categories:
@@ -38,26 +38,24 @@ Google has confirmed plans to add an upcoming Web Monetization standard currentl
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-personalize-speakability-changing-your-tone-on-instagram-posts-for-2024/"><u>[Updated] Personalize Speakability Changing Your Tone on Instagram Posts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-sons-of-midgard-unite-epic-release/"><u>[Updated] Sons of Midgard Unite! Epic Release</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-learning-to-utilize-burst-mode-for-high-speed-photography/"><u>2024 Approved Learning to Utilize Burst Mode for High-Speed Photography</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone XR without the Previous Owner?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/five-effective-methods-to-tackle-cs-gos-user-login-failure-problem/"><u>Five Effective Methods to Tackle CS GO's User Login Failure Problem</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/next-level-smart-features-how-apples-cutting-edge-artificial-intelligence-transforms-siri-and-app-usage/"><u>Next-Level Smart Features: How Apple's Cutting-Edge Artificial Intelligence Transforms Siri and App Usage</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-your-mobile-photography-with-targeted-blurs-for-2024/"><u>Perfect Your Mobile Photography with Targeted Blurs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionary-milestone-by-t-mobile-ultimate-speed-triumphs-as-new-record-for-sub-6-5g-uploads-established/"><u>Revolutionary Milestone by T-Mobile: Ultimate Speed Triumphs as New Record for Sub-6 5G Uploads Established</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-gaming-how-ai-innovations-are-transforming-the-future-of-game-design/"><u>Revolutionizing Gaming: How AI Innovations Are Transforming the Future of Game Design</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-tech-apples-entry-into-the-future-with-vision-pro-a-comprehensive-analysis/"><u>Revolutionizing Tech: Apple's Entry Into the Future with Vision Pro - A Comprehensive Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rufus-amazons-persuasive-ai-companion-encouraging-increased-sales/"><u>Rufus: Amazon's Persuasive AI Companion Encouraging Increased Sales</u></a></li>
-<li><a href="https://some-tips.techidaily.com/taco-bell-introduces-artificial-intelligence-for-drive-thru-orders/"><u>Taco Bell Introduces Artificial Intelligence for Drive-Thru Orders</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/ultimate-list-of-no-cost-tools-to-extract-and-convert-vob-from-your-dvd-collection/"><u>Ultimate List of No-Cost Tools to Extract and Convert VOB From Your DVD Collection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-guffaw-on-your-phone-hysterical-site-listings/"><u>[New] Guffaw on Your Phone Hysterical Site Listings</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elite-ai-companions-for-chat/"><u>[Updated] In 2024, Elite AI Companions for Chat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-momentum-in-pictures-a-curated-list-of-ig-motivation/"><u>[Updated] Momentum in Pictures A Curated List of IG Motivation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-retroactive-video-mastery-for-android-users/"><u>[Updated] Retroactive Video Mastery for Android Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/15-low-cost-ssls-a-security-perspective/"><u>15 Low-Cost SSLs: A Security Perspective</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-enhanced-boosting-your-sites-engagement-with-cutting-edge-marketing-tech/"><u>Cookiebot-Enhanced: Boosting Your Site's Engagement with Cutting-Edge Marketing Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-ways-to-enhance-your-websites-visibility-mastering-page-optimization/"><u>Innovative Ways to Enhance Your Website's Visibility: Mastering Page Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-power-boosting-traffic-and-engagement/"><u>Optimize with Cookiebot Power: Boosting Traffic and Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/previsions-pour-lessor-de-la-main-doeuvre-numerique-dans-les-entreprises-plus-de-50-daugmentation-en-2021-etude-detaillee-par-abbyy/"><u>Prévisions Pour L'essor De La Main-D'oeuvre Numérique Dans Les Entreprises (Plus De 50% D'augmentation en 2021) – Étude Détaillée Par ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rapidez-au-detriment-de-la-souplesse-comment-lacceleration-du-processus-douanier-a-la-frontiere-royaume-uniue-affecte-le-commerce/"><u>Rapidez Au Détriment De La Souplesse : Comment L'accélération Du Processus Douanier À La Frontière Royaume-Uni/UE Affecte Le Commerce</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-google-by-fonelab-android-recover-data/"><u>Recover lost data from Google</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Rotating Your Pictures with Ease: A Step-by-Step Guide for Windows 11 Users"
-date: 2024-09-12T07:13:44.202Z
-updated: 2024-09-13T07:13:44.202Z
+date: 2024-09-12T16:01:49.522Z
+updated: 2024-09-17T16:04:17.767Z
 tags:
   - desktop
 categories:
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 ---
 
 ## Rotating Your Pictures with Ease: A Step-by-Step Guide for Windows 11 Users
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,20 +35,13 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 !['Rotate Right' and 'Rotate Left' highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-rotate-image-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you make a mistake rotating the image, right-click the image again and choose the opposite rotation option. This will bring the image back to its default orientation.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Rotate a Photo With the Photos App
@@ -66,16 +52,16 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![Open With > Photos highlighted in a photo's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-photo-with-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Photos, from the top toolbar, select Edit Image (the first icon). Alternatively, press Ctrl+E.
 
 ![Edit Image highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-photos-edit-image.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You’re now ready to edit the image.
 
@@ -93,20 +79,27 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-photos-save-image.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And that’s all.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using the Paint App
 
  Paint allows you to rotate images 90 degrees as well as 180 degrees. To use it, launch File Explorer and find your image. Right-click the image and select Open With > Paint.
 
 ![Open With > Paint highlighted in a picture's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-open-photo-with-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Paint, from the Image section at the top, select Rotate (a right-arrow icon).
 
@@ -116,29 +109,9 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 ![Photo rotation options highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-rotate-photo-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve finished rotating the image, save it. To overwrite the original image with the rotated one, select File > Save from the menu bar or press Ctrl+S. To create a new copy of the image, select File > Save As and choose the preferred image format.
 
 !['Save' and 'Save As' highlighted in Paint's 'File' menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-save-image-paint.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you chose to make a copy of the image, select the folder where you want to save the image in the window that opens. Enter a name for the image in the "File Name" field and click "Save."
 
@@ -165,18 +138,19 @@ thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-autoplay-youtube-videos-on-facebook-in-2024/"><u>[Updated] How to Autoplay Youtube Videos on Facebook, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protect-your-privacy-why-you-should-avoid-sharing-your-personal-email-with-businesses/"><u>1. Protect Your Privacy: Why You Should Avoid Sharing Your Personal Email with Businesses</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-find-x6-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Find X6 Pro PC | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/august-9th-new-york-times-insight-decode-todays-424-connection-clues/"><u>August 9Th New York Times Insight: Decode Today’s #424 Connection Clues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avoid-these-5-mistakes-not-everything-should-be-stored-in-the-cloud/"><u>Avoid These 5 Mistakes - Not Everything Should Be Stored in the Cloud</u></a></li>
-<li><a href="https://some-tips.techidaily.com/chromes-new-feature-could-enable-direct-appreciation-payments-to-sites/"><u>Chrome's New Feature Could Enable Direct Appreciation Payments to Sites</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/cookiebot-driven-personalization-for-superior-online-engagement/"><u>Cookiebot-Driven Personalization for Superior Online Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/crack-the-puzzle-with-todays-nyt-july-11-connections-hints-and-answer-part-396/"><u>Crack the Puzzle with Today's NYT - July 11 Connections Hints and Answer, Part #396</u></a></li>
-<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios-for-2024/"><u>Elevate Your Virtual Identity Expert Tips for Memorable FB Bios for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-capture-call-transcript-for-study/"><u>In 2024, Capture Call Transcript for Study</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/save-money-on-streaming-these-10-no-cost-services-beat-netflix/"><u>Save Money on Streaming: These 10 No-Cost Services Beat Netflix</u></a></li>
-<li><a href="https://games-able.techidaily.com/xbox-extravaganza-claim-your-online-offers/"><u>Xbox Extravaganza: Claim Your Online Offers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-camstudio-reimagined-the-complete-screen-recorder-review/"><u>[New] CamStudio Reimagined The Complete Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-heating-up-your-youtube-videos-with-top-winter-backdrops/"><u>[Updated] 2024 Approved Heating Up Your YouTube Videos with Top Winter Backdrops</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-revisionfx-reelsmart-motion-blur-plugin-for-premiere-pro/"><u>2024 Approved ReVisionFX ReelSmart Motion Blur Plugin For Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-ai-visual-effects-system/"><u>2024 Approved Ultimate AI Visual Effects System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-unveils-new-collaborations-and-broadens-product-lineup-for-q4-2019-insights-from-abbyys-newsroom/"><u>ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-scott-opitz-as-new-head-of-technology-and-product-innovation/"><u>ABBYY Welcomes Scott Opitz as New Head of Technology and Product Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-banking-innovation-how-idc-enables-the-future-of-finance-with-cutting-edge-automation/"><u>Advancing Banking Innovation: How IDC Enables the Future of Finance with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-solutions-empower-your-online-presence-with-cookiebot/"><u>Automated Marketing Solutions: Empower Your Online Presence with Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-customized-user-tracking/"><u>Automated Marketing with Customized User Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/breaking-down-performance-of-teamgroups-strongest-nvme-ssd-heatsink-the-dark-airflow-i-in-review/"><u>Breaking Down Performance of TeamGroup's Strongest NVMe SSD Heatsink: The Dark AirFlow I in Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-get-sound-blaster-z-driver-on-windows-11/"><u>Easy Installation Guide: Get Sound Blaster Z Driver on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/storytelling-excellence-achieved-through-chatgpt-key-strategies-and-tips/"><u>Storytelling Excellence Achieved Through ChatGPT: Key Strategies and Tips</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-core-gaming-keyboard-features/"><u>Unveiling Core Gaming Keyboard Features</u></a></li>
 </ul></div>
 

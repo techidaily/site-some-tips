@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep Into Tech Jargon: Understanding OCR and IDP's Key Differences"
-date: 2024-09-12T07:16:20.430Z
-updated: 2024-09-13T07:16:20.430Z
+date: 2024-09-13T16:02:39.233Z
+updated: 2024-09-17T16:00:19.922Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6fb318adf671f70aacd812852.jpg
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 
 [Zurück zu ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OCR vs. IDP: Was ist der Unterschied?
 
 ###### Slavena Hristova
@@ -25,19 +18,6 @@ thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6f
 29\. Juli 2024
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/ocr-vs-idp/ds-66-ocr-idp-image-2-de.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Gehe direkt zu: 
 
@@ -57,31 +37,11 @@ Bevor es OCR gab, musste man zur Dateneingabe Text manuell in ein Computersystem
 
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Wie es funktioniert
 
 OCR beginnt mit der Datei, aus der Sie Informationen extrahieren möchten. Dabei kann es sich um ein gescanntes Dokument, eine PDF-Datei oder um Fotos von Papierdokumenten handeln. Moderne OCR-Plattformen können automatisch die Qualität verbessern, den Kontrast erhöhen und die Auflösung schärfen, um die Genauigkeit zu erhöhen. Als Nächstes verwenden die OCR-Algorithmen vorab trainierte Extraktionsmodelle, um Wörter und Zeilen im Bild zu identifizieren und einzelne erkannte Zeichen zu extrahieren.
 
 Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern oder Vorlagen abgeglichen, die bekannte Zeichen und Symbole darstellen. Dabei können Technologien wie maschinelles Lernen und neuronale Netze eingesetzt werden, um die Erkennungsgenauigkeit zu verbessern und verschiedene Schriftarten und Sprachen oder komplizierte Layouts wie Tabellen und Listen oder Strichcodes zu verarbeiten. Wenn die OCR auf ein Problem stößt, kann sie dieses zur menschlichen Bearbeitung kennzeichnen. Nach Abschluss des Zeichenerkennungsprozesses müssen Sie das Ergebnis eventuell noch auf Fehler prüfen oder die Genauigkeit durch Rechtschreibprüfung, Kontextanalyse oder Sprachmodellierung verbessern. Die OCR-Software erzeugt dann den endgültigen maschinenlesbaren Text, der in das Computersystem Ihres Unternehmens integriert werden kann.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Vorteile der OCR
 
@@ -97,10 +57,10 @@ Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern od
 Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit zur Einhaltung von behördlichen und unternehmensinternen Vorschriften große Mengen an Papier- und digitalen Dokumenten in barrierefreie und durchsuchbare Formate umwandeln, Anwaltskanzleien, die gedruckte Verträge in bearbeitbare digitale Formate für die Suche, eDiscovery und Datenanalyse umwandeln, Unternehmen des Gesundheitswesens, die Patientenakten auf ihr Computersystem übertragen, um die Einhaltung des HIPAA zu gewährleisten, Bibliotheken und Archive, die historische Dokumente in digitaler Form aufbewahren, damit die Mitarbeiter eines Unternehmens ihre tägliche Arbeit mit Dokumenten effizient erledigen können, und Softwareentwickler, die Inhaltsdienste, digitale Archivierung, Dokumentenverwaltungssysteme (DMS) und ECM-Lösungen (Enterprise Content Management) entwickeln.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was ist IDP?
@@ -108,13 +68,6 @@ Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit
 [Intelligente Dokumentenverarbeitung](https://tools.techidaily.com/abbyy/products/) **(IDP) ermöglicht die durchgängige Verarbeitung von Dokumenten durch automatisches Erfassen, Extrahieren und Verarbeiten von Daten, die in Geschäftsdokumenten eingebettet sind,** in nahezu jedem Prozess in jeder Branche.
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Wie es funktioniert
 
@@ -125,13 +78,6 @@ IDP verwendet Modelle des maschinellen Lernens, um Dokumente auf der Grundlage i
 Durch die Einbeziehung der Verarbeitung natürlicher Sprache (NLP) ist die Technologie auch in der Lage, den Kontext der gelesenen Informationen zu interpretieren. Bezeichnet das Wort „Jaguar“ beispielsweise eine Großkatze oder ein Auto? Oder bezeichnet das Wort „Sue“ in einem englischen Text eine Person oder eine rechtliche Klage? Mittels NLP identifiziert und extrahiert IDP unstrukturierte Daten mit bisher unerreichter Präzision, wie ein menschliches Gehirn, das schnell auf veränderte Eingaben reagiert und das bestmögliche Ergebnis liefert. Diese Art von fortgeschrittener Technologie wird als intelligente Automatisierung oder Hyperautomatisierung bezeichnet.
 
 Die [IDP-Plattform](https://tools.techidaily.com/abbyy/products/) lässt sich problemlos in eine Vielzahl verschiedener Unternehmenssysteme integrieren, wie z. B. ERP- oder CRM-Systeme. Mit den neuen Low-Code/No-Code-Plattformen können Laienentwickler (Citizen Developers) die IDP-Technologie innerhalb weniger Tage einsetzen, ohne dass auf Kundenseite umfangreiche IT-Infrastrukturunterstützung und -wartung erforderlich ist.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Vorteile von IDP
 
@@ -184,19 +130,6 @@ Studien zufolge stellen 90% der Unternehmen fest, dass potenzielle Kunden den di
 
 Mit intelligenter Dokumentenverarbeitung können Sie die Hindernisse beseitigen, die zu Abbrüchen veranlassen. [Unternehmen können die IDP-Technologie für den Identitätsnachweis](https://tools.techidaily.com/abbyy/products/) und die Identitätsbestätigung nutzen, was das Ganze für Kunden einfacher und für Unternehmen sicherer macht. IDP kann Ausweisdokumente wie Führerscheine oder Reisepässe oder unterstützende Dokumente wie Kontoauszüge oder Rechnungen von Versorgungsunternehmen erfassen und klassifizieren, die zum Nachweis der Adresse benötigt werden. Sie kann beispielsweise von Kraftfahrzeugbehörden für die Verlängerung eines Führerscheins oder von einer Bank für Hypothekenanträge verwendet werden.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## OCR vs. IDP: Was ist für Ihr Unternehmen am besten?
 
 **Bei der OCR geht es in erster Linie darum, den vollständigen Text aus Bildern und Dokumenten zu extrahieren, damit er am Computerbildschirm dargestellt und bearbeitet werden kann.** OCR erkennt verschiedene Schriftarten, Bilder und handschriftliche Notizen und wandelt sie in bearbeitbaren und durchsuchbaren digitalen Text um. Für Unternehmen, die Lösungen zur digitalen Archivierung suchen oder unterstützende Technologien entwickeln wollen, die eine hervorragende Texterkennung, PDF-Konvertierung und Datenerfassungsfunktionen erfordern, ist eine OCR-Lösung am besten geeignet. Mit dem [OCR Software Development Kit (SDK) von ABBYY](https://tools.techidaily.com/abbyy/products/) erhalten Sie hervorragende Funktionen für die Dokumentenerfassung.
@@ -204,6 +137,13 @@ Mit intelligenter Dokumentenverarbeitung können Sie die Hindernisse beseitigen,
 **IDP umfasst OCR-Technologie, geht aber noch einen Schritt weiter und analysiert und interpretiert den Text wie ein Mensch.**  Sie nutzt fortschrittliche Technologien wie die Verarbeitung natürlicher Sprache, maschinelles Lernen und künstliche Intelligenz, um den Inhalt von Dokumenten umfassender zu verstehen. IDP extrahiert also nicht nur den Text, sondern kann auf Grundlage der gefundenen Informationen auch den Kontext verstehen, Daten validieren und Entscheidungen fällen. IDP ist eher für Unternehmen geeignet, die eine anspruchsvolle Dokumentenverarbeitung, Workflow-Automatisierung und inhaltsbasierte Entscheidungsfindung benötigen. Mit den neuen Low-Code/No-Code-Lösungen, wie [ABBYY Vantage,](https://tools.techidaily.com/abbyy/products/) können Unternehmen IDP mit vortrainierten, sofort einsatzbereiten Dokumentenverarbeitungsmodellen verwenden oder stattdessen schnell und einfach eigene Extraktionsmodelle auf der Grundlage von Dokumententypen oder Anforderungen erstellen, die speziell auf ihre Geschäftsanforderungen zugeschnitten sind.
 
 [Demo anfordern](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -245,6 +185,13 @@ Technologien für OCR (optische Zeichenerkennung) und IDP (intelligente Dokument
 
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Slavena Hristova
 
 Director of Product Marketing, Vantage group at ABBYY
@@ -252,6 +199,13 @@ Director of Product Marketing, Vantage group at ABBYY
 Slavena Hristova ist Direktorin für Produktmarketing, Vantage bei ABBYY. Hristova leitet das globale Produktmarketing für die ABBYY Vantage-Produktlinie. Sie verwaltet den gesamten Produktlebenszyklus, von der Definition der Marktanforderungen und der Entwicklung von Markteinführungsstrategien bis hin zu Vertriebsunterstützung und Schulungsangeboten für Vertriebspartner. Sie verfügt über langjährige Erfahrung im Produktmanagement und Marketing in den Bereichen Texterkennung, Informations- und Dokumentenmanagement.
 
 Verbinden Sie sich mit Slavena auf [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gefällt mir, teilen oder neu posten 
 
@@ -312,15 +266,20 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-concoct-clever-caricatures/"><u>[Updated] Concoct Clever Caricatures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715860307682-updated-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[Updated] PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-6-affordable-high-definition-projectors-for-2024/"><u>Best 6 Affordable High-Definition Projectors for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-latest-features-of-the-16-gen-9-lenovo-legion-pro-7i-gaming-laptop-reviewed/"><u>Exploring the Latest Features of the 16 Gen 9 Lenovo Legion Pro 7I Gaming Laptop Reviewed!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fixing-issues-with-your-windows-start-menu-a-comprehensive-guide/"><u>Fixing Issues with Your Windows Start Menu: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/making-the-most-of-onedrive-with-windows-11-why-microsoft-encourages-integration/"><u>Making the Most of OneDrive with Windows 11: Why Microsoft Encourages Integration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/optimisation-des-parametres-de-conversion-hd-avec-handbrake-pour-creer-du-mp4-a-partir-de-dvd/"><u>Optimisation Des Paramètres De Conversion HD Avec HandBrake Pour Créer Du MP4 À Partir De DVD</u></a></li>
-<li><a href="https://some-tips.techidaily.com/resizing-icons-effortlessly-in-windows-10-a-step-by-step-guide/"><u>Resizing Icons Effortlessly in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-better-security-and-efficiency-a-guide-to-the-7-must-enable-windows-options-explained/"><u>Unlocking Better Security & Efficiency: A Guide to the 7 Must-Enable Windows Options Explained</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unveiling-the-capabilities-of-dts-virtual-x-for-gamers/"><u>Unveiling the Capabilities of DTS Virtual: X for Gamers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digital-sculptors-playground-essential-tools-for-every-animator/"><u>[New] Digital Sculptors’ Playground Essential Tools for Every Animator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-amass-a-thousand-tactics-for-monthly-instagram-following-for-2024/"><u>[Updated] Amass a Thousand Tactics for Monthly Instagram Following for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-abbyy-top-choice-for-everest-groups-idp-peak-matrix-evaluation/"><u>1. ABBYY: Top Choice for Everest Group's IDP Peak Matrix Evaluation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724313333809-cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics & Personalization</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-routines-for-easy-webinar-saves-on-windows-platform-for-2024/"><u>Essential Routines for Easy Webinar Saves on Windows Platform for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-itel-p55-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Itel P55 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>In 2024, Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphones-message-alerts-and-ringtones-with-these-expert-tips-and-tricks/"><u>Revive Your iPhone's Message Alerts & Ringtones with These Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-financial-sector-how-rpa-and-nlp-offer-innovative-solutions/"><u>Revolutionizing the Financial Sector: How RPA and NLP Offer Innovative Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-wise-process-of-integrating-voice-over-into-videos/"><u>Step-Wise Process of Integrating Voice Over Into Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-final-countdown-over-fortnite-launched/"><u>The Final Countdown Over - Fortnite Launched</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-enterprise-potential-enhancing-roi-through-ai-driven-content-strategies-insights-from-the-abbyy-blog/"><u>Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-discover-the-best-8-rain-sound-archives-for-free-download-a-complete-list-for-2024/"><u>Updated Discover the Best 8 Rain Sound Archives for Free Download - A Complete List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-analytics-and-visitor-insights/"><u>Utilizing Cookiebot Technology for Improved Site Analytics and Visitor Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/weltweit-kooperiert-kodak-alaris-mit-abbyy-fur-die-gemeinsame-digitale-datenverarbeitung/"><u>Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung</u></a></li>
 </ul></div>
 

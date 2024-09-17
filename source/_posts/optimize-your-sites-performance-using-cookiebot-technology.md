@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Site's Performance Using Cookiebot Technology
-date: 2024-09-12T07:19:22.063Z
-updated: 2024-09-13T07:19:22.063Z
+date: 2024-09-11T16:06:17.165Z
+updated: 2024-09-17T16:00:12.574Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1657e5b249344fa4f87d839d.jpg
@@ -11,44 +11,17 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Named 2021 Leader in Intelligent Document Processing by ISG and Quadrant Knowledge Solutions
 
 February 22, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![News 15 Businessbuildings](https://static4.abbyy.com/abbyycommedia/33670/news-15-businessbuildings.jpg) 
 
 Fueled by the growing momentum for its intelligent document processing (IDP) solutions, [ABBYY](https://tools.techidaily.com/abbyy/products/) reports that it has been named a technology leader in both the **[ISG Provider Lens™ Intelligent Automation Solutions & Services Report](https://tools.techidaily.com/abbyy/products/)** for the U.S. U.K., Nordics, Brazil, and Germany, and [**Quadrant Knowledge Solutions 2021 SPARK Matrix for IDP**](https://tools.techidaily.com/abbyy/products/). The recognition is due to the strong ratings of its comprehensive no-code platform for document processing, ABBYY Vantage. ABBYY is also positioned in the top grouping of **[ISG’s Matrix for the process mining market](https://tools.techidaily.com/abbyy/products/)**.
 
 ![](https://static1.abbyy.com/abbyycommedia/35270/qks-idp-spark-matrix-2021.png?width=985&height=553)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Going beyond traditional optical character recognition (OCR), ISG, a leading global research and advisory firm, defines intelligent document processing as software that uses artificial intelligence (AI) technologies such as natural language processing (NLP), machine learning (ML), computer vision, and deep learning to filter and analyze large volumes of unstructured data from multiple formats for further processing, storage, and use in other applications. IDP not only enables companies to reduce costs, but also to increase workforce productivity, improve accuracy, ensure compliance, and maximize customer satisfaction. ABBYY stands out for its industry proven portfolio of solutions coupled with customer-centric sales teams and strategic global partnerships with major RPA and other intelligent automation vendors. ABBYY provides customers with the content intelligence they need to maintain a competitive edge and gain business value.
 
@@ -60,13 +33,6 @@ Going beyond traditional optical character recognition (OCR), ISG, a leading glo
 
 ![](https://static1.abbyy.com/abbyycommedia/35269/isg-idp-leader-2021.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ABBYY’s recognition as an IDP Leader comes after a successful launch of [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) and [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/). More than 500 organizations have started using the platform since the general release and provided overwhelmingly positive feedback about ABBYY’s new way of document processing, including four of the top U.S. banks and many cloud-based companies. The product was also named among the [Trend-Setting Products of 2021](https://tools.techidaily.com/abbyy/products/) by KMWorld Magazine. To learn about the latest features and benefits of ABBYY Vantage, please visit [Advanced AI Document Processing | Latest ABBYY Vantage 2.1 Release](https://tools.techidaily.com/abbyy/products/).
 
 To access the full report on ISG Provider Lens™ Intelligent Automation – Solutions & Services 2021 – IDP (U.S.), please visit: <https://www.abbyy.com/resources/report/intelligent-document-processing-isg-provider-lens/>.
@@ -74,13 +40,6 @@ To access the full report on ISG Provider Lens™ Intelligent Automation – Sol
 To access the full report on ISG Provider Lens™ Intelligent Automation – Solutions & Services 2021 – Process Mining (U.S.), please visit: <https://www.abbyy.com/resources/report/process-mining-isg-provider-lens/>.
 
 To access the full report on Quadrant Knowledge Solutions SPARK Matrix for IDP 2021, please visit: <https://www.abbyy.com/resources/report/intelligent-document-processing-quadrant-knowledge-solutions/>.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### About ABBYY
 
@@ -91,13 +50,6 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 ### ABBYY editorial contacts
 
 ![02C Catherinejohnson](https://static1.abbyy.com/abbyycommedia/23661/02c-catherinejohnson.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Catherine Johnson
 
@@ -130,14 +82,28 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photoshop-basics-for-beginners-10-must-know-tricks/"><u>2024 Approved Photoshop Basics for Beginners 10 Must-Know Tricks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2016-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2016 Found a Problem with One or more Formula</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-microsofts-directx-raytracing-dxr-innovation-propels-next-gen-pc-gaming-performance/"><u>How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/setting-up-your-preferred-mic-and-cam-in-windows-11-step-by-step-guide/"><u>Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/significant-upgrade-unveiled-icloud-now-fully-functional-with-windows-os/"><u>Significant Upgrade Unveiled: ICloud Now Fully Functional with Windows OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-compilation-top-vr-games-on-google-cardboard/"><u>The Ultimate Compilation Top VR Games on Google Cardboard</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-pubg-loads-failure-for-in-game-structures/"><u>Troubleshooting PUBG Loads Failure for In-Game Structures</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-customizing-the-twitter-interface-an-experts-tutorial-for-video-images/"><u>[New] 2024 Approved Customizing the Twitter Interface An Expert's Tutorial for Video Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-5-mma-games-for-virtual-fight-enthusiasts/"><u>[New] In 2024, Top 5 MMA Games for Virtual Fight Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-moves-with-gopro-for-2024/"><u>[Updated] Expert Moves with GoPro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-scott-opitz-as-new-head-of-technology-and-product-innovation/"><u>ABBYY Welcomes Scott Opitz as New Head of Technology and Product Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-banking-innovation-how-idc-enables-the-future-of-finance-with-cutting-edge-automation/"><u>Advancing Banking Innovation: How IDC Enables the Future of Finance with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-solutions-empower-your-online-presence-with-cookiebot/"><u>Automated Marketing Solutions: Empower Your Online Presence with Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-customized-user-tracking/"><u>Automated Marketing with Customized User Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-business-efficiency-integrating-abbyys-smart-content-into-sap-bot-solutions/"><u>Boosting Business Efficiency: Integrating ABBYY's Smart Content Into SAP Bot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-analytics-and-tracking-solutions/"><u>Cookiebot-Driven Analytics and Tracking Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/cing-content-reach-keeping-creative-commons-engagement-high/"><u>Enhancing Content Reach Keeping Creative Commons Engagement High</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-y100-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo Y100 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-11-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 11 Properly | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-making-sense-of-minecraft-realms-benefits/"><u>Pros and Cons: Making Sense of Minecraft Realms' Benefits</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nokia-c12-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nokia C12 Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-instagram-stories-download-crafting-strategies/"><u>Unlocking Instagram Stories Download, Crafting Strategies</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

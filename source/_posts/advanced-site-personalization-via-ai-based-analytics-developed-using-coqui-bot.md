@@ -1,7 +1,7 @@
 ---
 title: Advanced Site Personalization via AI-Based Analytics – Developed Using Coqui Bot
-date: 2024-09-12T07:19:02.397Z
-updated: 2024-09-13T07:19:02.397Z
+date: 2024-09-11T16:11:35.882Z
+updated: 2024-09-17T16:05:35.198Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/eef2009cf8605abb864ce0da678ba08025e7a86301259979343ff3d486247b82.jpg
@@ -44,29 +44,9 @@ The new [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/) provid
 
 ![ABBYY Vantage cognitive skills rpa](https://static1.abbyy.com/abbyycommedia/32490/vantage-scheme-848.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 On Day 2, you can attend sessions with PwC demonstrating how they are leveraging cognitive skills and get a technical deep dive with ABBYY experts Bill Galusha and Stefan Schmainta.
 
 See additional information in the [press release](https://tools.techidaily.com/abbyy/products/) or the [Vantage](https://tools.techidaily.com/abbyy/products/) or [Marketplace](https://tools.techidaily.com/abbyy/products/) web pages.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Discover the entire lifecycle of your documents with ABBYY Timeline for FlexiCapture**
 
@@ -85,10 +65,16 @@ Visit the FlexiCapture web page for more information about the [Timeline for Fle
 ABBYY will have several technology partners share how they integrate ABBYY Digital Intelligence to achieve intelligent automation leveraging multiple tools ranging from machine learning, analytics, process mining, business intelligence, and RPA. The integrated approach promotes what Gartner refers to as hyperautomation using best-in-breed technology. Partners presenting during ABBYY Reimagine sessions include Gold sponsors EXL, Blue Prism, and Alteryx, as well as other technology partners PwC and Capitalize Analytics.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ABBYY partners with Capitalize Analytics to deliver end-to-end process insight to achieve operational excellence**
@@ -98,13 +84,6 @@ ABBYY has partnered with Capitalize Analytics, a business intelligence and consu
 Capitalize leverages industry-leading solutions to enable companies to make better decisions by uncovering, discovering, and extracting what’s hidden within data, so leaders can understand that data, and make informed decisions to improve operational performance.
 
 ![digital transformation technology](https://static1.abbyy.com/abbyycommedia/32426/b-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 During the ABBYY Reimagine Reveal session, Capitalize demonstrates using the Alteryx platform to analyze and monitor data from multiple sources. It starts with data incoming from unstructured invoices via ABBYY Vantage, customer information sourced from Salesforce, and purchase order information pulled from Microsoft Dynamics and shows how the various data can be fed into ABBYY Timeline for process understanding and also into Excel, Power BI, and Tableau Dashboard for additional analytics information.
 
@@ -118,13 +97,6 @@ If you are unable to join us live, ABBYY Reimagine sessions will be available on
 
 ![Bruce Orcutt ABBYY](https://static5.abbyy.com/abbyycommedia/25719/bruceorcutt-99x99.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Bruce Orcutt
 
 Senior Vice President of Product Marketing at ABBYY
@@ -134,16 +106,10 @@ Bruce Orcutt is a veteran Product Marketing and Product Management professional 
 Connect with Bruce on [LinkedIn](https://www.linkedin.com/in/borcutt/).
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Like, share or repost
@@ -209,20 +175,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unraveling-iphones-audio-mystery-ringtone-adjustments/"><u>[New] 2024 Approved Unraveling iPhone's Audio Mystery Ringtone Adjustments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-guide-10-simple-steps-to-mastering-x-in-no-time/"><u>Beginner's Guide: 10 Simple Steps to Mastering X in No Time!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/crack-the-puzzle-with-todays-nyt-july-11-connections-hints-and-answer-part-396/"><u>Crack the Puzzle with Today's NYT - July 11 Connections Hints and Answer, Part #396</u></a></li>
-<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y17s-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y17s? Try These Fixes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-6s-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 6s iCloud Bypass</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-multichannel-sound-upgrade-with-the-latest-nahimic-drivers/"><u>Seamless Multichannel Sound Upgrade with the Latest Nahimic Drivers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-upgrading-your-videos-using-handbrake-software/"><u>Ultimate Tutorial on Upgrading Your Videos Using Handbrake Software</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/windows-10-compatible-ultimate-guide-to-swift-and-easy-conversion-of-dvds-to-mp4-files-with-winx-free-dvd-ripper/"><u>Windows 10 Compatible: Ultimate Guide to Swift & Easy Conversion of DVDs to MP4 Files with WinX Free DVD Ripper</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-selection-of-toppest-free-video-calls-and-screenshare/"><u>[New] 2024 Approved Premier Selection of Toppest FREE Video Calls & Screenshare</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-novice-to-notable-launching-a-trending-solo-show/"><u>[New] From Novice to Notable Launching a Trending Solo Show</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-adsense-profits-on-youtube-earnings-per-thousand-video-watchers/"><u>[Updated] 2024 Approved AdSense Profits on YouTube Earnings per Thousand Video Watchers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-site-engagement-with-cookiebots-advanced-data-tracking-technology/"><u>Boost Site Engagement with Cookiebot's Advanced Data Tracking Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-traffic-with-cookiebots-advanced-analytics-and-conversion-solutions/"><u>Boost Your Traffic with Cookiebot's Advanced Analytics and Conversion Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/browsing-made-lighter-top-7-windows-apps-for-less-memory-use/"><u>Browsing Made Lighter: Top 7 Windows Apps for Less Memory Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-streamlining-user-experience-through-smart-marketing-automation/"><u>Cookiebot Driven Solutions: Streamlining User Experience Through Smart Marketing Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-marketing-unleashing-the-full-potential-of-your-digital-strategy/"><u>Cookiebot-Driven Marketing: Unleashing the Full Potential of Your Digital Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-solutions-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled Solutions: Enhance Your Site's User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effizientes-antragsmanagement-fur-helfer-durch-help-ev-mithilfe-von-abbyy-formreader-ein-leitfaden-zur-vereinfachung-der-mitgliedschaftseinwerbung/"><u>Effizientes Antragsmanagement Für Helfer Durch HELP E.V. Mithilfe Von ABBYY FormReader - Ein Leitfaden Zur Vereinfachung Der Mitgliedschaftseinwerbung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-web-experiences-with-our-cookiebot-enabled-tools-and-insights/"><u>Elevate Web Experiences with Our Cookiebot-Enabled Tools and Insights</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/going-above-and-beyond-without-the-need-for-vimeo-for-2024/"><u>Going Above and Beyond Without the Need for Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-green-filming-gurus-on-yt-transform-your-set-with-greenscreens/"><u>In 2024, Green Filming Gurus on YT Transform Your Set with Greenscreens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/leading-the-pack-in-instagram-content-crafting-puzzle-feeds/"><u>Leading the Pack in Instagram Content Crafting Puzzle Feeds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rockstar-games-launcher-troubleshooting-guide-fixing-issues/"><u>Rockstar Games Launcher Troubleshooting Guide: Fixing Issues</u></a></li>
 </ul></div>
 

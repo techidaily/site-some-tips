@@ -1,7 +1,7 @@
 ---
 title: ABBYY Maintains Top Spot in the Smart Automation Industry
-date: 2024-09-12T07:16:43.821Z
-updated: 2024-09-13T07:16:43.821Z
+date: 2024-09-10T16:14:47.954Z
+updated: 2024-09-17T16:12:40.401Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53dc379a61f25b9401249f9af.jpg
@@ -11,34 +11,13 @@ thumbnail: https://thmb.techidaily.com/918241799e85f81dec9b4161207ab0693452bcd53
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Reaffirms Its Position as an Intelligent Automation Market Leader
 
 January 25, 2023
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![News Conference9](https://static1.abbyy.com/abbyycommedia/33873/news-conference9.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 With a rising demand for [intelligent automation](https://tools.techidaily.com/abbyy/products/) in the enterprise and the market expected to soar to $49 billion by 20261, [ABBYY](https://tools.techidaily.com/abbyy/products/) is honored to have been named a leader by 10 industry analyst firms in 2022.
 
@@ -68,13 +47,6 @@ For more information on the most recent analyst reports featuring ABBYY, please 
 
 _1 IDC, Worldwide Intelligent Process Automation Software Forecast, 2022–2026, September 2022._
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -85,23 +57,9 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ABBYY Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Gina Ray
 
@@ -126,21 +84,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-instagram-blueprint-crafting-content-for-a-thousand-strong-audience/"><u>[Updated] In 2024, The Instagram Blueprint Crafting Content for a Thousand-Strong Audience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-quick-tips-eliminate-signature-bg-in-minutes/"><u>2024 Approved Quick Tips Eliminate Signature Bg in Minutes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-linux-skills-with-tips-from-chatgpt-a-personal-experience/"><u>Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/electric-vehicle-charging-issues-unraveling-the-top-8-causes-of-connection-failures/"><u>Electric Vehicle Charging Issues: Unraveling the Top 8 Causes of Connection Failures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/electrifying-news-volkswagen-adopts-tesla-compatible-charging-stations-for-future-models/"><u>Electrifying News: Volkswagen Adopts Tesla-Compatible Charging Stations for Future Models</u></a></li>
-<li><a href="https://some-tips.techidaily.com/embracing-the-reality-electric-vehicle-ranges-may-remain-stable-for-now/"><u>Embracing the Reality: Electric Vehicle Ranges May Remain Stable for Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-visuals-with-our-cutting-edge-fork-of-stable-diffusion-perfect-for-creating-large-format-images-effortlessly/"><u>Enhance Your Visuals with Our Cutting-Edge Fork of Stable Diffusion, Perfect for Creating Large Format Images Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a54-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A54 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-branding-excellence-through-joint-video-campaigns-with-youtube/"><u>In 2024, Branding Excellence Through Joint Video Campaigns with YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/optimize-your-appletv-use-with-simple-steps-to-watch-facebook-content/"><u>Optimize Your AppleTV Use with Simple Steps to Watch Facebook Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/snappy-zoom-calls-for-improved-engagement/"><u>Snappy Zoom Calls for Improved Engagement</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-melodic-prophecies-the-power-of-spotify-to-anticipate-your-favorite-tunes/"><u>Unveiling Melodic Prophecies: The Power of Spotify to Anticipate Your Favorite Tunes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/video-showdown-determining-the-best-among-obs-and-twitch-hubs/"><u>Video Showdown Determining the Best Among OBS and Twitch Hubs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premium-web-audio-solutions-guidebook-top-7-2023-for-2024/"><u>[New] Premium Web Audio Solutions Guidebook Top 7 2023 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-expert-guide-to-instagram-video-sizing/"><u>[Updated] Expert Guide to Instagram Video Sizing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems-for-2024/"><u>[Updated] The Comprehensible Guide to Capturing Instagram Media via Computer Systems for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-top-picks-8-mirrorless-cameras-that-shine-in-vlogs/"><u>2024 Approved Top Picks 8 Mirrorless Cameras That Shine in Vlogs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-engagement-with-free-intro-templates/"><u>Boost Engagement with Free Intro Templates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/custom-film-conclusion-templates-for-free/"><u>Custom Film Conclusion Templates, For FREE</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-c53-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme C53 to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-gaming-how-ai-innovations-are-transforming-the-future-of-game-design/"><u>Revolutionizing Gaming: How AI Innovations Are Transforming the Future of Game Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-tech-apples-entry-into-the-future-with-vision-pro-a-comprehensive-analysis/"><u>Revolutionizing Tech: Apple's Entry Into the Future with Vision Pro - A Comprehensive Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rufus-amazons-persuasive-ai-companion-encouraging-increased-sales/"><u>Rufus: Amazon's Persuasive AI Companion Encouraging Increased Sales</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taco-bell-introduces-artificial-intelligence-for-drive-thru-orders/"><u>Taco Bell Introduces Artificial Intelligence for Drive-Thru Orders</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-how-to-securely-clearing-all-data-from-your-iphone-using-stellar-techniques/"><u>Ultimate How-To: Securely Clearing All Data From Your iPhone Using Stellar Techniques</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Harness the Power of Cookiebot for Optimized Website Traffic
-date: 2024-09-12T07:18:41.850Z
-updated: 2024-09-13T07:18:41.850Z
+date: 2024-09-11T16:02:52.403Z
+updated: 2024-09-17T16:05:54.047Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021abfc1f3482b428b18a9e6d1.jpg
@@ -15,30 +15,9 @@ thumbnail: https://thmb.techidaily.com/9b1d54d7ae73d83b91bdfdadbf959717f77a8b021
 
 English
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featuring
 
 ![20 Andrewpery 198X198](https://static4.abbyy.com/abbyycommedia/25498/20-andrewpery-198x198.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Andrew Pery
 
@@ -46,33 +25,19 @@ Process Intelligence Lead, **ABBYY**
 
 ![21 Mikesimon 198X198](https://static1.abbyy.com/abbyycommedia/25501/21-mikesimon-198x198.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Michael Simon
 
 Independent Consultant and Attorney
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How can robotic process automation (RPA) and natural language processing (NLP) technologies help fight financial crimes and protect your enterprise?
 
 ![RPA and NLP: New technology (and new acronyms!) solving old problems](https://static1.abbyy.com/abbyycommedia/32783/41-rpa-and-nlp-en-360x232.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The COVID-19 pandemic slowed many businesses. Unfortunately, fraud has not declined. Cybercriminals adapt quickly. They are among the first to adopt new technology. Your institution’s defense strategy needs to move just as fast to stay ahead of them. In this session, we explored how new technologies can help fight financial crimes and protect your enterprise. 
@@ -85,13 +50,6 @@ Included in this recording:
 * How to create automated workflows in KYC/AML to mitigate new risks imposed by remote business
 * How to respond to change with banker-focused solutions to lead your institution through times of vulnerability
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fill in the form to register for the webinar now
 
 ### Get in touch with us
@@ -99,22 +57,36 @@ Included in this recording:
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thank you for registering!
 
 [![02 RPA And NLP 643X363](https://static4.abbyy.com/abbyycommedia/32782/02-rpa-and-nlp-643x363.jpg)](https://www.youtube.com/watch?v=fyPyOyTqRAg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Please check your inbox, we have sent you a confirmation email.
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Have questions? [Contact ABBYY](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### You might also be interested in these assets
 
@@ -185,21 +157,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-decoding-ios-digital-screen-snatcher-secrets/"><u>[New] 2024 Approved Decoding IO's Digital Screen Snatcher Secrets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-upside-down-your-instagram-videos-complete-manual/"><u>[New] In 2024, How to Upside Down Your Instagram Videos [Complete Manual]</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/crafting-facebook-slideshow-an-instagram-style-storytelling-guide/"><u>Crafting Facebook SlideShow An Instagram-Style Storytelling Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725616783200-enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elite-converter-mp4-to-instant-fb-access-2023/"><u>In 2024, Elite Converter MP4 to Instant FB Access 2023</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-12plus-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme 12+ 5G FRP Locks</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-3-lag-issues-and-frame-rate-drop-in-call-of-duty-2024-update/"><u>Modern Warfare 3 Lag Issues & Frame Rate Drop in Call of Duty: 2024 Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/resolving-the-issue-of-excessive-cpu-consumption-by-windows-module-installer/"><u>Resolving the Issue of Excessive CPU Consumption by Windows Module Installer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/score-savings-with-trade-in-deals-purchase-your-new-samsung-galaxy-book-4-now/"><u>Score Savings with Trade-In Deals: Purchase Your New Samsung Galaxy Book 4 Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/snapdragon-challenges-apples-silicon-qualcomm-demonstrates-x-series-power/"><u>Snapdragon Challenges Apple's Silicon: Qualcomm Demonstrates X Series Power</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-retrieving-icons-from-windows-executable-files/"><u>Step-by-Step Guide to Retrieving Icons From Windows Executable Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-running-a-windows-11-laptop-in-sleep-mode-while-closed-for-extended-use/"><u>Step-by-Step Guide: Running a Windows 11 Laptop in Sleep Mode While Closed for Extended Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-popular-social-channels-facebook-twitter-insta-youtube/"><u>The Ultimate Guide to Popular Social Channels: Facebook, Twitter, Insta, Youtube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-p55-by-fonelab-android-recover-photos/"><u>Undelete lost photos from P55.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-editcanvas-solutions-for-2024/"><u>[New] EditCanvas Solutions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-professional-editing-skills-using-gopro-studio-for-2024/"><u>[New] Unlock Professional Editing Skills Using GoPro Studio for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[Updated] How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-captivate-audiences-from-day-one/"><u>2024 Approved Captivate Audiences From Day One</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultrawide-vs-uhd-4k-monitors-which-to-choose/"><u>2024 Approved UltraWide VS UHD 4K Monitors Which to Choose</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/4k-clarity-comes-closer-with-asuss-innovative-mg28uq-display-for-2024/"><u>4K Clarity Comes Closer with ASUS's Innovative MG28UQ Display for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-configuring-your-pc-with-windows-11-no-microsoft-account-required/"><u>Guide: Configuring Your PC with Windows 11 - No Microsoft Account Required</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-microsofts-directx-raytracing-dxr-innovation-propels-next-gen-pc-gaming-performance/"><u>How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-10-royale-arenas-of-thrill/"><u>In 2024, Top 10 Royale Arenas of Thrill</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-gt-10-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-your-preferred-mic-and-cam-in-windows-11-step-by-step-guide/"><u>Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/significant-upgrade-unveiled-icloud-now-fully-functional-with-windows-os/"><u>Significant Upgrade Unveiled: ICloud Now Fully Functional with Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
 </ul></div>
 

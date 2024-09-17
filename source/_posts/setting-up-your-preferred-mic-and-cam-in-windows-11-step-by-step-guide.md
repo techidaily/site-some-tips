@@ -1,7 +1,7 @@
 ---
 title: Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide
-date: 2024-09-12T07:14:08.647Z
-updated: 2024-09-13T07:14:08.647Z
+date: 2024-09-10T16:06:30.607Z
+updated: 2024-09-17T16:04:20.275Z
 tags:
   - deals
 categories:
@@ -23,13 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  If you have multiple microphones or webcams connected to your Windows 11 computer and want to use a particular device automatically, without having to mess around in the settings each time, you have to set your preferred device as default. We'll show you how to do just that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Change Your Default Microphone on Windows 11
 
  There are two ways to set a microphone as default: "set as default for audio" and "set as default communication device".
@@ -40,19 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the Sound window, navigate to the "Recording" tab. Right-click on your preferred device and select "Set as Default Device."
 
 ![Selecting the desired microphone as default in sound settings on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-the-desired-microphone-as-default-device-in-sound-settings-on-windows-11.jpg) 
@@ -61,19 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Separate microphone devices set as default for audio and communications in the sound settings on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/separate-microphone-devices-set-as-default-for-audio-and-communications-in-the-sound-settings-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to use a different device for communication than what is currently selected, right-click on your preferred device and select "Set as Default Communication Device."
 
 ![Selecting the primary microphone as default for communications in sound settings on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-the-primary-microphone-as-default-for-communications-in-sound-settings-on-windows-11.jpg) 
@@ -81,10 +48,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  If you have multiple audio output devices connected, you can easily [set the best speaker as default](https://youtube-stream.techidaily.com/learn-the-process-of-capturing-your-watched-youtube-content-without-spending-for-2024/).
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Change Your Default Camera on Windows 11
@@ -96,22 +63,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Opening the camera settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-camera-settings-from-the-settings-app-on-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Simply open the settings of the camera that you want to disable, click "Disable", and then click "Yes" in the confirmation box.
 
 ![Disabling a camera device in the camera settings on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/disabling-a-camera-device-in-the-camera-settings-on-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Repeat this process for other camera devices you want to disable. 
 
@@ -134,18 +94,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks/"><u>[New] In 2024, Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>[Updated] Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-meizu-21-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Meizu 21 Pro FRP Bypass Instantly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/disconnect-the-sound-link-between-your-devices-stop-ipad-from-ringing-when-iphone-rings/"><u>Disconnect the Sound Link Between Your Devices: Stop iPad From Ringing When iPhone Rings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficient-file-removal-techniques-with-windows-powershell-commands/"><u>Efficient File Removal Techniques with Windows PowerShell Commands</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-x9a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor X9a to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/propella-7s-40-board-unveiled-your-next-affordable-adventure-companion-awaits/"><u>Propella 7S 4.0 Board Unveiled: Your Next Affordable Adventure Companion Awaits!</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-resolving-difficulties-when-netflix-fails-to-show-your-chosen-movie/"><u>Troubleshooting Guide: Resolving Difficulties When Netflix Fails To Show Your Chosen Movie</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unlocking-netflixs-secrets-6-proven-techniques-for-streamers-on-macos/"><u>[Updated] 2024 Approved Unlocking Netflix's Secrets 6 Proven Techniques for Streamers on macOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-enhance-pc-sound-experience-with-these-5-recording-techniques-on-windows-11/"><u>[Updated] In 2024, Enhance PC Sound Experience with These 5 Recording Techniques on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-bing-chatbot-analyzing-the-top-10-differences-in-ai-conversational-platforms/"><u>ChatGPT Vs. Bing Chatbot – Analyzing the Top 10 Differences in AI Conversational Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-boost-your-seo-success/"><u>Cookiebot-Driven Site Optimization: Boost Your SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-experience-enhancing-website-personalization-and-marketing/"><u>Cookiebot-Enabled User Experience: Enhancing Website Personalization and Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics-tools/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-boost-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Boost Your Site's Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-personalized-navigation-and-insights/"><u>Cookiebot-Enhanced: Experience Personalized Navigation and Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-your-dynamic-foundation-for-personalized-web-experiences/"><u>Cookiebot: Your Dynamic Foundation for Personalized Web Experiences</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/telechargements-complets-and-gratuits-top-2023-les-plus-performants-extracteurs-de-dvd-pour-windows-11/"><u>Téléchargements Complets & Gratuits: Top 2023 Les Plus Performants Extracteurs De DVD Pour Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-12-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 12 Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/which-platform-triumphs-in-revenue-generation-dailymotion-vs-youtube-for-2024/"><u>Which Platform Triumphs in Revenue Generation? Dailymotion Vs YouTube for 2024</u></a></li>
 </ul></div>
 

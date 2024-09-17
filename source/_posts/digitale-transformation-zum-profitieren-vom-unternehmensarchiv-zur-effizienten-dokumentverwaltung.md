@@ -1,7 +1,7 @@
 ---
 title: Digitale Transformation Zum Profitieren! Vom Unternehmensarchiv Zur Effizienten Dokumentverwaltung.
-date: 2024-09-12T07:17:04.030Z
-updated: 2024-09-13T07:17:04.030Z
+date: 2024-09-14T16:15:31.924Z
+updated: 2024-09-17T16:09:44.447Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/981f5aab13809d22943cf0e3715f6a9d6dac906b3d14ad5b24428ee14ae4807c.jpg
@@ -19,13 +19,6 @@ Mining, Oil & Gas
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Großes Unternehmensarchiv schafft Aktenkeller ab und erhöht Produktivität durch Digitalisierungsprojekt
 
 [Druckversion des Artikels anzeigen oder herunterladen (PDF 290 kb)](https://static2.abbyy.com/abbyycommedia/6160/cs-apache-rs-d.pdf) 
@@ -33,35 +26,21 @@ Mining, Oil & Gas
 | ![](https://static1.abbyy.com/abbyycommedia/3302/apache_logo.gif) |                                                  |  |
 | ----------------------------------------------------------------- | ------------------------------------------------ |  |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 | Name                                                              | Apache Corporation                               |  |
 | Hauptsitz                                                         | Houston, TX, USA                                 |  |
 | Internet                                                          | [www.apachecorp.com](http://www.apachecorp.com/) |  |
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Herausforderung
 
 Das Papieraufkommen in den Archivabteilungen des Unternehmens an den Standorten Houston und Calgary nahm überhand. „Die Akten in unseren Archiven stapelten sich bis an die Decke. In Anbetracht der Quadratmeterpreise für diese Lager bestand akuter Bedarf, von Papier auf elektronische Daten umzustellen“, sagt Jim Fields, Datenqualitäts - manager in Apaches Firmenarchiv in Houston, Texas. „Außerdem mussten wir unsere Daten besser sichern, durch elektronische Sicherungskopien.” Im Calgary-Büro von Apache wurde bereits seit 2005 elektronisch archiviert. Dies betraf Hunderte von Dokumententypen, von umfangreichen Betriebsakten bis hin zu technischen Zeichnungen. Die Akten waren eine Mischung aus gescannten Dateien sowie Dokumenten, die die Absender-Unternehmen bereits mittels OCR-Technologie digitalisiert hatten. Die elektronische Aktenablage war das eine Thema. Das andere war die Herausforderung, in diesen Akten Daten suchen und finden zu können. Einfache OCR-Desktop-Produkte kamen gelegentlich im Houston Office zum Einsatz. Nun ging es um das Aufsetzen eines in sich geschlossenen und abgestimmten Systems, um die Archivierung routinemäßig und effizient abzuwickeln. Die Anschaffung eines Servers war der erste Schritt in diese Richtung.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Lösung
@@ -76,13 +55,6 @@ Der Einsatz von Recognition Server bei Apache macht einen kompletten Archivraum 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Über ABBYY und Kontaktmöglichkeiten
 
 [Zur ABBYY Unternehmensübersicht ›](https://tools.techidaily.com/abbyy/products/)
@@ -92,10 +64,10 @@ Der Einsatz von Recognition Server bei Apache macht einen kompletten Archivraum 
 Teilen 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Sind Sie bereit, mit einem Experten zu sprechen?
@@ -119,18 +91,19 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unveiling-the-strengths-and-weaknesses-of-presenter-8/"><u>[New] 2024 Approved Unveiling the Strengths and Weaknesses of Presenter 8</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-experts-choice-best-practices-for-vimeo-video-download/"><u>[New] In 2024, Expert's Choice Best Practices for Vimeo Video Download</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-kids-and-newbies-the-best-10-drones-out-there-for-2024/"><u>[Updated] Kids and Newbies The Best 10 Drones Out There for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/7-online-tools-to-improve-your-prompt-engineering-skills/"><u>7 Online Tools to Improve Your Prompt Engineering Skills</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-effortlessly-add-realistic-motion-blur-in-ps/"><u>How to Effortlessly Add Realistic Motion Blur in PS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-rescue-missing-pin-in-windows-11-after-an-error/"><u>How To Rescue Missing PIN in Windows 11 After An Error</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/locating-your-apps-executable-in-no-time-a-fast-guide-for-windows-10-users/"><u>Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximize-productivity-convert-untapped-mac-keyboard-buttons-to-instant-shortcut-magic-using-our-simple-tool/"><u>Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/migrating-applications-from-one-hard-drive-to-another-on-windows-11-a-step-by-step-guide/"><u>Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/no-more-local-watches-netflix-abandons-windows-offline-download-feature/"><u>No More Local Watches? Netflix Abandons Windows Offline Download Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revisiting-the-eco-friendly-era-the-case-for-apples-return-to-plastic-notebook-design/"><u>Revisiting the Eco-Friendly Era: The Case for Apple's Return to Plastic Notebook Design</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revitalizing-microsoft-top-5-strategies-to-enhance-windows-experience/"><u>Revitalizing Microsoft: Top 5 Strategies to Enhance Windows Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-rise-to-stardom-on-instagram-adopting-tiktoks-winning-strategies/"><u>[New] Rise to Stardom on Instagram Adopting TikTok's Winning Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-conquer-color-chaos-discover-essential-tutorials-and-techniques-for-2024/"><u>[Updated] Conquer Color Chaos - Discover Essential Tutorials and Techniques for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/anglers-guide-to-premium-fishing-cameras-for-2024/"><u>Angler’s Guide to Premium Fishing Cameras for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/control-and-discretion-over-network-safety-in-windows/"><u>Control and Discretion Over Network Safety in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-shareable-instagram-stories-that-spread-like-wildfire/"><u>Crafting Shareable Instagram Stories That Spread Like Wildfire</u></a></li>
+<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-stanley-j5c09-power-and-reliability-in-a-compact-package/"><u>In-Depth Analysis of the Stanley J5C09: Power and Reliability in a Compact Package</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-possibilities-my-wishlist-for-the-new-ipad-mini-7/"><u>Innovative Possibilities: My Wishlist for the New iPad Mini 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-passion-for-starry-jewelry-denied-by-samsung-a-tale-of-cosmic-aspirations-and-tech-restrictions/"><u>My Passion for Starry Jewelry Denied by Samsung – A Tale of Cosmic Aspirations and Tech Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-8-pro-vs-oneplus-12-face-off-determining-the-undeniable-champion/"><u>Pixel 8 Pro Vs. OnePlus 12 Face-Off: Determining the Undeniable Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-contact-manager-unveiling-the-latest-updates-in-microsofts-outlook-mobile-application/"><u>Revamped Contact Manager: Unveiling the Latest Updates in Microsoft's Outlook Mobile Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-version-of-apples-sports-platform-whats-new/"><u>Revamped Version of Apple's Sports Platform - What's New?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-recorders-bible-for-clear-conversations/"><u>The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-reno-10-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Reno 10 5G to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

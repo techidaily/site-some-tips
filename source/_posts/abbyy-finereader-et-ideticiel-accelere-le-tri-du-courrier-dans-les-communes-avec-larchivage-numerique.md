@@ -1,7 +1,7 @@
 ---
 title: ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique
-date: 2024-09-12T07:16:00.983Z
-updated: 2024-09-13T07:16:00.983Z
+date: 2024-09-15T16:13:25.972Z
+updated: 2024-09-17T16:08:03.077Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d5c6f331ff630995ba1cfe29.jpg
@@ -13,32 +13,11 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 Government
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY FineReader et les solutions d’IDéation informatique facilitent le traitement du courrier entrant et l’archivage dans les collectivités locales
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/39659.png?h=40&iar=0&w=120)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ABBYY FineReader et les solutions d’IDéation informatique facilitent le traitement du courrier entrant et l’archivage dans les collectivités locales
 
@@ -49,13 +28,6 @@ Government
 _IDéation informatique, une société de services indépendante intervenant dans les domaines des systèmes informatiques et du développement de logiciels, propose aux collectivités locales un module OCR intégré à ses solutions de suivi du courrier et d’archivage._
 
 ![IDéation Informatique](https://static1.abbyy.com/abbyycommedia/10192/logoid1.png "IDéation Informatique")IDéation informatique est confronté depuis de nombreuses années aux besoins d’administrations locales (mairies, communautés de communes, préfectures) qui cherchent à gérer le suivi du courrier et l’archivage. Ces collectivités locales doivent pouvoir gérer tous les correspondants concernés par un courrier, gérer des alertes sur des dates limites de réponse et de traitement, ou encore, analyser le flux des courriers au sein de leurs services.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 L’un des objectifs des collectivités locales est d’être capable de tracer les courriers et d’établir des liens entre leurs différents documents.
 
@@ -103,13 +75,6 @@ Contact: [www.ideation.fr](http://www.ideation.fr/)
 
 Partager 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Prêt à parler à un expert ?
 
 Nous serions ravis de vous aider tout au long de votre parcours d’automatisation.
@@ -131,15 +96,24 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-youtube-channel-removal-pcphone-for-2024/"><u>[New] The Ultimate Guide to Youtube Channel Removal (PC/Phone) for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/iktok-versus-youtube-shorts-assessing-personal-usage-value/"><u>[New] TikTok versus YouTube Shorts Assessing Personal Usage Value</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-analyzing-investment-costs-for-auditory-visual-fusion/"><u>[Updated] Analyzing Investment Costs For Auditory-Visual Fusion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expertly-selected-asmr-tools-for-androidios/"><u>[Updated] Expertly Selected ASMR Tools for Android/iOS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-androids-screen-shutter-select-the-best-eight-free-tools/"><u>2024 Approved Android's Screen Shutter - Select the Best Eight Free Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhance-website-analytics-using-cookiebot-technology-precise-data-collection-methods/"><u>Enhance Website Analytics Using Cookiebot Technology – Precise Data Collection Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-passion-for-starry-jewelry-denied-by-samsung-a-tale-of-cosmic-aspirations-and-tech-restrictions/"><u>My Passion for Starry Jewelry Denied by Samsung – A Tale of Cosmic Aspirations and Tech Restrictions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-8-pro-vs-oneplus-12-face-off-determining-the-undeniable-champion/"><u>Pixel 8 Pro Vs. OnePlus 12 Face-Off: Determining the Undeniable Champion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamped-contact-manager-unveiling-the-latest-updates-in-microsofts-outlook-mobile-application/"><u>Revamped Contact Manager: Unveiling the Latest Updates in Microsoft's Outlook Mobile Application</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-frame-your-fantasy-the-most-uplifting-instagram-captures/"><u>[Updated] In 2024, Frame Your Fantasy The Most Uplifting Instagram Captures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-valheim-seeds-and-growth-techniques/"><u>2024 Approved Top Valheim Seeds & Growth Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-a78-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo A78 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-infinix-note-30-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Infinix Note 30.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-x-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone X online without SIM Card?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-troubleshooting-in-11-steps/"><u>Mastering Windows 11 Troubleshooting in 11 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pionierarbeit-von-dsgf-fur-digitalisierung-der-finanzen-partnerschaft-mit-abbyy-macht-wirkung/"><u>Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-marketing-analytics-with-our-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your Marketing Analytics with Our Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-integration-abbyy-connects-with-automation-anywhere/"><u>Seamless Integration: ABBYY Connects with Automation Anywhere</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-steps-to-seamlessly-trim-your-videos-a-beginners-guide/"><u>Simple Steps to Seamlessly Trim Your Videos: A Beginner's Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-for-fixing-a-broken-xbox-series-x-and-s-headset-connection/"><u>Troubleshooting Guide for Fixing a Broken Xbox Series X and S Headset Connection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-more-views-the-art-of-crafting-titles-and-tags-for-youtube-for-2024/"><u>Unlock More Views The Art of Crafting Titles & Tags for YouTube for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

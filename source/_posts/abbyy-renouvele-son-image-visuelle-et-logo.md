@@ -1,7 +1,7 @@
 ---
 title: ABBYY Renouvele Son Image Visuelle Et Logo
-date: 2024-09-12T07:17:26.406Z
-updated: 2024-09-13T07:17:26.406Z
+date: 2024-09-13T16:01:46.548Z
+updated: 2024-09-17T16:05:54.291Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef9fbc6554b9991ddbdbae23c.png
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY refond son identité graphique
 
 18 mars 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), multinationale spécialisée dans l'intelligence digitale, refond son identité graphique avec des illustrations et un logo actualisés en s'appuyant sur des couleurs vives. Ce nouveau design, créé de concert avec l'agence [Shuka](https://shuka.design/), reflète l'image qu'ABBYY souhaite incarner : une expertise tournée vers le futur, l'innovation, le dynamisme et la créativité au service de la transformation digitale des entreprises.
 
@@ -74,15 +60,23 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-prodigious-story-making-worlds-top-8-institutions/"><u>[Updated] Prodigious Story Making World's Top 8 Institutions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price/"><u>2024 Approved Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/discovering-top-5-fluids-in-virtual-playgrounds/"><u>Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dynamic-dimensions-adobes-approach-to-photo-motion-effects/"><u>Dynamic Dimensions Adobe's Approach to Photo Motion Effects</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tips-for-enabling-wake-on-lan-on-windows-11-computers/"><u>Expert Tips for Enabling Wake-on-LAN on Windows 11 Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-downside-why-you-should-think-twice-about-generative-ai-for-messaging-services/"><u>Exploring the Downside: Why You Should Think Twice About Generative AI for Messaging Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-personalized-text-generation-emulating-your-writing-style-with-chatgpt/"><u>Mastering Personalized Text Generation: Emulating Your Writing Style with ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-your-creative-outputs-mastering-the-synergy-of-chatgpt-dall-e-ter-and-midjourney/"><u>Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-disappointing-experience-with-online-car-shopping-at-carvana-vs-traditional-dealers/"><u>My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/uniting-the-best-codegpt-with-visual-studio-code-experience/"><u>Uniting the Best: CodeGPT with Visual Studio Code Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-brilliance-bunch-leading-gk-video-channels/"><u>[New] Brilliance Bunch Leading GK Video Channels</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece-for-2024/"><u>[Updated] The Secret Sauce for a Viral TikTok Unboxer Masterpiece for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>2024 Approved Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-stay-up-to-date-with-facebooks-latest-watched-content/"><u>2024 Approved Stay Up-to-Date with Facebook's Latest Watched Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-conversion-of-text-from-pdfjpg-to-digital-using-iphones-ocr-scanner/"><u>Effortless Conversion of Text From PDF/JPG to Digital Using iPhone's OCR Scanner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-optimized-with-the-power-of-cookiebot/"><u>Enhanced Conversion Tracking: Optimized with the Power of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-how-to-set-up-basic-printerscanner-drivers-on-your-windows-10-system/"><u>Guide: How To Set Up Basic Printer/Scanner Drivers On Your Windows 10 System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y100 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-def-gaming-gpu-recommendations/"><u>In 2024, High-Def Gaming GPU Recommendations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-x90s-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo X90S Devices</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Analytics and Tracking Solutions
-date: 2024-09-12T07:19:41.630Z
-updated: 2024-09-13T07:19:41.630Z
+date: 2024-09-14T16:15:34.246Z
+updated: 2024-09-17T16:06:48.742Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4082ac6c30e6e25f75285938.jpg
@@ -21,25 +21,11 @@ Ranked as the [9th world’s largest technology market](http://web6.bnamericas.c
 
 With [Content Intelligence](https://tools.techidaily.com/abbyy/products/) (CI) panning out as the leading document automation technology, efficient document management using artificial intelligence (AI) can be challenging. Information Show 2018 Congress was conceived to address the challenges, identify opportunities especially since the protracted economic crisis of the last few years had a significant impact on the IT market and its players as large innovative projects were frozen for an indefinite period. The show also strived to provide perspective on the entire context of Enterprise Content Management (ECM) solutions to make companies more competitive in the era of data-driven decision-making. It is also an important annual gathering point for IT professionals for sharing industry knowledge, ideas and expertise and for networking.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to tackle the digital transformation challenge effectively
 
 Business-critical information accumulates as technology advances, putting pressure on businesses to find more efficient way of processing data. A [survey by AIIM](http://www.m-files.com/blog/digital-transformation-intelligent-information-management-10-data-points/) concludes that the rising tide of information chaos and confusion is creating a demand for new information management practices that extend beyond traditional ECM. However, latest advances in AI and automation is also creating huge opportunities for businesses, Maria Ilicheva, the Regional Manager of ABBYY in Latin America told the Congress attendees. A good example is the [new FlexiCapture platform](https://tools.techidaily.com/abbyy/products/) that enables organizations to automatically classify, extract, validate and direct business critical data from written customer communications and operational processes – such as customer claims, applications and transactions, she said.
 
 For ABBYY, Brazil is a top priority market, despite its instability and complexity, presenting a favorable environment for IT business. Brazil was the world's 7th largest IT market before the 2016 the economic crisis resulted in the decrease of the GDP by 3.6% with reductions across all sectors of the economy including IT. The good news though is that IT sector is expected to post growth of 5.8% this year, according to estimates released by IDC Brazil. This is already a visible evidence that some of the companies which abandoned their IT projects in the wake of the crisis are trickling back. The Government is also encouraging foreign participation in Brazilian ICT companies through the Association for Promotion of the Excellence of the Brazilian Software (Softex) and the Brazilian Agency of Promotion of exports and investments (Apex-Brazil).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Taking responsibility for social progress
 
@@ -50,19 +36,6 @@ This is not ABBYY's first foray into the Brazilian market. Earlier, the company 
 **_By Catherine Egorova, Brand Manager, ABBYY Emerging Markets (3A)_**
 
 [Intelligent Document Processing (IDP)](https://www.abbyy.com/blog/intelligent-document-processing-idp/ "Intelligent Document Processing (IDP)") [Digital Transformation](https://tools.techidaily.com/abbyy/products/) [Events](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -127,18 +100,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-live-link-legends-favoring-the-framework-software-or-fabrication-hardware-for-2024/"><u>[New] Live Link Legends Favoring the Framework (Software) or Fabrication (Hardware) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-tutorial-for-seamless-capture-of-youtube-streaming-across-devices/"><u>[Updated] In 2024, Step-by-Step Tutorial for Seamless Capture of YouTube Streaming Across Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/achieve-superior-outcomes-mastering-dall-e-2-in-5-steps/"><u>Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-se-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone SE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-cutting-edge-results-with-our-latest-ai-enhanced-google-search/"><u>Discover Cutting-Edge Results with Our Latest AI-Enhanced Google Search</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-zte-axon-40-litewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on ZTE Axon 40 Litewith/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy S24+</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
-<li><a href="https://fox-that.techidaily.com/the-app-blocked-bouquet-5-reasons-for-restricted-gift-sending-on-mac-and-iphones/"><u>The App-Blocked Bouquet: 5 Reasons for Restricted Gift Sending on Mac and iPhones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-machine-metrics-overshadowing-turing/"><u>The Evolution of Machine Metrics, Overshadowing Turing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-spark-ars-color-palette-expansion-via-free-accessible-lut-downloads/"><u>[Updated] 2024 Approved Spark AR's Color Palette Expansion via Free, Accessible LUT Downloads</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>[Updated] Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-next-level-graphic-cards-for-4k-titles/"><u>[Updated] Next-Level Graphic Cards for 4K Titles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-parallel-audio-stream-mapping/"><u>[Updated] Parallel Audio Stream Mapping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-innovations-enhancers-that-excite-for-2024/"><u>Instagram Innovations Enhancers that Excite for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-fixes-and-solutions-for-the-continuously-crashing-new-world-game/"><u>PC Users: Fixes & Solutions for the Continuously Crashing 'New World' Game</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/planning-a-dynamic-tiktok-outro-experience-for-2024/"><u>Planning a Dynamic TikTok Outro Experience for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

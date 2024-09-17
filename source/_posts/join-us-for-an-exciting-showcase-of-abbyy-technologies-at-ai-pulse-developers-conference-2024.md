@@ -1,7 +1,7 @@
 ---
 title: Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!
-date: 2024-09-12T07:20:02.536Z
-updated: 2024-09-13T07:20:02.536Z
+date: 2024-09-11T16:09:42.059Z
+updated: 2024-09-17T16:06:55.532Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576b32c356f772aa95549b6f82.jpg
@@ -10,13 +10,6 @@ thumbnail: https://thmb.techidaily.com/7143579495d0f62e1a2cda12fd626d9036d87a576
 ## Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enter the ABBYY Shark Tank at  
 AI Pulse 2024
@@ -36,19 +29,6 @@ Jump to:
 
 ![abbyy-devcon-india-2023](https://content.abbyy.com/-/media/project/abbyy/abbyy/insights/blog/enter-the-abbyy-shark-tank-at-ai-pulse-2024/abbyy-devcon-india-2023.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Those who attended our #ABBYYDevCon event in 2023 [will recall the IDP Hackathon](https://tools.techidaily.com/abbyy/products/), which prompted contestants to design creative solutions that tackled modern document challenges using ABBYY Vantage. 
 
 The event fostered an electric atmosphere of camaraderie and friendly competition that helped people leave the event with a feeling of fulfillment and inspiration. Not only did it fuel innovation and yield valuable information about our solutions – it also encouraged people to connect, collaborate, and build valuable relationships. ABBYY will provide bigger, more dynamic collaborations at future events.
@@ -56,13 +36,6 @@ The event fostered an electric atmosphere of camaraderie and friendly competitio
 The ABBYY AI Pulse [Developer Conference](https://tools.techidaily.com/abbyy/products/) introduces a new opportunity to showcase your innovation and tech skills.
 
 Allow us to introduce [ABBYY Shark Tank](https://tools.techidaily.com/abbyy/products/). 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contest overview
 
@@ -79,13 +52,6 @@ Here’s what we’re looking for:
 
 Interested? Read on for the rules.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rules and registration
 
 * **Teams can have 1 to 4 members.** Teaming up? Swimming solo? No matter – just bring your A–game!
@@ -99,15 +65,22 @@ Each presentation should have a strong value proposition, convey a compelling me
 
 Any attendee from any region and any team can apply to participate, regardless of team size. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why participate?
 
 This is a fun and engaging opportunity to showcase your unique ideas not only to ABBYY executives, but to the vibrant and passionate developer community attending AI Pulse. You’ll gain valuable exposure, insightful feedback, and an enhanced opportunity to network with those who take interest in your pitch – not to mention that the grand prize could be yours. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to compete
@@ -117,13 +90,6 @@ Ready to enter the ABBYY Shark Tank? Register your interest here: [https://digit
 Please feel free to contact us at [DevCon\_enquiries@abbyy.com](https://tools.techidaily.com/abbyy/products/) with any questions.
 
 ![Rahul Kapoor](https://www.abbyy.com/-/jssmedia/project/abbyy/abbyy/insights/blog/autors-Headshots/rahul-kapoor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Rahul Kapoor
 
@@ -192,15 +158,15 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-multitasking-made-simple-understanding-chrome-pip-integration/"><u>[New] In 2024, Multitasking Made Simple Understanding Chrome PIP Integration</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-techniques-for-smartphone-screenshots/"><u>[Updated] 2024 Approved Advanced Techniques for Smartphone Screenshots</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-film-and-image-repository-highlights/"><u>[Updated] 2024 Approved Free Film and Image Repository Highlights</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-safe-and-respectful-strategies-for-growing-on-tiktok/"><u>2024 Approved Safe and Respectful Strategies for Growing on TikTok</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-7-online-auto-subtitle-translators-for-content-creators/"><u>2024 Approved Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-successfully-integrate-toshiba-printers-with-windows-systems/"><u>How to Successfully Integrate Toshiba Printers with Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-your-content-discover-these-top-8-mobile-editors/"><u>[New] Perfect Your Content Discover These Top 8 Mobile Editors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-drone-footage-enhancement-and-transformation-basics/"><u>[Updated] Drone Footage Enhancement and Transformation Basics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-insights-ultimate-guide-to-understand-ig-data/"><u>[Updated] In 2024, Instagram Insights Ultimate Guide to Understand IG Data</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effortless-connections-with-evolve2-headset/"><u>Effortless Connections with Evolve2 Headset</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-a-smooth-tormentesouls-experience-avoiding-system-crashes-on-windows-computers/"><u>Essential Tips for a Smooth TormenteSouls Experience - Avoiding System Crashes on Windows Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-enterprise-potential-enhancing-roi-through-ai-driven-content-strategies-insights-from-the-abbyy-blog/"><u>Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-analytics-and-visitor-insights/"><u>Utilizing Cookiebot Technology for Improved Site Analytics and Visitor Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/weltweit-kooperiert-kodak-alaris-mit-abbyy-fur-die-gemeinsame-digitale-datenverarbeitung/"><u>Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung</u></a></li>
 </ul></div>
 

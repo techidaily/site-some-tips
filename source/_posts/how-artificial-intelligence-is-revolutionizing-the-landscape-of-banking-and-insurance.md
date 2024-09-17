@@ -1,7 +1,7 @@
 ---
 title: How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance
-date: 2024-09-12T07:17:16.088Z
-updated: 2024-09-13T07:17:16.088Z
+date: 2024-09-15T16:14:09.743Z
+updated: 2024-09-17T16:15:15.719Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988bda1b4b5ab8aef4726e226b5.jpg
@@ -11,13 +11,6 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Thrive in a Post-COVID World: The Future of Financial Institutions and Insurance Organizations
 
 ###### Eileen Potter
@@ -25,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/4a0e802a162a5a423f94ca329819be0d261aa988b
 April 23, 2021
 
 ![](https://static1.abbyy.com/abbyycommedia/33505/buyers-contactless-payment-new.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The pandemic forced financial institutions and insurance organizations to make overnight changes in how they operated, and for two industries not known for speed in adapting to change—or changing processes on the fly—this proved that they can be nimble when they need to be. It was almost like these established organizations had an overnight shift in culture, trading in their suits and ties for hoodies to become more accessible and focused on customer experience.
 
@@ -41,25 +27,11 @@ According to a recent McKinsey study: [Fully 75% of people using digital channel
 
 ![thrive in a post covid world](https://static1.abbyy.com/abbyycommedia/32815/fintech-insurtech-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 While both industries were able to survive this year by making temporary fixes to processes so customer service wouldn’t suffer, it has become clear that there is a significant need to accelerate digital adoption and enhance virtual operations, finding better and more permanent solutions to address those gaps.
 
 As part of a recent presentation we gave at [OPEX Financial Services](https://www.processexcellencenetwork.com/events-opex-in-financial-services/), my colleague, Cheryl Chiodi, and I put together a Venn Diagram to illustrate what we called “The Intersection of Financial Services and Insurance.” And the areas in common are exactly why both need to reset, reinvest, and reimagine their business operations to compete with Fintechs and Insurtechs, so they can be ready for what is next—and what will be the next after that—whatever that is.
 
 ![intersection of financial services and insurance](https://static1.abbyy.com/abbyycommedia/32811/intersection-of-financial-services-and-insurance.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 So, how can established organizations in both industries thrive going forward? Here are three of the main challenges we see, and some of the ways organizations can respond:
 
@@ -68,19 +40,6 @@ So, how can established organizations in both industries thrive going forward? H
 It would not be an overstatement to say that customers have an expectation of now—and that their expectations are being set by their last, best digital experience. The time of rushing over to a bank branch or insurance office during “business hours” is long over, and hours of operation are no longer being set by the bank or the insurance company, but by the customer. They want to be able to communicate using their channel and device of choice, and they expect faster response times for policy quotes, claims settlement, and credit decisions. Streamlined account opening and onboarding are table stakes.
 
 ![improve customer experience with artificial intelligence](https://static1.abbyy.com/abbyycommedia/32423/b-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Forward-thinking organizations can facilitate this digital engagement with [Process Intelligence](https://tools.techidaily.com/abbyy/products/), enabling them to personalize the customer journey and help to ensure customer loyalty.
 
@@ -105,13 +64,6 @@ It’s not exactly breaking news to talk about how much the business landscape f
 ![](https://static1.abbyy.com/abbyycommedia/31994/eileenpotter-198x198.png)
 
 Eileen Potter
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Like, share or repost
 
@@ -176,15 +128,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-iphoneandroids-best-5-multimedia-capturing-apps-reviewed/"><u>[New] 2024 Approved IPhone/Android's Best 5 Multimedia Capturing Apps Reviewed</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-pitch-preservation-monitoring-microphones/"><u>[New] In 2024, Pitch Preservation Monitoring Microphones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-sharpen-your-content-for-unlimited-youtube-exposure/"><u>[Updated] Sharpen Your Content for Unlimited YouTube Exposure</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-the-complete-manual-for-modifying-cover-images/"><u>[Updated] The Complete Manual for Modifying Cover Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/defend-your-valuables-from-digital-intruders-safeguarding-automobiles-gadgets-key-security-and-payment-cards/"><u>Defend Your Valuables From Digital Intruders: Safeguarding Automobiles, Gadgets, Key Security, and Payment Cards</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>In 2024, Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-hp-officejet-pro-now-full-software-package-available-for-download/"><u>Update Your HP OfficeJet Pro 지정기 드라이버 Now – Full Software Package Available for Download</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-effective-techniques-for-b-cutting-and-cutaways/"><u>[New] In 2024, Effective Techniques for B-Cutting and Cutaways</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-find-your-favorite-screen-an-in-depth-review-of-top-6-hdmi-tvs/"><u>[New] In 2024, Find Your Favorite Screen An In-Depth Review of Top 6 HDMI TVs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-create-youtube-channel-in-mobile-personal-and-business/"><u>[Updated] How to Create YouTube Channel in Mobile [Personal & Business]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>[Updated] The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-traffic-with-our-cookiebot-enabled-optimization-tools/"><u>Boost Traffic with Our Cookiebot-Enabled Optimization Tools!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-online-presence-with-cookiebots-advanced-analytics-and-personalization-tools/"><u>Boost Your Online Presence with Cookiebot's Advanced Analytics and Personalization Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-online-engagement-with-cookiebot-technology-integration/"><u>Boosting Online Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-visuals-with-winxvideo-ai-professional-upscaling-stabilization-conversion-editing-and-recording-solutions/"><u>Enhance Your Visuals with WinxVideo AI - Professional Upscaling, Stabilization, Conversion, Editing & Recording Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/group-unity-on-facebook-acknowledging-each-member/"><u>Group Unity on Facebook: Acknowledging Each Member</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-virtual-realm-key-strategies-for-shooting-360-video-top-9-rules/"><u>In 2024, Navigating the Virtual Realm Key Strategies for Shooting 360° Video (Top 9 Rules)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Itel A60 | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

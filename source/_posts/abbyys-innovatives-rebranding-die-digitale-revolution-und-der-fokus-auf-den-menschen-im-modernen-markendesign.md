@@ -1,7 +1,7 @@
 ---
 title: ABBYY's Innovatives Rebranding - Die Digitale Revolution Und Der Fokus Auf Den Menschen Im Modernen Markendesign
-date: 2024-09-12T07:20:12.765Z
-updated: 2024-09-13T07:20:12.765Z
+date: 2024-09-12T16:16:42.533Z
+updated: 2024-09-17T16:12:10.536Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d15fc2d7499285fee5808af2.jpg
@@ -11,31 +11,11 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY reflektiert mit neuem Branddesign seinen Fokus auf Menschen und die Digitale Transformation
 
 18\. März 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ABBYY, ein globales Unternehmen für Digital Intelligence, hat heute seine neue, dynamische Corporate Brand Identity sowie das aktualisierte Logo vorgestellt. Das neue Branding, das zusammen mit der Marken- und Designagentur [Shuka](https://shuka.design/) entwickelt wurde, spiegelt wieder, wofür ABBYY steht: ein visionärer, innovativer, zuverlässiger und kreativer Experte, der Unternehmen weltweit hilft, Wege der Digitalen Transformation neu zu gestalten und zu beschleunigen
 
@@ -79,20 +59,19 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevating-your-vimeo-clips-a-guide-to-musical-additions/"><u>[Updated] 2024 Approved Elevating Your Vimeo Clips A Guide to Musical Additions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-syncing-yt-beats-with-visual-timelines/"><u>[Updated] 2024 Approved Syncing YT Beats with Visual Timelines</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite/"><u>2024 Approved A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-study-habits-mastering-notes-with-chatgpt/"><u>Elevate Study Habits - Mastering Notes with ChatGPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-camon-20-premier-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 20 Premier 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-educator-elite-selective-learning-yt-channels/"><u>In 2024, Educator Elite Selective Learning YT Channels</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-yuva-3-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Yuva 3 ProFRP Lock</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-perfect-partner-for-console-gamers-asus-vg245h-display-excellence/"><u>The Perfect Partner for Console Gamers - Asus VG245H Display Excellence</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-downloading-from-vimeo-made-simple-software-free-or-not/"><u>[Updated] 2024 Approved Downloading From Vimeo Made Simple Software-Free or Not?</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-gt-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customizing-windows-11-with-tailored-themes-and-styles/"><u>Customizing Windows 11 with Tailored Themes and Styles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/masterclass-generating-professional-srt-documents/"><u>Masterclass Generating Professional SRT Documents</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-issues-with-a-missing-or-invisible-cursor/"><u>Resolving Windows 10 Issues with a Missing or Invisible Cursor</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

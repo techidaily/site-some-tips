@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead"
-date: 2024-09-12T07:15:59.755Z
-updated: 2024-09-13T07:15:59.755Z
+date: 2024-09-13T16:11:51.311Z
+updated: 2024-09-17T16:01:55.800Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668667f50f1987a428d6465f16.jpg
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scott Opitz wird neuer Chief Marketing Officer von ABBYY
 
 11\. Februar 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), ein globaler Anbieter von Technologien und Unternehmenslösungen für Digital Intelligence, ernennt Scott Opitz zum neuen Chief Marketing Officer. Er tritt die Nachfolge von Jupp Stoepetie an, der sich nach 20-jähriger Betriebszugehörigkeit in den Ruhestand verabschiedet.
 
@@ -77,20 +63,31 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>[New] In 2024, Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-titans-clash-discovering-the-ultimate-7-grand-wars/"><u>[New] In 2024, Titans Clash Discovering the Ultimate 7 Grand Wars</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unleashing-your-gaming-potential-with-win10-recordings-for-2024/"><u>[Updated] Unleashing Your Gaming Potential with Win10 Recordings for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comparing-fingerprint-scanners-optical-vs-ultrasonic-technology/"><u>Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-evaluation-is-googles-pixel-8a-series-at-its-final-chapter/"><u>Comprehensive Evaluation: Is Google's Pixel 8A Series at Its Final Chapter?</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/crafting-impactful-reactions-the-ultimate-guidebook-for-2024/"><u>Crafting Impactful Reactions The Ultimate Guidebook for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-photos-to-film-how-to-create-an-unforgettable-video-for-2024/"><u>From Photos to Film How to Create an Unforgettable Video for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-possibilities-my-wishlist-for-the-new-ipad-mini-7/"><u>Innovative Possibilities: My Wishlist for the New iPad Mini 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-tomorrow-cosmic-as-your-gateway-to-the-next-gen-linux-experience/"><u>Navigating Tomorrow: COSMIC as Your Gateway to the Next-Gen Linux Experience</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/smooth-sailing-in-wizarding-worlds-overcome-hogwarts-legacys-launch-hiccups-with-these-8-tips/"><u>Smooth Sailing in Wizarding Worlds: Overcome Hogwarts Legacy's Launch Hiccups with These 8 Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-resolving-wireless-keyboard-connectivity-problems-on-windows-systems/"><u>Step-by-Step Solution for Resolving Wireless Keyboard Connectivity Problems on Windows Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/"><u>Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-journey-to-glamorous-guruship-launching-an-aesthetic-channel-for-2024/"><u>Your Journey to Glamorous Guruship Launching an Aesthetic Channel for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-action-to-archive-a-guide-to-top-screen-recording-tools/"><u>[New] 2024 Approved Action to Archive A Guide to Top Screen Recording Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-a-creative-split-screen-video-for-youtube/"><u>[Updated] How to Make a Creative Split-Screen Video for YouTube?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leading-list-elite-call-alert-engineers/"><u>[Updated] Leading List Elite Call Alert Engineers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-power-streamlining-eucon-workflows-with-smart-ocr-solutions/"><u>Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-efficient-user-tracking-and-conversion-optimization/"><u>Leveraging Cookiebot Technology for Efficient User Tracking and Conversion Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mobile-scanning-and-converting-documents-to-text-with-finereader-iphones-compatible/"><u>Mobile Scanning & Converting Documents to Text with FineReader - iPhones Compatible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-with-siemens-gbs-mastering-document-automation-through-abbyys-expert-insights/"><u>Navigating the Future with Siemens GBS: Mastering Document Automation Through ABBYY's Expert Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimisez-votre-tresorerie-avec-notre-checklist-des-opportunites-financeuses-abbyy/"><u>Optimisez Votre Trésorerie Avec Notre Checklist Des Opportunités Financeuses - ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-your-websites-seo-performance/"><u>Optimize with Cookiebot: Elevate Your Website's SEO Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-x-flip-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo X Flip Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/swift-and-secure-iphone-file-rescue-effortless-recovery/"><u>Swift & Secure iPhone File Rescue: Effortless Recovery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-in-a-flash-new-drivers-on-windows-11-ready-now/"><u>Update in a Flash: New Drivers on Windows 11 Ready Now</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

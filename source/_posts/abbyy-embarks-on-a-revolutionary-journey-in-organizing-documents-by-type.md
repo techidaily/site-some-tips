@@ -1,7 +1,7 @@
 ---
 title: ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type
-date: 2024-09-12T07:19:29.655Z
-updated: 2024-09-13T07:19:29.655Z
+date: 2024-09-13T16:18:13.397Z
+updated: 2024-09-17T16:12:14.362Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f2561431aa2bb888dda851d0.jpg
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Enters New Path in Document Classification
 
 January 12, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### _Now available in Western Europe: New language-based ABBYY Smart Classifier helps businesses to get a grip on big content, sort unstructured information and turn it into action_ 
 
@@ -81,18 +67,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-audio-silencing-for-clearer-videographies-freepremium-for-2024/"><u>[New] Audio Silencing for Clearer Videographies (Free/Premium) for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-navigate-meeting-arrangements-with-zoom-ease/"><u>[New] Navigate Meeting Arrangements with Zoom Ease</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/hitman-series-finale-examined-flawless-endgame/"><u>Hitman Series Finale Examined: Flawless Endgame</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-picking-between-filmora-and-democracy-creator-for-edits/"><u>In 2024, Picking Between Filmora and Democracy Creator for Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-8-essential-steps-for-optimizing-your-new-windows-pc/"><u>Top 8 Essential Steps for Optimizing Your New Windows PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-innovative-and-poignant-soundscapes-paving-the-path/"><u>Updated In 2024, Innovative and Poignant Soundscapes Paving the Path</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breaking-the-streak-code-proven-techniques/"><u>[Updated] 2024 Approved Breaking the Streak Code Proven Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-all-encompassing-review-djis-inspire-1-drone/"><u>[Updated] All-Encompassing Review DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>2024 Approved Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-audio-recording-made-simple-with-iphone/"><u>2024 Approved Step-By-Step Audio Recording Made Simple with iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-elevates-global-finance-management-for-renault-argentina/"><u>ABBYY Elevates Global Finance Management for Renault Argentina</u></a></li>
+<li><a href="https://some-tips.techidaily.com/additional-provisions-for-effective-data-management-strategy-a-comprehensive-guide/"><u>Additional Provisions for Effective Data Management Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-overcoming-delay-problems-during-chromecast-audio-setup/"><u>Expert Advice: Overcoming Delay Problems During Chromecast Audio Setup</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-make-this-valentines-day-unforgettable-tips-for-creating-a-personalized-video-gift/"><u>New Make This Valentines Day Unforgettable Tips for Creating a Personalized Video Gift</u></a></li>
+<li><a href="https://some-tips.techidaily.com/selecting-abbyy-vantage-the-reason-behind-sidetrades-choice-for-enhanced-payment-solutions/"><u>Selecting ABBYY Vantage: The Reason Behind Sidetrade's Choice for Enhanced Payment Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-play-40cs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor Play 40Cs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-influence-of-ai-on-economic-progress-insights-from-abbyy-experts/"><u>Unveiling the Influence of AI on Economic Progress: Insights From ABBYY Experts</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: ABBYY Welcomes Scott Opitz as New Head of Technology and Product Innovation
-date: 2024-09-12T07:19:33.996Z
-updated: 2024-09-13T07:19:33.996Z
+date: 2024-09-12T16:11:03.858Z
+updated: 2024-09-17T16:18:11.667Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e52160481e81c4276bc515b3.jpg
@@ -11,34 +11,13 @@ thumbnail: https://thmb.techidaily.com/543a8e6d7f06f3d9129829edd8982dbf9c6a6048e
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Appoints Scott Opitz as Chief Technology and Product Officer to Accelerate its Innovations in Intelligent Automation
 
 March 15, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Scottopitz 848X444](https://static4.abbyy.com/abbyycommedia/35308/scottopitz-848x444.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Scott Opitz has been appointed Chief Technology and Product Officer (CTO and CPO) at intelligent automation company, ABBYY. He is charged with overseeing a massive 40% increase, in research and development (R&D) investment in 2022\. Opitz’s responsibilities include leading the strategy, development, and execution of the company’s product and innovation efforts based in Europe and the US, solidifying the company’s commitment to continuous enhancement of its market-leading [intelligent document processing](https://tools.techidaily.com/abbyy/products/) (IDP) platform [Vantage](https://tools.techidaily.com/abbyy/products/) and [process intelligence](https://tools.techidaily.com/abbyy/products/) solution [Timeline](https://tools.techidaily.com/abbyy/products/).
 
@@ -54,13 +33,6 @@ He has held numerous executive-level positions in technology and business develo
 
 \[1\] IDC, Worldwide Intelligent Process Automation Software Forecast, 2021–2025, Doc # US48015622, July 2021.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -71,23 +43,9 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies, and may not be used without consent of its respective owners.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Gina Ray, APR
 
@@ -113,17 +71,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-master-screen-capture-detailed-tutorial-walkthrough-for-2024/"><u>[New] Master Screen Capture Detailed Tutorial Walkthrough for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unveiling-the-trouble-solving-fb-messengers-video-not-sending-flaw/"><u>[Updated] 2024 Approved Unveiling the Trouble Solving FB Messenger's Video Not Sending Flaw</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-harmony-understanding-rights/"><u>[Updated] In 2024, Instagram Harmony Understanding Rights</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-guide-collages-creation-made-easy/"><u>[Updated] Master Guide Collages Creation Made Easy</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtubes-potential-with-key-rank-tracker-software/"><u>[Updated] Unlock YouTube's Potential with Key Rank Tracker Software</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-drivergpio-direct-link-to-download-your-essential-cpu-utility-tool/"><u>Amd-Driver/Gpio: Direct Link to Download Your Essential CPU Utility Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pixel-8-pro-vs-oneplus-12-face-off-determining-the-undeniable-champion/"><u>Pixel 8 Pro Vs. OnePlus 12 Face-Off: Determining the Undeniable Champion</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/red-dead-redemption-2-performance-optimized-no-more-lag-or-drops/"><u>Red Dead Redemption 2 Performance Optimized - No More Lag or Drops</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamped-contact-manager-unveiling-the-latest-updates-in-microsofts-outlook-mobile-application/"><u>Revamped Contact Manager: Unveiling the Latest Updates in Microsoft's Outlook Mobile Application</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revamped-version-of-apples-sports-platform-whats-new/"><u>Revamped Version of Apple's Sports Platform - What's New?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revitalize-and-rejuvenate-your-aged-android-smartphone-with-these-8-key-strategies/"><u>Revitalize and Rejuvenate Your Aged Android Smartphone with These 8 Key Strategies!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-cameras-for-clear-smooth-podcast-sessions-for-2024/"><u>Superior Cameras for Clear, Smooth Podcast Sessions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-understanding-your-new-reality-on-instagram-for-2024/"><u>[New] Understanding Your New Reality on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-movie-substitutes-to-explore-top-7-choices/"><u>[Updated] Movie Substitutes to Explore - Top 7 Choices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat/"><u>2024 Approved Exploring the Usefulness of a Blue Video Icon on Facebook Chat</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-announces-hiring-of-anthony-macciola-as-new-chief-innovation-officer/"><u>ABBYY Announces Hiring of Anthony Macciola as New Chief Innovation Officer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/battle-of-the-cameras-hero5-black-vs-hero4-silver-showdown/"><u>Battle of the Cameras HERO5 Black vs HERO4 Silver Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-with-cookiebot-technology/"><u>Enhanced Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-process-intelligence-insights-and-applications/"><u>Exploring the World of Process Intelligence: Insights and Applications</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) System? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

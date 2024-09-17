@@ -1,7 +1,7 @@
 ---
 title: ABBYY Elevates Global Finance Management for Renault Argentina
-date: 2024-09-12T07:18:59.892Z
-updated: 2024-09-13T07:18:59.892Z
+date: 2024-09-10T16:11:41.904Z
+updated: 2024-09-17T16:02:08.338Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
@@ -11,31 +11,11 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Revs Ups Renault Argentina SA’s Global Finance Operations
 
 October 08, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Renault Argentina SA, one of the oldest Renault operations in the world, is using ABBYY Digital Intelligence solutions to revitalize its finance operations. ABBYY completely digitized Renault’s invoice processing which includes complex invoices containing customs and foreign trade details in multiple languages and seamless integration into SAP ERP financial software.
 
@@ -84,17 +64,25 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-instagrammashup-androidandios-video-tiles/"><u>[New] InstagramMashup Android&iOS Video Tiles</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-revolutionary-viewfinder-unstoppable-video-meet-the-xs-100i/"><u>[Updated] 2024 Approved Revolutionary Viewfinder, Unstoppable Video - Meet the XS 100I</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-user-generated-feedback-influences-video-ranks/"><u>[Updated] In 2024, How User-Generated Feedback Influences Video Ranks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-lut-manipulation-a-comprehensive-photoshop-guide/"><u>[Updated] Mastering LUT Manipulation A Comprehensive PhotoShop Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-the-art-of-phone-recordings-for-2024/"><u>[Updated] Mastering the Art of Phone Recordings for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-tactical-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Tactical Edition without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-understanding-and-enforcing-rights-on-youtube/"><u>In 2024, Understanding and Enforcing Rights on YouTube</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-samsung-galaxy-s23-fe-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Samsung Galaxy S23 FE to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[New] IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-hidden-icons-in-windows-11/"><u>Guiding Through Hidden Icons in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/halt-spotify-autoplay-on-your-windows-system/"><u>Halt Spotify Autoplay on Your Windows System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-s17-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo S17 Pro Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-turn-your-photos-into-funny-cartoons-online-for-2024/"><u>New Turn Your Photos Into Funny Cartoons Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-retrieve-your-lost-instagram-login-credentials/"><u>Step-by-Step Guide: Retrieve Your Lost Instagram Login Credentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-m4v-files-into-wmv-format-using-windows/"><u>Step-by-Step Guide: Transforming M4V Files Into WMV Format Using Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wireguard-integration-available-in-proton-vpns-new-release-improved-privacy-and-speed-for-linux-users/"><u>WireGuard Integration Available in Proton VPN's New Release – Improved Privacy and Speed for Linux Users</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

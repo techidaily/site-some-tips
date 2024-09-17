@@ -1,7 +1,7 @@
 ---
 title: ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom
-date: 2024-09-12T07:19:32.753Z
-updated: 2024-09-13T07:19:32.753Z
+date: 2024-09-12T16:07:52.295Z
+updated: 2024-09-17T16:02:25.598Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61fc0122cfbf6ee1f44ab5a17c.jpg
@@ -11,25 +11,11 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ABBYY Marks New Partnerships and Expanded Product Portfolio in Q4 2019
 
 February 13, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### _The integration of ABBYY Timeline into the portfolio provides ABBYY customers with a robust offering of innovative solutions to fuel their digital transformation initiatives_ 
 
@@ -198,17 +184,31 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[Updated] Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/american-english-a-study-of-variants/"><u>American English: A Study of Variants</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-a38-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Oppo A38</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dynamic-discoveries-with-lively-language-lessons/"><u>Dynamic Discoveries with Lively Language Lessons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/imessage-prompts-understanding-the-reason-behind-contact-check-in-requests-and-easy-fixes/"><u>IMessage Prompts: Understanding the Reason Behind Contact Check-In Requests and Easy Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-note-30-vip-racing-edition-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Note 30 VIP Racing Edition Fingerprint Lock</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-bite-the-dessert-bullet-tiktoks-sweetest-treats/"><u>In 2024, Bite the Dessert Bullet TikTok's Sweetest Treats</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-direct-transition-from-youtube-to-instagram-reels/"><u>In 2024, Direct Transition From YouTube to Instagram Reels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-possibilities-my-wishlist-for-the-new-ipad-mini-7/"><u>Innovative Possibilities: My Wishlist for the New iPad Mini 7</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/movie-making-demystified-a-simple-step-by-step-approach/"><u>Movie Making Demystified A Simple, Step-by-Step Approach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/my-passion-for-starry-jewelry-denied-by-samsung-a-tale-of-cosmic-aspirations-and-tech-restrictions/"><u>My Passion for Starry Jewelry Denied by Samsung – A Tale of Cosmic Aspirations and Tech Restrictions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-rapid-capture-sounds-alongside-images/"><u>[Updated] In 2024, Rapid Capture Sounds Alongside Images</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-share-without-boundaries-with-instasavers/"><u>[Updated] In 2024, Share Without Boundaries with InstaSavers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-impact-sharing-youtube-videos-on-social-media-fb/"><u>2024 Approved Maximize Impact Sharing YouTube Videos on Social Media (FB)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-grade-streaming-tools-best-software-and-hardware-reviewed/"><u>2024 Approved Pro-Grade Streaming Tools Best Software & Hardware Reviewed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-leading-analytics-integration/"><u>Cookiebot-Enabled: Optimize Your Site with Leading Analytics Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-optimizing-site-engagement/"><u>Cookiebot-Enhanced User Experience: Optimizing Site Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-powering-your-website-with-cutting-edge-automation/"><u>Cookiebot-Enhanced: Powering Your Website with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-through-innovative-cookiebot-solutions/"><u>Enhanced Personalization Through Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-agni-2-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Agni 2 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-co-op-with-pearson-education-network/"><u>Mondly Co-Op with Pearson Education Network</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-edge-40-neo-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 40 Neo Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-income-101-from-ideas-to-earnings-in-action/"><u>YouTube Income 101 From Ideas to Earnings in Action</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
