@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Driven Data Collection Solutions
-date: 2024-09-13T16:13:34.798Z
-updated: 2024-09-17T16:11:31.267Z
+date: 2024-09-20T16:25:10.040Z
+updated: 2024-09-22T18:08:55.404Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
@@ -29,6 +29,13 @@ Leiter der Projektgruppe Wirtschaftsinformatik, **Fraunhofer FIT**
 
 ![02 Alexandrejanicki 198X198](https://static2.abbyy.com/abbyycommedia/25101/02-alexandrejanicki-198x198.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Alexandre Janicki
 
 Senior Enterprise Sales Manager, **ABBYY**
@@ -36,13 +43,6 @@ Senior Enterprise Sales Manager, **ABBYY**
 ### Übersicht
 
 Ein erfolgreiches Prozessmanagement fordert von Banken zwei wichtige Dinge: eine hohe Kundenzufriedenheit und einen größeren Anwenderfokus.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prozesspioniere: Wie Banken ihre Prozesse optimal digitalisieren
 
@@ -54,32 +54,38 @@ Wie Banken ihre Prozesse optimieren und sich gezielt auch über das „New Norma
 * Welche Barrieren gibt es aktuell noch für den Einsatz von Prozesstechnologien
 * Wie steht es um die Investitionsbereitschaft von Unternehmen in moderne Prozesstechnologien
 
-### Webinar-Aufzeichnung hier anfordern
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+### Webinar-Aufzeichnung hier anfordern
 
 ### Get in touch with us
 
 Please note that progressive profiling is used on this form to incrementally collect profile data over time.   
 All personal information collected via this method is under full scope of all provisions in our privacy policy.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Vielen Dank! Wir wünschen Ihnen viel Spaß mit dem Webinar.
 
 [Handelsblatt Podcast „So klingt Wirtschaft“](https://open.spotify.com/episode/3MzWUWTh7UgOcrUH7Bjuui "Handelsblatt Podcast „So klingt Wirtschaft“")
 
 ![Factoids 027 77X77](https://static4.abbyy.com/abbyycommedia/31652/factoids-027-77x77.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Haben Sie weiterführende Fragen oder möchten Sie mit uns über ein konkretes Projekt sprechen? [Kontaktieren Sie uns.](https://tools.techidaily.com/abbyy/products/)
 
@@ -146,19 +152,14 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-apps-for-3d-video-intros-on-social-platforms/"><u>[New] In 2024, Best Apps for 3D Video Intros on Social Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-deep-dive-exploring-free2webcam-recording-tools/"><u>[Updated] 2024 Approved Deep Dive Exploring Free2WebCam Recording Tools</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-construct-a-careerscape-on-camera-by-critiquing-closets/"><u>[Updated] Construct a Careerscape on Camera by Critiquing Closets</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elegant-volume-attenuation-using-lumafusion/"><u>[Updated] In 2024, Elegant Volume Attenuation Using Lumafusion</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-family-vehicle-entertainment-adventures/"><u>[Updated] Top Family Vehicle Entertainment Adventures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-images-with-complete-understanding-of-facetune/"><u>[Updated] Transforming Images with Complete Understanding of Facetune</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/conduct-an-audiovisual-symphony-for-ppt/"><u>Conduct an Audiovisual Symphony for PPT</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-learn-how-to-craft-engaging-tiktok-captions-quickly/"><u>In 2024, Learn How to Craft Engaging TikTok Captions Quickly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>In 2024, Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-retrieving-icons-from-windows-executable-files/"><u>Step-by-Step Guide to Retrieving Icons From Windows Executable Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-running-a-windows-11-laptop-in-sleep-mode-while-closed-for-extended-use/"><u>Step-by-Step Guide: Running a Windows 11 Laptop in Sleep Mode While Closed for Extended Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-quicktime-the-complete-guide-to-apples-media-player/"><u>Understanding QuickTime: The Complete Guide to Apple's Media Player</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>[New] Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargas-gratuitas-para-cambiar-archivos-de-video-desde-mp4-a-asf-sin-problemas-movavi/"><u>Descargas Gratuitas Para Cambiar Archivos De Vídeo Desde MP4 a ASF Sin Problemas - Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exclusive-selection-of-vr-for-drone-pilots-for-2024/"><u>Exclusive Selection of VR for Drone Pilots for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-humor-potential-in-artificial-intelligence-plus-an-insight-into-laptop-evolution-and-advancements-in-virtual-private-network-technology/"><u>Exploring the Humor Potential in Artificial Intelligence: Plus, an Insight Into Laptop Evolution & Advancements in Virtual Private Network Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-technology-the-ultimate-resource-by-toms-hardware-solutions/"><u>Mastering Technology: The Ultimate Resource by Tom's Hardware Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wat-is-een-mkv-file-en-de-procedure-om-het-openbaar-te-maken/"><u>Wat Is Een MKV-File en De Procedure Om Het Openbaar Te Maken?</u></a></li>
+<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-motorola-g54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola G54 5G?</u></a></li>
 </ul></div>
 

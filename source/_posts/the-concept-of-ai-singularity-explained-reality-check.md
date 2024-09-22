@@ -1,7 +1,7 @@
 ---
 title: "The Concept of AI Singularity Explained: Reality Check."
-date: 2024-09-12T16:04:28.598Z
-updated: 2024-09-17T16:10:19.861Z
+date: 2024-09-15T16:27:16.337Z
+updated: 2024-09-22T18:51:32.385Z
 tags:
   - cutting-edge
 categories:
@@ -58,16 +58,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
  Others believe the sheer complexity of human intelligence will be a major barrier here. Computer modeling expert Douglas Hoftstadter [believes that](https://spectrum.ieee.org/tech-luminaries-address-singularity) "life and intelligence are far more complex than the current singularitarians seem to believe, so I doubt it will happen in the next couple of centuries."
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Why Are People Worried About the Singularity?
@@ -95,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
  The initiation of conflict by super-intelligent AI machines may also pose a threat, as well as how machines surpassing human intelligence will affect the global economy. But it's important to remember that each of these pointers is dependent on the AI singularity even being achieved, and there's no knowing if that will ever happen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  The Singularity May Always Be a Sci-Fi Notion
@@ -120,14 +114,17 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-dance-your-way-to-fame-with-tiktok-on-mac-for-2024/"><u>[New] Dance Your Way to Fame with TikTok on Mac for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-integrate-soundtracks-into-instagram-storytelling-for-2024/"><u>[New] Integrate Soundtracks Into Instagram Storytelling for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-alleviate-problem-buffering-tweets-in-chromebook/"><u>[Updated] Alleviate Problem Buffering Tweets in Chromebook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2023s-scarcity-pioneering-vr-content-shortcomings-for-2024/"><u>2023’S Scarcity Pioneering VR Content Shortcomings for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-beyond-boundaries-channel-youtube-for-exciting-green-screens/"><u>2024 Approved Beyond Boundaries Channel Youtube for Exciting Green Screens</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-intel-iris-xe-driver-for-optimal-performance-on-windows-11/"><u>Download Updated Intel Iris Xe Driver for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222718774-3g-2-movavi/"><u>免費在線3G-2規格影片切換服務 - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-facilmente-tus-videos-mp4-por-el-internet-sin-costo-paso-a-paso-con-movavi/"><u>Cómo Convertir Fácilmente Tus Vídeos MP4 Por El Internet Sin Costo, Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-mp3-to-mpg-conversion-easy-and-fast-by-movavi/"><u>Free Online MP3-to-MPG Conversion - Easy and Fast by Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/insight-into-visual-learning-personalities-recognizing-their-unique-qualities/"><u>Insight Into Visual Learning Personalities: Recognizing Their Unique Qualities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-jp2-informatie-in-png-formaat-verzamelen-gratis-expertise-en-oplossingen-met-movavi/"><u>Online JP2-Informatie in PNG-Formaat Verzamelen Gratis: Expertise en Oplossingen Met Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-camera-drones-10-elevating-film-and-photography/"><u>Pro Camera Drones #10 Elevating Film & Photography</u></a></li>
+<li><a href="https://games-able.techidaily.com/thinking-about-ps5-consider-these-flaws/"><u>Thinking About PS5? Consider These Flaws</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing Fingerprint Scanners: Optical Vs. Ultrasonic Technology"
-date: 2024-09-16T16:06:44.050Z
-updated: 2024-09-17T16:00:53.351Z
+date: 2024-09-19T18:47:55.939Z
+updated: 2024-09-22T18:15:52.941Z
 tags:
   - mobile
 categories:
@@ -53,22 +53,16 @@ OnePlus
 
  It has since been patched, but [a researcher once spoofed optical fingerprint security](https://threatpost.com/lock-screen-bypass-bug-quietly-patched-in-handsets/139141/) on multiple phone models with nothing more than a reflective plastic sheet. Placing the reflective sheet on top of a leftover fingerprint on the display unlocked the phone. As far as bypassing biometric security goes, this hack is as low tech as it gets.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The Ultrasonic Fingerprint Scanner
 
 ![Under display fingerprint scanner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/Under-Display-Fingerprint-Scanner.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [TPROduction / Shutterstock.com](https://www.shutterstock.com/image-photo/unlocking-phone-finger-on-digital-fingerprint-1527126299)
 
@@ -83,10 +77,10 @@ OnePlus
  Plus, they’re more secure because it's harder to fool a 3D model than a 2D image. Ultrasonic scanners aren’t unbreakable though. Instead of a 2D printout, an attacker could clone a detailed model of the fingerprint using a 3D printer. Someone created a 3D print of their own fingerprint lifted off a wine glass (I say "lifted" but they just took a picture of it with a phone) and successfully [unlocked a flagship Samsung Galaxy phone with the false fingerprint](https://imgur.com/gallery/i-attempted-to-fool-new-samsung-galaxy-s10s-ultrasonic-fingerprint-scanner-by-using-3d-printing-i-succeeded-8aGqsSu).
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Who is the Winner?
@@ -112,13 +106,17 @@ OnePlus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-halo-series-screen-grabs-made-simple/"><u>[New] 2024 Approved Halo Series Screen Grabs Made Simple</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-best-camera-stabilizers-for-youtubers/"><u>[New] Best Camera Stabilizers for YouTubers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-storytellers-sanctum-summit-selections/"><u>[New] In 2024, Storytellers Sanctum – Summit Selections</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-14-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 14 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-hidden-costs-of-mining-bitcoin-on-your-personal-computer/"><u>The Hidden Costs of Mining Bitcoin on Your Personal Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-top-10-reading-list-chosen-by-our-community/"><u>The Ultimate Top 10 Reading List, Chosen by Our Community</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-reasons-artificial-intelligence-assistants-havent-won-me-over-insights-and-perspectives/"><u>Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/web-aviflv-movavi/"><u>비용 부과 없이 Web용 AVI/FLV 파일을 바꾸기: Movavi의 단순한 방법</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exploring-the-depth-of-editing-with-gopro-studios-capabilities-for-2024/"><u>[New] Exploring the Depth of Editing with GoPro Studio's Capabilities for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-expert-guide-to-crafting-immersive-experiences-through-instagram-vids/"><u>[Updated] 2024 Approved Expert Guide to Crafting Immersive Experiences Through Instagram Vids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-harnessing-the-power-of-imagery-for-engaging-fb-slideshows/"><u>[Updated] In 2024, Harnessing the Power of Imagery for Engaging FB Slideshows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-fuel-fascination-with-imagery-the-most-motivating-ig-shots/"><u>2024 Approved Fuel Fascination with Imagery The Most Motivating IG Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228084954-apeoggmovavi/"><u>簡便省事的線上無成本解決方案，升級APE到OGG格式：以Movavi 為主要工具進行音頻轉換</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-weg-hijven-van-hintergrondgerais-in-beeld-en-geluidsopnamen-twee-fascineerde-methodes/"><u>Efficiënt Weg Hijven Van Hintergrondgerais in Beeld- en Geluidsopnamen - Twee Fascineerde Methodes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-artificial-intelligence-the-role-of-ai-prompt-engineering-in-future-jobs/"><u>Exploring Artificial Intelligence: The Role of AI Prompt Engineering in Future Jobs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/how-to-use-luts-to-obs-studio-and-download-free-lut/"><u>How to Use LUTs to OBS Studio & Download Free LUT</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>In 2024, Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-15-melhores-conceitos-geniais-para-colagens-artisticas-descubra-as-tecnicas-mais-populares-com-a-guia-de-movevi/"><u>Os 15 Melhores Conceitos Geniais Para Colagens Artísticas: Descubra as Técnicas Mais Populares Com a Guia De Movevi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplest-linux-guide-for-bavarder-chatgpt/"><u>Simplest Linux Guide for Bavarder ChatGPT</u></a></li>
 </ul></div>
 

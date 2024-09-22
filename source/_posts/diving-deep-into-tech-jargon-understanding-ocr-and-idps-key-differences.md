@@ -1,7 +1,7 @@
 ---
 title: "Diving Deep Into Tech Jargon: Understanding OCR and IDP's Key Differences"
-date: 2024-09-13T16:02:39.233Z
-updated: 2024-09-17T16:00:19.922Z
+date: 2024-09-18T19:16:12.513Z
+updated: 2024-09-22T19:15:16.698Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5dda734007d0cce4f616f2328d041526d598c5a6fb318adf671f70aacd812852.jpg
@@ -43,6 +43,13 @@ OCR beginnt mit der Datei, aus der Sie Informationen extrahieren möchten. Dabei
 
 Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern oder Vorlagen abgeglichen, die bekannte Zeichen und Symbole darstellen. Dabei können Technologien wie maschinelles Lernen und neuronale Netze eingesetzt werden, um die Erkennungsgenauigkeit zu verbessern und verschiedene Schriftarten und Sprachen oder komplizierte Layouts wie Tabellen und Listen oder Strichcodes zu verarbeiten. Wenn die OCR auf ein Problem stößt, kann sie dieses zur menschlichen Bearbeitung kennzeichnen. Nach Abschluss des Zeichenerkennungsprozesses müssen Sie das Ergebnis eventuell noch auf Fehler prüfen oder die Genauigkeit durch Rechtschreibprüfung, Kontextanalyse oder Sprachmodellierung verbessern. Die OCR-Software erzeugt dann den endgültigen maschinenlesbaren Text, der in das Computersystem Ihres Unternehmens integriert werden kann.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Vorteile der OCR
 
 [OCR](https://tools.techidaily.com/abbyy/products/) ist eine unverzichtbare Technologie für alle Branchen, in denen viel mit Dokumenten gearbeitet wird, sei es bei der täglichen Arbeit der Mitarbeitenden mit ihren aktuellen Dokumenten, bei der Digitalisierung von Archiven oder bei der Erstellung von barrierefreien digitalen Dokumentenarchiven durch die Verarbeitung einer großen Menge von Dokumenten, z. B. von Dokumentenstapeln im Gesundheitswesen oder von Logistikdokumentationen.
@@ -56,18 +63,18 @@ Die extrahierten Daten werden dann mit einer Reihe von vordefinierten Mustern od
 
 Typische Anwender von OCR-Lösungen sind unter anderem Organisationen, die damit zur Einhaltung von behördlichen und unternehmensinternen Vorschriften große Mengen an Papier- und digitalen Dokumenten in barrierefreie und durchsuchbare Formate umwandeln, Anwaltskanzleien, die gedruckte Verträge in bearbeitbare digitale Formate für die Suche, eDiscovery und Datenanalyse umwandeln, Unternehmen des Gesundheitswesens, die Patientenakten auf ihr Computersystem übertragen, um die Einhaltung des HIPAA zu gewährleisten, Bibliotheken und Archive, die historische Dokumente in digitaler Form aufbewahren, damit die Mitarbeiter eines Unternehmens ihre tägliche Arbeit mit Dokumenten effizient erledigen können, und Softwareentwickler, die Inhaltsdienste, digitale Archivierung, Dokumentenverwaltungssysteme (DMS) und ECM-Lösungen (Enterprise Content Management) entwickeln.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Was ist IDP?
 
 [Intelligente Dokumentenverarbeitung](https://tools.techidaily.com/abbyy/products/) **(IDP) ermöglicht die durchgängige Verarbeitung von Dokumenten durch automatisches Erfassen, Extrahieren und Verarbeiten von Daten, die in Geschäftsdokumenten eingebettet sind,** in nahezu jedem Prozess in jeder Branche.
 
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wie es funktioniert
 
@@ -112,6 +119,19 @@ So kann IDP beispielsweise eine Rechnung lesen, ihren Inhalt mit einer entsprech
 | **Technologie**              | Bildverbesserung, Objekterkennung OCR / ICR                                                                                                                                                                                                                        | Klassifizierung Deep Machine Learning Fast Machine Learning Extraktionsregeln Segmentierung Erkennung von Eigennamen (NER) Natural Language Processing (NLP)                                                                                                                                      |
 | **Typische Anwendungsfälle** | Bietet Zugang zu maschinenlesbarem Text als Grundlage für: PDF-Konvertierung, Digitale Archivierung / Suche eDiscovery Erweiterte Suche / Digitale Forensik Datenanalyse Intelligente Dokumentenverarbeitung (IDP)                                                 | Automatisierung aller dokumentenzentrierten Geschäftsprozesse: Automatisierung der Kreditorenbuchhaltung Neukundenaufnahme / KYC Kreditbearbeitung Automatisierung von Transport- und Logistikdokumentation Bearbeitung von Versicherungsansprüchen                                               |
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Beispiele für OCR und IDP in Geschäftsprozessen
 
 #### Bearbeitung von Rechnungen
@@ -137,13 +157,6 @@ Mit intelligenter Dokumentenverarbeitung können Sie die Hindernisse beseitigen,
 **IDP umfasst OCR-Technologie, geht aber noch einen Schritt weiter und analysiert und interpretiert den Text wie ein Mensch.**  Sie nutzt fortschrittliche Technologien wie die Verarbeitung natürlicher Sprache, maschinelles Lernen und künstliche Intelligenz, um den Inhalt von Dokumenten umfassender zu verstehen. IDP extrahiert also nicht nur den Text, sondern kann auf Grundlage der gefundenen Informationen auch den Kontext verstehen, Daten validieren und Entscheidungen fällen. IDP ist eher für Unternehmen geeignet, die eine anspruchsvolle Dokumentenverarbeitung, Workflow-Automatisierung und inhaltsbasierte Entscheidungsfindung benötigen. Mit den neuen Low-Code/No-Code-Lösungen, wie [ABBYY Vantage,](https://tools.techidaily.com/abbyy/products/) können Unternehmen IDP mit vortrainierten, sofort einsatzbereiten Dokumentenverarbeitungsmodellen verwenden oder stattdessen schnell und einfach eigene Extraktionsmodelle auf der Grundlage von Dokumententypen oder Anforderungen erstellen, die speziell auf ihre Geschäftsanforderungen zugeschnitten sind.
 
 [Demo anfordern](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -186,10 +199,16 @@ Technologien für OCR (optische Zeichenerkennung) und IDP (intelligente Dokument
 ![Slavena Hristova ABBYY](https://static4.abbyy.com/abbyycommedia/25713/slavenahristova-99x99.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Slavena Hristova
@@ -199,13 +218,6 @@ Director of Product Marketing, Vantage group at ABBYY
 Slavena Hristova ist Direktorin für Produktmarketing, Vantage bei ABBYY. Hristova leitet das globale Produktmarketing für die ABBYY Vantage-Produktlinie. Sie verwaltet den gesamten Produktlebenszyklus, von der Definition der Marktanforderungen und der Entwicklung von Markteinführungsstrategien bis hin zu Vertriebsunterstützung und Schulungsangeboten für Vertriebspartner. Sie verfügt über langjährige Erfahrung im Produktmanagement und Marketing in den Bereichen Texterkennung, Informations- und Dokumentenmanagement.
 
 Verbinden Sie sich mit Slavena auf [LinkedIn](https://www.linkedin.com/in/slavena-hristova-r%C3%B6%C3%9Fler-044aa05a/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gefällt mir, teilen oder neu posten 
 
@@ -266,20 +278,21 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-digital-sculptors-playground-essential-tools-for-every-animator/"><u>[New] Digital Sculptors’ Playground Essential Tools for Every Animator</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-amass-a-thousand-tactics-for-monthly-instagram-following-for-2024/"><u>[Updated] Amass a Thousand Tactics for Monthly Instagram Following for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-abbyy-top-choice-for-everest-groups-idp-peak-matrix-evaluation/"><u>1. ABBYY: Top Choice for Everest Group's IDP Peak Matrix Evaluation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1724313333809-cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics & Personalization</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-routines-for-easy-webinar-saves-on-windows-platform-for-2024/"><u>Essential Routines for Easy Webinar Saves on Windows Platform for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-itel-p55-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Itel P55 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>In 2024, Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-message-alerts-and-ringtones-with-these-expert-tips-and-tricks/"><u>Revive Your iPhone's Message Alerts & Ringtones with These Expert Tips and Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-the-financial-sector-how-rpa-and-nlp-offer-innovative-solutions/"><u>Revolutionizing the Financial Sector: How RPA and NLP Offer Innovative Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/step-wise-process-of-integrating-voice-over-into-videos/"><u>Step-Wise Process of Integrating Voice Over Into Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-final-countdown-over-fortnite-launched/"><u>The Final Countdown Over - Fortnite Launched</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-enterprise-potential-enhancing-roi-through-ai-driven-content-strategies-insights-from-the-abbyy-blog/"><u>Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-discover-the-best-8-rain-sound-archives-for-free-download-a-complete-list-for-2024/"><u>Updated Discover the Best 8 Rain Sound Archives for Free Download - A Complete List for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-analytics-and-visitor-insights/"><u>Utilizing Cookiebot Technology for Improved Site Analytics and Visitor Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/weltweit-kooperiert-kodak-alaris-mit-abbyy-fur-die-gemeinsame-digitale-datenverarbeitung/"><u>Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-novice-to-content-creator-your-youtube-journey-begins/"><u>[New] 2024 Approved From Novice to Content Creator Your YouTube Journey Begins</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-compre-point-strategies-for-effortless-story-posting-for-2024/"><u>[New] A Compre Point Strategies For Effortless Story Posting for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-most-advanced-drone-technology-aligned-with-gopros/"><u>[New] In 2024, Most Advanced Drone Technology Aligned with GoPros</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-a-youtube-channel-today-for-2024/"><u>[Updated] How to Create A YouTube Channel Today for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726219046808-productvideoeditorplusproductname/"><u>立即下載 {{ product('VideoEditorPlus').product_name}}，無限制使用金鑰</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-from-code-breakdowns-quick-windows-fixes/"><u>Breaking Free From Code Breakdowns: Quick Windows Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-solutions-for-unresponsive-screen-capture-tools-overcoming-13-problems-with-movavi/"><u>Expert Solutions for Unresponsive Screen Capture Tools - Overcoming 13 Problems With Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-3gpp-inpakket-naar-3gp-online-vervangen-movavi/"><u>Gratis 3GPP-Inpakket Naar 3GP Online Vervangen - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratitude-for-using-movavi-slideshow-creator-download-complete/"><u>Gratitude for Using Movavi Slideshow Creator – Download Complete</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kostenloze-omzetting-van-nef-naar-jpg-professioneel-online-kneus-von-movavi/"><u>Kostenloze Omzetting Van NEF Naar JPG - Professioneel Online Kneus Von Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maintaining-youtube-like-video-quality-on-twitter/"><u>Maintaining YouTube-Like Video Quality on Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-narratives-innovative-uses-of-chatgpt-in-gaming-scriptwriting/"><u>Mastering Narratives: Innovative Uses of ChatGPT in Gaming Scriptwriting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-mutters-of-morrowind-troubleshooting-game-audio-in-skyrim/"><u>Overcoming the Mutters of Morrowind: Troubleshooting Game Audio in Skyrim</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequencing-the-autobots-and-decepticons-how-to-watch-every-transformers-movie-in-order/"><u>Sequencing the Autobots and Decepticons: How to Watch Every Transformers Movie in Order</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-mp4-en-formato-mov-por-internet-gratuito-manteniendo-pura-calidad-pasos-faciles/"><u>Transforma Tu Vídeo MP4 en Formato MOV Por Internet Gratuito, Manteniendo Pura Calidad - Pasos Fáciles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rw2-png-movavi/"><u>무료 RW2 PNG 그림을 직접 인터넷으로 변환하는 단계별 지침 – Movavi 이용</u></a></li>
 </ul></div>
 

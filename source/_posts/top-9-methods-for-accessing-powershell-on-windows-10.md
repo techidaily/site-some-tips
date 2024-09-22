@@ -1,7 +1,7 @@
 ---
 title: Top 9 Methods for Accessing PowerShell on Windows 10
-date: 2024-09-10T16:06:39.969Z
-updated: 2024-09-17T16:06:00.775Z
+date: 2024-09-16T19:33:54.881Z
+updated: 2024-09-22T17:49:57.670Z
 tags:
   - desktop
 categories:
@@ -40,6 +40,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  While you can open PowerShell from the Start menu, this list includes some (potentially) easier and lesser-known ways you can launch this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open PowerShell From the Power Users Menu
 
  The Power Users menu appears in the taskbar when you press Windows+X. It's an easy way to access a multitude of settings, utilities, and system programs from one menu.
@@ -58,22 +65,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click the Search icon and type &quot;powershell&quot; in the text box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_14h02_57.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, click "Open" or "Run as Administrator" to open PowerShell either normally or with [administrative privileges](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/).
 
 ![Click &quot;Open&quot; or &quot;Run As Administrator.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_13h52_39.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  By Scrolling Through All Apps in the Start Menu
@@ -98,19 +105,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Type &quot;powershell&quot; in the text box, and then click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_15h56_56.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Launch PowerShell From the File Explorer File Menu
 
  If you need to open a PowerShell instance from a specific folder on your computer, you can use File Explorer to initiate it within the currently selected directory.
@@ -124,14 +118,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click &quot;File,&quot; hover over &quot;Open Windows PowerShell,&quot; and then click your preferred option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h12_38.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that this method doesn't work from the "Quick Access" directory. You'll find the option to open PowerShell grayed out when you click "File."
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  From the File Explorer Address Bar
 
@@ -165,6 +159,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click &quot;Open PowerShell Window Here.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_17h29_34.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also permanently add PowerShell to the right-click context menu with [this registry hack](https://win-amazing.techidaily.com/1722976989163-get-your-insignia-usbvga-driver-installed-step-by-step-guide/).
 
 ![The &quot;Open PowerShell Here&quot; option in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/01/apc_top.png) 
@@ -184,19 +185,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Name your shortcut, and then click "Finish" to create it.
 
 ![Type a name for your shortcut in the text box, and then click &quot;Finish.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/2020-03-16_18h58_05.png) 
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, whenever you double click the icon, PowerShell will open.
 
@@ -235,21 +223,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-sewn-sequences-learning-loom-screen-casting/"><u>[New] 2024 Approved Sewn Sequences Learning Loom Screen Casting</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-boost-your-igtv-presence-with-effective-title-and-summary-tweaks/"><u>[New] Boost Your IGTV Presence with Effective Title & Summary Tweaks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>[Updated] The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mac-screen-alignment-rapid-video-format-changes/"><u>2024 Approved Mac Screen Alignment Rapid Video Format Changes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-elevates-global-finance-management-for-renault-argentina/"><u>ABBYY Elevates Global Finance Management for Renault Argentina</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/behind-the-scenes-of-apples-developer-event-wwdc-2025-exclusives-uncovered/"><u>Behind-the-Scenes of Apple's Developer Event – WWDC 2025 Exclusives Uncovered</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/choosing-the-right-recorder-top-4-full-screen-picks-for-pcmac-for-2024/"><u>Choosing the Right Recorder Top 4 Full-Screen Picks for PC/Mac for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-m14-4g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy M14 4G Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-less-capable-openai-affirms-its-consistent-performance/"><u>Is ChatGPT Less Capable? OpenAI Affirms Its Consistent Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-analytics-and-seo-performance/"><u>Leverage Cookiebot Technology for Superior User Analytics and SEO Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-your-online-marketing-with-cookiebots-advanced-ad-management-technology/"><u>Optimize Your Online Marketing with Cookiebot's Advanced Ad Management Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-enhance-your-sites-personalization/"><u>Optimized with Cookiebot Technology: Enhance Your Site's Personalization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionarer-ansatz-des-abbyy-sdks-zur-verbesserung-der-mobilgerate-onboarding-erfahrungen/"><u>Revolutionärer Ansatz Des ABBYY-SDKs Zur Verbesserung Der Mobilgeräte-Onboarding-Erfahrungen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/selecting-abbyy-vantage-the-reason-behind-sidetrades-choice-for-enhanced-payment-solutions/"><u>Selecting ABBYY Vantage: The Reason Behind Sidetrade's Choice for Enhanced Payment Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-digital-dialogue-mastering-the-art-of-custom-chatgpt-instructions/"><u>The Future of Digital Dialogue: Mastering the Art of Custom ChatGPT Instructions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-influence-of-ai-on-economic-progress-insights-from-abbyy-experts/"><u>Unveiling the Influence of AI on Economic Progress: Insights From ABBYY Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-best-mac-mp4-cutter-apps-enhance-video-editing/"><u>[New] 2024 Approved Best Mac MP4 Cutter Apps Enhance Video Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-convert-youtube-videos-to-gifs/"><u>[Updated] How to Convert YouTube Videos to GIFs</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bridging-human-machine-bonds-with-sentiment-analysis/"><u>Bridging Human-Machine Bonds with Sentiment Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-pef-online-utilizando-la-herramienta-de-movavi/"><u>Conversión Gratuita De Archivos PEF Online Utilizando La Herramienta De Movavi</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effortless-audio-file-conversion-transform-wav-to-wma-without-cost-movavi-guides/"><u>Effortless Audio File Conversion: Transform WAV to WMA without Cost - Movavi Guides</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015669615-immediate-fixes-for-the-astro-a50-audio-problem-get-clear-sounds-back/"><u>Immediate Fixes for the Astro A50 Audio Problem – Get Clear Sounds Back</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-enregistreurs-decran-n1-sans-frais-pour-windows-eb7-recommandes-par-movavi/"><u>Les Enregistreurs D'écran N°1 Sans Frais Pour Windows Eb7 Recommandés Par Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-3gp-mp4/"><u>Movavi: 원료 가격 3GP 파일이 바로 MP4 코어로 전환하기 위한 단순합니다!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simova-movie-transformation-tool-securely-discounted-purchase/"><u>SiMoVa Movie Transformation Tool - Securely Discounted Purchase</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-obtaining-the-official-canon-mg3n-series-drivers-with-enhanced-security/"><u>Step-by-Step Guide: Obtaining the Official Canon MG3n Series Drivers with Enhanced Security</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tga-a-png-gratuitamente-tramite-linnovativo-servizio-di-conversione-online-movavi/"><u>TGA a PNG Gratuitamente Tramite L'innovativo Servizio Di Conversione Online Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-picks-downloading-templates-from-youtube-vids/"><u>Top Picks Downloading Templates From YouTube Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226270437-wma-flac-movavi/"><u>WMA 至 FLAC 無限制在網路上轉換器 - 利用 Movavi 的服務</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rapidez Au Détriment De La Souplesse : Comment L'accélération Du Processus Douanier À La Frontière Royaume-Uni/UE Affecte Le Commerce"
-date: 2024-09-15T16:01:56.515Z
-updated: 2024-09-17T16:14:16.806Z
+date: 2024-09-21T18:14:08.705Z
+updated: 2024-09-22T16:42:40.694Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4546ddfed47c887fd8822a083e53e55a360fbac19fd97cadc5d42f68a2d04c9c.png
@@ -34,6 +34,19 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 * La solution de traitement intelligent des documents (IDP) ABBYY extrait les données des factures commerciales et des listes de colisage avec près de 100% de justesse. Les données sont envoyées vers la solution de CustomsTrack pour faire automatiquement les déclarations de douane d’import et export et les remplir dans les systèmes de douane nationaux.
 * Avec la solution CustomsTrack, les entreprises internationales peuvent prendre la maîtrise des opérations douanières, sans avoir besoin de recourir aux services de courtiers en douane, lesquels accroissent les coûts et la complexité du processus.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Value
 
 * 95% de rapidité en plus pour la livraison des marchandises sur le marché
@@ -50,10 +63,10 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/products/flexicapture/fc_1.jpg?h=392&iar=0&w=696)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### ABBYY Solutions for Accounts Payable Automation
@@ -67,13 +80,6 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 [Lire le document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/CustomsTrack-case-study-intelligent-document-processing-fr.pdf)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### En savoir plus sur ABBYY 
 
@@ -94,19 +100,19 @@ Joe Corcoran, Consultant principal chez CustomsTrack
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>[New] IPhone Cinematography Guide 8 Insider Secrets to Professional Video Creation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-rapid-restoration-snapped-shenanigans/"><u>[Updated] Rapid Restoration Snapped Shenanigans</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-creating-flipbooks-from-scratch-using-windows-movie-maker/"><u>2024 Approved Creating Flipbooks From Scratch Using Windows Movie Maker</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Google Pixel 7a? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-frostpunks-technical-hiccups-how-to-prevent-game-crashing/"><u>Overcome Frostpunk's Technical Hiccups - How to Prevent Game Crashing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/pro-level-techniques-to-upgrade-your-iphone-photo-game-for-2024/"><u>Pro-Level Techniques to Upgrade Your iPhone Photo Game for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-customer-service-8-ways-to-use-chatgpt-effectively/"><u>Revolutionizing Customer Service: 8 Ways to Use ChatGPT Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-ping-tool-a-comprehensive-guide-on-testing-your-online-connectivity/"><u>Understanding the PING Tool: A Comprehensive Guide on Testing Your Online Connectivity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-troubleshooting-fixing-downloads-and-audio-problems/"><u>Windows 11 Creators Update Troubleshooting: Fixing Downloads and Audio Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-download-stuck-and-no-sound-issues-fixed/"><u>Windows 11 Creators Update: Download Stuck & No Sound Issues [Fixed]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-essentials-executing-a-pristine-system-reboot/"><u>Windows 11 Essentials: Executing a Pristine System Reboot</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-everyday-online-chronicles-a-handy-tip-for-digging-up-fbs-vids/"><u>[New] 2024 Approved Everyday Online Chronicles A Handy Tip for Digging Up FB's Vids</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-circular-engine-kit-for-2024/"><u>[New] Circular Engine Kit for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-add-music-to-facebook-story/"><u>[Updated] How to Add Music to Facebook Story?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-archivo-swf-a-formato-de-video-mpeg-online-sin-coste/"><u>Convertir Archivo SWF a Formato De Video MPEG Online Sin Coste</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-12-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 12 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-avi-files-naar-wma-omzetten-korting-movavi/"><u>Gratuit Online AVI-Files Naar WMA Omzetten - Korting Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-windows-applications-without-admin-rights/"><u>How to Manage Windows Applications Without Admin Rights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/le-chat-vs-chatgpt-our-in-depth-review-of-two-popular-ai-chatbots/"><u>Le Chat vs ChatGPT - Our In-Depth Review of Two Popular AI Chatbots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-product-distribution-and-returns-policy-comprehensive-guide/"><u>Movavi Product Distribution & Returns Policy - Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gratuite-jpg-to-tiff-conversie-met-movavi-beste-praktiken-ervaren/"><u>Online Gratuite JPG-to-TIFF-Conversie Met Movavi - Beste Praktiken Ervaren!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcoding-made-easy-convert-ogv-videos-to-wmv-for-free-using-movavis-web-service/"><u>Transcoding Made Easy: Convert OGV Videos to WMV for Free Using Movavi's Web Service</u></a></li>
+<li><a href="https://win-dash.techidaily.com/transform-your-gotomeeting-recordings-easy-conversion-from-g2m-to-multiple-formats-like-mp4/"><u>Transform Your GoToMeeting Recordings - Easy Conversion From G2M to Multiple Formats Like MP4</u></a></li>
 </ul></div>
 

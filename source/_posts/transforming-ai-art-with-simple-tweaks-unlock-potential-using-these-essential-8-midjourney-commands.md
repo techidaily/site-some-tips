@@ -1,7 +1,7 @@
 ---
 title: "Transforming AI Art with Simple Tweaks: Unlock Potential Using These Essential 8 Midjourney Commands"
-date: 2024-09-11T16:06:44.265Z
-updated: 2024-09-17T16:06:26.128Z
+date: 2024-09-16T17:07:19.039Z
+updated: 2024-09-22T16:54:14.031Z
 tags:
   - cutting-edge
 categories:
@@ -66,13 +66,6 @@ summer picnic scene
 
 ![Image of a Picnic generated using Midjourney showing trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/image-of-a-picnic-generated-using-midjourney-showing-trees.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, Midjourney is creating images with trees in them. But I don’t want trees. So, if I modify the prompt to:
 
 summer picnic scene without trees
@@ -82,10 +75,16 @@ summer picnic scene without trees
 ![Midjourney image of a picnic scene that ignores the prompt asking to generate without trees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-picnic-scene-that-ignores-the-prompt-asking-to-generate-without-trees.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Still, the generated images include trees. But you can stop this from happening by using the “no” parameter and specifying what you want removed. The modified prompt becomes:
@@ -95,6 +94,13 @@ summer picnic scene --no tree, branches, leaves, trunks.
  And here’s the generated image:
 
 ![Midjourney image using no parameter to avoid trees successfully when generating a picnic scene](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-using-no-parameter-to-avoid-trees-successfully-when-generating-a-picnic-scene.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Yes, trees are still present in the composition, but their presence is significantly reduced.
 
@@ -131,10 +137,10 @@ a child’s painting of a house with a car and a pool --s 900
 ![Midjourney image of a child's painting with stylize at 900](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-child-s-painting-with-stylize-at-900.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5  The Repeat Parameters: Fast Visual Exploration 
@@ -180,10 +186,10 @@ a steampunk cyborg --w 2500
 ![Midjourney image of a steampunk Cyborg with weird parameter at 2500](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/midjourney-image-of-a-steampunk-cyborg-with-weird-parameter-at-2500.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7  The Video Parameter: Capture the Creation Process 
@@ -206,13 +212,6 @@ watercolor scenery of a mountain in the woods --video
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8  The Tile Parameter: Craft Stunning Patterns 
 
  I often use Midjourney to create monotonous pattern-based wallpapers and this is when the 'tile"parameter comes in real handy. Of course, you can also use this feature to create any seamless repeating patterns, or textures, or even for printing on fabrics. To use the feature, simply prompt Midjourney to create a pattern and append it with the --tile parameter. You will get a grid of patterns that you can individually upscale and use them as repeating patterns to create large images.
@@ -230,6 +229,19 @@ a pattern of autumn leaves --tile
  You can now use the [Seamless Texture Checker](https://www.pycheung.com/checker/) to see the tile repeat and download it to your system. Whereas, if you want to use it as wallpaper like I do, follow these steps. On your Windows 11 system, go to Settings > Personalize > Background. Pick "Picture" under the option "Personalize Your Background" and select the image under "Choose A Photo field." Then, select “Tile” under "Choose A Fit for your desktop image," and voilà!
 
 ![Creating a Desktop wallpaper using Midjourney image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/creating-a-desktop-wallpaper-using-midjourney-image-1.png) 
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -250,17 +262,17 @@ a pattern of autumn leaves --tile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] 2024 Approved How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-dominates-the-2023-everest-group-id-5-assessment-peaking-with-excellence/"><u>ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-reduce-latency-for-gaming-2024-tips/"><u>How to Reduce Latency for Gaming - 2024 Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-core-ideas-behind-mixed-reality/"><u>In 2024, The Core Ideas Behind Mixed Reality</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unmatched-value-game-changing-voice-switcher-for-valorant-awaits-you/"><u>In 2024, Unmatched Value, Game-Changing Voice Switcher for Valorant Awaits You</u></a></li>
-<li><a href="https://some-tips.techidaily.com/la-participation-dabbyy-a-la-conference-documation-2016-une-partenariat-strategique-avec-xerox-et-abildoc/"><u>La Participation D'ABBYY À La Conférence Documation 2016: Une Partenariat Stratégique Avec Xerox Et AbilDoc</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/master-the-art-of-opening-and-streaming-vob-movies-directly-from-your-windows-1011-device-tips-and-tricks-for-a-seamless-experience/"><u>Master the Art of Opening and Streaming VOB Movies Directly From Your Windows 10/11 Device: Tips & Tricks for a Seamless Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximizing-performance-in-policy-oversight-key-strategies-and-benefits-with-abbyy-automation-solutions/"><u>Maximizing Performance in Policy Oversight: Key Strategies and Benefits with ABBYY Automation Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895345404-ultimate-list-of-gmails-most-useful-keyboard-shortcuts-boost-your-efficiency-today/"><u>Ultimate List of Gmail's Most Useful Keyboard Shortcuts: Boost Your Efficiency Today!</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-c67-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme C67 5G? Here is How | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-clipped-onto-youtube-audio-submission-made-easy-for-2024/"><u>[New] Get Clipped Onto YouTube Audio Submission Made Easy for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-film-color-correction-with-luts/"><u>[New] In 2024, Mastering Film Color Correction with Luts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-youtube-comments-with-emoji-skills/"><u>[Updated] 2024 Approved Elevating Your YouTube Comments with Emoji Skills</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-best-applications-tiktok-vs-youtubes-micro-video-realm/"><u>[Updated] Exploring Best Applications TikTok vs YouTube's Micro-Video Realm</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-piecing-a-puzzle-of-cinematic-highlights/"><u>[Updated] Piecing a Puzzle of Cinematic Highlights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-handbook-of-personal-branding-mastering-facebook-biographies/"><u>[Updated] The Essential Handbook of Personal Branding - Mastering Facebook Biographies</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events-for-2024/"><u>[Updated] Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formateo-libre-de-archivos-aac-a-aiff-por-movavi-metodo-facil-y-sin-coste/"><u>Formateo Libre De Archivos AAC a AIFF Por Movavi: Método Fácil Y Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-convertir-videos-flv-en-formatos-de-audio-mp3-gratuitamente-mediante-movavi/"><u>Guía Paso a Paso Para Convertir Videos FLV en Formatos De Audio MP3 Gratuitamente Mediante Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cost-cutting-camera-options-discover-top-6-cheap-action-cams/"><u>In 2024, Cost-Cutting Camera Options Discover Top 6 Cheap ACTION Cams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-peak-palette-manager-suite/"><u>In 2024, Peak Palette Manager Suite</u></a></li>
 </ul></div>
 

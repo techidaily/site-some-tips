@@ -1,7 +1,7 @@
 ---
 title: Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience
-date: 2024-09-13T16:08:12.298Z
-updated: 2024-09-17T16:06:23.974Z
+date: 2024-09-17T18:17:28.976Z
+updated: 2024-09-22T17:34:27.013Z
 tags:
   - cutting-edge
 categories:
@@ -63,6 +63,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![ChatGPT explaning the mkfs command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-explaning-the-mkfs-command.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a Linux user, there will be many times you'll have to copy and paste large commands from the internet. Sometimes, there will be no explanation of what that command does. You can copy the command and ask ChatGPT what it does before you run it on your Linux system.
 
  When I was new to Linux, I was having a hard time understanding what **sudo apt update && sudo apt upgrade** did. But ChatGPT now makes it easy to understand. Here's another example.
@@ -80,16 +87,10 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 ![ChatGPT acting as a Linux terminal where the user can input Linux commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-acting-as-a-linux-terminal.png) 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Linux Errors
@@ -106,20 +107,6 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT demonstrating the command for installing software on openSUSE](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-demonstrating-the-command-for-installing-software-on-opensuse.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Learn How to Do Something on Linux
 
  A common [mistake new Linux users make](https://screen-capture.techidaily.com/updated-cross-platform-zoom-meeting-setup-guide-for-2024/) is to think that Linux is the same as Windows. That's not the case. So when you [switch to Linux](https://fox-http.techidaily.com/customize-with-ease-adding-personalized-audio-to-android-devices/) from Windows for the first time, you'll have to change many of your workflows. From [installing software](https://extra-guidance.techidaily.com/smarter-spending-on-cloud-data-services-insights-and-recommendations-for-2024/) and [monitoring processes](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nubia-z50s-pro-drfone-by-drfone-virtual/) to [navigating the system](https://audio-shaping.techidaily.com/updated-decoding-vimeos-video-dimensions-a-complete-perspective-on-aspect-ratios-for-2024/), and configuring the settings.
@@ -130,14 +117,14 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 ![ChatGPT giving Linux alternatives of Windows Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-giving-linux-alternatives-of-windows-task-manager.png) 
 
- So it gives you all the Linux alternatives to Task Manager. Likewise, you can ask ChatGPT for any step-by-step process of doing an activity on Linux, and it'll show you how to do that.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ So it gives you all the Linux alternatives to Task Manager. Likewise, you can ask ChatGPT for any step-by-step process of doing an activity on Linux, and it'll show you how to do that.
 
 ##  Creating Bash Scripts to Automate Tasks
 
@@ -146,6 +133,13 @@ find /var/log -type f -mtime +30 -exec rm {} \;
  For example, I asked ChatGPT to write a Bash script that would log memory and CPU usage every minute.
 
 ![ChatGPT creating a Bash script for monitoring memory and CPU usage](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-bash-script-for-monitoring-memory-and-cpu-usage.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It created a Bash script with proper comments on what's happening in the code. It went further and also provided instructions on using the script, customizing it, and running it in the background. Pretty neat!
 
@@ -172,15 +166,20 @@ find /var/log -type f -mtime +30 -exec rm {} \;
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[New] In 2024, Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-shorts-guide-what-is-it-and-how-to-make-shorts-video/"><u>[Updated] YouTube Shorts Guide What Is It and How To Make Shorts Video?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-decoding-the-code-for-quick-fb-media/"><u>2024 Approved Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/size-doesnt-limit-excellence-a-comprehensive-review-of-the-iphone-12-mini-by-apple/"><u>Size Doesn't Limit Excellence: A Comprehensive Review of the iPhone 12 Mini by Apple</u></a></li>
-<li><a href="https://video-capture.techidaily.com/smartphones-and-tablets-leading-gb-gameplayers/"><u>Smartphones & Tablets Leading GB Gameplayers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide to Setting Up System Restore on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-how-to-determine-your-windows-10-edition-and-build/"><u>Step-by-Step Guide: How to Determine Your Windows 10 Edition and Build</u></a></li>
-<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-valkyrie-vind-sl125-reviewed-stunning-design-yet-lacking-in-robust-performance/"><u>The Valkyrie Vind SL125 Reviewed: Stunning Design, Yet Lacking in Robust Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227316560-df-sqrt-12-plus-82-sqrt1-plus-64-sqrt65/"><u> [D_F = Sqrt{(-1)^2 + 8^2} = Sqrt{1 + 64} = Sqrt{65} </u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-step-by-step-techniques-for-optimal-voice-recording-on-set/"><u>[New] In 2024, Step-By-Step Techniques for Optimal Voice Recording on Set</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-an-in-depth-look-at-time-lapse-photography-using-ipad-for-2024/"><u>[Updated] An In-Depth Look at Time-Lapse Photography Using iPad for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-chromatics-a-practical-approach/"><u>2024 Approved Mastering Chromatics A Practical Approach</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-produce-playful-photoshopped-gifs-via-giphy/"><u>2024 Approved Produce Playful Photoshopped Gifs via Giphy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-generar-una-imagen-animada-gif-a-partir-de-un-video-en-internet-sin-coste/"><u>Cómo Generar Una Imagen Animada (GIF) a Partir De Un Video en Internet Sin Coste</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-ring-video-doorbell-plus-assessment/"><u>Comprehensive Ring Video Doorbell Plus Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/een-beginnersguide-voor-png-bestandstypen-waarom-het-bevinden-van-pngs-voor-jouw-webproject-nodig-kan-zijn/"><u>Een Beginnersguide Voor PNG-Bestandstypen: Waarom Het Bevinden Van PNGs Voor Jouw Webproject Nodig Kan Zijn</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-konverteren-van-mkv-naar-avi-professioneel-onlinetool-moveave/"><u>Gratis Konverteren Van MKV Naar AVI: Professioneel Onlinetool - Moveave</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-convertisseur-video-avi-en-ogv-par-movavi/"><u>Gratuit Online : Convertisseur Vidéo AVI en OGV Par Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-magic-5-lite-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Magic 5 Lite to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-demystifying-facebooks-new-short-form-video-model/"><u>In 2024, Demystifying Facebook's New Short-Form Video Model</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-to-mpg-file-changer-downloadable-app-offers-fast-no-cost-upgrades-with-movavis-help/"><u>MP4 to MPG File Changer: Downloadable App Offers Fast, No-Cost Upgrades with Movavi's Help</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-tiff/"><u>PNG 및 TIFF 파일을 무료로 바꾸는 - 컴퓨터 화상 라이브리스</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-dire-directx-complications-error-resolution-strategies/"><u>The Definitive Solution to Dire DirectX Complications: Error Resolution Strategies</u></a></li>
 </ul></div>
 

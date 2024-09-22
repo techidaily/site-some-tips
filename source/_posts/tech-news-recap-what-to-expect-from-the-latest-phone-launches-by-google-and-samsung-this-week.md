@@ -1,7 +1,7 @@
 ---
 title: "Tech News Recap: What to Expect From the Latest Phone Launches by Google and Samsung This Week"
-date: 2024-09-11T16:01:07.049Z
-updated: 2024-09-17T16:02:51.484Z
+date: 2024-09-19T19:02:52.103Z
+updated: 2024-09-22T19:26:04.344Z
 tags:
   - cutting-edge
 categories:
@@ -23,6 +23,13 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Third-party components will no longer disable True Tone or battery health.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
  The Steam games client now has a built-in background screen recorder, and it even works on the Steam Deck.
@@ -39,34 +46,20 @@ Valve
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
@@ -77,15 +70,28 @@ Valve
 Motorola
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
@@ -112,20 +118,20 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-can-you-screen-record-snapchat-on-mobile-phone/"><u>[New] How Can You Screen Record Snapchat on Mobile Phone?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-maximizing-content-impact-bypassing-virtual-onlookers/"><u>[Updated] 2024 Approved Maximizing Content Impact Bypassing Virtual Onlookers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-protect-your-privacy-why-you-should-avoid-sharing-your-personal-email-with-businesses/"><u>1. Protect Your Privacy: Why You Should Avoid Sharing Your Personal Email with Businesses</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-budding-filmmakers-best-gopro-upgrades/"><u>2024 Approved Budding Filmmakers Best GoPro Upgrades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/august-9th-new-york-times-insight-decode-todays-424-connection-clues/"><u>August 9Th New York Times Insight: Decode Today’s #424 Connection Clues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/avoid-these-5-mistakes-not-everything-should-be-stored-in-the-cloud/"><u>Avoid These 5 Mistakes - Not Everything Should Be Stored in the Cloud</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/catalina-transition-made-simple-the-ultimate-guide/"><u>Catalina Transition Made Simple: The Ultimate Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/chromes-new-feature-could-enable-direct-appreciation-payments-to-sites/"><u>Chrome's New Feature Could Enable Direct Appreciation Payments to Sites</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-x50i-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor X50i</u></a></li>
-<li><a href="https://some-tips.techidaily.com/crack-the-puzzle-with-todays-nyt-july-11-connections-hints-and-answer-part-396/"><u>Crack the Puzzle with Today's NYT - July 11 Connections Hints and Answer, Part #396</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-x5-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Poco X5 Lock Screen Password?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforming-education-with-instructional-videos-for-2024/"><u>Transforming Education with Instructional Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-strategies-for-eye-popping-fb-ad-videos/"><u>[New] 2024 Approved Strategies for Eye-Popping FB Ad Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-use-movie-maker-on-windows-8/"><u>[New] How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-comprehensive-look-at-youtubes-adsense-mechanisms/"><u>[New] In 2024, A Comprehensive Look at YouTube's AdSense Mechanisms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-securing-your-social-snapshot-instagram-edition/"><u>[New] Securing Your Social Snapshot Instagram Edition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-the-immersive-world-tips-for-recording-vr-games/"><u>2024 Approved Capturing the Immersive World Tips for Recording VR Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-wavram/"><u>網路直接無償轉框音效-MOVAVI 壓縮模式 WAV到RAM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-aiff-a-wmv-su-internet-utilizzando-movavi-il-processo-facile/"><u>Conversione Libera AIFF a WMV Su Internet Utilizzando Movavi - Il Processo Facile!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-un-fichier-mp2-au-format-mp4-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier MP2 Au Format MP4 Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-no-cost-audio-converters-for-windows-and-macos-including-web-apps-a-review-by-movavi/"><u>Discover the Ultimate Selection of No-Cost Audio Converters for Windows and macOS, Including Web Apps - A Review by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-3d-animation-software-for-free-in-2/"><u>Discover the Ultimate Selection: 3D Animation Software for Free in 2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-6-cartes-graphiques-superieures-pour-un-montage-video-optimal-en-2024-top-picks/"><u>Les 6 Cartes Graphiques Supérieures Pour Un Montage Vidéo Optimal en 2024 : Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-3gpp-wav/"><u>Movaviですばやく変換! 無料オンライン3GPP WAVファイル - 最適化ガイド付き</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revive-your-ipad-with-a-fresh-battery-a-how-to-article/"><u>Revive Your iPad with a Fresh Battery: A How-To Article</u></a></li>
 </ul></div>
 

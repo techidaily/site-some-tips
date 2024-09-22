@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Collaboration: Qualcomm Teams Up With Samsung & Google on Groundbreaking AR Glasses"
-date: 2024-09-17 13:37:54
-updated: 2024-09-20 11:15:59
+date: 2024-09-19T19:15:49.798Z
+updated: 2024-09-22T17:06:51.393Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-piecing-together-engaging-stream-previews/"><u>[New] Piecing Together Engaging Stream Previews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4ogvmovavi/"><u>無料で使えるMP4に簡単変換!動画形式OGVをMovaviでオンライン変更する方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-e-importar-videos-desde-youtube-sin-costo-alguno-con-la-herramienta-de-conversion-movavi/"><u>Descargar E Importar Videos Desde YouTube Sin Costo Alguno Con La Herramienta De Conversión MOVAVI</u></a></li>
+<li><a href="https://facebook.techidaily.com/duplicitous-dms-verify-user-authenticity/"><u>Duplicitous DMs: Verify User Authenticity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-converting-web-files-with-movavi-omzetten-online/"><u>Gratis Converting Web Files with Movavi - Omzetten Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-x90s-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo X90S?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-revolutionize-your-virtual-engagements-with-advanced-google-meet-customization/"><u>In 2024, Revolutionize Your Virtual Engagements with Advanced Google Meet Customization</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-responsiveness-restored-solving-windows-11s-typing-delays-issue/"><u>Keyboard Responsiveness Restored - Solving Windows 11'S Typing Delays Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-video-editeur-dachat-transactions-protegees-en-gros-et-soldes-inedits/"><u>Movavi Vidéo Éditeur D'Achat - Transactions Protegées en Gros Et Soldes Inédits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switch-your-videos-from-mp4-to-asf-seamlessly-get-started-now-no-cost-involved/"><u>Switch Your Videos From MP4 to ASF Seamlessly - Get Started Now, No Cost Involved!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-asus-rog-phone-8-by-drfone-android/"><u>Three Ways to Sim Unlock Asus ROG Phone 8</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-bottleneck-estimators-may-lack-precision-my-reasons-for-continuing-their-use/"><u>Why Bottleneck Estimators May Lack Precision: My Reasons for Continuing Their Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wav-wma-movavi/"><u>온라인 제공: WAV-WMA 변환은 세금 지불 없이 가능하며, Movavi로!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

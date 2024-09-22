@@ -1,7 +1,7 @@
 ---
 title: "Guide: Configuring Your PC with Windows 11 - No Microsoft Account Required"
-date: 2024-09-11T16:11:25.582Z
-updated: 2024-09-17T16:06:07.525Z
+date: 2024-09-15T17:28:31.474Z
+updated: 2024-09-22T18:57:52.814Z
 tags:
   - deals
 categories:
@@ -58,6 +58,13 @@ Close
 
  Click "Continue with limited setup" on the next page if it appears, and then you'll be able to create a local account with a password and three security questions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Install Windows 11 Without a Microsoft Account Using Rufus
 
 [Rufus](https://rufus.ie/en/) is a tool that can create bootable media from an ISO. It does everything the Windows Media Creation tool does, except it has additional options and works with [almost any operating system out there](https://instagram-video-files.techidaily.com/updated-elevate-your-instagram-game-with-pro-edit-techniques/).
@@ -98,11 +105,25 @@ Close
 
  It is smooth sailing after you change the boot order. Windows 11 will walk you through the rest of the installation process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Create a Local Account on Windows 11
 
  You can create additional Windows accounts that aren't linked to existing Microsoft Accounts, though it's easy to miss the cues. To do this, launch the Settings app and then navigate to Accounts > Other users. Click on the "Add Account" button to create another user account.
 
 ![The 'Other Users' section of the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/other-users.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A new window will appear inviting you to type the email address or phone number of the person you wish to add. You can dismiss this using the "I don't have this person's sign in information" link just below the text field. 
 
@@ -114,13 +135,6 @@ Close
 
  The account will now be added to your computer. Click on Start followed by your username then select "Sign out" to log in to the account.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Convert an Existing Microsoft Account to a Local Account
 
  The easy workaround using Rufus to install Windows 11 without a Microsoft account only appeared a few months prior to the release of [Windows 11's 2022 Update](https://tech-renaissance.techidaily.com/watch-your-favorite-shows-on-hulu-with-this-simple-setup-for-lg-tvs/), so most people currently using Windows 11 will have Microsoft logins.
@@ -131,34 +145,26 @@ Close
 
 ![Select 'Accounts,' then scroll down until you see 'Your Info.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accounts-your-info.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Scroll towards the bottom and click "Sign In With A Local Account Instead." If you get a huge popup warning you about backing up your BitLocker key,**_do not ignore it_.** Your drive is encrypted, and if something happens, you could lose access to all of your files without the recovery key. Make sure you [back up your BitLocker encryption key](https://instagram-clips.techidaily.com/2024-approved-engaging-users-with-instagrams-interactive-survey-feature/) before proceeding, then click through the next few prompts. You may need to pick a username, password, and password hint, then go to the next page and click "Sign Out And Finish."
 
 ![The popup to switch to a local account on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/switching-to-local.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should probably restart your PC even after you sign out just to fix any weird bugs that crop up. You also need to be careful now. Your account is a local-only account, which means that Microsoft won't be able to help you regain access if you forget something.
 
  Additionally, if you attempt to encrypt your drive on a local account, you'll be told you need to sign in to a Microsoft account to finish the process. That is not accurate — your drive will be encrypted even if you do not sign in, so be sure to make a copy of your recovery key.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Remove a Microsoft Account From Windows 11
 
@@ -195,12 +201,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-beginners-guide-to-perfecting-gopro-footage/"><u>[New] In 2024, Beginner's Guide to Perfecting GoPro Footage</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-navigating-slack-integration-with-filmora-for-seamless-video-conferences/"><u>[Updated] 2024 Approved Navigating Slack Integration with Filmora for Seamless Video Conferences</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/perfecting-your-reel-integrating-music-on-instagram/"><u>Perfecting Your Reel Integrating Music on Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionize-your-marketing-analytics-with-our-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your Marketing Analytics with Our Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seamless-integration-abbyy-connects-with-automation-anywhere/"><u>Seamless Integration: ABBYY Connects with Automation Anywhere</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-endless-possibilities-the-future-of-document-capture-solutions-insights-from-abbyy/"><u>Unleashing Endless Possibilities: The Future of Document Capture Solutions - Insights From ABBYY</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ar-merging-physical-and-fictional-worlds/"><u>[New] 2024 Approved AR Merging Physical and Fictional Worlds</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-your-phones-potential-for-high-quality-snapchat-recordings-for-2024/"><u>[New] Unlock Your Phone's Potential for High-Quality Snapchat Recordings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-the-process-of-recording-in-adobe-presenter/"><u>[Updated] Unveiling the Process of Recording in Adobe Presenter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webmmkv-movavi/"><u>無料WebM到MKV同步變更 - 使用Movavi的簡易指南</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mac/"><u>移动碟中文：移視影片編輯器(Mac版) - 對應多种影片和音频格式</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221222630-mkvwma-movavi/"><u>在線無成本MKV變更為WMA - 利用 Movavi的編輯器</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/amplify-detail-top-tips-for-shooting-up-closer-with-videoleap-for-2024/"><u>Amplify Detail Top Tips for Shooting Up Closer with VideoLeap for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehhemic-approach-eliminating-the-ark-crashing-point-with-expertise/"><u>Comprehhemic Approach: Eliminating the 'Ark' Crashing Point with Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/eliteres-converter-windows-mac-and-online-access/"><u>EliteRes Converter Windows, Mac & Online Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-for-mp3-to-aac-with-opus-support-moveave/"><u>Free Online Converter for MP3 to AAC with Opus Support - Moveave</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-facile-pour-convertir-des-videos-m2p-en-mp4-sans-frais-utilisez-movavi-maintenant/"><u>Guide Facile Pour Convertir Des Vidéos M2P en MP4 Sans Frais - Utilisez Movavi Maintenant !</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-subtle-art-of-easing-audio-intensity-garageband/"><u>In 2024, The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mpg-wav-movavi/"><u>MPG 동메모리 WAV로 전환 - 무료 Movavi 서비스</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/say-goodbye-to-imovie-the-best-video-editing-software-for-windows-10-for-2024/"><u>Say Goodbye to iMovie The Best Video Editing Software for Windows 10 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-distinction-between-wav-and-mp3-file-formats-a-deep-dive/"><u>Understanding the Distinction Between WAV and MP3 File Formats: A Deep Dive</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-how-to-add-bitmoji-to-keyboard-complete-guide/"><u>Updated 2024 Approved How to Add Bitmoji to Keyboard? Complete Guide</u></a></li>
 </ul></div>
 

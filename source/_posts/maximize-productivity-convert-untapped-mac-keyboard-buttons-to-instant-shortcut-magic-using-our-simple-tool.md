@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool"
-date: 2024-09-13T16:05:49.510Z
-updated: 2024-09-17T16:02:41.480Z
+date: 2024-09-20T19:03:41.743Z
+updated: 2024-09-22T19:27:57.715Z
 tags:
   - desktop
 categories:
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
  Hence, you can use it to create custom keyboard shortcuts for various apps and functionalities without worrying about them interfering with the existing ones.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Can You Do With Hyperkey?
 
  Hyperkey serves two purposes, but there are multiple ways you can put this to use. Let's jump in to see how.
@@ -65,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![Hyper key enabled and set to Caps Lock key in the Hyperkey app on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you don't want to use Caps Lock as the hyper key, you can select another modifier key. Simply click the drop-down next to "Remap Physical Key to Hyper Key" and select your preferred key from the list.
 
 ![Hyper key enabled and set to Right Option key in the Hyperkey app on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-3.jpg) 
@@ -74,10 +74,17 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 ![Include Shift in Hyper Key option enabled in Hyperkey app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Remap Caps Lock and Set Up a Hyper Key
@@ -92,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 ![Hyperkey app settings with hyper key enabled and Caps Lock remapped to delete forward action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/use-hyperkey-to-turn-unused-mac-keys-into-super-shortcuts-4.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Consequently, you can press Caps Lock to mimic the key you remapped it to and use the other modifier key—you set as the hyper key—in combination with other keys to set up new shortcuts.
 
 ###  Continue to Use Caps Lock for Its Default Function
@@ -100,23 +114,9 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
  Once done, any time you want to activate Caps Lock, you can do so with a quick press (and release) of the key. Pressing the key for longer will perform the function of the other modifier key or the hyper key when pressed with other key(s).
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  What Should You Use Hyperkey For?
 
  Now that you're familiar with what Hyperkey is capable of, let me tell you what I use it for to give you an idea of how to use it on your Mac. You'll need to set up these keyboard shortcuts inside individual apps like Raycast or Shortcuts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Using Hyperkey With Raycast to Simplify System Operations
 
@@ -129,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  The Shortcuts app enables you to automate a lot of your repetitive tasks on the Mac. I have close to 65 shortcuts to help me with all sorts of tasks. Thanks to Hyperkey, I've set up unique keyboard shortcuts to quickly trigger some of these [shortcuts I use on my Mac frequently](https://buynow-help.techidaily.com/expert-review-how-the-new-apple-iphone-12-sets-the-bar-higher-than-ever/).
 
  Edit a shortcut within the Shortcuts app and use the "Add Keyboard Shortcut" button to do this.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Using Hyperkey With Automator to Quickly Run Your Quick Actions
 
@@ -145,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
  Last but not least, I also use Hyperkey to create shortcuts to launch my most-used apps. A good use case for this is to set up a keyboard shortcut to open your password manager app quickly, but you can have it for just about any app on your Mac.
 
  To do this, create a new Automator Quick Action with the "Launch Application" action and save it. Now head to System Settings > Keyboard > Keyboard Shortcuts and assign a keyboard shortcut to the action in the "Services" section.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Hyperkey's Simplistic Approach Makes It More Effective
 
@@ -172,19 +172,16 @@ thumbnail: https://thmb.techidaily.com/000e56d00bac67101c26bbcafc9a191ee8cdd2649
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-10-camera-lenses-to-use/"><u>[New] Best 10 Camera Lenses to Use</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[New] In 2024, Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ideas-for-creating-sequences-of-iphone-burst-images/"><u>[New] In 2024, Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-next-level-action-gopro-hero5-black-meets-hero4-silver-for-2024/"><u>[New] Next-Level Action GoPro Hero5 Black Meets Hero4 Silver for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-reverse-video-order-on-your-ios-gadget/"><u>[New] Reverse Video Order on Your iOS Gadget</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-conversion-of-text-from-pdfjpg-to-digital-using-iphones-ocr-scanner/"><u>Effortless Conversion of Text From PDF/JPG to Digital Using iPhone's OCR Scanner</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-optimized-with-the-power-of-cookiebot/"><u>Enhanced Conversion Tracking: Optimized with the Power of Cookiebot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-traffic-via-cutting-edge-cookiebot-solutions/"><u>Enhanced Traffic via Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-dynamic-cookiebot-analytics/"><u>Enhanced User Engagement with Dynamic Cookiebot Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-through-advanced-analytics-backed-by-cookiebots-expertise/"><u>Enhanced User Experience Through Advanced Analytics - Backed by Cookiebot's Expertise</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-s23-fe-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy S23 FE to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-poco-x5-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Poco X5 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/screenplay-excellence-genre-based-achievement-showcase-for-2024/"><u>Screenplay Excellence Genre-Based Achievement Showcase for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-reels-add-sound-for-impactful-storytelling-for-2024/"><u>[New] Elevate Your Reels Add Sound for Impactful Storytelling for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-uncloaked-resolved-youtube-shorts-gone-miss/"><u>[New] Uncloaked Resolved YouTube Shorts Gone Miss</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-craftsman-of-the-multimedia-medley/"><u>[Updated] In 2024, Craftsman of the Multimedia Medley</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-boost-your-posts-with-these-8-instagram-scheduling-apps/"><u>2024 Approved Boost Your Posts with These 8 Instagram Scheduling Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-system-specs-to-elevate-your-big-sur-experience/"><u>2024 Approved System Specs to Elevate Your Big Sur Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-y-convertir-archivos-ogm-a-formatos-de-video-en-linea-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos OGM a Formatos De Video en Línea Sin Coste Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mp4-effortless-video-format-changing-with-movavi/"><u>Free Online Converter: AVI to MP4 - Effortless Video Format Changing with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-webm-para-ogv-online-moviavi/"><u>Gratuito Conversor De WebM Para OGV Online - Moviávi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-cargar-videos-en-tiktok-desde-una-computadora/"><u>Guía Paso a Paso Para Cargar Vídeos en TikTok Desde Una Computadora</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-aus-mkv-bequem-konvertieren-schnell-effizient-und-qualitat-bewahrt/"><u>MP4 Aus MKV Bequem Konvertieren – Schnell, Effizient Und Qualität Bewahrt!</u></a></li>
 </ul></div>
 

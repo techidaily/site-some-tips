@@ -1,7 +1,7 @@
 ---
 title: The Hidden Costs of Mining Bitcoin on Your Personal Computer
-date: 2024-09-11T16:10:51.077Z
-updated: 2024-09-17T16:08:56.856Z
+date: 2024-09-15T18:21:48.447Z
+updated: 2024-09-22T19:08:00.625Z
 tags:
   - cutting-edge
 categories:
@@ -45,6 +45,13 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
 
  Modern laptops don't have many moving parts anymore. Mechanical hard drives and optical drives are quickly going the way of the dodo, but computers still use spinning fans to move air through the system and carry heat with it.
@@ -54,16 +61,16 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  Modern laptops dynamically adjust fan speeds to match the thermal load, with some even switching them off when the system is only under a light load. If you're mining cryptocurrency, they'll be screaming headlong towards the end.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Thermal Battery Aging
@@ -71,13 +78,6 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  While most of your electronic components will probably be fine as long as they stay within the rated safe temperate range, one component that might not take the heat well is the laptop's battery. Lithium-ion batteries should operate between -20 °C to 60 °C depending on the specific application and manufacturer recommendation. If they are exposed to temperatures higher than that, they can degrade and have their lifespans shortened due to an effect known as thermal aging.
 
  In 2018, Shuai Ma and colleagues published a [paper on thermal impact and lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S1002007118307536). They cite research showing that lithium batteries subjected to 75 °C for a few days show severe degradation. While that doesn't mean sustained high temperatures in your laptop will kill your batteries quickly, it's worth remembering that components like the GPU can hit temperatures close to 100 °C, especially in a laptop where the line between "safe" and "too hot" is very thin.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Laptops Are Bad at Mining, Anyway
 
@@ -100,21 +100,13 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-next-level-splitting-tools-beyond-xsplit-for-2024/"><u>[Updated] Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-googles-leap-forward-an-insight-into-the-power-of-palm-2-technology/"><u>Decoding Google’s Leap Forward: An Insight Into the Power of PaLM 2 Technology</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/elevate-your-video-projects-storyremix-meets-windows-11-photos-for-2024/"><u>Elevate Your Video Projects StoryRemix Meets Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhancing-engagement-best-practices-for-b-roll-integration/"><u>Enhancing Engagement Best Practices for B Roll Integration</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-realme-12-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Realme 12 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/legacy-techs-leap-into-the-win11-era-a-roadmap/"><u>Legacy Tech's Leap Into the Win11 Era: A Roadmap</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-retrieve-your-lost-instagram-login-credentials/"><u>Step-by-Step Guide: Retrieve Your Lost Instagram Login Credentials</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-tutorial-on-portable-drivereasy-for-mobile-troubleshooting/"><u>Step-by-Step Tutorial on Portable DriverEasy for Mobile Troubleshooting</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722844917969-top-15-sites-offering-complimentary-music-downloads/"><u>Top 15 Sites Offering Complimentary Music Downloads</u></a></li>
-<li><a href="https://some-skills.techidaily.com/total-data-usage-24-hour-videography-in-gbs-for-2024/"><u>Total Data Usage 24-Hour Videography in GBs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-august-9s-nyt-puzzle-connect-and-answer-challenge-424/"><u>Unlock the Secrets of August 9'S NYT Puzzle - Connect & Answer Challenge #424</u></a></li>
-<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wireguard-integration-available-in-proton-vpns-new-release-improved-privacy-and-speed-for-linux-users/"><u>WireGuard Integration Available in Proton VPN's New Release – Improved Privacy and Speed for Linux Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-look-into-the-future-of-camera-multicam-systems-for-2024/"><u>[New] A Look Into the Future of Camera Multicam Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227204664-movavijpgpng/"><u>「Movaviで簡単！無料のJPGとPNG画像交換ツール」</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-spectral-imagery-phantasmal-camera-analysis/"><u>2024 Approved Spectral Imagery Phantasmal Camera Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-el-mejor-convertidor-wmv-a-wma-gratuito-en-linea-con-movavi/"><u>Descargar El Mejor Convertidor WMV a WMA Gratuito en Línea Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-8-torrent-sites-for-fan-favorite-tv-shows-exploring-with-movavi/"><u>Discover the Ultimate 8 Torrent Sites for Fan-Favorite TV Shows – Exploring with Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-fbx-guide-to-flawless-gameplay-archives/"><u>In 2024, FBX Guide to Flawless Gameplay Archives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-artistic-science-behind-youtube-live-imagery-for-2024/"><u>The Artistic Science Behind YouTube Live Imagery for 2024</u></a></li>
 </ul></div>
 

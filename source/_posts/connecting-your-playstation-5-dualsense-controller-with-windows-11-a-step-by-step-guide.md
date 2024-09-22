@@ -1,7 +1,7 @@
 ---
 title: Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide
-date: 2024-09-16T16:02:08.388Z
-updated: 2024-09-17T16:09:59.373Z
+date: 2024-09-16T16:05:53.291Z
+updated: 2024-09-22T17:37:23.962Z
 tags:
   - desktop
 categories:
@@ -71,48 +71,48 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
 
@@ -141,14 +141,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ontent-creation-conundrum-where-to-go-for-2024/"><u>[New] Content Creation Conundrum Where to Go for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-nextgen-recording-movavis-new-tech-showcase/"><u>[Updated] In 2024, NextGen Recording Movavi's New Tech Showcase</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-stay-ahead-adapting-your-approach-for-instagrams-evolved-feed-for-2024/"><u>[Updated] Stay Ahead Adapting Your Approach for Instagram’s Evolved Feed for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/94-der-firmen-verlieren-potenzielle-kunden-wahrend-des-onboarding-prozesses-wie-kann-das-vermieden-werden/"><u>94% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alteryx-and-abbyy/"><u>Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-top-7-utilities-of-samsungs-texting-service/"><u>Discover the Top 7 Utilities of Samsung's Texting Service</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-seamless-screen-saving-on-iphone/"><u>In 2024, Seamless Screen Saving on iPhone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/unlocking-the-secrets-of-easy-fixes-in-hawkui-vehicles/"><u>Unlocking the Secrets of Easy Fixes in Hawkui Vehicles</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-analysis-updated-s3700-bd-player/"><u>[New] Comprehensive Analysis Updated S3700 BD Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>In 2024, Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-vob-files-on-pc-la-tua-guida-essenziale-ai-letti-multimedia-piu-performanti-per-sistemi-windows-e-macos/"><u>Mastering VOB Files on PC: La Tua Guida Essenziale Ai Letti Multimedia Più Performanti per Sistemi Windows E MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225704509-mkvmp3-movavi/"><u>MKV到MP3自由下載：使用 Movavi 電影/音頻編碼工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-sound-output-on-non-responsive-windows/"><u>Restoring Sound Output on Non-Responsive Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-seamlessly-cutting-and-splitting-your-videos-into-pieces/"><u>The Ultimate Guide: Seamlessly Cutting and Splitting Your Videos Into Pieces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-transforming-mts-into-mp4-easy-steps-for-windows-and-mac-users/"><u>Ultimate Guide: Transforming MTS Into MP4 - Easy Steps for Windows & Mac Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-troubleshooting-tips-for-minecraft-opengl-error-correction/"><u>Ultimate Troubleshooting Tips for Minecraft OpenGL Error Correction</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-dominance-of-amds-flagship-cpu-how-the-zen-5-based-ryzen-9-9950x-outperforms-its-predecessor-the-ryzen-9-7950x-by-24-in-rendering-tests/"><u>Unveiling the Dominance of AMD's Flagship CPU: How the Zen 5-Based Ryzen 9 9950X Outperforms Its Predecessor, the Ryzen 9 7950X by 24% in Rendering Tests</u></a></li>
 </ul></div>
 

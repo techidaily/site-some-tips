@@ -1,7 +1,7 @@
 ---
 title: "Collaboration Between Qualcomm, Samsung & Google Unveils Breakthrough: The Rise of Mixed Reality Smart Glasses - Insights From a Privileged Source"
-date: 2024-09-18 10:57:55
-updated: 2024-09-20 10:52:36
+date: 2024-09-20T17:55:41.496Z
+updated: 2024-09-22T17:00:06.742Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-elevate-your-video-entrance-with-these-tools/"><u>[New] In 2024, Elevate Your Video Entrance with These Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-hidden-instagram-story-views-for-2024/"><u>[Updated] Unlock Hidden Instagram Story Views for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaviwtvmpgmp4/"><u>「Movaviプログラムを使用したオンデマンドWTVファイルからMPG/MP4への自由解放変換ガイド」</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-tranquil-tracks-easy-volume-diminution-via-garageband/"><u>2024 Approved Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/balanced-hue-enhancer-suite/"><u>Balanced Hue Enhancer Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-avi-a-m2ts-gratuit-une-solution-simple-et-efficace-avec-convertim2ts-online/"><u>Conversion AVI À M2TS Gratuit - Une Solution Simple Et Efficace Avec ConvertiM2Ts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuitas-conversor-de-mp4-para-wmv-online-utilizar-o-moviemaker-pelo-movavi/"><u>Gratuitas Conversor De MP4 Para WMV Online - Utilizar O MovieMaker Pelo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-beste-software-voor-het-behandelen-van-stamppuntsproblemen-eenlijst/"><u>Het Beste Software Voor Het Behandelen Van Stamppuntsproblemen: Eenlijst!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-follower-deletion-identification-for-2024/"><u>Instagram Follower Deletion Identification for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streaming-quality-comparison-obs-or-fraps-for-2024/"><u>Streaming Quality Comparison OBS or Fraps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-free-sites-for-downloading-anime-without-spending-a-penny/"><u>Top 8 Free Sites for Downloading Anime Without Spending a Penny</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphones-charging-on-hold-alert-with-these-8-tips/"><u>Troubleshoot Your iPhone’s ‘Charging on Hold Alert’ with These 8 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225349542-gsm-mp3-movavi/"><u>온라인 GSM MP3 프로세스를 간단한 방식으로 무료 변환 - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

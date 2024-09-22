@@ -1,7 +1,7 @@
 ---
 title: "Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users"
-date: 2024-09-12T16:11:59.082Z
-updated: 2024-09-17T16:01:24.399Z
+date: 2024-09-18T19:11:57.822Z
+updated: 2024-09-22T19:08:10.552Z
 tags:
   - desktop
 categories:
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
  What you do next depends on what you're trying to achieve. Just be careful in there---modifying or moving a program's files can make it not work properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  If You Can't Find a Shortcut to Use
 
  If a shortcut to the program whose EXE you want to find isn't easily available, you should first check "C:\\Program Files" or "C:\\Program Files (x86)" on your machine to find the application's main program folder. Look for a folder with a name similar to the publisher of the program, or the name of the application itself. Open it, and you might find the EXE you're looking for inside.
@@ -60,26 +67,13 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ![Enter %appdata% into the address bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-appdata.png) 
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There is no hard and fast rule about what apps will install to one of the Program Files folders and which will install to the appdata folder, though _most_ install to Program Files. 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Where are EXEs for Apps From the Microsoft Store Located? 
 
@@ -104,17 +98,21 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-your-visual-narratives-with-mastered-stories-bokeh/"><u>[New] Elevate Your Visual Narratives with Mastered Stories Bokeh</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-5-high-quality-online-meeting-capture-devices/"><u>[New] In 2024, Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/everaging-finalcut-pro-for-high-quality-youtube-production-for-2024/"><u>[New] Leveraging FinalCut Pro for High-Quality YouTube Production for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-perfecting-podcast-intros-a-guide-with-illustrations-for-2024/"><u>[New] Perfecting Podcast Intros A Guide with Illustrations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-online-forms-and-data-collection-effortlessly/"><u>Cookiebot Driven Success: Enhancing Online Forms & Data Collection Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-marketing-solutions/"><u>Cookiebot-Enabled Marketing Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-your-reliable-partner-for-enhanced-website-traffic-and-analytics/"><u>Cookiebot: Your Reliable Partner for Enhanced Website Traffic and Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/die-top-vorteile-von-jobs-bei-abbyy-erfolgsgeschichte-aufsteigen/"><u>Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficiently-digitize-documents-scan-and-convert-with-ocr-technology-perfect-app-for-iphone-users/"><u>Efficiently Digitize Documents: Scan & Convert with OCR Technology - Perfect App for iPhone Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-se-2022-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone SE (2022) online without jailbreak</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-audio-assets-almanac-unveiling-the-best-online-sources-for-video-clip-melodies-for-2024/"><u>New Audio Assets Almanac Unveiling the Best Online Sources for Video Clip Melodies for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reducing-excessive-ram-use-solutions-for-service-platforms-on-pcs/"><u>Reducing Excessive RAM Use: Solutions for Service Platforms on PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-reimagining-home-entertainment-with-lgs-bp550-update/"><u>[New] 2024 Approved Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maintaining-social-standing-on-facebook-10-must-know-secrets-for-2024/"><u>[New] Maintaining Social Standing on Facebook 10 Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rofessional-level-youtube-content-via-adobe-premiere/"><u>[New] Professional-Level YouTube Content via Adobe Premiere</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-resolving-obs-darkness-during-playbacks-for-2024/"><u>[New] Resolving OBS Darkness During Playbacks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-webmswf/"><u>網路上自由下載MOVAVI WebM到SWF的轉換工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
+<li><a href="https://fox-http.techidaily.com/creating-a-calm-sequence-the-art-of-reducing-sound-in-pp-for-2024/"><u>Creating a Calm Sequence The Art of Reducing Sound in PP for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decouvrez-les-meilleures-versions-gratuites-de-convertisseur-mov-mac-oswindowsen-ligne-classement-des-experts/"><u>Découvrez Les Meilleures Versions Gratuites De Convertisseur MOV [Mac OS/Windows/En Ligne] : Classement Des Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descarga-gratuita-convertir-archivos-flv-a-vob-sin-problemas/"><u>Descarga Gratuita: Convertir Archivos FLV a VOB Sin Problemas</u></a></li>
+<li><a href="https://games-able.techidaily.com/entertain-yourself-with-these-quick-web-gaming-hits/"><u>Entertain Yourself with These Quick Web Gaming Hits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-mp4-to-avi-and-jpg-to-png-with-movavi/"><u>Free Online Converter: MP4 to AVI & JPG to PNG with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-movavi-converseren-van-mp3-naar-aac-en-andere-audiodateien-efficient-en-gemakkelijk/"><u>Gratuit Movavi - Converseren Van MP3 Naar AAC en Andere Audiodateien Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pair-a-different-receiver-with-your-logitech-wireless-device/"><u>How to Pair a Different Receiver With Your Logitech Wireless Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 by Name | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sedis-doma-a-chces-nahradit-schuzi-bez-povoleni-pokus-se-zoom-na-movavi-navrhovaci-prukladky/"><u>Sedíš Doma a Chceš Nahradit Schůzi Bez Povolení? Pokus Se Zoom Na Movavi - Návrhovací Průkladky</u></a></li>
 </ul></div>
 

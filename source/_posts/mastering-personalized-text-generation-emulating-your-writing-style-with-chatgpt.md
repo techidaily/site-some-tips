@@ -1,7 +1,7 @@
 ---
 title: "Mastering Personalized Text Generation: Emulating Your Writing Style with ChatGPT"
-date: 2024-09-15T16:00:21.534Z
-updated: 2024-09-17T16:10:49.134Z
+date: 2024-09-19T19:24:00.241Z
+updated: 2024-09-22T18:15:06.425Z
 tags:
   - cutting-edge
 categories:
@@ -46,6 +46,13 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
  It's up to you to judge how well ChatGPT is doing in your case. Note as well that you can specify which writing by the author you want to emulate. So if you've written different types of content for different publications, you can modify the emulated style by adding that information to the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Using Text Samples to Teach ChatGPT Your Style
 
  Suppose you don't have anything published or that for some reason ChatGPT doesn't know who you are, what then? In this case, you can provide a sample of your own writing (such as a previous essay) and ask ChatGPT to copy the style.
@@ -58,25 +65,11 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then after we get an affirmative response, we use this prompt and include the sample text after the colon.
 
 > Here is the sample:
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We get another affirmative from ChatGPT.
 
@@ -88,11 +81,31 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As with the previous example, you'll have to judge how successful ChatGPT is for yourself.
 
  You don't need to use elaborate prompts such as the ones in this example, we've written them to be human-friendly, but you can condense these steps and leave out words like "please."
 
 Related: [How to Tell If an Article Was Written by ChatGPT](https://facebook-clips.techidaily.com/in-2024-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Using Generic Tone Prompts to Describe Your Style
 
@@ -111,13 +124,6 @@ ChatGPT 3.5 Output With Tone Specifiers In The Prompt
  That was using ChatGPT 3.5, but here's the same prompt, but with a ChatGPT 4 upgrade:
 
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
 
@@ -159,18 +165,16 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-infuse-originality-in-tiktok-fps-boost-profile-exposure-for-2024/"><u>[New] Infuse Originality in TikTok FPs, Boost Profile Exposure for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
-<li><a href="https://howto.techidaily.com/asus-rog-phone-7-ultimate-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Ultimate Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/immediate-window-image-on-pc-win/"><u>Immediate Window Image on PC (Win)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>In 2024, Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speech-synthesis-simplified-transforming-ssaxml-into-srt-perfection/"><u>Speech Synthesis Simplified Transforming SSA/XML Into SRT Perfection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-mtp-issues-in-iphones-for-smooth-usb-connectivity/"><u>Troubleshooting and Fixing MTP Issues in iPhones for Smooth USB Connectivity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unparalleled-quality-discover-the-best-8-streamer-cameras/"><u>Unparalleled Quality Discover the Best 8 Streamer Cameras</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-creating-shareable-content-on-fb/"><u>[New] The Art of Creating Shareable Content on Fb</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-science-behind-the-best-sized-videos-for-your-instagram-story-for-2024/"><u>[New] The Science Behind the Best-Sized Videos for Your Instagram Story for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-igtv-potential-tips-and-strategies-for-2024/"><u>[New] Unlocking IGTV Potential Tips & Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-thriving-onscreen-financial-growth-in-the-youtube-arena/"><u>[Updated] Thriving Onscreen Financial Growth in the YouTube Arena</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011361025-fixing-high-input-delay-in-your-gameplay-of-cyberpunk-2dark-dreams-digital-official-site-for-cd-projekt-red-games-witcher-series-cyberpunk-2077-and-more/"><u>Fixing High Input Delay in Your Gameplay of Cyberpunk 2#Dark Dreams Digital - Official Site for CD Projekt Red Games, Witcher Series, Cyberpunk 2077, and More</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-videos-online-da-movavi-convertendo-seus-arquivos-de-forma-rapida-e-facil/"><u>Gratuito: Conversor De Vídeos Online Da MOVAVI - Convertendo Seus Arquivos De Forma Rápida E Fácil</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-de-edicion-vob-con-movavi-unirlos-cortarlos-y-dividirlos-para-mejorar-la-calidad-del-video/"><u>Guía De Edición VOB Con Movavi: Unirlos, Cortarlos Y Dividirlos Para Mejorar La Calidad Del Video</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mpgmp4/"><u>MPGからMP4への無料変換ガイドとレコメンデッドソフトウェア</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-att-andra-storleken-pa-videofilmer-i-windows-och-mac-os-en-lattlastande-resa-till-guide/"><u>Tips För Att Ändra Storleken På Videofilmer I Windows Och Mac OS - en Lättlästande Resa Till Guide</u></a></li>
 </ul></div>
 

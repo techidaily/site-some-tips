@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives"
-date: 2024-09-13T16:04:45.270Z
-updated: 2024-09-17T16:10:52.333Z
+date: 2024-09-18T16:24:26.195Z
+updated: 2024-09-22T17:26:58.926Z
 tags:
   - cutting-edge
 categories:
@@ -49,18 +49,18 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
  If you’re able to integrate tools like ChatGPT into your work life, I salute you. Formal letters are sterile and time-consuming, I bet ChatGPT is great for that. You could generate a CV using such a tool, then spice it up with your own words to stand out from the crowd. This is just a selection of the [basic tasks that ChatGPT is good for](https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/), but few of them get me particularly excited.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  My Life Isn't Complicated Enough Outside of Work
 
  Call me boring, but I don’t need an AI tool to summarize my emails or help me draft new ones. I’m perfectly fine with ignoring my inbox, thanks. I don’t run a _Dungeons & Dragons_ group where I need help coming up with characters or scenarios, and even if I did I’m not sure I’d defer the more enticing creative aspects of running a campaign to a word prediction machine.
 
 ![AI-generated image of Jesus made from plastic bottles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ptdlxoo.jpeg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  I’m not an artist, and I have my own ethical concerns about using generative AI trained on other people's work. I still find it relatively easy to [spot AI-generated images](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/) thanks to hallucinations like extra fingers, noisy fine details, and ghastly uncanny valley expressions.
 
@@ -75,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![Asking ChatGPT what its knowledge cut-off date is.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-18-at-09-56-26.png) 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT has been particularly bad for this in the past. Things have improved and the current free version of ChatGPT is able to interpret web results, but the knowledge cutoff is still nearly a year out of date in terms of training data. There are many examples of [ChatGPT getting simple sums wrong](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/), and the LLM is known to make things up if it lacks the training data to make a decision.
@@ -130,20 +124,21 @@ Apple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-film-artist-fusion-of-footage-and-tunes/"><u>[Updated] Top Film Artist Fusion of Footage & Tunes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sky-in-spectacue-prime-platforms-showcasing-hdr-imagery/"><u>2024 Approved Sky in Spectacue - Prime Platforms Showcasing HDR Imagery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726029718466-youtuber/"><u>簡単に行う! YouTuberのライブ配信ファイルを保存して楽しむ方法</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-site-engagement-with-cookiebots-advanced-data-tracking-technology/"><u>Boost Site Engagement with Cookiebot's Advanced Data Tracking Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-traffic-with-cookiebots-advanced-analytics-and-conversion-solutions/"><u>Boost Your Traffic with Cookiebot's Advanced Analytics and Conversion Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-parent-and-child-the-amazon-fire-hd-10-kid-editions-secure-environment/"><u>Comprehensive Evaluation of Parent & Child The Amazon Fire HD 10 Kid Edition's Secure Environment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-streamlining-user-experience-through-smart-marketing-automation/"><u>Cookiebot Driven Solutions: Streamlining User Experience Through Smart Marketing Automation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-marketing-unleashing-the-full-potential-of-your-digital-strategy/"><u>Cookiebot-Driven Marketing: Unleashing the Full Potential of Your Digital Strategy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-solutions-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled Solutions: Enhance Your Site's User Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effizientes-antragsmanagement-fur-helfer-durch-help-ev-mithilfe-von-abbyy-formreader-ein-leitfaden-zur-vereinfachung-der-mitgliedschaftseinwerbung/"><u>Effizientes Antragsmanagement Für Helfer Durch HELP E.V. Mithilfe Von ABBYY FormReader - Ein Leitfaden Zur Vereinfachung Der Mitgliedschaftseinwerbung</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevate-web-experiences-with-our-cookiebot-enabled-tools-and-insights/"><u>Elevate Web Experiences with Our Cookiebot-Enabled Tools and Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extended-motion-systems-appraisal-for-2024/"><u>Extended Motion Systems Appraisal for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-pro-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Pro Without Passcode Now</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bring-your-images-alive-on-android-with-these-5-powerful-editors/"><u>In 2024, Bring Your Images Alive on Android with These 5 Powerful Editors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-the-key-to-a-successful-tweet-including-aspect-ratio-details/"><u>[New] In 2024, The Key to a Successful Tweet Including Aspect Ratio Details</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-market-movements-with-youtube-picks/"><u>[Updated] 2024 Approved Mastering Market Movements with YouTube Picks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-airwaves-to-your-iphone-mastery-of-podcast-downloads-for-2024/"><u>[Updated] From Airwaves to Your iPhone Mastery of Podcast Downloads for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unlocking-the-code-a-guide-to-your-own-special-tiktok-hash/"><u>[Updated] Unlocking the Code A Guide to Your Own Special TikTok Hash</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-3d-lut-development-course/"><u>2024 Approved Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/advanced-tips-for-minecraft-gaming-streams/"><u>Advanced Tips for Minecraft Gaming Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/audacitys-guide-to-complimentary-audio-file-upgrade-from-au-to-high-quality-flac-streaming/"><u>Audacity's Guide to Complimentary Audio File Upgrade From AU to High-Quality FLAC Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/complimentary-image-and-video-assets-explore-the-creative-library-at-movavi/"><u>Complimentary Image & Video Assets - Explore the Creative Library at Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-de-audio-libre-gratuito-para-archivo-aiff-a-mp3-con-movavi/"><u>Descargar Convertidor De Audio Libre Gratuito Para Archivo AIFF a MP3 Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221377678-jpeg-movavi/"><u>JPEGファイルの無料オンライン変換 - Movaviで簡単行う方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-iphone-voice-messaging-features/"><u>Mastering the Art of iPhone Voice Messaging Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-convertitore-video-gratuito-per-mod-ottenere-il-tuo-ora/"><u>Movavi Convertitore Video Gratuito per Mod: Ottenere Il Tuo Ora!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-melhores-gravadores-inalambricos-para-audio-interno-selecao-do-movavi-em-2024-todas-as-opcoes-livres/"><u>Os Melhores Gravadores Inalámbricos Para Áudio Interno: Seleção Do Movavi Em 2024 – Todas as Opções Livres</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/procreate-brings-hope-a-boon-for-visionary-illustrators/"><u>Procreate Brings Hope - A Boon for Visionary Illustrators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-lava-storm-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Lava Storm 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-free-photo-editing-apps-for-macos-your-complete-guide/"><u>Top Free Photo Editing Apps for macOS : Your Complete Guide</u></a></li>
 </ul></div>
 

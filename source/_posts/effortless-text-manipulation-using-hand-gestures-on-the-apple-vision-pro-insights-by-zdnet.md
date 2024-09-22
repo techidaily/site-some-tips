@@ -1,7 +1,7 @@
 ---
 title: Effortless Text Manipulation Using Hand Gestures on the Apple Vision Pro - Insights by ZDNet
-date: 2024-09-17 21:29:17
-updated: 2024-09-20 10:20:40
+date: 2024-09-21T18:20:09.753Z
+updated: 2024-09-22T18:07:40.269Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,33 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-front-to-back-and-back-again-the-insta-rotation-ritual-for-success/"><u>[New] 2024 Approved From Front to Back, and Back Again The Insta Rotation Ritual for Success</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expertise-in-apps-enhancing-video-conferencing-for-2024/"><u>[Updated] Expertise in Apps Enhancing Video Conferencing for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-giggle-game-top-15-cheeky-youtube-creators-to-admire/"><u>2024 Approved The Giggle Game Top 15 Cheeky YouTube Creators to Admire</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-6-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 6 Activation Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avi-online-movavi/"><u>AVI 플랫 형식으로 무료 변환 - Online 문제 해결: Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-techniques-for-pc-screenshot-mastery/"><u>Comprehensive Techniques for PC Screenshot Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-votre-animation-gif-en-video-m4v-pour-rien-effortless-video-converter/"><u>Convertissez Votre Animation GIF en Vidéo M4V Pour Rien - Effortless Video Converter</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rw2-files-into-jpeg-format-convert-fast-and-free-with-movavis-tools/"><u>RW2 Files Into JPEG Format: Convert Fast and Free with Movavi's Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/1723015188583-skype-volume-troubles-heres-how-you-can-fix-it/"><u>Skype Volume Troubles? Here's How You Can Fix It</u></a></li>
+<li><a href="https://solve-help.techidaily.com/ultimate-tips-on-how-to-erase-ebooks-from-barnes-and-nobles-nook-device/"><u>Ultimate Tips on How to Erase Ebooks From Barnes & Noble's Nook Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726219618013-webmmkv-movavi/"><u>무료 변환 서비스를 활용하여 Webm/Mkv 프로젝트를 개선합시다: Movavi의 방법</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Qualcomm, Samsung and Google Join Forces for Groundbreaking Mixed Reality Eyewear – How I Cheered From the Start | ZDNET
-date: 2024-09-19 10:33:14
-updated: 2024-09-20 10:58:27
+date: 2024-09-19T16:34:03.221Z
+updated: 2024-09-22T18:30:35.361Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,34 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-your-lenovo-display-with-ease-for-2024/"><u>[New] Capturing Your Lenovo Display with Ease for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-10-recording-tips-to-record-audio-in-high-quality/"><u>[New] In 2024, 10 Recording Tips to Record Audio in High Quality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-innovate-transforming-raw-footage-into-youtube-thumbnails-via-smartphones/"><u>[New] In 2024, How to Innovate Transforming Raw Footage Into YouTube Thumbnails via Smartphones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-tackling-frame-rate-glitches-in-obs-outputs/"><u>[Updated] 2024 Approved Tackling Frame Rate Glitches in OBS Outputs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-path-to-youtube-stardom-with-these-tactics/"><u>[Updated] Navigating the Path to YouTube Stardom with These Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-yearly-selection-of-top-free-pc-graphic-artists-in-czechia-your-ultimate-guide-by-movavi/"><u>2024 Yearly Selection of Top Free PC Graphic Artists in Czechia: Your Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/54sh5paz44gn5l244gi44kl57eo6zug44ox44ot44kw44op44og44cq5yaz55yf44cr44oa44km44oz44ot44o844oj5oml6acg/"><u>無料で使える編集プログラム【写真】ダウンロード手順</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-engagement-youtube-strategies-for-increased-viewership-for-2024/"><u>Boosting Engagement YouTube Strategies for Increased Viewership for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/keyword-mastery-the-10-best-online-resources-to-increase-views-for-2024/"><u>Keyword Mastery The 10 Best Online Resources to Increase Views for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-meilleures-utilitaires-libres-de-trace-en-2024-classement-de-movavi/"><u>Les Meilleures Utilitaires Libres De Tracé en 2024 : Classement De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-flv-video-playback-insights-and-tools-using-the-movavi-converter/"><u>Mastering FLV Video Playback: Insights & Tools Using the Movavi Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-audio-m4a-al-codec-matroska-gratuito-en-linea-usando-movavi-ejemplo-perfecto/"><u>Transformar Archivos Audio M4A Al Códec Matroska Gratuito en Línea Usando Movavi - Ejemplo Perfecto</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225800438-ogv-mp4-movavi/"><u>オンラインで自由に利用可能な OGV から MP4 へのフリー変換ツール - Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

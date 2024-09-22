@@ -1,7 +1,7 @@
 ---
 title: Qualcomm Unveils Secret Venture with Samsung & Google in Pioneering Mixed Reality Eyewear – An Insider's Perspective | ZDNET News
-date: 2024-09-19 14:20:59
-updated: 2024-09-20 12:18:49
+date: 2024-09-19T17:41:29.604Z
+updated: 2024-09-22T17:07:36.876Z
 tags:
   - ar+vr
 categories:
@@ -64,11 +64,32 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-blueprints-to-masterful-valorant-thumbnail-designs-on-social-platforms/"><u>[New] 2024 Approved Blueprints to Masterful Valorant Thumbnail Designs on Social Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-free-video-calls-on-pcmac-os-for-easy-online-meetings/"><u>[New] Top Free Video Calls on PC/Mac OS for Easy Online Meetings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-savvy-techniques-for-storing-and-streaming-animated-images/"><u>[Updated] IPhone-Savvy Techniques for Storing and Streaming Animated Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-13-leading-ai-art-software-picked-by-movavi/"><u>Discover the Ultimate List of 13 Leading AI Art Software Picked by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-e-instalacao-do-capcut-para-windows-guia-passo-a-passo/"><u>Download E Instalação Do CapCut Para Windows - Guia Passo a Passo</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016388596-hearthstone-quieted-down-heres-how-to-turn-up-the-volume-again/"><u>Hearthstone Quieted Down? Here's How to Turn Up the Volume Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-realme-narzo-60x-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Realme Narzo 60x 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-selection-leading-bluetooth-sound-systems-in-202amoor-the-best-smartphone-speaker-systems-for-ultimate-audio-experience-on-the-go/"><u>Ultimate Selection: Leading Bluetooth Sound Systems in 202Amoor - The Best Smartphone Speaker Systems for Ultimate Audio Experience on the Go.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/velocidad-de-rafaga-con-winxvideo-ai-mejora-tu-experiencia-de-videoaudio-con-aceleracion-por-gpu/"><u>Velocidad De Ráfaga Con Winxvideo AI - Mejora Tu Experiencia De Vídeo/Audio Con Aceleración Por GPU</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/bes-transformation-blueprint-for-igtv-adaptation-for-2024/"><u>YouTube's Transformation Blueprint for IGTV Adaptation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-avi-movavi/"><u>무료 WMA-AVI 변환 서비스: 온라인 장치로 Movavi 프로그램 사용</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

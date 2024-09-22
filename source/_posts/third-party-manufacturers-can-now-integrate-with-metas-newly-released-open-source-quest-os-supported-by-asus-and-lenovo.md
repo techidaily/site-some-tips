@@ -1,7 +1,7 @@
 ---
 title: Third-Party Manufacturers Can Now Integrate with Meta's Newly Released, Open Source Quest OS – Supported by Asus and Lenovo
-date: 2024-09-18 14:47:28
-updated: 2024-09-20 10:51:27
+date: 2024-09-16T16:48:30.876Z
+updated: 2024-09-22T16:03:18.162Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avimpeg-mpeg/"><u>線上免費移除障礙：AVI到MPEG MPEG換算工具 - 摩華維轉換器</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715701206578-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehhemic-approach-to-repairing-and-preventing-cod-black-ops-4-malfunctions/"><u>Comprehhemic Approach to Repairing and Preventing COD Black Ops 4 Malfunctions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-di-file-audio-ad-mp3-con-aif-aiutato-da-intelligenza-artificiale-metodo-affidabile-e-facile-di-movavi/"><u>Conversione Libera Di File Audio Ad MP3 Con AIF Aiutato Da Intelligenza Artificiale - Metodo Affidabile E Facile Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-business-efficiency-with-movavis-customer-service-platform/"><u>Enhance Your Business Efficiency with Movavis Customer Service Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/facil-conversao-de-arquivos-raw-para-dng-gratuita-on-line-pela-inteira-com-suporte-tecnico-pelo-movavi/"><u>Fácil Conversão De Arquivos RAW Para DNG Gratuita On-Line Pela Inteira Com Suporte Técnico Pelo Movavi</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-the-best-drivers-for-epson-wf-2750-a-step-by-step-guide/"><u>Find and Install the Best Drivers for Epson WF-2750: A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-from-observer-to-participant-tips-for-guesting-on-tiktoks/"><u>In 2024, From Observer to Participant Tips for Guesting on TikToks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c33-2023-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C33 2023? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kunt-u-wma-files-vrije-en-gratis-in-mov-omzetten-onlinemovavi/"><u>Kunt U WMA-Files Vrije en Gratis in MOV Omzetten - Onlinemovavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-archiving-made-easy-and-free-convert-arw-images-to-png-with-movavis-conversion-tools/"><u>Online Archiving Made Easy & Free: Convert ARW Images to PNG with Movavi's Conversion Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-tutorial-save-vimeo-content-directly-on-your-iphone-with-no-hassle/"><u>Step-by-Step Tutorial: Save Vimeo Content Directly on Your iPhone with No Hassle</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

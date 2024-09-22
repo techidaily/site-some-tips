@@ -1,7 +1,7 @@
 ---
 title: "Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts"
-date: 2024-09-11T16:12:30.376Z
-updated: 2024-09-17T16:07:51.526Z
+date: 2024-09-15T17:12:32.645Z
+updated: 2024-09-22T16:04:01.083Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Changing the night light feature settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-the-night-light-feature-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Automatically Lock Your Screen When You Move Away
 
  If you work in an office environment and often leave your laptop unattended, you’ll love the [Dynamic Lock feature](https://extra-lessons.techidaily.com/a-critical-look-at-huawei-p10-for-photography-enthusiasts-for-2024/). This feature pairs your smartphone with your laptop, and whenever your paired smartphone moves out of range, the laptop notices and locks your screen in less than 30 seconds.
@@ -62,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 ![Pair a device via Bluetooth in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-pair-a-device-via-bluetooth-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once paired, select the “Accounts” tab on the left, go to “Sign-In Options,” scroll down and expand the “Dynamic Lock” section, and check the box next to “Allow Windows to lock your device automatically when you're away.” Now, whenever your smartphone moves out of range (typically 30 feet), your laptop will automatically lock.
 
 ![Setting up the dynamic lock feature in the Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-setting-up-the-dynamic-lock-feature-in-the-windows-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Automate Tasks With Task Scheduler
 
@@ -82,19 +89,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  To use Task Scheduler, type “Task Scheduler” in Windows Search and open the Task Scheduler utility. Click on “Create Task” in the Actions pane on the right. Add a name and description for the task. Go to the “Triggers” tab, click “New” to select a trigger, and adjust the start time and other settings.
 
 ![Setting up a trigger for a task in Task Scheduler.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-setting-up-a-trigger-for-a-task-in-task-scheduler.jpg) 
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, navigate to the “Actions” tab, click “New,” define an action such as “Start a Program,” and add any additional arguments for advanced tasks. Then, go to the “Conditions” tab, and define conditions for when the task shouldn’t run. Once the task is properly configured, click “OK.”
 
@@ -111,13 +105,20 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 ![Enabling Nearby Sharing in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8-enabling-nearby-sharing-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With Nearby Sharing enabled, right-click the file you want to share and select “Share.” In the Nearby Sharing window, choose the target laptop. The recipient will receive a notification to accept the file. Once they accept the file transfer notification, they will receive the file wirelessly.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Capture Screenshots and Record the Screen Using the Game Bar
 
@@ -126,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
  What I like the most about the Game Bar is its keyboard shortcut support, which makes it easy to use. Press Windows+G to open the Game Bar. You can start recording with Windows+Alt+R, mute or unmute the microphone with Windows+Alt+M, and capture screenshots with Windows+Alt+Prtscn(Print Screen). Also, you can easily access your captured screenshots and recordings with a single click.
 
 ![Recording a screen with the Game Bar in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/9-recording-a-screen-with-the-game-bar-in-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The downside is that you can't annotate screenshots and videos, crop screenshots, clip recordings, or screen record in File Explorer and on the desktop.
 
@@ -155,16 +149,19 @@ thumbnail: https://thmb.techidaily.com/375603cf480909bd9b580ef05e67947950bbf1e13
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sci-fi-virtual-horizons-a-selection-of-epic-movies-in-the-metaverse-realm/"><u>2024 Approved Sci-Fi Virtual Horizons A Selection of Epic Movies in the Metaverse Realm</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-realme-12-pro-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Realme 12 Pro 5G</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-correction-of-mtp-connection-failures/"><u>Effortless Correction of MTP Connection Failures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-world-of-process-intelligence-insights-and-applications/"><u>Exploring the World of Process Intelligence: Insights and Applications</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-6-lite-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic 6 Lite Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-start-guide-to-editing-with-snapseed-for-2024/"><u>Quick Start Guide to Editing with Snapseed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726224909058-my-frac-3-plus-prise2-frac52-25/"><u> [ M_y = Frac{-3 + Prise}{2} = Frac{5}{2} = 2.5 </u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-curating-youtube-music-experiences/"><u>[New] 2024 Approved Curating YouTube Music Experiences</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-inside-look-at-youtubes-creator-studio-interface/"><u>[New] 2024 Approved Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-de-videos-en-ligne-gratuit-de-wmv-vers-flv-avec-movie-converter-pro/"><u>Conversion De Vidéos en Ligne Gratuit : De WMV Vers FLV Avec Movie Converter Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuita-de-archivos-wav-a-mov-online-con-movavi/"><u>Conversión Gratuita De Archivos WAV a MOV Online Con Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-failed-windows-updates-on-your-computer/"><u>Expert Tips For Repairing Failed Windows Updates On Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-from-flac-to-mp3-by-movavi/"><u>Free Online Converter From FLAC to MP3 by Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gain-extensive-engagement-master-the-view-multiplier/"><u>Gain Extensive Engagement Master the View Multiplier</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-charge-image-editing-easily-change-orf-format-using-moveavis-online-tools/"><u>No Charge Image Editing: Easily Change ORF Format Using MoveAVI's Online Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-transforming-mp4-audio-tracks-into-mp3-files-with-the-movavi-app-on-mac-computers/"><u>Step-by-Step Tutorial: Transforming MP4 Audio Tracks Into MP3 Files with the Movavi App on Mac Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-pova-5-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Pova 5 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-spark-go-2024-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Spark Go (2024) FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-best-free-video-to-dvd-converters-of-2024-a-comprehensive-guide/"><u>Top 7 Best Free Video-to-DVD Converters of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/visual-vault-saving-windows-imagery-for-2024/"><u>Visual Vault Saving Windows Imagery for 2024</u></a></li>
 </ul></div>
 

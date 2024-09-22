@@ -1,7 +1,7 @@
 ---
 title: "Resizing Icons Effortlessly in Windows 10: A Step-by-Step Guide"
-date: 2024-09-14T16:00:59.941Z
-updated: 2024-09-17T16:07:05.507Z
+date: 2024-09-21T19:36:35.789Z
+updated: 2024-09-22T16:25:48.516Z
 tags:
   - deals
 categories:
@@ -43,29 +43,22 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![Right-click the taskbar and choose Taskbar Settings from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Right-click-the-taskbar-and-choose-Taskbar-Settings-from-the-context-menu..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Taskbar Settings window will open. Near the top of the list of options, toggle the slider to the "On" position under the "Use Small Taskbar Buttons" option.
 
 ![Click the toggle switch under 'Use Small Taskbar Buttons.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-use-small-taskbar-buttons.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This will reduce the size of the taskbar icons.
 
 ![Small taskbar icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Small-taskbar-icons..png) 
 
  To change the icons back to the default size, toggle the slider back to the "Off" position.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Resize File Explorer Icons
 
@@ -79,15 +72,22 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 ![Click the 'View' button near the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-click-view.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the "Layout" group, choose the icon size that you want. The current setting is highlighted in blue.
 
 ![Select between icon sizes, or a list view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-icon-sizes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If one of these four options doesn't fit your requirements, place your mouse anywhere in File Explorer, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or decrease the icon size, respectively. This will adjust the size of the icons in smaller increments.
@@ -109,17 +109,14 @@ thumbnail: https://thmb.techidaily.com/93c58d18d4169d1b8be3151f6e561548c6b0c37eb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unveiling-the-art-of-auditory-enhancement-on-youtube/"><u>[Updated] 2024 Approved Unveiling the Art of Auditory Enhancement on YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-the-most-innovative-youtube-channel-names-a-vloggers-must-have-list-maximum-length-156-characters/"><u>[Updated] In 2024, Discovering the Most Innovative Youtube Channel Names A Vlogger's Must-Have List (Maximum Length 156 Characters)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-steps-to-achieve-flawless-nocturnal-photography/"><u>2024 Approved Essential Steps to Achieve Flawless Nocturnal Photography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-sentiments-for-financial-frauds/"><u>Artificial Sentiments for Financial Frauds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/e-book-techniques-pour-detruire-les-obstacles-a-la-registration-clientelle-mobile/"><u>E-Book: Techniques Pour Détruire Les Obstacles À La Régistration Clientelle Mobile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-user-experience-through-advanced-tracking-technology-like-cookiebot/"><u>Enhance User Experience Through Advanced Tracking Technology Like Cookiebot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-site-with-automated-visitor-tracking-the-secrets-in-the-bots/"><u>Enhance Your Site with Automated Visitor Tracking - The Secret's in the Bots!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/grabacion-digital-libre-online-convertidor-mp4-a-mp3-sin-costo-por-adobe-premiere-movavi/"><u>Grabación Digital Libre Online: Convertidor MP4 a MP3 Sin Costo Por Adobe Premiere - Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-12-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 12 Pro Max | Stellar</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-13c-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi 13C 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/zoom-configuration-a-practical-approach/"><u>Zoom Configuration A Practical Approach</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avimpeg-mpeg/"><u>線上免費移除障礙：AVI到MPEG MPEG換算工具 - 摩華維轉換器</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/best-5-video-recording-software-timelapse-edition-for-2024/"><u>Best 5 Video Recording Software Timelapse Edition for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-ai-conquer-math-queries/"><u>Can AI Conquer Math Queries?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-psvr-to-your-pc-comprehensive-tutorial/"><u>Connecting PSVR to Your PC: Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-di-file-audio-ad-mp3-con-aif-aiutato-da-intelligenza-artificiale-metodo-affidabile-e-facile-di-movavi/"><u>Conversione Libera Di File Audio Ad MP3 Con AIF Aiutato Da Intelligenza Artificiale - Metodo Affidabile E Facile Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-business-efficiency-with-movavis-customer-service-platform/"><u>Enhance Your Business Efficiency with Movavis Customer Service Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-8-image-collections-for-macbook-screens-for-2024/"><u>Innovative 8 Image Collections for MacBook Screens for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kunt-u-wma-files-vrije-en-gratis-in-mov-omzetten-onlinemovavi/"><u>Kunt U WMA-Files Vrije en Gratis in MOV Omzetten - Onlinemovavi</u></a></li>
 </ul></div>
 

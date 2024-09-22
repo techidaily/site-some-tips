@@ -1,7 +1,7 @@
 ---
 title: Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions
-date: 2024-09-16T16:02:00.970Z
-updated: 2024-09-17T16:02:50.232Z
+date: 2024-09-17T17:13:06.428Z
+updated: 2024-09-22T18:16:03.971Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070a4884d479fae689522aa348.jpg
@@ -42,6 +42,13 @@ The IDP solution is used hospital-wide at Chris O’Brien Lifehouse to process a
 
 The organization has been able to fast track its clinical and outpatient appointments by enabling secure, real-time online availability. For cancer patients, that is critical.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Value
 
 * Eliminated 80% of paper records backlog
@@ -61,13 +68,6 @@ The organization has been able to fast track its clinical and outpatient appoint
 
 ![overview image](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/ap-automation/overview-image.jpg?h=800&iar=0&w=1392)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### PDF Version
 
 [Read the document](https://content.abbyy.com/-/media/Project/Abbyy/Abbyy/Insights/Customer-Stories/PDFs/customer-story-intelligent-document-processing-healthcare-lifehouse-cancer-treatment-research-facilities-en.pdf)
@@ -75,16 +75,10 @@ The organization has been able to fast track its clinical and outpatient appoint
 ![laptop mug](https://content.abbyy.com/-/media/project/abbyy/abbyy/company/newsroom/news-images/laptop-mug.jpg?h=836&iar=0&w=1486)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Ready to speak with an expert?
@@ -106,15 +100,21 @@ The organization has been able to fast track its clinical and outpatient appoint
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-leading-list-10-budget-friendly-sbd-solutions/"><u>[Updated] In 2024, Leading List 10 Budget-Friendly SBD Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[Updated] Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/customizing-windows-11-with-tailored-themes-and-styles/"><u>Customizing Windows 11 with Tailored Themes and Styles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-adventures-with-copilot-and-turbo-combined/"><u>Elevate Your AI Adventures: With Copilot and Turbo Combined</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enabling-rdc-access-for-windows-11-comprehensive-tutorial-to-connect-remotely/"><u>Enabling RDC Access for Windows 11: Comprehensive Tutorial to Connect Remotely</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-playing-srt-files-in-windowsmac/"><u>In 2024, Playing SRT Files in Windows/MAC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unlocking-your-potential-in-youtube-video-production-scripts/"><u>Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-easy-and-fast-convert-youtube-music-into-mp3-mac-version/"><u>[New] 2024 Approved Easy & Fast Convert YouTube Music Into MP3, Mac Version</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-create-insta-highlight-cover-photos-an-ultimate-guide/"><u>[New] How to Create Insta Highlight Cover Photos An Ultimate Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-science-and-art-behind-powerful-youtube-thumbnails/"><u>[New] In 2024, The Science and Art Behind Powerful YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471354308-cant-adjust-your-iphone-volume-here-are-7-effective-remedies/"><u>Can't Adjust Your iPhone Volume? Here Are 7 Effective Remedies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversao-webm-em-gif-livre-on-line-com-o-movavi-guia-simples-e-eficiente-para-todos-os-usuarios/"><u>Conversão WebM Em GIF Livre On-Line Com O Movavi: Guia Simples E Eficiente Para Todos Os Usuários</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-da-f4v-a-wmv-online-movavi/"><u>Conversione Gratuita Da F4V a WMV Online - Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/craftsmanship-redefined-leading-photo-frame-apps-for-2024/"><u>Craftsmanship Redefined Leading Photo Frame Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-vocal-effect-modifications-to-enhance-your-audio-experience/"><u>Discover the Best Vocal Effect Modifications to Enhance Your Audio Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/image-enhancement-made-simple-how-to-inject-text-into-pictures-on-windowsmacos/"><u>Image Enhancement Made Simple How to Inject Text Into Pictures on Windows/MacOS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximize-your-laptops-dvd-potential-easily/"><u>Maximize Your Laptop's DVD Potential Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-converter-online-free-convert-mov-files-to-ogg-format/"><u>Movavi - Converter Online FREE: Convert MOV Files to Ogg Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-downloading-just-the-speech-tune-out-visuals-keep-the-audio-only/"><u>Quick Guide to Downloading Just the Speech: Tune Out Visuals, Keep the Audio Only!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-dell-d3100-driver-update-process-a-comprehensive-guide-with-links-and-resources/"><u>Seamless Dell D3100 Driver Update Process: A Comprehensive Guide with Links & Resources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-applicazioni-piu-efficienti-per-la-registrazione-dello-schermo-del-computer/"><u>Top 5 Applicazioni Più Efficienti per La Registrazione Dello Schermo Del Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcodage-gratuit-en-ligne-de-fichiers-wmv-en-format-aac-avec-movavi-guide-complet/"><u>Transcodage Gratuit en Ligne De Fichiers WMV en Format AAC Avec Movavi - Guide Complet</u></a></li>
 </ul></div>
 

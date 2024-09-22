@@ -1,7 +1,7 @@
 ---
 title: "Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained"
-date: 2024-09-12T16:08:13.810Z
-updated: 2024-09-17T16:09:39.212Z
+date: 2024-09-21T18:13:40.116Z
+updated: 2024-09-22T19:26:23.724Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
  Now that you know when you should and should not permanently disable Microsoft Defender, let’s check out how you can permanently disable Microsoft Defender on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Turn Off Real-Time Protection and Tamper Protection in the Windows Security App
 
  Unlike temporarily disabling Microsoft Defender Antivirus, permanently disabling it isn’t straightforward. First, you’ll need to disable Real-time and Tamper Protection in the Windows Security app.
@@ -51,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose "Virus & Threat Protection" from the left sidebar, then click "Manage Settings" on the right.
 
 ![Virus & Threat Protection option in the Windows Security App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virus-threat-protection-option-in-the-windows-security-app.jpg) 
@@ -71,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  Turn off the “Real-Time Protection” toggle. If UAC pops up, click “Yes” to confirm your decision.
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, disable the “Tamper Protection” toggle. Click “Yes” when the UAC prompt appears.
 
@@ -102,19 +103,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 ![Enabling Windows Defender through Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabling-windows-defender-through-registry-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Disable Microsoft Defender Using the Local Group Policy Editor
 
  If you are a Windows 11 Pro user, you have an additional option to permanently disable Microsoft Defender. While you can use the Registry Editor for this process, as a Pro user, you also have the option to use Local Group Policy Editor.
@@ -122,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  Press Win+R to open the Run tool. Then, type **gpedit.msc** in the search field and click “OK.”
 
 ![Gpedit.msc command in the Run tool.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/gpedit-msc-command-in-the-run-tool.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Local Group Policy Editor window, navigate to the following location:
 
@@ -135,19 +130,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 ![Enabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/enabled-option-in-the-local-group-policy-editor.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s it! Restart your computer, and you’ll see that Microsoft Defender is disabled.
 
  If you want to enable Microsoft Defender in the future, set the “Turn Off Microsoft Defender Antivirus” policy to “Disable.” After that, turn on the “Real-time Protection” and “Tamper Protection” toggles in the Windows Security app."
@@ -155,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 ![Disabled option in the Local Group Policy Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/disabled-option-in-the-local-group-policy-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Check the State of Microsoft Defender on Windows 11
@@ -176,10 +158,10 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 ![PowerShell window showing Normal in result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powershell-window-showing-normal-in-result.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -201,16 +183,16 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-time-travel-on-fb-accessing-historical-posts/"><u>[Updated] 2024 Approved Time Travel on FB Accessing Historical Posts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-platform-precision-examining-obs-against-twitch-hub-for-2024/"><u>[Updated] Platform Precision Examining OBS Against Twitch Hub for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-nokia-g42-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Nokia G42 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pathway-to-stellar-visual-results-through-color-tuning/"><u>In 2024, The Pathway to Stellar Visual Results Through Color Tuning</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-order-management-how-dot-foods-empowers-sales-team-with-automated-po-systems/"><u>Streamlining Order Management: How Dot Foods Empowers Sales Team with Automated PO Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-battle-of-av1-and-vp9-outcomes-revealed/"><u>The Battle of AV1 and VP9 Outcomes Revealed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-10-face-blurring-tools-for-photos-and-videos-free-and-easy-to-use-for-2024/"><u>Top 10 Face Blurring Tools for Photos and Videos (Free & Easy to Use) for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-12-pro-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 12 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-the-anatomy-of-a-web-page-essentials-for-optimization/"><u>Understanding the Anatomy of a Web Page: Essentials for Optimization</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-wmv-video-combining-software-for-this-year/"><u>Updated In 2024, Best Free WMV Video Combining Software for This Year</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-25-secrets-for-effective-win10-use/"><u>[Updated] 2024 Approved Top 25 Secrets for Effective Win10 Use</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-zoom-session-division-for-starters/"><u>[Updated] Zoom Session Division for Starters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-final-cut-pro-x-the-ultimate-guide-for-vertical-video-posts/"><u>2024 Approved Final Cut Pro X The Ultimate Guide for Vertical Video Posts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Lava Yuva 2? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c02-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C02 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-invest-in-quality-the-finest-camera-tripods-reviewed/"><u>In 2024, Invest in Quality The Finest Camera Tripods Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-ferramenta-segura-e-facil-de-uso-para-converte-las-do-formato-bmp-para-png-sem-custo/"><u>Movavi: Ferramenta Segura E Fácil De Uso Para Convertê-Las Do Formato BMP Para PNG Sem Custo</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-your-outriders-latency-problem-effective-solutions-proven/"><u>Resolving Your [Outriders] Latency Problem: Effective Solutions Proven</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solutions-for-resolving-nspr4dll-file-missing-issues-on-your-pc/"><u>Solutions for Resolving 'Nspr4.dll File Missing' Issues on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-player-apps-com-suporte-a-formato-avi-descubra-o-que-e-xvid/"><u>Top 12 Player Apps Com Suporte a Formato AVI - Descubra O Que É XVID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-avi-a-laide-de-wmv-gratuite-sur-internet-movavi/"><u>Transcode AVI À L'aide De WMV Gratuite Sur Internet - Movavi</u></a></li>
 </ul></div>
 

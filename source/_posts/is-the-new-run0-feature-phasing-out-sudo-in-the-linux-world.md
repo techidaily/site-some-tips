@@ -1,7 +1,7 @@
 ---
 title: Is the New Run0 Feature Phasing Out Sudo in the Linux World?
-date: 2024-09-14T16:05:49.627Z
-updated: 2024-09-17T16:06:18.951Z
+date: 2024-09-19T16:06:42.956Z
+updated: 2024-09-22T18:32:10.506Z
 tags:
   - desktop
 categories:
@@ -48,6 +48,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  With sudo, you can make regular users into unrestricted superusers, or you can give them limited superuser powers by [dictating which commands they can use sudo with](https://snapchat-videos.techidaily.com/new-in-2024-advanced-techniques-to-save-snapchat-stories-on-devices/). You can achieve this type of granularity with polkit, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Using run0
 
  To use run0 you need to be running systemd version 256, or better yet, the bug-fixed version 256.1\. Version 256.1 is rolling out as an update at the time of writing, and fresh installations of some Linux distributions include 256.1 as standard. You can check your version with this command.
@@ -57,16 +64,16 @@ systemctl --version
 ![Finding the systemd version on the linux command line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1.png) 
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Using run0 is almost the same as using sudo. You precede the command you want to launch with “run0”, and provide your password.
@@ -78,22 +85,22 @@ run0 ls
 
 ![The run0 authentication dialog in GNOME](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The terminal text background changes color to force home the message you’re using escalated privileges. Note that it returns to the usual background colors once the command has been completed.
 
 ![Output from a command launched by run0, showing the text's colored background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use the --background option to turn off the background color, or change it to an [ANSI color combination](https://en.wikipedia.org/wiki/ANSI%5Fescape%5Fcode#8-bit) of your choice.
 
@@ -102,13 +109,6 @@ run0 ls
 run0 --background=“44;1” ls
 
 ![Output from a command launched by run0, with a blue text background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To run the same command with no color highlighting, omit the ANSI sequence, but make sure you leave the “=” sign.
 
@@ -122,13 +122,6 @@ run0
 
 ![Issuing run0 without command line paramters to effectively log in as root](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note the change in the command prompt. You can return to your regular user status by typing exit and hitting Enter, or hitting Ctrl+D.
 
 ![Exiting from the root session and returning to regular user status](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7.png) 
@@ -136,6 +129,13 @@ run0
  If you use run0 on a Linux computer without a desktop environment, the prompt for your password happens in the terminal window.
 
 ![Authenticating on the command line on a Linux installtion with no graphical desktop environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/8.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Will run0 replace sudo?
 
@@ -168,16 +168,17 @@ run0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-upgrade-plans-standard-studio-or-beta-revolution-for-2024/"><u>[Updated] Channel Upgrade Plans Standard Studio or Beta Revolution for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1-orchestrating-smart-process-integration-the-abbyy-way/"><u>1. Orchestrating Smart Process Integration: The ABBYY Way</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convenient-and-quality-passport-images-top-free-tools-listed-here-for-2024/"><u>Convenient & Quality Passport Images - Top Free Tools Listed Here for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-online-converter-change-wmv-files-into-mp4-format-for-windows-and-macos/"><u>Free Online Converter: Change WMV Files Into MP4 Format for Windows and macOS</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitglimpse-peek-into-viral-video-landscape/"><u>In 2024, TwitGlimpse Peek Into Viral Video Landscape</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/meme-marchers-the-path-to-viral-twitcinema/"><u>Meme Marchers The Path to Viral TwitCinema</u></a></li>
-<li><a href="https://video-capture.techidaily.com/precision-in-screen-recording-a-comprehensively-reviewed-list-for-2024/"><u>Precision in Screen Recording A Comprehensively Reviewed List for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-latest-innovation-by-abbyy-enhanced-ocr-software-development-kit-sdk-with-finereader-engine-v12-features/"><u>Unveiling the Latest Innovation by ABBYY - Enhanced OCR Software Development Kit (SDK) with FineReader Engine V.12 Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-personalization-and-tracking/"><u>Utilizing Cookiebot Technology for Improved Site Personalization and Tracking</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-gurus-summit-expedition/"><u>[New] 2024 Approved YouTube Gurus Summit Expedition</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-tiktok-web-a-must-do-list-for-mac-users/"><u>[New] Navigating TikTok Web A Must-Do List for Mac Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-video-downloader-winmacosmobile-power-up/"><u>[Updated] In 2024, Facebook Video Downloader Win/macOS/Mobile Power-Up</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1724313535664-abbyy/"><u>「タスクマイニングの基礎: 効率的なワークフローへの道」 - ABBYYブログで探るタスク分析と自動化</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-12-mp4-media-players-compatible-with-windows-11-8-7-and-macos-top-picks/"><u>Best 12 MP4 Media Players Compatible with Windows 11, 8, 7 & macOS: Top Picks!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-imagenes-de-formato-raf-a-jpeg-sin-coste-con-movavi/"><u>Convertir Imágenes De Formato RAF a JPEG Sin Coste Con Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-the-art-of-scriptwriting-for-viral-youtube-content-for-2024/"><u>Mastering the Art of Scriptwriting for Viral YouTube Content for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-problems-with-steam-titles-on-windows-11-systems/"><u>Overcoming Launch Problems with Steam Titles on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrets-to-savings-on-windows-10-key-focused-strategies/"><u>Secrets to Savings on Windows 10: Key-Focused Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforme-seus-videos-em-gifs-gratuitamente-on-line-usando-a-ferramenta-de-conversao-do-movavi/"><u>Transforme Seus Vídeos Em GIFs Gratuitamente On-Line Usando a Ferramenta De Conversão Do Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-facilmente-i-tuoi-file-amr-in-mp3-con-questi-passaggi-semplici/"><u>Trasforma Facilmente I Tuoi File AMR in MP3 Con Questi Passaggi Semplici!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-premium-features-with-a-complimentary-videoeditorplus-access-claim-yours-now/"><u>Unlock Premium Features with a Complimentary VideoEditorPlus Access - Claim Yours Now!</u></a></li>
 </ul></div>
 

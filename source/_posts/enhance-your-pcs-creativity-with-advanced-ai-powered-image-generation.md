@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC's Creativity with Advanced AI-Powered Image Generation
-date: 2024-09-13T16:06:00.436Z
-updated: 2024-09-17T16:10:06.664Z
+date: 2024-09-17T16:57:24.239Z
+updated: 2024-09-22T16:15:04.397Z
 tags:
   - deals
 categories:
@@ -33,6 +33,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Local image generation running on your own Windows computer is free (aside from the electricity cost), and comes with no restrictions. You can experiment with any image prompt you can think of, and use community-made models to create unique content. It's a fun introduction to the emerging AI space, and can also help you develop other programming and IT skills.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Set Up Stable Diffusion Image Generation on Windows
 
 [Fooocus](https://github.com/lllyasviel/Fooocus "https://github.com/lllyasviel/Fooocus") is an image generation program built using Stable Diffusion. It's 100% free and open-source, runs offline, and provides an out-of-the box AI image generator that "just works" — once you've got it up and running, you can just start prompting it with your ideas and get (almost) immediate results.
@@ -42,10 +49,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It's worth noting that these steps also work on Linux. You can skip the WSL-specific steps below and just install Docker Desktop and use the Linux terminal instead of the Windows Terminal app. If you're a MacOS user, check out [DiffusionBee](https://on-screen-recording.techidaily.com/updated-premier-moba-experiences-on-your-android-device/), which provides similar, streamlined image generation with Stable Diffusion wrapped in its own app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  Step 1: Install Docker Desktop and Windows Terminal
@@ -59,19 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To download Fooocus, you'll need to [visit their Github page](https://github.com/lllyasviel/Fooocus "https://github.com/lllyasviel/Fooocus") and then click on the green "Code" button, followed by "Download ZIP". GitHub isn't the most user-friendly website (it's mostly used by developers to share code with each other), so the screenshot below shows where to find the button.
 
 ![The location of the 'Download ZIP' button in GitHub](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-1.png) 
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the .zip file has finished downloading, [extract it into its own folder](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/), and open the folder containing the unzipped Fooocus files.
 
@@ -93,13 +93,6 @@ docker compose up -d
 
 ![Running 'docker compose' in Powershell using the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you haven't run Fooocus with Docker before, it will automatically build the Docker application based on the Fooocus code in the directory. This can take quite a while on some computers, so be patient and grab a coffee (or take a long lunch) while you wait.
 
  When it's done, you'll see that the Fooocus application has been created and started.
@@ -107,10 +100,10 @@ docker compose up -d
 ![Terminal output showing the Fooocus Docker container has started successfully](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will also be able to see the Fooocus container running in Docker Desktop.
@@ -118,13 +111,6 @@ docker compose up -d
 ![Docker Desktop showing a running container](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-5.png) 
 
  From Docker Desktop, you can stop and start Fooocus (without having to use the terminal), or delete the container and all its data.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Step 4: Generate Some Images!
 
@@ -134,9 +120,23 @@ docker compose up -d
 
 ![The Fooocus Stable Diffusion interface awaiting a user prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The first image might take a bit longer than others while the models Fooocus uses are prepared. Here's an example of an image generated using a simple Fooocus prompt: a photo of a helpful [How-To Geek](https://video-screen-grab.techidaily.com/new-in-2024-ranking-the-best-third-place-recording-tools-for-ipad/) surfing the net.
 
 ![The result of a Fooocus Stable Diffusion image prompt, showing a generated man in a suit, riding a surfboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-7.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to tweak the behavior or try out different styles, or look at the history of images you've generated, click the "Advanced" checkbox. Fooocus comes with a lot of options, and you can even use community-built models from sites like [CivitAI](https://education.civitai.com/generative-ai-art-with-fooocus-quickstart-guide/ "https://education.civitai.com/generative-ai-art-with-fooocus-quickstart-guide/").
 
@@ -161,14 +161,15 @@ docker compose up -d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-straightstreamerw11-ultra-simple-pc-screenshot-software/"><u>[New] In 2024, StraightStreamerW11 Ultra-Simple PC Screenshot Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>2024 Approved Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-mix-fold-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Mix Fold 3?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-user-experience-and-conversions-through-cookiebot-driven-optimization/"><u>Enhance User Experience & Conversions Through Cookiebot-Driven Optimization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-conversion-rates-via-cutting-edge-cookiebot-analytics-tools/"><u>Enhanced Conversion Rates via Cutting-Edge Cookiebot Analytics Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/socialsoundify-twitter-videos-to-audio/"><u>SocialSoundify Twitter Videos to Audio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-brief-stardom-flash-review/"><u>[New] In 2024, Brief Stardom Flash Review</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-ultimate-selection-of-high-tech-glasses/"><u>2024'S Ultimate Selection of High-Tech Glasses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tips-for-podcast-feeds-and-rss-integration-for-2024/"><u>Advanced Tips for Podcast Feeds and RSS Integration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-des-fichiers-rmvb-a-laide-de-movavi-guide-complet/"><u>Conversion Gratuite Des Fichiers RMVB À L'aide De Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-expert-comment-filmer-son-epilogue-de-miel-avec-les-top-photographes-et-videurs-nupciaux/"><u>Guide Expert: Comment Filmer Son Épilogue De Miel Avec Les Top Photographes Et Videurs Nupciaux</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-c51-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme C51 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-infinix-gt-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Infinix GT 10 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meilleur-logiciel-pour-lediting-4k-facilite-et-precision-dans-vos-travaux-video-professionnels/"><u>Meilleur Logiciel Pour L'Editing 4K: Facilité Et Précision Dans Vos Travaux Vidéo Professionnels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-recordings-ensuring-flawless-gameplay-footage-of-roblox-on-macs-for-2024/"><u>Professional Recordings Ensuring Flawless Gameplay Footage of Roblox on Macs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-wmv-au-format-flv-gratuitement-guilde-du-multimedia/"><u>Toutes Les Étapes Pour Transformer Un Fichier WMV Au Format FLV Gratuitement - Guilde Du Multimédia</u></a></li>
 </ul></div>
 

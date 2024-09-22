@@ -1,7 +1,7 @@
 ---
 title: How Apple's Strategic Purchase of Mira Startup Introduces Cutting-Edge AR Headsets for Professional Use | Insights From ZDNET
-date: 2024-09-19 15:22:19
-updated: 2024-09-20 10:59:57
+date: 2024-09-15T19:33:01.064Z
+updated: 2024-09-22T18:18:19.816Z
 tags:
   - ar+vr
 categories:
@@ -60,11 +60,40 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[New] In 2024, Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-eight-high-performing-tablets-for-future-photography-titans/"><u>[Updated] 2024 Approved Eight High-Performing Tablets for Future Photography Titans</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-instagram-to-tik-tok-integration-strategy/"><u>[Updated] 2024 Approved Instagram to Tik Tok Integration Strategy</u></a></li>
+<li><a href="https://fox-info.techidaily.com/capturing-stories-the-best-cinematographic-techniques/"><u>Capturing Stories The Best Cinematographic Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-librement-aac-en-aiff-avec-le-service-en-ligne-gratuit-de-movavi-guide-complet-et-professionnel/"><u>Convertissez Librement AAC en AIFF Avec Le Service en Ligne Gratuit De Movavi – Guide Complet Et Professionnel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-collage-creation-discover-the-ultimate-5-methods-from-experts-at-movavi/"><u>Effortless Collage Creation: Discover the Ultimate 5 Methods From Experts at Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fortnite-multi-account-consolidation-a-detailed-walkthrough/"><u>Fortnite Multi-Account Consolidation: A Detailed Walkthrough</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958139228-get-your-free-focusrite-scarlett-18i20-drivers-for-pc-download-now/"><u>Get Your Free Focusrite Scarlett 18I20 Drivers for PC - Download Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-glitches-expert-fix-for-crashing-in-jurasspressive-gameplay-experience/"><u>No More Glitches: Expert Fix for Crashing in Jurasspressive Gameplay Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-video-editing-software-of-2024-how-to-pick-the-perfect-app/"><u>Top Rated Video Editing Software of 2024: How to Pick the Perfect App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-silent-davinci-resolve-projects-top-strategies-and-solutions/"><u>Troubleshooting Silent DaVinci Resolve Projects: Top Strategies and Solutions</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-razr-40-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Razr 40</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-movivi/"><u>ウェブ上で自由に利用可能なPNG変換サービス - MoviVi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

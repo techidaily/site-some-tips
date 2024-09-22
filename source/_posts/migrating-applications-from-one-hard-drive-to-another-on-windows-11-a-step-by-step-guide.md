@@ -1,7 +1,7 @@
 ---
 title: "Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide"
-date: 2024-09-14T16:08:26.962Z
-updated: 2024-09-17T16:02:45.368Z
+date: 2024-09-15T16:20:19.103Z
+updated: 2024-09-22T18:05:44.160Z
 tags:
   - desktop
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  Also, ensure your laptop is sufficiently charged, and if you're using a desktop PC, it's worth checking for potential electrical outages in your area. Besides that, confirm that the destination drive—where you're going to relocate an app—has ample space to accommodate the relocated program. If space is limited, take the necessary measures to [free up storage](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Transfer Apps From One Drive to Another Through the Settings App
 
  The most straightforward way to relocate an app or program to a different location is to use the Move feature within the Windows Settings app. Right-click on the Start button and select "Settings."
@@ -57,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 ![Clicking on the 'Move' option to relocate an app in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-clicking-on-the-move-option-to-relocate-an-app-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows will display the program's current installation location and the drives that you can transfer the program to. Select your preferred drive, and then click on "Move."
@@ -68,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 ![Selecting the destination drive to relocate an app to in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-selecting-the-destination-drive-to-relocate-an-app-to-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a few seconds, and Windows will seamlessly move your app to the newly selected location.
@@ -85,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  While this is the most direct way to relocate apps, it may not be universally applicable. You may not see this option for some apps, or it might be grayed out. So how do you move those apps?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Use the Command Prompt to Relocate Apps You Can’t Move From Settings
@@ -107,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 !['Old' and 'New' paths written in a Notepad file on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-old-and-new-paths-written-in-a-notepad-file-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Having noted both your "old" and "new" paths, [open the Command Prompt with administrative privileges](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/). Type "Command Prompt" into Windows Search, and click "Run as Administrator." You can also use PowerShell run admin for this. 
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-cmd-as-admin.jpg) 
@@ -130,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
     
 ![Running the Robocopy command in Windows Command Prompt to relocate Mozilla Firefox from one drive to another on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-running-the-robocopy-command-in-windows-command-prompt-to-relocate-mozilla-firefox-from-one-drive-to-another-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Following that, insert both the "old" and "new" paths into the following command:
 
         `mklink "old" "new" /j`
@@ -137,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  Paste this command into the Command Prompt and hit Enter. This will establish symbolic links or hard links between files or directories. This ensures that any app shortcuts, possibly still pointing to the old location, function seamlessly.
 
 ![Running the MKLINK command in the Windows Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-running-the-mklink-command-in-the-windows-command-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The above process doesn't automatically remove the app from its old location. So, after successfully relocating the app to a new location and creating a junction between the old and new directories, manually delete the app to free up storage space.
 
@@ -175,16 +169,19 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-identify-the-best-8-services-to-enhance-youtube-engagement/"><u>[New] In 2024, Identify the Best 8 Services to Enhance YouTube Engagement</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-website-analytics-through-the-innovative-use-of-cookiebot-technology/"><u>Enhanced Website Analytics Through the Innovative Use of CookieBot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-rise-of-textual-analytics-abbyy-q3-report-highlights-growing-trends-in-content-intelligence/"><u>Exploring the Rise of Textual Analytics: ABBYY Q3 Report Highlights Growing Trends in Content Intelligence</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-hyperautomation-through-abbyy-unifying-computer-vision-and-large-language-models-with-idp-integration/"><u>Harnessing Hyperautomation Through ABBYY: Unifying Computer Vision and Large Language Models with IDP Integration</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y200-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y200 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-overcome-sound-absence-on-tweeted-film-rolls/"><u>In 2024, Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-spyro-reignited-trilogy-tiny-hero-huge-worth/"><u>In-Depth Analysis of Spyro Reignited Trilogy: Tiny Hero, Huge Worth</u></a></li>
-<li><a href="https://driver-download.techidaily.com/radeon-hd-7850-graphics-card-driver-downloads-and-updates-expert-tips-for-windows-11-users/"><u>Radeon HD 7850 Graphics Card Driver Downloads & Updates: Expert Tips for Windows 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-capturing-screen-images-on-windows-7-8-and-10/"><u>Ultimate Guide: Capturing Screen Images on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-steps-to-become-a-live-spectator-on-tiktok-for-2024/"><u>[New] Steps to Become a Live Spectator on TikTok for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-x-record-pc-suite-release/"><u>[Updated] In 2024, X-Record PC Suite Release</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissons-gratuitement-vos-fichiers-wma-en-ogg-avec-movavi-guide-en-ligne/"><u>Convertissons Gratuitement Vos Fichiers WMA en Ogg Avec Movavi - Guide en Ligne</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-ntfssys-system-crash-on-windows-10-essential-troubleshooting-steps/"><u>Fixing 'NTFS.sys' System Crash on Windows 10 - Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-methods-for-adding-video-captions-an-online-guide/"><u>Free Methods for Adding Video Captions: An Online Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-conversion-transforming-ogm-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming OGM Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/july-2024-hotlist-top-kids-movies-to-watch-on-disney-plus/"><u>July 2024 Hotlist: Top Kids Movies to Watch on Disney Plus!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mettiti-al-lavoro-trasformare-i-file-orf-in-formato-jpeg-senza-costi-con-il-servizio-online-di-movavi/"><u>Mettiti Al Lavoro: Trasformare I File ORF in Formato JPEG Senza Costi Con Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-list-of-public-domain-image-sources-for-2024/"><u>New The Ultimate List of Public Domain Image Sources for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-aif-to-mov-file-transformation-no-cost-solution-by-movavi/"><u>Online AIF to MOV File Transformation: No Cost Solution by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-streaming-top-obs-configurations-for-budget-friendly-computers/"><u>Optimized Streaming: Top OBS Configurations for Budget-Friendly Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-burn-in-issues-on-your-screens-innovative-fixes-and-maintenancestrategies/"><u>Tackling Burn-In Issues on Your Screens - Innovative Fixes and Maintenancestrategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-a-deeper-dive-into-toms-hardware-expertise/"><u>Unveiling Tech Secrets: A Deeper Dive Into Tom's Hardware Expertise</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-still-to-motion-10-top-image-to-video-maker-tools/"><u>Updated In 2024, From Still to Motion 10 Top Image to Video Maker Tools</u></a></li>
 </ul></div>
 

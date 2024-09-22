@@ -1,7 +1,7 @@
 ---
 title: "Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps"
-date: 2024-09-12T16:03:12.519Z
-updated: 2024-09-17T16:13:00.376Z
+date: 2024-09-17T16:45:44.805Z
+updated: 2024-09-22T19:28:00.532Z
 tags:
   - cutting-edge
 categories:
@@ -64,16 +64,16 @@ Related: [OpenAI's DALL-E 2 AI Is Only Bad News for Some Artists](https://extra-
 Related: [What Can You Do With AI Generated Art?](https://technical-tips.techidaily.com/the-ultimate-checklist-pre-purchase-assessments-for-optimal-video-recording-devices/) 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Set the Mood of the Scene
@@ -88,13 +88,6 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 
 ![A sad zebra running through a candy corn field in the dark.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-15-54.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Expand on Existing Photos
 
  "[Outpainting](https://openai.com/blog/dall-e-introducing-outpainting/)" is a feature that allows you to expand on existing photos in a number of ways. First, you can literally expand a photo by adding more to the frame.
@@ -104,21 +97,22 @@ Related: [What Can You Do With AI Generated Art?](https://technical-tips.techida
 ![DALL-E outpainting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/dall-e-outpainting.png) 
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also use this feature to "edit" certain parts of images. Say I didn't like the Sombrero in one of the robot images above. I can erase the Sombrero and describe a different hat or let DALL-E remove it entirely from the image.
 
 ![A robot eating a taco without the sombrero.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2022-09-29_12-29-15.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Outpainting is one of the coolest DALL-E features. There's a lot you can do with it to edit your own existing images or images created by DALL-E. It's easy to get lost in creating new prompts, but don't overlook Outpainting.
 
@@ -147,16 +141,20 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-secrets-of-iphones-video-loops/"><u>[Updated] Unveiling the Secrets of iPhone's Video Loops</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tactical-video-migration-youtube-to-dailymotion-masterclass/"><u>2024 Approved Tactical Video Migration YouTube to Dailymotion Masterclass</u></a></li>
-<li><a href="https://facebook.techidaily.com/administrative-control-integrating-new-members-on-facebook-pages/"><u>Administrative Control: Integrating New Members on Facebook Pages</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/customizing-windows-11-with-tailored-themes-and-styles/"><u>Customizing Windows 11 with Tailored Themes and Styles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enabling-rdc-access-for-windows-11-comprehensive-tutorial-to-connect-remotely/"><u>Enabling RDC Access for Windows 11: Comprehensive Tutorial to Connect Remotely</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-interactive-achievements-the-click-based-reward/"><u>In 2024, Interactive Achievements The Click-Based Reward</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-gif-animation-explained/"><u>In 2024, The Art of GIF Animation Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/valider-les-pieces-didentite-a-distance-grace-a-la-technologie-de-reconnaissance-optique-de-caracteres-ocr-de-abbyy-avec-le-systeme-trustid-en-nuage/"><u>Valider Les Pièces D'identité À Distance Grâce À La Technologie De Reconnaissance Optique De Caractères (OCR) De ABBYY Avec Le Système TrustID en Nuage</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-strategies-for-streaming-fb-live-on-zoom-platform/"><u>[New] 2024 Approved Strategies for Streaming FB Live on Zoom Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films/"><u>[Updated] 2024 Approved Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-samsungs-visionary-leap-the-ubd-k850-ultrablade-2023/"><u>2024 Approved Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-8-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://win-able.techidaily.com/batman-arkham-knight-glitch-guide-overcoming-game-freezes-and-fatal-mistakes/"><u>Batman: Arkham Knight Glitch Guide - Overcoming Game Freezes and Fatal Mistakes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-video-transcoding-tools-for-ubuntu-users-top-8-picks/"><u>Best Video Transcoding Tools for Ubuntu Users: Top 8 Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/clean-slate-banishing-past-searches-from-facebook/"><u>Clean Slate: Banishing Past Searches From Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-avi-files-to-m4a-format-for-free-with-movavis-online-software/"><u>Convert AVI Files to M4A Format for Free with Movavi's Online Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-transform-your-gifs-into-mkv-videos-with-ease/"><u>Free Online Tool: Transform Your GIFs Into MKV Videos with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuissimo-convertidor-ogg-e-ape-em-linha-pelo-movavi/"><u>Gratuíssimo Convertidor OGG E APE Em Linha Pelo Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-x-fold-2-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo X Fold 2 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-iphone-photography-overcoming-common-auto-focus-failures/"><u>Mastering iPhone Photography: Overcoming Common Auto-Focus Failures</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-best-12-sports-streaming-sites-freeandpaid/"><u>Updated In 2024, Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/virtueel-verwerpen-van-arw-naar-png-gratuite-online-convertitie-processen-met-movavi/"><u>Virtueel Verwerpen Van ARW Naar PNG: Gratuite Online-Convertitie-Processen Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vob-mjpeg-online-movavi/"><u>VOB를 무료로 MJPEG로 바꾸는 Online 도구 - Movavi</u></a></li>
 </ul></div>
 
