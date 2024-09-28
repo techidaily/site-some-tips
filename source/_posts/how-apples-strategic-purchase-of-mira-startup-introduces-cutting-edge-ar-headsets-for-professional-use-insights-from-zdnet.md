@@ -1,7 +1,7 @@
 ---
 title: How Apple's Strategic Purchase of Mira Startup Introduces Cutting-Edge AR Headsets for Professional Use | Insights From ZDNET
-date: 2024-09-15T19:33:01.064Z
-updated: 2024-09-22T18:18:19.816Z
+date: 2024-09-23T20:05:17.125Z
+updated: 2024-09-27T16:52:52.175Z
 tags:
   - ar+vr
 categories:
@@ -67,18 +67,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-detailed-analysis-life-in-spiral-with-gear-360-cam-for-2024/"><u>[New] Detailed Analysis Life in Spiral with Gear 360 Cam for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-revolutionaries-building-virtual-realms/"><u>[New] Revolutionaries Building Virtual Realms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-strategies-for-ppt-screen-recordings/"><u>[Updated] In 2024, Effective Strategies for PPT Screen Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>[Updated] In 2024, Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-changing-console-voice/"><u>[Updated] The Comprehensive Guide to Changing Console Voice</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-nuances-zooming-in-on-roblox/"><u>2024 Approved Navigating the Nuances Zooming In on Roblox</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-premium-sound-selection-optimal-websites-list/"><u>2024 Approved Premium Sound Selection Optimal Websites List</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-your-go-to-guide/"><u>Exploring Technology with Tom - Your Go-To Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/film-talents-unleashed-downloadable-content-pass-for-2024/"><u>Film Talents Unleashed Downloadable Content Pass for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208231568-hp-laptop-usb-dysfunction-heres-how-to-restore-its-functionality/"><u>HP Laptop USB Dysfunction? Here’s How to Restore Its Functionality!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/"><u>In 2024, Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/premium-collection-of-animated-texts-for-2024/"><u>Premium Collection of Animated Texts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-validating-your-online-identity-on-youtube-for-2024/"><u>Step by Step Validating Your Online Identity on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-mastery-in-cinematic-productions-with-kinemaster-for-2024/"><u>Transition Mastery in Cinematic Productions with Kinemaster for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

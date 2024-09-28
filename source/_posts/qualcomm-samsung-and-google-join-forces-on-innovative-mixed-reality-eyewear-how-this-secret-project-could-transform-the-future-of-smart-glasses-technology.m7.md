@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm, Samsung, and Google Join Forces on Innovative Mixed Reality Eyewear: How This Secret Project Could Transform the Future of Smart Glasses Technology"
-date: 2024-09-18T18:32:01.932Z
-updated: 2024-09-22T18:49:01.070Z
+date: 2024-09-27T10:41:51.694Z
+updated: 2024-09-27T20:54:13.117Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-8-top-picks-for-seamless-screen-recording-experience/"><u>[New] 8 Top Picks for Seamless Screen Recording Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-starting-and-participating-in-zoom-meetings-from-android-devices/"><u>[New] Starting and Participating in Zoom Meetings From Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>[New] The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/urning-viewers-into-vendors-mastery-of-youtube-income-streams-for-2024/"><u>[New] Turning Viewers Into Vendors Mastery of YouTube Income Streams for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>[New] Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-potential-snapchat-zooming-tips/"><u>[Updated] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stabilizing-shaky-images-a-realistic-benefit-or-hype/"><u>2024 Approved Stabilizing Shaky Images A Realistic Benefit or Hype?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syncopating-youtube-melodies-with-visuals/"><u>2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-cinemagraph-guide-top-5-must-know-tactics/"><u>2024 Approved The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>2024 Approved Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024s-cloud-pricing-breakdown-a-detailed-comparison/"><u>2024'S Cloud Pricing Breakdown A Detailed Comparison</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advancing-digital-solutions-abbyys-commitment-to-innovation-shines-in-q2-2019/"><u>Advancing Digital Solutions: ABBYY's Commitment to Innovation Shines in Q2 2019</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-x-fold-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo X Fold 2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>In 2024, The Secrets of Editing Numerical Data in TikToks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-absence-of-standard-printer-and-scanning-software-in-windows-10-operating-system/"><u>Resolved: Absence of Standard Printer and Scanning Software in Windows 10 Operating System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-the-potential-of-ai-writing-youtube-scripts-using-chatgpt/"><u>Unleashing the Potential of AI: Writing YouTube Scripts Using ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unusual-sideway-photos-in-instagram-storytelling-for-2024/"><u>Unusual Sideway Photos in Instagram Storytelling for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Save Big on a 4-Camera Security System + LED Floodlights - Just $80!
-date: 2024-09-18 20:21:51
-updated: 2024-09-20 12:54:34
+date: 2024-09-26T01:51:35.926Z
+updated: 2024-09-28T08:54:19.759Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +86,13 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -90,6 +104,13 @@ However, I was slightly disappointed by the video quality, which only goes up to
 A security camera of that resolution is not disappointing on its own, but it's a noticeable difference compared to the 2K-resolution Arlo Pro 5S that I previously had overlooking that area of my yard, though the Arlo is a little pricier, at $250\. To top it off, the [floodlight camera](https://www.zdnet.com/home-and-office/smart-home/eufys-new-floodlight-cam-e340-is-the-hardest-working-security-camera-ive-tested/) on the other side of my yard can go up to 3K resolution and is $10 cheaper than this Ring camera. 
 
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -116,11 +137,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-converting-youtube-audio-securely-master-3-proven-techniques/"><u>[New] 2024 Approved Converting YouTube Audio Securely Master 3 Proven Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-reimagining-photo-presentation-with-top-frame-tools-for-2024/"><u>[Updated] Reimagining Photo Presentation with Top Frame Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-storytelling-youtube-channels-to-follow-this-year/"><u>2024 Approved The Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>2024 Approved The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-choice-video-capture-apps-iphone/"><u>2024 Approved Top Choice Video Capture Apps iPhone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/exclusive-insta-stories-for-private-eyes-for-2024/"><u>Exclusive Insta Stories for Private Eyes for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-elite-list-best-computing-brands-of-2024-unveiled/"><u>Explore the Elite List: Best Computing Brands of 2024 Unveiled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/eyeview-scrutiny-exploration-for-2024/"><u>Eyeview Scrutiny Exploration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-handbook-to-drone-video-editing/"><u>In 2024, The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-filmora-editing-traits-for-fan-loyalty/"><u>In 2024, Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+</ul></div>
+

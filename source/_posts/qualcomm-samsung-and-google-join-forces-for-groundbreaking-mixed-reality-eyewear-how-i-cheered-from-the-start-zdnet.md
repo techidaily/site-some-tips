@@ -1,7 +1,7 @@
 ---
 title: Qualcomm, Samsung and Google Join Forces for Groundbreaking Mixed Reality Eyewear – How I Cheered From the Start | ZDNET
-date: 2024-09-19T16:34:03.221Z
-updated: 2024-09-22T18:30:35.361Z
+date: 2024-09-22T05:05:18.302Z
+updated: 2024-09-28T06:42:27.590Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,28 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-exploring-top-notch-gif-utilities-on-ios-devices/"><u>[New] Exploring Top-Notch GIF Utilities on iOS Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-solutions-for-missing-shorts-thumbnails-on-youtube/"><u>[New] Solutions for Missing Shorts Thumbnails on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[New] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-youtube-potential-implementing-chapter-sections/"><u>[New] Unlocking YouTube Potential Implementing Chapter Sections</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-mobile-apps-for-stellar-intros/"><u>[Updated] Cutting-Edge Mobile Apps for Stellar Intros</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-spectrumstreams-2024-worldwide-selection-at-fingertips/"><u>[Updated] SpectrumStreams 2024 Worldwide Selection at Fingertips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
+<li><a href="https://article-files.techidaily.com/capitalize-on-savings-ibuypower-celebrates-the-spirit-of-savings-with-memorial-day-sales-for-next-gen-gamers/"><u>Capitalize on Savings: IBUYPOWER Celebrates the Spirit of Savings with Memorial Day Sales for Next-Gen Gamers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-and-simple-methods-to-fix-frequent-crashes-in-titanfall-2/"><u>Fast and Simple Methods to Fix Frequent Crashes in Titanfall 2</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 14 Ultra to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades-for-2024/"><u>The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-movie-storage-space-needs-over-24-hours-for-2024/"><u>Understanding Movie Storage Space Needs Over 24 Hours for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

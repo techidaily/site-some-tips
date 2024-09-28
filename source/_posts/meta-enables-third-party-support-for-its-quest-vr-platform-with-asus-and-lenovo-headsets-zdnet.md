@@ -1,7 +1,7 @@
 ---
 title: Meta Enables Third-Party Support for Its Quest VR Platform with Asus and Lenovo Headsets - ZDNet
-date: 2024-09-21T19:10:03.656Z
-updated: 2024-09-22T17:23:12.815Z
+date: 2024-09-21T13:50:51.415Z
+updated: 2024-09-28T13:15:44.135Z
 tags:
   - ar+vr
 categories:
@@ -71,12 +71,35 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-finding-your-youtube-stored-melodies-easily/"><u>[New] 2024 Approved Finding Your YouTube-Stored Melodies Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-how-to-and-where-download-unboxing-video-background-music/"><u>[New] How To & Where Download Unboxing Video Background Music</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elite-d-class-dungeons-topping-the-list/"><u>[New] In 2024, Elite D-Class Dungeons Topping the List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[New] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-proven-methods-for-high-quality-webinars/"><u>[Updated] In 2024, Proven Methods for High-Quality Webinars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved Pioneering Editing Snapseed for the Newcomer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>2024 Approved Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/aurora-vs-standard-hd-is-the-premium-worth-it-in-2024/"><u>Aurora vs Standard HD Is the Premium Worth It, In 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/i-migliori-15-strumenti-digitali-per-registrare-in-modo-ottimale-suoni-vocali-e-musicali/"><u>I Migliori 15 Strumenti Digitali per Registrare in Modo Ottimale Suoni Vocali E Musicali</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-aesthetics-prime-laptop-wallpapers-online/"><u>In 2024, Fresh Aesthetics Prime Laptop Wallpapers Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Properly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>Top 2 Video Editing Apps Compared Filmora & Democracy Creator</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievable-offer-acquire-the-iconic-thordarth-vader-screen-with-powerful-2k-resolution-for-only-139-at-a-chinese-shop/"><u>Unbelievable Offer! Acquire the Iconic Thor/Darth Vader Screen with Powerful 2K Resolution for Only $139 at a Chinese Shop</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

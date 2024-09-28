@@ -1,7 +1,7 @@
 ---
 title: Facebook Meta Halts Work on VR Headset 'Quest Pro' And Its Successor
-date: 2024-09-19T16:04:01.813Z
-updated: 2024-09-22T17:30:39.780Z
+date: 2024-09-23T05:46:56.149Z
+updated: 2024-09-28T07:41:28.671Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>[New] 2024 Approved Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pixireview-criticism-app/"><u>[New] 2024 Approved PixiReview Criticism App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-final-cut-the-ultimate-guide/"><u>[New] Mastering Final Cut The Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms/"><u>[New] The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tips-for-procuring-high-quality-background-imagery/"><u>[New] Top Tips for Procuring High-Quality Background Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>[New] Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100t</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-neon-typography-made-easy-10-online-generators-to-try-now/"><u>New 2024 Approved Neon Typography Made Easy 10 Online Generators to Try Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer-for-2024/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

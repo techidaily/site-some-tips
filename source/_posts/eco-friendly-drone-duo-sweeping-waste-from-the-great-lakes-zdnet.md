@@ -1,7 +1,7 @@
 ---
 title: Eco-Friendly Drone Duo Sweeping Waste From the Great Lakes - ZDNET
-date: 2024-09-19T19:27:25.606Z
-updated: 2024-09-22T17:41:56.764Z
+date: 2024-09-21T20:36:10.197Z
+updated: 2024-09-28T09:38:02.312Z
 tags:
   - yard-outdoors
 categories:
@@ -20,6 +20,13 @@ Maria Diaz/ZDNET
 The [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) is $30 off, available for $200 through [Labor Day](https://www.zdnet.com/article/best-labor-day-deals-2024-8-29/).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways  
 
@@ -79,6 +86,19 @@ Maria Diaz/ZDNET
 
 The Ring Protect plan ranges from $5-$20 monthly, and aside from the mentioned features, it includes person alerts, the ability to arm and disarm the Ring system digitally, rich notifications, snapshot capture, and video history stored in the cloud for up to six months.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 After using the [Ring Spotlight Cam Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRing-Spotlight-Cam-Pro-Battery-White%2Fdp%2FB09DRX62ZV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfc654aac-451d-4428-990d-834c2c6ab84a%7Cdtp&dtb=1) for a few weeks, I found it to be a reliable home security camera with all the extra features worth the price. The two-way talk audio quality was the most impressive I've ever tried, delivering crystal clear audio without echo. 
@@ -92,10 +112,16 @@ A security camera of that resolution is not disappointing on its own, but it's a
 Additionally, many smart home users aren't prepared to pay monthly subscription fees to access plan-exclusive features, but plenty of users prefer the convenience of not having to worry about local storage and enjoy the extra perks a paid plan offers. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -130,5 +156,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficient-fortnite-imagery-design-quickly/"><u>[New] In 2024, Efficient Fortnite Imagery Design Quickly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-realizing-unseen-friend-requests-for-2024/"><u>[New] Realizing Unseen Friend Requests for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>2024 Approved The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ancestral-creations-public-domain-masterpieces/"><u>Ancestral Creations Public Domain Masterpieces</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-7-plus-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass iPhone 7 Plus Face ID?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-a-non-detected-new-external-storage-device-on-your-pc-a-step-by-step-guide/"><u>How to Resolve a Non-Detected New External Storage Device on Your PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-xs-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone XS In Different Conditionsin</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-nord-n30-se-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Nord N30 SE Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-melody-in-motion-iphones-role-in-making-music-videos/"><u>In 2024, Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>In 2024, The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tactics-for-flawless-solo-streaming-experiences/"><u>In 2024, Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>In 2024, Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-vibrance-grading-secrets-in-ps/"><u>In 2024, Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picture-perfect-zero-cost-photo-enhancement-app/"><u>Picture Perfect Zero Cost Photo Enhancement App</u></a></li>
+</ul></div>
 

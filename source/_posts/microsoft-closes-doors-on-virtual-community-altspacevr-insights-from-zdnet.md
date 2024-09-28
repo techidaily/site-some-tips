@@ -1,7 +1,7 @@
 ---
 title: Microsoft Closes Doors on Virtual Community AltspaceVR - Insights From ZDNet
-date: 2024-09-21T18:27:27.787Z
-updated: 2024-09-22T16:35:01.678Z
+date: 2024-09-22T22:20:19.138Z
+updated: 2024-09-28T09:30:05.343Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,29 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-basketball-enthusiasts-guide-to-online-viewing/"><u>[New] In 2024, Basketball Enthusiast's Guide to Online Viewing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionize-chromebooks-tone-with-our-essential-list-of-extensions/"><u>[New] Revolutionize Chromebook's Tone with Our Essential List of Extensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stand-out-from-the-noise-logo-design-for-podcast-success/"><u>[New] Stand Out From the Noise Logo Design for Podcast Success</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-tackling-iphone-lens-blur-steps-for-improved-focus-for-2024/"><u>[New] Tackling iPhone Lens Blur Steps for Improved Focus for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-30-acid-pro-replacements-explored/"><u>[New] Top 30 ACID Pro Replacements Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-removing-photo-borders/"><u>[Updated] The Ultimate Guide to Removing Photo Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-images-the-art-of-applying-luts-in-pro/"><u>[Updated] Transforming Images The Art of Applying LUTs in Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-sound-quality-top-6-recommendations-for-streamers/"><u>2024 Approved Innovating Sound Quality Top 6 Recommendations for Streamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-simplifying-connection-combining-linkedin-profile-with-your-tiktok-bio/"><u>2024 Approved Simplifying Connection Combining LinkedIn Profile with Your TikTok Bio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-toggle-the-past-the-twitch-live-trick/"><u>2024 Approved Toggle the Past The Twitch Live Trick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-videos-from-low-to-high-dynamic-range/"><u>2024 Approved Transforming Videos From Low to High Dynamic Range</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unifying-online-collaboration-tools-skype-and-zoom/"><u>In 2024, Unifying Online Collaboration Tools Skype & Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-path-to-costless-image-archives/"><u>In 2024, Unveiling the Path to Costless Image Archives</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-expert-picks-top-speech-transcription-tools-for-android-and-ios-users/"><u>Updated 2024 Approved Expert Picks Top Speech Transcription Tools for Android and iOS Users</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

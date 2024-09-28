@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Collaboration: Qualcomm Teams Up With Samsung & Google on Groundbreaking AR Glasses"
-date: 2024-09-19T19:15:49.798Z
-updated: 2024-09-22T17:06:51.393Z
+date: 2024-09-26T22:52:58.608Z
+updated: 2024-09-28T02:27:48.800Z
 tags:
   - ar+vr
 categories:
@@ -67,12 +67,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-your-brand-with-intriguing-instagram-puzzle-feeds-for-2024/"><u>[New] Elevating Your Brand with Intriguing Instagram Puzzle Feeds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tale-bearers-school-distinguished-dothee/"><u>[New] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-2022-winter-games-zenith-of-snowboard-cross/"><u>[New] The 2022 Winter Games Zenith of Snowboard Cross</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-a-compreayers-pathway-to-efficient-screen-recording-via-zd-software/"><u>[Updated] A Compreayer's Pathway to Efficient Screen Recording via ZD Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-focused-communication-tips-for-virtual-teams-for-2024/"><u>[Updated] Focused Communication Tips for Virtual Teams for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[Updated] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-primer-for-enthusiasts/"><u>[Updated] The Ultimate SRT Primer for Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-journey-of-iphone-photos-with-leading-lines/"><u>[Updated] The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcription-and-task-execution-on-the-go-fee-free/"><u>[Updated] Transcription and Task Execution on the Go – Fee-Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-youtubes-hidden-gems-the-comment-space/"><u>[Updated] Unveiling YouTube's Hidden Gems The Comment Space</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-prevent-unknown-numbers-from-disturbing-you-on-iphone-devices/"><u>Guide: Prevent Unknown Numbers From Disturbing You on iPhone Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-connect-airpods-to-a-macbook-air/"><u>How to Connect AirPods to a MacBook Air</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-beginners-blueprint-setting-up-on-youtube/"><u>In 2024, A Beginner's Blueprint Setting Up on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-larger-video-presentation-in-youtube/"><u>In 2024, The Path to Larger Video Presentation in YouTube</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-fcpx-tutorial-trimming-images-to-perfection-for-2024/"><u>New FCPX Tutorial Trimming Images to Perfection for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
