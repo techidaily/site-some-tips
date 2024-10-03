@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies Sought by Executives: Securing Elite Technology Professionals as Revealed in Insights From Industry Titans - ZDNet"
-date: 2024-09-17 18:15:55
-updated: 2024-09-20 12:38:48
+date: 2024-09-27T16:18:18.694Z
+updated: 2024-10-03T18:31:50.777Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ Finally, Mills ensures his company has a ready source of up-and-comping talent, 
 
 "We're going in and influencing their curriculum, offering internships, sponsorships, externships, and tuition reimbursement," he says. "It's about helping to find and fuel talent. We get some of our brightest and best people from local community sources."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Identify the opportunities
 
 Lisa Heneghan, global chief digital officer at consultancy firm KPMG, says the ability of a business to attract talent is directly related to the opportunity to learn new things. 
@@ -66,6 +73,13 @@ The key to success is showing how working for a company like KPMG, with a wide r
 "I show people they'll have the opportunity for new experiences and to broaden their skills in areas that they hadn't necessarily thought about; to get close to the client, sector or functional issue and to be creative," she says.
 
 "For me, the opportunity for technologists at KPMG is to work on business problems. But don't get me wrong. It's a very challenging market. And you must create mobility, flexibility, and excitement for people."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Expose your values
 
@@ -83,6 +97,13 @@ Another key value -- which Gonzalez says is probably his favorite -- is "own it"
 
 "People at LNER can really own what they're doing," he says. "They have the autonomy to focus on what we need to do and then get on and do it, and actually own that all the way through to delivery."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make people excited 
 
 Simon Liste, chief information technology officer at the Pension Protection Fund, goes out of his way to show potential candidates that being part of his organization means working on some meaty projects.
@@ -96,6 +117,13 @@ Liste says that show-and-tell mentality is something he's pushed massively.
 "When we engage with potential candidates, we talk about our values, we talk about the strategic plan, what we're doing, and how technology changes services directly. We show how our IT organization is influencing where we go next as a business," he says.
 
 "It's not about operational activity, it's about exciting work. They see the value that technology and digital can bring and the impact we've already made."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Cast your net wide
 
@@ -134,11 +162,29 @@ External recruitment can play an important role, too. And, once again, the peopl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-13-easy-to-master-revenue-strategies-on-reddit/"><u>[New] Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>[New] Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-design-mastery-in-motion-crafting-intriguing-podcast-covers/"><u>[Updated] In 2024, Design Mastery in Motion Crafting Intriguing Podcast Covers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-persuasion-exploring-6-video-genres/"><u>2024 Approved The Power of Persuasion Exploring 6 Video Genres</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-in-class-iphone-and-android-video-enhancers/"><u>Best-In-Class iPhone and Android Video Enhancers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-scripts-for-advanced-affects-workflows-for-2024/"><u>Essential Scripts for Advanced Affects Workflows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-striking-14-text-animation-illustrations/"><u>In 2024, Striking 14 Text Animation Illustrations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-impact-of-luts-on-professional-photography/"><u>In 2024, The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovating-beyond-boundaries-revitalizing-vr-content/"><u>Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-from-screen-to-share-3-easy-video-game-recording-methods-for-2024/"><u>New From Screen to Share 3 Easy Video Game Recording Methods for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-fix-for-your-hp-envy-5660-installing-drivers-made-simple/"><u>Quick Fix for Your HP Envy 5660: Installing Drivers Made Simple</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionizing-road-safety-the-cutting-edge-radar-learner-the-escort-ix-revealed/"><u>Revolutionizing Road Safety: The Cutting-Edge Radar Learner, The Escort iX Revealed</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-selecting-the-ultimate-facebook-pic/"><u>The Art of Selecting the Ultimate Facebook Pic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/through-virtual-lenses-exploring-vr-ar-and-mixed-reality/"><u>Through Virtual Lenses Exploring VR, AR, and Mixed Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-removing-spotifys-auto-suggesting-podcasts-for-2024/"><u>Tips for Removing Spotify's Auto-Suggesting Podcasts for 2024</u></a></li>
+</ul></div>
+

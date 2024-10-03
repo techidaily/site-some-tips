@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Builds: Enhancing Visual Studio with WiX Extensions"
-date: 2024-09-23T01:12:56.793Z
-updated: 2024-09-28T07:11:06.646Z
+date: 2024-10-02T18:11:45.644Z
+updated: 2024-10-03T18:11:56.922Z
 tags:
   - versus
 categories:
@@ -42,13 +42,6 @@ WiX is more like a programming tool; it uses XMLs and does not have a graphical 
 
 WiX Toolset has an extension that lets you use the Visual Studio IDE to create and compile setup projects. In this article, we will be guiding you through the creation of an installation package for a Windows Forms application using the **WiX Toolset Visual Studio Extension**. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to add the WiX Toolset extension to Visual Studio?
 
 We first need to add the WiX Toolset extension to the Visual Studio IDE before creating the installation package for the application. To do that, follow the next steps:
@@ -72,10 +65,10 @@ So, we will install a second extension, namely the Wax extension. It provides an
 ![Wax extension](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/wax-extension.png "Wax extension")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to add the Setup project to your application?
@@ -88,27 +81,20 @@ Once the environment setup is complete, let’s create the setup package for our
 
 ![Setup Project for WiX](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/setup-project-for-wix.png "Setup Project for WiX")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After creating the setup project, you should see it in the _Solution Explore_r. 
 
 ![Solution Explorer](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/solution-explorer.png "Solution Explorer")  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The _Product.wxs_ file contains the setup project logic.
 
 ![Product.wxs](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/product-wxs.png "Product.wxs")  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to edit product details?
 
@@ -131,10 +117,10 @@ You have to make some configurations here:
 ![add project output to your setup project](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/add-project-output-to-your-setup-project.png "add project output to your setup project")  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the files have the _unmapped_ state like in the image below, make sure you change the state to _resolved_ by pressing the _plus_ button under the warning sign.
@@ -146,10 +132,10 @@ Now, you should see the files in the _Products.wxs_ file.
 ![Products.wxs file](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/products-wxs-file.png "Products.wxs file")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to create Shortcuts for your application?
@@ -160,6 +146,13 @@ Creating a shortcut is a common requirement when installing an application, but 
 
 ![Define the directory structures](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/define-the-directory-structures.png "Define the directory structures")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Add the shortcuts to the installer package.
 
 ![Add the shortcuts to the installer package](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/add-the-shortcuts-to-the-installer-package.png "Add the shortcuts to the installer package")  
@@ -167,6 +160,13 @@ Creating a shortcut is a common requirement when installing an application, but 
 3\. Tell Windows to install the shortcuts.
 
 ![Tell Windows to install the shortcuts](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/tell-windows-to-install-the-shortcuts.png "Tell Windows to install the shortcuts")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to add installation dialogues?
 
@@ -176,35 +176,22 @@ When using Wix to create an installer package, it will not have the UI included 
 
 ![WiX Toolset add WinUiExtension.dll](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/wix-toolset-add-winuiextension-dll.png "WiX Toolset add WinUiExtension.dll")  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Go to the _Product.wsx_ file and add the next line inside the <_Product>_ element to reference the UI:  
 
 _<UIRef Id="WixUI\_Minimal" />_
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to install your application?
 
 Now, you can build the setup project. Then, go to the bin folder inside the setup project folder to find the MSI file. Run the file and install the application. After installation, you should find the shortcuts on the Program Menu and Desktop. 
 
 ![build the setup project](https://cdn.advancedinstaller.com/img/wix-toolset-vs-extension/build-the-setup-project.png "build the setup project")  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -213,6 +200,13 @@ WiX is a great tool for software packaging, but it can be tricky sometimes. It i
 You can have the same functionalities using **Advanced Installer**, but with a **modern and powerful GUI.** Advanced Installer also provides an extension to help you create and manage installers directly from Visual Studio. It offers a Viewer to quickly edit basic information, and you can also open the project in AI to have access to all available features. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Check out [this tutorial](https://www.youtube.com/watch?v=xG3RpCOtv4c "this tutorial") to see how to create Advanced Installer projects from Visual Studio.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Advanced Installer #1 alternative to the WiX Toolset
 
@@ -267,16 +261,18 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premium-portable-switch-game-clones/"><u>[New] 2024 Approved Premium Portable Switch Game Clones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-value-in-the-air-the-cheapest-yet-effective-drones/"><u>[New] Value in the Air The Cheapest Yet Effective Drones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app/"><u>2024 Approved The Complete Guide to Audio/Video Settings in Win11's Zoom App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-the-full-spectrum-of-sound-best-apps-for-music-videos/"><u>2024 Approved Unleash the Full Spectrum of Sound Best Apps for Music Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-integrating-youtube-effective-strategies-for-modern-teachers/"><u>In 2024, Integrating YouTube Effective Strategies for Modern Teachers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-steps-to-gather-thousands-of-videos-on-tiktok/"><u>In 2024, Seamless Steps to Gather Thousands of Videos on TikTok</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-time-lapse-titans-choosing-the-creme-de-la-camera/"><u>In 2024, Time-Lapse Titans Choosing the Crème De La Camera</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-smart-7-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Smart 7 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation-for-2024/"><u>The Ultimate Action Plan From TTML & XML to SRT Translation for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-ideas-into-pictures-an-ultimate-guide-to-ai-driven-image-generation-via-chatgpt/"><u>Transform Your Ideas Into Pictures: An Ultimate Guide to AI-Driven Image Generation via ChatGPT</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unearthing-the-potential-in-magixs-image-sorter/"><u>[New] 2024 Approved Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-first-time-filmmaker-guide-setting-up-logitech-cam-for-2024/"><u>[New] First-Time Filmmaker Guide Setting up Logitech Cam for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-effortless-strategies-to-detect-duplicate-and-phony-likes-for-2024/"><u>[Updated] Effortless Strategies to Detect Duplicate and Phony Likes for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-interactivity-tips-for-hosting-splitting-screen-events-on-facebook/"><u>[Updated] In 2024, Enhancing Interactivity Tips for Hosting Splitting-Screen Events on Facebook</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487791-get-the-pro-level-logitech-g502-hero-at-an-amazing-price-only-35-experience-ultra-high-definition-controls-and-25k-dpi-sensitivity/"><u>Get the Pro-Level Logitech G502 Hero at an Amazing Price - Only $35! Experience Ultra-High Definition Controls and 25K DPI Sensitivity.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-magic-5-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor Magic 5 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-passion-for-starry-jewelry-denied-by-samsung-a-tale-of-cosmic-aspirations-and-tech-restrictions/"><u>My Passion for Starry Jewelry Denied by Samsung – A Tale of Cosmic Aspirations and Tech Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pixel-8-pro-vs-oneplus-12-face-off-determining-the-undeniable-champion/"><u>Pixel 8 Pro Vs. OnePlus 12 Face-Off: Determining the Undeniable Champion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-contact-manager-unveiling-the-latest-updates-in-microsofts-outlook-mobile-application/"><u>Revamped Contact Manager: Unveiling the Latest Updates in Microsoft's Outlook Mobile Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamped-version-of-apples-sports-platform-whats-new/"><u>Revamped Version of Apple's Sports Platform - What's New?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revitalize-and-rejuvenate-your-aged-android-smartphone-with-these-8-key-strategies/"><u>Revitalize and Rejuvenate Your Aged Android Smartphone with These 8 Key Strategies!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-overcome-windows-11-installation-error-80240020/"><u>Step-by-Step Guide to Overcome Windows 11 Installation Error 80240020</u></a></li>
 </ul></div>
 

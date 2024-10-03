@@ -1,7 +1,7 @@
 ---
 title: "Guide to Generating Global Shortcut Keys via WiX: No Commercial Prompts Included"
-date: 2024-09-21T07:31:19.770Z
-updated: 2024-09-27T21:24:17.696Z
+date: 2024-09-26T16:12:29.180Z
+updated: 2024-10-03T18:51:11.310Z
 tags:
   - versus
 categories:
@@ -42,13 +42,6 @@ This article will show you how to fix ICE errors when creating non-advertised sh
 
 ### Advertised vs. Non-advertised shortcuts
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is an advertised shortcut?
 
 Advertised shortcuts are helpful for developers when making sure a software is installed and running as intended, without any missing pieces. 
@@ -77,10 +70,10 @@ Copy
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Keep in mind that his method forces you to add registry entries in your setup package, which may not be as practical in a multi-user scenario. This means that if a user uninstalls the application, all the other users will have orphaned registry entries in their respective HKCU hives.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A major difference between advertised and non-advertised shortcuts is the use of files (that are already installed per machine) as keypaths – which is not possible for non-advertised shortcuts.
@@ -109,6 +102,19 @@ Copy
 
 That’s it! By adding this line of code into your WiX project, you can turn any advertised shortcut into a non-advertised one without declaring additional registry entries for each shortcut.
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to create a non-advertised shortcut with Advanced Installer
 
 Through Advanced Installer’s GUI, you have a straightforward way to generate non-advertised shortcuts without using any code.
@@ -118,10 +124,10 @@ Through Advanced Installer’s GUI, you have a straightforward way to generate n
 ![Create New Shortcut](https://cdn.advancedinstaller.com/img/wix-child-images/create-new-shortcut.png "Create New Shortcut")  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. In the shortcut’s properties, you can use the "_Advertised Shortcut"_ checkbox to make your shortcut an advertised one. (This option is unchecked by default, leave it as it is to create a **non-advertised shortcut**).
@@ -134,13 +140,6 @@ Through Advanced Installer’s GUI, you have a straightforward way to generate n
 
 ![Change Shortcut Folder](https://cdn.advancedinstaller.com/img/wix-child-images/change-shortcut-folder.png "Change Shortcut Folder")  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5\. To make sure that your setup package is ICE valid, go to: File - Settings - Package Validation
 
 6\. In the **Build Settings** section, check the "_Enable ICE validation for MSI packages_” checkbox.
@@ -152,10 +151,10 @@ Done!
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Check out Advanced Installer’s friendly GUI through our [30-day full featured trial](https://tools.techidaily.com/advancedinstaller/products/)**.** (No credit card required)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -196,6 +195,13 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -219,21 +225,17 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-marker-techniques-for-efficient-video-cutting/"><u>[New] In 2024, Mastering Marker Techniques for Efficient Video Cutting</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-streaming-success-updated-youtube-revenue-policies/"><u>[New] Streaming Success Updated YouTube Revenue Policies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-zoom-utilization-a-chromebook-perspective/"><u>[New] Streamlined Zoom Utilization A Chromebook Perspective</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-potential-with-the-vida-editing-suite/"><u>[Updated] Unleashing Potential with the Vida Editing Suite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-soundscapes-with-fusion-studios-tips/"><u>2024 Approved Integrating Soundscapes with Fusion Studio's Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-a-rising-number-of-youtubers-fans/"><u>2024 Approved Strategies for a Rising Number of Youtubers' Fans</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tales-on-the-silver-screen-writing-for-cinema/"><u>2024 Approved Tales on the Silver Screen Writing for Cinema</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-editing-with-vita-a-complete-review/"><u>2024 Approved The Future of Editing with Vita - A Complete Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effective-techniques-to-downsize-your-mov-videos-without-losing-quality/"><u>Effective Techniques to Downsize Your MOV Videos Without Losing Quality</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-gameplay-update-nvidia-geforce-gtx-1660-ti-graphics-card-drivers/"><u>Enhance Your Gameplay: Update Nvidia GeForce GTX 1660 Ti Graphics Card Drivers</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/extract-your-dvd-content-for-mobile-playback-using-the-no-cost-winx-dvd-converter-mp4-avi-for-iphone-and-android/"><u>Extract Your DVD Content for Mobile Playback Using the No-Cost WinX DVD Converter (MP4, AVI) for iPhone and Android</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-qr-code-scanner-on-your-iphone-with-these-10-tips/"><u>How to Fix a Broken QR Code Scanner on Your iPhone with These 10 Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party-for-2024/"><u>Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-realme-narzo-60-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme Narzo 60 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-youtube-presence-with-these-8-free-courses-for-2024/"><u>[Updated] Elevate Your YouTube Presence with These 8 Free Courses for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insta-prowess-guide-the-9-secrets-behind-top-posters-success/"><u>[Updated] Insta Prowess Guide The 9 Secrets Behind Top Posters' Success</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-release-of-apples-new-sound-integrated-gadget-cost-projections-scheduled-launch-date-features-overview-and-secret-rumors/"><u>Anticipating the Release of Apple's New Sound-Integrated Gadget: Cost Projections, Scheduled Launch Date, Features Overview & Secret Rumors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y55s-5g-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y55s 5G (2023) Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rapidez-au-detriment-de-la-souplesse-comment-lacceleration-du-processus-douanier-a-la-frontiere-royaume-uniue-affecte-le-commerce/"><u>Rapidez Au Détriment De La Souplesse : Comment L'accélération Du Processus Douanier À La Frontière Royaume-Uni/UE Affecte Le Commerce</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/soundscapes-synergy-ideal-dj-videos-to-download/"><u>Soundscapes Synergy Ideal DJ Videos to Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-dadoption-des-technologies-dans-lindustrie-de-lassurance-un-plan-detaille/"><u>Stratégies D'Adoption Des Technologies Dans L'Industrie De L'Assurance : Un Plan Détaillé</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-success-your-ultimate-roadmap-for-synchronizing-human-resources-procedures-and-information-in-automation/"><u>Streamlining Success: Your Ultimate Roadmap for Synchronizing Human Resources, Procedures & Information in Automation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-for-stealthy-login-silencing-security-prompts-in-windows-11/"><u>Tricks for Stealthy Login: Silencing Security Prompts in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/valider-les-pieces-didentite-a-distance-grace-a-la-technologie-de-reconnaissance-optique-de-caracteres-ocr-de-abbyy-avec-le-systeme-trustid-en-nuage/"><u>Valider Les Pièces D'identité À Distance Grâce À La Technologie De Reconnaissance Optique De Caractères (OCR) De ABBYY Avec Le Système TrustID en Nuage</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Silent Deployment & Removal with Wix MSI for Your Web Application
-date: 2024-09-24T12:06:32.352Z
-updated: 2024-09-28T10:25:26.766Z
+date: 2024-09-28T19:34:17.959Z
+updated: 2024-10-03T16:47:55.778Z
 tags:
   - versus
 categories:
@@ -42,19 +42,6 @@ This approach proves particularly beneficial in scenarios where you need to perf
 
 If you're using WiX and you want to learn **how to create an MSI package for a silent installation or uninstallation** of an application, this article is exactly what you're searching for.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to silently install and uninstall the MSI package
 
 When you are creating an MSI installation package with WiX, you have two options for performing a silent install and uninstall:
@@ -81,11 +68,31 @@ Copy
 
 ![WIX MSI to do a silent install or uninstall of a web app](https://cdn.advancedinstaller.com/img/msi-package-silent-install-uninstall-wix/wix-msi-to-do-a-silent-install-or-uninstall-of-a-web-app.png "WIX MSI to do a silent install or uninstall of a web app")  
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can use the **/l\*v** install parameter to create an installation log. As the GUI is hidden, the installation log helps you identify the errors that can occur during the installation process.
 
 If your installation package uses an EXE bootstrapper, you have to use a specific command line to launch the MSI. This command line can use the same parameters as when the MSI is launched with msiexec. The parameters will be passed to the MSI package.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Keep in mind that you must **use an elevated command prompt** to silently install an MSI package. Otherwise, the installation will fail as you do not have the privileges to complete the installation. To achieve this, use the Run as administrator context menu option.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to make the MSI installer package silent using Advanced Installer?
 
@@ -96,23 +103,17 @@ You can find this option on the _Install Parameters_ page, under the _Install Op
 ![make the MSI installer package silent using Advanced Installer](https://cdn.advancedinstaller.com/img/msi-package-silent-install-uninstall-wix/make-the-msi-installer-package-silent-using-advanced-installer.png "make the MSI installer package silent using Advanced Installer")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -151,13 +152,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -181,19 +175,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-audiovisual-elevation-leading-high-definition-hdmi-21-displays/"><u>[New] Audiovisual Elevation Leading High-Definition (HDMI 2.1) Displays</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-dimension-dilemma-solved-why-does-imovie-crop/"><u>[New] In 2024, Dimension Dilemma Solved Why Does iMovie Crop?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-elevation-of-professional-display-an-in-depth-examination-of-the-bl2711u/"><u>[New] The Elevation of Professional Display An In-Depth Examination of the BL2711U</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>[New] The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>[New] Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-your-online-presence-with-linked-fb-stories/"><u>[Updated] 2024 Approved Optimize Your Online Presence with Linked FB Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>[Updated] Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-quickest-way-to-entertain-kapwing-memes/"><u>2024 Approved The Quickest Way to Entertain - Kapwing Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-fisheye-camera-capabilities/"><u>2024 Approved The Ultimate Guide to Fisheye Camera Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-downloading-wm6/"><u>2024 Approved Ultimate Tutorial for Downloading WM6</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-combine-two-columns-in-excel/"><u>How to Combine Two Columns in Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-your-speeches-top-7-ai-assistants/"><u>Optimize Your Speeches: Top 7 AI Assistants</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/powerful-manycam-substitutes-discover-superior-live-broadcast-tools-and-remote-camera-features/"><u>Powerful ManyCam Substitutes - Discover Superior Live Broadcast Tools and Remote Camera Features</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-video-generator-in-2024/"><u>Updated What Is an AI Video Generator, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-escape-from-ennui-with-humor-top-20-funny-faces-in-social-media-jail/"><u>[New] In 2024, Escape From Ennui with Humor Top 20 Funny Faces in Social Media Jail</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-extended-motion-systems-appraisal/"><u>2024 Approved Extended Motion Systems Appraisal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-photography-vertical-vistas-via-mobile/"><u>2024 Approved Innovative Photography Vertical Vistas via Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-aurora-hdr-experience-is-it-transformative/"><u>2024 Approved The Aurora HDR Experience Is It Transformative?</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-file-dates-in-windows-a-practical-overview/"><u>Changing File Dates in Windows: A Practical Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-snapping-windows-uac-alerts/"><u>How-To: Snapping Windows UAC Alerts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-upgrading-your-edit-why-final-cut-pro-outshines-final-cut-express/"><u>New In 2024, Upgrading Your Edit Why Final Cut Pro Outshines Final Cut Express</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-news-recap-what-to-expect-from-the-latest-phone-launches-by-google-and-samsung-this-week/"><u>Tech News Recap: What to Expect From the Latest Phone Launches by Google and Samsung This Week</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-advantages-of-choosing-a-smartphone-with-e-ink-technology-a-personal-perspective/"><u>The Advantages of Choosing a Smartphone with E-Ink Technology: A Personal Perspective</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-concept-of-ai-singularity-explained-reality-check/"><u>The Concept of AI Singularity Explained: Reality Check.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hidden-costs-of-mining-bitcoin-on-your-personal-computer/"><u>The Hidden Costs of Mining Bitcoin on Your Personal Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-top-10-reading-list-chosen-by-our-community/"><u>The Ultimate Top 10 Reading List, Chosen by Our Community</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-reasons-artificial-intelligence-assistants-havent-won-me-over-insights-and-perspectives/"><u>Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-ai-art-with-simple-tweaks-unlock-potential-using-these-essential-8-midjourney-commands/"><u>Transforming AI Art with Simple Tweaks: Unlock Potential Using These Essential 8 Midjourney Commands</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-time-embracing-perplexity-the-innovative-ai-driven-search-platform/"><u>Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vintage-video-magic-a-step-by-step-guide-to-vhs-effects-in-final-cut-pro/"><u>Updated 2024 Approved Vintage Video Magic A Step-by-Step Guide to VHS Effects in Final Cut Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-users-explore-these-8-great-video-editors/"><u>Windows Users, Explore These 8 Great Video Editors</u></a></li>
 </ul></div>
 

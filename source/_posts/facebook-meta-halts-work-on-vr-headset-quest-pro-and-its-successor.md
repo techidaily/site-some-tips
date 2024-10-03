@@ -1,7 +1,7 @@
 ---
 title: Facebook Meta Halts Work on VR Headset 'Quest Pro' And Its Successor
-date: 2024-09-23T05:46:56.149Z
-updated: 2024-09-28T07:41:28.671Z
+date: 2024-10-01T19:10:49.993Z
+updated: 2024-10-03T18:10:43.135Z
 tags:
   - ar+vr
 categories:
@@ -69,27 +69,27 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>[New] 2024 Approved Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-pixireview-criticism-app/"><u>[New] 2024 Approved PixiReview Criticism App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-mastering-final-cut-the-ultimate-guide/"><u>[New] Mastering Final Cut The Ultimate Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms/"><u>[New] The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-tips-for-procuring-high-quality-background-imagery/"><u>[New] Top Tips for Procuring High-Quality Background Imagery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>[New] Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100t</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 10C? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-neon-typography-made-easy-10-online-generators-to-try-now/"><u>New 2024 Approved Neon Typography Made Easy 10 Online Generators to Try Now</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer-for-2024/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-securing-virtual-triumphs-mastering-screen-captures-in-pc-games/"><u>[New] In 2024, Securing Virtual Triumphs - Mastering Screen Captures in PC Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-path-to-outstanding-interviewer-expertise/"><u>[New] The Path to Outstanding Interviewer Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-yearly-selection-of-top-free-pc-graphic-artists-in-czechia-your-ultimate-guide-by-movavi/"><u>2024 Yearly Selection of Top Free PC Graphic Artists in Czechia: Your Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225420916-m1vmp4-movavi/"><u>安心してM1VをMP4に変換: お手頃価格無料オンラインツール集 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/54sh5paz44gn5l244gi44kl57eo6zug44ox44ot44kw44op44og44cq5yaz55yf44cr44oa44km44oz44ot44o844oj5oml6acg/"><u>無料で使える編集プログラム【写真】ダウンロード手順</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-subir-videos-a-instagram-usando-tu-pc-tutorial-para-sistemas-windows-and-macos/"><u>Cómo Subir Vídeos a Instagram Usando Tu PC (Tutorial Para Sistemas Windows & macOS)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-svchost-process-eating-up-your-cpu-in-windows-11/"><u>How to Fix the Svchost Process Eating Up Your CPU in Windows 11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-iphone-xs-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from iPhone XS Max or iPad?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-thaw-out-with-five-inviting-winterscapes-for-video-filming/"><u>In 2024, Thaw Out with Five Inviting Winterscapes for Video Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-meilleures-utilitaires-libres-de-trace-en-2024-classement-de-movavi/"><u>Les Meilleures Utilitaires Libres De Tracé en 2024 : Classement De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-flv-video-playback-insights-and-tools-using-the-movavi-converter/"><u>Mastering FLV Video Playback: Insights & Tools Using the Movavi Converter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/podcast-production-perfection-from-draft-to-audio-bliss/"><u>Podcast Production Perfection From Draft to Audio Bliss</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c12-plus-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C12 Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-most-effective-gpt-3-conversational-starters/"><u>Top 10 Most Effective GPT-3 Conversational Starters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-audio-m4a-al-codec-matroska-gratuito-en-linea-usando-movavi-ejemplo-perfecto/"><u>Transformar Archivos Audio M4A Al Códec Matroska Gratuito en Línea Usando Movavi - Ejemplo Perfecto</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

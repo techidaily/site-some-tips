@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Celebrity Flair: How to Integrate Master Chief and Boy George Into Waze Routes"
-date: 2024-09-19 21:49:51
-updated: 2024-09-20 12:14:16
+date: 2024-09-29T16:21:06.294Z
+updated: 2024-10-03T17:14:01.374Z
 tags:
   - work-life
 categories:
@@ -33,11 +33,25 @@ Whether you're planning a road trip to visit family for the holidays, or use its
 
 ## How to change the voice in Waze
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Waze
 
 Open the Waze app on your phone. You don't have to be logged in to an account to change the voice of the navigation. 
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on sound icon
 
@@ -79,9 +93,29 @@ Maria Diaz/ZDNET
 3. Select **Drive with Santa**.
 4. Customize your **Moods, Car,** and **Voice directions**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can you have Morgan Freeman or Yoda give you directions?
 
 Waze rotates different celebrity voices at different times. Unfortunately, Morgan Freeman or Yoda voices are not available on the Waze app. However, you can have Waze give you directions using the voices of Terminator, Boy George, Master Chief or Escharum from Halo, Maisie from Sea Beast, Kehlani, Christina Aguilera, or Andy Field, just to name a few.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -120,11 +154,31 @@ In addition to English, Waze has a variety of different languages and different 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-exploring-the-best-10-editors-to-craft-professional-reels/"><u>[New] 2024 Approved Exploring the Best 10 Editors to Craft Professional Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beyond-basics-advanced-imaging-and-video-with-hero5-black/"><u>[New] Beyond Basics Advanced Imaging & Video with Hero5 Black</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decoding-the-layout-of-instagram-stories-feature/"><u>[New] In 2024, Decoding the Layout of Instagram Stories Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[New] The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-lives-10-cinematic-inspirations/"><u>[New] Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-creativity-with-top-title-methods/"><u>[New] Unlock Your Creativity with Top Title Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-accessory-hits-for-sj-series-drivers/"><u>[Updated] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-urban-oasis-creation-bridging-concrete-with-wildlife-habitats/"><u>[Updated] Urban Oasis Creation Bridging Concrete with Wildlife Habitats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-upload-apples-end-to-end-process-guide/"><u>2024 Approved Streamlining Upload Apple’s End-to-End Process Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-software-guide-for-tempo-alteration/"><u>2024 Approved Ultimate Software Guide for Tempo Alteration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5-effortless-tips-to-fix-the-launch-glitch-in-genshin-impact/"><u>5 Effortless Tips to Fix the Launch Glitch in Genshin Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>In 2024, The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/max-360-vs-hero-11-gopro-cameras-face-off/"><u>Max 360 Vs. Hero 11 - GoPro Cameras Face Off</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4-compression-techniques-how-to-minimize-file-size-without-sacrificing-quality/"><u>MP4 Compression Techniques: How to Minimize File Size Without Sacrificing Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones-for-2024/"><u>Strategies to Find the Perfect Power Source for Drones for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-video-de-mpeg-a-mp4-online-sin-costo-con-movavi/"><u>Transforma Video De MPEG a MP4 Online Sin Costo Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-potential-pitfalls-of-using-ai-as-a-mental-wellness-guide/"><u>Understanding the Potential Pitfalls of Using AI as a Mental Wellness Guide</u></a></li>
+</ul></div>
+

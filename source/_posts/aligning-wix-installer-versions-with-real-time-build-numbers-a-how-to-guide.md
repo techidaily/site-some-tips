@@ -1,7 +1,7 @@
 ---
 title: Aligning WiX Installer Versions with Real-Time Build Numbers - A How-To Guide
-date: 2024-09-22T02:19:49.117Z
-updated: 2024-09-27T18:04:38.969Z
+date: 2024-09-28T16:39:21.731Z
+updated: 2024-10-03T17:35:43.804Z
 tags:
   - versus
 categories:
@@ -39,10 +39,10 @@ Written by [Radu Popescu](https://tools.techidaily.com/advancedinstaller/product
 Do you need your installer to keep its current build version? In this article, will go through all the steps you need to set your WiX installer version to the current build version.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Start with Your Base Application
@@ -80,10 +80,10 @@ Name="SampleApp" Version="1.0.0.0" Manufacturer="Caphyon" Language="1033">
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Binder Variables to Pass the Product Version of the Current Build Version
@@ -97,10 +97,10 @@ Binder Variables are properties that are not available until the linker is about
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For an in-depth description of supported binder variables and examples, you can consult this [article](https://wixtoolset.org/docs/v3/overview/light/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 First, we have to pass the version of our CMTrace.exe file to our Product. For that, we need to take a look at our file declaration section.
@@ -178,10 +178,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -207,18 +207,18 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-20-best-snapchat-filters-and-lenses-to-make-your-snaps-special/"><u>[New] In 2024, 20 Best Snapchat Filters & Lenses to Make Your Snaps Special</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-soundscapes-synopsis-a-guide-to-visual-tunes/"><u>[New] Soundscapes Synopsis A Guide to Visual Tunes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>[New] Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-synchronized-system-apple-watch-and-mac-unlocking/"><u>[Updated] Synchronized System Apple Watch and Mac Unlocking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-textual-transformation-enrich-your-images-with-words-pcmac-style/"><u>[Updated] Textual Transformation Enrich Your Images with Words, PC/Mac Style</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>[Updated] Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-from-dissonance-to-harmony-kinemasters-transition-magic/"><u>2024 Approved From Dissonance to Harmony Kinemaster’s Transition Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>2024 Approved Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/best-5-free-e-reader-apps-for-mac-compare-and-download/"><u>Best 5 Free E-Reader Apps for Mac: Compare and Download</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excels-advanced-operational-skills-eclipsing-chatgpts-potential/"><u>Excel's Advanced Operational Skills Eclipsing ChatGPT's Potential</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-camon-30-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Camon 30 Pro 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-breaking-the-ice-a-guide-to-crafting-strikingly-effective-tiktok-captions/"><u>In 2024, Breaking the Ice A Guide to Crafting Strikingly Effective TikTok Captions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mirthful-methods-building-humor-in-a-click-for-2024/"><u>Mirthful Methods Building Humor in a Click for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-effective-ways-to-tweak-songs-playback-rate-on-spotify/"><u>[New] Effective Ways to Tweak Songs' Playback Rate on Spotify</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-innovative-posting-add-youtube-to-your-insta-narratives/"><u>[New] In 2024, Innovative Posting Add YouTube to Your Insta Narratives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-can-photoshops-image-smoothing-revolutionize-editing/"><u>[Updated] Can Photoshop’s Image Smoothing Revolutionize Editing?</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-comparative-study-of-youtubes-and-dailymentions/"><u>In 2024, Comparative Study of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-and-utilizing-nvidias-cutting-edge-rtx-ai-bot-in-your-computer-setup/"><u>Integrating and Utilizing NVIDIA's Cutting-Edge RTX AI Bot in Your Computer Setup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-in-digital-media-srgb-preference/"><u>Mastery in Digital Media Srgb Preference</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-social-media-impact-with-these-5-tricks-for-enhanced-facebook-productivity/"><u>Maximize Social Media Impact with These 5 Tricks for Enhanced Facebook Productivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-paperwork-next-generation-smart-document-handling-transforms-efficiency/"><u>Revolutionizing Paperwork: Next-Generation Smart Document Handling Transforms Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-financial-sector-how-rpa-and-nlp-offer-innovative-solutions/"><u>Revolutionizing the Financial Sector: How RPA and NLP Offer Innovative Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-enterprise-potential-enhancing-roi-through-ai-driven-content-strategies-insights-from-the-abbyy-blog/"><u>Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-analytics-and-visitor-insights/"><u>Utilizing Cookiebot Technology for Improved Site Analytics and Visitor Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/weltweit-kooperiert-kodak-alaris-mit-abbyy-fur-die-gemeinsame-digitale-datenverarbeitung/"><u>Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung</u></a></li>
 </ul></div>
 

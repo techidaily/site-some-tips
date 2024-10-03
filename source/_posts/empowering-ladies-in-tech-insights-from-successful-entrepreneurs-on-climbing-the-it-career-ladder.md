@@ -1,7 +1,7 @@
 ---
 title: "Empowering Ladies in Tech: Insights From Successful Entrepreneurs on Climbing the IT Career Ladder"
-date: 2024-09-18 19:34:26
-updated: 2024-09-20 10:35:35
+date: 2024-10-01T17:41:59.239Z
+updated: 2024-10-03T17:49:46.297Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ Heneghan says modern business needs engaged communicators and all senior manager
 
 "I'm rolling that initiative out globally, but you have to keep challenging yourself on diversity every day. I just think we all must be ruthless and rigorous." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Don't fit people into neat boxes
 
 Clare Lansley, CIO at Aston Martin Cognizant Formula One, says there's a lot more that can be done in terms of diversity in IT.
@@ -69,6 +76,13 @@ And Lansley encourages recruiters to be more open than relying on a wish list of
 
 "I think a lot of recruiters go for a wish list -- 'this would be my perfect candidate'. But I would challenge those guys by saying, 'Have you ever hired your perfect candidate?' There are always areas where you're compromising. I'd much rather hire for attitudes and behaviors, because at the end of day, I can teach skills." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Encourage people to find their voice
 
 Rajeswari Koppala, senior manager of DevOps at United Airlines, sees herself as an IT professional who deserves respect and attention from her peers.
@@ -89,6 +103,13 @@ Don't let others try to push you down and don't be afraid to grab the mic and ta
 
 "If you're not tall enough to look at something, you would take the help of a tool," she says. "So, you just need to put your effort into being seen or heard and to make a difference in your own way."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Show younger candidates the benefits
 
 Adam Warne, CIO at retailer River Island, says a diverse team means fresh perspectives and new ways of solving problems.
@@ -106,6 +127,13 @@ Warne says one answer is to start encouraging more people to think about IT at a
 "We need to get into the schools. We need to interact with people when they're thinking about what their career might be in 10 years' time, and we need to be talking to them openly and honestly about what a career in tech might look like. Because for me, it's for everybody," he says.
 
 "Technology is not a career that is limited to certain demographics or people who like playing video games. It's a career for anybody, and anybody should be able to get into it. We need to do more to influence younger people before they're making career choices, and demystifying the myths about what a career in tech looks like."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Create senior role models
 
@@ -140,11 +168,31 @@ Plumettaz says more females in senior positions means more role models for the n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-meme-masters-at-your-fingertips-app/"><u>[New] Meme Masters at Your Fingertips (App)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[New] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summit-creation-pro-x-evaluation/"><u>[New] Summit Creation Pro X Evaluation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-learn-to-switch-up-your-instagram-vocal-branding/"><u>[Updated] 2024 Approved Learn to Switch Up Your Instagram Vocal Branding</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cutting-edge-video-sharing-from-facebook-to-whatsapp-for-2024/"><u>[Updated] Cutting-Edge Video Sharing From Facebook to WhatsApp for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-filmoras-route-to-convert-avi-to-eye-catching-gifs/"><u>[Updated] Filmora’s Route to Convert AVI to Eye-Catching GIFs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sound-senses-try-our-free-online-rhythm-analyzers/"><u>[Updated] In 2024, Sound Senses Try Our FREE Online Rhythm Analyzers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>[Updated] Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stretching-youtube-videos-to-full-display/"><u>2024 Approved Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-affordable-gaming-tunes-top-10-lists/"><u>2024 Approved The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/become-a-pro-mastering-codegpt-install-in-vs-code/"><u>Become a Pro: Mastering CodeGPT Install in VS Code</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/bridging-social-gaps-efficiently-share-video-content-between-platforms-for-2024/"><u>Bridging Social Gaps Efficiently Share Video Content Between Platforms for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-exploration-the-dji-phantom-4-experience-reviewed/"><u>In 2024, Total Exploration The DJI Phantom 4 Experience Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-share-cant-be-opened-on-geforce-in-w10w11/"><u>Tackling Share Can't Be Opened on GeForce in W10/W11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-iphone-guide-to-water-reflected-imagery-for-2024/"><u>The Ultimate iPhone Guide to Water-Reflected Imagery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
+</ul></div>
+

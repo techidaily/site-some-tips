@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies to Convince Leaders and Investors to Embrace Your Disruptive Concept - Insights From ZDNet
-date: 2024-09-18 14:14:31
-updated: 2024-09-20 12:20:30
+date: 2024-10-02T19:52:21.630Z
+updated: 2024-10-03T16:29:37.485Z
 tags:
   - work-life
 categories:
@@ -45,6 +45,13 @@ Before you know it, says Haake, you've got a critical mass of people who are inv
 
 "And it goes to the board and the business case is signed off," she says. "It's very clever and relies on phenomenal people and influencing skills, without ever going into manipulation. It's clever influencing."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Look after your stakeholders
 
 Cathrine Levandowski, global head of operations at lifestyle management company [Quintessentially](https://quintessentially.com/), says selling a great idea to the business is all about stakeholder management. 
@@ -69,6 +76,13 @@ Levandowski says people across Quintessentially have access to reports and dashb
 
 "Those are the things that matter most -- not just understanding the concept of the technology, and what that means for the whole business, but how the creativity benefits them as well."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Build a partnership
 
 Jarrod Phipps, CIO at automotive specialist [Holman](https://www.holmanauto.com/), says the key to success is getting other people to see that there's an issue -- and to make that connection on their terms.
@@ -83,6 +97,13 @@ Phipps says that when you get your pitch right, you don't have to sell your idea
 
 "So, start with a problem -- either illuminate that a problem exists or take the momentum behind someone else identifying that a problem exists and partner in a solution. Then, it's not really a sale, it's about working together."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make a strategic connection
 
 Véronique van Houwelingen, solution manager for conversational technology at [Air France-KLM](https://www.airfranceklm.com/en), says you're much more likely to get the backing for a fresh idea if you link it to the people who buy your company's products and services.
@@ -96,6 +117,13 @@ Another way you're likely to be successful, says van Houwelingen, is if you link
 "It makes sense to create business cases that are connected to one of your company's key pillars because otherwise, it's unlikely to get attention," she says. 
 
 "So, focus on the right topics. If it fits, then go ahead and try to make the right points."
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Demonstrate your idea
 
@@ -136,11 +164,33 @@ Vanden Eynde says that's when he called on Cisco and ran a proof-of-concept tria
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-keep-the-momentum-ios-and-android-gif-savings-for-2024/"><u>[New] How to Keep the Momentum IOS & Android GIF Savings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-from-dream-to-documentation-essential-ways-to-record-your-sims-epic-quests-in-sims-4/"><u>[New] In 2024, From Dream to Documentation Essential Ways to Record Your Sims' Epic Quests in Sims 4</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[Updated] Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-transition-from-skype-to-zoom-quick-tips/"><u>[Updated] Seamless Transition From Skype to Zoom Quick Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-empowering-film-suggestions/"><u>[Updated] The Ultimate List Empowering Film Suggestions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-10-editing-upgrades-for-final-cut-pro-professionals-for-2024/"><u>[Updated] Top 10 Editing Upgrades for Final Cut Pro Professionals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-30-webcams-elevating-audio-quality/"><u>[Updated] Top 30 Webcams Elevating Audio Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[Updated] Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>2024 Approved Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-force-restart-an-iphone-and-enter-recovery-mode/"><u>How to Force Restart an iPhone and Enter Recovery Mode</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-k11x-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to K11x Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>In 2024, Affordable Cloud Keep Optimal Pricing for Huge Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>In 2024, The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-tiktok-video-enhancement-with-zoom-for-2024/"><u>Mastering TikTok Video Enhancement with Zoom for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protecting-yourself-while-buying-online-a-comprehensive-shoppers-safety-manual/"><u>Protecting Yourself While Buying Online: A Comprehensive Shopper's Safety Manual</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-apple-listed-podcast-success-for-2024/"><u>Strategies for Apple-Listed Podcast Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-windows-10-audio-handbook-for-2024/"><u>The Essential Windows 10 Audio Handbook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-eight-destinations-for-3d-typography-for-2024/"><u>Top Eight Destinations for 3D Typography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-quantum-hdr-your-comprehensive-guide-for-2024/"><u>Unlocking Quantum HDR Your Comprehensive Guide for 2024</u></a></li>
+</ul></div>
+

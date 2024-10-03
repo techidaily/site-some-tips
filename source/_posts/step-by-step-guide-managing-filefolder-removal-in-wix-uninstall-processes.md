@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Managing File/Folder Removal in WiX Uninstall Processes"
-date: 2024-09-22T18:40:56.810Z
-updated: 2024-09-28T10:13:43.989Z
+date: 2024-09-28T18:53:10.560Z
+updated: 2024-10-03T16:06:01.413Z
 tags:
   - versus
 categories:
@@ -126,13 +126,6 @@ Once you double-click the batch file, the MSI should be created.
 
 ![Remove MSI file with WiX](https://cdn.advancedinstaller.com/img/wix-child-images/wixremovefilemsi.png "Remove MSI file with WiX")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If we install and uninstall the MSI, all the files should be removed during uninstallation and no files will remain in the system.
 
 ### How to Remove Folders with WiX
@@ -203,11 +196,25 @@ Copy
 
 ![Remove folder with WiX](https://cdn.advancedinstaller.com/img/wix-child-images/wixremovefolder.png "Remove folder with WiX")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As previously mentioned, you need to be aware of what you are trying to achieve in terms of files and folders removal in your MSI. For demo purposes, we used a hardcoded VBScript, which is not a best practice.
 
 An ideal script would have the ability to get the MSI directory variables to be able to correctly remove the directories during uninstallation – if the user selects to install the application in a different directory.
 
 Another important aspect is when and how you declare your custom action to run. In our example, we are deleting folders in “Program Files”, meaning that we need to declare the custom as [action to run as deferred](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Remove files and folders with Advanced Installer?
 
@@ -223,13 +230,6 @@ To achieve this, follow these steps:
 
 ![Advanced Installer File Removal](https://cdn.advancedinstaller.com/img/wix-child-images/aifileremoval.png "Advanced Installer File Removal")  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. A new dialog will appear where you can specify a file name, select a certain file type that you want to be deleted, and also choose if the operation happens during the installation or uninstallation of the MSI. 
 
 You also have two more options: to **Remove Empty Folders** or **Remove Non Empty Folders**.
@@ -238,13 +238,6 @@ You also have two more options: to **Remove Empty Folders** or **Remove Non Empt
 
 ![Advanced Installer File Removal Dialog](https://cdn.advancedinstaller.com/img/wix-child-images/aifileremovaldialog.png "Advanced Installer File Removal Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. If you want to delete an entire folder or clean up additional folders left by your application, you can right-click on the folder and choose **Properties.**
 
 5\. A new dialog will appear which will have the**Operations** tab. Click on it.
@@ -252,15 +245,22 @@ You also have two more options: to **Remove Empty Folders** or **Remove Non Empt
 ![Advanced Installer Folder Operations](https://cdn.advancedinstaller.com/img/wix-child-images/aifolderoperations.png "Advanced Installer Folder Operations")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can choose to delete the folder whether it’s empty or not and select when the removing action should occur, as well as additional conditions and the overwrite behaviour.
 
 As you can see, Advanced Installer's GUI makes removal operations for files and folders a more seamless process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -323,20 +323,15 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-savespace-pros-review-summary/"><u>[New] 2024 Approved SaveSpace Pros Review Summary</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-timing-translation-from-20mb-to-seconds-measurement/"><u>[New] Timing Translation From 20Mb to Seconds Measurement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-pc-edition-of-image-overlay-mastery/"><u>[Updated] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt/"><u>[Updated] Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-snaps-with-smart-zoom-usage-in-snapchat/"><u>2024 Approved Transform Your Snaps with Smart Zoom Usage in Snapchat</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/detailed-walkthrough-ipad-screen-recording/"><u>Detailed Walkthrough IPad Screen Recording</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/game-enthusiasts-rejoice-eblazter-presents-customizable-gaming-computers-in-one-compact-design/"><u>Game Enthusiasts Rejoice: EBlazter Presents Customizable Gaming Computers in One Compact Design</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>In 2024, The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/itunes-locked-down-heres-how-to-gain-full-access-in-macos/"><u>ITunes-Locked Down? Here's How to Gain Full Access in macOS!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-computer-solutions-by-toms-systems/"><u>Pioneering Computer Solutions by Tom's Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-home-routine-leverage-these-6-chatgpt-tips-for-greater-productivity/"><u>Revolutionize Your Home Routine: Leverage These 6 ChatGPT Tips for Greater Productivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/simplify-purchases-a-step-by-step-tutorial-for-using-apple-pay-feature-on-the-apple-watch/"><u>Simplify Purchases: A Step-by-Step Tutorial for Using Apple Pay Feature on the Apple Watch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-cloud-based-voice-customizers-for-chrome-os-vocal-transformation-tools-reviewed-for-2024/"><u>Top 5 Cloud-Based Voice Customizers for Chrome OS Vocal Transformation Tools Reviewed for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-insight-best-car-tracking-gadgets/"><u>[New] Expert's Insight Best Car Tracking Gadgets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes-for-2024/"><u>[Updated] Capturing Stardust The Premier 10 Sites for HDR Skyscapes for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-huawei-p60-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Huawei P60 Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-advertising-on-fb-unlocking-your-brands-potential/"><u>Innovative Advertising on FB Unlocking Your Brand's Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-ways-to-enhance-your-websites-visibility-mastering-page-optimization/"><u>Innovative Ways to Enhance Your Website's Visibility: Mastering Page Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-power-boosting-traffic-and-engagement/"><u>Optimize with Cookiebot Power: Boosting Traffic and Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/previsions-pour-lessor-de-la-main-doeuvre-numerique-dans-les-entreprises-plus-de-50-daugmentation-en-2021-etude-detaillee-par-abbyy/"><u>Prévisions Pour L'essor De La Main-D'oeuvre Numérique Dans Les Entreprises (Plus De 50% D'augmentation en 2021) – Étude Détaillée Par ABBYY</u></a></li>
 </ul></div>
 

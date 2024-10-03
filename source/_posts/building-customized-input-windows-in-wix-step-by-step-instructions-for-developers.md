@@ -1,7 +1,7 @@
 ---
 title: "Building Customized Input Windows in WiX: Step-by-Step Instructions for Developers"
-date: 2024-09-22T21:31:48.172Z
-updated: 2024-09-28T13:07:06.993Z
+date: 2024-09-26T16:30:04.360Z
+updated: 2024-10-03T18:47:41.896Z
 tags:
   - versus
 categories:
@@ -52,6 +52,13 @@ To add the setup project for your application, go to _File_ → _New_ → _Proje
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Keep in mind that you need to have the WiX extension added to Visual Studio to find the template. Check [this](https://tools.techidaily.com/advancedinstaller/products/) tutorial to see how to add it. There, you’ll also find how to **add the deployable files** once the Setup Project is created.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once you add the WiX extension and the deployable files, you have to edit the Product.wxs file and add the next line to reference the UI element we will use in this tutorial. 
 
 <Product Id = “*” … >
@@ -59,13 +66,6 @@ Once you add the WiX extension and the deployable files, you have to edit the Pr
 </Product>
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to create the installer dialogs?
 
@@ -86,13 +86,6 @@ After you create the two dialogs, you should find them in the _Solution Explorer
 
 ![Solution Explorer](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/solution-explorer.png "Solution Explorer")  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to customize the installer dialogs?
 
 Once the installer dialogs are created, you have to add the controls. 
@@ -106,10 +99,10 @@ Once the installer dialogs are created, you have to add the controls.
 ![customize the installer dialogs](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/customize-the-installer-dialogs.png "customize the installer dialogs")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For this dialog, you can use the following code.
@@ -152,6 +145,13 @@ Copy
 
 ![input dialog](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/input-dialog.png "input dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For this dialog, add the code below. 
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -186,13 +186,6 @@ For this dialog, add the code below.
 
 Copy
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to save the user input in a txt file?
 
 Now, we have to take the information from the input dialog and save it in the txt file. For this, we will use a custom action. To create it, follow the steps:
@@ -225,6 +218,13 @@ As you can see, in order to store the user information, the custom action uses t
 To do this, right-click on the _Setup Project_ → _Add_ → _Reference_. In the _Add Reference_ dialog, go to the _Projects_ tab and select the custom action that you created previously. Press the _Add_ button and then the _Ok_ button.
 
 ![reference it in the Setup Project](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/reference-it-in-the-setup-project.png "reference it in the Setup Project")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Build and install the project
 
@@ -269,10 +269,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -298,17 +298,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-from-rookie-to-pro-unveiling-the-secrets-of-ginger-isle-for-2024/"><u>[New] From Rookie to Pro Unveiling the Secrets of Ginger Isle for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-google-meet-to-youtube-a-compreenas-step-by-step-guide/"><u>[Updated] Streaming Google Meet to YouTube - A Compreenas Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-photographic-archives/"><u>2024 Approved Top Tier Photographic Archives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-practicality-of-smoothing-in-camera-jitters/"><u>2024 Approved Unveiling the Practicality of Smoothing In-Camera Jitters</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-closer-look-at-lenovos-groundbreaking-x1-fold-amazing-concept-room-for-improvement/"><u>A Closer Look at Lenovo's Groundbreaking X1 Fold: Amazing Concept, Room for Improvement</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-ps1-game-emulation-software-on-your-pc-for-2024/"><u>Best PS1 Game Emulation Software on Your PC for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-14-pro-max-how-to-unlock-a-disabled-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 14 Pro Max How to Unlock a Disabled Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-zero-price-screen-capture-software-for-windows-10-users/"><u>In 2024, Top 5 Zero Price Screen Capture Software for Windows 10 Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quick-and-simple-techniques-for-removing-the-last-thirty-seconds-on-pc-video-editing-tips-inside/"><u>Quick & Simple Techniques for Removing the Last Thirty Seconds on PC - Video Editing Tips Inside!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tiktokplusinstagram-social-media-fusion-guide-for-2024/"><u>TikTok+Instagram Social Media Fusion Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-through-virtualization-for-2024/"><u>Unlocking Potential Through Virtualization for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-hp-envy-5540-with-easy-software-and-driver-download-instructions/"><u>Upgrade Your HP Envy 5540 with Easy Software & Driver Download Instructions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-leveraging-virtual-board-features-for-enhanced-collaboration-in-zoom/"><u>[New] 2024 Approved Leveraging Virtual Board Features for Enhanced Collaboration in Zoom</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-enhance-efficiency-engage-creativity-with-mematic-for-2024/"><u>[New] Enhance Efficiency, Engage Creativity with Mematic for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-screen-surfing-simplified-navigate-with-netflixs-pip/"><u>[Updated] In 2024, Screen Surfing Simplified Navigate with Netflix's PIP</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-desktops-in-focus-free-capture-tutorials/"><u>2024 Approved Desktops in Focus - Free Capture Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-latest-sdk-revolutionizes-receipt-digitization-with-cutting-edge-features/"><u>ABBYY's Latest SDK Revolutionizes Receipt Digitization with Cutting-Edge Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adrian-jones-appointed-as-new-chief-revenue-officer-at-abbyy/"><u>Adrian Jones Appointed as New Chief Revenue Officer at ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-analytics-driven-by-innovative-cookiebot-solutions/"><u>Advanced Analytics Driven by Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/banish-the-blue-screen-troubleshooting-storahcisys/"><u>Banish the Blue Screen: Troubleshooting 'storahci.sys'</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-site-with-cookiebot-technology-a-comprehensive-tracking-solution/"><u>Boost Your Site with Cookiebot Technology - A Comprehensive Tracking Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-boosting-user-engagement-and-analytics/"><u>Cookiebot-Driven Personalization: Boosting User Engagement and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-elevate-your-seo-game/"><u>Cookiebot-Driven Site Optimization: Elevate Your SEO Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-and-track-visitors-effectively/"><u>Cookiebot-Enabled Sites: Enhance User Experience & Track Visitors Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-tracking-and-analytics/"><u>Cookiebot-Enabled User Tracking & Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-smart-tracking-solutions/"><u>Cookiebot-Enabled: Enhancing User Experience with Smart Tracking Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-quickly-update-your-pcs-intel-82579lm-driver/"><u>How to Quickly Update Your PC's Intel 82579LM Driver</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-6s-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 6s? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-maximizing-youtube-earnings-master-the-art-with-500-subscribers/"><u>In 2024, Maximizing YouTube Earnings Master the Art with 500 Subscribers</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-troubleshooting-guide-to-fix-icon-on-macos/"><u>Quick Troubleshooting Guide to Fix ?-Icon on MacOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quintessential-radio-narrative-craftsmanship/"><u>Quintessential Radio Narrative Craftsmanship</u></a></li>
 </ul></div>
 

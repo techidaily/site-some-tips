@@ -1,7 +1,7 @@
 ---
 title: Innovative Tips for Embracing Change and Thriving at Work, Endorsed by Leading Executives | Inc.com
-date: 2024-09-17 19:51:53
-updated: 2024-09-20 12:59:21
+date: 2024-10-02T19:11:29.437Z
+updated: 2024-10-03T19:58:27.764Z
 tags:
   - work-life
 categories:
@@ -31,6 +31,13 @@ During his career, Luna has been open to new challenges. He's worked for a range
 
 "What would be my next step? I don't know, so let's see. I am very open to continue traveling around the world and to see what Heineken can propose to me. I am very open and flexible to these opportunities."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Talk with bosses about your career path
 
 Alex Hibbitt, engineering director at albelli-Photobox Group, says it's important to embrace change when it happens -- and that's something he's done recently in his own role.
@@ -57,6 +64,13 @@ Through the merger, Hibbitt has had opportunities to take on new responsibilitie
 
 "It's about creating an open dialogue about where you want to go across a three-year, five-year horizon, and then communicating that desire to people who can help you progress along the path. That conversation is important in terms of being able to expand your skills and become an effective leader."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Try a range of areas to find your passion
 
 Cynthia Stoddard, CIO at Adobe, says she advises people to try as many areas of work as possible -- even if that means moving into hitherto unexplored places.
@@ -72,6 +86,13 @@ Stoddard says going into new areas allows you to move outside your comfort zone 
 "To be good at something, you must have a passion for it. And you don't really know what that is until you've tried a lot of different things," she says.
 
 "I give that advice to people coming out of college, who might be set on going down one path. They might have already decided it's the route they want to take, but they've never actually tried it, so how would they know if they like it?"
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Become a subject matter expert
 
@@ -92,6 +113,13 @@ Embracing new challenges -- such as taking the lead on emerging technology -- wi
 "You're trying to lead people in terms of how this new stuff can be adopted and developed. You need to think about, 'How do I lead someone who's already a luminary in the industry, never mind this business?'" he says.
 
 "But you must take those opportunities when they arise. They don't always go brilliantly, but the point is you learn from the experience."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Go out and speak with new people
 
@@ -130,11 +158,23 @@ That's something that resonates with his colleague, Matt Bannock, who is head of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-strategies-for-efficient-mobizen-screencasting/"><u>[Updated] In 2024, Top Strategies for Efficient Mobizen Screencasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[Updated] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-guide-to-choosing-best-free-srt-translators-online/"><u>2024 Approved Guide to Choosing Best FREE SRT Translators Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-civi-3-disney-100th-anniversary-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Civi 3 Disney 100th Anniversary Edition Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-high-definition-viewing-experience-with-the-hisense-50-4k-hdr-television/"><u>Affordable High-Definition Viewing Experience with the Hisense 50 4K HDR Television</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-end-to-end-guide-to-picsart/"><u>In 2024, The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwinding-upside-down-asmr-to-support-zzzs/"><u>In 2024, Unwinding Upside-Down ASMR to Support Zzz's</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-video-experience-best-tools-to-upgrade-your-downloads-for-2024/"><u>Premium Video Experience Best Tools to Upgrade Your Downloads for 2024</u></a></li>
+</ul></div>
+

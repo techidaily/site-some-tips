@@ -1,7 +1,7 @@
 ---
 title: Understanding Opera's Innovative My Flow Functionality - A Step-by-Step User Manual | TechRadar
-date: 2024-09-18 13:53:46
-updated: 2024-09-20 11:54:56
+date: 2024-09-30T16:41:58.669Z
+updated: 2024-10-03T16:12:52.130Z
 tags:
   - work-life
 categories:
@@ -61,6 +61,13 @@ The QR code is but a click away.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Scan the QR code
 
 On your mobile device, open Opera and tap the tab button at the bottom of the screen (icon directly to the left of the three-dot menu).
@@ -69,6 +76,13 @@ The Opera tab button is visible even in the tab page.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Connect your devices
 
 In the resulting page, click CONNECT and, when prompted, scan the QR code displayed on the desktop version of Opera with your mobile device. 
@@ -76,6 +90,13 @@ In the resulting page, click CONNECT and, when prompted, scan the QR code displa
 You're one tap away from connecting the mobile and desktop Opera.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Configure what to sync
 
@@ -86,6 +107,19 @@ Syncing your passwords could be a security issue, so I would avoid it.
 Jack Wallen/ZDNET
 
 Now, when you tap that Tab button on the mobile version of Opera, you'll see all of your currently opened tabs on the desktop version, so you can easily open them and read them. 
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The caveat
 
@@ -120,11 +154,31 @@ And that's all there is to using Opera's My Flow. With this feature, you can mov
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-photographers-toolkit-polarr-edition/"><u>[New] The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-thrifty-tech-finds-best-cameras-on-a-dime/"><u>[New] Thrifty Tech Finds Best Cameras on a Dime</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncover-the-best-online-church-streaming-options/"><u>[New] Uncover The Best Online Church Streaming Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ace-the-challenge-leading-escape-room-contests/"><u>[Updated] In 2024, Ace the Challenge Leading Escape Room Contests</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>[Updated] The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-roadmap-to-becoming-an-excellent-interviewer/"><u>[Updated] The Roadmap To Becoming An Excellent Interviewer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-elevate-your-virtual-identity-expert-tips-for-memorable-fb-bios/"><u>2024 Approved Elevate Your Virtual Identity Expert Tips for Memorable FB Bios</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-beginners-blueprint-mastering-telegram-web/"><u>2024 Approved The Beginner's Blueprint Mastering Telegram Web</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-vivo-y27-4g-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Vivo Y27 4G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution-for-2024/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution] for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C22 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategizing-visibility-for-podcasts-through-design/"><u>In 2024, Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-vivo-s17t-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo S17t Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-dj-iq-with-free-luts-for-djis-minis-and-air-series/"><u>In 2024, Unleash Your DJ IQ with FREE LUTs for DJI's Minis & Air Series</u></a></li>
+<li><a href="https://techidaily.com/october-amazon-prime-mega-savings-event-starts-soon/"><u>October: Amazon Prime Mega Savings Event Starts Soon!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-crashes-successfully-playing-madden-20-on-your-computer-fixed/"><u>Say Goodbye To Crashes: Successfully Playing Madden 20 on Your Computer [FIXED]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-proper-way-to-link-zoom-and-your-gmail-accounts-for-2024/"><u>The Proper Way to Link Zoom and Your Gmail Accounts for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Implementing Significant Enhancements in MSI Packages with the Help of WiX Toolset
-date: 2024-09-21T22:04:35.317Z
-updated: 2024-09-28T02:07:13.865Z
+date: 2024-10-02T17:24:32.682Z
+updated: 2024-10-03T17:39:43.485Z
 tags:
   - versus
 categories:
@@ -36,13 +36,6 @@ Get the latest WiX insights direct to your inbox. Subscribe now!
 
 Deploying major upgrades for an MSI package created with WiX Toolset is simple. However, there are a few boxes you need to check to make sure you're doing it properly. We'll share them with you in this article!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What makes major upgrades different from patches?
 
 Unlike patches, major upgrades require a complete reinstallation of the application. When the application is upgraded, the old version is completely removed from the system, and then the new version is installed.
@@ -74,10 +67,10 @@ Copy
 This addition ensures that even version 1.0.0.1 is going to be perceived as a major upgrade. Otherwise, you may see multiple side by side installations of your application in Programs and Features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Advanced Installer Approach to Handle Major Upgrades
@@ -93,10 +86,10 @@ Before getting started, make sure you have a **backup copy of the project file**
 ![Increment Version](https://cdn.advancedinstaller.com/img/wix-child-images/increment-version.png "Increment Version")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Customize the new version of your software by making the necessary changes to the Installer Project.
@@ -106,6 +99,13 @@ Before getting started, make sure you have a **backup copy of the project file**
 3\. Generate a new Product Code by clicking “Generate new”
 
 ![Generate New Product Code](https://cdn.advancedinstaller.com/img/wix-child-images/generate-new-product-code.png "Generate New Product Code")  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 And you’re done.
 
@@ -150,16 +150,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -185,20 +179,18 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-5-ultimate-map-quests-for-precious-in-game-finds-for-2024/"><u>[New] 5 Ultimate Map Quests for Precious In-Game Finds for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-iphones-unlocked-smart-tips-for-saving-and-playing-gifs/"><u>[New] IPhones Unlocked Smart Tips for Saving & Playing GIFs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>[New] The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-educator-approved-video-capture-apps-for-2024/"><u>[New] Top 10 Educator-Approved Video Capture Apps for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nlock-potential-the-best-hr-vlogs-1-10-for-2024/"><u>[New] Unlock Potential The Best HR Vlogs #1-10 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-instantly-access-fb-videos-on-your-apple-entertainment-center/"><u>[Updated] 2024 Approved Instantly Access FB Videos on Your Apple Entertainment Center</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-upgrade-your-iphone-cinematic-experience-must-have-equipment/"><u>[Updated] 2024 Approved Upgrade Your iPhone Cinematic Experience Must-Have Equipment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[Updated] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[Updated] Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-rotate-iphone-photos-learn-the-art-of-inversion/"><u>2024 Approved Rotate iPhone Photos Learn the Art of Inversion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tomorrows-reflection-varied-solutions/"><u>2024 Approved Tomorrow’s Reflection Varied Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-snapchats-prominent-personalities-highlight/"><u>2024 Approved Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211734324-how-to-reactivate-disabled-internet-connection-on-your-pc-or-mobile-step-by-step-solution/"><u>How to Reactivate Disabled Internet Connection on Your PC or Mobile - Step by Step Solution</u></a></li>
-<li><a href="https://facebook.techidaily.com/master-the-art-of-personal-data-update-on-fb/"><u>Master the Art of Personal Data Update on FB</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/quick-and-easy-capturing-the-perfect-mac-snapped-footage-for-2024/"><u>Quick & Easy Capturing the Perfect Mac-Snapped Footage for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-how-to-enhance-networked-stream-quality-with-vlc/"><u>[New] 2024 Approved How to Enhance Networked Stream Quality with VLC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-becoming-a-savvy-user-of-google-photos/"><u>[New] Becoming a Savvy User of Google Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-fusion-hubs-all-in-one-4k-multi-touch-desktops/"><u>2024 Approved Apex Fusion Hubs All-in-One 4K Multi-Touch Desktops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-integration-launches-at-electionzcom-for-enhanced-data-processing/"><u>ABBYY Integration Launches at Electionz.com for Enhanced Data Processing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-maintains-top-spot-in-the-smart-automation-industry/"><u>ABBYY Maintains Top Spot in the Smart Automation Industry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-technological-mastery-skyrocketing-profits-with-a-60-increase-endorsed-by-the-esteemed-idc-marketscape-analysis/"><u>ABBYY's Technological Mastery: Skyrocketing Profits with a 60% Increase, Endorsed by the Esteemed IDC MarketScape Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-management-with-cookiebot-technology/"><u>Automated Traffic Management with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-with-cookiebot-streamlining-your-websites-data-collection/"><u>Automated with Cookiebot: Streamlining Your Website's Data Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-website-personalization-using-advanced-cookiebot-solutions/"><u>Boosting Website Personalization Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-pro-max-to-windows-10-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Pro Max to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-mix-fold-3-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Mix Fold 3 Device</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamlessly-blend-music-with-visuals-in-premiere-pro-for-2024/"><u>Seamlessly Blend Music with Visuals in Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essential-uav-upgrade-kit-must-haves-for-the-modern-pilot-for-2024/"><u>The Essential UAV Upgrade Kit - Must-Haves for the Modern Pilot for 2024</u></a></li>
 </ul></div>
 

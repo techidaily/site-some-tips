@@ -1,7 +1,7 @@
 ---
 title: Meta Enables Third-Party Support for Its Quest VR Platform with Asus and Lenovo Headsets - ZDNet
-date: 2024-09-21T13:50:51.415Z
-updated: 2024-09-28T13:15:44.135Z
+date: 2024-10-01T19:49:03.398Z
+updated: 2024-10-03T18:51:24.446Z
 tags:
   - ar+vr
 categories:
@@ -73,33 +73,22 @@ Whether mixed reality is the future of work and [entertainment](https://www.zdne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-finding-your-youtube-stored-melodies-easily/"><u>[New] 2024 Approved Finding Your YouTube-Stored Melodies Easily</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-how-to-and-where-download-unboxing-video-background-music/"><u>[New] How To & Where Download Unboxing Video Background Music</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elite-d-class-dungeons-topping-the-list/"><u>[New] In 2024, Elite D-Class Dungeons Topping the List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[New] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-proven-methods-for-high-quality-webinars/"><u>[Updated] In 2024, Proven Methods for High-Quality Webinars</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved Pioneering Editing Snapseed for the Newcomer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>2024 Approved Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/aurora-vs-standard-hd-is-the-premium-worth-it-in-2024/"><u>Aurora vs Standard HD Is the Premium Worth It, In 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/i-migliori-15-strumenti-digitali-per-registrare-in-modo-ottimale-suoni-vocali-e-musicali/"><u>I Migliori 15 Strumenti Digitali per Registrare in Modo Ottimale Suoni Vocali E Musicali</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fresh-aesthetics-prime-laptop-wallpapers-online/"><u>In 2024, Fresh Aesthetics Prime Laptop Wallpapers Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Properly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>Top 2 Video Editing Apps Compared Filmora & Democracy Creator</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbelievable-offer-acquire-the-iconic-thordarth-vader-screen-with-powerful-2k-resolution-for-only-139-at-a-chinese-shop/"><u>Unbelievable Offer! Acquire the Iconic Thor/Darth Vader Screen with Powerful 2K Resolution for Only $139 at a Chinese Shop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>[New] 2024 Approved Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-cinematography-the-aspect-ratio-formula/"><u>[New] Mastering Cinematography The Aspect Ratio Formula</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-traveling-lens-quieter-assistant-360/"><u>[Updated] Traveling Lens Quieter Assistant 360°</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-5-budget-friendly-gaming-mice-under-100/"><u>2024 Approved Top 5 Budget-Friendly Gaming Mice (Under $100)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-strategies-for-precise-vr-gameplay-recording/"><u>In 2024, Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-icon-and-logo-havens-a-guide-to-6-unique-online-resources/"><u>In 2024, Icon & Logo Havens A Guide to 6 Unique Online Resources</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Motorola Moto G73 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>In 2024, Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>In 2024, Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats-for-2024/"><u>Unlocking VLC's Full Potential for Transforming MP4 & Various Formats for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

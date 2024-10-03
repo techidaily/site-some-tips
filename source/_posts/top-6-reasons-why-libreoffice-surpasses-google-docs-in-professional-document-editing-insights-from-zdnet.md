@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Reasons Why LibreOffice Surpasses Google Docs in Professional Document Editing: Insights From ZDNet"
-date: 2024-09-18 17:12:48
-updated: 2024-09-20 10:11:45
+date: 2024-10-02T18:18:00.874Z
+updated: 2024-10-03T17:20:20.047Z
 tags:
   - work-life
 categories:
@@ -41,6 +41,13 @@ One example of this is the customization of styles. By default, the Heading 2 st
 
 With LibreOffice, I can put my fingers on the keyboard and write without interruption or distraction. The problem with distraction is that it's not just the time it takes to handle the issue at hand; it's also getting back in the flow of things. So, even a 10-second distraction can turn into a minute. A 10-minute distraction can turn into 20, and it's all uphill from there.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. LibreOffice saves documents locally
 
 Ten years ago, I wouldn't have considered this a selling point for an office suite. But with the migration to cloud (and the possibility of AI using stored documents for fodder), storing my manuscripts on a third-party server is a non-starter. Thankfully, LibreOffice hasn't gone the way of the cloud; everything is saved and stored on your local file system.
@@ -63,6 +70,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. LibreOffice offers continuity
 
 I have LibreOffice installed (and set as the default) on my Linux desktop and my MacBook Pro. By doing this, I can ensure that switching from one machine to the next will keep the document formatting intact. This becomes very important when dealing with book manuscripts that you submit to your publisher, as they might require them to be formatted in a very particular way. 
@@ -72,6 +86,13 @@ I have LibreOffice installed (and set as the default) on my Linux desktop and my
 If I were to switch between LibreOffice, Pages, and Google Documents, the formatting could wind up a jumbled mess. That's not to say LibreOffice doesn't adhere to standards. You can open a LibreOffice document in MS Office and it will (mostly) look fine (although you might have to tweak some formatting). Even Google Docs allows you to download in the Open Document Format (ODT), which LibreOffice uses as its default. 
 
 With LibreOffice -- more than any other office suite -- I find the continuity between applications, computers, and documents to be spot on.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. LibreOffice is packed with tools
 
@@ -92,6 +113,13 @@ On top of LibreOffice being free, it's also free of charge. You can download and
 **Also: [5 best open-source email clients for Linux (and why Geary is my go-to)](https://www.zdnet.com/article/5-best-open-source-email-clients-for-linux-and-why-geary-is-my-go-to/)**
 
 I can already hear you saying, "But Google Docs is free." That it is. But with the locally-installed LibreOffice, you don't have to worry about a third-party gaining access to your work. Although Google claims they aren't currently training their AI LLMs with user content, there's no guarantee that the claim will continue to be the case.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. LibreOffice is big on security
 
@@ -128,11 +156,29 @@ Download and install LibreOffice from the [Document Foundation](https://www.libr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-selfie-to-sensation-vloggers-choice-of-top-9-camera-accessories-for-2024/"><u>[New] From Selfie to Sensation Vloggers' Choice of Top 9 Camera Accessories for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel/"><u>[Updated] Gratis Design Elements for YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-effective-b-roll-application/"><u>[Updated] Strategies for Effective B-Roll Application</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pazera-unchained-master-your-music-extraction-techniques/"><u>2024 Approved Pazera Unchained Master Your Music Extraction Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>2024 Approved Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-guide-to-choosing-youtube-friendly-video-formats/"><u>2024 Approved The Essential Guide to Choosing YouTube-Friendly Video Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-companion-to-master-color-correction-top-11/"><u>2024 Approved The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/canva-and-gpt-tools-for-batch-design-excellence/"><u>Canva & GPT: Tools for Batch Design Excellence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-7-free-virtual-fax-providers/"><u>Discover the Latest 7 FREE Virtual Fax Providers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v27-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V27 Pro Phone Screen?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrate-bandwidth-status-into-windows-shell/"><u>Integrate Bandwidth Status Into Windows Shell</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-transformative-power-of-augmented-vision-for-2024/"><u>The Transformative Power of Augmented Vision for 2024</u></a></li>
+</ul></div>
+

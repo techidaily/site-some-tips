@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Your Install Directory Right on Wix"
-date: 2024-09-25T01:47:02.139Z
-updated: 2024-09-28T09:55:00.683Z
+date: 2024-10-02T17:52:31.660Z
+updated: 2024-10-03T18:15:38.542Z
 tags:
   - versus
 categories:
@@ -52,6 +52,13 @@ First, we have to add the directory definition for the setup project. This direc
 
 ![define the directory structure](https://cdn.advancedinstaller.com/img/set-install-folder-wix/define-the-directory-structure.png "define the directory structure")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You have to use the Directory element to define the directories and describe the hierarchy of folders on the target machine. We used the following elements in our example:
 
 * **TARGETDIR** \- which is the root of all directory structures and it is present in every Wix project.
@@ -59,6 +66,13 @@ You have to use the Directory element to define the directories and describe the
 * **MYAPPDIR** \- which creates the application’s folder under _Program Files_.
 
 The default path after adding the above elements will be _C:\\Program Files\\DemoApp_. As you can see, the install folder ID must be all in uppercase characters to make it a public property. Thus, it will be passed from the UI to the execute sequence when the user modifies the default install path.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to add the WixUIExtension?
 
@@ -76,11 +90,31 @@ This set has a dialogue, namely _**InstallDirDlg**_, that allows users to choose
 
 ![Wix Toolset folder Bin folder](https://cdn.advancedinstaller.com/img/set-install-folder-wix/wix-toolset-folder-bin-folder.png "Wix Toolset folder Bin folder")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Select **WixUIExtension.dll** → click Add → click OK.
 
 After completing the steps, you should find the extension in the **References** folder. 
 
 ![find the extension in the References folder](https://cdn.advancedinstaller.com/img/set-install-folder-wix/find-the-extension-in-the-references-folder.png "find the extension in the References folder")  
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to use the WinUI\_InstallDir?
 
@@ -105,10 +139,10 @@ When you run the MSI, a series of dialogs will appear, including the **InstallDi
 ![InstallDirDlg](https://cdn.advancedinstaller.com/img/set-install-folder-wix/installdirdlg.png "InstallDirDlg")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to set the install folder in Advanced Installer?
@@ -123,36 +157,9 @@ The **Application folder** is usually the main installation folder. You can add 
 
 ![Advanced Installer Application folder](https://cdn.advancedinstaller.com/img/set-install-folder-wix/advanced-installer-application-folder.png "Advanced Installer Application folder")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you wish to allow users to customize the installation path, no additional configuration is necessary. By default, the installer includes the **FolderDlg** dialogue, which presents the current path of the Application Folder and enables users to modify it during the installation process.
 
 ![FolderDlg](https://cdn.advancedinstaller.com/img/set-install-folder-wix/folderdlg.png "FolderDlg")  
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -190,13 +197,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -220,20 +220,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-steps-to-obtain-free-audio-for-videos/"><u>[New] 2024 Approved Effortless Steps to Obtain Free Audio for Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exclusive-software-gamers-streaming-companions/"><u>[New] Exclusive Software Gamers' Streaming Companions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-10-key-steps-for-basic-photo-color-correction/"><u>[Updated] In 2024, 10 Key Steps for Basic Photo Color Correction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unzip-the-scripts-crafting-subtitles-from-compressed-files/"><u>[Updated] Unzip the Scripts Crafting Subtitles From Compressed Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-use-kapwing-meme-maker/"><u>[Updated] Use Kapwing Meme Maker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-potential-of-the-metaverses-vast-space/"><u>2024 Approved The Comedic Potential of the Metaverse's Vast Space</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-nvidias-3d-vision-drivers-at-no-cost-windows-compatibility-tips-and-tricks/"><u>Download Nvidia's 3D Vision Drivers at No Cost: Windows Compatibility Tips & Tricks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/global-leaders-in-digital-education-beyond-udemy/"><u>Global Leaders in Digital Education Beyond Udemy</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-cutting-edge-editing-techniques-youtube-and-comparable-tools/"><u>In 2024, Cutting-Edge Editing Techniques YouTube & Comparable Tools</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a70-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A70 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-photoshop-techniques-for-dynamic-realistic-text/"><u>In 2024, Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>In 2024, Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-dramatic-hdr-portraits-explained-for-2024/"><u>The Art of Dramatic HDR Portraits Explained for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-honor-x9a-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor X9a Android SIM Unlock APK</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta-for-2024/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[New] Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-sound-brilliance-for-podcasters-top-10-microphones/"><u>[Updated] 2024 Approved Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-complete-evaluation-hero4-black-interface/"><u>2024 Approved Complete Evaluation Hero4 Black Interface</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimized-zoom-audio-settings-for-exceptional-listening/"><u>2024 Approved Optimized Zoom Audio Settings for Exceptional Listening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-advanced-cookiebot-technology/"><u>Enhanced User Engagement with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-intelligence-in-automation-the-synergy-of-abbyy-and-uipath/"><u>Enhancing Intelligence in Automation: The Synergy of ABBYY and UiPath</u></a></li>
+<li><a href="https://some-tips.techidaily.com/environmental-commitment-by-abbyy-over-2000-new-trees-set-for-yearly-planting-press-disclosure/"><u>Environmental Commitment by ABBYY: Over 2,000 New Trees Set for Yearly Planting - Press Disclosure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/federal-tech-innovations-automating-government-with-intelligence-official-podcast/"><u>Federal Tech Innovations: Automating Government with Intelligence - Official Podcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-digital-with-abbyys-advanced-data-capture-tech-revolutionizing-healthcare-management/"><u>Going Digital with ABBYY's Advanced Data Capture Tech: Revolutionizing Healthcare Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-landscape-of-banking-and-insurance/"><u>How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-samsung-galaxy-a23-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Samsung Galaxy A23 5G Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-restore-lost-sounds-to-twitter-vids/"><u>In 2024, Restore Lost Sounds to Twitter Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-smart-seo-tools-tailored-for-success/"><u>Optimize with Cookiebot: Smart SEO Tools Tailored for Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-websites-user-experience-using-advanced-cookieless-tracking-technology/"><u>Revolutionize Your Website's User Experience Using Advanced Cookieless Tracking Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-gaming-world-with-these-6-tips-on-utilizing-chatgpt-in-script-writing/"><u>Transform Your Gaming World with These 6 Tips on Utilizing ChatGPT in Script Writing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/yearly-recording-runners-fb-live-sessions/"><u>Yearly Recording Runners FB Live Sessions</u></a></li>
 </ul></div>
 

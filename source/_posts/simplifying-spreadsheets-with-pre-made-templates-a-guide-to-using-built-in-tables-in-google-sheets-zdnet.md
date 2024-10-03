@@ -1,7 +1,7 @@
 ---
 title: "Simplifying Spreadsheets with Pre-Made Templates: A Guide to Using Built-In Tables in Google Sheets | ZDNET"
-date: 2024-09-17 13:10:16
-updated: 2024-09-20 12:56:24
+date: 2024-09-27T17:47:40.879Z
+updated: 2024-10-03T17:58:36.133Z
 tags:
   - work-life
 categories:
@@ -27,9 +27,23 @@ Pre-built tables are easy to use -- here's how to get started.
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser. One thing to keep in mind: the pre-built tables feature cannot be used on the mobile version of Google Sheets, so the only way to access it is via a desktop web browser. 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Create a new spreadsheet
 
 To start, log into either Google Drive or Google Docs and create a new spreadsheet. The pre-built tables feature only appears in new spreadsheets, so if you open a previously existing document, you won't see the pre-built tables sidebar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Find the type of pre-built table you want
 
@@ -43,6 +57,13 @@ There are several pre-built tables to choose from.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Insert the desired table
 
 Once you've found the type of table you want to use, hover your cursor over the entry again and click Insert. If the table you've added doesn't work, you can go back to the sidebar and select a different pre-built table to replace it. 
@@ -54,6 +75,13 @@ If you've already closed the sidebar, you can re-open it by clicking the Insert 
 You'll see both the Insert button on a cursor hover and a demonstration of how the table will look.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Customize the table
 
@@ -86,11 +114,27 @@ That's all there is to using the Google Sheets pre-built tables feature. This ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-silence-issue-fixing-audio-absence-in-obs/"><u>[New] Silence Issue Fixing Audio Absence in OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synthesizing-a-look-at-magix-creative-suite/"><u>[New] Synthesizing a Look at MAGIX Creative Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-art-of-encompassing-vision/"><u>[New] Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leverage-youtubes-potential-through-strategic-backlinking/"><u>[Updated] Leverage YouTube's Potential Through Strategic Backlinking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-videography-items-for-travelers/"><u>[Updated] Top Videography Items for Travelers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-visual-effects-to-elevate-your-film-cutting/"><u>[Updated] Top Visual Effects to Elevate Your Film Cutting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/imgburn-dvd/"><u>不具合が出たImgBurn DVD - ビデオプレイヤー互換化のヒットメソッド</u></a></li>
+<li><a href="https://facebook.techidaily.com/continuity-of-functionality-on-whatsapp-without-policy-consent/"><u>Continuity of Functionality on WhatsApp WITHOUT Policy Consent</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-method-for-seamless-volume-dialing-down-in-audacity-for-2024/"><u>The Method for Seamless Volume Dialing Down in Audacity for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-older-minecraft-graphics-driver-issues/"><u>Troubleshooting and Solutions for Older Minecraft Graphics Driver Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-ipad-bargains-to-grab-right-now/"><u>Unbeatable iPad Bargains to Grab Right Now</u></a></li>
+</ul></div>
+

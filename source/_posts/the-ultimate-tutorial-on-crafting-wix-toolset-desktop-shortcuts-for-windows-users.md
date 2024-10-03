@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Crafting WiX Toolset Desktop Shortcuts for Windows Users
-date: 2024-09-21T12:41:33.900Z
-updated: 2024-09-27T23:05:25.335Z
+date: 2024-09-28T18:36:01.982Z
+updated: 2024-10-03T16:19:55.838Z
 tags:
   - versus
 categories:
@@ -42,6 +42,13 @@ In this article, we want to focus on desktop shortcut creation specifically for 
 
 Before we get started, you need to make sure you have the WiX Toolset extension for Visual Studio. Check out this article: [WiX Toolset Visual Studio Extension](https://tools.techidaily.com/advancedinstaller/products/) to see how you can **add the extension to Visual Studio**.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to add the WiX setup project
 
 Once you have the WiX Toolset extension added to Visual Studio and your Windows Forms application is up and running, you need to create a setup project.Follow these steps to **create a setup project for your application**:
@@ -52,23 +59,9 @@ Once you have the WiX Toolset extension added to Visual Studio and your Windows 
 
 ![Setup Project for Wix](https://cdn.advancedinstaller.com/img/create-desktop-shortcut-using-wix/setup-project-for-wix.png "Setup Project for Wix")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Once you add the setup project, you should find it in the _Solution Explorer_.
 
 ![Visual Studio Solution Explorer](https://cdn.advancedinstaller.com/img/create-desktop-shortcut-using-wix/viusal-studio-solution-explorer.png "Visual Studio Solution Explorer")  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. To add the desktop shortcut, we have to edit the _Product.wxs_ file.
 
@@ -126,13 +119,6 @@ Here is how the final code should look:
 
 Copy
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Add an icon to your desktop shortcut
 
 You can help your users find your application easier by adding an icon to your shortcut. By doing this, you not only establish familiarity with your application but also improve its recognition and accessibility. 
@@ -142,6 +128,13 @@ Follow these steps to include the icon in your setup project:
 3.1\. Create a folder under the setup project (Icons), and copy the icon (Shortcuticon.ico) to that folder.
 
 ![Create folder under the setup project](https://cdn.advancedinstaller.com/img/create-desktop-shortcut-using-wix/create-folder-for-setup-project.png "Create folder under the setup project")  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3.2\. Then, you can add the icon to your installation package by declaring the _<Icon>_ element within the <Fragment/> element. Make sure to set an _Id_ for the icon and specify the _path_ to the icon file.
 
@@ -161,6 +154,19 @@ Copy
           />
         
 Copy
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Install the shortcut
 
@@ -216,10 +222,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -245,18 +251,19 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-days-viewing-assessing-file-size-in-gb-for-2024/"><u>[New] Day's Viewing Assessing File Size in GB for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-simplifying-visual-transformations-utilizing-luts-for-obs-videos/"><u>[New] In 2024, Simplifying Visual Transformations Utilizing LUTs for OBS Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-proven-tips-and-tricks-to-nail-every-green-screen-scene/"><u>[New] Proven Tips and Tricks to Nail Every Green Screen Scene</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essential-handbook-to-planning-zoom-sessions/"><u>[Updated] The Essential Handbook to Planning Zoom Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[Updated] Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-recorders-bible-for-clear-conversations/"><u>2024 Approved The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-2024s-premier-unboxers-on-youtube/"><u>Comprehensive Guide to 2024'S Premier Unboxers on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-superiority-of-microsoft-copilot-with-4-essential-reasons-to-switch-from-chatgpt/"><u>Exploring the Superiority of Microsoft Copilot with 4 Essential Reasons to Switch From ChatGPT</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-verizon-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Verizon iPhone SE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turning-xmlssattml-files-into-srt-formats-strategies-and-techniques/"><u>In 2024, Turning XML/SSA/TTML Files Into SRT Formats Strategies and Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-with-editors-essentials/"><u>In 2024, Unlock Image Potential with Editor's Essentials</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-volume-transitions-audio-panning-techniques-in-imovie/"><u>Mastering Volume Transitions Audio Panning Techniques in iMovie</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y100a-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y100A</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-journey-through-the-best-7-nft-creation-applications/"><u>[New] In 2024, Journey Through the Best 7 NFT Creation Applications</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-nextgen-vidhack-fb-to-mp4-download-with-no-hassle/"><u>[New] NextGen VidHack FB to MP4 Download with No Hassle</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-pioneering-popularity-with-powerful-instagram-videos/"><u>[Updated] 2024 Approved Pioneering Popularity with Powerful Instagram Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-v30t-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme V30T?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/canon-cameras-vividness-with-free-and-paid-lut-sets/"><u>Canon Cameras' Vividness with Free & Paid LUT Sets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-boost-your-sites-performance/"><u>Cookiebot-Enhanced Experience: Boost Your Site's Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-experience-personalized-navigation-and-insights/"><u>Cookiebot-Enhanced: Experience Personalized Navigation and Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-your-dynamic-foundation-for-personalized-web-experiences/"><u>Cookiebot: Your Dynamic Foundation for Personalized Web Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customized-ad-solutions-with-cutting-edge-cookie-tracking/"><u>Customized Ad Solutions with Cutting-Edge Cookie Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customized-personalization-with-cookiebot-technology/"><u>Customized Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-latest-thunderbolt-3-drivers-for-windows-10-8-and-7/"><u>Download & Install Latest Thunderbolt 3 Drivers for Windows 10, 8, & 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/drive-traffic-with-automated-conversion-tracking-powered-by-cookiebot/"><u>Drive Traffic with Automated Conversion Tracking: Powered by Cookiebot</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-google-pixel-fold-frp-by-drfone-android/"><u>How Can We Bypass Google Pixel Fold FRP?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-11-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 11 when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
 

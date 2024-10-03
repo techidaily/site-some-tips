@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity with These 6 Complimentary Google Docs Add-Ons Revealed on ZDNet!
-date: 2024-09-18 19:20:30
-updated: 2024-09-20 10:53:51
+date: 2024-09-30T17:55:10.498Z
+updated: 2024-10-03T19:06:40.117Z
 tags:
   - work-life
 categories:
@@ -59,11 +59,25 @@ After installing Consistency Checker, you open the add-on and click Scan. For ex
 
 Install [Consistency Checker](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/consistency%5Fchecker/101396327524) from the Google Workspace Marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Table of Contents
 
 If your documents regularly require a table of contents (TOC), this add-on will save you some time. This add-on scans your document for headings and subheadings and then creates a TOC in the sidebar that you can then use within your document. You can configure the heading number format and the display unit level, as well as select the add-on to always open for the document you are working with. And that's pretty much all this add-on does -- but it does it well.
 
 Install [Table of Contents](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/table%5Fof%5Fcontents/975727178255) from the Google Workspace Marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Text Cleaner
 
@@ -72,6 +86,13 @@ This handy little add-on goes through your documents and cleans them up. With it
 **Also: [My 5 favorite Linux text editors (and why you should be using one)](https://www.zdnet.com/article/my-favorite-linux-text-editors-and-why-you-should-be-using-one/)**
 
 Install [Text Cleaner](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/text%5Fcleaner/103106847686) from the Google Workspace Marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. OneLook Thesaurus
 
@@ -82,6 +103,13 @@ Usually, my vocabulary is pretty solid. However, I do have a pet peeve that ofte
 This add-on can also help you find triggers, rhymes, complete, adjectives, nouns, quotes, lyrics, and proverbs. The only thing missing from OneLook Thesaurus is antonyms, but that might be asking a bit much for a free piece of software.
 
 Install [OneLook Thesaurus](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://workspace.google.com/marketplace/app/onelook%5Fthesaurus/372652075936) from the Google Workspace Marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Writer's Highlighter
 
@@ -112,11 +140,29 @@ Any one of these add-ons can help make you a more creative and productive writer
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-visual-narratives-with-mastered-stories-bokeh-for-2024/"><u>[New] Elevate Your Visual Narratives with Mastered Stories Bokeh for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-markets-best-gpus-for-uhd-video-processing/"><u>[New] Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-groundhopping-goals-watch-record-and-cut-games-without-spending-for-2024/"><u>[Updated] Groundhopping Goals Watch, Record & Cut Games Without Spending for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-reliving-real-time-recollections/"><u>[Updated] In 2024, Reliving Real-Time Recollections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>2024 Approved The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>2024 Approved The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-video-quality-with-apple-music-addition/"><u>2024 Approved Unlock Video Quality with Apple Music Addition</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-mg3022-printer-driver-update-where-to-download-them-now/"><u>Canon MG3022 Printer Driver Update - Where to Download Them Now</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flash-clip-content-wizard/"><u>In 2024, Flash Clip Content Wizard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-editors-lifeline-essential-responses-to-filmora-queries/"><u>In 2024, The Editor's Lifeline Essential Responses to Filmora Queries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-tapered-music-transitions-in-premiere-pro/"><u>In 2024, The Essential Guide to Tapered Music Transitions in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>In 2024, Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
+</ul></div>
+

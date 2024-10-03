@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Advanced Improvements for MSI Installers Using the WiX Technology Suite
-date: 2024-09-22T00:32:38.113Z
-updated: 2024-09-28T11:24:49.308Z
+date: 2024-10-01T16:45:09.628Z
+updated: 2024-10-03T17:32:19.331Z
 tags:
   - versus
 categories:
@@ -42,6 +42,13 @@ Unlike patches, major upgrades require a complete reinstallation of the applicat
 
 Every major version of an application is treated as a separate application by the OS, and according to Windows Installer standards, its MSI **must have a unique product code**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to implement a major upgrade using WiX Toolset
 
 To implement a major upgrade in WiX Toolset, you need to keep some things in mind.
@@ -66,13 +73,6 @@ Copy
 
 This addition ensures that even version 1.0.0.1 is going to be perceived as a major upgrade. Otherwise, you may see multiple side by side installations of your application in Programs and Features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using Advanced Installer Approach to Handle Major Upgrades
 
 WiX toolset approach to perform a major upgrade to an MSI package requires adding new code to your XML file.
@@ -85,26 +85,26 @@ Before getting started, make sure you have a **backup copy of the project file**
 
 ![Increment Version](https://cdn.advancedinstaller.com/img/wix-child-images/increment-version.png "Increment Version")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Customize the new version of your software by making the necessary changes to the Installer Project.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Keep in mind that the resources of the new version are all of your application's resources, not just those that are modified by this upgrade installation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. Generate a new Product Code by clicking “Generate new”
 
 ![Generate New Product Code](https://cdn.advancedinstaller.com/img/wix-child-images/generate-new-product-code.png "Generate New Product Code")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And you’re done.
@@ -150,10 +150,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -179,14 +179,18 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mitigating-high-bitrate-in-obs-outputs/"><u>[New] 2024 Approved Mitigating High-Bitrate in OBS Outputs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>[New] Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-superior-script-architect-space/"><u>[Updated] Superior Script Architect Space</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[Updated] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-nokia-c110-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Nokia C110 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/free-and-open-source-video-capturing-tools-for-2024/"><u>Free & Open Source Video Capturing Tools for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed-for-2024/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles-for-2024/"><u>[New] Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveil-images-clearly-10-online-editors-guide/"><u>[New] Unveil Images Clearly 10 Online Editors' Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-samsung-photo-editor-review-2023-pros-con-features-and-guide/"><u>[Updated] In 2024, Samsung Photo Editor Review 2023 - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-tiktok-media-with-zoom-techniques/"><u>[Updated] Perfecting TikTok Media with Zoom Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-blueprint-of-an-engaging-podcast-blurb/"><u>[Updated] The Blueprint of an Engaging Podcast Blurb</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-shot-entire-page-view/"><u>2024 Approved Screen Shot Entire Page View</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-experience-and-conversions-through-cookiebot-driven-optimization/"><u>Enhance User Experience & Conversions Through Cookiebot-Driven Optimization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-audience-engagement-through-intelligent-conversational-agents/"><u>Enhanced Audience Engagement Through Intelligent Conversational Agents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-rates-via-cutting-edge-cookiebot-analytics-tools/"><u>Enhanced Conversion Rates via Cutting-Edge Cookiebot Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/student-exclusive-deals-how-to-score-big-savings-on-your-next-dell-purchase/"><u>Student-Exclusive Deals: How to Score Big Savings on Your Next Dell Purchase</u></a></li>
 </ul></div>
 

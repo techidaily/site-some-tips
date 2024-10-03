@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: File Removal During Uninstallation with WiX Toolset"
-date: 2024-09-25T08:07:57.685Z
-updated: 2024-09-27T20:31:48.600Z
+date: 2024-09-30T18:26:53.446Z
+updated: 2024-10-03T17:17:32.538Z
 tags:
   - versus
 categories:
@@ -38,13 +38,6 @@ When uninstalling an application, Windows Installer removes by default only the 
 
 In this article, we will see how to remove the files created after the installation using WiX Toolset.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to remove files by adding a new component to an existing Component Group in WiX Toolset?
 
 First, you need to add a new Component in an existing Component Group or create a new Component Group altogether – which will need to be referenced in one of the installer’s features.
@@ -67,13 +60,6 @@ Alternatively, you can replace both the name and the extension of the file, in t
 
 The **RemoveFile** element removes a file if the parent component is selected for removal.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to remove files on uninstall using Advanced Installer?
 
 Here is how you can remove the files created after the installation with Advanced Installer.
@@ -83,19 +69,19 @@ Here is how you can remove the files created after the installation with Advance
 ![Add New File Removal](https://cdn.advancedinstaller.com/img/wix-child-images/add-new-file-removal.png "Add New File Removal")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To use the [**File Operations**](https://tools.techidaily.com/advancedinstaller/products/) feature in Advanced Installer, you need to have a Professional license or higher. Start with our [30-day full feature trial](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. In the New File Removal Dialog, fill in the **Name** field with the name of the file you want to be deleted. 
@@ -109,6 +95,13 @@ Here is how you can remove the files created after the installation with Advance
 ![Remove All Condition](https://cdn.advancedinstaller.com/img/wix-child-images/remove-all-condition.png "Remove All Condition")  
 
 That’s it!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -146,6 +139,13 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -169,24 +169,19 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-get-the-most-out-of-instagram-photos-with-these-apps/"><u>[New] In 2024, Get the Most Out of Instagram Photos with These Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-editing-software-tailored-to-dji-filmmaking/"><u>[New] Superior Editing Software Tailored to DJi Filmmaking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-editors-toolkit-maximizing-the-impact-of-gopro-videos/"><u>[New] The Editor's Toolkit Maximizing the Impact of GoPro Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-skys-playground-discovering-the-husqvarna-x4-fpv/"><u>[New] The Sky's Playground Discovering the Husqvarna X4 FPV</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-live-broadcast-tech-for-industry-experts/"><u>[New] Top Live Broadcast Tech for Industry Experts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-prime-pick-top-10-streamers-for-cutting-edge-tv-content/"><u>[Updated] 2024 Approved Prime Pick Top 10 Streamers for Cutting-Edge TV Content</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-growing-presence-in-video-platforms-via-short-films-for-2024/"><u>[Updated] Growing Presence in Video Platforms via Short Films for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>[Updated] The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix/"><u>[Updated] Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transitioning-artistry-in-inshot-videos/"><u>[Updated] Transitioning Artistry in Inshot Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unraveling-whatsapps-voice-transmission-techniques/"><u>[Updated] Unraveling WhatsApp's Voice Transmission Techniques</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones/"><u>In 2024, Effortless Guide to Share Your Videos as Shorts on Computers & Phones</u></a></li>
-<li><a href="https://games-able.techidaily.com/slowdown-simplicity-discover-idles/"><u>Slowdown Simplicity: Discover Idles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-comprehensive-guide-to-metaverse-promotion-for-2024/"><u>The Comprehensive Guide to Metaverse Promotion for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-sound-capture-on-windows-10-for-2024/"><u>Unlocking Sound Capture on Windows 10 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/verizon-5g-unveiled-a-glimpse-at-the-telecommunications-revolution/"><u>Verizon 5G Unveiled: A Glimpse at the Telecommunications Revolution</u></a></li>
-<li><a href="https://video-capture.techidaily.com/zooming-into-success-a-complete-guide-to-podcast-audio-capture/"><u>Zooming Into Success A Complete Guide to Podcast Audio Capture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dailymovement-vs-youtube-income-comparison/"><u>[Updated] In 2024, DailyMovement vs Youtube Income Comparison</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-perfect-guide-for-linking-instagram-to-tiktok/"><u>[Updated] In 2024, Perfect Guide for Linking Instagram to TikTok</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-edit-away-bloat-organizing-your-overflow-of-tiktok-saves/"><u>2024 Approved Edit Away Bloat Organizing Your Overflow of TikTok Saves</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-data-collection-solutions/"><u>Cookiebot-Driven Data Collection Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-marketing-success-strategies/"><u>Cookiebot-Driven Marketing Success Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-unleashing-the-power-of-personalized-tracking/"><u>Cookiebot-Driven: Unleashing the Power of Personalized Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-analytics-powering-your-digital-experience/"><u>Cookiebot-Enabled Analytics: Powering Your Digital Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-website-with-advanced-tracking-solutions/"><u>Cookiebot-Enabled: Enhance Your Website with Advanced Tracking Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics-effortlessly/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics Effortlessly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-se-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone SE Smoothly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-selection-of-10-free-video-subtitle-extractors-for-2024/"><u>Leading Selection of 10 Free Video Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-viewership-with-effective-game-streaming-for-2024/"><u>Maximizing Viewership with Effective Game Streaming for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-narzo-60-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme Narzo 60 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
 </ul></div>
 

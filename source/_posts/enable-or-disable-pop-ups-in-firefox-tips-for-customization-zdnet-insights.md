@@ -1,7 +1,7 @@
 ---
 title: "Enable or Disable Pop-Ups in Firefox: Tips for Customization (ZDNet Insights)"
-date: 2024-09-18 20:56:28
-updated: 2024-09-20 10:56:16
+date: 2024-10-01T17:29:54.404Z
+updated: 2024-10-03T19:36:00.938Z
 tags:
   - work-life
 categories:
@@ -29,6 +29,13 @@ With the [Firefox](https://www.mozilla.org) browser, this is fairly easy to do. 
 
 **What you'll need:** The only thing you'll need is a running instance of Firefox on your desktop or laptop. I would suggest you make sure your version of Firefox is up to date (for security purposes). I'll demonstrate this on version 117.0 of the Firefox browser. That's it. Let's allow some pop-ups.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Firefox Settings
 
 The first thing to do is open Firefox. Once the browser is open, click the three-line menu button near the top right corner and, from the menu, click Settings.
@@ -36,6 +43,13 @@ The first thing to do is open Firefox. Once the browser is open, click the three
 Access the Firefox Settings window from the main menu.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Navigate to Permissions
 
@@ -53,6 +67,13 @@ Near the bottom of the Permissions section, click Exceptions, which is associate
 
 Of course, if you need to add an exception, the feature is most likely already enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Add your first exception
 
 In the resulting pop-up window, type the full URL of the website you want to add as an exception. Once you've typed the URL, click Allow and it will be added as your first exception. You can continue adding more sites until finished. 
@@ -64,6 +85,13 @@ Close the Settings window and you're good to go.
 Adding a pop-up exception in Firefox is quite simple.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to add a pop-up blocker exception: Method Two
 
@@ -112,11 +140,23 @@ You can now close the Page Info pop-up and return to Firefox. At this point, the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-retain-your-instagram-captures-on-iphone/"><u>[New] 2024 Approved How to Retain Your Instagram Captures on iPhone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-your-screen-in-a-flash-free-no-hassle-for-2024/"><u>[New] Capture Your Screen in a Flash - Free, No Hassle for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-full-picture-of-ustream-and-analogous-services/"><u>[New] The Full Picture of Ustream & Analogous Services</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficient-techniques-ios-screenshots-and-youtube-content-creation/"><u>[Updated] 2024 Approved Efficient Techniques IOS Screenshots and YouTube Content Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>2024 Approved Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hunt-for-the-best-price-drops-on-roku-during-prime-deals-weekend/"><u>Hunt for the Best Price Drops on Roku During Prime Deals Weekend!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>In 2024, Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-edit-vob-files-for-free-top-5-video-editor-recommendations/"><u>New 2024 Approved Edit VOB Files for Free Top 5 Video Editor Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-picture-narrative-craft-pro-edition-for-2024/"><u>Ultimate Picture Narrative Craft - Pro Edition for 2024</u></a></li>
+</ul></div>
+

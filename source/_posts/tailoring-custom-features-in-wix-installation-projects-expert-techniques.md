@@ -1,7 +1,7 @@
 ---
 title: "Tailoring Custom Features in WiX Installation Projects: Expert Techniques"
-date: 2024-09-21T11:14:19.900Z
-updated: 2024-09-28T12:07:13.072Z
+date: 2024-09-28T19:10:46.444Z
+updated: 2024-10-03T19:42:13.220Z
 tags:
   - versus
 categories:
@@ -48,6 +48,13 @@ When it comes to Custom Actions, there are two elements that are connected to ea
 
 2\. The Sequences element - which could be any of these: [AdminExecuteSequence](https://wixtoolset.org/docs/v3/xsd/wix/adminexecutesequence/), [AdminUISequence](https://wixtoolset.org/docs/v3/xsd/wix/adminuisequence/), [AdvertiseExecuteSequence](https://wixtoolset.org/docs/v3/xsd/wix/advertiseexecutesequence/), [InstallExecuteSequence](https://wixtoolset.org/docs/v3/xsd/wix/installexecutesequence/) or [InstallUISequence](https://wixtoolset.org/docs/v3/xsd/wix/installuisequence/) and is used to schedule a Custom Action within the corresponding table in the MSI. It also allows setting the condition for determining if a Custom Action gets executed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How To Add a Custom Action to Your Package Using WiX Toolset?
 
 Let’s suppose you want to add two Custom Actions to your MSI package with the following characteristics:
@@ -83,10 +90,10 @@ Copy
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The inner text of a [Custom element](https://wixtoolset.org/docs/v3/xsd/wix/custom/) specifies the condition of the Custom Action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The complete listing for the WiX source file is as follows: 
@@ -143,10 +150,10 @@ Below, you can find a list of the most common conditions:
 * (REMOVE = "ALL") AND NOT UPGRADINGPRODUCTCODE – evaluates to TRUE during the MSI uninstallation only
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Compile and Build the MSI Package Containing the Custom Actions
@@ -168,13 +175,6 @@ light <path to wixobj file> –out <path to msi file>
 Copy
 
 ![Build msi package](https://cdn.advancedinstaller.com/img/wix-child-images/build-msi-package.png "Build MSI Package")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And that’s it. Your MSI package is now built.
 
@@ -223,10 +223,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -252,22 +252,20 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-shaping-tomorrow-celebrating-the-top-6-in-nft-artistry/"><u>[New] Shaping Tomorrow Celebrating the Top 6 in NFT Artistry</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-tactics-for-youtube-success-in-25-ways/"><u>[Updated] 2024 Approved Essential Tactics for YouTube Success in 25 Ways</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-learn-to-record-save-and-share-youtube-content-a-cost-free-approach/"><u>[Updated] Learn to Record, Save, & Share YouTube Content A Cost-Free Approach</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-premium-selection-of-webinar-technologies-for-2024/"><u>[Updated] Premium Selection of Webinar Technologies for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-quickening-instagram-video-streams-on-mobile-devices/"><u>[Updated] Quickening Instagram Video Streams on Mobile Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg/"><u>[Updated] Swift Steps to Personalize Your In-Game Sonic Presence in PUBG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-movie-grading-skills-using-cg-centrals-luts/"><u>2024 Approved Transform Your Movie Grading Skills Using CG Central's Luts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-potential-with-pixiz-for-photo-videos/"><u>2024 Approved Unleashing Creative Potential with Pixiz for Photo Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-hp-universal-printer-drivers-on-windows-pcs-easy-guide/"><u>Download HP Universal Printer Drivers on Windows PCs - Easy Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-c210-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia C210 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-streaming-success-gamers-software/"><u>In 2024, Streaming Success Gamers' Software</u></a></li>
-<li><a href="https://article-tips.techidaily.com/newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>Newbie’s Manual to Vector Art Grasping Different Kinds & Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-mp4-videos-playing-only-sound/"><u>Solving the Issue: MP4 Videos Playing Only Sound</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-balancing-act-managing-your-off-facebook-activity-displays-for-2024/"><u>The Balancing Act Managing Your Off-Facebook Activity Displays for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/united-creatives-brands-meet-youtube-for-2024/"><u>United Creatives Brands Meet YouTube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-smooth-authentication-on-iphone-x-mending-face-id-for-2024/"><u>Unlocking Smooth Authentication on iPhone X Mending Face ID for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-clearing-up-black-screens-in-youtube-playback/"><u>[New] 2024 Approved Clearing Up Black Screens in YouTube Playback</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-caramel-cam-chronicles-in-depth-analysis-and-instructions-for-ice-cream-recording/"><u>[Updated] In 2024, Caramel Cam Chronicles In-Depth Analysis & Instructions for Ice Cream Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/deactivated-dings-how-to-reactivate-and-fix-iphones-missing-ringtone-issue/"><u>Deactivated Dings: How to Reactivate and Fix iPhone's Missing Ringtone Issue</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-note-30-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Note 30 Pro Unlock Without Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-text-recognition-vw-explores-enhanced-infotainment-tech/"><u>Leveraging ABBYY's Text Recognition: VW Explores Enhanced Infotainment Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-advanced-website-insights-and-customized-content/"><u>Leveraging Cookiebot Technology for Advanced Website Insights and Customized Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-mental-clarity-tips-on-quieting-phones-organizing-thoughts-and-reflective-introspection-from-the-abbyy-experts/"><u>Mastering Mental Clarity: Tips on Quieting Phones, Organizing Thoughts, and Reflective Introspection From the ABBYY Experts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/mending-disconnected-laptop-and-tv-via-hdmi/"><u>Mending Disconnected Laptop and TV via HDMI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-marketplace-strategies-from-the-abbyy-ai-hub/"><u>Navigating the Marketplace: Strategies From the ABBYY AI Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-artificial-intelligence-myths-key-takeaways-from-the-latest-abbyy-ai-summit/"><u>Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-technology-the-key-to-customized-user-experience-and-seo-success/"><u>Optimize with Cookiebot Technology: The Key to Customized User Experience and SEO Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-partnership-a-guide-to-linking-insta-with-tiktok/"><u>Perfect Partnership A Guide to Linking Insta with TikTok</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-pulsing-monitor-glitches/"><u>Preventing Pulsing Monitor Glitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professionelle-verbesserung-mit-hilfe-digitaler-zwillingsmodelle-fur-ihr-unternehmen/"><u>Professionelle Verbesserung Mit Hilfe Digitaler Zwillingsmodelle Für Ihr Unternehmen</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-to-usb-headphones-a-step-by-step-guide-for-windows-solved-7-users/"><u>Restoring Audio to USB Headphones - A Step-by-Step Guide for Windows ([Solved]) 7 Users</u></a></li>
 </ul></div>
 

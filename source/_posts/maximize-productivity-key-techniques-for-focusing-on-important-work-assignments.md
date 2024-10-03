@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Key Techniques for Focusing on Important Work Assignments"
-date: 2024-09-19 17:32:54
-updated: 2024-09-20 10:22:51
+date: 2024-09-30T19:00:54.549Z
+updated: 2024-10-03T18:56:13.288Z
 tags:
   - work-life
 categories:
@@ -43,6 +43,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Categorize your tasks
 
 Toby Alcock, CTO at Logicalis, said it can be easy to think that ticking off a completed task on your list means you can move on to something else. However, it's important to work with more haste and less speed.
@@ -58,6 +65,13 @@ Alcock said professionals who climb the career ladder will find their diaries fu
 Alcock also told ZDNET that networking with connections, peers, and colleagues will help you understand important activities. 
 
 "Operating in an ivory tower means you're guaranteed to fail," he said. "We've got 7,500 staff around the globe. I want to spend time with them seeing what they're doing for our customers because they're coming up with great ideas. So, I think networking and being intentional about strategic time is critical to focusing on the right activities."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Take a data-driven approach
 
@@ -75,6 +89,13 @@ Lancelot told ZDNET this methodical stance helps you spend time on the right act
 
 "Don't try to solve 10 problems at once," he said. "Try to solve at least one problem to an acceptable level and move on to the next one. You might come around the loop and solve that problem to a deeper level later."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Concentrate on long-term goals
 
 Jessie Sobel, VP of strategic growth initiatives at Freshpet, said the best way to ensure you spend the time on the right activities is to choose a few priorities. 
@@ -90,6 +111,13 @@ Yet even someone like Sobel with tightly defined core roles and responsibilities
 Sobel told ZDNET she tries to keep her eyes on the main prize as much as possible, including Freshpet's recently launched Custom Meals proposition, which creates personalized orders using Ordergroove's API technology.
 
 "In this project, that's not necessarily just about market opportunity," she said. "It's about managing some of the capabilities we build on our digital platforms. It's also about knowing where to build out some of our resources in the organization, too."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Follow your passion
 
@@ -126,11 +154,31 @@ Spending time on the right activities involves a blend, said Wazacz: "There's no
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[New] 2024 Approved Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-professional-tips-to-diminish-ambient-sound-in-videos/"><u>[New] 2024 Approved Professional Tips to Diminish Ambient Sound in Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-beyond-boundaries-how-to-validate-your-tiktok-video-rights/"><u>[New] Beyond Boundaries How to Validate Your TikTok Video Rights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-aps-guide-to-crafting-exquisite-hdr-photos/"><u>[New] Step-by-Step APS Guide to Crafting Exquisite HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swiftly-piece-together-a-stunning-google-photo-collage/"><u>[New] Swiftly Piece Together a Stunning Google Photo Collage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-obscured-oath-black-vs-the-illuminated-edict-silver/"><u>[New] The Obscured Oath (Black) VS The Illuminated Edict (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-soloists-guide-to-captivating-audiences/"><u>[New] The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expertly-navigating-the-world-of-audio-recording-gear-apple-specific/"><u>[Updated] 2024 Approved Expertly Navigating the World of Audio Recording Gear (Apple-Specific)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-hottest-meme-accounts-laughter-and-sorrow-sideshow/"><u>[Updated] Instagram's Hottest Meme Accounts Laughter & Sorrow Sideshow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-pinnacle-of-android-smartphones-a-detailed-review-of-the-samsung-galaxy-s21-ultra/"><u>Analyzing the Pinnacle of Android Smartphones – A Detailed Review of the Samsung Galaxy S21 Ultra</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-text-to-laughter-kapwings-toolkit/"><u>In 2024, Transform Text to Laughter - Kapwing's Toolkit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online-for-2024/"><u>The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-veracity-of-ffmpegs-audio-extraction-techniques-for-2024/"><u>The Veracity of FFmpeg’s Audio Extraction Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-new-dimensions-in-physical-interaction-tech-for-2024/"><u>Unlocking New Dimensions in Physical Interaction Tech for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Creating Software Installers with WiX Toolset by Bypassing the License Agreement Screen
-date: 2024-09-27T07:16:40.820Z
-updated: 2024-09-28T01:11:26.259Z
+date: 2024-10-01T18:54:25.652Z
+updated: 2024-10-03T18:47:23.386Z
 tags:
   - versus
 categories:
@@ -36,13 +36,6 @@ Get the latest WiX insights direct to your inbox. Subscribe now!
 
 Although it is not required, almost every WiX UI configuration has a License Agreement Dialog. In this article, we will go through how to use WiX Toolset to build an installer without a license page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Build an Installer Without a License Page in WiX Toolset
 
 The WiX UI Minimal dialog set will serve as a starting point for our project.
@@ -54,10 +47,10 @@ To get started, let's add the WiX UI minimal dialog set.
 ![Add a new reference for the WixUIExtension.dll file](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/add-new-reference-for-wix-ui-extension-dll-file.png "Add a new reference for the WixUIExtension.dll file")  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Now that the WiX UI Extension is referenced, add this code to your project under the Product Tag:
@@ -98,6 +91,13 @@ Coming up, let's see how you can use Advanced Installer to build your installer 
 
 Are you new to Advanced Installer? Get familiar with it through our [30-day full-feature trial](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use Advanced Installer to Build Your Installer without a license page
 
 Yes, there's an even simpler way to build your installer without a license page. Here's how you can achieve that with the Advanced Installer GUI:
@@ -115,10 +115,10 @@ How can you add a **License Agreement Dialog** in Advanced Installer?
 ![Choose Predefined Dialog LicenseAgreementDlg](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/choose-predefined-dialog.png "Choose Predefined Dialog LicenseAgreementDlg")  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. A new window will pop up where you will need to specify the path of the license file, which has to be an RTF file.
@@ -126,10 +126,10 @@ How can you add a **License Agreement Dialog** in Advanced Installer?
 ![Specify Path of License File](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/specify-path-of-license-file.png "Specify Path of License File")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -193,20 +193,17 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-record-with-flair-on-windows-10/"><u>[New] 2024 Approved How to Record with Flair on Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-pro-mkv-reader-for-personal-computers/"><u>[New] Pro MKV Reader for Personal Computers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-techniques-succeeding-in-spotify-advertising/"><u>[Updated] Top Techniques Succeeding in Spotify Advertising</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos/"><u>2024 Approved The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-handbook-for-srt-file-conversions/"><u>2024 Approved The Expert's Handbook for SRT File Conversions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>2024 Approved Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-manual-integrating-srt-into-mp4-files-for-2024/"><u>Complete Manual Integrating SRT Into MP4 Files for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/crafting-captivating-ig-stories-with-youtube-content-for-2024/"><u>Crafting Captivating IG Stories With YouTube Content for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-digital-footprints-on-instagram-effective-photo-watermarking/"><u>In 2024, Digital Footprints on Instagram Effective Photo Watermarking</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v29e-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-away-from-igs-suggestion-engine/"><u>In 2024, Navigating Away From IG's Suggestion Engine</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-apple-podcasts-transferring/"><u>In 2024, The Essential Guide to Apple Podcasts Transferring</u></a></li>
-<li><a href="https://win11.techidaily.com/microsofts-pioneering-artificial-intelligence-hub/"><u>Microsoft’s Pioneering Artificial Intelligence Hub</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/settling-into-a-virtual-firepit-a-comprehensive-evaluation-of-the-minecraft-campfire-tales-edition/"><u>Settling Into a Virtual Firepit: A Comprehensive Evaluation of the Minecraft Campfire Tales Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-itunes-radio-downloading-blueprint-for-2024/"><u>The Complete iTunes Radio Downloading Blueprint for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-2-ways-to-increase-your-youtube-audience-fast/"><u>[New] 2024 Approved 2 Ways to Increase Your YouTube Audience Fast</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-affordable-hardware-excellent-obs-setup-for-2024/"><u>[New] Affordable Hardware Excellent OBS Setup for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-skys-best-pixels-face-off-dji-inspire-1-and-gopro-fusion-mini/"><u>[New] In 2024, Sky's Best Pixels Face-Off DJi Inspire 1 & GoPro Fusion Mini</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y78t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y78t without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-note-30-vip-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Note 30 VIP to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-free-on-line-da-wmv-a-ts-tramite-il-software-di-movavi-prova-ora-gratuitamente/"><u>Conversione Free On-Line Da WMV a TS Tramite Il Software Di Movavi - Prova Ora Gratuitamente</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargas-gratuitas-para-cambiar-archivos-de-video-desde-mp4-a-asf-sin-problemas-movavi/"><u>Descargas Gratuitas Para Cambiar Archivos De Vídeo Desde MP4 a ASF Sin Problemas - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-techniques-for-smooth-video-playback-across-pcs-macs-android-and-ios-devices/"><u>Effortless Techniques for Smooth Video Playback Across PCs, Macs, Android & iOS Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/make-excel-your-go-to-application-for-spreadsheets-on-macos-easy-instructions-inside/"><u>Make Excel Your Go-To Application for Spreadsheets on macOS: Easy Instructions Inside!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wat-is-een-mkv-file-en-de-procedure-om-het-openbaar-te-maken/"><u>Wat Is Een MKV-File en De Procedure Om Het Openbaar Te Maken?</u></a></li>
 </ul></div>
 

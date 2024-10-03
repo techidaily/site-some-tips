@@ -1,7 +1,7 @@
 ---
 title: How Apple's Strategic Purchase of Mira Startup Introduces Cutting-Edge AR Headsets for Professional Use | Insights From ZDNET
-date: 2024-09-23T20:05:17.125Z
-updated: 2024-09-27T16:52:52.175Z
+date: 2024-10-01T19:11:22.471Z
+updated: 2024-10-03T16:03:42.633Z
 tags:
   - ar+vr
 categories:
@@ -69,29 +69,35 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-detailed-analysis-life-in-spiral-with-gear-360-cam-for-2024/"><u>[New] Detailed Analysis Life in Spiral with Gear 360 Cam for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-revolutionaries-building-virtual-realms/"><u>[New] Revolutionaries Building Virtual Realms</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-strategies-for-ppt-screen-recordings/"><u>[Updated] In 2024, Effective Strategies for PPT Screen Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-essential-tips-and-techniques-for-obs-setup-use-on-a-mac/"><u>[Updated] In 2024, Essential Tips & Techniques for OBS Setup, Use, on a Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-guide-to-changing-console-voice/"><u>[Updated] The Comprehensive Guide to Changing Console Voice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-nuances-zooming-in-on-roblox/"><u>2024 Approved Navigating the Nuances Zooming In on Roblox</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-premium-sound-selection-optimal-websites-list/"><u>2024 Approved Premium Sound Selection Optimal Websites List</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-technology-with-tom-your-go-to-guide/"><u>Exploring Technology with Tom - Your Go-To Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/film-talents-unleashed-downloadable-content-pass-for-2024/"><u>Film Talents Unleashed Downloadable Content Pass for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208231568-hp-laptop-usb-dysfunction-heres-how-to-restore-its-functionality/"><u>HP Laptop USB Dysfunction? Here’s How to Restore Its Functionality!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>In 2024, Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/"><u>In 2024, Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/premium-collection-of-animated-texts-for-2024/"><u>Premium Collection of Animated Texts for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-validating-your-online-identity-on-youtube-for-2024/"><u>Step by Step Validating Your Online Identity on YouTube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-mastery-in-cinematic-productions-with-kinemaster-for-2024/"><u>Transition Mastery in Cinematic Productions with Kinemaster for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-overcoming-absence-of-color-in-game-recordings-for-2024/"><u>[New] Overcoming Absence of Color in Game Recordings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eamless-integration-of-youtube-melodies-into-imovie/"><u>[New] Seamless Integration of YouTube Melodies Into iMovie</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-practices-integrating-timers-into-live-streaming-software/"><u>[Updated] In 2024, Best Practices Integrating Timers Into Live Streaming Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>[Updated] Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-snapchats-spotlight-mechanics/"><u>[Updated] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>2024 Approved Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ranking-top-10-srt-modifications-for-pc-and-macos/"><u>In 2024, Ranking Top 10 SRT Modifications for PC & macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-directory-for-podcast-hosting/"><u>In 2024, The Ultimate Directory for Podcast Hosting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-book-trail-showcases/"><u>In 2024, Unique Book Trail Showcases</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovations-in-vr-a-deep-dive-into-the-best-engine-updates-for-2024/"><u>Innovations in VR A Deep Dive Into the Best Engine Updates for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essence-of-chuckles-in-single-photos-for-2024/"><u>The Essence of Chuckles in Single Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-handbook-for-iphone-ringtone-tweaking-for-2024/"><u>The Essential Handbook for iPhone Ringtone Tweaking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-tricks-for-transforming-videos-on-iphone-by-merging-melodies-for-2024/"><u>Three Tricks for Transforming Videos on iPhone by Merging Melodies for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-iphone-apps-for-daily-podcasts/"><u>Top 5 iPhone Apps for Daily Podcasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-c53-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme C53 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/shing-potential-channel-building-mastery/"><u>Unleashing Potential Channel Building Mastery</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

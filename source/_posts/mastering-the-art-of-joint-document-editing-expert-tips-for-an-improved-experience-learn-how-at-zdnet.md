@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Joint Document Editing: Expert Tips for an Improved Experience - Learn How at ZDNet"
-date: 2024-09-17 17:12:17
-updated: 2024-09-20 12:56:29
+date: 2024-09-26T19:49:27.897Z
+updated: 2024-10-03T16:28:16.933Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ Ready?
 
 This is an "if possible" situation. I know it's not always possible for all collaborators to use the same office suite. I say "possible" quite loosely, because it actually is possible. In this day of cloud-based office suites, there's absolutely no reason why anyone should have to struggle with the whole, "You need to use the same tool I'm using!" thing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to use Google Pixel's Magic Eraser to wipe out photobombers](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/)
@@ -66,6 +73,13 @@ If all involved in the collaboration don't have Microsoft Office or Apple Pages,
 
 While you're at it, make sure you're using the latest version of whatever tool you have. If you're using a version that is two iterations out of date, you're missing out on not only security updates and new features, but also formatting updates and file compatibility fixes. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use copy and paste only when absolutely necessary
 
 This is probably the biggest issue I've had to deal with. I'll be collaborating with someone in Google Docs, only to find out they are writing their portion in a locally installed word processor, and copying and pasting it into the Google Doc. 
@@ -78,6 +92,13 @@ The problem with copy and paste is that it can cause problems with formatting. I
 
 So, if you must copy and paste, paste without formatting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use the same file format
 
 Don't mix and match your file formats. If you are working in LibreOffice, saving as an ODT file, and your collaborator is working with MS Word and DOCX, you're going to have problems. LibreOffice can easily save in DOCX format and Office 365 can work with ODT files. 
@@ -85,6 +106,13 @@ Don't mix and match your file formats. If you are working in LibreOffice, saving
 **Also:** [**How to configure LibreOffice to default to MS Office file formats**](https://www.zdnet.com/home-and-office/work-life/how-to-configure-libreoffice-to-default-to-ms-office-file-formats/)
 
 Or, if you want to use a format that's better capable of going back and forth between applications, save as an RTF (Rich Text Format) file until the collaboration is complete. Once finished and properly formatted, you can export that RTF file into whatever file type you need, even PDF. If you use a mixture of file types, you will inevitably run into issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the cloud
 
@@ -121,11 +149,28 @@ Collaboration doesn't have to be a hair-pulling experience. With just a bit of p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-voice-manipulation-in-ps-console-titles/"><u>[New] The Art of Voice Manipulation in PS Console Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>[New] The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[New] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/outube-splits-a-filmmakers-creative-playbook/"><u>[New] YouTube Splits A Filmmaker’s Creative Playbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-snapedit-story-complete-video-editor-features/"><u>[Updated] SnapEdit Story – Complete Video Editor Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[Updated] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-time-stamped-photography/"><u>2024 Approved The Essentials of Time-Stamped Photography</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-argon-advanced-dashboard-comprehensive-pro-edition-of-vuejs-and-bootstrapvue-admin-template/"><u>Creative Tim's Argon Advanced Dashboard: Comprehensive PRO Edition of Vue.js & BootstrapVue Admin Template</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-resolve-your-bluetooth-driver-woes-with-these-proven-windows-10-strategies/"><u>How to Easily Resolve Your Bluetooth Driver Woes with These Proven Windows 10 Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-k70-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi K70 Phone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immersive-chronicles-virtual-realitys-history-for-2024/"><u>Immersive Chronicles Virtual Reality's History for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-resource-for-profiting-from-your-youtube-content-for-2024/"><u>The Ultimate Resource for Profiting From Your YouTube Content for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-rated-free-image-manipulation-tools-for-macos-your-ultimate-movavi-companion/"><u>Top Rated Free Image Manipulation Tools for macOS - Your Ultimate Movavi Companion</u></a></li>
+</ul></div>
+

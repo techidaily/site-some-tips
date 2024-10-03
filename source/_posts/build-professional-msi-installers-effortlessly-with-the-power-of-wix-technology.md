@@ -1,7 +1,7 @@
 ---
 title: Build Professional MSI Installers Effortlessly with the Power of WiX Technology
-date: 2024-09-21T19:47:03.226Z
-updated: 2024-09-27T20:48:41.040Z
+date: 2024-10-02T19:02:15.513Z
+updated: 2024-10-03T18:50:21.925Z
 tags:
   - versus
 categories:
@@ -52,35 +52,15 @@ Once you have created the Windows Forms application, the next step is to add the
 ![Setup Project for WiX](https://cdn.advancedinstaller.com/img/create-msi-installer-with-wix/setup-project-for-wix.png "Setup Project for WiX")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After creating the setup project, you should see it in _Solution Explore_r. The _Product.wxs_ file is the one containing the setup project logic.
 
 ![Solution Explorer - Product.wxs](https://cdn.advancedinstaller.com/img/create-msi-installer-with-wix/solution-explorer-product-wxs.png "Solution Explorer - Product.wxs")  
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Add project output to your setup project
 
@@ -89,10 +69,10 @@ Next, we need to include the deployable files in the setup project. To achieve t
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)**Wix Setup Editor** is an interactive GUI used to manage the setup files. It is available only if you have the Wax extension installed. If you want to see how to add the extension, you can also read [this](https://tools.techidaily.com/advancedinstaller/products/) article. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To open the editor, go to _Tools_ → _WiX Setup Editor_. Here we have to make some configurations:
@@ -102,6 +82,13 @@ To open the editor, go to _Tools_ → _WiX Setup Editor_. Here we have to make s
 * In the ‘_Projects to install_ section’, select your Window Forms application. We selected _MyApp,_ as this is our application.
 
 ![Wix Setup Editor](https://cdn.advancedinstaller.com/img/create-msi-installer-with-wix/wix-setup-editor.png "Wix Setup Editor")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Make sure the files have the _resolved_ state like in the image above. If they have the _unmapped_ state as shown below, update it to _resolved_ by pressing the ‘+’ button under the warning sign.
 
@@ -121,6 +108,13 @@ To modify the product details, navigate to the _Product.wxs_ file and make the n
 </Product>
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to create Shortcuts for your application?
 
@@ -188,6 +182,13 @@ By default, when you create an installer package using WiX, it does not include 
 
 ![add installation dialogues](https://cdn.advancedinstaller.com/img/create-msi-installer-with-wix/add-installation-dialogues.png "add installation dialogues")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Go to the _Product.wsx_ file and add the next line inside the <_Product>_ element to reference the UI: 
 
 <UIRef Id="WixUI_Minimal" />
@@ -203,19 +204,6 @@ Now, you can build the setup project.
 3. After the installation, you should find the shortcuts on the _Program Menu_ and _Desktop_.
 
 ![install your application](https://cdn.advancedinstaller.com/img/create-msi-installer-with-wix/install-your-application.png "install your application")  
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -278,22 +266,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[New] TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-trending-tweet-treasures-1-10-showdown/"><u>[Updated] 2024 Approved Trending Tweet Treasures #1-#10 Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-cinematographers-playbook-top-5-creative-strategies/"><u>[Updated] The Cinematographer's Playbook Top 5 Creative Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>[Updated] Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/biz-vr-innovations-new-frontiers-in-virtual-workspaces/"><u>Biz-VR Innovations New Frontiers in Virtual Workspaces</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/elevating-your-unbox-sessions-secrets-for-more-views-and-likes-on-tiktok-for-2024/"><u>Elevating Your Unbox Sessions Secrets for More Views and Likes on TikTok for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/enhance-canon-imageclass-mf-s1340dwmf-lide-secure-the-latest-driver-download-and-update/"><u>Enhance Canon ImageCLASS MF S1340dw/Mf (LiDE) - Secure the Latest Driver Download and Update</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/extensive-movement-analysis-2023-for-2024/"><u>Extensive Movement Analysis 2023 for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/gpu-glimpse-new-radeon-unleashed-for-2024/"><u>GPU Glimpse New Radeon Unleashed for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-motorola-moto-g13-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Motorola Moto G13 online without jailbreak</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>In 2024, The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/revolutionnaire-metro-ag-ameliore-le-traitement-des-paiements-clients-de-plus90-avec-laide-dabbyy/"><u>Révolutionnaire, Metro AG Améliore Le Traitement Des Paiements Clients De +90 % Avec L'aide D'ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essentials-of-firefoxs-pip-functionality-for-2024/"><u>The Essentials of Firefox's PIP Functionality for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials-for-2024/"><u>Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-incorporating-markers-a-step-by-step-videography-guide/"><u>[New] In 2024, Incorporating Markers A Step-By-Step Videography Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-3-voice-capturing-ipad-apps-reviewed/"><u>[Updated] TOP 3 Voice Capturing iPad Apps Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-light-and-time-iphones-extended-exposure-techniques/"><u>2024 Approved Bridging Light and Time IPhone's Extended Exposure Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-pro-gamers-and-casters-to-subscribe-now/"><u>2024 Approved Pro Gamers & Casters to Subscribe Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-a2plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi A2+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-vs-paid-the-best-3d-animation-software-for-creators/"><u>Free Vs. Paid The Best 3D Animation Software for Creators</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-secure-your-canon-d530s-optimal-functioning-with-latest-driver-downloads/"><u>How To Secure Your Canon D530's Optimal Functioning With Latest Driver Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-apples-anticipated-vision-pro-glasses-a-comprehensive-review/"><u>Introducing Apple's Anticipated Vision Pro Glasses: A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-stable-diffusion-3-next-level-ai-innovation-unveiled/"><u>Introducing Stable Diffusion 3: Next-Level AI Innovation Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-investing-in-a-virtual-reality-vr-headset-worth-it/"><u>Is Investing in a Virtual Reality (VR) Headset Worth It?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/join-the-universal-zero-cost-meta-vr-community-a-new-era-of-virtual-interaction-begins/"><u>Join the Universal, Zero-Cost Meta VR Community - A New Era of Virtual Interaction Begins!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-personalized-text-generation-emulating-your-writing-style-with-chatgpt/"><u>Mastering Personalized Text Generation: Emulating Your Writing Style with ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-your-creative-outputs-mastering-the-synergy-of-chatgpt-dall-e-ter-and-midjourney/"><u>Maximizing Your Creative Outputs: Mastering the Synergy of ChatGPT, Dall-E Ter, and MidJourney</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-disappointing-experience-with-online-car-shopping-at-carvana-vs-traditional-dealers/"><u>My Disappointing Experience with Online Car Shopping at Carvana Vs. Traditional Dealers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/next-level-smart-features-how-apples-cutting-edge-artificial-intelligence-transforms-siri-and-app-usage/"><u>Next-Level Smart Features: How Apple's Cutting-Edge Artificial Intelligence Transforms Siri and App Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-milestone-by-t-mobile-ultimate-speed-triumphs-as-new-record-for-sub-6-5g-uploads-established/"><u>Revolutionary Milestone by T-Mobile: Ultimate Speed Triumphs as New Record for Sub-6 5G Uploads Established</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tailored-guide-to-following-and-watching-facebook-broadcasts/"><u>Tailored Guide to Following and Watching Facebook Broadcasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-11-resolving-webcam-error-code-a00f4289/"><u>Troubleshooting Windows 11: Resolving Webcam Error Code A00F4289</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/upgrade-now-why-switching-from-your-outdated-android-device-is-essential/"><u>Upgrade Now: Why Switching From Your Outdated Android Device Is Essential</u></a></li>
 </ul></div>
 

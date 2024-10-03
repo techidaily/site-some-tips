@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Mozilla Thunderbird: The Essential Guide to Setting Up a Strong Primary Password | ZDNet Insights"
-date: 2024-09-19 15:21:27
-updated: 2024-09-20 10:40:17
+date: 2024-10-02T16:14:57.671Z
+updated: 2024-10-03T16:10:29.718Z
 tags:
   - work-life
 categories:
@@ -45,6 +45,13 @@ Let's set a Thunderbird Primary Password, so your communications are better prot
 
 **What you'll need:** To make this work, you'll need a working instance of the Thunderbird email client and at least one email account configured. It doesn't matter what platform you use for Thunderbird (it's available for Linux, MacOS, and Windows), as the process is the same. That's all you need. Let's set the password.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Thunderbird
 
 The first thing for you to do is open the Thunderbird email client. How you open the app will depend on the operating system you are using (and, in the case of Linux, what desktop environment).
@@ -59,6 +66,19 @@ Screenshot by Jack Wallen/ZDNET
 
 **Also:** [**What are the best email hosting services and do they protect data?**](https://www.zdnet.com/article/best-email-hosting/)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Locate the Passwords section
 
 Once Settings opens, click Privacy & Security in the left navigation, and scroll down until you see the Passwords section. From there, click the checkbox for Use a Primary Password.
@@ -66,6 +86,13 @@ Once Settings opens, click Privacy & Security in the left navigation, and scroll
 You can also view your saved passwords but once you set a Primary Password, they'll be encrypted and will require you to enter the Primary Password before you can view them.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set your Primary Password
 
@@ -76,6 +103,13 @@ Since you haven't already set a Primary Password, leave the Current field blank.
 Screenshot by Jack Wallen/ZDNET
 
 **Also:** [**Gmail will help you write your emails now: How to access Google's new AI tool**](https://www.zdnet.com/article/gmail-will-help-you-write-your-emails-now-how-to-access-googles-new-ai-tool/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Close and re-open Thunderbird
 
@@ -111,11 +145,33 @@ And that's all there is to protect your email accounts in Thunderbird. I would h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-enhancing-facebook-traffic-with-innovative-video-techniques-for-2024/"><u>[New] Enhancing Facebook Traffic with Innovative Video Techniques for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-winning-the-subscriber-race-on-youtube/"><u>[New] In 2024, Winning the Subscriber Race on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-spectacle-how-twitch-stacks-up-against-youtube/"><u>[New] Streaming Spectacle How Twitch Stacks Up Against YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>[New] Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-compreeved-guide-to-saving-and-storing-reels/"><u>[Updated] In 2024, The Compreeved Guide to Saving and Storing Reels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-viral-laughter-lab/"><u>[Updated] In 2024, Viral Laughter Lab</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-in-depth-insights-into-full-periscope-utilization/"><u>[Updated] In-Depth Insights Into Full Periscope Utilization</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-power-of-persuasion-maximizing-facebook-ad-performance-through-animation/"><u>[Updated] The Power of Persuasion Maximizing Facebook Ad Performance Through Animation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-leading-streaming-programs-for-live-content/"><u>2024 Approved Leading Streaming Programs for Live Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-the-art-of-choosing-and-crafting-whatsapp-alerts/"><u>2024 Approved Mastering the Art of Choosing & Crafting WhatsApp Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-altering-photographic-contrast/"><u>2024 Approved The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-viral-potential-with-ai-driven-video-titles/"><u>2024 Approved Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-windows-11-video-editing-simplified-utilizing-storyremix-features/"><u>2024 Approved Windows 11 Video Editing Simplified Utilizing StoryRemix Features</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/discover-the-exciting-enhancements-in-windows-11s-most-recent-update-tech-insights/"><u>Discover the Exciting Enhancements in Windows 11'S Most Recent Update | Tech Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tune-into-visuals-embedding-music-in-powerpoint/"><u>In 2024, Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-solutions-3d-models-in-animation-space-for-2024/"><u>Superior Solutions 3D Models in Animation Space for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syncing-with-symphonies-music-on-whatsapp-status-for-2024/"><u>Syncing with Symphonies Music on WhatsApp Status for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/toontech-full-evaluation-and-how-to-guide-24/"><u>ToonTech Full Evaluation & How-To Guide '24</u></a></li>
+</ul></div>
+

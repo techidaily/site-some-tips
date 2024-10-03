@@ -1,7 +1,7 @@
 ---
 title: "1. Easy Steps: Successfully Applying Changes with the WiX Toolset Installation Process"
-date: 2024-09-21T22:04:08.705Z
-updated: 2024-09-28T00:27:46.526Z
+date: 2024-09-30T17:37:33.996Z
+updated: 2024-10-03T20:16:46.758Z
 tags:
   - versus
 categories:
@@ -40,6 +40,13 @@ In this post, we will address installer updates with a focus on the most common 
 
 First, we will see what is inside your WiX Toolset base application and move on to the different types of updates that you can execute for your WiX installers. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Is Inside Your WiX Toolset Base Application?
 
 To better understand how an application upgrade works, we should first know what its components are and how they interact with each other. 
@@ -47,13 +54,6 @@ To better understand how an application upgrade works, we should first know what
 For the scenarios presented in this article, we are using WiX Toolset version 3.11.2\. Our base sample application contains **an executable file** “CMtrace.exe” and a **text file**“guide.txt” which has the information shown below.
 
 ![Text file base application](https://cdn.advancedinstaller.com/img/wix-child-images/text-file-base-application.png "Base application containing a text file")  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Take note of the **ProductID**,**UpgradeCode**, and **PackageID** in the code below. It will be helpful for future references since they are the ones that are modified through the upgrading process.
 
@@ -83,13 +83,6 @@ Name="SampleApp" Version="1.0.0.0" Manufacturer="Caphyon" Language="1033">
 
 Copy
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What Are The Main Types of WiX Update Installers?
 
 #### Small Updates
@@ -101,10 +94,10 @@ If you look at our example below, you can observe that the only modification to 
 ![Text file small update](https://cdn.advancedinstaller.com/img/wix-child-images/text-file-small-update.png "The txt file after the small update")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this case, the element changed in the code is: **Package GUID**
@@ -201,6 +194,20 @@ Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can check the types of upgrades and the differences between them in our article on [Updates Deployment](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Implement WiX Installer Upgrades - Common Scenarios
 
 Updates are meant to keep track of changes performed to previous versions. No matter what scenario you follow, you should always have the UpgradeCode from the previous version in hand. 
@@ -275,13 +282,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -305,22 +305,18 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-integrating-advanced-movie-capture-on-diverse-tech-environments/"><u>[New] 2024 Approved Integrating Advanced Movie Capture on Diverse Tech Environments</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-becoming-a-live-broadcast-pro-the-essential-guide-to-wirecast-and-fb-for-2024/"><u>[New] Becoming a Live Broadcast Pro The Essential Guide to Wirecast and FB for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-explore-the-difference-basic-plus-and-pro-in-vimeo-services/"><u>[Updated] 2024 Approved Explore The Difference Basic, Plus & Pro in Vimeo Services</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-discovering-dazzling-images-a-guide-to-pexels-mastery/"><u>[Updated] Discovering Dazzling Images A Guide to Pexels Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-vanguard-20-top-anime-song-starters/"><u>[Updated] Vanguard 20 Top Anime Song Starters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-supercharge-your-screens-with-video-enhancer-v22/"><u>2024 Approved Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>2024 Approved Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-future-of-reading-dive-into-the-world-of-kindle-e-readers/"><u>Discover the Future of Reading: Dive Into the World of Kindle E-Readers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enhance-your-videos-effective-titles-and-keywords-on-youtube-for-2024/"><u>Enhance Your Videos Effective Titles and Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-a14-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy A14 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-13-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 13 Without a Home Button</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-success-in-podcasts-with-seo-know-how-for-2024/"><u>Unlocking Success in Podcasts with SEO Know-How for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-10-shopping-powerhouses-where-to-buy-personalized-present-wrappers/"><u>[New] 10 Shopping Powerhouses Where to Buy Personalized Present Wrappers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-battle-royale-queens-top-10-female-youtubers/"><u>[New] In 2024, Battle Royale Queens Top 10 Female YouTubers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[Updated] 2024 Approved The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-best-tools-for-crafting-memorable-instagram-reels-top-6-for-2024/"><u>[Updated] Best Tools for Crafting Memorable Instagram Reels (Top 6) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ting-your-earning-game-with-youtube-monetization-strategies/"><u>Elevating Your Earning Game with YouTube Monetization Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-with-the-latest-cookiebot-integration/"><u>Enhanced Conversion Tracking with the Latest Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-with-advanced-web-tracking-technology-experience-seamless-user-targeting/"><u>Enhanced with Advanced Web Tracking Technology: Experience Seamless User Targeting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-online-engagement-with-our-cookiebot-seo-solutions/"><u>Experience Enhanced Online Engagement with Our Cookiebot SEO Solutions!</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-2d-to-3d-a-tutorial-for-social-media-success/"><u>From 2D to 3D: A Tutorial for Social Media Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-elevate-your-website-experience/"><u>Harnessing the Power of Cookiebot: Elevate Your Website Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-performance-drones-sold-here/"><u>High-Performance Drones Sold Here</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-a1x-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo A1x 5G online without jailbreak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-right-platform-for-content-creation-for-2024-podcast-or-video/"><u>The Right Platform for Content Creation for 2024 Podcast or Video?</u></a></li>
 </ul></div>
 

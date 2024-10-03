@@ -1,7 +1,7 @@
 ---
 title: "1. Create Personalized Extensions with WiX Toolset: Your Step-by-Step Guide"
-date: 2024-09-21T17:26:00.020Z
-updated: 2024-09-28T10:36:23.049Z
+date: 2024-09-27T18:33:52.214Z
+updated: 2024-10-03T18:53:04.460Z
 tags:
   - versus
 categories:
@@ -49,10 +49,10 @@ When it comes to Custom Actions, there are two elements that are connected to ea
 2\. The Sequences element - which could be any of these: [AdminExecuteSequence](https://wixtoolset.org/docs/v3/xsd/wix/adminexecutesequence/), [AdminUISequence](https://wixtoolset.org/docs/v3/xsd/wix/adminuisequence/), [AdvertiseExecuteSequence](https://wixtoolset.org/docs/v3/xsd/wix/advertiseexecutesequence/), [InstallExecuteSequence](https://wixtoolset.org/docs/v3/xsd/wix/installexecutesequence/) or [InstallUISequence](https://wixtoolset.org/docs/v3/xsd/wix/installuisequence/) and is used to schedule a Custom Action within the corresponding table in the MSI. It also allows setting the condition for determining if a Custom Action gets executed or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How To Add a Custom Action to Your Package Using WiX Toolset?
@@ -88,13 +88,6 @@ Now that our Custom Action element is defined, we can set the corresponding Inst
 Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The inner text of a [Custom element](https://wixtoolset.org/docs/v3/xsd/wix/custom/) specifies the condition of the Custom Action.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The complete listing for the WiX source file is as follows: 
 
@@ -138,13 +131,6 @@ The complete listing for the WiX source file is as follows:
 
 Copy
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Set Custom Action Conditions?
 
 Conditions are set depending on your specific needs and can be easily customized to a great extent. They can include references to installer properties, environment variables, installation folders, state/action of a component/feature, etc.
@@ -155,6 +141,13 @@ Below, you can find a list of the most common conditions:
 * NOT Installed OR REINSTALL – evaluates to TRUE during the MSI installation and repair
 * REMOVE = "ALL" – evaluates to TRUE during the MSI uninstallation and upgrade
 * (REMOVE = "ALL") AND NOT UPGRADINGPRODUCTCODE – evaluates to TRUE during the MSI uninstallation only
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Compile and Build the MSI Package Containing the Custom Actions
 
@@ -181,16 +174,10 @@ And that’s it. Your MSI package is now built.
 ![Msi package](https://cdn.advancedinstaller.com/img/wix-child-images/msi-package.png "MSI Package")  
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Do Custom Actions Work in Advanced Installer
@@ -235,6 +222,19 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -258,24 +258,17 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-perfected-approaches-to-capturing-remote-training-sessions-for-2024/"><u>[New] Perfected Approaches to Capturing Remote Training Sessions for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>[Updated] Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-potential-of-windows-movie-maker-in-windows-8-environments/"><u>[Updated] Unlocking the Potential of Windows Movie Maker in Windows 8 Environments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-of-youtube-video-comments/"><u>[Updated] Unlocking the Secrets of YouTube Video Comments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>2024 Approved 7 Ideas to Improve the Unboxing Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>2024 Approved Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-list-of-top-vector-stock-portals/"><u>2024 Approved The Expert's List of Top Vector Stock Portals</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/breaking-into-livestrances-a-gamers-guide-to-youtube-success/"><u>Breaking Into Livestrances A Gamers' Guide to YouTube Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comparacao-detalhada-o-que-diferencia-o-formato-de-video-wmv-do-mp4/"><u>Comparação Detalhada: O Que Diferencia O Formato De Vídeo WMV Do MP4?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/end-audio-blackout-vocalize-tweet-videos-for-2024/"><u>End Audio Blackout Vocalize Tweet Videos for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-20-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 20 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-cutting-edge-drone-footage-for-movies-and-tv/"><u>In 2024, Cutting-Edge Drone Footage for Movies and TV</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-vivo-y78-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Vivo Y78 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamline-strategies-softwares-versus-hardware-harmony/"><u>In 2024, Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-100-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-missing-openal32dll-file-issue-a-comprehensive-guide/"><u>Resolving the Missing openAL32.dll File Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-editors-guide-to-top-10-fcp-plug-ins-for-2024/"><u>The Ultimate Editor's Guide to Top 10 FCP Plug-Ins for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies-for-2024/"><u>The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-5-ways-to-record-vr-gameplay/"><u>[Updated] In 2024, 5 Ways to Record VR Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-analytics-enhancing-user-experience/"><u>Cookiebot-Driven Site Analytics: Enhancing User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-boost-your-seo-success/"><u>Cookiebot-Driven Site Optimization: Boost Your SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-experience-enhancing-website-personalization-and-marketing/"><u>Cookiebot-Enabled User Experience: Enhancing Website Personalization and Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-optimize-your-site-with-advanced-analytics-tools/"><u>Cookiebot-Enabled: Optimize Your Site with Advanced Analytics Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-best-free-apps-for-learning-new-languages-this-year/"><u>Discover the Best Free Apps for Learning New Languages This Year</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-fortnite-voice-chat-working-again-with-these-easy-fixes/"><u>Get Your Fortnite Voice Chat Working Again with These Easy Fixes</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-stream-videos-from-smartphone-to-projector-easy-tutorial/"><u>How To Stream Videos From Smartphone to Projector - Easy Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-xr-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone XR without Passcode</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/penning-podcasts-to-perfection-a-compreomed-writers-guide/"><u>Penning Podcasts to Perfection A Compreomed Writer’s Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-tecno-pova-5-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Tecno Pova 5 Phones</u></a></li>
 </ul></div>
 

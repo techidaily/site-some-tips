@@ -1,7 +1,7 @@
 ---
 title: Qualcomm, Samsung and Google Join Forces for Groundbreaking Mixed Reality Eyewear – How I Cheered From the Start | ZDNET
-date: 2024-09-22T05:05:18.302Z
-updated: 2024-09-28T06:42:27.590Z
+date: 2024-09-30T17:43:05.542Z
+updated: 2024-10-03T16:10:08.063Z
 tags:
   - ar+vr
 categories:
@@ -69,26 +69,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-exploring-top-notch-gif-utilities-on-ios-devices/"><u>[New] Exploring Top-Notch GIF Utilities on iOS Devices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-solutions-for-missing-shorts-thumbnails-on-youtube/"><u>[New] Solutions for Missing Shorts Thumbnails on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[New] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-youtube-potential-implementing-chapter-sections/"><u>[New] Unlocking YouTube Potential Implementing Chapter Sections</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-mobile-apps-for-stellar-intros/"><u>[Updated] Cutting-Edge Mobile Apps for Stellar Intros</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-spectrumstreams-2024-worldwide-selection-at-fingertips/"><u>[Updated] SpectrumStreams 2024 Worldwide Selection at Fingertips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
-<li><a href="https://article-files.techidaily.com/capitalize-on-savings-ibuypower-celebrates-the-spirit-of-savings-with-memorial-day-sales-for-next-gen-gamers/"><u>Capitalize on Savings: IBUYPOWER Celebrates the Spirit of Savings with Memorial Day Sales for Next-Gen Gamers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fast-and-simple-methods-to-fix-frequent-crashes-in-titanfall-2/"><u>Fast and Simple Methods to Fix Frequent Crashes in Titanfall 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-14-ultra-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 14 Ultra to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades-for-2024/"><u>The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-movie-storage-space-needs-over-24-hours-for-2024/"><u>Understanding Movie Storage Space Needs Over 24 Hours for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tactics-to-quiet-down-distractions-during-google-meets/"><u>[New] Tactics to Quiet Down Distractions During Google Meets</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-elevating-your-instagram-highlights-with-exquisite-photography/"><u>[Updated] 2024 Approved Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-inshots-playlist-prowess-adding-external-music/"><u>[Updated] In 2024, InShot's Playlist Prowess Adding External Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversao-webm-em-gif-livre-on-line-com-o-movavi-guia-simples-e-eficiente-para-todos-os-usuarios/"><u>Conversão WebM Em GIF Livre On-Line Com O Movavi: Guia Simples E Eficiente Para Todos Os Usuários</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-vocal-effect-modifications-to-enhance-your-audio-experience/"><u>Discover the Best Vocal Effect Modifications to Enhance Your Audio Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-depths-of-ifunnys-meme-experience/"><u>In 2024, Exploring the Depths of iFunny's Meme Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-downloading-just-the-speech-tune-out-visuals-keep-the-audio-only/"><u>Quick Guide to Downloading Just the Speech: Tune Out Visuals, Keep the Audio Only!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-applicazioni-piu-efficienti-per-la-registrazione-dello-schermo-del-computer/"><u>Top 5 Applicazioni Più Efficienti per La Registrazione Dello Schermo Del Computer</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

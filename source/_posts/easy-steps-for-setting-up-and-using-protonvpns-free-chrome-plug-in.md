@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Setting Up and Using ProtonVPN's Free Chrome Plug-In
-date: 2024-09-17 11:58:16
-updated: 2024-09-20 10:56:22
+date: 2024-09-30T18:12:21.637Z
+updated: 2024-10-03T18:31:33.596Z
 tags:
   - vpn
 categories:
@@ -49,6 +49,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Open your web browser of choice and point it to either the [Chrome Web Store](https://chromewebstore.google.com/detail/proton-vpn-fast-secure/jplgfhpmjnbigmhklmmbgecoobifkmpa) (for Chromium-based browsers) or the [Firefox Add-Ons store](https://addons.mozilla.org/en-US/firefox/addon/proton-vpn-firefox-extension/?utm%5Fsource=addons.mozilla.org&utm%5Fmedium=referral&utm%5Fcontent=search).
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Click to add
 
 From the Proton VPN page in your web store of choice, click the Add button and, when prompted, allow the installation. Once the extension is installed, you can close the web store page.
@@ -56,6 +63,13 @@ From the Proton VPN page in your web store of choice, click the Add button and, 
 You can install the Proton VPN extension on Opera from within the Chrome Web Store.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Pin the extension
 
@@ -69,6 +83,19 @@ I highly recommend pinning the extension for easier access.
 
 Screenshot by Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Sign in to your Proton VPN account
 
 Click the Proton VPN icon in your browser taskbar and then click the Sign In button. You'll be prompted for your Proton VPN username and password.
@@ -76,6 +103,13 @@ Click the Proton VPN icon in your browser taskbar and then click the Sign In but
 You can either sign in to an existing account or create a new one.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Connect to the VPN
 
@@ -119,11 +153,30 @@ The Proton VPN browser extension is a great option if you're looking for more se
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23/"><u>[New] Riding Ahead with Clarity Hats Cam Excellence in the Year of '23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-text-workflow-in-after-effects/"><u>[New] Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>[New] The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-zoom-calls-enhance-your-visuals-here/"><u>[New] Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-beginning-a-charitable-cyber-fundraiser-on-fb/"><u>[Updated] In 2024, Beginning a Charitable Cyber Fundraiser on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[Updated] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-auroras-role-in-enhancing-image-contrast/"><u>2024 Approved Aurora's Role in Enhancing Image Contrast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mobile-filming-tools-for-tourists/"><u>2024 Approved Mobile Filming Tools for Tourists</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>2024 Approved The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726026552330-5/"><u>音楽トリミング用フリープログラム紹介:上位5つ選びます!</u></a></li>
+<li><a href="https://games-able.techidaily.com/connect-cast-and-control-using-steam-deck-to-access-pc-gaming/"><u>Connect, Cast & Control: Using Steam Deck to Access PC Gaming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-hp-monitor-driver-issues-on-windows-1087/"><u>Fix HP Monitor Driver Issues on Windows 10/8/7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-edge-2023-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Edge 2023</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 12 Pro Max</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-identifying-the-best-iphone-watermarks-a-complete-guide/"><u>In 2024, Identifying the Best iPhone Watermarks A Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>In 2024, The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
+</ul></div>
+

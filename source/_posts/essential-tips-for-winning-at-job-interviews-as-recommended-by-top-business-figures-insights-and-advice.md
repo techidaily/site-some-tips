@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Winning at Job Interviews as Recommended by Top Business Figures - Insights & Advice
-date: 2024-09-17 18:47:28
-updated: 2024-09-20 11:53:39
+date: 2024-09-29T18:50:06.308Z
+updated: 2024-10-03T20:06:09.001Z
 tags:
   - work-life
 categories:
@@ -29,6 +29,13 @@ Michael also says work/life balance is crucial. Yes, he wants people who enjoy t
 
 "I'm looking for somebody who's enthusiastic and wants to do it," he says. "Then, even though they may not necessarily have all the skills or may not be the best at doing that role, I'm going to be prepared to give time to work with them so they can excel."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Bring a sense of curiosity 
 
 Mary O'Callaghan, director of technology engagement at the British Heart Foundation (BHF), wants people in her charity who are curious. 
@@ -40,6 +47,13 @@ Mary O'Callaghan, director of technology engagement at the British Heart Foundat
 As well as being open to all possibilities, O'Callaghan says people applying to her organization should be purpose-driven and motivated by its charitable cause, especially as BHF can't compete with high-paying companies, such as financial services and big tech firms.
 
 "I look for attitudes rather than specific experience," she says. "We invest in training and development, so we can give you the experience and skills. But it's the attitude that you can only bring yourself."
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Be honest and open
 
@@ -54,6 +68,19 @@ Al-Kudcy recognizes some people might find the thought of being completely hones
 "I think you can see through it when people aren't engaged, and their interactions are staged -- maybe more now than ever before. It's certainly what I look for," she says. 
 
 "We've just hired several people, and the ones that were more honest and open were the ones that ended up with the jobs. Authenticity is key. And if people don't like the thought of that, then this probably isn't the right workplace for them."
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Demonstrate your conceptual strengths
 
@@ -84,6 +111,13 @@ He gives an example of one person he interviewed who had a fantastic resume. The
 **Also:** [**5 ways to be a better manager**](https://www.zdnet.com/home-and-office/work-life/5-ways-to-be-a-better-manager-best-practices-every-leader-should-know/)
 
 "You could actually see him Googling the answers," he says. "You could hear him tapping away on his keyboard. And it was very difficult, especially when he was getting questions wrong, even though he was using Google. So, that's the worst way to have an interview." 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Prove you're a rounded person
 
@@ -128,11 +162,31 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-dive-into-color-management-with-ae-luts/"><u>[New] In 2024, Dive Into Color Management with AE LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-navigating-twitch-recording-a-users-playbook/"><u>[Updated] In 2024, Navigating Twitch Recording A User's Playbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-lengthening-gopros-electric-life/"><u>[Updated] Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-channel-finale-strategy-plus-best-templates-and-makers/"><u>[Updated] The Ultimate Channel Finale Strategy + Best Templates & Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-closer-views-on-microsoft-teams/"><u>[Updated] Unveiling the Art of Closer Views on Microsoft Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-christian-melodies-download-and-personalize-guide/"><u>2024 Approved Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/exploring-the-need-for-enhanced-capabilities-in-modern-smartphones/"><u>Exploring the Need for Enhanced Capabilities in Modern Smartphones</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-k11x-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo K11x to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>In 2024, The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-the-hidden-process-of-downloading-fb-content/"><u>In 2024, Unveiling the Hidden Process of Downloading Fb Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-close-up-views-in-minecraft-for-2024/"><u>Mastering Close-Up Views in Minecraft for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-anglers-companion-best-action-cams-for-fishing-for-2024/"><u>The Angler’s Companion Best Action Cams for Fishing for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zipping-to-captions-direct-method-for-srt-file-creation/"><u>Zipping to Captions Direct Method for .Srt File Creation</u></a></li>
+</ul></div>
+

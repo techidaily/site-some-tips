@@ -1,7 +1,7 @@
 ---
 title: Mastering WiX Toolset Update Deployment Strategies for Seamless Software Modifications
-date: 2024-09-26T14:49:00.031Z
-updated: 2024-09-27T20:14:34.936Z
+date: 2024-09-29T18:32:34.438Z
+updated: 2024-10-03T20:00:59.205Z
 tags:
   - versus
 categories:
@@ -41,10 +41,10 @@ In this post, we will address installer updates with a focus on the most common 
 First, we will see what is inside your WiX Toolset base application and move on to the different types of updates that you can execute for your WiX installers. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Is Inside Your WiX Toolset Base Application?
@@ -92,6 +92,13 @@ Copy
 If you look at our example below, you can observe that the only modification to the package is the text inside the guide.txt file. Since this is a quick fix, you can consider Small Update as a hotfix.
 
 ![Text file small update](https://cdn.advancedinstaller.com/img/wix-child-images/text-file-small-update.png "The txt file after the small update")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this case, the element changed in the code is: **Package GUID**
 
@@ -161,6 +168,19 @@ Let’s assume we perform a Major Upgrade to our application which has the main 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)As a best practice, the UpgradeCode should also be changed every time you make a Major upgrade to your package.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
 <Product Id="95EF64F6-3CF6-4F3A-9854-CBBE0A7338F5" UpgradeCode="7806A6DF-7FEF-4788-B871-261903DE0381" 
 Name="SampleApp" Version="2.0.0.0" Manufacturer="Caphyon" Language="1033">
@@ -186,20 +206,6 @@ Name="SampleApp" Version="2.0.0.0" Manufacturer="Caphyon" Language="1033">
 Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can check the types of upgrades and the differences between them in our article on [Updates Deployment](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Implement WiX Installer Upgrades - Common Scenarios
 
@@ -276,10 +282,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -305,20 +311,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-social-media-showdown-2021-tiktok-vs-snapchat-whos-winning/"><u>[New] In 2024, Social Media Showdown 2021 TikTok vs Snapchat - Who’s Winning?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-digital-dream-team-best-screen-capture-software-online/"><u>[Updated] Digital Dream Team Best Screen Capture Software Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-comic-crafting-mastering-7-cheeky-content-strategies/"><u>[Updated] In 2024, Comic Crafting Mastering 7 Cheeky Content Strategies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-reel-downloads-with-ease-and-versatility/"><u>[Updated] Navigating Instagram's Reel Downloads with Ease and Versatility</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wi-fi2024/"><u>【Wi-Fi無し、通信エリア外でも聞ける】2024新着無料ミュージックアプリ - すぐに使える最高の選択</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-cheap-sky-expeditions-under-500-drone-highlights/"><u>2024 Approved Cheap Sky Expeditions Under $500 Drone Highlights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-silhouette-photos/"><u>2024 Approved The Ultimate Guide to iPhone Silhouette Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>2024 Approved Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-video-quality-on-tiktok-2-ways/"><u>2024 Approved Transform Video Quality on TikTok (2 Ways)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-eternal-gallery-of-commons-artworks-online/"><u>In 2024, The Eternal Gallery of Commons Artworks Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-pros-guide-to-efficient-win11-use/"><u>In 2024, The Pro's Guide to Efficient Win11 Use</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ps5-elite-gaming-screens-top-5-hdmi-21-ultra-high-res-monitors-for-2024/"><u>PS5 Elite Gaming Screens Top 5 HDMI 2.1 Ultra High-Res Monitors for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-2019-game-changer-in-vegaspro-for-2024/"><u>The 2019 Game-Changer in VegasPro for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-30-pro-windows-10-secrets-revealed-for-2024/"><u>Top 30 Pro Windows 10 Secrets Revealed for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/updated-noctua-nh-d15-g2-features-enhanced-silence-with-increased-heatpipes-and-modernized-offset-framework/"><u>Updated Noctua NH-D15 G2 Features Enhanced Silence with Increased Heatpipes & Modernized Offset Framework</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-essential-audio-interface-guide-for-podcasters-for-2024/"><u>[New] Essential Audio Interface Guide for Podcasters for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-views-with-your-own-youtube-thumbnail-design/"><u>[New] In 2024, Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>[New] In 2024, Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-essential-videography-the-leading-screen-recorder-apps/"><u>[Updated] 2024 Approved Essential Videography The Leading Screen Recorder Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-experience-the-future-of-learning-with-these-channels/"><u>[Updated] 2024 Approved Experience the Future of Learning with These Channels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-best-cameras-to-capture-slow-motion-videos/"><u>[Updated] In 2024, Best Cameras to Capture Slow Motion Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-protect-your-privacy-why-you-should-avoid-sharing-your-personal-email-with-businesses/"><u>1. Protect Your Privacy: Why You Should Avoid Sharing Your Personal Email with Businesses</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/samsung-galaxy-z-flip-enhanced-innovation-in-the-next-gen-foldable-phone/"><u>Samsung Galaxy Z Flip: Enhanced Innovation in the Next-Gen Foldable Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-the-google-pixel-lineup-a-look-at-the-pixel-6-pro-after-three-years/"><u>The Evolution of the Google Pixel Lineup: A Look at the Pixel 6 Pro After Three Years</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secret-behind-my-familys-effortless-coordination-why-we-cant-live-without-cozi/"><u>The Secret Behind My Family's Effortless Coordination: Why We Can't Live Without Cozi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-the-oneplus-11-insights-from-a-yearlong-experience-for-pricing-similarity/"><u>The Ultimate Guide to the OnePlus 11 – Insights From a Yearlong Experience (for Pricing Similarity)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725285083782-winx-dvd-ripper-for-mac/"><u>WinX DVD Ripper for Mac: 解決方案與答案 - 在線用戶支持</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
 </ul></div>
 

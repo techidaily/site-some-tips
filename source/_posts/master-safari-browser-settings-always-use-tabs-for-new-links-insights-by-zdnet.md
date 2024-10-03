@@ -1,7 +1,7 @@
 ---
 title: "Master Safari Browser Settings: Always Use Tabs for New Links – Insights by ZDNet"
-date: 2024-09-19 16:23:28
-updated: 2024-09-20 11:22:18
+date: 2024-09-26T18:38:08.862Z
+updated: 2024-10-03T19:46:08.395Z
 tags:
   - work-life
 categories:
@@ -44,9 +44,23 @@ So, how do you avoid such a situation? Fortunately, there's a built-in option th
 
 ## How to force Safari to always open new sites in tabs 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only thing you'll need is a running instance of Safari. I'll demonstrate with version 16.1 running on MacOS Ventura. So long as your version of Safari is updated, it should work just fine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Open Safari
 
@@ -59,6 +73,13 @@ Click on the Safari menu in the MacOS top bar and click Settings.
 Accessing the Safari Settings app from the MacOS top bar.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Configure Open Pages In Tabs
 
@@ -79,6 +100,13 @@ A new popup will appear. Click Always Create Tabs to ok the selection. Once you'
 The setting will not be enabled until you ok it.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Test the new behavior
 
@@ -109,11 +137,31 @@ This may seem like an insignificant problem, but the more it happens, you'll eve
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ut-costs-enhance-visuals-free-banners-for-video-makers-for-2024/"><u>[New] Cut Costs, Enhance Visuals – Free Banners for Video Makers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>[New] The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-8-excellent-free-online-srt-translators-for-efficiency/"><u>[Updated] Unveiling Top 8 Excellent Free Online SRT Translators for Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>2024 Approved Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>2024 Approved The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/abbyy-finereader-15-abbyy/"><u>ABBYY FineReader 15 でデジタル変革が迅速かつ容易に！- ABBYY最新情報</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/deterrence-theory-plays-a-critical-role-in-maintainebeing-both-a-proliferation-catalyst-and-a-hindrance-to-disarmament-efforts/"><u>Deterrence Theory Plays a Critical Role in Maintainebeing Both a Proliferation Catalyst and a Hindrance to Disarmament Efforts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-sign-into-windows-after-a-user-profile-service-failure/"><u>How to Successfully Sign Into Windows After a User Profile Service Failure</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-amd-r9-series-card-with-new-windows-drivers/"><u>How to Update Your AMD R9 Series Card with New Windows Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-itel-a70-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Itel A70 PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-enhance-engagement-top-12-tactics-for-youtube-success/"><u>In 2024, Enhance Engagement Top 12 Tactics for YouTube Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>In 2024, From Basics to Best Achieving Superior Sound via Zoom for Podcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-syma-x8c-performance-breakdown/"><u>In 2024, Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-low-volume-playback-system-guide/"><u>In 2024, The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-filter-techniques-for-professional-level-posts-for-2024/"><u>Instagram Filter Techniques for Professional-Level Posts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-the-ultimate-android-mp3-downloader-collection-for-2024/"><u>Top Picks The Ultimate Android MP3 Downloader Collection for 2024</u></a></li>
+</ul></div>
+

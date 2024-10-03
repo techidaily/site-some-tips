@@ -1,7 +1,7 @@
 ---
 title: Top 3 Essential Chrome Add-Ons That Boost Productivity, Completely FREE! (ZDNet)
-date: 2024-09-18 13:22:37
-updated: 2024-09-20 10:51:38
+date: 2024-09-28T16:30:08.599Z
+updated: 2024-10-03T16:29:22.212Z
 tags:
   - work-life
 categories:
@@ -44,11 +44,31 @@ Here are the three that I've installed. And the good news is that they are all f
 
 Increased productivity, here I come!
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Checker Plus for Gmail
 
 Checker Plus for Gmail
 
 Google
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -61,6 +81,19 @@ Checker Plus for Gmail allows emails to appear as pop-up notifications, giving m
 There's even an option to run this in the background when Google Chrome is closed and still get new email alerts.
 
 **See it here:** [Checker Plus for Gmail on the Chrome Web Store](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=en)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Dualless
 
@@ -79,6 +112,13 @@ The ratios of the splits can be adjusted according to my needs -- between 3:7, 4
 I'm amazed by just how much of a productivity booster using multiple windows is compared with switching between tabs.
 
 **See it here:** [Dualless on the Chrome Web Store](https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd/related?hl=en)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. RescueTime for Chrome and Chrome OS
 
@@ -115,11 +155,29 @@ RescueTime auto-categorizes sites I visit and scores them on a scale ranging fro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-video-game-chroniclers-essential-checklist/"><u>[New] 2024 Approved The Video Game Chronicler’s Essential Checklist</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>[New] The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-movie-journey-for-inspiration-seekers/"><u>[New] The Ultimate Movie Journey for Inspiration Seekers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-affordable-hd-cams-for-sports/"><u>[New] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-from-idea-to-action-creating-engaging-gifs/"><u>[Updated] From Idea to Action Creating Engaging GIFs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youtube-analytics-how-to-analyze-your-and-competitors-youtube-video/"><u>[Updated] In 2024, YouTube Analytics – How to Analyze Your and Competitor's YouTube Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-scripting-for-advanced-typography-in-after-effects/"><u>[Updated] Innovative Scripting for Advanced Typography in After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>[Updated] Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/1-quick-guide-turning-your-vitalsource-evbk-files-into-a-downloadable-pdf-format/"><u>1. Quick Guide: Turning Your VitalSource eVBK Files Into a Downloadable PDF Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-video-creation-harness-the-trio-of-windows-photos-and-storyremix/"><u>2024 Approved Transformative Video Creation Harness the Trio of Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/maximize-your-gaming-experience-tips-for-120-fps-on-the-next-gen-ps5-console/"><u>Maximize Your Gaming Experience - Tips for 120 FPS on the Next-Gen PS5 Console</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-audio-experience-with-apods-for-2024/"><u>Streamline Your Audio Experience with APods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-strategy-tackling-cold-war-stuck-screens-in-video-game-consoles-and-computers/"><u>Unfreeze Your Strategy: Tackling 'Cold War' Stuck Screens in Video Game Consoles and Computers</u></a></li>
+</ul></div>
+

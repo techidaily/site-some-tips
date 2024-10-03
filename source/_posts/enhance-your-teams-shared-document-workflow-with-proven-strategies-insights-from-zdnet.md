@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Team's Shared Document Workflow with Proven Strategies: Insights From ZDNet"
-date: 2024-09-17 17:52:55
-updated: 2024-09-20 11:44:51
+date: 2024-09-29T19:57:31.458Z
+updated: 2024-10-03T16:32:12.493Z
 tags:
   - work-life
 categories:
@@ -51,6 +51,13 @@ Ready?
 
 This is an "if possible" situation. I know it's not always possible for all collaborators to use the same office suite. I say "possible" quite loosely, because it actually is possible. In this day of cloud-based office suites, there's absolutely no reason why anyone should have to struggle with the whole, "You need to use the same tool I'm using!" thing.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 * [How to use Google Pixel's Magic Eraser to wipe out photobombers](https://www.zdnet.com/article/how-to-use-magic-eraser-on-the-google-pixel/)
@@ -66,6 +73,13 @@ If all involved in the collaboration don't have Microsoft Office or Apple Pages,
 
 While you're at it, make sure you're using the latest version of whatever tool you have. If you're using a version that is two iterations out of date, you're missing out on not only security updates and new features, but also formatting updates and file compatibility fixes. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use copy and paste only when absolutely necessary
 
 This is probably the biggest issue I've had to deal with. I'll be collaborating with someone in Google Docs, only to find out they are writing their portion in a locally installed word processor, and copying and pasting it into the Google Doc. 
@@ -78,6 +92,13 @@ The problem with copy and paste is that it can cause problems with formatting. I
 
 So, if you must copy and paste, paste without formatting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Use the same file format
 
 Don't mix and match your file formats. If you are working in LibreOffice, saving as an ODT file, and your collaborator is working with MS Word and DOCX, you're going to have problems. LibreOffice can easily save in DOCX format and Office 365 can work with ODT files. 
@@ -85,6 +106,13 @@ Don't mix and match your file formats. If you are working in LibreOffice, saving
 **Also:** [**How to configure LibreOffice to default to MS Office file formats**](https://www.zdnet.com/home-and-office/work-life/how-to-configure-libreoffice-to-default-to-ms-office-file-formats/)
 
 Or, if you want to use a format that's better capable of going back and forth between applications, save as an RTF (Rich Text Format) file until the collaboration is complete. Once finished and properly formatted, you can export that RTF file into whatever file type you need, even PDF. If you use a mixture of file types, you will inevitably run into issues.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the cloud
 
@@ -121,11 +149,30 @@ Collaboration doesn't have to be a hair-pulling experience. With just a bit of p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamer-soundscape-the-top-5-headset-guidebook/"><u>[New] 2024 Approved Streamer Soundscape The Top 5 Headset Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-15-essential-gopro-accessories-for-newbies/"><u>[New] Top 15 Essential GoPro Accessories for Newbies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-full-inspection-gopro-silver-hero4-detailed-review/"><u>[Updated] 2024 Approved Full Inspection GoPro Silver Hero4 Detailed Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-global-elite-top-12-tools-with-no-time-limit/"><u>[Updated] 2024 Approved Global Elite Top 12 Tools With No Time Limit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-safekeep-stories-the-unlimited-save-service/"><u>[Updated] In 2024, Safekeep Stories The Unlimited Save Service</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-entry-into-the-sub4sub-universe-guide-to-get-you-there/"><u>[Updated] Seamless Entry Into the Sub4sub Universe - Guide to Get You There</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>2024 Approved Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-precision-playback-aligning-video-views-in-real-time/"><u>In 2024, Precision Playback Aligning Video Views in Real-Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-black-illusion-vs-silver-miracle/"><u>In 2024, The Black Illusion Vs Silver Miracle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>In 2024, TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-9-androidios-video-chat-platforms-ranked/"><u>In 2024, Top 9 Android/iOS Video Chat Platforms Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization-for-2024/"><u>Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-science-of-audience-retention-on-tweets/"><u>The Science of Audience Retention on Tweets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection-for-2024/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-youtube-video-comments-for-2024/"><u>Unlocking the Secrets of YouTube Video Comments for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Discovering Your Contacts' GPG Keys with Mozilla Thunderbird: A Step-by-Step Guide"
-date: 2024-09-18 16:17:54
-updated: 2024-09-20 11:31:14
+date: 2024-10-02T16:34:51.023Z
+updated: 2024-10-03T16:21:31.749Z
 tags:
   - work-life
 categories:
@@ -34,6 +34,13 @@ There are ways you can get the recipient's public key. You can have them send it
 
 Fortunately, there's another way that's sort of hidden from sight. This less-than-obvious method is much easier than the other two options, so I highly recommend you try these simple steps first. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to locate a user's GPG key in Thunderbird 
 
 Let me show you the way. 
@@ -48,9 +55,29 @@ The only thing you'll need is a running instance of [Thunderbird](https://www.th
 
 That's all you need. Let's make this happen. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Thunderbird and choose an email
 
 The first thing you must do is open Thunderbird and locate an email from the recipient whose public GPG key you wish to add so you can send them encrypted emails.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Open the email from the recipient
 
@@ -75,6 +102,13 @@ Close out that pop-up by clicking OK and you're done.
 Accepting a GPG from a recipient's email address.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Encryption enabled 
 
@@ -101,11 +135,29 @@ Now that you've imported the recipient's GPG key, you can encrypt any emails you
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tips-to-perfectly-integrate-jump-cuts-into-videos/"><u>[New] 2024 Approved Tips to Perfectly Integrate Jump Cuts Into Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-optimizing-livestream-videos-on-twitch/"><u>[New] In 2024, Optimizing Livestream Videos on Twitch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>[New] The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>[New] The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-from-tweet-vids-to-mp3-audio-files/"><u>[New] The Ultimate Guide From Tweet Vids to MP3 Audio Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-windows-10-tips-for-maximum-productivity/"><u>[New] Top Windows 10 Tips For Maximum Productivity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>[Updated] In 2024, Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-top-best-background-erase-software/"><u>[Updated] Top Best Background Erase Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/find-the-perfect-phone-shot-blur-for-2024/"><u>Find the Perfect Phone Shot Blur for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-g310-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia G310 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>In 2024, Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>In 2024, Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-enhanced-cognitive-behavioral-therapy-practices/"><u>Leveraging ChatGPT for Enhanced Cognitive Behavioral Therapy Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-zoom-services-directly-from-your-inbox-gmail-edition-for-2024/"><u>Utilizing Zoom Services Directly From Your Inbox - Gmail Edition for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lava-blaze-2-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lava Blaze 2 5G Phone Network-Ready</u></a></li>
+</ul></div>
+

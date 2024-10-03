@@ -1,7 +1,7 @@
 ---
 title: "Nailing the Introduction: 5 Key Strategies for Leaving a Lasting Impact at Your First Job with ZDNet Insights"
-date: 2024-09-18 22:19:13
-updated: 2024-09-20 12:41:40
+date: 2024-09-27T17:08:56.446Z
+updated: 2024-10-03T18:10:46.352Z
 tags:
   - work-life
 categories:
@@ -20,6 +20,13 @@ You've got the job you always wanted -- but now the hard work begins. Any new en
 Research by consultant McKinsey suggests [46% of senior management appointments are regarded as failures or disappointments](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/successfully-transitioning-to-new-leadership-roles) after two years. So, how can you succeed in a new role? Five business leaders give us their top tips.
 
 ### 1\. Set out your objectives clearly
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More from **ZDNET**
 
@@ -43,6 +50,13 @@ To that end, Heneghan says new starters should spend a lot of time engaging with
 
 "Success there is about not just projecting what you want people to hear. That means trying to hear and actively listening to what people's challenges are -- and then showing that you're taking that information on board." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Don't rely on tried and tested tricks
 
 Ed Higgs, group director of IT shared services at Rentokil Initial, says new starters must be careful to not simply use a set of techniques they've applied before. 
@@ -54,6 +68,13 @@ Higgs says strategies used in one organization or region won't necessarily work 
 Instead, Higgs says the key to succeeding in a new role is spending time with staff to work out their key challenges and the underlying requirements of those at the top.
 
 "You have to listen -- you have to understand the workforce," he says." But you must also understand what the senior guys are trying to achieve and link those aims together."
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Win hearts and minds across the business
 
@@ -82,6 +103,13 @@ Read got the opportunity to test this philosophy when he joined EDF UK last May.
 Just over six months on from his appointment, Read's team is delivering the benefits he promised. Now, the business is using this data platform to deliver a range of machine-learning products to help customers make smarter decisions about energy use.
 
 "You must have a mission and a clear set of goals, and then you need to drive and deliver against them," he says. "If your key stakeholders cannot see what they're getting as a return for their investment, then there will always be questions around the value of your work."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Get out and meet people
 
@@ -112,11 +140,28 @@ Steve Capper, CIO at engineering and construction specialist SNC-Lavalin, says a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-screencaptureelite-the-5-star-apeaksoft-evaluation-for-2024/"><u>[New] ScreenCaptureElite – The 5-Star Apeaksoft Evaluation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tricks-to-control-music-paceplay-in-spotify/"><u>[New] Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-list-high-quality-cost-free-meeting-platforms/"><u>[Updated] Essential List High-Quality, Cost-Free Meeting Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-gaining-heavy-followers-and-verification-status-a-quick-guide-with-top-6-insights/"><u>[Updated] In 2024, Gaining Heavy Followers & Verification Status A Quick Guide with Top 6 Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-process-for-crafting-your-own-ringtone-from-tiktok-music/"><u>[Updated] The Complete Process for Crafting Your Own Ringtone From TikTok Music</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-metaverse-multiverse-dichotomy-explained/"><u>[Updated] The Metaverse-Multiverse Dichotomy Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-premier-pro-essentials-accessible-for-all-editors/"><u>[Updated] The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-exciting-photography-aspects-of-ios-11/"><u>[Updated] Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-watch-list-to-download-youtube-playlist-in-minutes/"><u>2024 Approved From Watch List to Download YouTube Playlist in Minutes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-rog-phone-8-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from ROG Phone 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-video-storage-daylong-total-in-gbs/"><u>In 2024, Understanding Video Storage Daylong Total in GBs</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-hitman-3-on-pc-avoid-crashes-and-enjoy-gaming-with-these-tips/"><u>Mastering Hitman 3 on PC - Avoid Crashes and Enjoy Gaming with These Tips!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-razr-40-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Razr 40 and stops randomly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-lava-blaze-2-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Lava Blaze 2 5G has been deleted.</u></a></li>
+</ul></div>
+

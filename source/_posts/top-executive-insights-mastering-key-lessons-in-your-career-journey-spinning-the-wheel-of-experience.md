@@ -1,7 +1,7 @@
 ---
 title: "Top Executive Insights: Mastering Key Lessons in Your Career Journey - Spinning the Wheel of Experience"
-date: 2024-09-19 17:36:58
-updated: 2024-09-20 11:43:21
+date: 2024-09-27T19:53:01.487Z
+updated: 2024-10-03T19:41:59.759Z
 tags:
   - work-life
 categories:
@@ -23,6 +23,13 @@ If you could go back to the start of your career, what advice would you give you
 
 Clare Lansley, CIO at Aston Martin Cognizant Formula One, says she'd tell her younger self that there's nothing wrong with taking your foot off the gas slightly. 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### More from **ZDNET**
 
 * [41 impressive questions to ask in a job interview](https://www.zdnet.com/article/questions-to-ask-in-an-interview/)
@@ -38,6 +45,13 @@ Clare Lansley, CIO at Aston Martin Cognizant Formula One, says she'd tell her yo
 Lansley says professionals should aim for a good work/life balance while they attempt to climb the career ladder.
 
 "When you're working on something that really motivates you, and you just want to get it over the line, you might decide that you're going to give up your weekend to do it. But it's not like you're under duress to do it. I think sometimes you need to just give yourself a break."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **2\. Move around various business functions**
 
@@ -71,6 +85,13 @@ Yet Panayi says even the worst parts of the path provided useful lessons, so he 
 
 "I think if you enjoy variety, you're not always going to get it right. I would always continue to spin the wheel as opposed to playing it safe. I don't really see the point in playing it safe."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **5\. Go beyond your current mindset**
 
 Lisa Heneghan, global chief digital officer at consultancy firm KPMG, says she'd tell her younger self to not be constrained by what you know today.
@@ -82,6 +103,13 @@ Lisa Heneghan, global chief digital officer at consultancy firm KPMG, says she'd
 Heneghan encourages younger professionals to keep an open mind to the opportunities and challenges they find. Having good people around you to offer trusted advice is a crucial component for success. 
 
 "When I'm making decisions, I think 'what would I tell my daughters, what would I advise them to do?' Because sometimes I think we make decisions without thinking the options through. We limit ourselves and I would encourage young people to be open to different things. I think that's a very good mindset to have."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **6\. Learn from everyone, even the bad managers**
 
@@ -112,11 +140,23 @@ Ed Higgs, group director of IT shared services at Rentokil Initial, says -- apar
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-top-picks-for-the-best-android-image-correction-tools-5-choices/"><u>[New] Top Picks for the Best Android Image Correction Tools (5 Choices)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-soundwaves-moving-playlists-across-networks/"><u>[Updated] Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-innovative-cloud-storage-options-in-2s024/"><u>[Updated] Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-first-steps-toward-monetary-success-on-youtube/"><u>2024 Approved First Steps Toward Monetary Success on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimal-tech-finest-mac-software-for-videography/"><u>2024 Approved Optimal Tech Finest Mac Software for Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-applying-vhs-filters-on-computers/"><u>2024 Approved Ultimate Guide to Applying VHS Filters on Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/broadcast-capture-made-easy-your-comprehensive-guide-for-2024/"><u>Broadcast Capture Made Easy Your Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-on-navigating-folder-tabs-with-windows-11/"><u>Expert Advice on Navigating Folder Tabs with Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-free-online-havens-for-3d-text-psdfiles/"><u>In 2024, Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+</ul></div>
+

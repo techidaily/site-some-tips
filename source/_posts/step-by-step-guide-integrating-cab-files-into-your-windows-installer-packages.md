@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating .CAB Files Into Your Windows Installer Packages"
-date: 2024-09-27T05:31:58.545Z
-updated: 2024-09-28T15:14:57.042Z
+date: 2024-09-28T16:25:49.058Z
+updated: 2024-10-03T18:01:08.980Z
 tags:
   - versus
 categories:
@@ -41,10 +41,10 @@ One of the most asked questions in the industry is related to CAB files and what
 Let's see how CAB embedding works within WiX Toolset, what differences are there when using different versions and how you can use Advanced Installer to manage your CAB files in your MSI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How CAB Embedding Works In WiX Toolset
@@ -107,6 +107,13 @@ When everything is ready, execute the **make\_msi.bat** file - this quick build 
 
 ![Execute bat file](https://cdn.advancedinstaller.com/img/wix-child-images/execute-bat-file.gif "Executing the make_msi.bat file")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After executing the .bat file, the CAB file was embedded inside the MSI. If you don’t want the CAB file to be embedded, change the following line within the example.wsx:
 
 <MediaTemplate EmbedCab="no"/>
@@ -116,20 +123,6 @@ Copy
 If you change it and run the **make\_msi.bat** again, a CAB archive named “cab1.cab” will be created next to your MSI.
 
 ![Create cab file](https://cdn.advancedinstaller.com/img/wix-child-images/create-cab-file.png "Creating CAB file")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What Are The Differences When Embedding CAB Files In Different WiX Versions?
 
@@ -151,6 +144,13 @@ Name="My First Installer" Version="1.0.0.0" Manufacturer="My Company" Language="
 Copy
 
 Keep in mind that if you are using a WiX version higher than 3.8, you can't use MediaTemplate and Media elements at the same time. Either you declare a template which will be used across all the CAB files (as seen in the first example), or you declare each CAB manually and define if it’s embedded or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Using Advanced Installer's GUI to Manage CAB Files Within Your MSIs
 
@@ -191,10 +191,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -220,20 +220,16 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-the-easy-path-to-blending-linktree-with-tiktok-bios/"><u>[New] Unleashing Potential The Easy Path to Blending Linktree with TikTok Bios</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elevating-your-craft-top-camera-optics-for-professional-videos/"><u>[Updated] Elevating Your Craft Top Camera Optics for Professional Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-20-free-public-domain-pubg-screenshot-slideshows/"><u>[Updated] Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazonprimes-winning-tweets-of-the-year-2023/"><u>2024 Approved AmazonPrime's Winning Tweets of the Year 2023</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-flash-and-fly-gaming-top-10-speedy-apps-on-desktopmobile/"><u>2024 Approved Flash & Fly Gaming Top 10 Speedy Apps on Desktop/Mobile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-magixs-image-organizer-insights/"><u>2024 Approved Unveiling MAGIX's Image Organizer Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-get-texts-on-your-iphone-fix-apples-cross-platform-sms-problem-with-ease/"><u>Can't Get Texts on Your iPhone? Fix Apple's Cross-Platform SMS Problem with Ease</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-superfetch-unlocking-the-full-potential/"><u>Comprehensive Guide to SuperFetch: Unlocking the Full Potential</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/conquer-new-worlds-with-stellaris-the-ultimate-intergalactic-empire-guide/"><u>Conquer New Worlds with Stellaris - The Ultimate Intergalactic Empire Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>In 2024, Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-narzo-n55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme Narzo N55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-openais-incentive-system-for-cybersecurity-testing-a-step-by-step-participant-guide/"><u>Inside OpenAI’s Incentive System for Cybersecurity Testing: A Step-by-Step Participant Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-through-vlc-features-settings-and-troubleshooting-mac-for-2024/"><u>Navigating Through VLC Features, Settings & Troubleshooting (Mac) for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-with-magix-paint-pro-for-2024/"><u>Unlocking Potential with MAGIX Paint Pro for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-peering-into-the-world-of-luts-and-their-effect-on-pixels/"><u>[New] 2024 Approved Peering Into the World of LUTs and Their Effect on Pixels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-screencasting-app-performance-examination/"><u>[New] ScreenCasting App Performance Examination</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-uncomplicated-story-framework-for-2024/"><u>[Updated] Uncomplicated Story Framework for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-6-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 6 Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-razr-40-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Razr 40 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/locating-your-apps-executable-in-no-time-a-fast-guide-for-windows-10-users/"><u>Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-convert-untapped-mac-keyboard-buttons-to-instant-shortcut-magic-using-our-simple-tool/"><u>Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/migrating-applications-from-one-hard-drive-to-another-on-windows-11-a-step-by-step-guide/"><u>Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-more-local-watches-netflix-abandons-windows-offline-download-feature/"><u>No More Local Watches? Netflix Abandons Windows Offline Download Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revisiting-the-eco-friendly-era-the-case-for-apples-return-to-plastic-notebook-design/"><u>Revisiting the Eco-Friendly Era: The Case for Apple's Return to Plastic Notebook Design</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/omplete-manual-for-creating-condensed-youtube-videos/"><u>The Complete Manual for Creating Condensed YouTube Videos</u></a></li>
 </ul></div>
 

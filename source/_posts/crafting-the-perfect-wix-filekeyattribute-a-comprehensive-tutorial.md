@@ -1,7 +1,7 @@
 ---
 title: Crafting the Perfect WiX FileKeyAttribute – A Comprehensive Tutorial
-date: 2024-09-25T14:24:53.077Z
-updated: 2024-09-27T16:58:57.206Z
+date: 2024-09-29T20:05:32.475Z
+updated: 2024-10-03T18:10:53.565Z
 tags:
   - versus
 categories:
@@ -44,6 +44,19 @@ The most common way to trigger this feature is to launch an advertised shortcut.
 
 In this article we will go into how you can set a KeyPath in WiX.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to create a WiX Keypath?
 
 1\. To get started, you must set the **KeyPath attribute** of the Component element to “yes”.
@@ -51,13 +64,6 @@ In this article we will go into how you can set a KeyPath in WiX.
 By doing this, the Directory of the Component is used as a keypath.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you want to set a File or a Registry value as a keypath for the Component, then you must set the Keypath attribute of the File or Registry element to “yes”.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <Component Id='MyShortcutComponent' Guid='{2D00166E-AAAA-4F24-B94F-3D5E9ED21D65}'>
           		<File Id="Readme" Name="Readme.txt" DiskId="1" Source="Readme.txt"  KeyPath="yes">
@@ -113,10 +119,10 @@ Copy
 At last, you can go and compile the WiX source file and process the resulting WiX object tile to build your MSI package.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create a Keypath in Advanced Installer?
@@ -127,13 +133,6 @@ All you need to do is to ensure that the **“Advertised shortcut” box is chec
 
 ![Check Advertised Shortcut Box](https://cdn.advancedinstaller.com/img/create-wix-keypath-attribute/check-advertised-shortcut-box.png "Check Advertised Shortcut Box")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And that’s it! Advanced Installer follows Microsoft's best practices when it organizes your resources in features and components. It automatically sets keypaths for all the components.
 
 If for any reason you need to reorganize your resources or change a keypath, then you can do that from the [Organization page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -141,10 +140,10 @@ If for any reason you need to reorganize your resources or change a keypath, the
 Do you want to create a WiX Keypath without writing code? Try Advanced Installer’s [free 30-day full featured trial](https://tools.techidaily.com/advancedinstaller/products/) and do it in one-click.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -185,6 +184,13 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -208,16 +214,17 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-cutting-edge-strategies-for-efficient-speech-translation-with-google/"><u>[Updated] Cutting Edge Strategies for Efficient Speech Translation with Google</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-film-a-beginners-guide-to-essential-shots/"><u>[Updated] Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-virtual-meetings-in-google-mail/"><u>2024 Approved Streamlining Virtual Meetings in Google Mail</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-video-editors-aiding-in-app-dev-creation/"><u>2024 Approved Top Video Editors Aiding in App Dev Creation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-20c-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 20C Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-revolutionize-your-harvest-stardews-top-7-upgrades/"><u>In 2024, Revolutionize Your Harvest Stardew's Top 7 Upgrades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>In 2024, Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quality-cameras-on-a-shoestring-budget/"><u>Quality Cameras on a Shoestring Budget</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-concurrent-accidents-in-your-computer-system/"><u>Resolved: How to Fix Concurrent Accidents in Your Computer System</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-the-potential-of-your-video-platform-growth-for-2024/"><u>Unlock the Potential of Your Video Platform Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>[New] In 2024, Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-premier-mp4-to-fb-video-transforming-tools/"><u>[New] Premier MP4 to FB Video Transforming Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>[New] The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-windows-11-photos-enhancement-techniques-soundtracks-plus-filter-layers-for-2024/"><u>[Updated] Windows 11 Photos Enhancement Techniques Soundtracks + Filter Layers for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/iuoajowcppluse4ruajiplusazleobqplusobpoobhoobpjrpnz7lnkfnuk7jgihlj6pgiblnkfnuk7jgihpnz7lj6pgiblnkfnuk7jga7nm7jpgzxngrnjgajliknngrnjg7vmrkdngrnop6poqqzjgi0i.34/"><u>「圧縮手法について:非圧縮、可逆圧縮、非可逆圧縮の相違点と利点・欠点解説」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-20-pubg-moment-snapshots-open-access/"><u>2024 Approved Top 20 PUBG Moment Snapshots, Open Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bast-gratis-video-konverterer-i-windows-utvalna-20-alternativ-for-1187/"><u>Bäst Gratis Video-Konverterer I Windows - Utvalna 20 Alternativ För 11/8/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-konverteren-van-mkv-naar-avi-professioneel-onlinetool-moveave/"><u>Gratis Konverteren Van MKV Naar AVI: Professioneel Onlinetool - Moveave</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-process-unterminate-obstacles-in-windows/"><u>Overcoming 'Process Unterminate' Obstacles in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-tiff/"><u>PNG 및 TIFF 파일을 무료로 바꾸는 - 컴퓨터 화상 라이브리스</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-change-mka-audio-to-mp3-for-no-cost-online-with-moveavi/"><u>Seamlessly Change MKA Audio to MP3 for No Cost Online with MoveAVI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-video-flv-au-format-mp4-sans-frais-tutoriel-avant-premiere-avec-movavi/"><u>Transformez Votre Vidéo FLV Au Format MP4 Sans Frais - Tutoriel Avant-Première Avec Movavi</u></a></li>
 </ul></div>
 

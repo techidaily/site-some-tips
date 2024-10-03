@@ -1,0 +1,98 @@
+---
+title: "Seamlessly Shifting Tunes: How Apple Music Users Can Move Their Playlists to and From YouTube Music"
+date: 2024-09-30T16:45:53.076Z
+updated: 2024-10-03T20:15:35.247Z
+tags:
+  - apple
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/29b1b2904297da87da55ea288cd0a44b14a4d2e985940c7f874a6ef2e9aec11a.jpg
+---
+
+## How to Move Apple Music Playlists To/From YouTube Music for a Unified Listening Experience  Guidance
+
+![apple-music-150.jpg](https://www.zdnet.com/a/img/resize/b6d49fdfe8a50f13ca9d995457fbf818642c8052/2023/05/11/5e45caf5-4ee2-443b-ab1d-b8d894f0c1d1/gettyimages-1032830898.jpg?auto=webp&width=1280)
+
+Westend61/Getty Images
+
+Thanks to a recent update, [Apple Music](https://music.apple.com/us/subscribe) subscribers can now transfer playlists to a YouTube Music profile. This new feature was introduced very quietly, as Apple didn't make an announcement through its usual avenues. We only learned about the tool after people discovered changes made to one of the [company's support documents](https://support.apple.com/en-us/120030).
+
+Subscribers will need to meet certain requirements before migrating anything over. First, you'll need an Apple Music or [iTunes Match](https://support.apple.com/en-us/108935) subscription. Users also need an active [YouTube Music](https://music.youtube.com/) account. Fortunately, you don't need a YouTube Music subscription, so at least moving playlists won't be a pricey endeavor. 
+
+**Also: [How to get an Apple Music student discount subscription](https://www.zdnet.com/home-and-office/home-entertainment/how-to-get-an-apple-music-student-discount-subscription/)**
+
+Assuming you have everything in order, Apple says to head over to its [Data and Privacy page](https://privacy.apple.com/), log into your Apple ID account, and select "Transfer a copy of your data." On the following screen, you can move playlists from Apple Music to YouTube Music. [Reportedly](https://appleinsider.com/articles/24/08/27/switching-to-youtube-music-gets-easier-with-new-apple-music-playlist-export-tool#link={), this process can take some time to complete. You'll receive an email at the end notifying you once it's over.
+
+There are several limitations you need to be aware of. According to Apple, the only playlists that can be moved are ones you made yourself. Non-collaborative shared or curated playlists cannot make the jump. Organization folders and music files will not be shared either. If a song isn't on YouTube Music, you won't be able to listen to it. What's more, non-music audio files like podcasts aren't transferred. 
+
+#### Newsletters
+
+ZDNET Tech Today
+
+ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked about stories, five days a week.
+
+ Subscribe
+
+[See all](https://www.zdnet.com/newsletters/)
+
+At the time of writing, it appears you can only move playlists to YouTube Music from Apple Music. A [second support document](https://support.apple.com/en-us/107776#link={) claims the opposite is currently possible. You're supposed to first go to Google Takeout and then follow the instructions there to prepare a YouTube Music playlist for transfer. However, if you go to [Google Takeout right now](https://takeout.google.com/takeout/transfer/custom/youtube?pli=1#link={), there is a small message stating support for Apple Music is "coming soon." The process is not yet available.
+
+**Also: [How to create a playlist on the YouTube app](https://www.zdnet.com/home-and-office/home-entertainment/how-to-create-a-playlist-on-the-youtube-app/)**
+
+It is unknown when the reverse process will roll out. For now, you'll have to use third-party apps like [SongShift on iOS](https://apps.apple.com/us/app/songshift/id1097974566) to transfer playlists. 
+
+I applaud Apple for being friendlier with third-party services. Something like this is a big win for users. They have the freedom of moving their favorite tracks to another platform without being forced to remake everything from scratch. Speaking from experience, redoing a playlist is a massive pain. It'll be even better if Apple Music worked with other platforms like Spotify. Although we highly doubt that'll happen any time soon. The two brands [haven't been on the best terms](https://timetoplayfair.com/) for several years now.
+
+#### Apple
+
+[Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/ "Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)")
+
+[M3 MacBook Air vs. M2 MacBook Air: Which Apple laptop should you buy?](https://www.zdnet.com/article/m3-macbook-air-vs-m2-macbook-air/ "M3 MacBook Air vs. M2 MacBook Air: Which Apple laptop should you buy?")
+
+[Why you shouldn't buy the iPhone 16 for Apple Intelligence](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/ "Why you shouldn't buy the iPhone 16 for Apple Intelligence")
+
+[I uncovered 8 cool ways to use LiDAR on an iPhone and iPad](https://www.zdnet.com/article/i-uncovered-8-cool-ways-to-use-lidar-on-an-iphone-and-ipad/ "I uncovered 8 cool ways to use LiDAR on an iPhone and iPad")
+
+* [Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-compatible-with-apples-ios-18-and-which-ones-arent/ "Every iPhone model that will be updated to Apple's iOS 18 (and which ones can't)")
+* [M3 MacBook Air vs. M2 MacBook Air: Which Apple laptop should you buy?](https://www.zdnet.com/article/m3-macbook-air-vs-m2-macbook-air/ "M3 MacBook Air vs. M2 MacBook Air: Which Apple laptop should you buy?")
+* [Why you shouldn't buy the iPhone 16 for Apple Intelligence](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/ "Why you shouldn't buy the iPhone 16 for Apple Intelligence")
+* [I uncovered 8 cool ways to use LiDAR on an iPhone and iPad](https://www.zdnet.com/article/i-uncovered-8-cool-ways-to-use-lidar-on-an-iphone-and-ipad/ "I uncovered 8 cool ways to use LiDAR on an iPhone and iPad")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-social-media-sensation-top-eight-videos/"><u>[New] Social Media Sensation Top Eight Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>[New] The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-path-to-captivating-photographic-alliances/"><u>[New] Unveiling the Path to Captivating Photographic Alliances</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle/"><u>[Updated] Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-insight-navigating-through-googles-podcast-app/"><u>[Updated] Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>2024 Approved Mastering Subtitles The Ultimate Guide to FREE Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-radial-blur-effect-to-photos-in-photoshop-for-2024/"><u>How to Add Radial Blur Effect to Photos in Photoshop for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-poco-f5-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Poco F5 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-note-30-vip-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Note 30 VIP Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-s17-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S17 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-podcasts-identity-with-ai-name-makers-for-2024/"><u>Transform Your Podcast's Identity with AI Name Makers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-filmora-download-avoid-viruses-and-scams-with-our-tips-for-2024/"><u>Updated Free Filmora Download Avoid Viruses and Scams with Our Tips for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

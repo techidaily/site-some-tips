@@ -1,7 +1,7 @@
 ---
 title: "Configuring WiX Toolset Custom Actions: Ensuring Execution During System Uninstall Only"
-date: 2024-09-26T17:28:21.896Z
-updated: 2024-09-27T19:12:35.933Z
+date: 2024-09-30T17:06:28.344Z
+updated: 2024-10-03T18:37:43.531Z
 tags:
   - versus
 categories:
@@ -37,6 +37,13 @@ Get the latest WiX insights direct to your inbox. Subscribe now!
 When you create an installer using the WiX Toolset, there are instances where you may want to set a custom action to run under specific conditions, such as uninstalling an application, installing an application, or running a custom script.
 
 In this article, we’ll see how you can set a custom action to run when uninstalling an application using WiX Toolset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Understanding Custom Action conditions
 
@@ -87,13 +94,6 @@ To do that, right click the “References” folder on your WiX setup project an
 
 ![Choose Custom Action Project](https://cdn.advancedinstaller.com/img/wix-child-images/choose-custom-action-project.png "Choose Custom Action Project")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to declare the WiX custom action
 
 Now, we need to actually declare the custom action in the “Product.wxs” file. For that, you need to add the following code under the Product Tag:
@@ -108,6 +108,13 @@ In order for it to work, you have to change the following names:
 | ---------------------- | --------------------------------------------------------------------- |
 | “CUSTOMACTIONNAME”     | The name of your choice                                               |
 | “CUSTOMACTIONFUNCTION” | Your custom action project's function name that you want to call      |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding the custom action to the Install Execute Sequence
 
@@ -124,10 +131,10 @@ Copy
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)The **Installed AND REMOVE=”ALL”** condition will make sure that the custom action will run only when uninstalling the application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to set a custom action to run only on uninstall using Advanced Installer?
@@ -136,22 +143,22 @@ Using Advanced Installer, you can automatically set custom actions to run only o
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Custom Actions are available for Professional, Enterprise and Architect project types in Advanced Installer. Have a look at how custom actions work in Advanced Installer through our [30-day full featured trial](https://tools.techidaily.com/advancedinstaller/products/)**.** (No credit card required)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1\. To add a new custom action, go to the **Custom Actions** page and add a new custom action to your project.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can use the same custom action DLL as before by adding a “**Call function from attached native DLL**” custom action.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Call Function from Attached Native DLL Custom Action](https://cdn.advancedinstaller.com/img/wix-child-images/call-function-from-attached-native-dll-custom-action.png "Call Function from Attached Native DLL Custom Action")  
 
@@ -166,10 +173,10 @@ Using Advanced Installer, you can automatically set custom actions to run only o
 And that’s it! As you could see, setting a custom action through Advanced Installer intuitive GUI requires no code skills allowing you to be time efficient when configuring your application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -208,13 +215,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -238,19 +238,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streaming-software-showdown-the-ultimate-guide-to-obs-vs-shadowplay/"><u>[New] In 2024, Streaming Software Showdown The Ultimate Guide to OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-3-techniques-converting-pin-videos-to-mp3s/"><u>[New] Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix/"><u>[Updated] From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>[Updated] Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-vector-editing-revolution-post-acid-pro-era/"><u>[Updated] Vector Editing Revolution Post-ACID Pro Era</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
-<li><a href="https://techidaily.com/expert-analysis-elevating-knowledge-with-the-everest-consortium-on-sophisticated-content-mastery/"><u>Expert Analysis: Elevating Knowledge with the Everest Consortium on Sophisticated Content Mastery</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-printer-software-for-windows-11-installation-steps/"><u>Get the Newest HP Printer Software for Windows 11 - Installation Steps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy F15 5G FRP?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>In 2024, Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/understanding-the-distinctions-a-comparative-analysis-of-mkv-vs-avi-formats/"><u>Understanding the Distinctions: A Comparative Analysis of MKV Vs. AVI Formats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-filming-for-tweet-sharing-content-without-retweeting/"><u>[Updated] 2024 Approved Filming for Tweet Sharing Content without Retweeting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-renouvele-son-image-visuelle-et-logo/"><u>ABBYY Renouvele Son Image Visuelle Et Logo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-conversion-tracking-with-cookiebot-technology/"><u>Automated Conversion Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bebop-2s-avian-spectacle-a-compreran-analysis/"><u>Bebop 2'S Avian Spectacle – A Compreran Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-online-presence-the-revolutionary-power-of-cookiebot-integration/"><u>Boost Your Online Presence: The Revolutionary Power of Cookiebot Integration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/connect-with-creativity-discover-the-artistry-of-digiarty/"><u>Connect with Creativity: Discover the Artistry of DigiArty</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-fix-facebook-notifications-not-loading/"><u>How to Fix Facebook Notifications Not Loading</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-motorola-moto-g14-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Motorola Moto G14?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-boost-your-brand-twitter-ads-guide/"><u>In 2024, Boost Your Brand Twitter Ads Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/meet-the-mobile-marvel-exclusive-insights-into-the-hp-zbook-firefly-15-g8-laptop/"><u>Meet the Mobile Marvel: Exclusive Insights Into the HP ZBook Firefly 15 G8 Laptop</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964482600-nextorages-trailblazing-pcie-gen-4-m2-nvme-ssd-for-gaming-unmatched-speeds-of-up-to-7400-mbs/"><u>Nextorage's Trailblazing PCIe Gen 4 M.2 NVMe SSD for Gaming - Unmatched Speeds of Up to 7,400 MB/S!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pionierarbeit-von-dsgf-fur-digitalisierung-der-finanzen-partnerschaft-mit-abbyy-macht-wirkung/"><u>Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedied-geforce-shader-compatibility/"><u>Remedied GeForce Shader Compatibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-marketing-analytics-with-our-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your Marketing Analytics with Our Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-integration-abbyy-connects-with-automation-anywhere/"><u>Seamless Integration: ABBYY Connects with Automation Anywhere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-endless-possibilities-the-future-of-document-capture-solutions-insights-from-abbyy/"><u>Unleashing Endless Possibilities: The Future of Document Capture Solutions - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
 </ul></div>
 

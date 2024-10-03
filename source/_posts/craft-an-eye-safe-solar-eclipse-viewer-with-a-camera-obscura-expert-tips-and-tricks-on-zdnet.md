@@ -1,7 +1,7 @@
 ---
 title: Craft an Eye-Safe Solar Eclipse Viewer with a Camera Obscura - Expert Tips & Tricks on ZDNET
-date: 2024-09-17 13:32:30
-updated: 2024-09-20 11:20:41
+date: 2024-09-26T16:41:37.057Z
+updated: 2024-10-03T20:14:40.639Z
 tags:
   - yard-outdoors
 categories:
@@ -158,6 +158,13 @@ The Ryobi 40V Whisper also features an ergonomic handle, variable speed trigger,
 
 more buying choices 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best electric leaf blower?
 
 My pick for the best electric leaf blower is the Kobalt 40V Max cordless model. It's an updated version of the model I personally use for lawn care and yard chores. The ergonomic handle and cruise control switch make continuous use easy and comfortable. And the turbo button gives you extra power for clearing wet and stuck-on debris. It also uses the same 40V Max batteries as other Kobalt electric tools, meaning you won't have to worry about maintaining a special battery.
@@ -169,6 +176,13 @@ My pick for the best electric leaf blower is the Kobalt 40V Max cordless model. 
 | Craftsman 20V Max handheld  | $89       | 90 mph / 200cfm        | 20 minutes   |
 | Milwaukee M18 Fuel cordless | $319      | 120 mph / 450cfm       | 20 minutes   |
 | Ryobi 40V Whisper           | $329      | 190 mph / 730cfm       | 20 minutes   |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which is the right electric leaf blower for you?
 
@@ -186,9 +200,23 @@ When shopping for an electric leaf blower, you want to choose a model that offer
 
 When analyzing options, I chose battery-powered electric leaf blowers for their power and ease of use. Battery-powered leaf blowers are safer to use than models that require an extension cord, especially if you have a large yard where unwieldy electrical cables could get damaged. I also chose both budget-friendly and high-end models that suit different climates and types of debris.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is an electric leaf blower worth it?
 
 They absolutely can be! Not only does an electric leaf blower eliminate harmful exhaust emissions, but it also means you don't have to worry about engine maintenance or mixing oil and fuel. Electric leaf blowers are also comparable to gas models in terms of power, offering you the same capability for clearing debris from your walkways, driveway, and outdoor spaces, without the hassle of a gas engine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is more important in a leaf blower: Cubic feet per minute or miles per hour?
 
@@ -231,11 +259,25 @@ If you're in the market for an electric leaf blower, there are tons of models to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlock-the-potential-of-your-gaming-experience-with-these-top-techniques-on-windows-11/"><u>[New] In 2024, Unlock the Potential of Your Gaming Experience with These Top Techniques on Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-optimal-cloud-vaults-recommended-solutions/"><u>[New] Optimal Cloud Vaults Recommended Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-virtual-excellence-top-5-upcoming-playstation-vr-titles/"><u>[New] Unveiling Virtual Excellence Top 5 Upcoming PlayStation VR Titles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-flip-the-script-mastering-instagram-video-replay/"><u>[Updated] In 2024, Flip the Script Mastering Instagram Video Replay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-stretched-seconds-capturing-slow-mo-videos-using-mobile-apps-and-internet-platforms/"><u>[Updated] The Ultimate Guide to Stretched Seconds Capturing Slow-Mo Videos Using Mobile Apps and Internet Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-cosmic-divides-metaverse-and-multiverse-explained/"><u>[Updated] Unveiling Cosmic Divides Metaverse and Multiverse Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-budget-camera-stabilizers-for-youtube-stars/"><u>2024 Approved The Best Budget Camera Stabilizers for YouTube Stars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-narrative-designers-den/"><u>In 2024, Supreme Narrative Designer's Den</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-with-toms-hardware-top-notch-reviews-tips-and-buying-advice/"><u>Mastering Technology with Tom's Hardware: Top-Notch Reviews, Tips, and Buying Advice!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-minecraft-lag-issues-with-these-advanced-tricks-for-windows-and-mac/"><u>Solve Your Minecraft Lag Issues with These Advanced Tricks for Windows and Mac</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C51 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

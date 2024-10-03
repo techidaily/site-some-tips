@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Generating a WiX Installer's KeyPath Property"
-date: 2024-09-25T23:44:16.460Z
-updated: 2024-09-28T04:41:23.664Z
+date: 2024-09-27T18:05:58.018Z
+updated: 2024-10-03T18:08:38.640Z
 tags:
   - versus
 categories:
@@ -45,10 +45,10 @@ The most common way to trigger this feature is to launch an advertised shortcut.
 In this article we will go into how you can set a KeyPath in WiX.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to create a WiX Keypath?
@@ -60,10 +60,10 @@ By doing this, the Directory of the Component is used as a keypath.
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you want to set a File or a Registry value as a keypath for the Component, then you must set the Keypath attribute of the File or Registry element to “yes”.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <Component Id='MyShortcutComponent' Guid='{2D00166E-AAAA-4F24-B94F-3D5E9ED21D65}'>
@@ -119,13 +119,6 @@ Copy
 
 At last, you can go and compile the WiX source file and process the resulting WiX object tile to build your MSI package.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Create a Keypath in Advanced Installer?
 
 When you build and create your Windows Installer MSI package with Advanced Installer, you will see that the process is fairly straightforward and easy to follow.
@@ -134,6 +127,13 @@ All you need to do is to ensure that the **“Advertised shortcut” box is chec
 
 ![Check Advertised Shortcut Box](https://cdn.advancedinstaller.com/img/create-wix-keypath-attribute/check-advertised-shortcut-box.png "Check Advertised Shortcut Box")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And that’s it! Advanced Installer follows Microsoft's best practices when it organizes your resources in features and components. It automatically sets keypaths for all the components.
 
 If for any reason you need to reorganize your resources or change a keypath, then you can do that from the [Organization page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -141,10 +141,10 @@ If for any reason you need to reorganize your resources or change a keypath, the
 Do you want to create a WiX Keypath without writing code? Try Advanced Installer’s [free 30-day full featured trial](https://tools.techidaily.com/advancedinstaller/products/) and do it in one-click.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -208,17 +208,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[New] Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-unleashing-potential-a-deep-dive-into-the-ion-air-pro-3-review/"><u>[New] Unleashing Potential A Deep Dive Into the ION Air Pro 3 Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>[Updated] Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-pedagogy-through-vr-innovation/"><u>[Updated] Transforming Pedagogy Through VR Innovation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>2024 Approved Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-solve-football-manager-2021-stuck-loading-screen-and-get-playing-asap/"><u>Expert Tips to Solve Football Manager 2021 Stuck Loading Screen and Get Playing ASAP</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-vs-bert-dissecting-modern-nlp-giants-distinctions/"><u>GPT vs BERT: Dissecting Modern NLP Giants' Distinctions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-narzo-n55-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme Narzo N55 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-design-thinking-for-content-creators-crafting-impactful-facebook-reels/"><u>In 2024, Design Thinking for Content Creators Crafting Impactful Facebook Reels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>In 2024, Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://fox-info.techidaily.com/mastering-video-conferencing-a-complete-guide-to-zoom-on-android-for-2024/"><u>Mastering Video Conferencing A Complete Guide to Zoom on Android for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winxdvd-solution-hub-your-go-to-resource-for-dvd-extraction-and-mobile-media-transfer/"><u>WinXDVD Solution Hub – Your Go-To Resource for DVD Extraction and Mobile Media Transfer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>[New] Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-navigating-the-nuances-of-mukbang-filmmaking-techniques/"><u>[New] In 2024, Navigating the Nuances of Mukbang Filmmaking Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>[New] Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-virtual-frontiers-current-trends-in-vr-tech/"><u>[Updated] 2024 Approved Virtual Frontiers Current Trends in VR Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-live-to-legacy-preserving-facebook-events-for-2024/"><u>[Updated] From Live to Legacy Preserving Facebook Events for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-profitable-videography-starting-strong-for-2024/"><u>[Updated] The Path to Profitable Videography Starting Strong for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-video-transcoding-tools-for-ubuntu-users-top-8-picks/"><u>Best Video Transcoding Tools for Ubuntu Users: Top 8 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-avi-files-to-m4a-format-for-free-with-movavis-online-software/"><u>Convert AVI Files to M4A Format for Free with Movavi's Online Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuissimo-convertidor-ogg-e-ape-em-linha-pelo-movavi/"><u>Gratuíssimo Convertidor OGG E APE Em Linha Pelo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-media-transformation-easily-convert-m4ampeg-to-m4v-formats/"><u>Movavi's No-Cost Media Transformation: Easily Convert M4A/MPEG to M4V Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/purchase-immediate-sky-high-video-fix/"><u>Purchase Immediate: Sky-High Video Fix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-troubleshooting-tips-to-fix-stop-code-0x0000007b-and-end-those-bsod-issues/"><u>Ultimate Troubleshooting Tips to Fix STOP Code 0X0000007B and End Those BSOD Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mp4-file-editor-for-pc-quickly-trim-cut-and-merge-videos/"><u>Updated 2024 Approved MP4 File Editor for PC Quickly Trim, Cut, and Merge Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/virtueel-verwerpen-van-arw-naar-png-gratuite-online-convertitie-processen-met-movavi/"><u>Virtueel Verwerpen Van ARW Naar PNG: Gratuite Online-Convertitie-Processen Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vob-mjpeg-online-movavi/"><u>VOB를 무료로 MJPEG로 바꾸는 Online 도구 - Movavi</u></a></li>
 </ul></div>
 

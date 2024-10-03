@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Deleting Files & Directories During WiX Software Uninstallation
-date: 2024-09-25T17:28:07.946Z
-updated: 2024-09-28T02:27:48.773Z
+date: 2024-10-01T16:31:41.420Z
+updated: 2024-10-03T16:43:34.446Z
 tags:
   - versus
 categories:
@@ -126,14 +126,14 @@ Once you double-click the batch file, the MSI should be created.
 
 ![Remove MSI file with WiX](https://cdn.advancedinstaller.com/img/wix-child-images/wixremovefilemsi.png "Remove MSI file with WiX")  
 
-If we install and uninstall the MSI, all the files should be removed during uninstallation and no files will remain in the system.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If we install and uninstall the MSI, all the files should be removed during uninstallation and no files will remain in the system.
 
 ### How to Remove Folders with WiX
 
@@ -231,13 +231,6 @@ You also have two more options: to **Remove Empty Folders** or **Remove Non Empt
 
 ![Advanced Installer File Removal Dialog](https://cdn.advancedinstaller.com/img/wix-child-images/aifileremovaldialog.png "Advanced Installer File Removal Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. If you want to delete an entire folder or clean up additional folders left by your application, you can right-click on the folder and choose **Properties.**
 
 5\. A new dialog will appear which will have the**Operations** tab. Click on it.
@@ -245,10 +238,10 @@ You also have two more options: to **Remove Empty Folders** or **Remove Non Empt
 ![Advanced Installer Folder Operations](https://cdn.advancedinstaller.com/img/wix-child-images/aifolderoperations.png "Advanced Installer Folder Operations")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You can choose to delete the folder whether it’s empty or not and select when the removing action should occur, as well as additional conditions and the overwrite behaviour.
@@ -256,10 +249,10 @@ You can choose to delete the folder whether it’s empty or not and select when 
 As you can see, Advanced Installer's GUI makes removal operations for files and folders a more seamless process.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -300,6 +293,13 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -323,24 +323,19 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-expert-tips-to-enhance-your-adobe-presentation-videos/"><u>[New] 2024 Approved Expert Tips to Enhance Your Adobe Presentation Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[New] Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-symphony-in-your-pocket-classic-tones-at-a-click/"><u>[New] Symphony in Your Pocket Classic Tones at a Click</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>[New] The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-archival-artifacts-radeons-revamp/"><u>[Updated] 2024 Approved Archival Artifacts Radeon's Revamp</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-chuckle-chronicles-top-10-humoristic-youtube-video-plans/"><u>[Updated] In 2024, Chuckle Chronicles Top 10 Humoristic YouTube Video Plans</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[Updated] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-lut-integration-in-obs-for-enhanced-visual-effects/"><u>2024 Approved Mastering LUT Integration in OBS for Enhanced Visual Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-releasing-updated-drivers-for-efficient-blockchain-mining-on-windows-systems/"><u>AMD Releasing Updated Drivers for Efficient Blockchain Mining on Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-android-think-demystifying-the-powerhouse-of-system-intelligence/"><u>How Does Android Think? Demystifying the Powerhouse of System Intelligence</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-ps3-classics-on-your-pc-with-top-tools/"><u>In 2024, Mastering PS3 Classics on Your PC with Top Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>In 2024, Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>In 2024, The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-windows-11-photo-customization-audio-plus-visuals/"><u>In 2024, The Ultimate Guide to Windows 11 Photo Customization Audio + Visuals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>In 2024, Unleash Video Potential Top 4K Downloader Apps Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>In 2024, Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-20-incredible-no-cost-storage-platforms-1tbplus-for-2024/"><u>Ultimate Guide 20 Incredible No-Cost Storage Platforms (1TB+) for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unsilencing-discord-top-tips-to-restore-your-voice-connection/"><u>Unsilencing Discord: Top Tips to Restore Your Voice Connection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-clarity-overcoming-gopro-haze-challenges-for-2024/"><u>Unveiling Clarity Overcoming GoPro Haze Challenges for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-or-slow-down-on-the-screen-netflix/"><u>[New] Accelerate or Slow Down on the Screen (Netflix)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instamixer-uniting-android-and-ios-photo-sessions/"><u>[New] InstaMixer Uniting Android & iOS Photo Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unrivaled-sonic-union-for-speakers/"><u>[New] Unrivaled Sonic Union for Speakers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-action-cam-showdown-2022-hero5-black-vs-ultra-30-streaming-for-2024/"><u>[Updated] Action Cam Showdown 2022 Hero5 Black Vs. Ultra 30 Streaming for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-simplified-review-insights-for-2024/"><u>[Updated] Screen Recording Simplified Review Insights for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-seamless-communication-the-best-5-webcams-with-inbuilt-microphones/"><u>2024 Approved Seamless Communication The Best 5 Webcams with Inbuilt Microphones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-nokia-c12-plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Nokia C12 Plus Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/best-in-class-the-top-wireless-travel-routers-for-nomads/"><u>Best in Class: The Top Wireless Travel Routers for Nomads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-8-tips-for-dust-free-spotless-macbook-care-that-guarantees-no-damage-to-your-device/"><u>Essential 8 Tips for Dust-Free, Spotless MacBook Care That Guarantees No Damage to Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a58-4g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A58 4G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
 </ul></div>
 

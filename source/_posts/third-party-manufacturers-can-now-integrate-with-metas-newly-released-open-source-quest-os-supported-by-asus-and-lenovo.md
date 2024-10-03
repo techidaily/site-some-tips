@@ -1,7 +1,7 @@
 ---
 title: Third-Party Manufacturers Can Now Integrate with Meta's Newly Released, Open Source Quest OS – Supported by Asus and Lenovo
-date: 2024-09-21T02:08:14.665Z
-updated: 2024-09-27T17:53:03.755Z
+date: 2024-09-26T18:40:52.039Z
+updated: 2024-10-03T17:41:47.432Z
 tags:
   - ar+vr
 categories:
@@ -69,25 +69,27 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ace-all-round-strategies-maximizing-efficiency-in-acquiring-and-storing-vimeo-videos/"><u>[New] In 2024, Ace All-Round Strategies Maximizing Efficiency in Acquiring & Storing Vimeo Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures/"><u>[New] Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-open-minds-open-tech-easeus-report/"><u>[Updated] Open Minds, Open Tech - EaseUS Report</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-magnification-in-roblox-worlds/"><u>[Updated] The Art of Magnification in Roblox Worlds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-software-for-mkv-files/"><u>[Updated] Top 5 Mac Software for MKV Files</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-securing-your-online-discussions/"><u>2024 Approved Securing Your Online Discussions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>2024 Approved The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/abbyy-showcases-artificial-intelligence-insights-at-the-2018-aiim-event/"><u>ABBYY Showcases Artificial Intelligence Insights at the 2018 AIIM Event</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-poco-m6-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Poco M6 5G? Try These Fixes</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/share-wide-enhancing-instagram-stories-with-youtube-content-for-2024/"><u>Share Wide Enhancing Instagram Stories With YouTube Content for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-troubleshooting-guide-resolving-issues-with-your-lenovos-fingerprint-scanner/"><u>Simple Troubleshooting Guide: Resolving Issues with Your Lenovo's Fingerprint Scanner</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-art-of-facebook-video-coverage-standout-tips-and-tricks/"><u>The Art of Facebook Video Coverage Standout Tips & Tricks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-gt-10-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix GT 10 Pro FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>[New] Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>[New] The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-reimagining-posts-a-new-perspective-on-ig-for-2024/"><u>[Updated] Reimagining Posts A New Perspective on IG for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-top-10-ai-powered-name-generators-for-podcasts-online/"><u>[Updated] Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-x-flip-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo X Flip Activity | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-the-secrets-to-professional-music-mixing-with-magix/"><u>2024 Approved Discovering the Secrets to Professional Music Mixing with Magix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-smart-users-guide-to-enhancing-technology/"><u>2024 Approved The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-architects-guide-to-memo-mastery/"><u>2024 Approved The Sound Architect's Guide to Memo Mastery</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beyond-zero-emissions-measuring-the-true-sustainability-of-evs/"><u>Beyond Zero Emissions: Measuring the True Sustainability of EVs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/intro-to-graphic-motion-artistry-and-usage/"><u>Intro to Graphic Motion Artistry and Usage</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-game-lag-top-7-fixes-for-stabilizing-your-halo-infinite-play/"><u>Say Goodbye to Game Lag - Top 7 Fixes for Stabilizing Your Halo Infinite Play</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-apeman-c450-revealed-quality-dashcam-at-a-budget-price-expert-review/"><u>The Apeman C450 Revealed: Quality Dashcam at a Budget Price – Expert Review</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

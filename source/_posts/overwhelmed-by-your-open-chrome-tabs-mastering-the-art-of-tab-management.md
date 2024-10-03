@@ -1,7 +1,7 @@
 ---
 title: Overwhelmed by Your Open Chrome Tabs? Mastering the Art of Tab Management
-date: 2024-09-17 16:36:50
-updated: 2024-09-20 11:54:35
+date: 2024-10-01T16:49:55.764Z
+updated: 2024-10-03T17:29:57.267Z
 tags:
   - work-life
 categories:
@@ -62,6 +62,13 @@ These can be useful to help combat tab overload.
 
 The **Close** options are, of course, your best friend here, but the **Reading List** option is another good option. I also like the ability to **Move Tab to New Window**... it doesn't reduce my tab load, but rearranging it can help. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3: Use your Reading List
 
 What is a **Reading List**? 
@@ -91,6 +98,13 @@ Pick your poison!
 
 A browser extension that I've been making a lot of use of lately is [Auto Tab Discard](https://www.zdnet.com/article/auto-tab-discard-how-a-free-extension-speeds-up-google-chrome/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/auto-tab-discard-how-a-free-extension-speeds-up-google-chrome/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22Auto%20Tab%20Discard%22%7D). This is a free extension that suspends tabs that you're not using, freeing up those precious system resources, and then reanimates them when you switch back to them.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5: Select multiple tabs when you're sorting
 
 Now we come to one of the coolest features, which is the ability to select multiple tabs in Google Chrome. To do this, hold down **CTRL** in Windows or **Command** in Mac, and then click on the tabs you want to pick out of the vast ocean of tabs you have open. 
@@ -104,6 +118,13 @@ I particularly like grabbing a bunch of tabs related to a single project and dra
 You can resurrect a lost tab by hitting **Ctrl-Shift-T** on Windows or **Command-Shift-T** on Mac.
 
 Remember though, you're trying to reduce on tabs...
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7: How to get your tabs back if you accidentally close your browser
 
@@ -130,6 +151,13 @@ Adrian Kingsley-Hughes/ZDNET
 * [4 ways to take a full-page screenshot in Google Chrome](https://www.zdnet.com/article/how-to-take-a-full-page-screenshot-in-google-chrome/ "4 ways to take a full-page screenshot in Google Chrome")
 * [How to Google more effectively to get the results you need](https://www.zdnet.com/article/how-to-use-google-search-more-effectively-to-get-the-results-you-need/ "How to Google more effectively to get the results you need")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###   
 
 ###
@@ -140,11 +168,31 @@ Adrian Kingsley-Hughes/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-gelatogags-humor-graphics-online/"><u>[New] GelatoGags Humor Graphics Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens/"><u>[New] The Best Approach to Enhancing Your 4K Vision with a New Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>[New] The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tilling-through-time-top-farmer-games-evolutions/"><u>[New] Tilling Through Time Top Farmer Games Evolutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-examining-realities-intertwined-what-is-mixed-reality/"><u>[Updated] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4/"><u>[Updated] In 2024, Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-your-creative-potential-embrace-these-top-10-iphone-image-rules/"><u>[Updated] Unlocking Your Creative Potential Embrace These Top 10 iPhone Image Rules</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>2024 Approved Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>2024 Approved Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/achieve-loud-and-clear-sounds-tips-for-enhancing-volume-in-windows-11/"><u>Achieve Loud and Clear Sounds: Tips for Enhancing Volume in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tamiltunes-handbook-downloading-and-trimming-melodies-for-calls/"><u>In 2024, TamilTunes Handbook Downloading & Trimming Melodies for Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tuxera-nero-reader-comprehensive-multimedia-tool/"><u>In 2024, Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/supers-unleashed-rtx-4070-ti-and-4080s-graphics-showdown/"><u>Supers Unleashed: RTX 4070, Ti & 4080'S Graphics Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-meme-blueprint-building-impactful-gifs-for-2024/"><u>The Essential Meme Blueprint Building Impactful GIFs for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-xs-max-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone XS Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation-for-2024/"><u>Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+</ul></div>
+

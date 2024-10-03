@@ -1,7 +1,7 @@
 ---
 title: "1. Implementing CustomActions in WiX: Integrating CustomActionData Seamlessly"
-date: 2024-09-24T20:07:53.671Z
-updated: 2024-09-28T02:55:58.065Z
+date: 2024-09-27T17:26:10.300Z
+updated: 2024-10-03T19:08:29.857Z
 tags:
   - versus
 categories:
@@ -88,19 +88,6 @@ Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When scheduling the two CustomAction in the InstallExecuteSequence table, the **SetProperty CustomAction** ('SetServerPathProperty) should be scheduled before the Deferred CustomAction (SetServerPath).
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **SetProperty CustomAction** ('SetServerPathProperty) is used to set the property of interest to a property with the same name as the Deferred CustomAction.
 
 The complete listing for the WiX source file (.wxs) should look like the one below:
@@ -142,10 +129,10 @@ Now, all we need to do is to:
 * Process the WiX object file compiled previously and build the Windows Installer (MSI package).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to configure CustomActions with Advanced Installer?
@@ -157,13 +144,20 @@ All you need to do is specify the value of the CustomActionData property within 
 ![Configure CustomActions](https://cdn.advancedinstaller.com/img/wix-pass-customactiondata-to-customaction/configure-custom-actions.png "Configure CustomActions")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Have a look at our [How to Use CustomActionData to Access Windows Installer Properties in Deferred CustomActions](https://tools.techidaily.com/advancedinstaller/products/) article to find out more about:- Why do you need CustomActionData- When can Deferred CustomActions go wrong- How you can pass CustomActionData to a CustomAction using Advanced Installer
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -204,10 +198,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -233,24 +227,19 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-a-day-in-the-life-on-facebook-enhancing-participation/"><u>[New] In 2024, A Day in the Life on Facebook Enhancing Participation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-joyjingles-where-to-find-hilarious-ringtone-links/"><u>[New] JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-2024-rendition-of-audiofreex-insight/"><u>[New] The Ultimate 2024 Rendition of AudioFreex Insight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-frames-per-second-for-languid-visuals/"><u>[New] Ultimate Frames Per Second for Languid Visuals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-8-capture-tools-without-lag-for-2024/"><u>[Updated] Leading 8 Capture Tools Without Lag for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-pixelpunmatic-device/"><u>[Updated] PixelPunmatic Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-hidden-gems-for-enhancing-canva-images/"><u>[Updated] Top 10 Hidden Gems for Enhancing Canva Images</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-srt-mods-ultimate-upgrades-for-macwindows/"><u>Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/easy-steps-to-retrieve-lost-information-from-your-iphone-exclusive-buy-now-offer/"><u>Easy Steps to Retrieve Lost Information From Your iPhone – Exclusive Buy-Now Offer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-find-n3-flip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Find N3 Flip phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>In 2024, All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-flight-tech-best-drone-gimbals/"><u>In 2024, Top Flight Tech Best Drone Gimbals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>In 2024, Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-eye-opening-journey-with-q500-for-2024/"><u>The Eye-Opening Journey with Q500 for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-user-friendly-guide-to-starting-an-effective-group-chat-on-skype-across-multiple-platforms-for-2024/"><u>The Ultimate User-Friendly Guide to Starting an Effective Group Chat on Skype Across Multiple Platforms for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unbelievable-judgment-and-backup-recommendations-for-2024/"><u>Unbelievable Judgment & Backup Recommendations for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unstick-your-idevice-from-update-process-with-easy-troubleshooting-techniques/"><u>Unstick Your iDevice From Update Process with Easy Troubleshooting Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-iphone-picture-perfection/"><u>[New] Step-by-Step Guide IPhone Picture Perfection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleashing-creativity-in-instagram-photography-through-border-use/"><u>2024 Approved Unleashing Creativity in Instagram Photography Through Border Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrocks-stunning-32-oled-display-with-enhanced-color-at-480hz-a-visual-delight-and-network-companion/"><u>ASROCK's Stunning 32 OLED Display with Enhanced Color at 480Hz: A Visual Delight and Network Companion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-dynamic-content-powered-by-cookiebot/"><u>Enhanced User Experience with Dynamic Content: Powered by Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-trustworthiness-through-identification-verification-in-the-digital-era-of-banking/"><u>Establishing Trustworthiness Through Identification Verification in the Digital Era of Banking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-of-abbyy-embracing-a-new-identity-with-an-emphasis-on-organizational-growth-and-personnel-empowerment/"><u>Evolution of ABBYY: Embracing a New Identity with an Emphasis on Organizational Growth and Personnel Empowerment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-leaders-expect-more-process-clarity-and-innovative-tech-reveals-abbyy-research-on-wfh-adaptations/"><u>Future Leaders Expect More Process Clarity and Innovative Tech, Reveals ABBYY Research on WFH Adaptations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-siri-back-on-track-essential-tips-and-tricks-for-iphones-and-ipads/"><u>Get Siri Back On Track: Essential Tips and Tricks for iPhones & iPads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-huawei-p60-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Huawei P60 Pro?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-depth-analysis-navigating-zoom-for-webinars-and-livestreams-for-2024/"><u>In-Depth Analysis Navigating Zoom for Webinars and Livestreams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-genuine-consumer-centric-approach-now-at-the-forefront-of-insurance-claims/"><u>Is Genuine Consumer-Centric Approach Now at the Forefront of Insurance Claims?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-advanced-traffic-insights-the-power-of-cookiebot-technology-on-websites/"><u>Leverage Advanced Traffic Insights: The Power of Cookiebot Technology on Websites</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-why-your-pc-cant-exit-windows-11-properly-and-how-to-fix-it/"><u>Step-by-Step Guide: Why Your PC Can't Exit Windows 11 Properly and How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-tackle-icons-not-aligned/"><u>Win 11: Tackle Icons Not Aligned</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Quiet Install and Uninstall on Wix Using MSI Technology
-date: 2024-09-25T01:43:11.591Z
-updated: 2024-09-27T21:23:57.287Z
+date: 2024-09-29T18:31:38.752Z
+updated: 2024-10-03T19:42:31.438Z
 tags:
   - versus
 categories:
@@ -43,10 +43,10 @@ This approach proves particularly beneficial in scenarios where you need to perf
 If you're using WiX and you want to learn **how to create an MSI package for a silent installation or uninstallation** of an application, this article is exactly what you're searching for.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to silently install and uninstall the MSI package
@@ -58,13 +58,6 @@ When you are creating an MSI installation package with WiX, you have two options
 If you use WiX to create an MSI package, it will not have a built-in user interface by default (except for a simple progress dialog). 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To add an user interface to an MSI created with WiX, you have to use the **WiXUI library**. This is the standard user interface that WiX Toolset comes with. When creating a setup project, this library is not referenced by default. So, you will have a silent install if you do not add a reference for this library.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2\. Use command line arguments.** 
 
@@ -82,18 +75,25 @@ Copy
 
 ![WIX MSI to do a silent install or uninstall of a web app](https://cdn.advancedinstaller.com/img/msi-package-silent-install-uninstall-wix/wix-msi-to-do-a-silent-install-or-uninstall-of-a-web-app.png "WIX MSI to do a silent install or uninstall of a web app")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can use the **/l\*v** install parameter to create an installation log. As the GUI is hidden, the installation log helps you identify the errors that can occur during the installation process.
 
 If your installation package uses an EXE bootstrapper, you have to use a specific command line to launch the MSI. This command line can use the same parameters as when the MSI is launched with msiexec. The parameters will be passed to the MSI package.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Keep in mind that you must **use an elevated command prompt** to silently install an MSI package. Otherwise, the installation will fail as you do not have the privileges to complete the installation. To achieve this, use the Run as administrator context menu option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to make the MSI installer package silent using Advanced Installer?
 
@@ -104,10 +104,10 @@ You can find this option on the _Install Parameters_ page, under the _Install Op
 ![make the MSI installer package silent using Advanced Installer](https://cdn.advancedinstaller.com/img/msi-package-silent-install-uninstall-wix/make-the-msi-installer-package-silent-using-advanced-installer.png "make the MSI installer package silent using Advanced Installer")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -169,16 +169,14 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-rapid-share-tactics-for-youtube-lists/"><u>[New] Rapid Share Tactics for YouTube Lists</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-how-to-record-twitch-live-stream/"><u>[Updated] 2024 Approved How to Record Twitch Live Stream</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-flashflicker-artist/"><u>[Updated] FlashFlicker Artist</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-straightforward-approach-to-editing-age-on-tiktok/"><u>2024 Approved The Straightforward Approach to Editing Age on TikTok</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/broadening-gaming-horizons-by-sharing-your-xbox-one-titles-with-friends/"><u>Broadening Gaming Horizons by Sharing Your Xbox One Titles With Friends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empower-your-data-management-with-ai-using-chatgpt-in-google-sheets/"><u>Empower Your Data Management with AI: Using ChatGPT in Google Sheets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/simple-steps-for-iphone-screen-capture/"><u>Simple Steps for iPhone Screen Capture</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/turntable-innovation-meets-classic-vinyl-playback/"><u>Turntable Innovation Meets Classic Vinyl Playback</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-network-transmission-power-with-vlc-for-2024/"><u>Unlocking Network Transmission Power with VLC for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-slug-line-formats-in-screenplays-for-2024/"><u>Unlocking the Potential of Slug Line Formats in Screenplays for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-dive-into-the-best-filmora-edits-for-enthusiasts/"><u>[New] A Dive Into the Best Filmora Edits for Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-propel-participation-through-unique-custom-story-queries/"><u>[Updated] In 2024, Propel Participation Through Unique, Custom Story Queries</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-imagepurityplus-professional-photo-editing-suite/"><u>2024 Approved ImagePurityPlus Professional Photo Editing Suite</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comparing-ipads-with-standard-tablets-what-sets-them-apart/"><u>Comparing iPads with Standard Tablets: What Sets Them Apart?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-know-your-customer-approach-with-the-latest-techniques-insights-from-abbyy/"><u>Revamping Your Know-Your-Customer Approach with the Latest Techniques - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-enhance-page-ranking-and-web-traffic-through-seo-techniques/"><u>Strategies to Enhance Page Ranking and Web Traffic Through SEO Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-legal-processes-using-abbyys-innovative-contract-analysis-platform/"><u>Streamline Legal Processes Using ABBYY's Innovative Contract Analysis Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-trade-finance-adaptive-strategies-for-emerging-obstacles-and-opportunities/"><u>The Evolution of Trade Finance: Adaptive Strategies for Emerging Obstacles and Opportunities</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y36-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
 

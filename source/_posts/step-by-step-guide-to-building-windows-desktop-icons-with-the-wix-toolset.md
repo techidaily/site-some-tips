@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Building Windows Desktop Icons with the WiX Toolset
-date: 2024-09-26T03:27:04.859Z
-updated: 2024-09-27T17:53:44.359Z
+date: 2024-10-01T16:54:57.585Z
+updated: 2024-10-03T16:59:09.295Z
 tags:
   - versus
 categories:
@@ -43,10 +43,10 @@ In this article, we want to focus on desktop shortcut creation specifically for 
 Before we get started, you need to make sure you have the WiX Toolset extension for Visual Studio. Check out this article: [WiX Toolset Visual Studio Extension](https://tools.techidaily.com/advancedinstaller/products/) to see how you can **add the extension to Visual Studio**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to add the WiX setup project
@@ -59,16 +59,16 @@ Once you have the WiX Toolset extension added to Visual Studio and your Windows 
 
 ![Setup Project for Wix](https://cdn.advancedinstaller.com/img/create-desktop-shortcut-using-wix/setup-project-for-wix.png "Setup Project for Wix")  
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Once you add the setup project, you should find it in the _Solution Explorer_.
 
 ![Visual Studio Solution Explorer](https://cdn.advancedinstaller.com/img/create-desktop-shortcut-using-wix/viusal-studio-solution-explorer.png "Visual Studio Solution Explorer")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. To add the desktop shortcut, we have to edit the _Product.wxs_ file.
 
@@ -84,13 +84,6 @@ To include a desktop shortcut in your package, it is necessary to **declare the 
 </Directory>
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Add the shortcut to your package
 
@@ -134,16 +127,10 @@ Here is how the final code should look:
 Copy
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Add an icon to your desktop shortcut
@@ -228,6 +215,13 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -251,24 +245,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-dive-into-camtasias-ken-burns-feature-rich-tutorial/"><u>[Updated] Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[Updated] In 2024, Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-masterclass-in-brief-lapses-top-5-for-2024/"><u>[Updated] Masterclass in Brief Lapses #Top 5 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-step-by-step-screen-recording-in-win10-gaming-for-2024/"><u>[Updated] Step-by-Step Screen Recording in Win10 Gaming for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>[Updated] The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thorough-breakdown-the-dji-inspire-1-features/"><u>[Updated] Thorough Breakdown The DJI Inspire 1 Features</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-longer-bluetooth-connections-strategies-for-windows-11-systems/"><u>Achieve Longer Bluetooth Connections: Strategies for Windows 11 Systems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/boost-your-brand-across-top-platforms-twitter-instagram-facebook-and-youtubing/"><u>Boost Your Brand Across Top Platforms - Twitter, Instagram, Facebook & YouTubing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/easy-download-of-youtube-preview-pictures/"><u>Easy Download of YouTube Preview Pictures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streaming-success-easily-convert-srt-formats/"><u>In 2024, Streaming Success Easily Convert SRT Formats</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-submission-a-podcasters-guide/"><u>In 2024, Streamlining Submission A Podcaster's Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>In 2024, The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-30-inspirational-ideas-fusing-animated-themes-and-social-media/"><u>In 2024, Top 30 Inspirational Ideas Fusing Animated Themes and Social Media</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/include-stage-directions-that-metaphorically-represent-scientific-processes-eg-characters-absorbing-information-as-silica-gel-absorbs-water/"><u>Include Stage Directions that Metaphorically Represent Scientific Processes (E.g., Characters 'Absorbing' Information as Silica Gel Absorbs Water).</u></a></li>
-<li><a href="https://some-tips.techidaily.com/syncing-b-roll-sequences-with-main-scenes-effortlessly-for-2024/"><u>Syncing B Roll Sequences with Main Scenes Effortlessly for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-professionals-playbook-refined-gopro-video-production-techniques-for-2024/"><u>The Professional's Playbook Refined GoPro Video Production Techniques for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-tactics-for-advanced-iphone-x-animoji-utilization-for-2024/"><u>Transformative Tactics for Advanced iPhone X Animoji Utilization for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-image-quality-a-newbies-comprehensible-guide-for-2024/"><u>Unveiling Image Quality A Newbie's Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-facebooks-real-time-media-watch-guide-2023/"><u>[Updated] 2024 Approved Facebook's Real-Time Media Watch Guide, 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-journey-around-the-world-on-youtube-including-you/"><u>[Updated] 2024 Approved Journey Around the World on YouTube, Including You</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-capture-to-share-proven-methods-for-live-360-video-on-youtube/"><u>2024 Approved From Capture to Share Proven Methods for Live 360° Video on Youtube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-online-sources-for-3d-glitter-text-designs/"><u>2024 Approved Top Online Sources for 3D Glitter Text Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-visuals-with-our-cutting-edge-fork-of-stable-diffusion-perfect-for-creating-large-format-images-effortlessly/"><u>Enhance Your Visuals with Our Cutting-Edge Fork of Stable Diffusion, Perfect for Creating Large Format Images Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unmatched-travel-planning-with-bings-innovative-ai-concierge/"><u>Experience Unmatched Travel Planning with Bing's Innovative AI Concierge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-creality-k1-max-how-this-3d-printer-is-changing-the-game-for-hobbyists-and-professionals-alike/"><u>Exploring the Creality K1 Max: How This 3D Printer Is Changing the Game for Hobbyists and Professionals Alike</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-innovative-strategy-behind-duckduckgos-latest-ai-powered-search-technology/"><u>Exploring the Innovative Strategy Behind DuckDuckGo's Latest AI-Powered Search Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-access-chatgpt-now-offers-customized-gpt-models-to-everyone/"><u>Free Access: ChatGPT Now Offers Customized GPT Models to Everyone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-effectively-recharge-oculus-quest-vr-controllers-a-comprehensive-tutorial/"><u>How To Effectively Recharge Oculus Quest VR Controllers - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/identifying-genuine-interactions-distinguishing-authentic-chatgpt-communications-from-fake-ones/"><u>Identifying Genuine Interactions: Distinguishing Authentic ChatGPT Communications From Fake Ones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>In 2024, Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-13-ultra-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-adding-and-viewing-subtitles-on-your-dvds/"><u>Step-by-Step Guide: Adding and Viewing Subtitles on Your DVDs</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 15? | Dr.fone</u></a></li>
 </ul></div>
 

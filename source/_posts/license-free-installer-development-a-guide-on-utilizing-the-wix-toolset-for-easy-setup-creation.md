@@ -1,7 +1,7 @@
 ---
 title: "License-Free Installer Development: A Guide on Utilizing the WiX Toolset for Easy Setup Creation"
-date: 2024-09-21T10:43:31.425Z
-updated: 2024-09-28T00:03:00.566Z
+date: 2024-09-28T20:19:28.128Z
+updated: 2024-10-03T18:38:14.348Z
 tags:
   - versus
 categories:
@@ -36,13 +36,6 @@ Get the latest WiX insights direct to your inbox. Subscribe now!
 
 Although it is not required, almost every WiX UI configuration has a License Agreement Dialog. In this article, we will go through how to use WiX Toolset to build an installer without a license page.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Build an Installer Without a License Page in WiX Toolset
 
 The WiX UI Minimal dialog set will serve as a starting point for our project.
@@ -52,6 +45,13 @@ To get started, let's add the WiX UI minimal dialog set.
 1\. Add a new reference for the **WixUIExtension.dll** file, that you can find in the bin directory of the WiX Toolset installation folder.
 
 ![Add a new reference for the WixUIExtension.dll file](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/add-new-reference-for-wix-ui-extension-dll-file.png "Add a new reference for the WixUIExtension.dll file")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. Now that the WiX UI Extension is referenced, add this code to your project under the Product Tag:
 
@@ -91,6 +91,13 @@ Coming up, let's see how you can use Advanced Installer to build your installer 
 
 Are you new to Advanced Installer? Get familiar with it through our [30-day full-feature trial](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use Advanced Installer to Build Your Installer without a license page
 
 Yes, there's an even simpler way to build your installer without a license page. Here's how you can achieve that with the Advanced Installer GUI:
@@ -103,26 +110,26 @@ How can you add a **License Agreement Dialog** in Advanced Installer?
 
 ![Add Dialog](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/add-dialog.png "Add Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. From that list choose the **LicenseAgreementDlg**.
 
 ![Choose Predefined Dialog LicenseAgreementDlg](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/choose-predefined-dialog.png "Choose Predefined Dialog LicenseAgreementDlg")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3\. A new window will pop up where you will need to specify the path of the license file, which has to be an RTF file.
 
 ![Specify Path of License File](https://cdn.advancedinstaller.com/img/build-installer-without-license-page-using-wix/specify-path-of-license-file.png "Specify Path of License File")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -163,13 +170,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -193,18 +193,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-fbs-frontier-making-and-sending-immersive-360-videos/"><u>[New] FB's Frontier Making and Sending Immersive 360 Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-video-potential-top-4k-downloader-apps-reviewed/"><u>[New] Unleash Video Potential Top 4K Downloader Apps Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-record-a-video-presentation-using-adobe-captivate-for-2024/"><u>[Updated] How to Record a Video Presentation Using Adobe Captivate for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-slow-motion-showcase-top-cameras-with-unparalleled-snapshot-power/"><u>[Updated] Slow-Motion Showcase Top Cameras with Unparalleled Snapshot Power</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-farm-games-for-social-play-with-peers-for-2024/"><u>[Updated] Top Farm Games for Social Play with Peers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-undo-motion-recapturing-video-from-mobile-devices/"><u>[Updated] Undo Motion Recapturing Video From Mobile Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/come-effettuare-lacquisizione-di-un-file-mkv-su-pc-con-windows-10-e-conversione-in-formato-avi/"><u>Come Effettuare L'Acquisizione Di Un File MKV Su PC Con Windows 10 E Conversione in Formato AVI</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-8-points-to-ponder-prior-to-investing-in-a-desktop-workstation/"><u>Crucial 8 Points to Ponder Prior to Investing in a Desktop Workstation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-samsung-galaxy-s24plus-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Samsung Galaxy S24+</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>In 2024, Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explaining-the-gopro-burst-mode/"><u>In 2024, Explaining the GoPro Burst Mode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-fix-for-quick-signature-bg-disposal/"><u>In 2024, Ultimate Fix for Quick Signature BG Disposal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/making-websites-windows-programs-a-tutorial/"><u>Making Websites Windows Programs: A Tutorial</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-mov-files-on-windows-10/"><u>[New] 2024 Approved How to Record MOV Files on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>[New] In 2024, Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-behind-the-scenes-with-intova-edge-x-for-2024/"><u>[Updated] Behind the Scenes with Intova Edge X for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mindful-meandering-leisurely-pc-games/"><u>[Updated] Mindful Meandering Leisurely PC Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-abbyy-top-choice-for-everest-groups-idp-peak-matrix-evaluation/"><u>1. ABBYY: Top Choice for Everest Group's IDP Peak Matrix Evaluation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-2023s-premier-action-cameras-for-ocean-thrills/"><u>2024 Approved 2023'S Premier Action Cameras for Ocean Thrills</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-peak-of-puns-premium-meme-templates/"><u>2024 Approved Peak of Puns Premium Meme Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbey-jahresumsatz-steigt-um-19-in-deutschland-fur-das-jahr-2018-seo-freundliche-ubersicht/"><u>ABBEY Jahresumsatz Steigt Um 19 % in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-announces-scott-opitz-as-new-cmo-exciting-times-ahead/"><u>ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-finereader-et-ideticiel-accelere-le-tri-du-courrier-dans-les-communes-avec-larchivage-numerique/"><u>ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-finereader-fur-blinde-und-sehschwache-schulerinnen-uberwindet-lernbarrieren-mit-spracherkennungstechnologie/"><u>ABBYY FineReader Für Blinde Und Sehschwache SchülerInnen - Überwindet Lernbarrieren Mit Spracherkennungstechnologie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-unveils-cutting-edge-digital-tools-to-streamline-legal-practices-during-the-2020-american-bar-association-technology-exhibition/"><u>ABBYY Unveils Cutting-Edge Digital Tools to Streamline Legal Practices During the 2020 American Bar Association Technology Exhibition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724313333809-cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics & Personalization</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 13 Pro Without Previous Owner?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oneplus-nord-ce-3-lite-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your OnePlus Nord CE 3 Lite 5G Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pinnacle-programs-for-peak-webcam-video-quality/"><u>Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-timeline-connector-for-alteryx-abbyy/"><u>ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド</u></a></li>
 </ul></div>
 

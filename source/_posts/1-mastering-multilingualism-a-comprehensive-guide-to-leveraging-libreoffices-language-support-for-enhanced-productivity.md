@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Multilingualism: A Comprehensive Guide to Leveraging LibreOffice's Language Support for Enhanced Productivity"
-date: 2024-09-17 23:30:33
-updated: 2024-09-20 12:36:39
+date: 2024-09-27T20:05:09.051Z
+updated: 2024-10-03T20:13:48.376Z
 tags:
   - work-life
 categories:
@@ -49,9 +49,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only thing you'll need for this process is a running instance of LibreOffice. It doesn't matter what operating system you use, as the process is the same regardless. I'll demonstrate the task using LibreOffice 7.6 on [Ubuntu Budgie](https://www.zdnet.com/article/this-official-ubuntu-spin-might-be-just-be-the-perfect-intro-to-linux/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open LibreOffice
 
 The first thing to do is open LibreOffice. Once the software is open, you can either create a new document in Writer or open a previously created document.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Access the Languages settings
 
@@ -64,6 +78,13 @@ To change the locale for the second paragraph, highlight the paragraph (or secti
 Once you've added another language/locale to a document, you'll be able to quickly switch between them from this popup.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Select your language
 
@@ -102,11 +123,31 @@ And that's all it takes to have different languages represented in your LibreOff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-gelato-gadgets-step-by-step-screen-capture-for-frozen-snacks/"><u>[New] 2024 Approved Gelato Gadgets Step-by-Step Screen Capture for Frozen Snacks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-bridge-the-gap-instagram-meets-tiktok/"><u>[New] Bridge the Gap Instagram Meets TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/harting-the-future-essential-online-stock-yts/"><u>[New] Charting the Future Essential Online Stock YTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beginners-top-8-camera-options-35mm-to-pands/"><u>[Updated] Beginner’s Top 8 Camera Options (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pilots-perspective-dji-dualsense-fpv-tech/"><u>[Updated] Pilot's Perspective DJI DualSense FPV Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creme-de-la-creme-of-vr-development-talent/"><u>[Updated] The Crème De La Crème of VR Development Talent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-30-pro-windows-10-secrets-revealed/"><u>[Updated] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-predictive-ai-exploring-its-operational-dynamics/"><u>Demystifying Predictive AI: Exploring Its Operational Dynamics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-choose-the-background-music-for-the-trailer-for-2024/"><u>How to Choose the Background Music for the Trailer for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/metas-gambit-crafting-earths-most-rapid-ai-engine/"><u>Meta's Gambit: Crafting Earth's Most Rapid AI Engine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artists-guide-to-dynamic-palette-alteration-for-2024/"><u>The Artist's Guide to Dynamic Palette Alteration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-exchanging-images-and-videos-on-apple-devices-for-2024/"><u>Tips & Tricks Exchanging Images & Videos on Apple Devices for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unwind-with-country-vibes-most-popular-tiktok-songs-for-2024/"><u>Unwind with Country Vibes Most Popular TikTok Songs for 2024</u></a></li>
+</ul></div>
+

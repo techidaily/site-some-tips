@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up & Deploying Windows Services with WiX Toolset"
-date: 2024-09-24T10:34:07.518Z
-updated: 2024-09-28T07:45:35.364Z
+date: 2024-09-28T16:06:59.168Z
+updated: 2024-10-03T19:22:00.426Z
 tags:
   - versus
 categories:
@@ -52,10 +52,17 @@ Apart from these two mandatory elements, you can also use[ServiceConfig](https:/
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are not familiar with Windows Installer technology, we strongly recommend you to have a look at the corresponding MSI tables:[ServiceInstall](https://learn.microsoft.com/en-us/windows/win32/msi/serviceinstall-table), [ServiceControl](https://learn.microsoft.com/en-us/windows/win32/msi/servicecontrol-table), and [MSIServiceConfig](https://learn.microsoft.com/en-us/windows/win32/msi/msiserviceconfig-table).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Add a Windows Service to Your MSI?
@@ -63,13 +70,6 @@ Apart from these two mandatory elements, you can also use[ServiceConfig](https:/
 Now that we know the main elements, we will go through how to add a Windows Service to your MSI. We will also configure the Windows Service created and set it to “Automatic (Delayed Start)”.
 
 This way, you can ensure that the critical Windows Services get all the resources they need at the boot time, whilst the non-critical ones start a little bit later.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Defining the ServiceInstall element
 
@@ -116,13 +116,6 @@ Other attributes include:
 * Remove – which specifies whether the Windows Service should be removed on install, uninstall or both – allowed values: “install”, “uninstall” or “both”.
 * Wait – which specifies whether or not to wait for Service Control Manager to report the Windows Service as complete (in “pending” state) before proceeding (maximum 30 seconds) – allowed values: “yes” or “no”.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Determine the ServiceConfig Element
 
 Additionally, we can now go and define the**ServiceConfig** element to configure our Windows Service.
@@ -143,6 +136,13 @@ The **ServiceConfig** element comes with the following attributes:
 * PreShutdownDelay – which specifies the time that the Service Control Manager waits after reporting a system shutdown.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)**ServiceConfig** is only available starting with Windows Installer 5.0.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The complete listing for the WiX source file is as follows:
 
@@ -181,6 +181,19 @@ The complete listing for the WiX source file is as follows:
 
 Copy
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Compiling and building the MSI
 
 Once we've reached this step, all you need to do is:
@@ -199,6 +212,13 @@ Copy
 
 ![Building msi package](https://cdn.advancedinstaller.com/img/wix-child-images/building-msi-package.png "Building MSI Package")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And that’s it. Your MSI package is now built.
 
 ![Msi application](https://cdn.advancedinstaller.com/img/wix-child-images/msi-application.png "MSI App")  
@@ -207,27 +227,7 @@ If you install the newly created MSI package, your Windows Service should appear
 
 ![Windows service details](https://cdn.advancedinstaller.com/img/wix-child-images/windows-service-details.png "Windows Services Details")  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As shown in the image above, I was able to set my WindowsServiceSample service to “Automatic (Delayed Start) “using the ServiceConfig element in WiX.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows Services in Advanced Installer
 
@@ -290,20 +290,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-tailor-topical-laughs/"><u>[New] 2024 Approved Tailor Topical Laughs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-free-tools-make-screencapture-a-breeze-for-tv-lovers/"><u>[New] In 2024, Free Tools Make ScreenCapture a Breeze for TV Lovers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-your-youtube-views-with-smart-zoom-practices/"><u>[New] Transform Your YouTube Views with Smart Zoom Practices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[Updated] 2024 Approved Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streaming-royalty-ranking-the-top-10-platforms-for-real-time-content/"><u>[Updated] Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-visionary-voices-triumph-online/"><u>[Updated] Visionary Voices Triumph Online</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-freezing-gameplay-essential-pc-screen-snaps/"><u>2024 Approved Freezing Gameplay Essential PC Screen Snaps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-a-diy-guide-to-haul-edits/"><u>2024 Approved Unleash Creativity with a DIY Guide to Haul Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-expression-master-device-based-filters-and-effects/"><u>2024 Approved Unlock Creative Expression Master Device-Based Filters and Effects</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>In 2024, The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-best-live-stream-options-today/"><u>In 2024, Unlock the Best Live Stream Options Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-15-pro-max-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone 15 Pro Max has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-nvidia-gaming-overlay-problems-expert-strategies-for-a-smooth-experience/"><u>Overcoming NVIDIA Gaming Overlay Problems: Expert Strategies for a Smooth Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-curious-case-of-instavideos-turned-sideways/"><u>The Curious Case of InstaVideos Turned Sideways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-quill-the-best-caption-apps-for-your-photos-iosandroid/"><u>[New] Quick Quill The Best Caption Apps for Your Photos (iOS/Android)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-brief-steps-efficiently-archiving-gotomeeting-discussions-for-2024/"><u>[Updated] Brief Steps Efficiently Archiving GoToMeeting Discussions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-harnessing-the-power-of-your-retweet-archives-for-2024/"><u>[Updated] Harnessing the Power of Your Retweet Archives for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-videography-8-tips-of-recording-pro-videos/"><u>2024 Approved IPhone Videography 8 Tips of Recording Pro Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-unregistered-dll-problems-in-windows-aturin/"><u>Easy Solutions for Unregistered DLL Problems in Windows Aturin</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-open-command-prompt-as-administrator-in-windows-11-8-and-81/"><u>How to Open Command Prompt as Administrator in Windows 11, 8 & 8.1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-stop-avg-free-edition-2015-temporarily/"><u>How to Stop AVG Free Edition 2015 Temporarily</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-digital-sticky-notes-a-comprehensive-tutorial-for-microsoft-edge-users/"><u>Mastering Digital Sticky Notes: A Comprehensive Tutorial for Microsoft Edge Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/set-up-remote-desktop-connection-rdc-in-windows-11/"><u>Set up Remote Desktop Connection (RDC) in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sleek-60-second-fades/"><u>Sleek 60-Second Fades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-setting-up-system-restore-on-windows-11/"><u>Step-by-Step Guide to Setting Up System Restore on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-clearing-browsing-data-and-cookies-on-chrome/"><u>Step-by-Step Guide: Clearing Browsing Data and Cookies on Chrome</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-how-to-determine-your-windows-10-edition-and-build/"><u>Step-by-Step Guide: How to Determine Your Windows 10 Edition and Build</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap-for-2024/"><u>Taking Comedy to the Digital Frontier Your GIF Creation Roadmap for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/temporary-disabling-of-avg-antivirus-free-2015-a-step-by-step-guide/"><u>Temporary Disabling of AVG AntiVirus Free 2015: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/troubleshoot-and-fix-windows-10-calculator-issues-complete-solution-guide/"><u>Troubleshoot and Fix Windows 10 Calculator Issues – Complete Solution Guide</u></a></li>
 </ul></div>
 

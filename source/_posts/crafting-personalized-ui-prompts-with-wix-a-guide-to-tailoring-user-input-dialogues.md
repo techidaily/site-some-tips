@@ -1,7 +1,7 @@
 ---
 title: "Crafting Personalized UI Prompts with WiX: A Guide to Tailoring User Input Dialogues"
-date: 2024-09-22T05:00:04.670Z
-updated: 2024-09-27T18:17:23.505Z
+date: 2024-09-26T19:57:02.495Z
+updated: 2024-10-03T17:27:35.141Z
 tags:
   - versus
 categories:
@@ -50,21 +50,7 @@ To add the setup project for your application, go to _File_ → _New_ → _Proje
 
 ![Setup Project for Wix](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/setup-project-for-wix.png "Setup Project for Wix")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Keep in mind that you need to have the WiX extension added to Visual Studio to find the template. Check [this](https://tools.techidaily.com/advancedinstaller/products/) tutorial to see how to add it. There, you’ll also find how to **add the deployable files** once the Setup Project is created.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you add the WiX extension and the deployable files, you have to edit the Product.wxs file and add the next line to reference the UI element we will use in this tutorial. 
 
@@ -73,13 +59,6 @@ Once you add the WiX extension and the deployable files, you have to edit the Pr
 </Product>
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to create the installer dialogs?
 
@@ -99,6 +78,20 @@ To create a dialog, follow the next steps:
 After you create the two dialogs, you should find them in the _Solution Explorer_ under the _Setup Project_.
 
 ![Solution Explorer](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/solution-explorer.png "Solution Explorer")  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to customize the installer dialogs?
 
@@ -186,6 +179,13 @@ For this dialog, add the code below.
 
 Copy
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to save the user input in a txt file?
 
 Now, we have to take the information from the input dialog and save it in the txt file. For this, we will use a custom action. To create it, follow the steps:
@@ -220,10 +220,10 @@ To do this, right-click on the _Setup Project_ → _Add_ → _Reference_. In the
 ![reference it in the Setup Project](https://cdn.advancedinstaller.com/img/create-wix-custom-dialog-user-input/reference-it-in-the-setup-project.png "reference it in the Setup Project")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Build and install the project
@@ -269,10 +269,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -298,18 +298,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-evaluation-of-camstudio-screen-recorder/"><u>[New] 2024 Approved Complete Evaluation of CamStudio Screen Recorder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-blueprint-for-srt-file-adaptability/"><u>[New] The Essential Blueprint for SRT File Adaptability</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-explore-largest-collection-of-free-vector-graphics-portals-for-2024/"><u>[Updated] Explore Largest Collection of Free Vector Graphics Portals for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-simple-guide-sharing-tweets-with-imagesvideos-directly-to-twitter/"><u>[Updated] In 2024, Simple Guide Sharing Tweets with Images/Videos Directly to Twitter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-movies-into-virtual-reality-realms/"><u>[Updated] Transforming Movies Into Virtual Reality Realms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-and-utilizing-windows-11-auto-hdr-functionality/"><u>[Updated] Understanding and Utilizing Windows 11 Auto HDR Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>2024 Approved The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-storm-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava Storm 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-capabilities-of-shapley-explanations-in-artifice-intelligence-systems/"><u>Exploring the Capabilities of Shapley Explanations in Artifice Intelligence Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-superior-video-text-enhancements/"><u>In 2024, 10 Superior Video Text Enhancements</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>In 2024, The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>New Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-text-features-in-ae-compositions-for-2024/"><u>Tailoring Text Features in AE Compositions for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nveiling-secrets-sharing-restricted-youtube-content-via-email/"><u>[New] Unveiling Secrets Sharing Restricted YouTube Content via Email</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-side-by-side-display-logging/"><u>[Updated] 2024 Approved Side-by-Side Display Logging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-superior-slow-motion-quality-through-fps-selection/"><u>[Updated] Unlocking Superior Slow Motion Quality Through FPS Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-live-streaming-tools-head-to-head-obs-vs-fraps/"><u>2024 Approved Live Streaming Tools Head to Head OBS vs Fraps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-new-users-on-the-road-to-zoom-room-mastery/"><u>2024 Approved New Users on the Road to Zoom Room Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhancing-user-experience-through-personalized-engagement/"><u>Cookiebot-Enabled: Enhancing User Experience Through Personalized Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-marketing-solutions-drive-growth-through-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced Marketing Solutions: Drive Growth Through Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-tailored-and-tracked/"><u>Cookiebot-Enhanced User Experience: Tailored and Tracked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-backbone-of-your-sites-personalization-strategy/"><u>Cookiebot: The Backbone of Your Site's Personalization Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/costains-abteilungsstrategie-fur-digitale-transformationen-die-rolle-von-abbyy-technologien-in-der-finanzverwaltung/"><u>Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/digitale-transformation-zum-profitieren-vom-unternehmensarchiv-zur-effizienten-dokumentverwaltung/"><u>Digitale Transformation Zum Profitieren! Vom Unternehmensarchiv Zur Effizienten Dokumentverwaltung.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/e-book-techniques-pour-detruire-les-obstacles-a-la-registration-clientelle-mobile/"><u>E-Book: Techniques Pour Détruire Les Obstacles À La Régistration Clientelle Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-experience-through-advanced-tracking-technology-like-cookiebot/"><u>Enhance User Experience Through Advanced Tracking Technology Like Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-site-with-automated-visitor-tracking-the-secrets-in-the-bots/"><u>Enhance Your Site with Automated Visitor Tracking - The Secret's in the Bots!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-12r-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 12R is off? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-se-2022-with-7-methods-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone SE (2022) With 7 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/showdown-between-tech-leaders-can-llama-3-outshine-gpt-4/"><u>Showdown Between Tech Leaders: Can Llama 3 Outshine GPT-4?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-how-to-play-dragon-age-origins-without-glitches-on-windows-11/"><u>Success Story: How to Play Dragon Age: Origins Without Glitches on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-hidden-outlook-folders-on-pc-a-step-by-step-guide/"><u>Unlocking Hidden Outlook Folders on PC: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

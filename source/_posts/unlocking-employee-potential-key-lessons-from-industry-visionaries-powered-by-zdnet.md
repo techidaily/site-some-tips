@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Employee Potential: Key Lessons From Industry Visionaries | Powered By ZDNet"
-date: 2024-09-18 16:49:35
-updated: 2024-09-20 12:33:18
+date: 2024-10-02T16:49:09.146Z
+updated: 2024-10-03T19:09:34.675Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ Hibbitt says it's also important to ensure your people enjoy the journey to thei
 
 "Making sure it's fun is really, really important," he says. "Our engineering teams are spread out across Europe. If I think about some of my engineers, making sure that the problems they're focusing on are meaningful to the organization -- but also meaningful to them, and that they're growing within their careers, and that they're working with other high-performing individuals -- is crucial."
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Connect with people
 
 Cynthia Stoddard, CIO at Adobe, says you get the best from people by connecting with them, talking with them, hearing their voices, and then acting. 
@@ -62,6 +69,13 @@ Stoddard says these kinds of initiatives take a lot of effort. However, this inv
 Stoddard says ideas will come out of workshops. Good managers then make sure their staff feel their ideas are being heard.
 
 "I will listen to everything. And I think it's important that, when people speak, their voice is heard, they know you listened, and then an action took place," she says. "So, that's what I've tried to do is build that connection all the way to the action taking place. And we make changes based on the ideas of individual contributors, managers, and people around the organization from different regions and areas of the world."
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Provide personalized feedback
 
@@ -79,6 +93,13 @@ Think about what works for each individual and try to accommodate that personali
 
 "Whether you're giving feedback twice in one week, or just meeting in one block for an hour, success is all about being flexible."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Give people space
 
 Bob Michael, head of data at retailer DFS, says you get the best from your people when they know they can trust your word.
@@ -90,6 +111,13 @@ Michael says openness also extends to the things you ask your staff to do. Don't
 **Also:** [**Generative AI is changing your technology career path. What to know**](https://www.zdnet.com/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/)
 
 "I wouldn't ask somebody to do something that I wouldn't necessarily do myself," he says. "The other bit that goes alongside that is trusting what they do. I don't want to micromanage; I'm not interested in micromanaging."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Cover all your bases
 
@@ -128,11 +156,33 @@ Warne also says any manager who covers those three areas will end up with a very
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-beginners-blueprint-achieving-superior-image-clarity-in-videos/"><u>[New] The Beginner’s Blueprint Achieving Superior Image Clarity in Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-using-vlc-for-videos/"><u>[Updated] 2024 Approved Ultimate Guide Using VLC for Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beats-in-the-balance-adding-music-to-whatsapp/"><u>[Updated] Beats in the Balance Adding Music to WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-polarr-photo-editor-proficiency/"><u>[Updated] The Ultimate Guide to Polarr Photo Editor Proficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>[Updated] Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-power-of-srt-in-broadcasting/"><u>[Updated] Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-voice-changes-without-financial-investment/"><u>2024 Approved The Ultimate Guide to Voice Changes Without Financial Investment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/m4r-movavi/"><u>網站直接免費改成M4R格式 - MoVavi音頻編碼器</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-laptop-fan-pad-a-comprehensive-look-at-topmates-model-c302/"><u>Budget-Friendly Laptop Fan Pad: A Comprehensive Look at TopMate's Model C302</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-install-idt-hd-audio-codec-on-windows-11-a-complete-guide/"><u>How to Install IDT HD Audio Codec on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c12-plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C12 Plus to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/intense-meetings-perfect-your-screen-focus-in-msteams-for-2024/"><u>Intense Meetings Perfect Your Screen Focus in MSTEAMS for 2024</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/modern-admin-panel-ready-in-no-time-black-ui-powered-by-angular-plus-bootstrap-4-designed-at-creativetim/"><u>Modern Admin Panel Ready in No Time: Black UI, Powered by Angular + Bootstrap 4 | Designed at CreativeTim</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my 14</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion-for-2024/"><u>The Ultimate Handbook to Metaverse Promotion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-hidden-windows-11-taskbar-investigative-tool/"><u>Uncover Hidden Windows 11 Taskbar Investigative Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips-for-2024/"><u>Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips for 2024</u></a></li>
+</ul></div>
+

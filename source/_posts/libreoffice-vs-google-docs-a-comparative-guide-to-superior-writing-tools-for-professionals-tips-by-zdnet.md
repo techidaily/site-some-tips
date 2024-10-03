@@ -1,7 +1,7 @@
 ---
 title: "LibreOffice Vs. Google Docs: A Comparative Guide to Superior Writing Tools for Professionals | Tips by ZDNET"
-date: 2024-09-18 13:41:39
-updated: 2024-09-20 11:54:58
+date: 2024-09-26T19:10:16.403Z
+updated: 2024-10-03T19:04:36.854Z
 tags:
   - work-life
 categories:
@@ -63,6 +63,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. LibreOffice offers continuity
 
 I have LibreOffice installed (and set as the default) on my Linux desktop and my MacBook Pro. By doing this, I can ensure that switching from one machine to the next will keep the document formatting intact. This becomes very important when dealing with book manuscripts that you submit to your publisher, as they might require them to be formatted in a very particular way. 
@@ -72,6 +79,13 @@ I have LibreOffice installed (and set as the default) on my Linux desktop and my
 If I were to switch between LibreOffice, Pages, and Google Documents, the formatting could wind up a jumbled mess. That's not to say LibreOffice doesn't adhere to standards. You can open a LibreOffice document in MS Office and it will (mostly) look fine (although you might have to tweak some formatting). Even Google Docs allows you to download in the Open Document Format (ODT), which LibreOffice uses as its default. 
 
 With LibreOffice -- more than any other office suite -- I find the continuity between applications, computers, and documents to be spot on.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. LibreOffice is packed with tools
 
@@ -83,6 +97,13 @@ And that only scratches the surface. There are also database, presentation, form
 
 The thing about LibreOffice is that if I need to get something done in a document, you bet I can do it without turning to a third-party tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. LibreOffice is free (and not just in price)
 
 I'm not an open-source purist. I use proprietary applications, like Spotify, Slack, Opera, and others. But when given the choice, I will always go with an open-source application. Why? Because that means the source can be vetted by thousands of developers across the globe. On top of that, the development team listens to feature requests. I've submitted features to the developers that they are considering. That's important to someone who depends on a tool for their livelihood.
@@ -92,6 +113,13 @@ On top of LibreOffice being free, it's also free of charge. You can download and
 **Also: [5 best open-source email clients for Linux (and why Geary is my go-to)](https://www.zdnet.com/article/5-best-open-source-email-clients-for-linux-and-why-geary-is-my-go-to/)**
 
 I can already hear you saying, "But Google Docs is free." That it is. But with the locally-installed LibreOffice, you don't have to worry about a third-party gaining access to your work. Although Google claims they aren't currently training their AI LLMs with user content, there's no guarantee that the claim will continue to be the case.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. LibreOffice is big on security
 
@@ -128,11 +156,29 @@ Download and install LibreOffice from the [Document Foundation](https://www.libr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-expert-guide-amplifying-your-tiktok-post-reach-with-hashtags-for-2024/"><u>[New] Expert Guide Amplifying Your TikTok Post Reach with Hashtags for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sprint-through-photo-composition-googles-easy-way/"><u>[New] Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-multi-screen-recording-setup/"><u>[Updated] Multi-Screen Recording Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-hdr-techniques-in-modern-photoshoots/"><u>[Updated] Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tap-into-the-funny-kapwing-for-meme-makers/"><u>2024 Approved Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-10-plugins-to-enhance-fcp/"><u>2024 Approved Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966194218-easy-installation-of-msin-high-quality-audio-drivers-for-pc-systems/"><u>Easy Installation of MSI'n High Quality Audio Drivers for PC Systems.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-storm-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Lava Storm 5G Phone without PIN</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pro-photoshop-power-top-10-canva-design-secrets/"><u>In 2024, Pro Photoshop Power Top 10 Canva Design Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-uploading-podcasts-on-google/"><u>In 2024, The Definitive Guide to Uploading Podcasts on Google</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-your-network-discovering-linksyss-latest-default-passcodes-july-edition/"><u>Secure Your Network: Discovering Linksys's Latest Default Passcodes (July Edition)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-the-problem-why-isnt-diablo-ii-resurrected-starting-correctly/"><u>Solve the Problem: Why Isn't Diablo II Resurrected Starting Correctly?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-influential-force-of-endorsements-for-2024/"><u>The Influential Force of Endorsements for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-imagery-with-ar-and-accessible-luts-for-2024/"><u>Transform Your Imagery with AR & Accessible LUTs for 2024</u></a></li>
+</ul></div>
+

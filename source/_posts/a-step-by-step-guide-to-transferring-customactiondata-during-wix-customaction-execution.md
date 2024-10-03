@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Transferring CustomActionData During WiX CustomAction Execution
-date: 2024-09-25T17:00:43.712Z
-updated: 2024-09-28T09:55:22.059Z
+date: 2024-10-01T19:11:47.035Z
+updated: 2024-10-03T20:02:35.497Z
 tags:
   - versus
 categories:
@@ -55,6 +55,19 @@ What is the challenge when you want to pass a property to a **Deferred CustomAct
 
 A **Deferred CustomAction** doesn't have any information about the original session handle and property data (Session.Property(\[PROPERTY\])). This is because the script generated for it is executed outside of the installation process. Instead, you will need to use CustomActionData (Session.Property("CustomActionData")) .
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to use CustomActions with WiX?
 
 Let's suppose we need to add a script that takes the value of the SERVERPATH property as an input (passed to the installer via command line) and writes it into the registry. The CustomAction script should look like the one below:
@@ -87,13 +100,6 @@ Once the CustomAction and Binary elements are defined, we can set the correspond
 Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When scheduling the two CustomAction in the InstallExecuteSequence table, the **SetProperty CustomAction** ('SetServerPathProperty) should be scheduled before the Deferred CustomAction (SetServerPath).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **SetProperty CustomAction** ('SetServerPathProperty) is used to set the property of interest to a property with the same name as the Deferred CustomAction.
 
@@ -136,16 +142,10 @@ Now, all we need to do is to:
 * Process the WiX object file compiled previously and build the Windows Installer (MSI package).
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to configure CustomActions with Advanced Installer?
@@ -156,14 +156,14 @@ All you need to do is specify the value of the CustomActionData property within 
 
 ![Configure CustomActions](https://cdn.advancedinstaller.com/img/wix-pass-customactiondata-to-customaction/configure-custom-actions.png "Configure CustomActions")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Have a look at our [How to Use CustomActionData to Access Windows Installer Properties in Deferred CustomActions](https://tools.techidaily.com/advancedinstaller/products/) article to find out more about:- Why do you need CustomActionData- When can Deferred CustomActions go wrong- How you can pass CustomActionData to a CustomAction using Advanced Installer
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -204,10 +204,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -233,21 +233,21 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[New] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-winning-titles-and-tags-for-your-youtube-videos-for-2024/"><u>[Updated] Crafting Winning Titles & Tags for Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-music-syncing-for-iphones-and-androids-in-fb-for-2024/"><u>[Updated] Music Syncing for iPhones & Androids in FB for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-glare-free-guide-to-stellar-gopro-videos/"><u>[Updated] The Glare-Free Guide to Stellar GoPro Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-rise-of-popular-images-a-deep-dive-into-meme-culture/"><u>[Updated] The Rise of Popular Images A Deep Dive Into Meme Culture</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-intelligentsia-inbox-premier-general-knowledge-vids/"><u>2024 Approved Intelligentsia Inbox Premier General Knowledge Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-cost-effective-fitness-trackers-for-gamers/"><u>2024 Approved Top 5 Cost-Effective Fitness Trackers (For Gamers)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/app-store-showdown-ios-vs-google-play-which-reigns-supreme/"><u>App Store Showdown: IOS Vs. Google Play – Which Reigns Supreme?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/expert-recommended-5-tech-for-linguists-and-instructors/"><u>Expert Recommended 5 Tech for Linguists & Instructors</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-magic-5-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor Magic 5 Face Lock?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-combining-youtube-harmonies-in-moving-images/"><u>In 2024, Combining YouTube Harmonies in Moving Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-for-improving-your-interview-prowess-for-2024/"><u>Strategies for Improving Your Interview Prowess for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-supercharging-srt-with-macwindows-for-2024/"><u>The Ultimate Guide to Supercharging SRT with Mac/Windows for 2024</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/unlock-the-power-of-touch-for-your-macbook-elevate-your-experience-using-an-amazing-portable-monitor-learn-how-at-zdnet/"><u>Unlock the Power of Touch for Your MacBook: Elevate Your Experience Using an Amazing Portable Monitor | Learn How at ZDNET</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-secrets-to-pristine-bg-removal-techniques-in-figma-for-2024/"><u>Unveiling Secrets to Pristine BG Removal Techniques in Figma for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-converting-multimedia-scripts-transitioning-from-xmlssa-to-srt/"><u>[New] Converting Multimedia Scripts Transitioning From XML/SSA to SRT</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-adobe-premiere-soundtrack-guide/"><u>[New] The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-acclaimed-melody-hub-for-android-devices/"><u>[Updated] Acclaimed Melody Hub for Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customizing-windows-11-with-tailored-themes-and-styles/"><u>Customizing Windows 11 with Tailored Themes and Styles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-windows-11-insider-build-15031-resolve-initializing-issue-for-smooth-installation/"><u>Download Windows 11 Insider Build 15031? Resolve 'Initializing' Issue for Smooth Installation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enabling-rdc-access-for-windows-11-comprehensive-tutorial-to-connect-remotely/"><u>Enabling RDC Access for Windows 11: Comprehensive Tutorial to Connect Remotely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-pcs-safety-with-easy-restore-point-setup-in-windows-11/"><u>Enhance Your PC's Safety with Easy Restore Point Setup in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-tips-for-deleting-internet-trackers-and-cookies-in-googles-chrome-browser/"><u>Expert Tips for Deleting Internet Trackers & Cookies in Google's Chrome Browser</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-metro-exodus-game-crash-issues-on-windows/"><u>Fixes for Metro Exodus Game Crash Issues on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-configure-remote-desktop-on-windows-11-a-step-by-step-guide/"><u>How to Configure Remote Desktop on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-enable-and-create-restore-points-in-windows-10/"><u>How to Enable and Create Restore Points in Windows 10?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-huawei-nova-y71-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Huawei Nova Y71 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-transforming-your-videography-from-monochrome-to-high-dynamic-range-masterpieces/"><u>In 2024, Transforming Your Videography From Monochrome to High-Dynamic Range Masterpieces</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video-for-2024/"><u>New How to Record and Edit an Animoji or Memoji Karaoke Music Video for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-secure-geforce-gtx-460-drivers-downloading-guide-for-windows-users/"><u>Quick and Secure GeForce GTX 460 Drivers Downloading Guide for Windows Users</u></a></li>
 </ul></div>
 

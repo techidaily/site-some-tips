@@ -1,7 +1,7 @@
 ---
 title: "Mastering Service Implementation in Windows: A Comprehensive WiX Installer Tutorial"
-date: 2024-09-23T08:56:55.530Z
-updated: 2024-09-28T05:30:12.897Z
+date: 2024-10-02T19:40:06.043Z
+updated: 2024-10-03T18:07:40.748Z
 tags:
   - versus
 categories:
@@ -51,6 +51,13 @@ Apart from these two mandatory elements, you can also use[ServiceConfig](https:/
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you are not familiar with Windows Installer technology, we strongly recommend you to have a look at the corresponding MSI tables:[ServiceInstall](https://learn.microsoft.com/en-us/windows/win32/msi/serviceinstall-table), [ServiceControl](https://learn.microsoft.com/en-us/windows/win32/msi/servicecontrol-table), and [MSIServiceConfig](https://learn.microsoft.com/en-us/windows/win32/msi/msiserviceconfig-table).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Add a Windows Service to Your MSI?
 
 Now that we know the main elements, we will go through how to add a Windows Service to your MSI. We will also configure the Windows Service created and set it to “Automatic (Delayed Start)”.
@@ -58,10 +65,10 @@ Now that we know the main elements, we will go through how to add a Windows Serv
 This way, you can ensure that the critical Windows Services get all the resources they need at the boot time, whilst the non-critical ones start a little bit later.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Defining the ServiceInstall element
@@ -130,6 +137,13 @@ The **ServiceConfig** element comes with the following attributes:
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)**ServiceConfig** is only available starting with Windows Installer 5.0.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The complete listing for the WiX source file is as follows:
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -186,35 +200,28 @@ Copy
 ![Building msi package](https://cdn.advancedinstaller.com/img/wix-child-images/building-msi-package.png "Building MSI Package")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And that’s it. Your MSI package is now built.
 
 ![Msi application](https://cdn.advancedinstaller.com/img/wix-child-images/msi-application.png "MSI App")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you install the newly created MSI package, your Windows Service should appear in the Service Control Manager and have the following details.
 
 ![Windows service details](https://cdn.advancedinstaller.com/img/wix-child-images/windows-service-details.png "Windows Services Details")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As shown in the image above, I was able to set my WindowsServiceSample service to “Automatic (Delayed Start) “using the ServiceConfig element in WiX.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows Services in Advanced Installer
 
@@ -254,13 +261,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -284,15 +284,21 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-perfecting-channel-art-a-step-by-step-instructional-manual/"><u>[New] Perfecting Channel Art A Step-by-Step Instructional Manual</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-cheat-sheet-for-first-time-final-cut-users/"><u>[New] The Essential Cheat Sheet for First Time Final Cut Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-craft-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast/"><u>[Updated] In 2024, Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-plunge-into-a-live-stream-on-tiktok-with-ease-for-2024/"><u>[Updated] Plunge Into a Live Stream on TikTok with Ease for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>[Updated] The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>2024 Approved Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-p55t-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel P55T Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-note-50-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Note 50 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/virtual-worlds-meet-reality-top-10-vr-devices/"><u>Virtual Worlds Meet Reality Top 10 VR Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>[Updated] 2024 Approved Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-pixel-perfection-your-guide-to-youtube-twitters-and-hd/"><u>[Updated] Pixel Perfection Your Guide to YouTube, Twitters, and HD</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-hidden-truths-about-youtube-earnings/"><u>[Updated] The Hidden Truths About YouTube Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/a-walk-down-memory-lane-rediscovering-our-love-for-dial-up-connections-and-their-quirks/"><u>A Walk Down Memory Lane: Rediscovering Our Love for Dial-Up Connections and Their Quirks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-evolution-in-management-tools-how-windows-11-transforms-the-classic-task-manager/"><u>Discovering Evolution in Management Tools: How Windows 11 Transforms the Classic Task Manager</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-pcs-creativity-with-advanced-ai-powered-image-generation/"><u>Enhance Your PC's Creativity with Advanced AI-Powered Image Generation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/essential-bios-settings-what-changes-make-a-difference-on-your-pc/"><u>Essential BIOS Settings: What Changes Make a Difference on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-risks-understanding-windows-11-government-version-and-its-potential-pitfalls/"><u>Exploring the Risks: Understanding Windows 11 Government Version and Its Potential Pitfalls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-fix-handbrake-malfunctions-in-windows-10-or-11-effective-tips-and-alternatives/"><u>How to Fix Handbrake Malfunctions in Windows 10 or 11: Effective Tips & Alternatives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-speed-up-launch-time-for-star-wars-battlefront-2-on-desktop-systems/"><u>How to Speed Up Launch Time for Star Wars Battlefront 2 on Desktop Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-8-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 8 With or Without Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-spark-10-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Spark 10 5G FRP Bypass</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-domain-services-printer-error-on-microsofts-newest-os/"><u>Tackling Domain Services Printer Error on Microsoft's Newest OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-quicktime-the-complete-guide-to-apples-media-player/"><u>Understanding QuickTime: The Complete Guide to Apple's Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unintended-hp-printer-software-updates-how-theyre-auto-installing-on-windows-computers/"><u>Unintended HP Printer Software Updates: How They're Auto-Installing on Windows Computers</u></a></li>
 </ul></div>
 

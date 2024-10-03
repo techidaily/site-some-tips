@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Data Management: Master the Art of Utilizing Google Sheets' Inbuilt Table Features for Effortless Workflows | ZDNET"
-date: 2024-09-18 12:37:58
-updated: 2024-09-20 11:50:22
+date: 2024-09-29T17:52:35.022Z
+updated: 2024-10-03T16:42:29.745Z
 tags:
   - work-life
 categories:
@@ -27,9 +27,29 @@ Pre-built tables are easy to use -- here's how to get started.
 
 **What you'll need:** The only things you'll need for this are a valid Google account and a web browser. One thing to keep in mind: the pre-built tables feature cannot be used on the mobile version of Google Sheets, so the only way to access it is via a desktop web browser. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Create a new spreadsheet
 
 To start, log into either Google Drive or Google Docs and create a new spreadsheet. The pre-built tables feature only appears in new spreadsheets, so if you open a previously existing document, you won't see the pre-built tables sidebar.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Find the type of pre-built table you want
 
@@ -43,6 +63,13 @@ There are several pre-built tables to choose from.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Insert the desired table
 
 Once you've found the type of table you want to use, hover your cursor over the entry again and click Insert. If the table you've added doesn't work, you can go back to the sidebar and select a different pre-built table to replace it. 
@@ -54,6 +81,13 @@ If you've already closed the sidebar, you can re-open it by clicking the Insert 
 You'll see both the Insert button on a cursor hover and a demonstration of how the table will look.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Customize the table
 
@@ -86,11 +120,31 @@ That's all there is to using the Google Sheets pre-built tables feature. This ha
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/he-beat-drops-highlighting-this-years-best-music-vids-for-2024/"><u>[New] The Beat Drops Highlighting This Year's Best Music Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>[New] Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-obtain-free-licensed-tunes-for-your-games/"><u>[Updated] How to Obtain Free, Licensed Tunes for Your Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>[Updated] In 2024, Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-solution-for-twitter-videos-not-playing-in-chrome-for-2024/"><u>[Updated] Solution for Twitter Videos Not Playing in Chrome for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-editing-workflow-with-final-cut-pro-tips/"><u>[Updated] Streamlining Your Editing Workflow with Final Cut Pro Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[Updated] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>2024 Approved Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-media-player-through-subtitles/"><u>2024 Approved Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/av1-vs-h265hevc-codecs-showdown-the-future-of-ultra-high-definition-video-compression/"><u>AV1 vs H.265/HEVC Codecs Showdown: The Future of Ultra-High Definition Video Compression</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-redmi-a2-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Redmi A2 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-11-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 11 Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secret-pathway-to-premium-pristine-pictures/"><u>In 2024, The Secret Pathway to Premium, Pristine Pictures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch/"><u>In 2024, Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-media-captions-the-creme-de-la-creme-of-top-online-editors-for-2024/"><u>Transforming Media Captions The Crème De La Créme of Top Online Editors for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/two-simple-methods-for-adding-text-overlays-to-your-youtube-videos/"><u>Two Simple Methods for Adding Text Overlays to Your YouTube Videos</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/winx-dvd-ripper-platinum-rapidly-convert-your-dvds-to-high-quality-mp4-in-just-5-minutes/"><u>WinX DVD Ripper Platinum - Rapidly Convert Your DVDs to High-Quality MP4 in Just 5 Minutes</u></a></li>
+</ul></div>
+

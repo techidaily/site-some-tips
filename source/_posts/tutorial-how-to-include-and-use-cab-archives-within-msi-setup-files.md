@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: How to Include and Use .CAB Archives Within MSI Setup Files"
-date: 2024-09-21T04:21:25.846Z
-updated: 2024-09-28T10:02:46.640Z
+date: 2024-09-26T16:00:05.321Z
+updated: 2024-10-03T19:30:59.766Z
 tags:
   - versus
 categories:
@@ -39,13 +39,6 @@ Written by [Alex Marin](https://tools.techidaily.com/advancedinstaller/products/
 One of the most asked questions in the industry is related to CAB files and what embedding options these have within the WiX Toolset. 
 
 Let's see how CAB embedding works within WiX Toolset, what differences are there when using different versions and how you can use Advanced Installer to manage your CAB files in your MSI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How CAB Embedding Works In WiX Toolset
 
@@ -117,6 +110,13 @@ If you change it and run the **make\_msi.bat** again, a CAB archive named “cab
 
 ![Create cab file](https://cdn.advancedinstaller.com/img/wix-child-images/create-cab-file.png "Creating CAB file")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Are The Differences When Embedding CAB Files In Different WiX Versions?
 
 Before WiX version 3.8, the MediaTemplate element did not exist and CAB files had to be declared independently:
@@ -139,10 +139,10 @@ Copy
 Keep in mind that if you are using a WiX version higher than 3.8, you can't use MediaTemplate and Media elements at the same time. Either you declare a template which will be used across all the CAB files (as seen in the first example), or you declare each CAB manually and define if it’s embedded or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Advanced Installer's GUI to Manage CAB Files Within Your MSIs
@@ -152,10 +152,10 @@ Keep in mind that if you are using a WiX version higher than 3.8, you can't use 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you want to see a comparison between WiX and Advanced Installer, check our article titled [Bundles-WiX vs. Advanced Installer](https://tools.techidaily.com/advancedinstaller/products/), where we discuss the basics of WiX - such as where to get it, how to install it, and how to create a bundle of two MSI applications with it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 I hope you found this information helpful and easy to implement.
@@ -191,10 +191,16 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -220,20 +226,16 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-symbolizing-success-crafting-effective-podcast-logos/"><u>[New] Symbolizing Success Crafting Effective Podcast Logos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/buzzing-the-net-with-humor-your-comprehensive-guide-to-9gag/"><u>Buzzing the Net with Humor Your Comprehensive Guide to 9GAG</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-jackery-powerbar-portable-charger-with-integrated-ac-output/"><u>Expert Analysis: Jackery PowerBar Portable Charger with Integrated AC Output</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-htc-u23-pro-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted HTC U23 Pro Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-nokia-g310-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nokia G310 Without Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Pro Phone with Broken Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-method-for-timestamping-your-youtube-videos/"><u>In 2024, The Expert's Method for Timestamping Your YouTube Videos</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-g24-power-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from G24 Power</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight-for-2024/"><u>Unlocking Potential The Right Propeller Match in FPV Flight for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-gt-5-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of GT 5?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-fire-methods-to-record-and-save-your-virtual-gatherings-windows-and-mac/"><u>[Updated] 2024 Approved Quick-Fire Methods to Record and Save Your Virtual Gatherings (Windows & Mac)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-plan-ahead-masterful-fb-timelines-using-free-resources/"><u>[Updated] Plan Ahead Masterful Fb Timelines Using Free Resources</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-pro-gopro-filming-and-live-sharing-best-practices-for-facebookperiscope-for-2024/"><u>[Updated] Pro Gopro Filming and Live Sharing Best Practices for Facebook/Periscope for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-the-ultimate-analytics-powerhouse/"><u>Cookiebot-Enhanced: The Ultimate Analytics Powerhouse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customer-triumph-stories-effective-ai-adaptation-and-management-techniques/"><u>Customer Triumph Stories: Effective AI Adaptation and Management Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/diving-deep-into-tech-jargon-understanding-ocr-and-idps-key-differences/"><u>Diving Deep Into Tech Jargon: Understanding OCR and IDP's Key Differences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-site-personalization-with-advanced-cookiebot-technology/"><u>Enhance Site Personalization with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-marketing-strategy-using-cookiebot-solutions/"><u>Enhance Your Marketing Strategy Using Cookiebot Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-storytelling-enhanced-by-ais-intelligence/"><u>The Art of Storytelling Enhanced by AI's Intelligence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-methods-for-seamlessly-moving-images-from-your-iphone-onto-a-mac/"><u>Top 10 Methods for Seamlessly Moving Images From Your iPhone Onto a Mac</u></a></li>
 </ul></div>
 

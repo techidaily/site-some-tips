@@ -1,7 +1,7 @@
 ---
 title: Effortless Deletion of Files in Uninstall Processes via the WiX Toolset Methodology
-date: 2024-09-21T13:41:37.414Z
-updated: 2024-09-28T03:32:04.176Z
+date: 2024-09-27T18:39:30.318Z
+updated: 2024-10-03T19:46:06.913Z
 tags:
   - versus
 categories:
@@ -60,13 +60,6 @@ Alternatively, you can replace both the name and the extension of the file, in t
 
 The **RemoveFile** element removes a file if the parent component is selected for removal.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to remove files on uninstall using Advanced Installer?
 
 Here is how you can remove the files created after the installation with Advanced Installer.
@@ -76,31 +69,19 @@ Here is how you can remove the files created after the installation with Advance
 ![Add New File Removal](https://cdn.advancedinstaller.com/img/wix-child-images/add-new-file-removal.png "Add New File Removal")  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To use the [**File Operations**](https://tools.techidaily.com/advancedinstaller/products/) feature in Advanced Installer, you need to have a Professional license or higher. Start with our [30-day full feature trial](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. In the New File Removal Dialog, fill in the **Name** field with the name of the file you want to be deleted. 
@@ -114,6 +95,13 @@ Here is how you can remove the files created after the installation with Advance
 ![Remove All Condition](https://cdn.advancedinstaller.com/img/wix-child-images/remove-all-condition.png "Remove All Condition")  
 
 That’s it!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -152,10 +140,10 @@ You might find useful:
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Get the most from packaging with Advanced Installer
@@ -181,16 +169,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-elegant-aesthetics-mastering-youtubes-beauty-landscape/"><u>[New] In 2024, Elegant Aesthetics Mastering YouTube's Beauty Landscape</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-premier-no-8-digital-composers-kit/"><u>[New] Premier No. 8 Digital Composer's Kit</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-effortless-setup-of-streamlabs-for-mac-users-via-obs/"><u>[Updated] 2024 Approved Effortless Setup of Streamlabs for Mac Users via OBS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[Updated] Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-key-to-generating-an-exclusive-tag-on-tiktok/"><u>2024 Approved Key to Generating an Exclusive Tag on TikTok</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>2024 Approved The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/free-converter-change-mpg-format-to-m4v-without-hitches/"><u>Free Converter: Change MPG Format to M4V Without Hitches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-send-recorded-phone-calls-on-apple-devices-effortlessly/"><u>How to Send Recorded Phone Calls on Apple Devices Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-high-quality-photography-lenses/"><u>In 2024, Top 10 High-Quality Photography Lenses</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-web-based-subtitle-editor-tools/"><u>Top 10 Web-Based Subtitle Editor Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-auditory-artistry-access-to-excellent-dj-video-samples/"><u>[New] Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-the-premier-webcam-lineup-for-next-gen-windows-pcs/"><u>[New] In 2024, The Premier Webcam Lineup for Next-Gen Windows PCs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-your-ultimate-yt-shorts-companion/"><u>[Updated] 2024 Approved Your Ultimate YT Shorts Companion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-easy-and-speed-share-youtube-playlists-now-for-2024/"><u>[Updated] Easy & Speed Share YouTube Playlists Now for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-uncovering-the-ultimate-screen-recorder-compare-and-choose-obsfraps/"><u>[Updated] Uncovering the Ultimate Screen Recorder Compare and Choose (OBS/Fraps)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/achieve-superior-outcomes-mastering-dall-e-2-in-5-steps/"><u>Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-linux-skills-with-tips-from-chatgpt-a-personal-experience/"><u>Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-cutting-edge-results-with-our-latest-ai-enhanced-google-search/"><u>Discover Cutting-Edge Results with Our Latest AI-Enhanced Google Search</u></a></li>
+<li><a href="https://some-tips.techidaily.com/electric-vehicle-charging-issues-unraveling-the-top-8-causes-of-connection-failures/"><u>Electric Vehicle Charging Issues: Unraveling the Top 8 Causes of Connection Failures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/electrifying-news-volkswagen-adopts-tesla-compatible-charging-stations-for-future-models/"><u>Electrifying News: Volkswagen Adopts Tesla-Compatible Charging Stations for Future Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embracing-the-reality-electric-vehicle-ranges-may-remain-stable-for-now/"><u>Embracing the Reality: Electric Vehicle Ranges May Remain Stable for Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-tiktok-profiles-with-linktree-features/"><u>Enhancing TikTok Profiles with Linktree Features</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-download-filmora-13-video-editing-made-easy/"><u>In 2024, Free Download Filmora 13 Video Editing Made Easy</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-innovation-unveiled-ai-companion-for-windows-11-enhanced-productivity/"><u>Microsoft's Innovation Unveiled: AI Companion for Windows 11 Enhanced Productivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-restoring-audio-on-your-toshiba-laptop/"><u>Top Solutions for Restoring Audio on Your Toshiba Laptop</u></a></li>
 </ul></div>
 

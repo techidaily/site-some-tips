@@ -1,7 +1,7 @@
 ---
 title: Implementing Updates in Installed Software via Windows Installer XML (WiX)
-date: 2024-09-23T23:13:23.736Z
-updated: 2024-09-28T10:55:57.193Z
+date: 2024-10-01T20:08:58.983Z
+updated: 2024-10-03T16:07:53.578Z
 tags:
   - versus
 categories:
@@ -41,10 +41,10 @@ The process of developing software should always include a solid mechanism for a
 In this article, we will see how we can use WiX to create an installation package that will install a new version of an MSI application after removing the previous one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Create a Windows Forms Application in Visual Studio
@@ -55,19 +55,33 @@ For this tutorial, we'll use Visual Studio to create a simple Windows Forms appl
 
 ![Visual Studio to create a simple Windows Forms](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/visual-studio-to-create-a-simple-windows-forms.png "Visual Studio to create a simple Windows Forms")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. From the templates list, select _Windows Forms App_.
 
 ![select Windows Forms App](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/select-windows-forms-app.png "select Windows Forms App")  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Configure your project in the configuration dialog and then press the _Create_ button.
 
 ![Configure your project in the configuration dialog](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/configure-your-project-in-the-configuration-dialog.png "Configure your project in the configuration dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Add the Setup Project for WiX in Visual Studio
@@ -76,25 +90,11 @@ Now, let’s create the installer package for our application. We need to add a 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Make sure you have the WiX extension added to Visual Studio. You’ll also need the Wax extension which provides a setup editor to help you create, verify and maintain the list of deployed files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Follow the next steps to add the setup project:
 
 1\. Right-click on the Project Solution → Add → New project.
 
 ![Add the Setup Project for WiX in Visual Studio](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/add-the-setup-project-for-wix-in-visual-studio.png "Add the Setup Project for WiX in Visual Studio")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. From Templates, select _Setup Project for WiX_.
 
@@ -107,6 +107,13 @@ Follow the next steps to add the setup project:
 Once the setup project is added, you should see it in the Solution Explorer.
 
 ![Solution Explorer](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/solution-explorer.png "Solution Explorer")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to add the project output using the WiX Setup Editor
 
@@ -171,13 +178,6 @@ Copy
 
 Once you complete the steps above, you can build and run the MSI. The previous version of your application will be uninstalled, and the new one will be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 WiX allows you to upgrade an application's installed version by modifying the XML-based definition file. Alternatively, you can use Advanced Installer's GUI, which enables you to upgrade your application instantly.
@@ -235,18 +235,22 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mastering-youtube-screens-final-touches/"><u>[New] In 2024, Mastering YouTube Screens' Final Touches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>[New] Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-quintessential-collection-of-anime-intros/"><u>[New] The Quintessential Collection of Anime Intros</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-typical-podcasters-income/"><u>[New] Unveiling the Typical Podcaster's Income</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-shooting-top-10-high-definition-dslr-stands/"><u>[Updated] In 2024, Ultimate Shooting Top 10 High-Definition DSLR Stands</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guidebook-to-making-wealth-on-instagram-for-2024/"><u>[Updated] The Ultimate Guidebook to Making Wealth on Instagram for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-simplified-journey-for-metaverse-personas/"><u>2024 Approved The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/bring-life-and-movement-to-stills-with-illustrator-techniques/"><u>Bring Life & Movement to Stills with Illustrator Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-mystery-fixing-windows-troubling-code-31-problems-with-ease/"><u>Decoding the Mystery: Fixing Windows' Troubling Code 31 Problems with Ease</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-hands-on-gear-in-the-vr-world/"><u>In 2024, Unparalleled Hands-On Gear in the VR World</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-11-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus 11 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/smart-image-management-on-ios-devices/"><u>Smart Image Management on iOS Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweetvid-to-mp4-quick-conversion-tool/"><u>[New] 2024 Approved TweetVid to MP4 - Quick Conversion Tool</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-top-10-lifters-drones-that-move-mountains/"><u>[New] The Top 10 Lifters Drones That Move Mountains</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-experiencing-authentic-google-chrome-on-an-iphone-a-hands-on-review/"><u>1. Experiencing Authentic Google Chrome on an iPhone: A Hands-On Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-convertir-archivos-ts-en-mp4-sin-perder-calidad-una-guia-paso-a-paso/"><u>Cómo Convertir Archivos TS en MP4 Sin Perder Calidad: Una Guía Paso a Paso</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-electronic-exchange-5-secure-pathways-to-your-pc/"><u>Effortless Electronic Exchange 5 Secure Pathways to Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-transform-your-gifs-into-mkv-videos-with-ease/"><u>Free Online Tool: Transform Your GIFs Into MKV Videos with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-converseren-van-m4v-naar-flv-met-movavi/"><u>Gratuit Online - Converseren Van M4V Naar FLV Met Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mpg-mp4-online-movavi/"><u>MPG MP4 영상을 무료 음성화 - Online 기술과 Movavi 사용자가 필요한 곳</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-technology-trends-at-toms-computer-resource/"><u>Navigating Technology Trends at Tom's Computer Resource</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-gaming-experience-how-to-install-latest-drivers-for-geforce-gtx-1660-super-gpus/"><u>Optimize Your Gaming Experience: How to Install Latest Drivers for GeForce GTX 1660 Super GPUs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-video-recording-on-iphone-meets-instant-photos/"><u>Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-on-the-go-browsing-the-new-feature-of-personalized-shortcuts-in-vivaldi-mobile-browser/"><u>Revolutionizing On-the-Go Browsing: The New Feature of Personalized Shortcuts in Vivaldi Mobile Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speedy-android-video-slicing-using-movavi-clips-a-comprehensive-tutorial/"><u>Speedy Android Video Slicing Using Movavi Clips: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-disney-disc-extraction-the-best-dvd-ripper-tools-online/"><u>Speedy Disney Disc Extraction: The Best DVD Ripper Tools Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/urgent-update-required-secure-your-system-from-google-chromes-latest-exploit/"><u>Urgent Update Required: Secure Your System From Google Chrome's Latest Exploit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wireguard-integration-available-in-proton-vpns-new-release-improved-privacy-and-speed-for-linux-users/"><u>WireGuard Integration Available in Proton VPN's New Release – Improved Privacy and Speed for Linux Users</u></a></li>
 </ul></div>
 

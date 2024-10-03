@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Strategies for Persuading Colleagues: Boosting Acceptance of Your Concepts in the Office - Insights From ZDNet"
-date: 2024-09-17 17:53:38
-updated: 2024-09-20 12:45:52
+date: 2024-09-29T20:04:33.826Z
+updated: 2024-10-03T19:41:54.717Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Draw on your fresh perspective
 
 Andy Moore, chief data officer at Bentley Motors, says professionals must have a clear message -- and their senior managers should be receptive, too.
@@ -64,6 +71,13 @@ Moore says smart companies have recognized that great ideas can bubble up from a
 "I think the culture change we have seen is that, rather than a senior executive having the only opinion that counts, the more modern leadership style is about being open to different viewpoints," he says.
 
 "When we talk about inclusion in the workplace and feeling like you belong, a key element is being open to ideas from anywhere in the business. A different perspective is so important."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Listen to what the business wants
 
@@ -87,6 +101,13 @@ Walker says the key to turning a nice idea into a working solution is listening 
 
 "The functionalities behind it, we have to administer, but it has to be working and useful for the business itself."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Be prepared to reframe your question
 
 Bev White, CEO at recruitment specialist Nash Squared, says getting people to listen to your opinion is about taking the higher ground.
@@ -102,6 +123,13 @@ White says reframing your question in that way makes people curious.
 "At that point, it's a bit like loosening a table. A table is quite rigid often, isn't it? But if you can get it moving a bit more, you'll get people to step away from their corner and start seeing things another way," she says to ZDNET in a video interview.
 
 "And you're not threatening them, and you're not challenging them. But what you're doing is saying, 'Let's encourage each other. Let's understand that there's another side to this debate and another way of being collaborative.'"
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Work for someone who'll listen
 
@@ -142,11 +170,28 @@ Diehl says working for a company where you know your opinions are going to be li
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-strategic-setup-youtube-gaming-banners-made-easy/"><u>[New] 2024 Approved Strategic Setup YouTube Gaming Banners Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[New] Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-turning-youtube-shorts-into-a-money-machine-essentials-and-earnings-prospects/"><u>[New] Turning YouTube Shorts Into a Money Machine Essentials and Earnings Prospects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-boosting-earnings-in-cosmetic-videography/"><u>[Updated] 2024 Approved Boosting Earnings in Cosmetic Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-funimate-guidebook/"><u>[Updated] The Essential Funimate Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>[Updated] Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advantages-of-using-chatgpt-desktop-application-over-its-web-counterpart/"><u>Advantages of Using ChatGPT Desktop Application Over Its Web Counterpart</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-versus-intel-the-ultimate-showdown-of-central-processing-units/"><u>AMD versus Intel: The Ultimate Showdown of Central Processing Units</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-flawless-inshot-edit-transitions/"><u>In 2024, The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimized-with-advanced-data-tracking-cookiebot-integration/"><u>Optimized with Advanced Data Tracking: Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs-for-2024/"><u>Streamlining Color Grading Incorenasive Guide to LUT Integration in OBS for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-choosing-the-right-virtual-disk-emulator-for-isos-and-images-on-pc/"><u>Ultimate Guide: Choosing the Right Virtual Disk Emulator for ISOs and Images on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/vinyl-resurgence-why-the-demise-of-record-albums-is-on-hold/"><u>Vinyl Resurgence: Why the Demise of Record Albums Is on Hold</u></a></li>
+</ul></div>
+

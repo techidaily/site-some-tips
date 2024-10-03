@@ -1,7 +1,7 @@
 ---
 title: "Wix Made Simple: The Ultimate Tips for Perfecting Your Installation Path"
-date: 2024-09-24T03:45:37.040Z
-updated: 2024-09-28T09:00:46.667Z
+date: 2024-10-01T16:37:11.983Z
+updated: 2024-10-03T16:13:33.937Z
 tags:
   - versus
 categories:
@@ -52,13 +52,6 @@ First, we have to add the directory definition for the setup project. This direc
 
 ![define the directory structure](https://cdn.advancedinstaller.com/img/set-install-folder-wix/define-the-directory-structure.png "define the directory structure")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You have to use the Directory element to define the directories and describe the hierarchy of folders on the target machine. We used the following elements in our example:
 
 * **TARGETDIR** \- which is the root of all directory structures and it is present in every Wix project.
@@ -84,10 +77,10 @@ This set has a dialogue, namely _**InstallDirDlg**_, that allows users to choose
 ![Wix Toolset folder Bin folder](https://cdn.advancedinstaller.com/img/set-install-folder-wix/wix-toolset-folder-bin-folder.png "Wix Toolset folder Bin folder")  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3\. Select **WixUIExtension.dll** → click Add → click OK.
@@ -119,10 +112,17 @@ When you run the MSI, a series of dialogs will appear, including the **InstallDi
 ![InstallDirDlg](https://cdn.advancedinstaller.com/img/set-install-folder-wix/installdirdlg.png "InstallDirDlg")  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to set the install folder in Advanced Installer?
@@ -133,27 +133,27 @@ However, if you need to make any modifications, Advanced Installer offers a user
 
 ![set the install folder in Advanced Installer](https://cdn.advancedinstaller.com/img/set-install-folder-wix/set-the-install-folder-in-advanced-installer.png "set the install folder in Advanced Installer")  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The **Application folder** is usually the main installation folder. You can add the files and folders under this folder. 
 
 ![Advanced Installer Application folder](https://cdn.advancedinstaller.com/img/set-install-folder-wix/advanced-installer-application-folder.png "Advanced Installer Application folder")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you wish to allow users to customize the installation path, no additional configuration is necessary. By default, the installer includes the **FolderDlg** dialogue, which presents the current path of the Application Folder and enables users to modify it during the installation process.
 
 ![FolderDlg](https://cdn.advancedinstaller.com/img/set-install-folder-wix/folderdlg.png "FolderDlg")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -214,16 +214,24 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-best-in-class-ps3-virtual-games-for-pc/"><u>[New] Best-in-Class PS3 Virtual Games for PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-sites-for-fetching-got-ringtone-downloads/"><u>[New] Top Sites for Fetching GoT Ringtone Downloads</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-a-thorough-insight-into-obs-recording-technology/"><u>[Updated] A Thorough Insight Into OBS Recording Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[Updated] Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>2024 Approved Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-professionals-guide-to-innovative-360-cams-2023/"><u>2024 Approved The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/decode-and-maximize-your-impact-on-instagram-with-these-insights/"><u>Decode & Maximize Your Impact on Instagram with These Insights</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>In 2024, Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mastering-mov-video-sharing-on-instagram-tips-and-tricks-for-perfect-posts-without-hitches/"><u>Mastering MOV Video Sharing on Instagram: Tips & Tricks for Perfect Posts Without Hitches!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/winxwinxai/"><u>WinX影片导出器和WinX视频AI软件的电商支持点拓展 - 立即获取专业解决方案</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-bursting-laughter-crafting-engaging-reaction-videos-on-youtube-3-methods-for-2024/"><u>[New] Bursting Laughter Crafting Engaging Reaction Videos on YouTube (3 Methods) for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-visual-appeal-in-facebook-slideshows/"><u>[New] Leveraging Visual Appeal in Facebook Slideshows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-8-premier-resources-download-free-high-quality-green-screen-footage/"><u>[Updated] 2024 Approved 8 Premier Resources Download Free, High-Quality Green Screen Footage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dive-into-the-most-effective-online-tools-your-guide-to-perfect-captions/"><u>[Updated] 2024 Approved Dive Into the Most Effective Online Tools Your Guide to Perfect Captions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-videography-the-leading-screen-recorder-apps/"><u>2024 Approved Essential Videography The Leading Screen Recorder Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-greatest-kid-friendly-flying-toys-summary/"><u>2024 Approved Greatest Kid-Friendly Flying Toys Summary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-configuring-your-pc-with-windows-11-no-microsoft-account-required/"><u>Guide: Configuring Your PC with Windows 11 - No Microsoft Account Required</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-microsofts-directx-raytracing-dxr-innovation-propels-next-gen-pc-gaming-performance/"><u>How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-spots-for-classic-ringtone-downloads/"><u>In 2024, Top Spots for Classic Ringtone Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-sharex-critical-thoughts-and-alternatives-for-2024/"><u>Navigating ShareX Critical Thoughts & Alternatives for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-procedure-updating-drivers-on-a-sata-ahci-controller-device/"><u>Quick & Easy Procedure: Updating Drivers on a SATA AHCI Controller Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-your-preferred-mic-and-cam-in-windows-11-step-by-step-guide/"><u>Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/significant-upgrade-unveiled-icloud-now-fully-functional-with-windows-os/"><u>Significant Upgrade Unveiled: ICloud Now Fully Functional with Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swiftly-delete-autoplayed-podcast-suggestions-on-spotify-for-2024/"><u>Swiftly Delete Autoplayed Podcast Suggestions on Spotify for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
 </ul></div>
 

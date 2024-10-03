@@ -1,7 +1,7 @@
 ---
 title: "Updating Applications with MSIs: A Step-by-Step Guide Using WiX Toolset"
-date: 2024-09-21T14:38:08.622Z
-updated: 2024-09-27T19:26:06.045Z
+date: 2024-09-27T18:19:19.973Z
+updated: 2024-10-03T17:31:58.684Z
 tags:
   - versus
 categories:
@@ -40,13 +40,6 @@ The process of developing software should always include a solid mechanism for a
 
 In this article, we will see how we can use WiX to create an installation package that will install a new version of an MSI application after removing the previous one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Create a Windows Forms Application in Visual Studio
 
 For this tutorial, we'll use Visual Studio to create a simple Windows Forms application that will be installed and then updated. To create the application, follow the next steps:
@@ -59,16 +52,16 @@ For this tutorial, we'll use Visual Studio to create a simple Windows Forms appl
 
 ![select Windows Forms App](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/select-windows-forms-app.png "select Windows Forms App")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Configure your project in the configuration dialog and then press the _Create_ button.
 
 ![Configure your project in the configuration dialog](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/configure-your-project-in-the-configuration-dialog.png "Configure your project in the configuration dialog")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add the Setup Project for WiX in Visual Studio
 
@@ -91,15 +84,22 @@ Follow the next steps to add the setup project:
 ![Configure the project](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/configure-the-project.png "Configure the project")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once the setup project is added, you should see it in the Solution Explorer.
 
 ![Solution Explorer](https://cdn.advancedinstaller.com/img/update-application-using-wix-installer/solution-explorer.png "Solution Explorer")  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to add the project output using the WiX Setup Editor
 
@@ -108,6 +108,13 @@ Next, we’ll use the WiX Setup Editor to add the deployable files to our setup 
 1. Select the _Setup Project_ added to your application.
 2. In the _Root_ directory, select _INSTALLFOLDER_.
 3. Then, in the _Projects_ to install section, select the application you’re creating the installer for.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to set the WiX Installer Version of Your Application
 
@@ -125,6 +132,13 @@ Edit the **Product.wxs** file in the setup project and set the product version t
 Copy
 
 Now you can build the project and install your application by running the MSI file. You can find it in the setup project → bin → Debug. When the application is installed, you should find it in the programs list in **version 1.0.1**.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to update the application
 
@@ -164,13 +178,6 @@ Copy
 
 Once you complete the steps above, you can build and run the MSI. The previous version of your application will be uninstalled, and the new one will be installed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 WiX allows you to upgrade an application's installed version by modifying the XML-based definition file. Alternatively, you can use Advanced Installer's GUI, which enables you to upgrade your application instantly.
@@ -205,13 +212,6 @@ You might find useful:
 * [How to create an MSI installer with WiX](https://tools.techidaily.com/advancedinstaller/products/)
 * [How to use WIX MSI to do a silent install or uninstall of a web app](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get the most from packaging with Advanced Installer
 
 Try the 30-day fully-featured edition absolutely free!
@@ -235,22 +235,18 @@ No credit card required
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-building-successful-youtube-collaborations-step-by-step-for-2024/"><u>[New] Building Successful YouTube Collaborations Step by Step for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-simplest-way-win-clownfish-vocal-alteration-tool-for-2024/"><u>[New] Simplest Way Win Clownfish Vocal Alteration Tool for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-soundscapes-spectrum-music-finder-service/"><u>[New] Soundscapes Spectrum Music Finder Service</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>[New] Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-highlighting-the-best-practices-in-screen-recording-facetime-calls-for-2024/"><u>[Updated] Highlighting the Best Practices in Screen Recording FaceTime Calls for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unable-to-see-video-sony-a6400-troubleshoot-guide/"><u>[Updated] Unable To See Video Sony A6400 Troubleshoot Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-potential-windows-10s-new-upgrades/"><u>[Updated] Unleashing Potential Windows 10'S New Upgrades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-becoming-an-exceptional-interviewer/"><u>[Updated] Unlocking The Secrets To Becoming An Exceptional Interviewer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/delve-into-deliberate-speed-creating-slow-motion-videos-from-photos-online/"><u>Delve Into Deliberate Speed Creating Slow Motion Videos From Photos Online</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-c53-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme C53 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Pova 5 Pro Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-elevate-your-gaming-experience-with-voice-customization-in-free-fire/"><u>In 2024, The Ultimate Guide Elevate Your Gaming Experience with Voice Customization in Free Fire</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-turning-clutter-into-clarity-managing-massive-tiktok-drafters/"><u>In 2024, Turning Clutter Into Clarity Managing Massive TikTok Drafters</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-canon-multifunctional-printer-drivers-mf743cdw-compatible-with-windows-versions/"><u>Latest Canon Multifunctional Printer Drivers (MF743CDW) Compatible with Windows Versions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-xiaomi-civi-3-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Xiaomi Civi 3 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-luts-in-the-realm-of-photographic-mastery-for-2024/"><u>Understanding LUTs in the Realm of Photographic Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-premium-font-fabrication-tools-for-discord-users/"><u>[New] Premium Font Fabrication Tools for Discord Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[New] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-5-best-snipping-tools-for-pc-for-2024/"><u>[Updated] 5 Best Snipping Tools for Pc for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>2024 Approved The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-8-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 8 Plus</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revitalizing-microsoft-top-5-strategies-to-enhance-windows-experience/"><u>Revitalizing Microsoft: Top 5 Strategies to Enhance Windows Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rotating-your-pictures-with-ease-a-step-by-step-guide-for-windows-11-users/"><u>Rotating Your Pictures with Ease: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/solving-the-problem-unsuccessful-booting-in-windows-systems/"><u>Solving the Problem: Unsuccessful Booting in Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-restoring-headphone-functionality-on-windows-11-systems/"><u>Step-by-Step Guide: Restoring Headphone Functionality on Windows 11 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/"><u>The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/turn-those-funny-gif-animations-into-professional-mp4-footage-with-movavis-simple-conversion-solution/"><u>Turn Those Funny GIF Animations Into Professional MP4 Footage with Movavi's Simple Conversion Solution</u></a></li>
 </ul></div>
 

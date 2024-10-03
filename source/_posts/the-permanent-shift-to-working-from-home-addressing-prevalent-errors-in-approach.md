@@ -1,7 +1,7 @@
 ---
 title: "The Permanent Shift to Working From Home: Addressing Prevalent Errors in Approach"
-date: 2024-09-18 17:26:29
-updated: 2024-09-20 12:51:13
+date: 2024-10-01T20:10:58.782Z
+updated: 2024-10-03T19:00:22.758Z
 tags:
   - work-life
 categories:
@@ -55,6 +55,13 @@ There's still a lot more that tech can do to help: new mediums can help us to cr
 
 We've been testing out virtual reality meetings as part of our [recent metaverse special report](https://www.zdnet.com/article/meet-the-companies-that-will-shape-the-metaverse/). While they're still undeniably clunky and can feel awkward, I was also surprised by how much benefit they could potentially deliver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [How the metaverse will change the future of work and society ZDNET explores the ways that the metaverse is coming to life and how it will change the nature of work -- and maybe everything else, too.  Read now](https://www.zdnet.com/topic/how-the-metaverse-will-change-the-future-of-work-and-society/)
@@ -65,11 +72,32 @@ But it also -- and this was the revelation to me -- adds a level of engagement t
 
 I'm not saying I want to have every meeting in virtual reality from now on: far from it. But we have to see the present state of hybrid and remote working as just the current state of the art, and to keep experimenting, and thinking, about the way we work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET'S MONDAY OPENER** 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **PREVIOUSLY ON ZDNET'S MONDAY OPENER:**
 
@@ -88,11 +116,23 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-infusing-life-into-virtual-scenes-with-spark-ar-and-personalized-lookups/"><u>[New] Infusing Life Into Virtual Scenes with Spark AR and Personalized Lookups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-10-text-effects-to-elevate-your-clips/"><u>[New] The Ultimate List 10 Text Effects to Elevate Your Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-blueprint-of-film-narrative/"><u>[Updated] The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-straightforward-strategies-accessing-appreciated-comments-on-youtube/"><u>2024 Approved Straightforward Strategies Accessing Appreciated Comments on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-11-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 11 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x8b-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X8b Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-places-to-access-westeros-themed-phone-sounds/"><u>In 2024, Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tunes-terms-and-copyrights-on-instagram/"><u>In 2024, Tunes, Terms, and Copyrights on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-witcher-3-wild-hunt-startup-issues/"><u>Troubleshooting Steps to Resolve 'Witcher 3: Wild Hunt' Startup Issues</u></a></li>
+</ul></div>
+

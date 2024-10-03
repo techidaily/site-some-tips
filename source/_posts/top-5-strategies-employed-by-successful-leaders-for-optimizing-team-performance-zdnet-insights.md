@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies Employed by Successful Leaders for Optimizing Team Performance | ZDNet Insights
-date: 2024-09-19 16:50:27
-updated: 2024-09-20 10:25:18
+date: 2024-09-27T19:04:02.082Z
+updated: 2024-10-03T16:01:37.540Z
 tags:
   - work-life
 categories:
@@ -47,6 +47,13 @@ Hibbitt says it's also important to ensure your people enjoy the journey to thei
 
 "Making sure it's fun is really, really important," he says. "Our engineering teams are spread out across Europe. If I think about some of my engineers, making sure that the problems they're focusing on are meaningful to the organization -- but also meaningful to them, and that they're growing within their careers, and that they're working with other high-performing individuals -- is crucial."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Connect with people
 
 Cynthia Stoddard, CIO at Adobe, says you get the best from people by connecting with them, talking with them, hearing their voices, and then acting. 
@@ -62,6 +69,13 @@ Stoddard says these kinds of initiatives take a lot of effort. However, this inv
 Stoddard says ideas will come out of workshops. Good managers then make sure their staff feel their ideas are being heard.
 
 "I will listen to everything. And I think it's important that, when people speak, their voice is heard, they know you listened, and then an action took place," she says. "So, that's what I've tried to do is build that connection all the way to the action taking place. And we make changes based on the ideas of individual contributors, managers, and people around the organization from different regions and areas of the world."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Provide personalized feedback
 
@@ -79,6 +93,13 @@ Think about what works for each individual and try to accommodate that personali
 
 "Whether you're giving feedback twice in one week, or just meeting in one block for an hour, success is all about being flexible."
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Give people space
 
 Bob Michael, head of data at retailer DFS, says you get the best from your people when they know they can trust your word.
@@ -90,6 +111,13 @@ Michael says openness also extends to the things you ask your staff to do. Don't
 **Also:** [**Generative AI is changing your technology career path. What to know**](https://www.zdnet.com/article/generative-ai-is-changing-your-technology-career-path-heres-what-you-need-to-know/)
 
 "I wouldn't ask somebody to do something that I wouldn't necessarily do myself," he says. "The other bit that goes alongside that is trusting what they do. I don't want to micromanage; I'm not interested in micromanaging."
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Cover all your bases
 
@@ -128,11 +156,27 @@ Warne also says any manager who covers those three areas will end up with a very
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-free-to-fortune-the-500-sub-club/"><u>[New] In 2024, From Free to Fortune The 500-Sub Club</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aughters-playground-top-15-youtube-hits-for-fun-for-2024/"><u>[New] Laughter's Playground Top 15 YouTube Hits for Fun for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-10-mac-video-capture-tools/"><u>[Updated] In 2024, Top 10 Mac Video Capture Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-topic-titling-artisans-assistant/"><u>[Updated] Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-100-virtual-bicycle-escapades-to-experience/"><u>2024 Approved Top 100 Virtual Bicycle Escapades to Experience</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-note-12-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi Note 12 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nubia-red-magic-8s-proplus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nubia Red Magic 8S Pro+ Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-a-secure-proxy-with-windows-11/"><u>Setting Up a Secure Proxy with Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-straightforward-guide-to-photo-uploads-on-instagram-for-2024/"><u>The Straightforward Guide to Photo Uploads on Instagram for 2024</u></a></li>
+</ul></div>
+

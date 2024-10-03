@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: The Comprehensive Methodology Behind Our VPN Assessments at ZDNet"
-date: 2024-09-19 20:46:15
-updated: 2024-09-20 11:38:23
+date: 2024-10-01T19:50:51.532Z
+updated: 2024-10-03T16:50:22.762Z
 tags:
   - vpn
 categories:
@@ -91,15 +91,36 @@ While conducting our assessments of VPNS, we consider the following features:
 
 What systems and devices can you run the VPN on? Our recommended vendors must provide easy-to-use and intuitive desktop software and mobile apps. At a minimum, we want to see compatibility with Windows and Mac, and preferably Android and iOS. VPNs that also offer compatibility with routers, smart TVs, Chrome, Firefox, and Linux are preferred. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Geoblocking and streaming
 
 We know that VPNs can be key to accessing local content and services while you're away from home. We test VPNs to see if they perform well in circumventing geographical locks. Furthermore, we try out streaming services, including Amazon Prime, Netflix, Disney+, and more to see if VPNs can access these libraries and do not noticeably slow down your connection or cause lagging while streaming. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Countries and servers
 
 Servers are important aspects of VPNs as they allow users to appear to be in different countries or locations, such as the US, Germany, or Singapore. The more server availability, the better -- especially as this also helps share the load of user traffic, and you can switch between servers if you are connected to one that is too slow for your needs. We consider how many servers are on offer, and we want to see at least 40 to 50 locations, although we keep in mind that servers in some countries -- such as Russia or China -- are very rare considering their ruling authorities' stance on VPN usage. 
 
 ZDNET will also test a VPN's "quick" or "smart" server connection features, which automatically select a server on a user's behalf that will give them the best performance. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Simultaneous connections
 
@@ -109,11 +130,25 @@ It's always best to have the option for simultaneous connections in a VPN to ens
 
 ZDNET considers the number of simultaneous device connections available to subscribers within our evaluations. While some VPN providers only offer one or two, we prefer to see a minimum of six to eight simultaneous connections when you are paying for an ongoing plan.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Kill switches
 
 One of the main features we insist upon when we recommend a VPN is the existence of a kill switch. Sometimes, our internet connectivity can unexpectedly drop, and this will also cause your VPN connection to fail. Your phone or computer is likely to immediately try to automatically reconnect to your internet service, and this will happen independently of any VPN you are running. 
 
 All of a sudden, your data is unprotected, unless a kill switch is active. Kill switches detect when a connection fails and immediately shut down or pause network access, ensuring you are not sending out data or requests without the protection of an encrypted VPN tunnel. That's not to say a kill switch is a perfect solution, but we cannot recommend VPNs that don't provide their users with this feature. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Extras
 
@@ -180,6 +215,19 @@ It's also possible that your VPN is leaking your data and potentially exposing y
 
 If you're [traveling](https://www.zdnet.com/article/best-travel-vpn/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/best-travel-vpn/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%22traveling%22%7D) or using the internet in a public place like a coffee shop, that data encryption is critical, since most public Wi-Fi hotspots are open and unencrypted -- which means anyone on the network can see what you send and may be able to eavesdrop on your activities and steal passwords. 
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's the best free VPN service?
 
 In general, fully free VPN services aren't recommended because they may not be secure. 
@@ -229,11 +277,26 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ideal-steadicams-for-captivating-high-quality-shoots-on-your-dslr-camera/"><u>[New] In 2024, Ideal Steadicams for Captivating, High-Quality Shoots on Your DSLR Camera</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mkv-decoding-best-apps-for-mac-for-2024/"><u>[New] MKV Decoding Best Apps for Mac for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-24-techniques-for-recording-virtual-conferences-on-a-dime-for-2024/"><u>[Updated] 24 Techniques for Recording Virtual Conferences on a Dime for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-apowersoft-screen-recorder-2023-review-for-high-performance-pcs-for-2024/"><u>[Updated] Apowersoft Screen Recorder 2023 Review for High-Performance PCs for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-comparative-content-crusade-analyzing-your-videos-against-others-for-2024/"><u>[Updated] Comparative Content Crusade Analyzing Your Videos Against Others' For 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/connect-with-digital-artistry-kontakt-services/"><u>Connect with Digital Artistry - Kontakt Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-personalization-with-cookiebot-technology/"><u>Enhanced Personalization with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-comprehensive-worldwide-idp-report-by-abbyy-insights-and-findings/"><u>Exploring the Comprehensive Worldwide IDP Report by ABBYY: Insights and Findings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/instantvidwin11-direct-straightforward-capture-tool-for-2024/"><u>InstantVidWin11 Direct, Straightforward Capture Tool for 2024</u></a></li>
+</ul></div>
+
