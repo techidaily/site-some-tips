@@ -1,7 +1,7 @@
 ---
 title: "2024'S Ultimate Selection of Compact Tablets: In-Depth Analysis and Ratings Industry Experts"
-date: 2024-09-26T18:35:32.629Z
-updated: 2024-10-03T16:33:28.579Z
+date: 2024-10-04T19:36:29.919Z
+updated: 2024-10-08T19:57:05.247Z
 tags:
   - apple
 categories:
@@ -26,6 +26,19 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cef5ef060-555c-4bf1-a6c8-86fa93e46d4c%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -41,14 +54,14 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-## Apple iPad Mini 6th Generation
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Apple iPad Mini 6th Generation
 
 ### Best small tablet overall
 
@@ -114,25 +127,19 @@ Cons
 * Some complaints of lag
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Boox Tab Mini C
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
@@ -165,10 +172,10 @@ Cons
 ## Amazon Kindle 11th generation
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best small tablet for reading
@@ -200,13 +207,6 @@ Cons
 * Performance could be better
 
 ## Samsung Galaxy Tab A7 Lite
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best Samsung small tablet
 
@@ -265,6 +265,13 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
@@ -285,22 +292,15 @@ Yes, they can be. Small Android tablets allow you to do everything you would nor
 
 Their lightweight body and compact design make them perfect traveling companions. So, if you're searching for the best Android tablet with great battery life and lightweight design, the minis are an enticing choice. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
@@ -349,22 +349,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-dissecting-screenflows-impact-on-mac-creatives-and-developers-for-2024/"><u>[New] Dissecting ScreenFlow's Impact on Mac Creatives and Developers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-immersive-recording-enhancing-your-gaming-with-windows-11-for-2024/"><u>[New] Immersive Recording Enhancing Your Gaming with Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-free-video-credits-pro-the-best-suggestions-1-6-for-2024/"><u>[Updated] Free Video Credits Pro - The Best Suggestions #1-6 for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-non-profit-gaming-soundtrack-sources/"><u>[Updated] Non-Profit Gaming Soundtrack Sources</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-archivists-guide-reviving-yesteryears-vhs-artistry-in-todays-editing-space/"><u>2024 Approved The Archivist's Guide Reviving Yesteryear’s VHS Artistry in Today's Editing Space</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-tones-where-to-find-classical-callouts/"><u>2024 Approved Top 30 Tones Where to Find Classical Callouts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/accessing-and-managing-your-android-phone-files-on-windows-11-via-cloud-sync/"><u>Accessing and Managing Your Android Phone Files on Windows 11 via Cloud Sync</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721742370638-fraudulent-app-alert-spot-sham-gpt-tools-and-secure-info/"><u>Fraudulent App Alert: Spot Sham GPT Tools & Secure Info!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722972784260-get-your-hands-on-the-latest-qualcomm-atheros-ar3011-bluetooth-v3-driver-now/"><u>Get Your Hands on the Latest Qualcomm Atheros AR3011 Bluetooth V3 Driver Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-photos-mastering-time-lapse-with-samsung-mobile/"><u>In 2024, Transform Your Photos Mastering Time Lapse with Samsung Mobile</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-soundwaves-compreeved-websites-for-skype-audio-for-2024/"><u>The Soundwaves Compreeved Websites for Skype Audio for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-y77t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y77t Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tutorial-turning-on-hdr-for-windows-11-users-for-2024/"><u>Tutorial Turning on HDR for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-live-soundscape-websites-for-2024/"><u>Ultimate Live Soundscape Websites for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-hidden-details-roblox-closeup-secrets-for-2024/"><u>Unlocking Hidden Details Roblox Closeup Secrets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed/"><u>[New] The Most Engaging AR Games for Phones Revealed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-examining-the-strengths-and-weaknesses-in-free2x-tools/"><u>[Updated] Examining the Strengths and Weaknesses in Free2X Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pictolaugh-design-humor-graphics-for-2024/"><u>[Updated] PictoLaugh Design Humor Graphics for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-journey-to-crafting-wow-worthy-collage-art/"><u>[Updated] The Journey to Crafting Wow-Worthy Collage Art</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-thrive-with-1000-new-followers-each-month/"><u>[Updated] Thrive with 1,000 New Followers Each Month</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-resolving-common-windows-11-photo-app-problems/"><u>2024 Approved Resolving Common Windows 11 Photo App Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swiftly-mastering-the-art-of-smoothing-iphone-shots-four-methods/"><u>2024 Approved Swiftly Mastering the Art of Smoothing iPhone Shots (Four Methods)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-superior-real-time-streaming-networks/"><u>2024 Approved The Ultimate List of Superior Real-Time Streaming Networks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/4-methods-to-record-gameplay-on-xbox-one/"><u>4 Methods to Record Gameplay on Xbox One</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comprehensible-guide-to-resetting-faulty-google-nearby-share/"><u>Comprehensible Guide to Resetting Faulty Google Nearby Share</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mobile-mastery-saving-igtv-videos-on-your-device/"><u>In 2024, Mobile Mastery Saving IGTV Videos on Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-christian-live-streaming-services-a-list/"><u>In 2024, Prime Christian Live Streaming Services A List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-effective-content-promotion-on-youtube/"><u>In 2024, Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-screenshots-and-videos-with-premier-stabilizer-gear/"><u>In 2024, Streamline Screenshots & Videos with Premier Stabilizer Gear</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-producing-exceptional-igtv-content-on-mobile-and-dslrs/"><u>The Ultimate Guide Producing Exceptional IGTV Content on Mobile & DSLRs</u></a></li>
+<li><a href="https://games-able.techidaily.com/wireless-ps4-controller-pairing-with-iphone-a-step-by-step-guide-techradar/"><u>Wireless PS4 Controller Pairing with iPhone: A Step-by-Step Guide | TechRadar</u></a></li>
 </ul></div>
 

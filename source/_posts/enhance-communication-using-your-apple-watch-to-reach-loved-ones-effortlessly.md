@@ -1,7 +1,7 @@
 ---
 title: "Enhance Communication: Using Your Apple Watch to Reach Loved Ones Effortlessly"
-date: 2024-10-01T16:01:03.209Z
-updated: 2024-10-03T17:04:42.360Z
+date: 2024-10-02T20:53:20.177Z
+updated: 2024-10-09T01:37:16.387Z
 tags:
   - apple
 categories:
@@ -41,10 +41,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -69,13 +75,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
@@ -93,10 +92,10 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -104,13 +103,6 @@ Screenshot by Lance Whitney/ZDNET
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -120,11 +112,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,22 +168,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-selections-top-10-sports-streaming-apps-soccer-focus/"><u>[New] Innovative Selections Top 10 Sports Streaming Apps, Soccer Focus</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-hd-mastery-in-action-top-5-screen-recorders-reviewed/"><u>[Updated] In 2024, HD Mastery in Action Top 5 Screen Recorders Reviewed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastery-in-maintaining-a-clean-feed-best-twitter-tools/"><u>[Updated] Mastery in Maintaining a Clean Feed Best Twitter Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-essentials-of-av1-coders/"><u>[Updated] Navigating the Essentials of AV1 Coders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/aacmovavi/"><u>「オンラインでアクセシブルなAAC音声ファイルを無料で簡単に変換：Movaviの方法」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726227008786-pgmtiff-movavi/"><u>自由版移動網站：直接將PGM格式改為TIFF - Movavi提供解決方案</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bring-back-lost-chatgpt-histories-with-these-simple-steps/"><u>Bring Back Lost ChatGPT Histories with These Simple Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-online-e-gratuita-di-immagini-mpeg-a-gif-usando-movavi-facile-da-seguire/"><u>Conversione Online E Gratuita Di Immagini MPEG a GIF Usando Movavi - Facile Da Seguire</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-stunning-intros-with-these-top-10-pc-software-for-2024/"><u>Create Stunning Intros with These Top 10 PC Software for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/het-achteraf-het-beste-de-top-10-mp4-to-mp3-converters-voor-gemakkelijk-uitspraak/"><u>Het Achteraf Het Beste: De Top 10 MP4-to-MP3 Converters Voor Gemakkelijk Uitspraak</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-fixes-for-iphone-blurry-image-problems/"><u>In 2024, Immediate Fixes for iPhone Blurry Image Problems</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/metodos-expertos-para-mejorar-la-compresion-de-video-estrategias-para-contenido-4khd/"><u>Métodos Expertos Para Mejorar La Compresión De Video: Estrategias Para Contenido 4K/HD</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726221674084-movavimp4/"><u>MovaviのウェブテレビMP4フリー変換サービス - 快適な配信</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-free-legal-websites-for-downloading-pc-games-discover-the-best/"><u>Top Free Legal Websites for Downloading PC Games - Discover the Best</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforma-tu-video-de-asf-a-un-codec-mpeg-sin-coste-con-el-mejor-convertidor-en-linea-soluciones-rapidas-y-faciles/"><u>Transforma Tu Vídeo De ASF a Un Códec MPEG Sin Coste Con El Mejor Convertidor en Línea: Soluciones Rápidas Y Fáciles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformar-archivo-nef-a-foto-jpeg-directamente-en-la-web-servicio-gratis-de-conversion-por-movavi/"><u>Transformar Archivo NEF a Foto JPEG Directamente en La Web - Servicio Gratis De Conversión Por Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs-for-2024/"><u>[New] Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-kinemasters-full-potential-techniques-and-10plus-superior-online-services/"><u>[New] Unlock KineMaster's Full Potential Techniques & 10+ Superior Online Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[Updated] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-pages-for-stylish-shiny-3d-type-creations/"><u>[Updated] Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/11-best-color-correction-and-color-grading-tutorial/"><u>11 Best Color Correction and Color Grading Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-trends-in-remote-control-drones-syma-x8c/"><u>2024 Approved Trends in Remote Control Drones Syma X8C</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-macos-big-sur-minimum-requirements/"><u>2024 Approved Understanding MacOS Big Sur Minimum Requirements</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-7-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/download-stellar-file-eraser-for-mac-the-ultimate-tool-for-regularly-scheduled-data-deletion/"><u>Download Stellar File Eraser for Mac - The Ultimate Tool for Regularly Scheduled Data Deletion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-five-innovative-apple-podcast-options/"><u>In 2024, Five Innovative Apple Podcast Options</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-13-ultra-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi 13 Ultra to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-xcover-6-pro-tactical-edition-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy XCover 6 Pro Tactical Edition to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>In 2024, Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-cloud-picks-price-and-performance-comparison/"><u>In 2024, Top Cloud Picks Price & Performance Comparison</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simplifying-slide-sharing-using-your-webcam-effectively/"><u>Simplifying Slide Sharing Using Your Webcam Effectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-issue-of-arctis-7-audio-glitches-in-windows-a-comprehensive-guide/"><u>Solving the Issue of Arctis 7 Audio Glitches in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/text-animations-unleashed-try-these-14-dynamic-showcases-for-2024/"><u>Text Animations Unleashed Try These 14 Dynamic Showcases for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-ultimate-15-stop-motion-film-collection-for-2024/"><u>Unveiling the Ultimate 15 Stop-Motion Film Collection for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upcoming-security-conundrums-with-generative-ai-why-things-are-heading-south/"><u>Upcoming Security Conundrums with Generative AI: Why Things Are Heading South</u></a></li>
 </ul></div>
 

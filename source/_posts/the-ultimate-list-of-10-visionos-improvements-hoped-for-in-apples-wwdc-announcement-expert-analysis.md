@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of 10 VisionOS Improvements Hoped for in Apple's WWDC Announcement – Expert Analysis
-date: 2024-09-28T19:12:22.007Z
-updated: 2024-10-03T17:13:22.545Z
+date: 2024-10-02T18:33:06.737Z
+updated: 2024-10-08T18:23:05.107Z
 tags:
   - apple
 categories:
@@ -50,18 +50,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Keyboard passthrough
 
 Working in any of the virtual environments (I prefer Mount Hood) is great, but the immersive environment occludes my keyboard. The Digital Crown allows users to open the side view of the virtual space, but the center is still blocked. 
 
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. Less draconian media restrictions
 
@@ -87,6 +87,13 @@ Apple currently allows just a few fully immersive environments. While the surfac
 
 I'd love to see more immersive environments for the Vision Pro. There is a category of long-running videos on YouTube called "ambience videos." They consist of cozy animated scenes with some background music like [this serene coffee shop](https://www.youtube.com/watch?v=W5qamfXh3Q4&t=11737s). How nice would it be to set up work virtually in a coffee shop like this, chill, and be productive? I can see a great app market for well-designed third-party ambience environments. Heck, I'd pay a couple of bucks to work in a selection of charming coffee shops! 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. Larger play space boundary
 
 Right now, Apple limits the [total physical play space for virtual experiences to a 1.5-meter boundary](https://developer.apple.com/design/human-interface-guidelines/immersive-experiences) around the initial position of the wearer's head. As a person moves closer to the bounds of that boundary, the virtual world recedes and environment passthrough is activated. 
@@ -98,13 +105,6 @@ For many folks, that roughly 5-foot boundary is plenty. My space doesn't even co
 There's more flexibility on the Quest 3\. Using a [fairly dangerous optional setting](https://www.youtube.com/watch?v=mHOHZc24zqk), the Quest 3 allows the boundary to be completely removed. A safer approach is [what this YouTuber does](https://www.youtube.com/watch?v=GhxQs%5F508Lc) to allow for his entire apartment to be included in his Quest 3 play space. 
 
 Maybe, with VisionOS 2.0, Apple will allow for some flexibility in play space boundary size. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  8\. VR controller support
 
@@ -119,10 +119,10 @@ This situation was also apparent in [the Marvel What…If? immersive experience]
 Most likely, Apple will someday introduce its own controllers, if only to meet some special purpose large-scale enterprise need. But given that Meta has added support for Apple's spatial videos to the Quest 3, it seems only fair for Apple to add support for Quest controllers. I haven't found Quest 3 controllers available separately, but [since the Quest 2 is only $199](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FOculus-Quest-Advanced-All-One-Virtual%2Fdp%2FB099VMT8VZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1), folks could buy it and get the Quest 2 controllers. Hey, at $199, it's the same price as a [spare Vision Pro battery](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW283LL%2FA%2Fapple-vision-pro-battery&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) or [Vision Pro carrying case](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMW2F3LL%2FA%2Fapple-vision-pro-travel-case&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  9\. Better and more accurate hand and eye tracking
@@ -131,18 +131,18 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  10\. Find My support
 
 It's weird, but there's no Find My app for the Apple Vision Pro. You can't even download it. It's just not there. Now, given [how important it is to be able to use AirPods with the Vision Pro](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/) when around family members, I would think Find My (which regularly helps me find one or the other of my dropped AirPods) would be a necessity. But it's not available. 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Bonus: Better personas
 
@@ -186,17 +186,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-snapchat-for-professional-networking-and-sales/"><u>[New] Leveraging Snapchat for Professional Networking & Sales</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>[New] The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-windows-10-tips-for-maximum-productivity/"><u>[New] Top Windows 10 Tips For Maximum Productivity</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-transforming-facebook-videos-steps-to-high-definition-for-2024/"><u>[New] Transforming Facebook Videos Steps to High Definition for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-make-your-content-stand-out-with-instagrams-procedural-slow-mo-journey/"><u>[Updated] 2024 Approved Make Your Content Stand Out with Instagram’s Procedural Slow Mo Journey</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-class-on-top-digital-solutions-to-perfect-media-captions/"><u>[Updated] Master Class on Top Digital Solutions to Perfect Media Captions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-reversing-live-on-twitch-a-top-ten-guide/"><u>2024 Approved Reversing Live on Twitch A Top Ten Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-add-cinematic-shake-to-images-using-ps/"><u>In 2024, Add Cinematic Shake to Images Using PS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>In 2024, Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>In 2024, Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-zoom-services-directly-from-your-inbox-gmail-edition-for-2024/"><u>Utilizing Zoom Services Directly From Your Inbox - Gmail Edition for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-strategies-for-enhanced-chromebook-zoom/"><u>[New] Cutting-Edge Strategies for Enhanced Chromebook Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-clear-path-a-step-by-step-approach-to-buying-an-exceptional-4k-monitor/"><u>[New] The Clear Path A Step-By-Step Approach to Buying an Exceptional 4K Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>[New] The Powerhouse of 4K Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>[New] Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectacular-top-5-slow-motion-cams/"><u>[Updated] Spectacular Top 5 Slow Motion Cams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-discover-the-top-10-igtv-editing-app-wonders/"><u>2024 Approved Discover the Top 10 IGTV Editing App Wonders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-zoom-meetings-on-windows-10/"><u>2024 Approved Navigating Zoom Meetings on Windows 10</u></a></li>
+<li><a href="https://article-posts.techidaily.com/camera-recommendations-for-starters-in-the-year-2024/"><u>Camera Recommendations for Starters in the Year 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-xls-files-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a .xls files document electronically</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-mini-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 mini With or Without Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-obtaining-flawless-visual-content/"><u>In 2024, The Art of Obtaining Flawless Visual Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-g-stylus-5g-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G Stylus 5G (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-everyday-moments-with-ioss-complete-life-story-for-2024/"><u>Transforming Everyday Moments with iOS's Complete Life Story for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-the-8-greatest-places-to-download-3d-text-psd-files-for-2024/"><u>Unveil the 8 Greatest Places to Download 3D Text PSD Files for 2024</u></a></li>
 </ul></div>
 

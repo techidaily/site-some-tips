@@ -1,7 +1,7 @@
 ---
 title: Master Ultra-Efficient iOS Tricks for a Faster, Smarter iPhone Experience | ZDNet
-date: 2024-10-01T18:42:46.782Z
-updated: 2024-10-03T20:21:09.069Z
+date: 2024-10-02T22:53:05.673Z
+updated: 2024-10-09T02:37:18.533Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -57,6 +57,13 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -64,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -79,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -90,19 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,16 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-windowsmac-tutorials-for-skype-audio-and-video-archive-for-2024/"><u>[New] Windows/Mac Tutorials for Skype Audio & Video Archive for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expedite-your-experience-quick-iphone-time-lapse/"><u>[Updated] Expedite Your Experience Quick iPhone Time-Lapse</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unveiling-instagram-reels-10-surprising-insights/"><u>2024 Approved Unveiling Instagram Reels 10 Surprising Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-an-intriguing-vlog-conversation-guide/"><u>Building an Intriguing Vlog Conversation Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elevating-visual-communication-top-10-tools-for-vector-artists/"><u>Elevating Visual Communication Top 10 Tools for Vector Artists</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-d3d11-gpu-error-landscape-for-windows-1110/"><u>Navigating the D3D11 GPU Error Landscape for Windows 11/10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-retrieving-icons-from-windows-executable-files/"><u>Step-by-Step Guide to Retrieving Icons From Windows Executable Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-running-a-windows-11-laptop-in-sleep-mode-while-closed-for-extended-use/"><u>Step-by-Step Guide: Running a Windows 11 Laptop in Sleep Mode While Closed for Extended Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-resurgence-of-objectdock-introducing-an-apple-os-x-inspired-interface-for-windows-11-users/"><u>The Resurgence of ObjectDock - Introducing an Apple OS X Inspired Interface for Windows 11 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-essential-windows-features-to-activate-for-optimal-performance-the-why-and-how/"><u>Top 7 Essential Windows Features to Activate for Optimal Performance: The Why and How</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-overcoming-connectivity-issues-in-remote-recording/"><u>[New] 2024 Approved Overcoming Connectivity Issues in Remote Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>[Updated] Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-travel-video-setup-must-have-items-checklist/"><u>[Updated] Travel Video Setup Must-Have Items Checklist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-moviemakerpro-insights-full-analysis/"><u>2024 Approved MovieMakerPro Insights – Full Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-optimal-technique-integrating-gopro-videos-into-compreited-cinematic-universe/"><u>2024 Approved Optimal Technique Integrating GoPro Videos Into Compreited Cinematic Universe</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>2024 Approved Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-deciphering-the-meaning-of-facebooks-blue-video-icon/"><u>In 2024, Deciphering the Meaning of Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-playstation-45-audio-tweaks/"><u>In 2024, The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-full-potential-best-trio-for-zoom-conversion/"><u>In 2024, Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-wander-in-wealthy-web-words-worlds/"><u>In 2024, Wander in Wealthy Web Words Worlds</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/logitech-g-pro-x-review-game-on-a-new-level-with-surround-sound/"><u>Logitech G Pro X Review: Game on a New Level with Surround Sound</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-roblox-errors-on-microsoft-os/"><u>Reversing Roblox Errors on Microsoft OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-your-reading-potential-with-kindle-unlimited-the-top-4-advantages-you-need-to-know/"><u>Unleash Your Reading Potential with Kindle Unlimited – The Top 4 Advantages You Need to Know</u></a></li>
 </ul></div>
 

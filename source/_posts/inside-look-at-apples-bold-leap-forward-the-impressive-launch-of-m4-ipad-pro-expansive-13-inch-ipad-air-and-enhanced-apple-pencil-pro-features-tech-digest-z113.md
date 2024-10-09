@@ -1,7 +1,7 @@
 ---
 title: "Inside Look at Apple's Bold Leap Forward: The Impressive Launch of M4 iPad Pro, Expansive 13-Inch iPad Air, and Enhanced Apple Pencil Pro Features | Tech Digest ZDNet"
-date: 2024-09-27T16:24:35.945Z
-updated: 2024-10-03T20:16:14.190Z
+date: 2024-10-06T21:12:32.615Z
+updated: 2024-10-08T16:53:11.317Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -76,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -99,10 +99,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -128,10 +128,10 @@ Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player a
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
@@ -168,18 +168,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-advanced-techniques-to-leverage-windows-11-pro/"><u>[New] 2024 Approved Advanced Techniques to Leverage Windows 11 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-transforming-still-faces-picsarts-motion-blur-magic/"><u>[New] Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-edit-like-a-championtop-strategies-for-beginner-youtubers/"><u>[Updated] In 2024, Edit Like a Champion—Top Strategies for Beginner YouTubers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ornate-asian-dwellings-for-your-next-build-off/"><u>2024 Approved Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-officejet-4650-comprehensive-driver-downloads-for-windows-users-update-now/"><u>HP OfficeJet 4650: Comprehensive Driver Downloads for Windows Users - Update Now!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-apps-for-making-reaction-video-on-ios-and-android-for-2024/"><u>New Best Apps for Making Reaction Video on iOS and Android for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unlocking-impressive-hdr-potential-with-our-tutorial-for-2024/"><u>Unlocking Impressive HDR Potential with Our Tutorial for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-io-screen-recorder-user-manual-overview/"><u>[New] 2024 Approved IO Screen Recorder User Manual Overview</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-get-watermark-free-stock-photos/"><u>[New] How to Get Watermark-Free Stock Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-create-captivating-videos-an-introduction-to-fb-reels/"><u>[New] In 2024, How to Create Captivating Videos An Introduction to FB Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synchronized-system-apple-watch-and-mac-unlocking/"><u>[Updated] Synchronized System Apple Watch and Mac Unlocking</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>[Updated] Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-use-kapwing-meme-maker/"><u>[Updated] Use Kapwing Meme Maker</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-affordable-mobile-apps-to-boost-your-images-visual-impact-for-2024/"><u>10 Affordable Mobile Apps to Boost Your Image's Visual Impact for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-from-dissonance-to-harmony-kinemasters-transition-magic/"><u>2024 Approved From Dissonance to Harmony Kinemaster’s Transition Magic</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>2024 Approved Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-potential-of-the-metaverses-vast-space/"><u>2024 Approved The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>2024 Approved Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-the-best-strategies-for-virtual-finnish-proficiency/"><u>Discover the Best Strategies for Virtual Finnish Proficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-elusive-steamdll-error-tips-and-techniques/"><u>Fixing the Elusive Steam.dll Error: Tips & Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Plus Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-photoshop-techniques-for-dynamic-realistic-text/"><u>In 2024, Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>In 2024, Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-16-best-free-movie-makers-easy-to-use-for-2024/"><u>New Top 16 Best Free Movie Makers Easy to Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-dramatic-hdr-portraits-explained-for-2024/"><u>The Art of Dramatic HDR Portraits Explained for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta-for-2024/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta for 2024</u></a></li>
 </ul></div>
 

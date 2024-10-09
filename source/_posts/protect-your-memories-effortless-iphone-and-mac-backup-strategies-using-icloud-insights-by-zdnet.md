@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Memories: Effortless iPhone & Mac Backup Strategies Using iCloud, Insights by ZDNET"
-date: 2024-09-30T18:55:13.917Z
-updated: 2024-10-03T18:23:21.083Z
+date: 2024-10-01T16:01:36.712Z
+updated: 2024-10-08T19:01:08.669Z
 tags:
   - apple
 categories:
@@ -38,13 +38,6 @@ Image: Maria Diaz / ZDNet
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Enable iCloud Backup and select Back up Now
 
 Image: Maria Diaz / ZDNet
@@ -53,14 +46,14 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 5GB is not enough for a lot of us, especially if you've never backed up your iPhone. But you can choose what gets backed up to reduce the amount of data to upload to iCloud or buy more storage. If you're still over the limit and don't want to pay for a membership, then you can back up to a computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's how to back up your iPhone on a Mac
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Connect your iPhone to the computer
 
@@ -80,6 +73,19 @@ Be sure to select **Back up all of the data on your iPhone to this Mac** before 
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does iCloud cost?
 
 Apple offers iCloud services to automatically back up your iPhone. 
@@ -92,10 +98,10 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 * iCloud+: 2TB of storage $9.99
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it better to back up iPhone on a computer or iCloud?
@@ -103,10 +109,16 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do I need to back up iPhone apps?
@@ -149,19 +161,21 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-clearing-up-blackouts-in-facebook-live-streams-using-top-browsers/"><u>[New] Clearing Up Blackouts in Facebook Live Streams Using Top Browsers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-hp-dreamcolor-z32x-review-a-quest-for-perfection/"><u>[New] The HP DreamColor Z32X Review A Quest for Perfection</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>[New] Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sony-s6700-latest-features-reviewed/"><u>2024 Approved Sony S6700 Latest Features Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-secrets-of-editing-numerical-data-in-tiktoks/"><u>2024 Approved The Secrets of Editing Numerical Data in TikToks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-seamlessly-download-and-install-movie-maker-6-for-2024/"><u>How to Seamlessly Download and Install Movie Maker 6 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-realme-11x-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Realme 11X 5G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-mac-interface-with-speech-recognition-software-review/"><u>In 2024, Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/overcoming-delayed-or-non-sending-videos-in-facebooks-popular-chat-application-for-mobile-users/"><u>Overcoming Delayed or Non-Sending Videos in Facebook's Popular Chat Application for Mobile Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/performance-evaluation-how-effective-is-the-lian-li-galahad-ii-aio-cooling-system-on-an-intel-core-i7-14900k/"><u>Performance Evaluation: How Effective Is the Lian Li Galahad II AIO Cooling System on an Intel Core I7 14900K?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-instagram-image-addition-playbook-for-2024/"><u>The Instagram Image Addition Playbook for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ate-7-video-streaming-apps-your-ally-in-going-live-with-youtube-from-iphones-and-android-for-2024/"><u>Ultimate 7 Video Streaming Apps Your Ally in Going Live with YouTube From iPhones & Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-how-asmr-can-benefit-your-life-for-2024/"><u>Understanding How ASMR Can Benefit Your Life for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nokia C12</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-leading-5-video-conference-recorders-for-seamless-captures-for-2024/"><u>[New] Leading 5 Video Conference Recorders for Seamless Captures for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-link-up-movies-to-your-youtube-compendium/"><u>[New] Link Up Movies to Your YouTube Compendium</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-crossfade-audio-seamless-integration-in-logic-x/"><u>[New] The Art of Crossfade Audio Seamless Integration in Logic X</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-building-through-characters-and-plot-twists-for-2024/"><u>[Updated] Channel-Building Through Characters and Plot Twists for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prime-time-editing-selecting-the-best-software/"><u>[Updated] Prime-Time Editing Selecting the Best Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-srt-primer-must-know-elements/"><u>[Updated] The Insider's SRT Primer Must-Know Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-playbook-for-watching-live-world-class-cricket-games/"><u>2024 Approved The Ultimate Playbook for Watching Live, World-Class Cricket Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-benefits-of-claude-artificial-intelligence-an-in-depth-guide/"><u>Exploring the Benefits of Claude Artificial Intelligence: An In-Depth Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sound-device-errors-in-audacity-for-windows-users/"><u>Fixing Sound Device Errors in Audacity for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-uavs-understanding-their-mechanics-and-use/"><u>In 2024, The Essence of UAVs Understanding Their Mechanics & Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-vivo-v27-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Vivo V27 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-intimate-film-moments-for-2024/"><u>The Art of Capturing Intimate Film Moments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-structuring-effective-audio-xml-for-2024/"><u>The Complete Guide to Structuring Effective Audio XML for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-choices-360-video-equipment-for-livestreaming-platforms-for-2024/"><u>Top Choices 360° Video Equipment for Livestreaming Platforms for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-of-saved-usernames-and-passwords-in-macos-systems/"><u>Unlock the Secrets of Saved Usernames and Passwords in macOS Systems</u></a></li>
 </ul></div>
 

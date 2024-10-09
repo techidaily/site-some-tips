@@ -1,7 +1,7 @@
 ---
 title: "Reviving Loyalty in Tech: Can Apple Provide a Lifeline to Disappointed Sonos Customers? Insights From ZDNET"
-date: 2024-10-02T16:12:16.803Z
-updated: 2024-10-03T20:01:26.440Z
+date: 2024-10-07T19:43:32.764Z
+updated: 2024-10-09T00:16:31.290Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A lack of competitors
@@ -76,13 +76,6 @@ While many users like myself are looking for a clear migration path to a competi
 For Apple (or Amazon or Google) to truly compete with Sonos, the companies will need to support Dolby Digital 5.1 and [Dolby Atmos](https://www.dolby.com/technologies/dolby-atmos/). This would require the development of a full range of components, such as a soundbar/center channel, subwoofer, and rear surrounds, in addition to the existing left and right HomePod speakers for stereo and simulated surround (spatial audio).
 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Apple should do it
 
@@ -99,10 +92,10 @@ Apple has the resources to make this move, and now is the right time for HomePod
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Personalized music experiences
@@ -113,20 +106,27 @@ Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.z
 
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Social and collaborative features
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Smart home integration
 
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Learning and adaptation
 
@@ -168,15 +168,22 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elevating-your-drone-content-post-production-fundamentals/"><u>[New] 2024 Approved Elevating Your Drone Content Post-Production Fundamentals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/levating-the-end-scene-in-youtube-productions/"><u>[New] Elevating the End Scene in YouTube Productions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-giggle-galore-curating-the-funniest-10-short-form-web-series-ideas-for-2024/"><u>[Updated] Giggle Galore Curating the Funniest 10 Short-Form Web Series Ideas for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pc-virtual-reality-hits-top-10/"><u>[Updated] In 2024, PC Virtual Reality Hits Top 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-f54-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy F54 5G Device SIM</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/"><u>Leverage Mobile OCR for Streamlined Customer Onboarding Processes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/"><u>Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-website-performance-and-tracking/"><u>Optimize with Cookiebot: Elevate Website Performance & Tracking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/"><u>Optimized With Cookiebot Technology - Boost Your Site's Engagement and Conversions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-premier-ai-for-stunning-photo-creation-for-2024/"><u>[New] Premier AI for Stunning Photo Creation for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-start-shooting-smart-top-15-shot-techniques-for-beginners/"><u>[New] Start Shooting Smart Top 15 Shot Techniques for Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>[New] Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamsavvy-exploring-alternatives-to-dacast/"><u>[New] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers/"><u>[New] Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-ideal-online-destinations-for-video-promotion/"><u>[Updated] In 2024, Ideal Online Destinations for Video Promotion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-becoming-professionally-active-registering-a-business-on-ig/"><u>2024 Approved Becoming Professionally Active Registering a Business on IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-the-science-and-art-of-attention-grabbing-titles/"><u>2024 Approved Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/detailed-steps-for-lifting-blocks-on-your-gpt-account/"><u>Detailed Steps for Lifting Blocks on Your GPT Account</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-vivo-y56-5g-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Vivo Y56 5G.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>In 2024, Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-huawei-nova-y71-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Huawei Nova Y71 Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlined-gaming-footage-collection-via-varied-graphics-units/"><u>Streamlined Gaming Footage Collection via Varied Graphics Units</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-melodies-with-inshot-clips-for-2024/"><u>Synchronizing Melodies with InShot Clips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-smoothing-iphone-pics-4-methods-for-2024/"><u>The Ultimate Guide to Smoothing iPhone Pics (4 Methods) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>Unleash Speed Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-compatible-newest-drivers-and-update-instructions-for-the-nvidia-geforce-mx150/"><u>Windows Compatible: Newest Drivers & Update Instructions for the Nvidia GeForce MX150</u></a></li>
 </ul></div>
 

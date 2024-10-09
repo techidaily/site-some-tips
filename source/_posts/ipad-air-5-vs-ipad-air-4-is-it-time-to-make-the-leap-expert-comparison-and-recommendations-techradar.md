@@ -1,7 +1,7 @@
 ---
 title: IPad Air 5 vs iPad Air 4 - Is It Time to Make the Leap? Expert Comparison & Recommendations | TechRadar
-date: 2024-09-27T18:10:23.570Z
-updated: 2024-10-03T20:04:56.011Z
+date: 2024-10-07T22:24:07.938Z
+updated: 2024-10-09T02:43:52.537Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -66,13 +66,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -134,13 +127,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -155,6 +141,13 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -167,15 +160,22 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,20 +212,19 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elevating-your-photography-with-lightrooms-hdr-merging-features/"><u>[New] In 2024, Elevating Your Photography with Lightroom's HDR Merging Features</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-virtual-realms-the-finest-vr-accessories-unveiled/"><u>[New] In 2024, Virtual Realms The Finest VR Accessories Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[New] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-optimize-viewing-experience-on-netflix-platforms/"><u>[Updated] How to Optimize Viewing Experience on Netflix Platforms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-from-novice-to-master-photographer-with-lunapic/"><u>[Updated] In 2024, From Novice to Master Photographer with LunaPic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[Updated] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-secret-sauce-for-stellar-telegram-campaigns/"><u>2024 Approved The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-tecno-pop-7-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Tecno Pop 7 Pro FRP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-straightening-aerial-video-stability/"><u>In 2024, Techniques for Straightening Aerial Video Stability</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-successful-individual-podcasts/"><u>In 2024, The Blueprint for Successful Individual Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-macos-big-sur-minimum-requirements/"><u>In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamline-printer-usage-with-updated-f4770n-drivers/"><u>Streamline Printer Usage with Updated F4770N Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-dragon-age-origins-stability-problems-on-windows-10-pcs/"><u>Troubleshooting Dragon Age: Origins Stability Problems on Windows 10 PCs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-directing-youtube-and-twitter-videos-via-whatsapp-messages/"><u>[New] 2024 Approved Directing YouTube & Twitter Videos via WhatsApp Messages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-step-by-step-live-stream-via-network-in-vlc/"><u>[New] Step-by-Step Live Stream via Network in VLC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>[New] Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-workflow-ultimate-convertor-list-1-8/"><u>[Updated] Streamline Your Workflow Ultimate Convertor List #1-8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-note-12-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi Note 12 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-12plus-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme 12+ 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-xr-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone XR Data Completely | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joint-ventures-in-content-creation-for-youtube-audiences/"><u>In 2024, Joint Ventures in Content Creation for YouTube Audiences</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-blueprint-for-incorporating-dynamic-narrations-in-media/"><u>In 2024, The Blueprint for Incorporating Dynamic Narrations in Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-personal-data-holdings/"><u>In 2024, The Pinnacle of Personal Data Holdings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-moto-g84-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Moto G84 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-every-moment-top-ideas-for-enriching-life-through-podcasts-for-2024/"><u>Transform Every Moment Top Ideas for Enriching Life Through Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers-for-2024/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers for 2024</u></a></li>
 </ul></div>
 

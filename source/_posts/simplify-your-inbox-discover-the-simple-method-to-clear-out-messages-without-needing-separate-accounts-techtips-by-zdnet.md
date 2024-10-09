@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: Discover the Simple Method to Clear Out Messages Without Needing Separate Accounts! | TechTips by ZDNet"
-date: 2024-09-28T20:18:24.248Z
-updated: 2024-10-03T17:42:43.559Z
+date: 2024-10-07T18:01:12.122Z
+updated: 2024-10-09T01:38:35.031Z
 tags:
   - apple
 categories:
@@ -61,16 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -82,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -99,16 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -122,10 +110,10 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -166,18 +154,18 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-and-leveraging-snapchat-spotlight/"><u>[Updated] Understanding and Leveraging Snapchat Spotlight</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-your-pcs-sound-with-these-5-windows-11-recording-tips/"><u>2024 Approved Perfect Your PC's Sound with These 5 Windows 11 Recording Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-shining-up-your-videos-on-android/"><u>2024 Approved Shining Up Your Videos on Android</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001551064-defeat-the-annoying-black-screen-challenge-for-hitman-3-players-pc-fixes-unveiled/"><u>Defeat the Annoying Black Screen Challenge for Hitman 3 Players - PC Fixes Unveiled!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-recommendations-top-5-windows-screen-cutting-apps-for-2024/"><u>Expert Recommendations Top 5 Windows Screen Cutting Apps for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-13-ultra-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi 13 Ultra Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-v30-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-network-nodes-sites-that-spotlight-youtube-paid-content/"><u>In 2024, Network Nodes Sites That Spotlight YouTube Paid Content</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-m54-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy M54 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-your-music-movement-between-services-for-2024/"><u>Streamline Your Music Movement Between Services for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-content-for-snapchats-luminaries-for-2024/"><u>Tailoring Content for Snapchat's Luminaries for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-path-to-perfect-podcast-scripts-writing-techniques-and-free-example-guides-for-2024/"><u>The Path to Perfect Podcast Scripts Writing Techniques & Free Example Guides for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unrestricted-media-playback-free-on-windows-and-macos-for-2024/"><u>Unrestricted Media Playback FREE on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-8-affordable-industry-standard-open-videoconference-platforms/"><u>[New] 2024 Approved Top 8 Affordable, Industry-Standard Open Videoconference Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[New] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-relaxation-station-leisurely-phone-game-guide/"><u>[New] Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tomorrows-digital-playground-a-comparative-study-of-metaverse-and-omniverse/"><u>[Updated] Tomorrow's Digital Playground A Comparative Study of Metaverse & Omniverse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>2024 Approved The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-building-blocks-of-graphic-animation/"><u>2024 Approved The Building Blocks of Graphic Animation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boosting-windows-file-audit-with-precision/"><u>In 2024, Boosting Windows File Audit with Precision</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-to-device-the-step-by-step-process-explained/"><u>In 2024, Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-elite-guide-to-gopro-side-by-side-shopping/"><u>In 2024, The Elite Guide to GoPro Side-By-Side Shopping</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g04-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G04 Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundation-defining-electronic-storytelling-for-2024/"><u>The Foundation Defining Electronic Storytelling for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-voice-change-programs-for-2024/"><u>Ultimate List of Top Voice-Change Programs for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
 

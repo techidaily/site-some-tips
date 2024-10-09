@@ -1,7 +1,7 @@
 ---
 title: Unveiling the True Test for Microsoft's Artificial Intelligence - How Apple and Samsung Lead the Charge | ZDNet Insights
-date: 2024-10-02T16:05:11.502Z
-updated: 2024-10-03T16:05:17.528Z
+date: 2024-10-02T21:42:57.932Z
+updated: 2024-10-09T00:40:49.530Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ Ever since, those attributes have defined all smartphones, save for one common s
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pre-modern smartphones
@@ -63,6 +63,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2008: The birth of the modern smartphone
 
 Released on June 29, 2007, [the iPhone](https://web.archive.org/web/20070629165202/http://www.apple.com/iphone) was explosive. Many of us remember the lines of people waiting to get their first phone. I sat those lines out, happy with my Treo. While the first iPhone had nearly all of the characteristics of a modern smartphone, including a 2.0MP rear-facing camera, the only apps it allowed were crude customized web pages. My Treo had far better native PalmOS apps.
@@ -84,10 +91,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -110,6 +117,13 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2017: The start of the AI/ML smartphone era
 
 It's difficult to nail down exactly when machine learning found its way into smartphones, but a good case can be made for 2017\. That year, [Google released the Pixel 2](https://blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/), which got a portrait mode that blurred backgrounds, and improved processing for HDR images.
@@ -119,13 +133,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 **Also: [How the iPhone 15 Pro Max challenges mirrorless cameras: We compare price and performance](https://www.zdnet.com/article/how-the-iphone-15-pro-max-challenges-mirrorless-cameras-we-compare-price-and-performance/)**
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
 
@@ -176,13 +183,6 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -262,16 +262,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-summit-creation-pro-x-evaluation/"><u>[New] Summit Creation Pro X Evaluation</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-cartoon-combo-merging-filters-and-snaps-seamlessly/"><u>[New] The Ultimate Cartoon Combo Merging Filters and Snaps Seamlessly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-beyond-the-surface-what-you-dont-know-about-stories/"><u>[Updated] In 2024, Beyond the Surface What You Don't Know About Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-affordable-gaming-tunes-top-10-lists/"><u>2024 Approved The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock OnePlus Ace 3 Phone with Broken Screen</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-navigating-ppt-presentations-successfully-in-google-meet/"><u>In 2024, Navigating PPT Presentations Successfully in Google Meet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-total-exploration-the-dji-phantom-4-experience-reviewed/"><u>In 2024, Total Exploration The DJI Phantom 4 Experience Reviewed</u></a></li>
-<li><a href="https://media-tips.techidaily.com/simple-steps-to-change-your-videos-into-mp4-and-make-them-play-on-psp/"><u>Simple Steps to Change Your Videos Into MP4 and Make Them Play on PSP</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-iphone-guide-to-water-reflected-imagery-for-2024/"><u>The Ultimate iPhone Guide to Water-Reflected Imagery for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-best-choice-in-depth-look-at-netgear-orbi-mesh-router-excellence/"><u>Unveiling the Best Choice: In-Depth Look at Netgear Orbi Mesh Router Excellence</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins/"><u>Updated FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-scrutinizing-vlc-for-video-capturing-for-2024/"><u>[Updated] Scrutinizing VLC for Video Capturing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-approaches-for-zoom-utility-on-chromebook/"><u>2024 Approved Streamlined Approaches for Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-to-end-windows-10s-unstable-photo-viewing/"><u>2024 Approved Swift Strategies to End Windows 10'S Unstable Photo Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-typography-in-after-effects/"><u>2024 Approved Transformative Typography in After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-film-a-beginners-guide-to-essential-shots/"><u>2024 Approved Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-possibilities-of-360-degree-fisheye-images-for-2024/"><u>Exploring the Possibilities of 360-Degree Fisheye Images for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-windows-drivers-for-your-brother-hl-l2380dw-laser-printer-now/"><u>Get the Latest Windows Drivers for Your Brother HL-L2380DW Laser Printer Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>In 2024, Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/interstellar-bookkeeper-rehab-guide/"><u>Interstellar Bookkeeper Rehab Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ispring-screen-recorder-review-for-2024/"><u>ISpring Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/optimal-tools-for-high-quality-zoom-recordings-for-2024/"><u>Optimal Tools for High-Quality Zoom Recordings for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000806231-solved-anticheat-connection-failed-error-in-escape-from-tarkov/"><u>Solved: ‘Anticheat Connection Failed’ Error in Escape From Tarkov</u></a></li>
 </ul></div>
 

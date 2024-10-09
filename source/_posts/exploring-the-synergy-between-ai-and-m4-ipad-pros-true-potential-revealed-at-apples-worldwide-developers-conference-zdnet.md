@@ -1,7 +1,7 @@
 ---
 title: Exploring the Synergy Between AI and M4 iPad Pro's True Potential Revealed at Apple's Worldwide Developers Conference | ZDNet
-date: 2024-10-02T16:22:40.213Z
-updated: 2024-10-03T20:26:37.385Z
+date: 2024-10-05T23:41:25.467Z
+updated: 2024-10-08T18:45:12.420Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
@@ -56,10 +49,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -69,13 +62,6 @@ While it's easy enough to open Vision Pro's home view (the field of app icons) b
 In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers opens the app view. Flipping your hand over will give you time and battery level. A finger tap in this position will open up Control Center. 
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
 
@@ -101,6 +87,13 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -108,6 +101,13 @@ While iPhone 15 Pro users can create spatial video, there are limitations to usi
 Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
 
@@ -119,6 +119,19 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -127,13 +140,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -179,24 +185,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-devices-for-jiggle-free-filming-experience/"><u>[New] Optimal Devices for Jiggle-Free Filming Experience</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-strategic-approaches-for-creating-impactful-youtubes-finality-for-2024/"><u>[Updated] Strategic Approaches for Creating Impactful Youtubes' Finality for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amo/"><u>/Amo</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-rise-of-vidma-transforming-the-landscape-of-capture-technology/"><u>2024 Approved The Rise of Vidma Transforming the Landscape of Capture Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-gratuite-des-fichiers-rmvb-a-laide-de-movavi-guide-complet/"><u>Conversion Gratuite Des Fichiers RMVB À L'aide De Movavi - Guide Complet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertir-jpeg-a-png-de-forma-gratuita-en-linea-con-herramientas-de-conversion-rapidas/"><u>Convertir JPEG a PNG De Forma Gratuita en Línea Con Herramientas De Conversión Rápidas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-documentos-caf-sin-coste-uso-libre-y-facil-con-movavi-solutions/"><u>Convierte Tus Documentos CAF Sin Coste: Uso Libre Y Fácil Con Movavi Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/full-screen-magic-trick-solved/"><u>Full Screen Magic Trick Solved</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-the-latest-version-of-obs-studio-supporting-windows-macos-and-ubuntu-systems/"><u>Get the Latest Version of OBS Studio – Supporting Windows, macOS, and Ubuntu Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-iphone-6-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From iPhone 6 Plus Smoothly</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/meilleur-logiciel-pour-lediting-4k-facilite-et-precision-dans-vos-travaux-video-professionnels/"><u>Meilleur Logiciel Pour L'Editing 4K: Facilité Et Précision Dans Vos Travaux Vidéo Professionnels</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-browser-security-with-proton-vpn-plugin/"><u>Navigating Browser Security with Proton VPN Plugin</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-wevideo-the-ultimate-online-video-creation-solution/"><u>New 2024 Approved WeVideo The Ultimate Online Video Creation Solution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-wmv-au-format-flv-gratuitement-guilde-du-multimedia/"><u>Toutes Les Étapes Pour Transformer Un Fichier WMV Au Format FLV Gratuitement - Guilde Du Multimédia</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshoot-immediately-why-isnt-your-audacity-session-picking-up-sound/"><u>Troubleshoot Immediately: Why Isn't Your Audacity Session Picking Up Sound?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-affordable-standby-for-your-tv-needs-cheetahs-review/"><u>Ultimate Affordable Standby for Your TV Needs: Cheetah's Review</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/what-you-need-to-know-amazfit-helio-rings-price-point-availability-date-and-full-tech-specs-explained/"><u>What You Need to Know: Amazfit Helio Ring's Price Point, Availability Date, and Full Tech Specs Explained</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-catching-life-in-motion-iphones-burst-capability/"><u>[New] 2024 Approved Catching Life in Motion IPhone's Burst Capability</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-solve-invisible-buffer-problems-in-video-games/"><u>[New] 2024 Approved Solve Invisible Buffer Problems in Video Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-polaroid-cubeplus-camera-insight-for-fans-of-live-action/"><u>[New] Polaroid Cube+ Camera Insight for Fans of Live-Action</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-video-cutting-edge-tools-devices/"><u>[New] Superior Video Cutting-Edge Tools (Devices)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-vanguard-of-virtual-storage-top-choices/"><u>[New] The Vanguard of Virtual Storage Top Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-professional-ringtone-designer-guide/"><u>[New] Top Picks Professional Ringtone Designer Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[Updated] 2024 Approved Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-reflex-toolbox-bundle/"><u>[Updated] Reflex Toolbox Bundle</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decipher-the-netflix-phenomenon-learn-korean/"><u>Decipher the Netflix Phenomenon: Learn Korean</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-kinemaster-usage-and-top-alternative-platforms/"><u>In 2024, The Ultimate Guide to KineMaster Usage and Top Alternative Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-motion-analysis-2023/"><u>In 2024, Total Motion Analysis 2023</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pros-playbook-elevate-your-tiktok-video-game/"><u>Pro's Playbook Elevate Your TikTok Video Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-science-behind-apples-m1-processor-unveiled-for-2024/"><u>The Science Behind Apple’s M1 Processor Unveiled for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-14-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi 14 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
 </ul></div>
 

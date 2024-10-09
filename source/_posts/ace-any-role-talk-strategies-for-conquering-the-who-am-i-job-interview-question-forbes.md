@@ -1,7 +1,7 @@
 ---
 title: "Ace Any Role Talk: Strategies for Conquering the Who Am I? Job Interview Question | Forbes"
-date: 2024-09-18 12:59:40
-updated: 2024-09-20 12:46:24
+date: 2024-10-07T20:38:58.857Z
+updated: 2024-10-08T22:54:25.966Z
 tags:
   - professional-development
 categories:
@@ -35,6 +35,13 @@ The interviewer hopes the candidate can answer the question in a natural way tha
 
 If you're asked this question during a video or [phone interview](https://www.zdnet.com/education/professional-development/interview-tips-recent-grads/), you can have your answers in front of you. If the interview is in person, you should be prepared to answer without checking your notes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Other ways that interviewers might ask this question
 
 The "tell me about yourself" interview question sometimes sounds different. Interviewers might ask:
@@ -50,6 +57,13 @@ Be ready for any version of this question with your structured and practiced ans
 ## Breakdown: How to answer the 'tell me about yourself' interview question
 
 There are many strategies for answering the "tell me about yourself" interview question. The way you choose to structure your answer may depend on your previous experience. A recent graduate will have a much different answer than a director who has been employed for decades. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -76,6 +90,13 @@ Tell the interviewer about your current position and a recent big accomplishment
 The interviewer wants to hear how your current role is similar to the position you're applying for.
 
 If you're currently a student, use this time to talk about relevant school experiences like classes you've taken, projects you liked, or internships. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** In Depth
 
@@ -108,6 +129,13 @@ Knowing the overall mission of the company to help you tailor your "why." If you
 Remember that interviewers want to learn more about your work experience and your personality. Answering this question in a couple of sentences might seem less-than-thorough and talking for ten minutes is a red flag that you might do the same in meetings. 
 
 Try to keep your answer to one to three minutes. Watch your interviewer's body language and feel free to expand on any portions they look excited about. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do's and don'ts for answering 'tell me about yourself'  
 
@@ -187,11 +215,30 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-the-depths-of-asmr-audio-magic/"><u>[New] 2024 Approved Exploring the Depths of ASMR Audio Magic</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-streamline-your-content-with-optimal-tiktok-intro-strategies-mac/"><u>[New] 2024 Approved Streamline Your Content with Optimal TikTok Intro Strategies (Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transcription-tech-zero-fee-for-the-user/"><u>[New] Transcription Tech, Zero Fee for the User</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-tools-simplifying-the-task-of-feedback-erasure-for-2024/"><u>[Updated] Efficient Tools Simplifying the Task of Feedback Erasure for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>[Updated] Ultimate Phone & Camera Mounts Precision Focus Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-best-trivia-shows/"><u>2024 Approved The Comprehensive Guide to Best Trivia Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-melodies-for-deep-meditation-and-inner-peace/"><u>2024 Approved Top 10 Free Melodies for Deep Meditation and Inner Peace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-resource-list-of-3d-fonts-online/"><u>2024 Approved Ultimate Resource List of 3D Fonts Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-opportunities-the-marketing-planning-journey/"><u>2024 Approved Unboxing Opportunities The Marketing Planning Journey</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlock-the-potential-of-your-online-social-presence/"><u>2024 Approved Unlock the Potential of Your Online Social Presence</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieving-financial-independence-on-youtube-via-views-for-2024/"><u>Achieving Financial Independence on YouTube via Views for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-6s-plus-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 6s Plus for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-rated-sony-a7s-ii-memory-accessory/"><u>In 2024, Top-Rated Sony A7S II Memory Accessory</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gaming-experience-on-win10win11-with-freshly-released-rtx-2070-super-drivers-download/"><u>Optimize Your Gaming Experience on Win10/Win11 with Freshly Released RTX 2070 Super Drivers Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-shot-recorder-hunters-top-picks-for-2024/"><u>Ultimate Shot Recorder Hunters' Top Picks for 2024</u></a></li>
+</ul></div>
+

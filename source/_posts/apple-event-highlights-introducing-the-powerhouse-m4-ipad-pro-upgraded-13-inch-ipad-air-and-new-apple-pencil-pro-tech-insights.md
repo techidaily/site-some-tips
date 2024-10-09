@@ -1,7 +1,7 @@
 ---
 title: "Apple Event Highlights: Introducing the Powerhouse M4 iPad Pro, Upgraded 13-Inch iPad Air & New Apple Pencil Pro | Tech Insights"
-date: 2024-09-29T19:57:33.833Z
-updated: 2024-10-03T20:07:31.684Z
+date: 2024-10-02T01:20:58.873Z
+updated: 2024-10-08T19:44:15.765Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. iPad Pro, now with OLED displays and M4
 
 Apple
@@ -52,13 +59,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -76,10 +76,10 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -99,16 +99,10 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -117,16 +111,16 @@ Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -174,24 +168,22 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>[New] 2024 Approved Breaking Down Barriers Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-selection-top-voice-recorders-for-macos/"><u>[New] The Ultimate Selection Top Voice Recorders for MacOS</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/amazon-introduces-revolutionary-ai-performance-metric-the-next-gen-rag-system-unveiled-by-zdnet/"><u>Amazon Introduces Revolutionary AI Performance Metric: The Next-Gen RAG System Unveiled by ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/comparing-the-best-of-both-worlds-obs-vs-bandicam-for-2024/"><u>Comparing the Best of Both Worlds OBS vs Bandicam for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-site-functionality-with-our-cookiebot-integration-solutions/"><u>Enhance Site Functionality with Our Cookiebot Integration Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-sites-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhance Your Site's Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-online-experience-with-cookiebot-technology/"><u>Enhancing Online Experience with Cookiebot Technology</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/epic-new-year-targets-from-vision-to-victory/"><u>Epic New Year Targets: From Vision To Victory</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expertise-en-efficacite-des-transports-comment-accelerer-vos-processus-avec-notre-chef-lieu-checklist/"><u>Expertise en Efficacité Des Transports : Comment Accélérer Vos Processus Avec Notre Chef-Lieu Checklist !</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-up-or-swapping-out-your-console-a-guide/"><u>Fixing Up or Swapping Out Your Console - A Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-insights-and-conversions/"><u>Harness the Power of Cookiebot for Superior Website Insights & Conversions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-for-superior-site-engagement/"><u>Harnessing the Power of Cookiebot for Superior Site Engagement</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-last-epoch-failure-to-start-on-pc-essential-guide-for-gaming-enthusiasts/"><u>How to Fix Last Epoch Failure to Start on PC - Essential Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-minimize-insurance-scams-and-surpass-client-satisfaction/"><u>How to Minimize Insurance Scams & Surpass Client Satisfaction</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/join-us-for-an-exciting-showcase-of-abbyy-technologies-at-ai-pulse-developers-conference-2024/"><u>Join Us for an Exciting Showcase of ABBYY Technologies at AI Pulse Developers Conference 2024!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-analytics-and-seo-performance/"><u>Leverage Cookiebot Technology for Superior User Analytics and SEO Performance</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-xiaomi-redmi-a2plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi Redmi A2+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unlocking-the-secrets-of-alluring-vlog-narratives/"><u>[New] 2024 Approved Unlocking the Secrets of Alluring Vlog Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-tiktok-usage-efficiently-change-user-numbers/"><u>[New] Streamline TikTok Usage Efficiently Change User Numbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-check-of-dji-phantom-3/"><u>[New] The Ultimate Check of DJI Phantom 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-pixelpunmatic-device/"><u>[Updated] PixelPunmatic Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-show-entry-on-apple-media/"><u>[Updated] Streamline Your Show Entry on Apple Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-notch-photo-cloud-storages-both-gratis-and-premium-options/"><u>[Updated] Ultimate Top-Notch Photo Cloud Storages Both Gratis & Premium Options</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-play-8t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Play 8T Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock OnePlus 12R Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-innovative-shots-with-purpose-top-20-ideas-for-inspiration/"><u>In 2024, Innovative Shots with Purpose Top 20 Ideas for Inspiration</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-itel-p55-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Itel P55 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-cutting-edge-of-cinematography-kinemasters-zoom-excellence/"><u>In 2024, The Cutting Edge of Cinematography Kinemaster’s Zoom Excellence</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-lego-star-wars-the-skywalker-sagas-pc-game-crashes-in-2nd4/"><u>Resolved: Fixing Lego Star Wars: The Skywalker Saga's PC Game Crashes in 2nD4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamlessly-upgrade-azw3-books-to-digital-readers-friendly-epub-format-without-drm-restrictions/"><u>Seamlessly Upgrade AZW3 Books to Digital Readers-Friendly ePub Format Without DRM Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-sounds-iphones-efficient-podcasting-for-2024/"><u>Streamlined Sounds IPhone's Efficient Podcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-eye-opening-journey-with-q500-for-2024/"><u>The Eye-Opening Journey with Q500 for 2024</u></a></li>
 </ul></div>
 

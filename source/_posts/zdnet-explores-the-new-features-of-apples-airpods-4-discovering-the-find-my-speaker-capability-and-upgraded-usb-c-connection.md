@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores the New Features of Apple's AirPods 4: Discovering the Find My Speaker Capability & Upgraded USB-C Connection"
-date: 2024-10-02T19:50:51.060Z
-updated: 2024-10-03T16:03:07.849Z
+date: 2024-10-05T16:13:50.290Z
+updated: 2024-10-08T17:03:25.463Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Apple announced an innovative feature coming to AirPods Pro 2 when iOS 18 is rel
 Then, if needed, the AirPods Pro 2 can use the wearer's results and double as an over-the-counter hearing aid. This feature will allow the Pro 2 earbuds to use their directional microphones to amplify conversational noises for users who have difficulty hearing conversations in noisy environments. Apple is still waiting for the FDA to approve this feature, but the company expects the approval to be ready for iOS 18's release.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Find My speaker
@@ -48,10 +48,10 @@ Apple's AirPods Pro 2 feature a small speaker on the bottom of the charging case
 Jada Jones/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods Max wired listening
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Now, if you have an iPhone 15 or newer, you can plug a USB-C cable into your iPhone and AirPods Max and begin listening. If you have an iPhone 14 or older, you can use a Lightning-to-USB-C adapter to plug into the new AirPods Max.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. A 'Goldilocks' pair of AirPods
@@ -115,24 +115,21 @@ Now, you can buy the AirPods 4 with noise cancellation, which offer upgraded aud
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-photographers-toolkit-polarr-edition/"><u>[New] The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-frame-your-fantasy-the-most-uplifting-instagram-captures/"><u>[Updated] In 2024, Frame Your Fantasy The Most Uplifting Instagram Captures</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-podcast-dominance-through-powerful-seo-tactics/"><u>[Updated] Podcast Dominance Through Powerful SEO Tactics</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-iosandroid-tips-attaching-audio-posters-on-facebook/"><u>2024 Approved IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-streaming-with-integrated-local-channels-future-edition/"><u>2024 Approved Superior Streaming with Integrated Local Channels, Future Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>2024 Approved Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-fix-the-failed-to-initialize-problem-with-battleye-services/"><u>Effective Solutions to Fix the 'Failed To Initialize' Problem with BattlEye Services</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-u23-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from U23 Pro.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-turn-off-youtube-video-preview-all-platform-solution-for-2024/"><u>How to Turn Off YouTube Video Preview? [All Platform Solution] for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-restoring-full-volume-on-hindered-facebook-videos/"><u>In 2024, Restoring Full Volume on Hindered Facebook Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-kinemaster-made-memes/"><u>In 2024, The Art of KineMaster-Made Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-value-panoramic-recording-equipment-for-savvy-shoppers/"><u>In 2024, Top Value Panoramic Recording Equipment for Savvy Shoppers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/m1-marvel-a-new-wave-of-smooth-and-efficient-editing-for-2024/"><u>M1 Marvel A New Wave of Smooth and Efficient Editing for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-chatbot-combat-determining-supreme-supremacy/"><u>The ChatBot Combat: Determining Supreme Supremacy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transforming-simple-videos-text-addition-in-windows-10s-photos-software/"><u>Transforming Simple Videos Text Addition in Windows 10'S Photos Software</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-the-remote-procedure-call-service-not-available-issue-in-windows/"><u>Troubleshooting Guide: Resolving the 'Remote Procedure Call Service Not Available' Issue in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions-for-2024/"><u>Unlock Kinemaster's Secrets to Smooth Transitions for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-enhancing-audience-experience-four-ways-to-livestream-on-tv/"><u>[New] In 2024, Enhancing Audience Experience Four Ways to Livestream on TV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-podcast-for-apple-platform-access/"><u>[New] Streamlining Your Podcast for Apple Platform Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[New] Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-utilize-facebooks-auto-video-functionality-for-2024/"><u>[Updated] How to Utilize Facebook's Auto-Video Functionality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>[Updated] Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[Updated] The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>[Updated] Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vegas-pro-19-review/"><u>[Updated] VEGAS Pro 19 Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-dvd-players-for-your-portable-laptop/"><u>2024 Approved Explore the Best DVD Players for Your Portable Laptop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-vegaspro-the-19-edition/"><u>2024 Approved Unveiling VegasPro The '19 Edition</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correcting-invalid-service-inf-for-proper-setup/"><u>Correcting Invalid Service INF for Proper Setup</u></a></li>
+<li><a href="https://discover-help.techidaily.com/dvdwindows1011/"><u>DVDの無料レンタルからパソコンへ！Windows10/11対応なら、簡単にデータ移行方法📀💾</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oneplus-ace-3-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-vanguard-audio-visual-makers-virtual-showcase/"><u>In 2024, The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-blaze-2-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 </ul></div>
 

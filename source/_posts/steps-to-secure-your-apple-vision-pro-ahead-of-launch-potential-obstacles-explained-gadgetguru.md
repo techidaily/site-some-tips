@@ -1,7 +1,7 @@
 ---
 title: Steps to Secure Your Apple Vision Pro Ahead of Launch - Potential Obstacles Explained | GadgetGuru
-date: 2024-09-27T16:57:20.713Z
-updated: 2024-10-03T19:49:02.705Z
+date: 2024-10-07T21:02:00.271Z
+updated: 2024-10-08T18:31:24.043Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -46,6 +39,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -69,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -77,6 +84,13 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -84,13 +98,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -106,21 +113,7 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQ
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -132,10 +125,16 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
@@ -145,6 +144,13 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -212,21 +218,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-reversing-time-retracing-your-steps-for-lost-snaps/"><u>[New] In 2024, Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-free-tools-for-flawless-srt-conversion/"><u>[New] Top Free Tools for Flawless SRT Conversion</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-10plus-free-apps-to-convert-youtube-videos-on-demand/"><u>[Updated] 2024 Approved 10+ Free Apps to Convert YouTube Videos on Demand</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-popularity-a-comprehensive-list-of-instagrams-top-25-tags/"><u>[Updated] 2024 Approved Unlocking Popularity A Comprehensive List of Instagram's Top 25 Tags</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/"><u>[Updated] Top Tunes Where to Secure Soundscapes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-transcript-download-analyze-content/"><u>[Updated] Transcript Download, Analyze Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-updated-conversation-guide-for-podcast-enthusiasts/"><u>[Updated] Updated Conversation Guide for Podcast Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>2024 Approved Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-seamless-connectivity-get-the-latest-lenovo-bluetooth-drivers-for-your-pc-guaranteed-safe/"><u>Ensure Seamless Connectivity: Get the Latest Lenovo Bluetooth Drivers for Your PC (Guaranteed Safe)</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/halt-video-lag-with-a-simple-fix-vlc/"><u>Halt Video Lag with a Simple Fix (VLC)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-create-a-memorable-podcast-name-from-brainstorming-to-execution/"><u>How To Create a Memorable Podcast Name From Brainstorming to Execution</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v27e-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V27e</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-dji-phantom-4-extension-kit-list/"><u>In 2024, The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-10-passport-images-at-no-cost-desktopweb/"><u>In 2024, Unlock 10 Passport Images at No Cost – Desktop/Web</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-data-management-5-leading-cloud-providers-for-2024/"><u>Streamlining Data Management 5 Leading Cloud Providers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-excellent-monitors-for-photo-professionals-for-2024/"><u>The Ultimate Guide to Excellent Monitors for Photo Professionals for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[New] In 2024, Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-top-hdr-camera-picks/"><u>[Updated] Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[Updated] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mp4-windows-11macos/"><u>熱門免費MP4解碼器列表 - 供Windows 11和MacOS用户使用</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/fast-track-to-using-ez-grabber-effectively-and-efficiently/"><u>Fast Track to Using EZ Grabber Effectively & Efficiently</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x7-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X7 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark Go (2024)?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-asus-rog-phone-7-ultimate-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Asus ROG Phone 7 Ultimate to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-curve-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze Curve 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>In 2024, Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-digital-image-combination/"><u>In 2024, Mastering the Art of Digital Image Combination</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-authoritative-periscope-users-bible/"><u>In 2024, The Authoritative Periscope User's Bible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>In 2024, The Ultimate Path to Becoming an FCP Specialist</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors-for-2024/"><u>Master Your Captions The Top 10 Precision Subtitle Editors for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-backstage-pass-creating-content-that-works/"><u>The Backstage Pass Creating Content That Works</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-techniques-for-flawless-inshot-videos-for-2024/"><u>Transition Techniques for Flawless Inshot Videos for 2024</u></a></li>
 </ul></div>
 

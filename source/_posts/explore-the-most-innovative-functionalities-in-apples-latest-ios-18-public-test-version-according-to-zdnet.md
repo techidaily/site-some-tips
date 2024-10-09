@@ -1,7 +1,7 @@
 ---
 title: Explore the Most Innovative Functionalities in Apple's Latest iOS 18 Public Test Version, According to ZDNet
-date: 2024-09-27T18:10:23.019Z
-updated: 2024-10-03T17:57:52.121Z
+date: 2024-10-08T02:15:37.514Z
+updated: 2024-10-08T21:30:48.408Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,18 +128,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-detailed-assessment-immersive-viewing-experience-by-samsung/"><u>[Updated] Detailed Assessment Immersive Viewing Experience by Samsung</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dissecting-the-social-media-landscape-the-case-of-triller-and-tiktok-for-2024/"><u>[Updated] Dissecting the Social Media Landscape The Case of Triller & TikTok for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-zeo-startup-showcase/"><u>[Updated] The Ultimate Zeo-Startup Showcase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tier-eighth-edition-of-image-blender-tool/"><u>[Updated] Top Tier Eighth Edition of Image Blender Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved Utilization of Unused Film Clips Tips and Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-aoc-screen-display-problems-on-your-pc-running-windows-10/"><u>How to Fix AOC Screen Display Problems on Your PC Running Windows 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>In 2024, Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-pubg-voice-customization/"><u>In 2024, The Ultimate Guide to PUBG Voice Customization</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/weatherproof-excellence-in-viewing-discover-the-sunbritetv-55-inch-veranda-4k-hdr-tv/"><u>Weatherproof Excellence in Viewing - Discover the SunBriteTV 55-Inch Veranda 4K HDR TV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-classic-anime-themes/"><u>[New] The Definitive Guide to Classic Anime Themes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>[New] Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-premiere-pro-template-guide-no-cost/"><u>[New] Ultimate Premiere Pro Template Guide - No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>[New] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/isionalign-studio-for-2024/"><u>[New] VisionAlign Studio for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>[Updated] Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-movie-watching-process-add-subtitles-to-wmp/"><u>[Updated] Streamline Your Movie-Watching Process Add Subtitles to WMP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>2024 Approved The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
+<li><a href="https://app-tips.techidaily.com/adapting-office-gadgets-for-the-age-of-artificial-intelligence-zdnet/"><u>Adapting Office Gadgets for the Age of Artificial Intelligence | ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audiovisual-wizards-ranking-the-finest-photo-and-video-making-pros-with-soundtracks-for-2024/"><u>Audiovisual Wizards Ranking the Finest Photo & Video Making Pros with Soundtracks for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canon-eos-t7-review-the-next-level-of-dslr-excellence/"><u>Canon EOS T7 Review - The Next Level of DSLR Excellence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-isolate-frames-as-photos-in-windows-11-for-2024/"><u>How to Isolate Frames as Photos in Windows 11 for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-zero-30-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Zero 30 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-teaching-through-media-pro-video-editing-hacks/"><u>In 2024, Teaching Through Media Pro Video Editing Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-solutions-for-black-display-errors-on-magic-the-gathering-arena-game/"><u>In-Depth Analysis & Solutions for Black Display Errors on Magic: The Gathering Arena Game</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-razer-blade-pro-17-the-epitome-of-portability-and-strength/"><u>In-Depth Analysis of the Razer Blade Pro 17: The Epitome of Portability and Strength</u></a></li>
 </ul></div>
 

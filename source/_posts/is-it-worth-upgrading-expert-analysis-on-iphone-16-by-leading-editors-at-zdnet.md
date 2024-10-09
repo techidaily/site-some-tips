@@ -1,7 +1,7 @@
 ---
 title: Is It Worth Upgrading? Expert Analysis on iPhone 16 by Leading Editors at ZDNET
-date: 2024-09-28T16:05:02.587Z
-updated: 2024-10-03T20:03:57.384Z
+date: 2024-10-07T21:05:05.843Z
+updated: 2024-10-09T01:16:45.979Z
 tags:
   - apple
 categories:
@@ -34,19 +34,6 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -72,16 +59,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -101,10 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -114,6 +95,19 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -132,10 +126,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -178,20 +172,14 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-high-definition-mastery-best-hd-screen-recorder-selections-for-2024/"><u>[New] High Definition Mastery Best HD Screen Recorder Selections for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tips-for-capturing-clear-facetime-dialogues-on-screen/"><u>[New] Top Tips for Capturing Clear FaceTime Dialogues on Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/"><u>[Updated] Orchestrating the Scene Adding, Cropping & Adjusting Music in Canva</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tone-and-pitch-control-on-chrome-os-select-the-best-online-speech-converters/"><u>[Updated] Tone and Pitch Control on Chrome OS Select the Best Online Speech Converters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-seal-on-immersive-odyssey/"><u>[Updated] Ultimate Seal on Immersive Odyssey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-the-potential-of-srt-files-in-real-time-social-networking/"><u>[Updated] Unleashing the Potential of SRT Files in Real-Time Social Networking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-integrating-video-calls-combining-gmail-and-zoom-for-effective-communication/"><u>2024 Approved Integrating Video Calls Combining Gmail & Zoom for Effective Communication</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-collaborative-marketing-on-youtube/"><u>2024 Approved The Art of Collaborative Marketing on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-time-management-mastery-with-zero-cost-clocks/"><u>2024 Approved Unleashing Time Management Mastery with Zero Cost Clocks</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-bluetooth-driver-issues-in-windows-10-expert-advice-for-smooth-connection/"><u>Guide to Overcoming Bluetooth Driver Issues in Windows 10 - Expert Advice for Smooth Connection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-can-i-stream-in-hd-1080p-on-facebook/"><u>How Can I Stream in HD 1080P on Facebook?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-laughlineup-app-become-a-master-at-memes/"><u>In 2024, LaughLineup App - Become a Master at Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-and-effective-discover-the-best-techniques-for-hassle-free-ipad-data-protection/"><u>Simple and Effective: Discover the Best Techniques for Hassle-Free iPad Data Protection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-jumpstart-to-understanding-av1-codecs/"><u>[New] Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-secure-smooth-cinematography-the-best-stabilizer-brands-guide/"><u>[New] Secure Smooth Cinematography The Best Stabilizer Brands Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>[New] The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-resolve-ieframedll-errores-in-windows-os/"><u>Effective Strategies to Resolve Ieframe.dll Errores in Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-frameworks-for-zooid-creation/"><u>In 2024, Superior Frameworks for Zooid Creation</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-90-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions-for-2024/"><u>The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-xboxs-cloud-streaming-experience/"><u>Unveiling Xbox's Cloud Streaming Experience</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-razr-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Razr 40 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

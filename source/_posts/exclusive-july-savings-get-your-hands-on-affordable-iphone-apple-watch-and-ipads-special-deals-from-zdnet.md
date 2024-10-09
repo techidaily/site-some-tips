@@ -1,7 +1,7 @@
 ---
 title: "Exclusive July Savings: Get Your Hands on Affordable iPhone, Apple Watch, and iPads - Special Deals From ZDNET"
-date: 2024-09-26T17:12:03.015Z
-updated: 2024-10-03T18:05:32.959Z
+date: 2024-10-05T18:25:38.784Z
+updated: 2024-10-08T21:13:11.725Z
 tags:
   - apple
 categories:
@@ -158,10 +158,10 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 [Discounts for students, teachers, educators at Apple View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fus-edu%2Fstore&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple accessory deals
@@ -178,6 +178,13 @@ If you are willing to trade in an older device, you can save on the 11-inch and 
 
 [Apple Lightning to 3.5 mm headphone jack adapter deal for $8 (save $2) $8 at Walmart](https://goto.walmart.com/c/159047/565706/9383?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Lightning-to-3-5-mm-Headphone-Jack-Adapter%2F54738078%3Fathbdg%3DL1103&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can I buy an iPhone without a plan?
 
 Yes, but you must ensure that your new iPhone is not locked to a specific carrier. You can buy unlocked iPhones, both new and pre-owned, from sources including Apple itself, Amazon, Best Buy, and Walmart.
@@ -187,10 +194,10 @@ Yes, but you must ensure that your new iPhone is not locked to a specific carrie
 Apple's AirTag, a tracking device that connects to your account and allows you to find lost objects such as your keys, is Apple's cheapest product. Typically, a single AirTag retails for $29, whereas you can also purchase four-packs for around $99 outside of sales and promotions. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is there a monthly fee for Apple iPads?
@@ -198,13 +205,6 @@ Apple's AirTag, a tracking device that connects to your account and allows you t
 This depends on the type of iPad you decide to purchase. If you opt for a Wi-Fi-only iPad -- regardless of whether you have bought a classic iPad, iPad mini, or iPad Pro -- then there will be no monthly fee or subscription. 
 
 However, if you choose an iPad with Wi-Fi and cellular connectivity, then you will need to pay for a mobile data plan to take advantage of the iPad's cellular features. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these Apple deals?
 
@@ -241,10 +241,16 @@ ZDNET has been scouring the sale to find the best deals by category:
 * [The best deals under $30](https://www.zdnet.com/home-and-office/deals-under-30/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will these deals expire?
@@ -291,17 +297,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/mplify-video-impact-leading-trackers-for-youtube-ranks-for-2024/"><u>[New] Amplify Video Impact Leading Trackers for YouTube Ranks for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-discovering-your-lately-watched-fb-movies-made-simple/"><u>[New] Discovering Your Lately Watched Fb Movies Made Simple</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>[New] Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-composers-guide-to-imovie-soundscape/"><u>[New] The Composer's Guide to iMovie Soundscape</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audio-anomalies-essential-rhythm-altering-tools/"><u>[Updated] In 2024, Audio Anomalies Essential Rhythm Altering Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-5-cost-free-pinterest-videos-download/"><u>[Updated] Ultimate Top 5 Cost-Free Pinterest Videos Download</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strengthen-virtual-communication-overcoming-audio-distortion/"><u>2024 Approved Strengthen Virtual Communication Overcoming Audio Distortion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/asus-laptop-issues-heres-a-solution-for-non-responsive-fn-keys/"><u>ASUS Laptop Issues? Here's a Solution for Non-Responsive Fn Keys</u></a></li>
-<li><a href="https://extra-information.techidaily.com/designing-engaging-audio-visual-podcast-teasers/"><u>Designing Engaging Audio-Visual Podcast Teasers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>In 2024, Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-edge-40-neo-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Edge 40 Neo without backup.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-perfecting-sound-tracks-start-with-auditions-fade-in-for-2024/"><u>Tips for Perfecting Sound Tracks Start with Audition's Fade-In for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-tips-how-to-get-fcp-without-money/"><u>[New] Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>[New] The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-top-10-4k-screens/"><u>[New] The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-copycat-to-originalist-crafting-funny-relatable-memes/"><u>[Updated] From Copycat to Originalist Crafting Funny, Relatable Memes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools/"><u>[Updated] Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>[Updated] Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-audiovisual-hints-pack/"><u>[Updated] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-pathway-to-vimeo-recording-for-2024/"><u>[Updated] The Ultimate Pathway to Vimeo Recording for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-filmora-its-10-most-attractive-features/"><u>[Updated] Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-clear-up-fb-message-misrepresentation/"><u>2024 Approved Clear Up FB Message Misrepresentation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-15-plus-how-to-unlock-a-disabled-apple-iphone-15-plus-by-drfone-ios/"><u>Disabled Apple iPhone 15 Plus How to Unlock a Disabled Apple iPhone 15 Plus?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028067081-dvdpc/"><u>DVD映像データ取得とPC上の編集手順ガイド</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>In 2024, The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/surging-views-selecting-best-hashtags-for-yt-for-2024/"><u>Surging Views Selecting Best Hashtags for YT for 2024</u></a></li>
 </ul></div>
 

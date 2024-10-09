@@ -1,7 +1,7 @@
 ---
 title: Uncovering the Real Price Tag on Complimentary Smartphones Offered by Cellphone Companies
-date: 2024-10-01T18:59:28.109Z
-updated: 2024-10-03T20:07:39.588Z
+date: 2024-10-07T21:32:39.730Z
+updated: 2024-10-08T19:38:47.313Z
 tags:
   - apple
 categories:
@@ -29,19 +29,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -89,6 +76,13 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -110,10 +104,10 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -142,6 +136,13 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -155,13 +156,6 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -184,10 +178,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -268,17 +262,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-profile-with-vimeo-on-instagram/"><u>[New] 2024 Approved Elevate Your Profile with Vimeo on Instagram</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-sims-4-immersion-how-to-record-successfully/"><u>[Updated] In 2024, Sims 4 Immersion How to Record Successfully</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-tiktok-video-techniques-that-work/"><u>2024 Approved Transformative TikTok Video Techniques That Work</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/avoid-misdiagnosis-top-5-against-relying-on-chatgpt-for-healthcare/"><u>Avoid Misdiagnosis: Top 5 Against Relying on ChatGPT for Healthcare</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/copiar-e-colar-em-videos-no-formato-f4v-ferramenta-on-line-gratuitaria-do-movavi/"><u>Cópiar E Colar Em Vídeos No Formato F4V - Ferramenta On-Line Gratuitária Do Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/empowering-individuals-via-english-as-a-second-language/"><u>Empowering Individuals via English as a Second Language</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-integrating-b-footage-into-main-shots/"><u>In 2024, The Art of Integrating B-Footage Into Main Shots</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-top-cameras-for-capturing-sporting-moments/"><u>In 2024, Top Cameras for Capturing Sporting Moments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-quantum-hdr-essentials/"><u>In 2024, Unveiling Quantum HDR Essentials</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-criteria-for-investing-in-your-next-handhayered-gaming-device/"><u>The Essential Criteria for Investing in Your Next Handhayered Gaming Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-insiders-handbook-to-windows-11-video-mastery-for-2024/"><u>The Insider's Handbook to Windows 11 Video Mastery for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-asmr-equipment-for-thoughtful-shoppers-seeking-performance-for-2024/"><u>Top ASMR Equipment for Thoughtful Shoppers Seeking Performance for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-alluring-phrase-formulation-device/"><u>[New] In 2024, Alluring Phrase Formulation Device</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-silliest-stories-on-twitter-for-2024/"><u>[New] Silliest Stories on Twitter for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-a-comparative-study-of-top-10-low-cost-video-meeting-platforms-in-the-enterpriseedu-market/"><u>[Updated] 2024 Approved A Comparative Study of Top 10 Low-Cost Video Meeting Platforms in the Enterprise/Edu Market</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-archive-of-awe-high-quality-gif-preservation-for-tweeters/"><u>[Updated] Archive of Awe High-Quality GIF Preservation for Tweeters</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-leading-fourteen-full-frame-photography-devices/"><u>[Updated] Leading Fourteen Full Frame Photography Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-topic-titling-artisans-assistant/"><u>[Updated] Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-omni-vmix-universal-controller/"><u>2024 Approved Omni-VMix Universal Controller</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-100-virtual-bicycle-escapades-to-experience/"><u>2024 Approved Top 100 Virtual Bicycle Escapades to Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/7-best-monitors-for-photo-editing-worth-trying-top-picks-2024/"><u>7 Best Monitors for Photo Editing Worth Trying [Top Picks 2024]</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exclusive-list-top-business-vault-for-2024/"><u>Exclusive List Top Business Vault for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-finest-places-to-source-high-quality-vectors/"><u>In 2024, The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/mastering-the-art-of-using-likee-a-comprehensive-guide-for-windows-users/"><u>Mastering the Art of Using Likee: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pinnacle-spotlight-tapes/"><u>Pinnacle Spotlight Tapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-straightforward-guide-to-photo-uploads-on-instagram-for-2024/"><u>The Straightforward Guide to Photo Uploads on Instagram for 2024</u></a></li>
 </ul></div>
 

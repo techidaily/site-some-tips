@@ -1,7 +1,7 @@
 ---
 title: "Discover the Easy Way to Stay Connected: Chatting with Loved Ones via Your Apple Watch"
-date: 2024-09-27T20:33:05.940Z
-updated: 2024-10-03T18:23:03.547Z
+date: 2024-10-02T01:03:15.186Z
+updated: 2024-10-09T00:14:19.267Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -47,18 +40,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -77,10 +76,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -99,11 +98,25 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -112,19 +125,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -168,18 +168,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-superior-3d-tools-for-animated-designers/"><u>[New] Superior 3D Tools for Animated Designers</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-integrating-obs-studio-for-optimal-android-performance/"><u>[Updated] In 2024, Integrating OBS Studio for Optimal Android Performance</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleash-creativity-the-ultimate-selection-of-online-jpg-to-gif-tools/"><u>[Updated] In 2024, Unleash Creativity The Ultimate Selection of Online JPG to GIF Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-top-tier-photo-viewing-app/"><u>[Updated] Swift Top-Tier Photo Viewing App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>[Updated] The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-amplify-visual-impact-mastering-the-art-of-applying-luts-with-obs-studio/"><u>2024 Approved Amplify Visual Impact Mastering the Art of Applying LUTs with OBS Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>2024 Approved Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>2024 Approved The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-spectral-revelations-drone-cams-overview/"><u>In 2024, Spectral Revelations Drone Cams Overview</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategizing-visibility-for-podcasts-through-design-for-2024/"><u>Strategizing Visibility for Podcasts Through Design for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ai-journey-simplified-edition/"><u>The AI Journey, Simplified Edition</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-compress-videos-online-for-free-10-best-web-based-solutions/"><u>Updated Compress Videos Online for Free 10 Best Web-Based Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-delving-into-t-series-revenue-generation-on-video-platforms/"><u>[New] In 2024, Delving Into T-Series' Revenue Generation on Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-series-top-tier-webcam-grips/"><u>[New] Ultimate Series Top-Tier Webcam Grips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-tech-comforts-with-luxury-desktops-for-2024/"><u>[New] Ultimate Tech Comforts with Luxury Desktops for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>[Updated] Ensure Flawless Playback How to Set YouTube Video Size Right</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-audio-content-with-googles-tools/"><u>[Updated] Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiny-tale-telling-framework/"><u>[Updated] Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-pc-audio-with-simple-techniques/"><u>2024 Approved Streamline Your PC Audio with Simple Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>2024 Approved The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>2024 Approved Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhancing-productivity-with-microsoft-copilot-tips-for-seamless-setup-on-a-mac-computer/"><u>Enhancing Productivity with Microsoft Copilot: Tips for Seamless Setup on a Mac Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-nubia-red-magic-8s-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Nubia Red Magic 8S Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-melodies-for-deep-meditation-and-inner-peace/"><u>In 2024, Top 10 Free Melodies for Deep Meditation and Inner Peace</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/master-the-art-of-captivating-instagram-video-audiences-for-2024/"><u>Master the Art of Captivating Instagram Video Audiences for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strategies-for-dealing-with-dark-video-frames-on-youtube-for-2024/"><u>Strategies for Dealing with Dark Video Frames on YouTube for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tips-for-non-vid-based-self-education-success-for-2024/"><u>Tips for Non-Vid Based Self-Education Success for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 vs iPad Air 5: Is It Time for an Upgrade? Expert Comparison on ZDNet"
-date: 2024-09-29T16:30:35.123Z
-updated: 2024-10-03T17:19:48.917Z
+date: 2024-10-04T20:53:11.545Z
+updated: 2024-10-09T02:10:34.727Z
 tags:
   - apple
 categories:
@@ -37,13 +37,6 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 **Also: [The best iPad Air cases](https://www.zdnet.com/article/best-ipad-air-case/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | | iPad Air 4 (2020)        | iPad Air 5 (2022)                              |                                                |
@@ -61,22 +54,29 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -94,6 +94,13 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726743600000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
@@ -104,31 +111,24 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $421.79 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J66ZMY7%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc2f96935-50b5-4c02-9352-a589939a7557%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -170,22 +170,20 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exemplary-video-capture-top-5-slow-motion-cams/"><u>[New] Exemplary Video Capture Top 5 Slow Motion Cams</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-making-yourself-laugh-with-snapchats-animated-filters/"><u>[New] In 2024, Making Yourself Laugh with Snapchat's Animated Filters</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-securing-your-gaming-victories-through-fbx/"><u>[New] Securing Your Gaming Victories Through FBX</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-seeking-freedom-with-videos-which-plays-better-vlc-or-mpc/"><u>[New] Seeking Freedom with Videos Which Plays Better, VLC or MPC?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-expertutive-guide-to-enhanced-video-chapter-management-on-youtube/"><u>[Updated] The Expert'utive Guide to Enhanced Video Chapter Management on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-right-time-to-invest-in-your-next-4k-lens/"><u>[Updated] The Right Time to Invest in Your Next 4K Lens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[Updated] The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>[Updated] Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-twitter-video-streams-download-and-convert-to-mp3/"><u>[Updated] Twitter Video Streams Download & Convert to MP3</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems/"><u>[Updated] Unveiling the World of Haptic Navigation Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-use-filters-on-instagram/"><u>2024 Approved How to Use Filters on Instagram?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-revamp-your-social-media-presence-essential-online-image-makers-for-fb-covers/"><u>2024 Approved Revamp Your Social Media Presence Essential Online Image Makers for FB Covers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>2024 Approved The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>2024 Approved Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/a-comprehensive-guide-to-producing-videos-for-social-media/"><u>A Comprehensive Guide to Producing Videos For Social Media</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/conquering-the-world-of-instagram-reels-tips-inside/"><u>Conquering the World of Instagram Reels – Tips Inside</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-money-via-online-video-platforms-for-2024/"><u>Maximizing Money via Online Video Platforms for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-alternatives-to-googles-ar-interactive-graphics/"><u>[New] Alternatives to Google's AR Interactive Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-tips-how-to-get-fcp-without-money/"><u>[Updated] Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-chrono-synergy-effects/"><u>[Updated] Techniques for Chrono-Synergy Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-palette-primer-compreenasive-guide-to-coloring/"><u>[Updated] The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-discover-effortless-pathways-to-dynamic-snaps/"><u>2024 Approved Discover Effortless Pathways to Dynamic Snaps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-user-interface-of-the-syma-x8c-drone/"><u>2024 Approved The User Interface of the Syma X8C Drone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/demystifying-windows-infamous-blue-screen-issues/"><u>Demystifying Windows' Infamous Blue Screen Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-oppo-reno-11-pro-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Oppo Reno 11 Pro 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-gameplay-best-4k-hdmi-21-display-for-players/"><u>In 2024, Ultimate Gameplay Best 4K (HDMI 2.1) Display for Players</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-exciting-photography-aspects-of-ios-11/"><u>In 2024, Unveiling Exciting Photography Aspects of iOS 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-for-converting-dall-e-e-3s-webp-masterpieces-to-jpg-or-png-image-types/"><u>Quick Guide for Converting DALL-E E 3'S WebP Masterpieces to JPG or PNG Image Types</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-insights-into-computer-components/"><u>Tom's Tech Review: In-Depth Insights Into Computer Components</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
 </ul></div>
 

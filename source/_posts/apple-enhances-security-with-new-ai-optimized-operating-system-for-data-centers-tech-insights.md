@@ -1,7 +1,7 @@
 ---
 title: Apple Enhances Security with New AI-Optimized Operating System for Data Centers | Tech Insights
-date: 2024-09-27T19:14:04.996Z
-updated: 2024-10-03T19:15:27.454Z
+date: 2024-10-06T18:04:03.901Z
+updated: 2024-10-08T17:47:34.933Z
 tags:
   - apple
 categories:
@@ -53,16 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -77,13 +71,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -97,10 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -115,6 +102,13 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -125,19 +119,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -147,6 +128,13 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -182,24 +170,18 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-battery-choices-for-exceptional-drone-performance/"><u>[New] Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-right-way-to-pick-spiritual-phone-tunes/"><u>[New] The Right Way to Pick Spiritual Phone Tunes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transformative-audio-techniques-for-media-professionals/"><u>[New] Transformative Audio Techniques for Media Professionals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-crucial-details-for-asmr-viewers/"><u>[New] Unveiling Crucial Details for ASMR Viewers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-sow-and-reap-rivalries-farming-games-to-remember/"><u>[Updated] In 2024, Sow & Reap Rivalries Farming Games to Remember</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thorough-examination-straightforward-dynamic-range-methods/"><u>[Updated] Thorough Examination Straightforward Dynamic Range Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-list-15-must-watch-unboxing-channels/"><u>[Updated] Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-originality-in-virtual-meme-worlds/"><u>[Updated] Unleashing Originality in Virtual Meme Worlds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androidiphones-ultimate-guide-top-10-free-photo-overlay-hacks/"><u>2024 Approved Android/iPhone's Ultimate Guide Top 10 Free Photo Overlay Hacks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-media-manipulation-from-text-formats-to-srts/"><u>2024 Approved The Art of Media Manipulation From Text Formats to SRTs</u></a></li>
-<li><a href="https://win-info.techidaily.com/comprehensive-user-manual-mastering-apowersofts-mac-screen-capture-software/"><u>Comprehensive User Manual: Mastering Apowersoft's Mac Screen Capture Software</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diagnose-windowsminecraft-driver-mishap/"><u>Diagnose Windows/Minecraft Driver Mishap</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-official-sades-headset-drivers-fast-guaranteed-safety-on-windows-os/"><u>Get Your Official Sades Headset Drivers Fast: Guaranteed Safety on Windows OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swift-listening-on-spotify-how-to-accelerate-audio-safely/"><u>In 2024, Swift Listening on Spotify How to Accelerate Audio Safely</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-guide-mastering-gopro-video-editing/"><u>In 2024, The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/most-affordable-mac-audiophiles-editing-app/"><u>Most Affordable Mac Audiophiles Editing App</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-tips-for-iphone-burst-photo-sequences/"><u>Pro Tips for iPhone Burst Photo Sequences</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ubuntu-touch-revived-introducing-the-latest-ota-4-update-with-exciting-enhancements/"><u>Ubuntu Touch Revived: Introducing the Latest OTA-4 Update with Exciting Enhancements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-excellence-in-dialogue-maker-land/"><u>[New] In 2024, Excellence in Dialogue Maker Land</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-full-breakdown-of-facetunes-updated-features/"><u>[Updated] The Full Breakdown of Facetune's Updated Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-basics-an-approachable-hdr-review/"><u>[Updated] Unveiling the Basics An Approachable HDR Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-pro-windows-10-mastery-hacks/"><u>2024 Approved Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlock-creative-potential-strategic-use-of-strikethrough/"><u>2024 Approved Unlock Creative Potential Strategic Use of Strikethrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-gpts-preloaded-components/"><u>Discovering GPT's Preloaded Components</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-bridging-story-and-sound-scriptwriting-for-visual-media/"><u>In 2024, Bridging Story and Sound Scriptwriting for Visual Media</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-top-windows-10-audio-engineer/"><u>In 2024, Top Windows 10 Audio Engineer</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ralink-rt3290-driver-compatibility-fixes-seamless-integration-with-win11win8win7-systems/"><u>Ralink RT3290 Driver Compatibility Fixes: Seamless Integration with Win11/Win8/Win7 Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/revolutionizing-self-care-how-amazon-halo-redefines-personal-health-monitoring/"><u>Revolutionizing Self-Care: How Amazon Halo Redefines Personal Health Monitoring</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-genesis-of-apples-m1-an-insight/"><u>The Genesis of Apple's M1 An Insight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-nba-experience-top-15-ways-to-watch-games-online-for-2024/"><u>The Ultimate NBA Experience - Top 15 Ways to Watch Games Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
 </ul></div>
 

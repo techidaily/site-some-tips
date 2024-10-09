@@ -1,7 +1,7 @@
 ---
 title: "Section 3C: Q&A on Collective Bargaining Strategies Post-Strike"
-date: 2024-09-19 10:23:25
-updated: 2024-09-20 11:38:45
+date: 2024-10-05T02:04:04.328Z
+updated: 2024-10-09T02:15:47.757Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,32 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-cross-social-smiles-top-meme-picks-on-reddit-and-twitter/"><u>[New] In 2024, Cross-Social Smiles Top Meme Picks on Reddit & Twitter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-guide-to-infectious-internet-memes-gifs/"><u>[New] Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-potential-image-curve-magic-in-ps/"><u>[New] Unlock Creative Potential Image Curve Magic in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-maximizing-gopro-battery-life/"><u>[Updated] Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>[Updated] Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-full-potential-of-your-iphone-photos/"><u>[Updated] Unlock the Full Potential of Your iPhone Photos</u></a></li>
+<li><a href="https://fox-where.techidaily.com/bootstrapping-executable-guide-on-using-an-exe-file-with-cli-commands/"><u>Bootstrapping Executable: Guide on Using an EXE File with CLI Commands</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cutting-edge-image-vault-sites/"><u>Cutting-Edge Image Vault Sites</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-tv-offers-over-30-on-labor-day-2024-exclusive-list-and-deals/"><u>Top TV Offers Over $30 on Labor Day 2024 - Exclusive List & Deals!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/your-ultimate-guide-to-effortless-xbox-one-image-snaps-for-2024/"><u>Your Ultimate Guide to Effortless Xbox One Image Snaps for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

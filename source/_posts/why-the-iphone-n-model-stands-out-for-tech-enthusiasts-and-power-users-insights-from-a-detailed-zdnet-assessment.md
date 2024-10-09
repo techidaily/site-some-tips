@@ -1,7 +1,7 @@
 ---
 title: "Why the iPhone N-Model Stands Out for Tech Enthusiasts & Power Users: Insights From a Detailed ZDNET Assessment"
-date: 2024-09-29T16:57:58.501Z
-updated: 2024-10-03T18:30:10.688Z
+date: 2024-10-05T01:28:34.703Z
+updated: 2024-10-08T20:06:40.640Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. On-device AI puts the 'smart' in smartphone
 
 The new Samsung Galaxy S24 series features a live translation feature, powered by on-device AI.
@@ -50,6 +43,13 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -68,10 +68,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -91,10 +91,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -116,10 +116,16 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -176,18 +182,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-camstudios-screen-recorder-a-deep-dive-into-its-latest-features/"><u>[New] In 2024, CamStudio's Screen Recorder A Deep Dive Into Its Latest Features</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online-for-2024/"><u>[Updated] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-your-journey-to-becoming-a-pro-at-gifs-for-2024/"><u>[Updated] Your Journey to Becoming a Pro at GIFs for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/7-critical-considerations-against-incorporating-ray-tracing/"><u>7 Critical Considerations Against Incorporating Ray Tracing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/adjusting-your-ubuntu-desktop-relocating-the-dock-side-panel/"><u>Adjusting Your Ubuntu Desktop: Relocating the Dock Side Panel</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-latest-features-of-the-16-gen-9-lenovo-legion-pro-7i-gaming-laptop-reviewed/"><u>Exploring the Latest Features of the 16 Gen 9 Lenovo Legion Pro 7I Gaming Laptop Reviewed!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-8-ios-messaging-recovery-tools-for-android-and-windows-pc-users-reviewed/"><u>Top 8 iOS Messaging Recovery Tools for Android & Windows PC Users, Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-time-embracing-perplexity-the-innovative-ai-driven-search-platform/"><u>Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-sennheiser-gaming-microphone-tips-and-solutions/"><u>Troubleshooting Your Sennheiser Gaming Microphone: Tips & Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-ai-with-windows-copilot-enable-and-harness-microsofts-intelligent-assistant-efficiently/"><u>Unlocking the Power of AI with Windows Copilot - Enable & Harness Microsoft’s Intelligent Assistant Efficiently</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-natures-artistry-a-guide-to-apple-vision-pro-wonders-and-the-iconic-beauty-of-lake-vrangla/"><u>Unveiling Nature's Artistry: A Guide to Apple Vision Pro Wonders and the Iconic Beauty of Lake Vrangla</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-perplexity-your-ultimate-investment-in-an-exclusive-ai-chatbot/"><u>Unveiling Perplexity: Your Ultimate Investment in an Exclusive AI Chatbot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-value-in-the-air-the-cheapest-yet-effective-drones/"><u>[New] Value in the Air The Cheapest Yet Effective Drones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-windows-11-camcorders-and-webcams-guide-for-2024/"><u>[Updated] Essential Windows 11 Camcorders & Webcams Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-explore-the-best-kept-secrets-ios-10-best-no-cost-collages-and-edits/"><u>[Updated] In 2024, Explore the Best-Kept Secrets IOS' 10 Best, No-Cost Collages & Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-savvy-essential-hashtags-that-work-today/"><u>2024 Approved Social Savvy Essential Hashtags That Work Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app/"><u>2024 Approved The Complete Guide to Audio/Video Settings in Win11's Zoom App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-video-quality-on-tiktok-2-ways/"><u>2024 Approved Transform Video Quality on TikTok (2 Ways)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6s-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6s without Passcode or Face ID</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discovering-the-basics-of-instagram-a-step-by-easy-guide/"><u>Discovering the Basics of Instagram: A Step-by-Easy Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-guide-to-creating-stellar-films-with-win11s-movie-maker-for-2024/"><u>Essential Guide to Creating Stellar Films with Win11's Movie Maker for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-eternal-gallery-of-commons-artworks-online/"><u>In 2024, The Eternal Gallery of Commons Artworks Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pros-guide-to-efficient-win11-use/"><u>In 2024, The Pro's Guide to Efficient Win11 Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-lapse-titans-choosing-the-creme-de-la-camera/"><u>In 2024, Time-Lapse Titans Choosing the Crème De La Camera</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-analysis-selecting-the-leading-5-virtual-title-experts-for-2024/"><u>In-Depth Analysis Selecting the Leading 5 Virtual Title Experts for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-pearson-alliance-for-advanced-filtering-buttons/"><u>Mondly-Pearson Alliance for Advanced Filtering Buttons</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-truth-behind-grok-ai-insights-from-musk-on-its-purpose-and-price/"><u>The Truth Behind Grok AI - Insights From Musk on Its Purpose & Price</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation-for-2024/"><u>The Ultimate Action Plan From TTML & XML to SRT Translation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-pro-windows-10-secrets-revealed-for-2024/"><u>Top 30 Pro Windows 10 Secrets Revealed for 2024</u></a></li>
 </ul></div>
 

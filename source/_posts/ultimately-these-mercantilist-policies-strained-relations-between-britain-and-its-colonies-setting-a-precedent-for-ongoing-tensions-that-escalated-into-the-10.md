@@ -1,7 +1,7 @@
 ---
 title: Ultimately, These Mercantilist Policies Strained Relations Between Britain and Its Colonies, Setting a Precedent for Ongoing Tensions that Escalated Into the Quest for Independence.
-date: 2024-09-28T18:44:05.024Z
-updated: 2024-10-03T18:05:28.385Z
+date: 2024-10-02T21:39:34.961Z
+updated: 2024-10-08T23:29:21.821Z
 tags:
   - apple
 categories:
@@ -60,6 +60,19 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +82,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -92,6 +105,13 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -117,6 +137,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -127,13 +154,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -152,13 +172,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,19 +179,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -224,18 +224,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-convenient-techniques-for-saving-youtube-videos/"><u>[New] In 2024, Convenient Techniques for Saving YouTube Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-webcam-perfection-in-live-streaming-and-recording-for-2024/"><u>[New] WebCam Perfection in Live-Streaming and Recording for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-ensure-audible-vids-on-tweet-platform/"><u>2024 Approved Ensure Audible Vids on Tweet Platform</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-future-of-virtuality-best-metaverse-headsets-ranked/"><u>2024 Approved Future of Virtuality Best Metaverse Headsets Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/5-effektive-massnahmen-zur-optimierung-von-papierbasierten-ablaufen-durch-intelligente-automatisierung-losungen-mit-abbyy/"><u>5 Effektive Maßnahmen Zur Optimierung Von Papierbasierten Abläufen Durch Intelligente Automatisierung – Lösungen Mit ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/94-der-firmen-verlieren-potenzielle-kunden-wahrend-des-onboarding-prozesses-wie-kann-das-vermieden-werden/"><u>94% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyys-content-intelligence-revolutionizing-the-financial-sector-and-accounting-practices/"><u>ABBYY's Content Intelligence: Revolutionizing the Financial Sector and Accounting Practices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alteryx-and-abbyy/"><u>Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
-<li><a href="https://win11.techidaily.com/decode-delay-quick-fixes-for-overcoming-windows-setup-stalls/"><u>Decode Delay: Quick Fixes for Overcoming Windows Setup Stalls</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-seamless-interactivity-made-possible-by-cookiebot-integration/"><u>Discover Seamless Interactivity, Made Possible by Cookiebot Integration</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcoming-challenges-fixing-the-intel-dynamic-platform-and-thermal-framework-driver-setup-failure/"><u>Overcoming Challenges: Fixing the Intel Dynamic Platform and Thermal Framework Driver Setup Failure</u></a></li>
-<li><a href="https://win-blog.techidaily.com/phasmophobia-loading-stagnation-at-90-screen-issue-game-patch-addressed/"><u>Phasmophobia Loading Stagnation at 90% Screen Issue Game Patch Addressed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-az-video-logger-full-application-scrutiny/"><u>[New] AZ Video Logger - Full Application Scrutiny</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-and-uncomplicated-youtube-image-extractor-tools-reviewed-for-2024/"><u>[Updated] Free and Uncomplicated YouTube Image Extractor Tools Reviewed for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-silent-swings-managing-volume-effortlessly-in-garageband/"><u>[Updated] Silent Swings Managing Volume Effortlessly in Garageband</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[Updated] Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>2024 Approved Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://common-error.techidaily.com/access-denied-blizzard-network-down/"><u>Access Denied: Blizzard Network Down</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/hands-on-approach-to-ios-audio-capture/"><u>Hands-On Approach to iOS Audio Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>In 2024, Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-audiovideo-alignment-in-vlc/"><u>Mastering Audio/Video Alignment in VLC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mic-resonance-top-10-yogis-on-the-web-for-2024/"><u>Rhythmic Resonance Top 10 Yogis on the Web for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartphone-selection-for-superior-video-recording-for-2024/"><u>Ultimate Smartphone Selection for Superior Video Recording for 2024</u></a></li>
 </ul></div>
 

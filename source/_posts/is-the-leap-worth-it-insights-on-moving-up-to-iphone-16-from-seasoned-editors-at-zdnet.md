@@ -1,7 +1,7 @@
 ---
 title: Is the Leap Worth It? Insights on Moving Up to iPhone 16 From Seasoned Editors at ZDNet
-date: 2024-09-27T16:59:32.453Z
-updated: 2024-10-03T18:19:18.596Z
+date: 2024-10-02T19:36:17.505Z
+updated: 2024-10-08T20:10:39.148Z
 tags:
   - apple
 categories:
@@ -41,16 +41,16 @@ As an iPhone 14 Pro Max user, I'm not convinced that the new AI-enabled [iPhone 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## You should buy the iPhone 16 Pro if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You want Apple Intelligence
 
@@ -61,10 +61,10 @@ Apple's artificial intelligence push, aptly named Apple Intelligence, will be av
 To run smoothly, the Apple Intelligence features require an A17 chip or newer and at least 8GB of RAM, but the iPhone 14 Pro has the A16 chip and only 6GB of RAM. The iPhone 16 Pro features an A18 Pro chip and 8GB of RAM, making it a good device to run Apple's AI features. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You'd like to get your hands on the bigger screen
@@ -74,13 +74,6 @@ Apple has thinned out the iPhone 16 Pro's bezels to the bare minimum and stretch
 **Also: [Every iPhone 16 model compared: Which iPhone should you buy today?](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/)**
 
 The larger smartphone also means that the iPhone 16 Pro has a larger battery than the 14 Pro, at 3,355 mAh compared to 3,200 mAh. But even without the welcome battery upgrade, the new Pro models support faster charging than ever. The iPhone 16 Pro supports 40W wired charging and 20W of MagSafe charging, so if you find the iPhone 14 Pro's charging slow, it could be time to upgrade.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You love taking beautiful photos
 
@@ -97,10 +90,10 @@ If you love taking photos with your smartphone, the camera upgrades alone may be
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. You'd rather wait for bigger upgrades
@@ -120,6 +113,13 @@ One of the biggest reasons to hold off on an upgrade is financial. The iPhone 14
 As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs, its battery life, and charging time. While USB-C charging would be convenient, I don't see myself springing for the new iPhone 16 Pro, though I may go for the iPhone 17 when it's launched.
 
 [iPhone 14 Pro (Pre-owned) $627.45 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BN95FRW9%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca33a81a1-95d8-4b68-b424-74cbe5a89448%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -155,24 +155,22 @@ As an iPhone 14 Pro Max user, I'm still pretty happy with how my iPhone performs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-horizontalvertical-selecting-facebook-video-format/"><u>[New] Horizontal/Vertical Selecting Facebook Video Format</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-windows-photo-reader-pro/"><u>[New] Prime Windows Photo Reader Pro</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-media-storage-with-3-tactics-for-2024/"><u>[New] Streamline Media Storage with 3 Tactics for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-getting-started-with-adobe-presenter-video-recordings/"><u>[Updated] In 2024, Getting Started with Adobe Presenter Video Recordings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/achieve-superior-outcomes-mastering-dall-e-2-in-5-steps/"><u>Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-your-linux-skills-with-tips-from-chatgpt-a-personal-experience/"><u>Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-cutting-edge-results-with-our-latest-ai-enhanced-google-search/"><u>Discover Cutting-Edge Results with Our Latest AI-Enhanced Google Search</u></a></li>
-<li><a href="https://facebook.techidaily.com/dissecting-the-contentious-facebook-papers/"><u>Dissecting the Contentious Facebook Papers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/electric-vehicle-charging-issues-unraveling-the-top-8-causes-of-connection-failures/"><u>Electric Vehicle Charging Issues: Unraveling the Top 8 Causes of Connection Failures</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-crafting-captivating-haul-videos/"><u>In 2024, Step-by-Step Crafting Captivating Haul Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-methods-for-saving-vimeo-footage-for-2024/"><u>Quick Methods for Saving Vimeo Footage for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/sharpen-your-iphone-hdri-discover-the-top-4-fixes-for-premiere-pro-professionals-for-2024/"><u>Sharpen Your iPhone HDRI Discover the Top 4 Fixes for Premiere Pro Professionals for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-concealed-causes-behind-fb-disabled/"><u>Unveiling the Concealed Causes Behind FB Disabled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-creators-update-troubleshooting-fixing-downloads-and-audio-problems/"><u>Windows 11 Creators Update Troubleshooting: Fixing Downloads and Audio Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/windows-11-essentials-executing-a-pristine-system-reboot/"><u>Windows 11 Essentials: Executing a Pristine System Reboot</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[New] 2024 Approved Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategy-cradle-nurturing-market-gains/"><u>[New] Strategy Cradle Nurturing Market Gains</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tackling-blurred-images-in-online-meetings-with-zoom-techniques-for-2024/"><u>[New] Tackling Blurred Images in Online Meetings with Zoom Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-the-easy-path-to-blending-linktree-with-tiktok-bios/"><u>[New] Unleashing Potential The Easy Path to Blending Linktree with TikTok Bios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>[New] Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-smooth-visual-journeys-master-fades-in-a-flash/"><u>[Updated] 2024 Approved Smooth Visual Journeys Master Fades in a Flash</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-discover-the-tricks-to-recording-and-screencasting-your-youtube-views-without-cash/"><u>[Updated] Discover The Tricks to Recording & Screencasting Your YouTube Views without Cash</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-optimal-assortment-premier-webcam-stabilizers/"><u>[Updated] Optimal Assortment Premier Webcam Stabilizers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-free-public-domain-pubg-screenshot-slideshows/"><u>[Updated] Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-webcam-safety-the-best-cam-cover-picks-for-2024/"><u>[Updated] Webcam Safety The Best Cam Cover Picks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-magixs-image-organizer-insights/"><u>2024 Approved Unveiling MAGIX's Image Organizer Insights</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-se-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone SE and iPad Securely</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-mastering-windows-colors-expertise-for-viewing-and-editing-hd-video/"><u>In 2024, Mastering Windows Colors Expertise for Viewing & Editing HD Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-leading-8-multimedia-apps-for-creative-phones-android-ios/"><u>In 2024, The Leading 8 Multimedia Apps for Creative Phones (Android, iOS)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimal-focus-techniques-for-videoleap-users/"><u>Optimal Focus Techniques for Videoleap Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-iphone-warranty-service-with-apples-remote-diagnostics-how-to/"><u>Unlock iPhone Warranty Service with Apples Remote Diagnostics - How To?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-with-magix-paint-pro-for-2024/"><u>Unlocking Potential with MAGIX Paint Pro for 2024</u></a></li>
 </ul></div>
 

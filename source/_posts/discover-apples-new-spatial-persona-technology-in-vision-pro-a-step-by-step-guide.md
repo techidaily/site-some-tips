@@ -1,7 +1,7 @@
 ---
 title: Discover Apple's New Spatial Persona Technology in Vision Pro - A Step-by-Step Guide
-date: 2024-10-02T19:58:17.668Z
-updated: 2024-10-03T18:17:45.483Z
+date: 2024-10-06T16:04:56.485Z
+updated: 2024-10-09T02:07:34.137Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,6 +51,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,16 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -77,10 +78,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -96,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,24 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-sunset-symphony-cinematic-darkening-in-pro/"><u>[New] Sunset Symphony Cinematic Darkening in Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tackling-fuzzy-visuals-on-online-video-platforms/"><u>[New] Tackling Fuzzy Visuals on Online Video Platforms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>2024 Approved The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-troubleshooting-youtube-fixing-warped-video-frames/"><u>2024 Approved Troubleshooting YouTube Fixing Warped Video Frames</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/brother-hl-l2340dw-printer-download-for-windows/"><u>Brother HL-L2340DW Printer Download for Windows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/composite-skies-a-drone-video-editors-strategic-guide-for-2024/"><u>Composite Skies A Drone Video Editor’s Strategic Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-support-strategies-ethical-use-of-gpt/"><u>Digital Support Strategies: Ethical Use of GPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/eliminating-issues-effective-solutions-when-your-logitech-g430-microphone-fails/"><u>Eliminating Issues: Effective Solutions When Your Logitech G430 Microphone Fails</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-mixing-linktree-and-tiktok-bios/"><u>In 2024, The Essential Guide to Mixing Linktree and TikTok Bios</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-professional-ringtone-designer-guide/"><u>In 2024, Top Picks Professional Ringtone Designer Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tiktok-wallpaper-templates-uncovered/"><u>In 2024, Top TikTok Wallpaper Templates Uncovered</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-13-mini-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 13 mini Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/streamlined-language-translation-best-online-subtitle-manipulators/"><u>Streamlined Language Translation – Best Online Subtitle Manipulators</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721475365984-struggling-with-disappearing-iphone-push-messages-try-these-7-hacks/"><u>Struggling with Disappearing iPhone Push Messages? Try These 7 Hacks!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-combat-guide-to-top-fps-games-for-2024/"><u>The Ultimate Combat Guide to Top FPS Games for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-sharper-images-during-zoom-calls-for-2024/"><u>Tips for Sharper Images During Zoom Calls for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/0-vr-videos-on-youtube-to-have-immersive-experience/"><u>Top 10 VR Videos on YouTube to Have Immersive Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unmatched-upticks-celebrating-top-10-reddit-discussions-for-2024/"><u>Unmatched Upticks Celebrating Top 10 Reddit Discussions for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/video-editing-face-off-final-cut-pro-vs-lumafusion-which-one-wins/"><u>Video Editing Face-Off Final Cut Pro vs LumaFusion - Which One Wins?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-tips-efficiently-post-videos-on-igtv-for-2024/"><u>[New] Quick Tips Efficiently Post Videos on IGTV for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-annual-roundup-top-no-money-video-editing-software-reviewed/"><u>[Updated] 2024 Approved Annual Roundup Top No-Money Video Editing Software Reviewed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-ace-your-edits-in-depth-guide-to-high-quality-youtube-videos/"><u>[Updated] Ace Your Edits In-Depth Guide to High-Quality YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-audio-integration-in-canva-videos/"><u>[Updated] Mastering Audio Integration in Canva Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-merge-music-and-graphics-in-ppt/"><u>[Updated] Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-wedding-clock-apps-for-android-and-ios-to-keep-your-day-on-track/"><u>[Updated] Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-photos-with-ease-using-basic-adobe-tools/"><u>2024 Approved Transform Photos with Ease Using Basic Adobe Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-gionee-f3-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Gionee F3 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-reviews-top-5-masterful-motion-capture-devices-for-2024/"><u>Expert Reviews Top 5 Masterful Motion Capture Devices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-killer-e2500-network-cards-up-and-running-free-driver-downloads-available-now/"><u>Get Your Killer E2500 Network Cards Up and Running - FREE Driver Downloads Available Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-honor-magic-5-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Magic 5 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-minimize-external-noise-find-a-quiet-environment-to-minimize-distractions-that-can-hinder-understanding/"><u>In 2024, Minimize External Noise Find a Quiet Environment to Minimize Distractions that Can Hinder Understanding</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-color-grading-utilizing-luts-in-ae/"><u>In 2024, The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-facetune-walkthrough-for-stunning-photos/"><u>In 2024, The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>In 2024, Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/soluciones-eficaces-para-acelerar-la-codificacion-hevch265-sin-comprometer-la-calidad/"><u>Soluciones Eficaces Para Acelerar La Codificación HEVC/H.265 Sin Comprometer La Calidad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-platforms-for-unparalleled-gamers-joy-for-2024/"><u>Top 9 Platforms for Unparalleled Gamers' Joy for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transforming-mp4-files-into-mpeg-2-format-top-3-proven-methods/"><u>Transforming MP4 Files Into MPEG-2 Format: Top 3 Proven Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-techniques-decreasing-volume-gradually-in-pp-for-2024/"><u>Transition Techniques Decreasing Volume Gradually in PP for 2024</u></a></li>
 </ul></div>
 

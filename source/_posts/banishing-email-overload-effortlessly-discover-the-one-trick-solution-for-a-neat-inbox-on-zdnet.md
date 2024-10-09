@@ -1,7 +1,7 @@
 ---
 title: "Banishing Email Overload Effortlessly: Discover the One-Trick Solution for a Neat Inbox on ZDNET"
-date: 2024-10-01T16:29:40.495Z
-updated: 2024-10-03T17:03:50.211Z
+date: 2024-10-02T16:09:44.374Z
+updated: 2024-10-08T19:13:27.508Z
 tags:
   - apple
 categories:
@@ -61,10 +61,16 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +82,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +99,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +116,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,17 +166,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-engaging-audiences-with-facebooks-virtual-reality-content/"><u>[New] 2024 Approved Engaging Audiences with Facebook's Virtual Reality Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-achieve-clear-and-smooth-video-outputs-with-these-logitech-camera-insights-for-2024/"><u>[Updated] Achieve Clear & Smooth Video Outputs with These Logitech Camera Insights for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-viewers-interest-with-innovative-valorant-thumbnail-ideas/"><u>[Updated] Enhancing Viewers' Interest with Innovative Valorant Thumbnail Ideas</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-final-steps-for-irreversible-tiktok-un-signup-for-2024/"><u>[Updated] Final Steps for Irreversible TikTok Un-Signup for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-engagement/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-enhancing-your-websites-seo-and-conversion-rates/"><u>Cookiebot-Enhanced: Enhancing Your Website's SEO and Conversion Rates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/elevating-robotic-process-automation-outcomes-with-cutting-edge-process-analytics-abbyy/"><u>Elevating Robotic Process Automation Outcomes with Cutting-Edge Process Analytics | ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/empowerment/"><u>Empowerment</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-xiaomi-redmi-k70e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Xiaomi Redmi K70E Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-substitute-options-for-openais-sora-offering-no-cost-access-to-state-of-the-art-ai/"><u>Top 5 Substitute Options for OpenAI's Sora, Offering No Cost Access to State-of-the-Art AI</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-camon-20-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Camon 20 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-podcasters-playbook-submitting-to-apple/"><u>[New] 2024 Approved Podcaster's Playbook Submitting to Apple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-joke-to-share-perfecting-the-meme-process/"><u>[Updated] From Joke to Share Perfecting the Meme Process</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[Updated] In 2024, Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[Updated] Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>2024 Approved Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-recorders-bible-for-clear-conversations/"><u>2024 Approved The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>2024 Approved Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-google-drive-upload-process-solutions-when-uploads-wont-go-anywhere/"><u>Accelerate Your Google Drive Upload Process: Solutions When Uploads Won't Go Anywhere</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-12-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 12 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-7-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-video-tools-cross-platform-os-support/"><u>In 2024, Top 10 Free Video Tools Cross-Platform OS Support</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turning-xmlssattml-files-into-srt-formats-strategies-and-techniques/"><u>In 2024, Turning XML/SSA/TTML Files Into SRT Formats Strategies and Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-with-editors-essentials/"><u>In 2024, Unlock Image Potential with Editor's Essentials</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-drone-review-best-5-to-consider/"><u>Professional Drone Review Best 5 to Consider</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-installing-asus-chipset-drivers-in-windows/"><u>Step-by-Step Tutorial: Installing ASUS Chipset Drivers in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlocking-skypes-full-capacity-with-effective-zoom-methods/"><u>Unlocking Skype's Full Capacity with Effective Zoom Methods</u></a></li>
 </ul></div>
 

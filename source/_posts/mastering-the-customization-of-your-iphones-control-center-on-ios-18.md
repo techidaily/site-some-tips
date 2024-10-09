@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Your iPhone's Control Center on iOS 18
-date: 2024-09-26T18:54:24.478Z
-updated: 2024-10-03T19:15:45.989Z
+date: 2024-10-05T20:32:22.086Z
+updated: 2024-10-09T00:36:05.490Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,13 +58,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -72,16 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -103,6 +90,13 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -140,20 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>[New] The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[Updated] 2024 Approved Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premier-12-screen-recording-solutions-uncapped-recording-for-2024/"><u>[Updated] Premier 12 Screen Recording Solutions - Uncapped Recording for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>[Updated] Top Picks Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-photo-dynamics-mastering-adobe-illustrator-blurs/"><u>[Updated] Unleash Photo Dynamics Mastering Adobe Illustrator Blurs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-true-tints-and-shades-in-photos/"><u>2024 Approved Unlocking True Tints and Shades in Photos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/arctic-accolades-top-athletes-and-events/"><u>Arctic Accolades Top Athletes & Events</u></a></li>
-<li><a href="https://video-capture.techidaily.com/asus-ax6000-rt-ax88u-router-review-a-smart-wi-fi-6-router-with-great-features/"><u>Asus AX6000 RT-AX88U Router Review: A Smart Wi-Fi 6 Router With Great Features</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/easy-start-exploring-vectors-world-essentials-and-tools-for-2024/"><u>Easy Start Exploring Vectors' World - Essentials & Tools for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-success-starts-on-screen-10-must-see-films/"><u>In 2024, The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-20-ae-templates-for-aspiring-designers/"><u>In 2024, Top 20 AE Templates for Aspiring Designers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/social-savvy-essential-hashtags-that-work-today/"><u>Social Savvy Essential Hashtags That Work Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-of-both-worlds-ai-and-human-creativity/"><u>The Best of Both Worlds: AI & Human Creativity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-professional-iphoneipad-podcast-production-for-2024/"><u>The Ultimate Guide to Professional iPhone/iPad Podcast Production for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-a78-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo A78 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-perfecting-stability-a-no-tripod-guide/"><u>[Updated] 2024 Approved Perfecting Stability A No-Tripod Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>[Updated] The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-facetune-guide-elevating-your-image-quality/"><u>[Updated] Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>2024 Approved Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro-for-2024/"><u>A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-mindfulness-playlist-for-2024/"><u>Free Mindfulness Playlist for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-open-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Open Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-modern-techniques-for-gesture-interpretation/"><u>In 2024, Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/gen-streaming-enable-av1-codec-on-youtube/"><u>Next-Gen Streaming Enable AV1 Codec on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808316530-stop-nuisance-phone-calls-in-their-tracks-a-step-by-step-blocking-tutorial-for-iphone-and-android-users/"><u>Stop Nuisance Phone Calls in Their Tracks – A Step-by-Step Blocking Tutorial for iPhone & Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-level-of-immersion-top-10-vr-gear-for-2024/"><u>The Next Level of Immersion (Top 10 VR Gear) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-and-steam-games-overcoming-launch-problems-with-simple-solutions/"><u>Windows 11 and Steam Games: Overcoming Launch Problems with Simple Solutions</u></a></li>
 </ul></div>
 

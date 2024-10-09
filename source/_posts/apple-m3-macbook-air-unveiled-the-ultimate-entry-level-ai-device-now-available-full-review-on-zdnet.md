@@ -1,7 +1,7 @@
 ---
 title: "Apple M3 MacBook Air Unveiled: The Ultimate Entry-Level AI Device Now Available - Full Review on ZDNet"
-date: 2024-09-27T17:11:46.696Z
-updated: 2024-10-03T18:23:33.525Z
+date: 2024-10-05T19:36:02.331Z
+updated: 2024-10-08T19:47:01.066Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ One more thing to keep in mind if you're considering buying the 15-inch M3 MacBo
 
 **Also:** [**MacBook Pro (M3 Max) review: A desktop-class laptop for an AI-powered age**](https://www.zdnet.com/article/macbook-pro-m3-max-review/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Specifications
 
 ---
@@ -68,10 +75,10 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the M3 MacBook Air
@@ -81,16 +88,10 @@ In terms of qualitative testing, I wrote this article on the M3 MacBook Air and 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
@@ -120,6 +121,19 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 | Photo 3                      | 0:17     |
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
 
@@ -163,13 +177,6 @@ Jason Hiner/ZDNET
 
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 **A USB-C port on the right side:** With the M3 MacBook Air becoming more and more of a pro-capable laptop, the biggest thing that it needs is more expansion ports. The two USB-C 4 / Thunderbolt 3 ports limit the amount of pro-level things you can do with the machine without using cumbersome expansion docks and hubs. The fact that both of the USB-C ports are on the left side can also be awkward and inconvenient at times. Apple could solve both problems by simply adding one more USB-C port to the right side of the M3 MacBook Air. 
@@ -195,19 +202,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -255,19 +249,14 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimized-obs-options-for-low-end-systems/"><u>[New] 2024 Approved Optimized OBS Options for Low-End Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-a-quick-guide-to-chroma-key-background/"><u>[New] A Quick Guide to Chroma Key Background</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-views-to-valuables-the-ultimate-video-income-play/"><u>[New] In 2024, From Views to Valuables The Ultimate Video Income Play</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-a-simple-approach-to-youtube-statistics-review/"><u>[Updated] 2024 Approved A Simple Approach to YouTube Statistics Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-non-verbal-communication-in-interviewing/"><u>2024 Approved The Role of Non-Verbal Communication in Interviewing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024wmvmp4/"><u>2024年度最新WMVからMP4への高品質コンバーター - 完全な変換手順</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/building-believable-characters-through-dialogue-for-2024/"><u>Building Believable Characters Through Dialogue for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-14-pro-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 14 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehensive-guide-to-9gag-for-meme-enthusiasts/"><u>In 2024, The Comprehensive Guide to 9GAG for Meme Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-30-apps-for-audio-lovers/"><u>In 2024, Top 30 Apps for Audio Lovers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-ultimate-editor-sets-for-macos-sierra-users/"><u>In 2024, Unveiling the Ultimate Editor Sets for macOS Sierra Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/shooting-for-greatness-iphones-10-vital-composition-guidelines/"><u>Shooting for Greatness IPhone's 10 Vital Composition Guidelines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamline-storytelling-with-inshots-transition-features-for-2024/"><u>Streamline Storytelling with Inshot's Transition Features for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-enhancements-in-sonys-s6500-bdhd-player-for-2024/"><u>Unveiling Enhancements in Sony's S6500 BD/HD Player for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecoding-youtubes-best-video-editing-practices/"><u>[New] Decoding YouTube's Best Video Editing Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-audio-transformation-tools-unleash-voices/"><u>[New] Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[New] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[New] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-gaining-traction-on-youtube-the-successful-sponsorship-roadmap-by-famebit/"><u>[Updated] Gaining Traction on YouTube The Successful Sponsorship Roadmap by FameBit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-online-meetings-from-zoom-to-the-big-screen-television/"><u>How To: Project Your Online Meetings From Zoom to the Big Screen Television</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-secrets-of-successful-unboxing-reels-a-compreenasium-guide/"><u>In 2024, Secrets of Successful Unboxing Reels A Compreenasium Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726222429557-avi-ogm-movavi/"><u>오피니 상점에서 자원 무료: AVI를 OGM으로 변환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

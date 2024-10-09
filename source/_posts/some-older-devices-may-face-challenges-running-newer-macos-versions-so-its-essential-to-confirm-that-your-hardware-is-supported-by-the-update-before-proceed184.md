@@ -1,7 +1,7 @@
 ---
 title: Some Older Devices May Face Challenges Running Newer MacOS Versions, so It's Essential to Confirm that Your Hardware Is Supported by the Update Before Proceeding.
-date: 2024-09-30T16:39:38.233Z
-updated: 2024-10-03T18:43:50.222Z
+date: 2024-10-06T16:56:45.269Z
+updated: 2024-10-08T19:58:15.155Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -63,10 +56,16 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Siri getting an Apple Intelligence makeover?
@@ -97,6 +96,13 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -108,13 +114,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -128,6 +127,13 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,6 +145,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -155,13 +168,6 @@ In turn, cloud-based AI processing requires sending data from the device to remo
 Apple is leveraging what it calls Private Cloud Compute for complex tasks that require cloud servers. These processes draw on larger server-based models while protecting user privacy. The servers are built on Apple Silicon, and the data is never saved in the cloud.
 
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
 
@@ -218,22 +224,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-webcam-captures-that-wow-top-strategies-unleashed/"><u>[New] In 2024, Webcam Captures that Wow Top Strategies Unleashed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-ringtones-roundup-elite-download-hubs/"><u>[New] Superior Ringtones Roundup Elite Download Hubs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>[New] Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-choices-for-streamers/"><u>[New] Ultimate Backdrop Choices for Streamers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-guide-to-screen-recording-facetime-meetings/"><u>[Updated] 2024 Approved Essential Guide to Screen-Recording FaceTime Meetings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-free-youtube-to-mp3-converters-you-should-know-onlinewinmac-for-2024/"><u>[Updated] Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac] for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[Updated] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-step-guide-free-yourself-from-youtube-shorts-for-2024/"><u>Final Step Guide Free Yourself From YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/get-your-airdrop-back-on-track-with-these-critical-nine-fixes-in-minutes/"><u>Get Your AirDrop Back on Track with These Critical Nine Fixes in Minutes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>In 2024, The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-voice-to-text-applications/"><u>In 2024, Top Tier Voice to Text Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-creative-potential-animated-text-techniques-ig-stories/"><u>In 2024, Unlocking Creative Potential Animated Text Techniques IG Stories</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-beastly-symphony-capturing-giants-in-audio-form/"><u>New The Beastly Symphony Capturing Giants in Audio Form</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/review-of-eufy-omni-s1-pro-the-futuristic-automaton-vacuum/"><u>Review of Eufy Omni S1 Pro: The Futuristic Automaton Vacuum</u></a></li>
-<li><a href="https://extra-information.techidaily.com/step-by-step-to-stunning-photomontages/"><u>Step-by-Step to Stunning Photomontages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-mac-accessory-visionplussound-capturing/"><u>[New] In 2024, Cutting-Edge Mac Accessory Vision+Sound Capturing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-the-potential-of-aurora-hdr-tech/"><u>[New] Unraveling the Potential of Aurora HDR Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-steps-for-controlling-video-comment-settings-in-youtube/"><u>[Updated] 2024 Approved Steps for Controlling Video Comment Settings in YouTube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-perfect-bgms-and-images-elevating-remote-conferencing/"><u>[Updated] In 2024, Perfect BGMs & Images Elevating Remote Conferencing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-nintendo-switch-combat-series-list-max-156-for-2024/"><u>[Updated] Premium Nintendo Switch Combat Series List (Max 156) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategic-vr-marketing-manifesto/"><u>[Updated] Strategic VR Marketing Manifesto</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-budget-friendly-pinterest-video-grabs/"><u>[Updated] Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-a-complete-review-of-powerdirector-2024/"><u>[Updated] Unlocking Potential A Complete Review of PowerDirector 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-social-splash-10-best-templates-for-online-shares/"><u>2024 Approved Social Splash 10 Best Templates for Online Shares</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-nubia-red-magic-8s-proplus-frp-bypass-by-drfone-android/"><u>About Nubia Red Magic 8S Pro+ FRP Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y56-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y56 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-insiders-guide-to-the-vr-lexicon-essentials/"><u>In 2024, Insider's Guide to the VR Lexicon Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-step-by-step-implementing-effective-transitions-on-inshot/"><u>In 2024, Step-by-Step Implementing Effective Transitions on Inshot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-sierras-icloud-full-access-guide/"><u>In 2024, Unraveling Sierra's iCloud Full Access Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/obtain-your-essential-msi-b350-tomahawk-drivers-seamless-setup-for-win11win7-users/"><u>Obtain Your Essential MSI B350 Tomahawk Drivers - Seamless Setup for Win11/Win7 Users</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-wars-evaluating-streamers-top-contenders-obs-and-wirecast-for-2024/"><u>Stream Wars Evaluating Streamers' Top Contenders, OBS & Wirecast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/untangling-the-video-jams-in-digital-portfolits-for-2024/"><u>Untangling the Video Jams in Digital Portfolits for 2024</u></a></li>
 </ul></div>
 

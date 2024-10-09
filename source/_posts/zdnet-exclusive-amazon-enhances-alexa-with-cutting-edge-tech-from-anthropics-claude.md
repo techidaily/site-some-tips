@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Exclusive: Amazon Enhances Alexa with Cutting-Edge Tech From Anthropic's Claude"
-date: 2024-09-19 14:14:46
-updated: 2024-09-20 11:29:57
+date: 2024-10-07T23:49:56.869Z
+updated: 2024-10-08T23:08:09.218Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,34 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-strategic-first-impressions-the-unpacking-edge/"><u>[New] Strategic First Impressions The Unpacking Edge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-changing-console-voice/"><u>[New] The Comprehensive Guide to Changing Console Voice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>[New] The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-10-empowering-flicks/"><u>[New] The Ultimate List 10 Empowering Flicks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-pros-guide-to-uploading-twitter-videos-to-snapchat/"><u>[Updated] The Pro's Guide to Uploading Twitter Videos to Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-memes-with-a-smile-builder/"><u>[Updated] Top Memes with a Smile Builder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom/"><u>2024 Approved Unraveling the Mystery of Selecting a Virtual Reality Device Tethered Connections vs Mobility Freedom?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/arma-3-stability-fixes-top-solutions-to-prevent-game-crashes/"><u>Arma 3 Stability Fixes: Top Solutions to Prevent Game Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-airwaves-a-beginners-internet-radio-guide/"><u>Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-the-ultimate-top-5-to-do-apps-for-boosting-productivity-cnet/"><u>Exploring the Ultimate Top 5 To-Do Apps for Boosting Productivity - CNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-vault-in-the-sky-for-every-picture-free-and-paid-alternatives-explored/"><u>In 2024, Vault in the Sky for Every Picture Free & Paid Alternatives Explored</u></a></li>
+<li><a href="https://fox-within.techidaily.com/unlocking-file-management-secrets-with-the-windows-explorer-properties-panel/"><u>Unlocking File Management Secrets with the Windows Explorer Properties Panel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Motorola Moto G14 | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

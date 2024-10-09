@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the New Capabilities of VisionOS 2 Showcased During WWDC: A Breakdown of Exciting Aspects & Mystifying Elements | ZDNET Insights"
-date: 2024-10-01T18:14:33.545Z
-updated: 2024-10-03T18:38:33.020Z
+date: 2024-10-04T01:51:34.285Z
+updated: 2024-10-08T18:03:22.951Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -65,6 +65,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -82,10 +89,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,10 +104,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -118,13 +125,6 @@ Apple could achieve this by equipping MacOS, iOS, and iPadOS with Apple Intellig
 Enterprises may also employ a mobile device management solution to facilitate access to on-device LLMs with business Macs. Additionally, iPhones or Macs could be used as proxies for Apple Watch or HomePod requests for mobile users. We may also see a more powerful Apple TV with more onboard memory and processing to act as an Apple Intelligence "hub" for every Apple device in a household.
 
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## I'm still optimistic
 
@@ -166,24 +166,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-make-your-profile-cover-video-more-attractive/"><u>[New] How to Make Your Profile Cover Video More Attractive</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-leading-non-zoom-remote-work-solutions-for-pc-and-mobile/"><u>[New] In 2024, Leading Non-Zoom Remote Work Solutions for PC & Mobile</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inside-the-scoring-of-toolwizs-photography-software/"><u>[Updated] Inside the Scoring of Toolwiz's Photography Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-quintessential-accessories-list-for-sj4000-lovers/"><u>2024 Approved The Quintessential Accessories List for SJ4000 Lovers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/budget-friendly-syma-107g-rc-helicopter-comprehensive-user-guide-and-reviews/"><u>Budget-Friendly Syma 107G RC Helicopter - Comprehensive User Guide & Reviews</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cost-effective-yet-questionable-accuracy-a-comprehensive-review-of-the-thermopro-tp67/"><u>Cost-Effective Yet Questionable Accuracy: A Comprehensive Review of the ThermoPro TP67</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
-<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-worlds-of-gigantic-intelligent-language-models/"><u>Inside Worlds of Gigantic, Intelligent Language Models</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/invisible-storage-for-active-conversations-with-ai/"><u>Invisible Storage for Active Conversations with AI</u></a></li>
-<li><a href="https://some-tips.techidaily.com/professional-data-annihilation-explained-bitraser-enterprise-edition-video-tutorial/"><u>Professional Data Annihilation Explained – BitRaser Enterprise Edition Video Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
-<li><a href="https://some-tips.techidaily.com/troubleshooting-your-chatgpt-sign-in-woes-efficiently/"><u>Troubleshooting Your ChatGPT Sign-In Woes Efficiently</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-imessage-block-notifications-and-indicators/"><u>Understanding iMessage Block Notifications & Indicators</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-realme-c33-2023-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Realme C33 2023? Here is How | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/zdsoft-capture-master-overview-and-evaluation/"><u>ZDSoft Capture Master Overview & Evaluation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-conquer-color-chaos-discover-essential-tutorials-and-techniques-for-2024/"><u>[New] Conquer Color Chaos - Discover Essential Tutorials and Techniques for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-revolutionize-discord-conversations-with-top-ranked-free-modifiers-for-2024/"><u>[New] Revolutionize Discord Conversations with Top-Ranked Free Modifiers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-triller-vs-tiktok-similarities-and-differences-a-complete-guide/"><u>[Updated] 2024 Approved Triller Vs. TikTok - Similarities & Differences - A Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-pioneering-perspectives-on-first-moments-in-audio/"><u>[Updated] Pioneering Perspectives on First Moments in Audio</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>[Updated] Streamlining Online Meetings Zoom & Gmail Sync Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-session-naming-service/"><u>[Updated] Supreme Session Naming Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>[Updated] Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-upgraded-2023-samsung-bd-j5900/"><u>[Updated] Unveiling the Upgraded 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-this-years-breakthrough-in-vr-gaming-technology/"><u>2024 Approved This Year's Breakthrough in VR Gaming Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>Convert Any Instagram Video in Minutes Best Free Tools (Windows/Mac)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-edits-start-on-all-your-tech/"><u>In 2024, Seamless Edits Start on All Your Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>In 2024, The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/simplifying-your-visual-composition-remove-the-background/"><u>Simplifying Your Visual Composition Remove the Background</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-road-awaits-insights-on-the-upcoming-sony-car-afelea-prices-launch-dates-and-more-details-uncovered/"><u>The Road Awaits: Insights on the Upcoming Sony Car (Afelea) – Prices, Launch Dates & More Details Uncovered</u></a></li>
 </ul></div>
 

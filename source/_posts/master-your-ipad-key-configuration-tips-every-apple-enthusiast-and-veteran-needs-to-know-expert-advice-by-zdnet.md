@@ -1,7 +1,7 @@
 ---
 title: "Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice by ZDNet"
-date: 2024-10-01T17:17:07.875Z
-updated: 2024-10-03T19:15:03.525Z
+date: 2024-10-02T02:52:02.188Z
+updated: 2024-10-08T19:16:56.135Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -73,13 +66,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Save your eyes at night with Night Shift
 
 Yes, I realize this setting doesn't _actually_ protect your eyesight in the long run, nor is it a life-changing hack that everyone should use. But Night Shift on the iPad does make staring at your screen a bit easier when it's dark out, especially if you have to spend a lot of time staring at a text field (like me). I've felt less eye strain while using the setting at night; it helps to relax my mind a bit since all the colors are much warmer. It's worth giving a shot if you like to use your iPad at night.
@@ -99,10 +85,10 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Hide your notifications from prying eyes
@@ -112,10 +98,10 @@ Sometimes, you just want to keep the contents of your iPad's notifications to yo
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
@@ -132,6 +118,13 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -139,6 +132,13 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -188,20 +188,17 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-scene-stealers-archive-responses-await/"><u>[New] Scene Stealers Archive Responses Await</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-change-backdrops-explore-our-top-10-image-replace-tools/"><u>2024 Approved Seamlessly Change Backdrops Explore Our Top 10 Image Replace Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-joy-online-kapwing-meme-studio/"><u>Capture Joy Online Kapwing Meme Studio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-tutorial-for-evga-windows-operating-system-driver-installation/"><u>Complete Tutorial for EVGA Windows Operating System Driver Installation</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-flow-streamlining-sound-segments/"><u>In 2024, Audio Flow Streamlining Sound Segments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review All You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994524100-tackling-frostpunks-crash-problem-effective-solutions-for-continuous-play/"><u>Tackling Frostpunk's Crash Problem: Effective Solutions for Continuous Play</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-e-shops-for-unique-tailored-boxed-gifts-and-packages-for-2024/"><u>Top E-Shops for Unique, Tailored Boxed Gifts & Packages for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-your-ultimate-guide-to-finding-tiktok-wallpapers/"><u>[New] 2024 Approved Your Ultimate Guide to Finding TikTok Wallpapers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-remedies-for-iphone-unfocused-shots/"><u>[Updated] Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-quick-setup-for-smartphones-as-personalized-vr-headsets/"><u>[Updated] The Quick Setup for Smartphones as Personalized VR Headsets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-up-to-date-tips-for-purchasing-top-360-imagers/"><u>[Updated] Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>2024 Approved Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-instagrams-reels-vs-stories-format/"><u>2024 Approved Understanding Instagram’s Reels vs Stories Format</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-optimal-obs-configuration-for-budget-pcs/"><u>In 2024, Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/perfecting-audio-the-best-cam-mics-for-2024/"><u>Perfecting Audio The Best Cam Mics for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activate-and-configure-discord-parent-lock-features/"><u>Steps to Activate and Configure Discord Parent Lock Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-best-zero-cost-image-editors-online-for-2024/"><u>Ultimate Guide Best Zero-Cost Image Editors Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-full-screen-flexibility-with-pip-feature-on-iphones-for-2024/"><u>Unlock Full Screen Flexibility with PIP Feature on iPhones for 2024</u></a></li>
 </ul></div>
 

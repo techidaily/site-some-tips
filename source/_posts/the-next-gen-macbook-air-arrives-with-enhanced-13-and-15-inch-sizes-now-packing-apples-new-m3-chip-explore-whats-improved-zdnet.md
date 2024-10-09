@@ -1,7 +1,7 @@
 ---
 title: "The Next-Gen MacBook Air Arrives with Enhanced 13 and 15 Inch Sizes, Now Packing Apple's New M3 Chip: Explore What's Improved | ZDNet"
-date: 2024-09-26T20:16:36.510Z
-updated: 2024-10-03T16:42:59.150Z
+date: 2024-10-04T16:51:34.891Z
+updated: 2024-10-08T16:43:30.064Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,24 +139,17 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-quick-glitch-fix-for-podcast-broadcasts/"><u>[New] The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-10-insider-canva-tricks/"><u>[New] Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-defeat-synthetic-followers-for-true-popularity-peak/"><u>[Updated] 2024 Approved Defeat Synthetic Followers for True Popularity Peak</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transmit-live-camera-feed-using-vlc-media-player/"><u>[Updated] In 2024, Transmit Live Camera Feed Using VLC Media Player</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-logitech-4k-pro-webcam-complete-specifications-and-features/"><u>[Updated] Logitech 4K Pro Webcam Complete Specifications & Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>[Updated] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>[Updated] Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved Momentary Motion Picture Manuscript</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>2024 Approved The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/cut-costs-on-high-tech-get-asus-2024-rog-zephyrus-g14-with-stunning-oled-and-nvidia-rtx/"><u>Cut Costs on High-Tech: Get Asus' 2024 ROG Zephyrus G14 with Stunning OLED & Nvidia RTX 지킬하세요!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/guida-completa-per-convertire-i-file-wmv-in-mp4-con-una-conservazione-di-qualita-superiore-al-98-gratuitamente/"><u>Guida Completa per Convertire I File WMV in MP4 Con Una Conservazione Di Qualità Superiore Al 98% Gratuitamente</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-11-pro-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-vip-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30 VIP to New Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode Screen?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-10-innovative-ai-based-podcast-name-generators/"><u>In 2024, Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-route-to-collecting-pictorial-frame-downloads-for-2024/"><u>The Route to Collecting Pictorial Frame Downloads for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-science-behind-whatsapp-voice-talks-for-2024/"><u>The Science Behind WhatsApp Voice Talks for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/your-top-10-favorites-on-spotify-for-2024/"><u>Your Top 10 Favorites on Spotify for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-accelerating-videos-an-easy-start-with-snapchat/"><u>[New] In 2024, Accelerating Videos An Easy Start with Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-rapid-recording-rules-for-iphone-timelapses/"><u>[New] Rapid Recording Rules for iPhone Timelapses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-images-storage-centers/"><u>[Updated] Prime Images Storage Centers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-high-quality-video-transfer-from-fb-to-mp4-no-cost-online-method/"><u>2024 Approved High-Quality Video Transfer From FB to MP4 – No Cost Online Method</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>2024 Approved Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-11-pro-max-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leveraging-length-and-style-in-your-instagram-videos/"><u>In 2024, Leveraging Length and Style in Your Instagram Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-color-grading-with-luts-in-pscc/"><u>In 2024, Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-photoshops-image-smoothing-worth-the-hype-in-2024/"><u>Is Photoshop's Image Smoothing Worth the Hype, In 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-audio-artistry-the-step-by-step-process-of-mixing-sounds-for-movie-scenes/"><u>New Audio Artistry The Step-by-Step Process of Mixing Sounds for Movie Scenes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/yuneecs-game-changer-typhoon-q500/"><u>Yuneec's Game-Changer Typhoon Q500</u></a></li>
 </ul></div>
 

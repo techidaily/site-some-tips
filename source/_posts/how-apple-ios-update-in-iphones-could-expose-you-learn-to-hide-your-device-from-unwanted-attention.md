@@ -1,7 +1,7 @@
 ---
 title: "How Apple iOS Update in iPhones Could Expose You: Learn To Hide Your Device From Unwanted Attention"
-date: 2024-10-01T19:46:00.070Z
-updated: 2024-10-03T17:56:13.859Z
+date: 2024-10-05T22:57:21.706Z
+updated: 2024-10-08T18:08:08.322Z
 tags:
   - apple
 categories:
@@ -32,23 +32,9 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -64,24 +50,31 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -90,13 +83,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -108,6 +94,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -124,6 +117,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -169,21 +169,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-substitutes-for-winmovie-new-windows-editors/"><u>[New] Substitutes for WinMovie New Windows Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-methods-to-revamp-grades-in-photoshop/"><u>[New] Top Methods to Revamp Grades in Photoshop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transforming-zoom-calls-enhance-your-visuals-here/"><u>[New] Transforming Zoom Calls Enhance Your Visuals Here</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-guide-to-showmores-efficient-recording-tools/"><u>[Updated] Comprehensive Guide to ShowMore's Efficient Recording Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-drone-cutting-edge-tools-top-editors-unveiled/"><u>[Updated] In 2024, Drone Cutting Edge Tools - Top Editors Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>[Updated] Taking Comedy to the Digital Frontier Your GIF Creation Roadmap</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-of-finding-high-quality-instagram-tones-and-crafting-perfect-chimes/"><u>[Updated] Unlock the Secrets of Finding High-Quality Instagram Tones and Crafting Perfect Chimes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>2024 Approved The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/avoid-virtual-reality-queasiness-5-useful-tips-for-2024/"><u>Avoid Virtual Reality Queasiness 5 Useful Tips for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/geforce-gtx-1660-super-fresh-driver-downloads-and-installation-guide/"><u>GeForce GTX 1660 SUPER: Fresh Driver Downloads & Installation Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y100a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y100A via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/make-quick-cash-on-reddit-with-these-no-experience-techniques-for-2024/"><u>Make Quick Cash on Reddit with These No Experience Techniques for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-and-applying-luts-to-ae-projects-for-2024/"><u>Understanding and Applying LUTs to AE Projects for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-mysteries-of-io-video-capture/"><u>Unveiling the Mysteries of IO Video Capture</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-x-flip-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo X Flip Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-transforming-movie-visuals-using-standardized-luts-from-cg-central/"><u>[New] The Complete Guide Transforming Movie Visuals Using Standardized Luts From CG Central</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-evolution-of-live-streaming-with-periscope/"><u>[New] The Evolution of Live Streaming with Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveil-your-inner-artist-best-free-sketching-software-on-mac/"><u>[New] Unveil Your Inner Artist Best Free Sketching Software on Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-vlc-guide-setting-up-screen-recordings/"><u>[New] VLC Guide Setting Up Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-rendering-of-fortnite-icons/"><u>[Updated] Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-prime-cloud-storage-options/"><u>2024 Approved Unveiling Prime Cloud Storage Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>2024 Approved Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/efficient-dvd-ripping-tool-platinum-winx-mp4-h264hevc-format-with-speedy-5-minute-transfer/"><u>Efficient DVD Ripping Tool: Platinum WinX MP4 H.264/HEVC Format with Speedy 5 Minute Transfer!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/strategies-for-a-rising-number-of-youtubers-fans-for-2024/"><u>Strategies for a Rising Number of Youtubers' Fans for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/understanding-and-fixing-atomic-core-issues-when-powering-on-your-system/"><u>Understanding and Fixing Atomic Core Issues When Powering On Your System</u></a></li>
 </ul></div>
 

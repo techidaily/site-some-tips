@@ -1,7 +1,7 @@
 ---
 title: "Breaking News: Apple Investigates Artificial Intelligence in Domestic Robotics with Potential New Devices | TechZeta"
-date: 2024-09-30T19:55:12.012Z
-updated: 2024-10-03T19:59:57.253Z
+date: 2024-10-07T18:04:44.796Z
+updated: 2024-10-08T17:21:26.105Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -98,10 +98,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -115,10 +115,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -158,10 +158,10 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -208,19 +208,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-3-ways-for-ipad-voice-recording-for-2024/"><u>[New] 3 Ways for iPad Voice Recording for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-tiktok-self-cloning-a-beginners-roadmap/"><u>[Updated] 2024 Approved Mastering TikTok Self-Cloning A Beginner's Roadmap</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-live-stream-tools-xsplit-or-obs/"><u>[Updated] Best Live Stream Tools XSplit or OBS?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-wacom-intuos-3-driver-setup-package-for-flawless-windows-performance/"><u>Complete Wacom Intuos 3 Driver Setup Package for Flawless Windows Performance</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-best-free-youtube-ending-creators-top-6-picks/"><u>In 2024, Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-snicker-scribbles-humorhub/"><u>In 2024, Snicker Scribbles HumorHub</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-asia-dialects-fast-reorder-and-preserve-status/"><u>Top Asia Dialects: Fast Reorder & Preserve Status</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/ultimate-guide-to-using-the-15w-belkin-boostcharge-pro-the-powerful-qi2-charging-pad-with-a-secret-companion-port/"><u>Ultimate Guide to Using the 15W Belkin BoostCharge Pro: The Powerful Qi2 Charging Pad with a Secret Companion Port</u></a></li>
-<li><a href="https://fox-search.techidaily.com/ultimate-guide-how-to-seamlessly-sync-pictures-from-googles-pixel-3-phone-with-your-laptop-or-desktop/"><u>Ultimate Guide: How to Seamlessly Sync Pictures From Google's Pixel 3 Phone with Your Laptop or Desktop</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/"><u>Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-tailoring-audience-for-your-youtube-videos/"><u>[New] 2024 Approved Tailoring Audience for Your Youtube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-path-to-professional-streaming-integrating-zoom-into-your-youtube-strategy/"><u>[Updated] In 2024, The Path to Professional Streaming Integrating Zoom Into Your YouTube Strategy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-shifting-from-spotify-playlists-to-customized-youtube-music-catalogs-for-2024/"><u>[Updated] Shifting From Spotify Playlists to Customized YouTube Music Catalogs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlining-your-content-upload-with-ios-tools/"><u>[Updated] Streamlining Your Content Upload with iOS Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>[Updated] The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-affordable-hd-cams-for-sports/"><u>[Updated] Ultimate Selection Affordable HD Cams for Sports</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-triggering-windows-11-hdr-in-dynamic-mode/"><u>2024 Approved Triggering Windows 11 HDR in Dynamic Mode</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-create-captivating-photos-adding-motion-blur-in-photoshop/"><u>In 2024, Create Captivating Photos Adding Motion Blur in Photoshop</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-moto-g84-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Moto G84 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-searches-for-abandoned-reddit-discussions/"><u>In 2024, Swift Searches for Abandoned Reddit Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artists-roadmap-to-professional-growth/"><u>In 2024, The Artist's Roadmap to Professional Growth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>In 2024, The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-pathway-best-7-platforms-turning-art-into-nfts/"><u>In 2024, The Ultimate Pathway Best 7 Platforms Turning Art Into NFTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-rated-microsd-cards-ideal-for-capturing-stunning-footage-on-your-gopro-camera/"><u>Top-Rated MicroSD Cards Ideal for Capturing Stunning Footage on Your GoPro Camera</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Automattic's Strategic Move: Buys Beeper, Envisions Messaging Expansion - ZDNet Insights"
-date: 2024-09-29T16:57:25.188Z
-updated: 2024-10-03T19:05:40.081Z
+date: 2024-10-07T16:16:04.454Z
+updated: 2024-10-08T16:44:35.315Z
 tags:
   - apple
 categories:
@@ -71,27 +71,29 @@ In October 2023, Automattic acquired Texts.com, another messaging app, for $50 m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-dial-up-your-digital-influence-nine-simple-steps-on-instagram-for-2024/"><u>[New] Dial Up Your Digital Influence Nine Simple Steps on Instagram for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-tips-for-seamless-integration-of-supplementary-footage/"><u>[New] In 2024, Tips for Seamless Integration of Supplementary Footage</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-auditory-cataloguing-pc-noises-and-speech-recordings/"><u>[Updated] Auditory Cataloguing PC Noises & Speech Recordings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-screen-recorder-test-active-vs-top-contenders/"><u>[Updated] The Ultimate Screen Recorder Test Active vs Top Contenders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-wavram/"><u>網路直接無償轉框音效-MOVAVI 壓縮模式 WAV到RAM</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertissez-un-fichier-mp2-au-format-mp4-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier MP2 Au Format MP4 Gratuitement en Ligne Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-3d-animation-software-for-free-in-2/"><u>Discover the Ultimate Selection: 3D Animation Software for Free in 2</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-ways-to-refresh-your-icon-cache-on-windows-7-8-and-vista/"><u>Effortless Ways to Refresh Your Icon Cache on Windows 7, 8, and Vista</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/essential-tips-for-shooting-talking-head-videos/"><u>Essential Tips for Shooting Talking Head Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-playback-how-to-start-windows-media-player/"><u>Initiating Playback - How to Start Windows Media Player</u></a></li>
-<li><a href="https://some-tips.techidaily.com/les-6-cartes-graphiques-superieures-pour-un-montage-video-optimal-en-2024-top-picks/"><u>Les 6 Cartes Graphiques Supérieures Pour Un Montage Vidéo Optimal en 2024 : Top Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-3gpp-wav/"><u>Movaviですばやく変換! 無料オンライン3GPP WAVファイル - 最適化ガイド付き</u></a></li>
-<li><a href="https://some-tips.techidaily.com/saga-tusentals-vidunderliga-video-sammanslutningar-pa-windows-10-den-basta-7/"><u>Såga Tusentals Vidunderliga Video Sammanslutningar På Windows 10 - Den Bästa 7!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-potential-while-unwinding-top-tasks-for-podcast-lovers/"><u>Unlock Potential While Unwinding Top Tasks for Podcast Lovers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-notes-problem-solver-steps-to-reopen-your-missing-notepad/"><u>Windows Notes Problem Solver: Steps to Reopen Your Missing Notepad</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-harnessing-free-visual-content-creatively/"><u>[New] Tips for Harnessing Free Visual Content Creatively</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[New] Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-companions-choosing-blu-ray-software-freepaid-on-pcsmacs/"><u>[Updated] Best Companions Choosing Blu-Ray Software (Free/Paid) on PCs/Macs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-slide-show-apps-from-iphone-6-to-xs-max/"><u>[Updated] Ideal Slide Show Apps From iPhone 6 to XS Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-strategies-for-accessing-nfl-games-online/"><u>[Updated] Top 10 Strategies for Accessing NFL Games Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-premier-list-all-time-great-general-knowledge-shows-24/"><u>2024 Approved The Premier List All-Time Great General Knowledge Shows '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-advanced-camera-settings/"><u>2024 Approved Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-frozen-text-editor-reclaiming-access-on-windows-machines/"><u>Fixing the Frozen Text Editor: Reclaiming Access on Windows Machines</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-motorola-moto-e13-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Motorola Moto E13 Phone Screen?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-social-media-presence-with-zoom-and-fb-live/"><u>In 2024, Streamlining Your Social Media Presence with ZOOM & FB Live</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-focusing-on-roblox-elements-closeup/"><u>In 2024, The Art of Focusing on Roblox Elements Closeup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>In 2024, The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y02t-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y02T to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/syllable-becomes-syllables/"><u>Syllable Becomes Syllables</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-gopro-hero5-time-lapse-photography-for-2024/"><u>The Ultimate Guide to GoPro Hero5 Time-Lapse Photography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-without-trouble-moving-from-virtualbox-62-to-70-windows-11-edition/"><u>Transition Without Trouble: Moving From VirtualBox 6.2 to 7.0, Windows 11 Edition</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme C53 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

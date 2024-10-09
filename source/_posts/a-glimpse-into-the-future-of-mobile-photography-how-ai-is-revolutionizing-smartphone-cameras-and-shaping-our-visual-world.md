@@ -1,7 +1,7 @@
 ---
 title: "A Glimpse Into the Future of Mobile Photography: How AI Is Revolutionizing Smartphone Cameras and Shaping Our Visual World"
-date: 2024-09-29T17:40:09.366Z
-updated: 2024-10-03T16:08:44.251Z
+date: 2024-10-02T00:24:44.976Z
+updated: 2024-10-09T01:30:14.929Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -57,6 +51,13 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Foldables are getting better (and cheaper)
 
 The Motorola Razr 2023 was the most affordable foldable phone last year, selling for as low as $499.
@@ -72,13 +73,6 @@ Now that the major players have entered the competition, the big question this y
 "Foldable products have a structure that is inevitably expensive compared to general bar types, even in terms of display alone," adds Jene Park, senior analyst at Counterpoint Research.
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
 
@@ -97,10 +91,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -122,16 +116,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -188,24 +176,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-direct-screens-capture-chromeos-edition/"><u>[New] 2024 Approved Direct Screens Capture ChromeOS Edition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-focal-flares-amplifying-your-footage-visually/"><u>[New] 2024 Approved Focal Flares Amplifying Your Footage Visually</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-stepwise-guide-to-optimal-zoom-audio-recording/"><u>[New] Stepwise Guide to Optimal Zoom Audio Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unleash-the-power-of-instagram-footage-a-compilation-of-mp4-conversion-tools-for-pc-and-mac-for-2024/"><u>[New] Unleash the Power of Instagram Footage A Compilation of MP4 Conversion Tools for PC & Mac for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows/"><u>2024 Approved Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-xbox-game-recordings-made-easy/"><u>2024 Approved Step-by-Step Xbox Game Recordings Made Easy</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-overview-dji-inspire-1-reviewed/"><u>2024 Approved The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversor-gratuitos-en-linea-ts-para-mp4-mediante-movavi-descargue-hoy/"><u>Conversor Gratuitos en Línea TS Para MP4 Mediante Movavi - Descargue Hoy!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-image-converter-convert-pdf-gif-and-more-to-jpeg-with-movavi/"><u>Free Online Image Converter: Convert PDF, GIF & More To JPEG with Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-configure-devices-right-overcoming-error-code-1-challenges/"><u>How to Configure Devices Right: Overcoming Error Code 1 Challenges</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-open-source-musical-aid-for-playing-games/"><u>In 2024, Open Source Musical Aid for Playing Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-w64/"><u>Movavi W64 フリーオンラインコンバータ - 使い勝手の良さを堪能せよ</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726220252063-movavi/"><u>Movavi 소프트웨어: 최고의 리뷰와 추천을 위해 선택하세요!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-wi-fi-wav-m4a-online/"><u>Movavi: 무료 제공 Wi-Fi를 통해 WAV을 M4A 암호화로 전환 - Online 모바일</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-superior-ancestry-tracking-tools-top-10-picks/"><u>The Ultimate Guide to Selecting Superior Ancestry Tracking Tools (Top 10 Picks)</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformacion-gratuita-de-archivos-aac-a-formatos-flac-en-linea-con-movavi/"><u>Transformación Gratuita De Archivos AAC a Formatos FLAC en Línea Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-wma-nel-formato-vob-senza-costi-movavi/"><u>Trasforma I Tuoi File WMA Nel Formato VOB Senza Costi - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726223490741-pgm-movavi/"><u>무료 온라인 PGM 교체를 위한 Movavi의 도우미 방법</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sync-audio-to-powerpoint-presentations/"><u>[New] Sync Audio to PowerPoint Presentations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-to-combat-unsteady-shot-dynamics/"><u>[New] Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[New] Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-total-horizon-capture-versus-focused-dimensionality/"><u>2024 Approved Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-selection-of-steadicams-suitable-for-drones-in-cinematic-work/"><u>Elite Selection of Steadicams Suitable for Drones in Cinematic Work</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-vr-game-development-tools-for-modern-creators/"><u>Essential VR Game Development Tools for Modern Creators</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality-for-2024/"><u>From TikTok to Instagram Strategies to Amplify Your Reel's Virality for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-8-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 8 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-s17e-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to S17e Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-fast-track-setting-up-and-enjoying-ifunny-memes/"><u>In 2024, The Fast Track Setting Up & Enjoying iFunny Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-eyeball-enticer-author/"><u>In 2024, Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>In 2024, Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-sefx-windows-11-sfx-creation/"><u>Mastering SEFX: Windows 11 SFX Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-premium-video-translation-tools-for-2024/"><u>Top 6 Premium Video Translation Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-windows-11s-hidden-know-how-for-media-importing-for-2024/"><u>Unveiling Windows 11'S Hidden Know-How for Media Importing for 2024</u></a></li>
 </ul></div>
 

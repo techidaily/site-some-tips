@@ -1,7 +1,7 @@
 ---
 title: "Thin Is In: Evaluating the Impact of Record-Breaking Slimness on iPads at 0.08 Inches – A Firsthand Look at Apple's Latest Tech Marvel | ZDNet"
-date: 2024-09-30T20:10:14.758Z
-updated: 2024-10-03T20:21:28.714Z
+date: 2024-10-04T22:09:05.390Z
+updated: 2024-10-09T01:20:09.408Z
 tags:
   - apple
 categories:
@@ -47,28 +47,15 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You need more battery life
 
@@ -77,13 +64,6 @@ While you might expect the newest device to have the [better battery life](https
 **Also: [MacBook Pro vs MacBook Air: How to decide which Apple laptop to buy](https://www.zdnet.com/article/macbook-air-vs-macbook-pro-how-to-decide-which-apple-laptop-to-buy/)**
 
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
 
@@ -113,16 +93,16 @@ Buy a MacBook Pro with an M3 Pro chip on sale now.
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  1\. You're working outside or in other very bright environments
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You're doing very intensive or time-sensitive tasks
 
@@ -132,11 +112,25 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C545604e4-c461-4ca6-b9d9-7557b5a9d949%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -172,24 +166,22 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-precision-in-pro-videos-essential-lighting-insights-for-2024/"><u>[New] Precision in Pro Videos Essential Lighting Insights for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-guidelines-for-perfect-nightscape-photography/"><u>[Updated] In 2024, Guidelines for Perfect Nightscape Photography</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile-for-2024/"><u>[Updated] Seamless Stories From The Past Accessing Older FB Content on PC/Mobile for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-art-of-lenovos-video-screen-capture-for-2024/"><u>[Updated] The Art of Lenovo's Video Screen Capture for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mp4-m4r-movavi/"><u>線上免費 MP4 到 M4R 轉換 – Movavi 音效調整工具簡介</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-immagine-tga-a-png-fatto-da-te-metodo-gratuito-su-movavi/"><u>Conversione Immagine TGA a PNG Fatto Da Te: Metodo Gratuito Su Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-optics-the-fundamentals-and-features-of-six-common-photography-lenses/"><u>Exploring Optics: The Fundamentals and Features of Six Common Photography Lenses</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-mp3-conversion-mov-to-mp3-with-moveavis-reliable-online-tool/"><u>Free MP3 Conversion: MOV to MP3 with Moveavi's Reliable Online Tool</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-realme-narzo-60x-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Realme Narzo 60x 5G Phone Network-Ready</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/innovative-pedagogy-discussion-with-global-peers/"><u>Innovative Pedagogy Discussion with Global Peers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-audio-to-video-transcoder-easily-convert-mp3-files-into-mov-format-at-no-cost/"><u>Online Audio to Video Transcoder: Easily Convert MP3 Files Into MOV Format at No Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-pc-stability-issues-in-monster-hunter-world-a-step-by-step-guide/"><u>Resolving PC Stability Issues in 'Monster Hunter: World': A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-strategies-to-repair-the-syntpsys-blue-screen-error-in-windows/"><u>Step-by-Step Strategies to Repair the SYNTP.SYS Blue Screen Error in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-12-reproductores-de-pantalla-para-sistemas-operativos-basados-en-linux-opciones-elegidas-por-expertos-en-2024/"><u>Top 12 Reproductores De Pantalla Para Sistemas Operativos Basados en Linux - Opciones Elegidas Por Expertos en 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforma-tu-formato-m2p-directamente-en-mpeg-sin-costo-con-el-programa-en-linea-de-conversion-de-video-gratis/"><u>Transforma Tu Formato M2P Directamente en MPEG Sin Costo Con El Programa en Línea De Conversión De Video - Gratis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformez-vos-fichiers-mp3-en-ligne-gratuitement-avec-movavi-conversion-facile-et-rapide/"><u>Transformez Vos Fichiers MP3 en Ligne Gratuitement Avec Movavi - Conversion Facile Et Rapide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasforma-il-tuo-audio-aiff-in-formato-wma-gratuito-online-usando-movavi/"><u>Trasforma Il Tuo Audio AIFF in Formato WMA Gratuito Online Usando Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-invalid-drivers-steps-to-rectify-unrecognized-installations/"><u>Troubleshooting Invalid Drivers: Steps to Rectify Unrecognized Installations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-10-youtube-volume-boosters-for-windows-macos-android-and-iphone/"><u>[New] In 2024, Best 10 YouTube Volume Boosters for Windows, macOS, Android, and iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-platform-debate-which-appliance-prevails-podcast-or-youtube/"><u>[New] The Platform Debate Which Appliance Prevails – Podcast or YouTube?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>[Updated] In 2024, The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leveraging-visual-appeal-in-facebook-slideshows/"><u>[Updated] Leveraging Visual Appeal in Facebook Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-pubg-moment-snapshots-open-access/"><u>[Updated] Top 20 PUBG Moment Snapshots, Open Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-video-boosters-say-goodbye-to-slow-mo/"><u>[Updated] Top 8 Video Boosters Say Goodbye to Slow Mo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcribe-speech-absolutely-gratis/"><u>[Updated] Transcribe Speech, Absolutely Gratis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-beat-potential-explore-these-free-tempo-tracking-tools/"><u>[Updated] Unlock Beat Potential – Explore These Free Tempo Tracking Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>2024 Approved Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-ios-vs-website-the-6-compelling-reasons-to-choose-mobile-accessibility/"><u>ChatGPT iOS Vs. Website: The 6 Compelling Reasons to Choose Mobile Accessibility</u></a></li>
+<li><a href="https://os-tips.techidaily.com/get-your-apple-magsafe-charging-pad-today-for-a-low-price-of-32/"><u>Get Your Apple MagSafe Charging Pad Today for a Low Price of 32$!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-10-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 10 5G FRP Locks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>In 2024, How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y100a-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y100A Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nubia-z50s-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nubia Z50S Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/prevent-lethal-business-setbacks-in-202email-protected-with-proven-fixes/"><u>Prevent Lethal Business Setbacks in 202([Email Protected]) with Proven Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-gopros-time-lapse-technology-for-2024/"><u>Unleash Creativity with GoPro's Time-Lapse Technology for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Understanding Collective Bargaining Strategies Post-Strike"
-date: 2024-09-17 12:34:15
-updated: 2024-09-20 12:34:51
+date: 2024-10-06T01:21:31.404Z
+updated: 2024-10-08T20:07:58.238Z
 tags:
   - speakers
 categories:
@@ -55,11 +55,32 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[New] Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamline-your-schedule-expert-techniques-using-free-timers/"><u>[New] Streamline Your Schedule Expert Techniques Using Free Timers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-streaming-platforms-for-authors/"><u>[New] Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-infinite-snaps-ensuring-a-lasting-snapchat-connection/"><u>[Updated] Infinite Snaps Ensuring a Lasting Snapchat Connection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unseen-underpinnings-of-user-interface-craftsmanship/"><u>[Updated] Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ogv-wmvmovavi/"><u>無料でOGV形式へ変換! WMVビデオを楽々とMovaviが変更する手引き</u></a></li>
+<li><a href="https://win-community.techidaily.com/best-free-sound-recording-software-compatible-with-windows-8/"><u>Best Free Sound Recording Software Compatible with Windows 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-filmmaking-install-xps-media-tools-for-2024/"><u>Streamline Filmmaking Install XP's Media Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-gamer-writes-top-7-fps-games-list-for-2024/"><u>Ultimate Gamer' Writes Top 7 FPS Games List for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xbox-ebt-360-controller-driver-downloads-find-and-install-the-right-one/"><u>Xbox Ebt 360 Controller Driver Downloads - Find and Install the Right One!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

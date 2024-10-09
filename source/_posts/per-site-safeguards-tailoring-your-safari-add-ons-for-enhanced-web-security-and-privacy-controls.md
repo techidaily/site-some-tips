@@ -1,7 +1,7 @@
 ---
 title: "Per-Site Safeguards: Tailoring Your Safari Add-Ons for Enhanced Web Security and Privacy Controls"
-date: 2024-10-02T18:13:02.049Z
-updated: 2024-10-03T18:55:13.469Z
+date: 2024-10-02T22:35:54.360Z
+updated: 2024-10-08T19:39:04.922Z
 tags:
   - apple
 categories:
@@ -58,13 +58,6 @@ In any case, what that means is that instead of my escalating ranking of phones,
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## First morning Gmail
 
 It's been quite a while since [I made the switch from Outlook to Gmail](https://www.zdnet.com/article/why-i-bit-the-bullet-and-finally-switched-from-outlook-to-gmail/), and I have to tell you, my productivity has improved tremendously, and after more than half a decade of use, I don't regret the move one bit. Having the exact same email interface on all my machines, with tight integration into my iPhone, iPad, and computers, has made all the difference. 
@@ -80,13 +73,6 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -126,6 +112,13 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -142,10 +135,10 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Connecting and scheduling
@@ -170,6 +163,13 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -184,13 +184,6 @@ I just think of those users like more of my students. If any questions show up i
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Featured
 
 * [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/)
@@ -199,13 +192,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -237,6 +223,13 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
@@ -256,6 +249,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,18 +286,16 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-top-8-essential-laptop-skins-for-dynamic-screens/"><u>[New] Top 8 Essential Laptop Skins for Dynamic Screens</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-collection-of-inspiration-5-best-book-video-tts-for-2024/"><u>[Updated] A Collection of Inspiration 5 Best Book Video TTs for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-best-gamers-streaming-tools/"><u>[Updated] Best Gamers' Streaming Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-curating-capsules-of-gratitude-paidfree-options-for-2024/"><u>[Updated] Curating Capsules of Gratitude Paid/Free Options for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamline-lesson-planning-with-recorder-tools/"><u>[Updated] Streamline Lesson Planning with Recorder Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickening-ppt-tempo-a-guide-to-faster-slides/"><u>2024 Approved Quickening PPT Tempo A Guide to Faster Slides</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-vegaspro-2019-update-changes-and-impacts/"><u>2024 Approved VegasPro 2019 Update Changes & Impacts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-elite-camera-operators-best-practices/"><u>Discovering Elite Camera Operators' Best Practices</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-xiaomi-redmi-note-12t-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Xiaomi Redmi Note 12T Pro Quickly | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-humor-personalize-with-kinemaster-for-2024/"><u>Tailoring Humor Personalize with KineMaster for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-compreayer-guide-to-iphone-hdr-mastery-for-2024/"><u>The Compreayer Guide to iPhone HDR Mastery for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-3-free-dvd-ripper-software-for-windows-10-convert-dvds-to-mp4aviwmv/"><u>Top 3 Free DVD Ripper Software for Windows 10 - Convert DVDs to MP4/AVI/WMV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullframe-alliance-how-to-choose-your-mcn-strategically/"><u>[New] In 2024, FullFrame Alliance How to Choose Your MCN Strategically</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-live-life-in-hd-with-panasonic-hx-a1-cam/"><u>[New] Live Life in HD with Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/amp-up-mastering-japanese-digits-with-minutes/"><u>Amp Up: Mastering Japanese Digits with Minutes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/genetic-susceptibility/"><u>Genetic Susceptibility</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reimagining-text-in-photographyvideo-for-2024/"><u>Reimagining Text in Photography/Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/speeding-up-periscope-live-broadcasting-tips-for-2024/"><u>Speeding Up Periscope Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symphony-of-sights-picture-plus-sound-videography-for-2024/"><u>Symphony of Sights Picture + Sound Videography for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-art-of-capturing-imagination-best-shot-tips/"><u>The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-words-on-the-screen-crafting-clear-concise-dialogue-for-2024/"><u>The Art of Words on the Screen Crafting Clear, Concise Dialogue for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-gaming-escape-lgs-virtual-reality-journey-for-2024/"><u>The Ultimate Gaming Escape LG's Virtual Reality Journey for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Infinix Hot 40 | Dr.fone</u></a></li>
 </ul></div>
 

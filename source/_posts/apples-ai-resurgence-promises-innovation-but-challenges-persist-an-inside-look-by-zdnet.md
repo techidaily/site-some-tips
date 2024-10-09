@@ -1,7 +1,7 @@
 ---
 title: Apple's AI Resurgence Promises Innovation, but Challenges Persist – An Inside Look by ZDNET
-date: 2024-09-27T17:06:24.786Z
-updated: 2024-10-03T17:36:53.245Z
+date: 2024-10-05T00:19:23.078Z
+updated: 2024-10-08T23:14:24.141Z
 tags:
   - apple
 categories:
@@ -60,13 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -76,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -100,6 +93,19 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,6 +120,13 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,10 +138,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -166,13 +179,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,19 +224,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ive-into-youtubes-best-practices-for-playlist-design-for-2024/"><u>[New] Dive Into Youtube's Best Practices for Playlist Design for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-navigating-color-grading-using-luts-to-refine-your-work-in-ae/"><u>[New] Navigating Color Grading Using LUTs to Refine Your Work in AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-your-rmvb-videos-to-avi-format-for-free-using-movavis-services/"><u>Convert Your RMVB Videos to AVI Format for Free Using Movavi's Services</u></a></li>
-<li><a href="https://android-frp.techidaily.com/fast-fixes-resolve-chromes-speed-issues-instantly/"><u>Fast Fixes: Resolve Chrome's Speed Issues Instantly!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guia-gratuita-para-transformar-tu-memoria-ram-en-videos-mp4-usando-movavi/"><u>Guía Gratuita Para Transformar Tu Memoria RAM en Vídeos MP4 Usando Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improving-usability-for-the-visually-challenged-explore-these-t-iphone-features-top-8-picks/"><u>Improving Usability for the Visually Challenged: Explore These T- iPhone Features (Top 8 Picks)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fading-techniques-for-aural-balance/"><u>In 2024, Fading Techniques for Aural Balance</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/hing-a-lucrative-channel-youtubes-most-accessible-biz-setups/"><u>Launching a Lucrative Channel YouTube's Most Accessible Biz Setups</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-13-ultra-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi 13 Ultra Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-mka-a-formato-aac-gratuitamente-con-movavi/"><u>Trasforma I Tuoi File MKA a Formato AAC Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-windows-ns-touchscreen-glitches-with-these-5-strategies/"><u>Troubleshoot Windows N's Touchscreen Glitches with These 5 Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/verslindende-videoformaten-voor-youtube-expertise-van-movavi-verhelpt-het-beste-formatscoaching/"><u>Verslindende Videoformaten Voor YouTube - Expertise Van Movavi Verhelpt Het Beste Formatscoaching</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726225113213-mpg-wav-movavi/"><u>오피스 상대적 MPG WAV 갱신: Movavi 자체</u></a></li>
-<li><a href="https://some-tips.techidaily.com/aifc-to-jpgpng-movavi/"><u>オンラインAIFC to JPG・PNG変換無料サービス: Movaviの簡単ガイド</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-classic-questline-versus-the-dynamic-strategy-for-2024/"><u>[New] The Classic Questline versus the Dynamic Strategy for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10-expert-choices-for-terraria-for-2024/"><u>[New] Top 10 Expert Choices for Terraria for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-pc-edition-of-image-overlay-mastery/"><u>[New] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-psd-style-boosting/"><u>[New] Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-streaming-success-starts-here-8-tips-for-beginners/"><u>[Updated] 2024 Approved Streaming Success Starts Here - 8 Tips for Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-internet-based-image-trimming/"><u>[Updated] The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-selection-of-text-enhancers-for-adobe-ae/"><u>[Updated] The Ultimate Selection of Text Enhancers for Adobe AE</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premium-choices-for-unparalleled-video-communication/"><u>2024 Approved Premium Choices for Unparalleled Video Communication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-best-video-footage-with-gopro/"><u>2024 Approved Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/comprehensive-guide-recording-films-on-any-device-pc-mac-or-mobile/"><u>Comprehensive Guide: Recording Films on Any Device – PC, Mac, or Mobile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-solutions-to-tackle-the-missing-haldll-file-problems-in-windows-xp/"><u>Comprehensive Solutions to Tackle the Missing hal.dll File Problems in Windows XP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cropping-screen-recordings-quickly-a-tutorial-for-windows-operating-systems-10-and-11/"><u>Cropping Screen Recordings Quickly: A Tutorial for Windows Operating Systems (10 and 11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-geforce-experience-fails-to-load-your-customized-setups/"><u>Effective Fixes for When GeForce Experience Fails to Load Your Customized Setups</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-site-insights-with-cookiebots-powerful-tools/"><u>Enhance Site Insights with Cookiebot's Powerful Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-comprehensive-solution-for-battlefield-5-stability-issues-on-desktop/"><u>Solved: Comprehensive Solution for Battlefield 5 Stability Issues on Desktop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-between-safe-mode-and-picture-in-picture-on-iosmacos-for-2024/"><u>Switching Between Safe Mode & Picture In Picture on iOS/MacOS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mac-mkv-players-compilation-for-2024/"><u>Top Mac MKV Players Compilation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guides-to-3d-type-exploration-for-2024/"><u>Ultimate Guides to 3D Type Exploration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-mechanism-behind-cross-audio-blending-for-2024/"><u>Unveiling the Mechanism Behind Cross-Audio Blending for 2024</u></a></li>
 </ul></div>
 

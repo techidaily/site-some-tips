@@ -1,7 +1,7 @@
 ---
 title: Essential Productivity Strategies & Software to Streamline Your Everyday Tasks - Insights From ZDNet
-date: 2024-09-30T16:05:08.245Z
-updated: 2024-10-03T19:23:43.147Z
+date: 2024-10-05T17:59:41.800Z
+updated: 2024-10-09T01:24:05.204Z
 tags:
   - apple
 categories:
@@ -45,10 +45,16 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Changes due to the pandemic
@@ -91,13 +97,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -113,13 +112,6 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -148,6 +140,13 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -169,13 +168,6 @@ In this way, I can power through my inbox, responding, assigning to to-do items,
 Now, to be fair, I have a slight email fetish, so I do check back in to my inbox, once or twice (or 20 or 30 times) a day. But now that my inbox is generally clean and empty, that practice doesn't have much to grab onto, and it's only a waste of a second or two. 
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Managing my daily teaching opportunities
 
@@ -199,6 +191,13 @@ By the way, this is also a great way to think about users, which I initially was
 * [Rust in Linux now: Progress, pitfalls, and why devs and maintainers need each other](https://www.zdnet.com/article/rust-in-linux-now-progress-pitfalls-and-why-devs-and-maintainers-need-each-other/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -231,10 +230,10 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -256,6 +255,13 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -286,22 +292,19 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-local-labor-costs-the-availability-and-rates-of-skilled-electricians-in-the-area-can-affect-labor-costs-significantly/"><u>[Updated] __Local Labor Costs__ The Availability and Rates of Skilled Electricians in the Area Can Affect Labor Costs Significantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/17-faneres-diktatwr-istoselides-lhpshs-gratis-me-mobabh-kwdikopoieitai/"><u>17 Φανερές Δικτάτωρ Ιστοσελίδες Λήψης - Gratis Με Μόβαβη Κωδικοποιείται</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mov-to-ogg-movavi/"><u>無料のオンライン MOV to OGG コンバータ - Movavi で使いやすく改良</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-facil-y-gratuita-al-aire-libre-haga-el-cambio-de-m4a-a-vob-utilizando-movavi/"><u>Conversión Fácil Y Gratuita Al Aire Libre: Haga El Cambio De M4A a VOB Utilizando Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertir-archivos-vob-a-mkv-online-gratuito-con-movavi/"><u>Convertir Archivos VOB a MKV Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-tool-for-converting-wav-files-into-mp4-format-by-movavi/"><u>Free Online Tool for Converting WAV Files Into MP4 Format by Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-switch-to-low-light-settings-for-your-iphone-screen/"><u>How to Switch to Low Light Settings for Your iPhone Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-phantom-v-flip-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Phantom V Flip Through Google Earth?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-gt-neo-5-se-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme GT Neo 5 SE to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a24-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy A24 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>In 2024, Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/los-mejores-programas-libres-de-corte-de-videos-que-debes-usar-en-el-ano-2024/"><u>Los Mejores Programas Libres De Corte De Vídeos Que Debes Usar en El Año 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Device</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasformare-immagini-webp-in-gif-a-bordo-servizio-di-conversione-on-line-gratuito-da-movavi/"><u>Trasformare Immagini Webp in Gif a Bordo: Servizio Di Conversione On-Line Gratuito Da Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-heart-of-iron-iv-crashes-now-solved/"><u>Troubleshooting Tips for Heart of Iron IV Crashes - Now Solved</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/ultimate-guide-steps-to-erase-individuals-from-images-effortlessly/"><u>Ultimate Guide: Steps to Erase Individuals From Images Effortlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726228178437-aviogv-movavi/"><u>オンラインでの無料AVIからOGVへの変換 - Movavi</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-facebook-video-players-list/"><u>[New] In 2024, The Ultimate Facebook Video Players List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-free-vfx-websites/"><u>[New] The Ultimate List of FREE VFX Websites</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-comprehensive-list-of-8-authentic-propagation-tools/"><u>[Updated] A Comprehensive List of 8 Authentic Propagation Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-square-it-up-your-complete-guide-to-instagram-ready-videos-in-imovie/"><u>[Updated] In 2024, Square It Up! Your Complete Guide to Instagram-Ready Videos in iMovie</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-increasing-engagement-on-instagram-videos-for-2024/"><u>[Updated] Increasing Engagement on Instagram Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-panoramic-camera-scrutiny/"><u>2024 Approved Ultimate Panoramic Camera Scrutiny</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-crediting-openais-chatgpt-in-your-writing/"><u>Effective Methods for Crediting OpenAI's ChatGPT in Your Writing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/free-visuals-galore-top-10-sites-to-explore/"><u>Free Visuals Galore – Top 10 Sites to Explore</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selfie-stick-showdown-for-iphone-8-winners/"><u>In 2024, The Ultimate Selfie Stick Showdown for iPhone (#8 Winners)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lensdirects-prescription-glasses-assessed-a-shield-against-harmful-blue-wavelengths/"><u>LensDirect's Prescription Glasses Assessed - A Shield Against Harmful Blue Wavelengths</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-spotifys-ad-platform-for-marketers-for-2024/"><u>Unleashing the Power of Spotify's Ad Platform for Marketers for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-9-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nubia Red Magic 9 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-potential-with-top-pixlr-editing-techniques-for-2024/"><u>Unlocking Potential with Top Pixlr Editing Techniques for 2024</u></a></li>
 </ul></div>
 

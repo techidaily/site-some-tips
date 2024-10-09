@@ -1,7 +1,7 @@
 ---
 title: "VisionOS 2: The Fresh Upgrades From WWDC That Have Us Thrilled and Baffled – A Deep Dive | TechWorldZDNet"
-date: 2024-09-27T20:34:37.467Z
-updated: 2024-10-03T17:29:20.386Z
+date: 2024-10-02T20:32:00.102Z
+updated: 2024-10-09T02:20:42.937Z
 tags:
   - apple
 categories:
@@ -65,18 +65,18 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 \*Original MSRP
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 ---
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## You should buy the Apple Watch Series 10 if...
 
@@ -85,10 +85,10 @@ Kerry Wan/ZDNET
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
@@ -98,13 +98,6 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 **Also:** [**The best smart rings: Expert tested**](https://www.zdnet.com/article/best-smart-ring/)
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
 
@@ -128,16 +121,22 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
 
@@ -152,6 +151,13 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -187,18 +193,24 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-best-5-youtube-video-editor-alternatives/"><u>[New] 2024 Approved Best 5 YouTube Video Editor Alternatives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-engagement-personalized-youtube-thumbnail-guide-for-2024/"><u>[New] Elevate Engagement Personalized YouTube Thumbnail Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-shoppers-list-select-box-personalization-sites/"><u>[New] Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram/"><u>[Updated] Transformative Guide GIFs Becoming Stickers on Discord, WhatsApp & Telegram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-variants-of-moviemaker-pro-on-windows/"><u>[Updated] Variants of MovieMaker Pro on WIndows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-influential-impact-celebrating-instagrams-most-dynamic-stars/"><u>2024 Approved Influential Impact Celebrating Instagram's Most Dynamic Stars</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Without Passcode Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-fabulous-photo-collage-artistry/"><u>In 2024, Techniques for Fabulous Photo Collage Artistry</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-error-0x803f8001-a-guide-for-fixing-minecraft-launcher-on-windows-11-and-10/"><u>Solving the Mystery of Error 0X803F8001: A Guide for Fixing Minecraft Launcher on Windows 11 & 10</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-netgear-orbi-assessment-ultimate-guide-to-the-premier-wireless-mesh-system/"><u>Top Netgear Orbi Assessment: Ultimate Guide to the Premier Wireless Mesh System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstick-your-iphones-home-button-with-these-5-rapid-remedies/"><u>Unstick Your iPhone's Home Button with These 5 Rapid Remedies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-leveraging-full-motion-video-on-iphones/"><u>[New] Leveraging Full Motion Video on iPhones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-reference-guide-to-screencastifys-tools/"><u>[New] Quick Reference Guide to Screencastify's Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-science-behind-time-warp-visuals/"><u>[New] The Science Behind Time Warp Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-gopros-full-potential/"><u>[New] Unlocking GoPro's Full Potential</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-media-management-on-instagram/"><u>[Updated] In 2024, Mastering Media Management on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>[Updated] Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>[Updated] The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-activities-perfect-for-podcast-lovers/"><u>[Updated] Top 15 Activities Perfect for Podcast Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-childrens-drone-choices/"><u>[Updated] Ultimate Selection Children's Drone Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-logitech-brio-webcam-software-downloads-for-windows-operating-systems/"><u>Best Logitech BRIO Webcam Software Downloads for Windows Operating Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-reduced-desktop-icon-dimensions-on-windows-11/"><u>Combat Reduced Desktop Icon Dimensions on Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-skagen-falster-2-sophisticated-competitor-to-apples-legacy-phones/"><u>Exploring Skagen Falster 2 - Sophisticated Competitor to Apple's Legacy Phones</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas-for-2024/"><u>The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-6-free-easy-to-use-artificial-intelligence-tools/"><u>Top 6 Free, Easy-to-Use Artificial Intelligence Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-concentration-8-effective-chatgpt-queries-for-a-distraction-less-digital-experience/"><u>Unlocking Concentration: 8 Effective ChatGPT Queries for a Distraction-Less Digital Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-samsungs-picture-editor-features-and-drawbacks-for-2024/"><u>Unveiling Samsung's Picture Editor Features & Drawbacks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210118723-vcruntime140dll-missing-program-cant-start-on-windows-10-solved/"><u>VCRUNTIME140.dll Missing, Program Can't Start on Windows 10 [Solved]</u></a></li>
 </ul></div>
 
