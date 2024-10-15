@@ -1,7 +1,7 @@
 ---
 title: "Beyond Burnout: Shocking Factors Prompting Mass Quits Among Workers - Analyzed by ZDNet Experts"
-date: 2024-09-19 12:23:39
-updated: 2024-09-20 12:45:12
+date: 2024-10-09T03:13:31.553Z
+updated: 2024-10-14T16:38:03.838Z
 tags:
   - professional-development
 categories:
@@ -36,6 +36,13 @@ Looking ahead to 2023, 89% of employees said they were highly motivated to advan
 Higher pay (59%), [better work-life balance](https://www.zdnet.com/article/this-engineering-insights-company-switched-to-a-four-day-workweek-they-detailed-the-process-so-you-can-too/)(48%), and an increased sense of purpose (41%) were identified as the main motivators behind employees wanting to polish their skills. But employees also identified their employers as the main roadblock to accessing better learning and development opportunities.
 
 According to the survey, employees want their employers to provide them with opportunities to further their education and participate in networking activities. But only 51% of respondents said their employers provide college tuition, while just 55% reported having access to networking opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -73,11 +80,28 @@ Dan Schawbel, managing partner at Workplace Intelligence, said: "In today's empl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-basicwin10grabber-free-software-download-for-2024/"><u>[New] BasicWin10Grabber - Free Software Download for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-next-gen-peripherals-exploring-virtual-reality-accessories/"><u>[New] Next-Gen Peripherals Exploring Virtual Reality Accessories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>[New] The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-technology-behind-vr-goggles/"><u>[Updated] Understanding the Technology Behind VR Goggles</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-discover-the-best-in-class-our-list-of-12-high-performing-flip-cameras/"><u>2024 Approved Discover the Best in Class Our List of 12 High-Performing Flip Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>2024 Approved The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-instructions-setting-up-bluetooth-in-windows-operating-systems-11-and-10/"><u>Easy Instructions: Setting Up Bluetooth in Windows Operating Systems (11 and 10)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-and-solutions-how-to-repair-unresponsive-counter-strike-go-microphone/"><u>Fixes & Solutions: How to Repair Unresponsive Counter-Strike Go Microphone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-often-do-youtubers-receive-income/"><u>How Often Do YouTubers Receive Income?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-muse-a-reflective-collection-of-thoughts-arvr/"><u>In 2024, Metaverse Muse A Reflective Collection of Thoughts [AR/VR]</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-top-8-speech-to-text-tools-compatible-with-windows-and-macos-systems/"><u>New In 2024, Top 8 Speech-to-Text Tools Compatible with Windows & macOS Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-macos-manual-for-mixer-live-streaming-for-2024/"><u>The Ultimate MacOS Manual for Mixer Live Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-hd-videos-on-android-devices-for-2024/"><u>Unlock the Potential of HD Videos on Android Devices for 2024</u></a></li>
+</ul></div>
+

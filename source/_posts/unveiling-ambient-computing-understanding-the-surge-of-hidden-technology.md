@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Ambient Computing: Understanding the Surge of Hidden Technology"
-date: 2024-09-19 17:14:14
-updated: 2024-09-20 11:21:39
+date: 2024-10-13T17:29:53.036Z
+updated: 2024-10-15T02:16:39.088Z
 tags:
   - google
 categories:
@@ -27,6 +27,13 @@ The goal is to reduce the friction involved in utilizing tech, making it easier 
 
 [The Future of the Internet The internet has never been more important, and its future has never been so uncertain. This ZDNET special report looks at the possible futures - good and bad - that lie ahead.  Read now](https://www.zdnet.com/topic/the-future-of-the-internet/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is it called ambient computing?
 
 As the definition of the word 'ambient' implies, ambient computing refers to technology that is immersed in your surroundings, ready to help without any prompting. For example, instead of having to turn down the temperature, a smart thermometer can automatically adjust based on learned patterns. From this stems the idea of a 'smart home', which incorporates tech into every object of your home to optimize how you accomplish everyday tasks. 
@@ -41,6 +48,13 @@ In other words, ambient computing focuses on the interaction between these devic
 
 "The Internet of Things lives through sensors and actuators embedded in devices interacting with the world physically and functionally. Ambient computing contains this communication at the core and harnesses the environment for business processes and insights," is how consultants Deloitte explain it. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does ambient computing look like right now.
 
 Any device or surface in a smart home could serve as an example of ambient computing. However, the tech that is dominating the space right now is voice assistance. Smart speakers like the Amazon Echo and Google Nest, and assistants like Microsoft Cortana, use artificial intelligence to perform requested tasks.
@@ -54,6 +68,19 @@ The scope of what these voice assistants do continues to grow. Originally, these
 In addition to voice assistants, ambient computing uses all aspects of modern-day technology, including artificial intelligence, sensors, connectivity, cloud computing and more. There doesn't need to be a focus on any obvious gadgets at all - the computing power might be in the cloud and invisible at the point of use. What differentiates ambient computing isn't the hardware itself, but rather how the technology is programmed and used. 
 
 "We think technology should require less from us, make our lives easier, and fade into the background when we don't need it. We're trying to develop technology that adapts to us, not the other way around, so we can focus more on the real world," says Vishal Sharma, Vice President, Amazon Alexa AI Information to ZDNET. "And advancements in things like sensors, artificial intelligence, natural language understanding, and edge capabilities make that possible."
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are other examples of ambient computing?
 
@@ -101,6 +128,13 @@ In order to let a voice assistant take up such an important roles, there must be
 
 "As customers begin to rely on ambient systems, we do see them engaging more deeply, and across more aspects of their lives. This comes with an expectation that these systems become steadily better as they are used, and we work hard to live up to that," says Sharma.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the future of ambient computing?
 
 Ambient computing is an important topic today because all technology is moving in that direction. We already find ambient computing built into almost everything we use. Today, the goal of tech developers is to find ways to both create technology that facilitates everyday functions, but also works together seamlessly. With industry giants like Google and Amazon leading the space, it won't be long before everyone follows. 
@@ -136,11 +170,25 @@ In the future, ambient computing may expand further than just the smart home.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-smart-choices-best-vimeo-video-downloader-apps/"><u>2024 Approved Smart Choices Best Vimeo Video Downloader Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-office-communication-a-guide-to-using-chtgpt-for-difficult-email-tasks/"><u>Enhancing Office Communication: A Guide to Using ChtGPT for Difficult Email Tasks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-media-editing-suite-guidance-faq-insights-on-video-conversion-software/"><u>Free Media Editing Suite Guidance: FAQ Insights on Video Conversion Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-site-performance-using-cookiebots-advanced-analytics-tools/"><u>Optimize Your Site Performance Using Cookiebot's Advanced Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-your-sites-performance-using-cookiebot-technology/"><u>Optimize Your Site's Performance Using Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-resolve-updating-your-windows-10-with-broadcoms-reliable-ethernet-drivers-complete-guide/"><u>Quick Resolve: Updating Your Windows 10 with Broadcom's Reliable Ethernet Drivers - Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-website-analytics-using-the-latest-cookiebot-solutions/"><u>Revolutionize Your Website Analytics Using the Latest Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-accounts-payable-with-abbyy-solutions-the-key-to-streamlining-adactus-housing-groups-bills/"><u>Transform Your Accounts Payable with ABBYY Solutions - The Key to Streamlining Adactus Housing Group's Bills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-advanced-traffic-insights-with-our-cookiebot-technology-integration/"><u>Unlocking Advanced Traffic Insights with Our Cookiebot Technology Integration</u></a></li>
+</ul></div>
+

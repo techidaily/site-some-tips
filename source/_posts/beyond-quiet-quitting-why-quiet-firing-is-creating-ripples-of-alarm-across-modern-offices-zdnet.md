@@ -1,7 +1,7 @@
 ---
 title: "Beyond Quiet Quitting: Why 'Quiet Firing' Is Creating Ripples of Alarm Across Modern Offices | ZDNet"
-date: 2024-09-18 18:25:57
-updated: 2024-09-20 10:45:51
+date: 2024-10-14T08:07:01.646Z
+updated: 2024-10-15T01:56:35.333Z
 tags:
   - professional-development
 categories:
@@ -76,11 +76,31 @@ The consequences of quiet quitting and quiet firing impact both employees and em
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>[New] Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-sound-top-10-microphones/"><u>[Updated] Mastering Sound Top 10 Microphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[Updated] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-painters-touch-mastering-color-artistry/"><u>2024 Approved The Painter's Touch Mastering Color Artistry</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movaviaviflv/"><u>移動畫像格式自豁優步無限 - 利用Movavi進行AVI與FLV間的順暢轉換</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/acquisto-vantaggioso-winx-dvd-ripper-platinum-completo-licenza-e-aggiornazione-gratis/"><u>Acquisto Vantaggioso - WinX DVD Ripper Platinum Completo, Licenza E Aggiornazione Gratis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v29-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-voice-to-text-applications/"><u>In 2024, Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/sweet-snack-snapshot-review-deep-insight/"><u>Sweet Snack Snapshot Review Deep Insight</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

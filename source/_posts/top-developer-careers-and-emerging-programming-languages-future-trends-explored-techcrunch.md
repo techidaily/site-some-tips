@@ -1,7 +1,7 @@
 ---
 title: Top Developer Careers & Emerging Programming Languages - Future Trends Explored | TechCrunch
-date: 2024-09-17 22:15:57
-updated: 2024-09-20 12:25:45
+date: 2024-10-07T18:01:45.197Z
+updated: 2024-10-14T17:37:11.001Z
 tags:
   - professional-development
 categories:
@@ -26,6 +26,13 @@ The role of the software developer is as central to an organization's success no
 Running technology in a business has become a business in itself. As commerce goes digital and consumers spend more time working, shopping and managing their lives from home**,** companies are spending billions of dollars to showcase their technology and maintain a lead on competitors. As a result, software creators find themselves in enormous demand.
 
 This _ZDNet Special Feature_ series is both an examination of the role of developers and the work they do, as well as an exploration into the trends that are shaping the software industry, and with it, the direction of travel for businesses in the coming months and years. Our ambition is to cast a light on the value of software developers in the modern digital workplace, as well as investigate the skills, technologies and programming languages that are driving market demand.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Programming languages 
 
@@ -64,6 +71,13 @@ Take DevSkiller's 2021 IT Skills Report, for instance, which recorded a 295% yea
 Yet demand for data scientists currently outstrips supply. [A survey of nearly 14,000 developers and recruiters](https://www.codingame.com/work/codingame-coderpad-tech-hiring-survey-2022/) by CodinGame and CoderPad in January found that data scientists and machine-learning specialists were amongst the roles companies struggled to hire the most, owing to the small pool of experienced developers with the necessary skillsets. A [report by the UK's Royal Society in 2019](https://royalsociety.org/news/2019/05/data-science-skills-shortages/) warned that demand for data scientists and data engineers had more than tripled over five years.
 
 With demand for data scientists and their unique skillsets rising, it stands to reason that knowledge of highly specialist programming languages used within these fields is associated with higher salaries. The same goes for Rust: this multi-paradigm programming language has become a favourite amongst developers since its conception in 2010, but isn't yet widely used in commercial settings. O'Reilly notes that, despite its lower market demand, "employers interpret knowledge of Rust and Go as a sign of competence and willingness to learn, which increases candidates' value."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Web devs
 
@@ -113,11 +127,31 @@ Image: HackerRank
 
 Developers themselves are wise to the opportunities that DevOps offers: alongside machine learning, DevOps was among the top skills developers want to learn in 2022, CodinGame/CoderPad found. "DevOps enables remote business activities to be maintained without compromising speed or operational efficiency," said Frederic Desmoulins, co-founder and CEO of CodinGame.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [DevOps: What is it, and how can it help your business? Inspired by the world of just-in-time manufacturing and widely practised in 'greenfield' IT organisations such as web-scale businesses and startups, DevOps is now making inroads into the 'brownfield' enterprise market.  Read now](https://www.zdnet.com/article/devops-what-is-it-and-how-can-it-help-your-business/)
 
 "DevOps encompasses a set of skills and practices (version control, continuous integration, containers/Docker, cloud monitoring and analytics, deployment automation, network protocols), but there is a shortage of developers with this suite of skills to meet the demand, which has exploded in the past 18 months."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What comes next?
 
@@ -152,11 +186,31 @@ Whatever the case, the role of the developer continues to evolve. New business n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-the-potential-of-your-facebook-lives/"><u>[New] 2024 Approved Unlock the Potential of Your Facebook Lives</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-boost-income-secrets-to-successful-youtube-shorts-earning/"><u>[New] In 2024, Boost Income Secrets to Successful YouTube Shorts Earning</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-iconic-acting-peek-vimeo/"><u>[New] In 2024, Iconic Acting Peek - Vimeo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[New] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utorrent-media-player-seamless-streaming/"><u>[New] UTorrent Media Player Seamless Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-creative-process-with-instagrams-audio-features/"><u>[Updated] Streamline Your Creative Process with Instagram's Audio Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-finding-no-cost-image-frame-films/"><u>[Updated] Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps/"><u>[Updated] The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>2024 Approved Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-step-by-step-slow-motion-mastery-in-phantom-cameras/"><u>2024 Approved Step-by-Step Slow Motion Mastery in Phantom Cameras</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-tecno-spark-20c-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Tecno Spark 20C.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-the-power-of-engaging-headline-crafting/"><u>In 2024, Unleash the Power of Engaging Headline Crafting</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-combining-zoom-and-fb-live-for-2024/"><u>The Ultimate Guide to Combining ZOOM & FB Live for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/twister-timber-titmice-for-2024/"><u>Twister Timber Titmice for 2024</u></a></li>
+</ul></div>
+

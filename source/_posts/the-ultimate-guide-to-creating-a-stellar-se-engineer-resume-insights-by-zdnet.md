@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Creating a Stellar SE Engineer Resume - Insights by ZDNet
-date: 2024-09-17 10:39:47
-updated: 2024-09-20 12:45:14
+date: 2024-10-09T18:34:17.278Z
+updated: 2024-10-15T08:52:34.459Z
 tags:
   - professional-development
 categories:
@@ -56,6 +56,13 @@ In addition to your name, email address, and phone number, include hyperlinks to
 
 The header doesn't just tell recruiters how to reach you, it emphasizes what you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Summary/objective
 
 The summary/objective section sits just below the header, but consider writing it last. That way, it can capture the spirit of your resume and describe how your experience and skills will bring value to the job you want.
@@ -63,6 +70,19 @@ The summary/objective section sits just below the header, but consider writing i
 This section should consist of just one or two sentences and include a couple of the job description's most important keywords.
 
 Using the Amazon example, a strong summary/objective might say, "Skilled software engineer seeking a position at Amazon Financial Technology where I can grow my 5+ years of software development experience with Java, Python, and C#/C++." 
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Work experience
 
@@ -83,6 +103,13 @@ Whenever possible, describe your work's impact with stats. For example:
 Phrases and sentence fragments are acceptable. 
 
 If you are new to the field, visit [How to become a software engineer](https://www.zdnet.com/article/how-to-become-software-engineer/) for ways to gain experiences for your resume.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Skills
 
@@ -105,6 +132,13 @@ For our hypothetical Amazon position, the list of your technical skills could in
 * Object-oriented programming
 
 Avoid listing soft skills. A bulleted list doesn't have space for the context you'll need to prove you have an abstract skill like "self-starter," and an employer is unlikely to trust your self-assessment without that context. Save people skills for your cover letter instead.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Projects
 
@@ -212,11 +246,23 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-can-i-view-all-shared-videos-and-photos-on-messenger/"><u>[New] In 2024, Can I View All Shared Videos And Photos on Messenger?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-snapshot-selection-unveiling-the-top-10-camera-lenses/"><u>[New] In 2024, Snapshot Selection Unveiling the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-detailed-guide-to-free-screen-recorders/"><u>[Updated] In 2024, Detailed Guide to Free Screen Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-topic-titling-artisans-assistant/"><u>[Updated] Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-installation-guide-downloading-the-latest-samsung-printer-drivers-for-windows/"><u>Easy Installation Guide: Downloading the Latest Samsung Printer Drivers for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-xp-400-driver-a-comprehensive-incremental-installation-process/"><u>Epson XP 400 Driver: A Comprehensive, Incremental Installation Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
+</ul></div>
+

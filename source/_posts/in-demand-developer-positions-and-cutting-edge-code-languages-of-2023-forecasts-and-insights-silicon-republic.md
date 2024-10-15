@@ -1,7 +1,7 @@
 ---
 title: "In-Demand Developer Positions & Cutting-Edge Code Languages of 2023: Forecasts and Insights | Silicon Republic"
-date: 2024-09-19 15:54:15
-updated: 2024-09-20 11:29:46
+date: 2024-10-10T20:02:43.097Z
+updated: 2024-10-15T01:14:39.148Z
 tags:
   - professional-development
 categories:
@@ -26,6 +26,13 @@ The role of the software developer is as central to an organization's success no
 Running technology in a business has become a business in itself. As commerce goes digital and consumers spend more time working, shopping and managing their lives from home**,** companies are spending billions of dollars to showcase their technology and maintain a lead on competitors. As a result, software creators find themselves in enormous demand.
 
 This _ZDNet Special Feature_ series is both an examination of the role of developers and the work they do, as well as an exploration into the trends that are shaping the software industry, and with it, the direction of travel for businesses in the coming months and years. Our ambition is to cast a light on the value of software developers in the modern digital workplace, as well as investigate the skills, technologies and programming languages that are driving market demand.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Programming languages 
 
@@ -64,6 +71,13 @@ Take DevSkiller's 2021 IT Skills Report, for instance, which recorded a 295% yea
 Yet demand for data scientists currently outstrips supply. [A survey of nearly 14,000 developers and recruiters](https://www.codingame.com/work/codingame-coderpad-tech-hiring-survey-2022/) by CodinGame and CoderPad in January found that data scientists and machine-learning specialists were amongst the roles companies struggled to hire the most, owing to the small pool of experienced developers with the necessary skillsets. A [report by the UK's Royal Society in 2019](https://royalsociety.org/news/2019/05/data-science-skills-shortages/) warned that demand for data scientists and data engineers had more than tripled over five years.
 
 With demand for data scientists and their unique skillsets rising, it stands to reason that knowledge of highly specialist programming languages used within these fields is associated with higher salaries. The same goes for Rust: this multi-paradigm programming language has become a favourite amongst developers since its conception in 2010, but isn't yet widely used in commercial settings. O'Reilly notes that, despite its lower market demand, "employers interpret knowledge of Rust and Go as a sign of competence and willingness to learn, which increases candidates' value."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Web devs
 
@@ -113,11 +127,25 @@ Image: HackerRank
 
 Developers themselves are wise to the opportunities that DevOps offers: alongside machine learning, DevOps was among the top skills developers want to learn in 2022, CodinGame/CoderPad found. "DevOps enables remote business activities to be maintained without compromising speed or operational efficiency," said Frederic Desmoulins, co-founder and CEO of CodinGame.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### See also
 
 [DevOps: What is it, and how can it help your business? Inspired by the world of just-in-time manufacturing and widely practised in 'greenfield' IT organisations such as web-scale businesses and startups, DevOps is now making inroads into the 'brownfield' enterprise market.  Read now](https://www.zdnet.com/article/devops-what-is-it-and-how-can-it-help-your-business/)
 
 "DevOps encompasses a set of skills and practices (version control, continuous integration, containers/Docker, cloud monitoring and analytics, deployment automation, network protocols), but there is a shortage of developers with this suite of skills to meet the demand, which has exploded in the past 18 months."
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What comes next?
 
@@ -152,11 +180,28 @@ Whatever the case, the role of the developer continues to evolve. New business n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beyond-indexation-understanding-youtubes-unlisted-mechanism/"><u>[New] 2024 Approved Beyond Indexation Understanding YouTube's Unlisted Mechanism</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[New] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-premier-updates-facebooks-latest-gems-unearthed/"><u>[Updated] 2024 Approved Premier Updates Facebook's Latest Gems Unearthed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-10-independent-android-games-for-non-networked-natives/"><u>[Updated] 2024 Approved Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[Updated] Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-to-zoom-into-online-engagements-intelligently/"><u>[Updated] Techniques to Zoom Into Online Engagements Intelligently</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-tick-tock-tally-calculating-pewdiepies-cash-for-2024/"><u>[Updated] Tick-Tock Tally Calculating PewDiePie’s Cash for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-zooming-with-gmail-emails-professionally/"><u>2024 Approved The Essential Guide to Zooming with Gmail Emails Professionally</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cool-whatsapp-tricks-and-hidden-features-you-should-know/"><u>Cool Whatsapp Tricks and Hidden Features You Should Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-google-meet-customization-filter-and-effect-techniques-for-2024/"><u>Mastering Google Meet Customization Filter & Effect Techniques for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-ups-battery-backups-of-2024/"><u>The Best UPS Battery Backups of 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultra-quick-photo-inspector-app-for-2024/"><u>Ultra-Quick Photo Inspector App for 2024</u></a></li>
+</ul></div>
+

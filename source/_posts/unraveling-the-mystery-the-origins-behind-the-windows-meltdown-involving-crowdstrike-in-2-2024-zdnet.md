@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Origins Behind the Windows Meltdown Involving CrowdStrike in 2지 2024년 | ZDNet"
-date: 2024-10-07T22:14:37.668Z
-updated: 2024-10-08T22:43:33.705Z
+date: 2024-10-14T02:10:30.054Z
+updated: 2024-10-15T09:20:56.343Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,15 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[New] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-presentations-with-professional-screencasts/"><u>[Updated] Elevate Your Presentations with Professional Screencasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-top-10-live-streaming-choices/"><u>2024 Approved Navigating the Top 10 Live Streaming Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-10-vectors-stock-pics-websites/"><u>2024 Approved The Ultimate List of 10 Vectors Stock Pics Websites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unexplained-tilted-images-on-instagrams-video-section/"><u>2024 Approved Unexplained Tilted Images on Instagram's Video Section</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/advanced-tech-meets-convenience-expert-review-of-the-smart-ring-doorbell-pro/"><u>Advanced Tech Meets Convenience: Expert Review of The Smart Ring Doorbell Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-chuckle-chest-premium-selection-of-gratuitous-gags/"><u>In 2024, Chuckle Chest Premium Selection of Gratuitous Gags</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-11-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme 11 5G Easily?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-utilizing-in-browser-multiframe-pip/"><u>In 2024, Utilizing In-Browser Multiframe PIP</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-x-recorder-your-companion-for-high-quality-pc-recording/"><u>[New] 2024 Approved X-Recorder Your Companion for High-Quality PC Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevate-your-metaverse-experience-expert-tips-on-avatar-creation/"><u>[New] In 2024, Elevate Your Metaverse Experience Expert Tips on Avatar Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-fundamentals-of-color-grading-using-luts-in-ae/"><u>[New] The Fundamentals of Color Grading Using LUTs in AE</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-professional-posting-hacks-for-instagram-tv/"><u>[Updated] 2024 Approved Professional Posting Hacks for Instagram TV</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-for-tiktok-content-sharing-strategies/"><u>[Updated] Twitter for TikTok Content Sharing Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-inside-out-top-tips-for-windows-11-pros/"><u>2024 Approved Inside Out Top Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-walkthrough-for-android-audio-personalization/"><u>2024 Approved The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/google-chrome-how-to-update-easily/"><u>Google Chrome How to Update [Easily]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-ios-auditory-options/"><u>In 2024, Top 10 iOS Auditory Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>In 2024, Unleashing Virtual Reality Making Spherical Videos on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-immersive-journeys-vr-tours-explained/"><u>In 2024, Unlocking Immersive Journeys VR Tours Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-human-interface-recognition-for-2024/"><u>The Fundamentals of Human Interface Recognition for 2024</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-3-methods-to-backup-images-on-any-os-with-windows-server/"><u>Top 3 Methods to Backup Images on Any OS with Windows Server</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/forming-viewers-into-fans-with-top-yt-video-reacts/"><u>Transforming Viewers Into Fans with Top YT Video Reacts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-s24-ultra-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy S24 Ultra</u></a></li>
 </ul></div>
 

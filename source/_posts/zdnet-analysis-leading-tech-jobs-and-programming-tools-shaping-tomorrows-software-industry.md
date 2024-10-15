@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Analysis: Leading Tech Jobs and Programming Tools Shaping Tomorrow's Software Industry"
-date: 2024-09-17 21:40:14
-updated: 2024-09-20 12:29:53
+date: 2024-10-10T20:14:54.221Z
+updated: 2024-10-15T05:38:46.438Z
 tags:
   - professional-development
 categories:
@@ -26,6 +26,13 @@ The role of the software developer is as central to an organization's success no
 Running technology in a business has become a business in itself. As commerce goes digital and consumers spend more time working, shopping and managing their lives from home**,** companies are spending billions of dollars to showcase their technology and maintain a lead on competitors. As a result, software creators find themselves in enormous demand.
 
 This _ZDNet Special Feature_ series is both an examination of the role of developers and the work they do, as well as an exploration into the trends that are shaping the software industry, and with it, the direction of travel for businesses in the coming months and years. Our ambition is to cast a light on the value of software developers in the modern digital workplace, as well as investigate the skills, technologies and programming languages that are driving market demand.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Programming languages 
 
@@ -65,6 +72,13 @@ Yet demand for data scientists currently outstrips supply. [A survey of nearly 1
 
 With demand for data scientists and their unique skillsets rising, it stands to reason that knowledge of highly specialist programming languages used within these fields is associated with higher salaries. The same goes for Rust: this multi-paradigm programming language has become a favourite amongst developers since its conception in 2010, but isn't yet widely used in commercial settings. O'Reilly notes that, despite its lower market demand, "employers interpret knowledge of Rust and Go as a sign of competence and willingness to learn, which increases candidates' value."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Web devs
 
 While data scientists and machine-learning specialists might be the hot new object of recruiters' desires, there can be no understating the ongoing importance of traditional mobile and web app developers.
@@ -90,6 +104,13 @@ Markup and query languages were also high up in the list, with HTML/CSS in secon
 > _"Programming skills such as Ruby, JavaScript and Python might not command quite the same salary numbers as certain cloud- and data-related platforms and tools, but they're equally vital to the operations of businesses large and small, whether it involves maintaining legacy code or building new apps and services. Learning these languages can translate into a stream of steady (and varied) work, although technologists must take care to keep their knowledge of these individual languages (like any skill) as current as possible." – Dice Tech Salary Report 2021_
 
 Businesses' appetite for digital front doors and customer-facing applications has only been increased by accelerated cloud adoption prompted by COVID-19\. With JavaScript still the go-to language for web development, demand for these programming languages won't be going away any time soon. That said, Python is hot on their tails. Python traded places with SQL to become the third most popular language in Stack Overflow's survey, whereas CodinGame/CoderPad's survey suggests that JavaScript, Java and Python will be the top three languages recruiters will look for in 2022.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The rise of DevOps
 
@@ -118,6 +139,13 @@ Developers themselves are wise to the opportunities that DevOps offers: alongsid
 [DevOps: What is it, and how can it help your business? Inspired by the world of just-in-time manufacturing and widely practised in 'greenfield' IT organisations such as web-scale businesses and startups, DevOps is now making inroads into the 'brownfield' enterprise market.  Read now](https://www.zdnet.com/article/devops-what-is-it-and-how-can-it-help-your-business/)
 
 "DevOps encompasses a set of skills and practices (version control, continuous integration, containers/Docker, cloud monitoring and analytics, deployment automation, network protocols), but there is a shortage of developers with this suite of skills to meet the demand, which has exploded in the past 18 months."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What comes next?
 
@@ -152,11 +180,29 @@ Whatever the case, the role of the developer continues to evolve. New business n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-artisans-guide-to-personal-branding-via-youtube/"><u>[New] In 2024, The Artisan's Guide to Personal Branding via YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-tailoring-melodies-for-youtube-personalized-list-creation/"><u>[New] Tailoring Melodies for YouTube Personalized List Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[Updated] Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] In 2024, Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>[Updated] Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ten-pillars-of-meme-creation/"><u>[Updated] The Ten Pillars of Meme Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-travel-video-setup-must-have-items-checklist/"><u>[Updated] Travel Video Setup Must-Have Items Checklist</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sdr-to-hdri-step-by-step-video-enhancement-guide/"><u>2024 Approved SDR to HDRI Step-by-Step Video Enhancement Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unpackaging-text-magic-the-best-after-effects-plugin-guide/"><u>2024 Approved Unpackaging Text Magic The Best After Effects Plugin Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/avoid-music-interruptions-how-to-keep-spotify-running-on-an-idle-iphone/"><u>Avoid Music Interruptions: How to Keep Spotify Running on an Idle iPhone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-s17e-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo S17e Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-playstation-45-audio-tweaks/"><u>In 2024, The Essential Guide to PlayStation 4/5 Audio Tweaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-full-potential-best-trio-for-zoom-conversion/"><u>In 2024, Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>In 2024, Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-huawei-p60-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Huawei P60 to Gmail | Dr.fone</u></a></li>
+</ul></div>
+

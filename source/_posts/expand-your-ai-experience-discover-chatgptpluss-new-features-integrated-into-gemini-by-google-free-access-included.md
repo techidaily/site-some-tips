@@ -1,7 +1,7 @@
 ---
 title: "Expand Your AI Experience: Discover ChatGPT+'s New Features Integrated Into Gemini by Google - Free Access Included!"
-date: 2024-09-18 21:29:12
-updated: 2024-09-20 10:44:35
+date: 2024-10-07T23:13:04.466Z
+updated: 2024-10-15T01:51:25.461Z
 tags:
   - google
 categories:
@@ -41,6 +41,19 @@ Google also shared that the integration of Imagen 3 into Gemini has built-in saf
 
 In the coming days, Google will also roll out the ability to generate images of people. However, early access versions will be available first to Gemini Advanced, Business, and Enterprise users in English. This feature has some limitations, including the generation of identifiable individuals and minors and violent, gory, or sexual scenes. 
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Gems
 
 At Google I/O, Google announced [Gems](https://www.zdnet.com/article/3-ways-gemini-advanced-beats-other-ai-assistants-according-to-google/), which are customized versions of Gemini for tackling particular tasks. To set up a Gem, a user simply has to give it an instruction, name it, and use it when needed to perform a specific function. 
@@ -74,11 +87,33 @@ Creating custom assistants is a paid feature on both ChatGPT and Gemini. However
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-maximizing-your-virtual-meetings-expert-insights-on-using-zoom-win10/"><u>[New] 2024 Approved Maximizing Your Virtual Meetings Expert Insights on Using Zoom (Win10)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-delete-discord-server/"><u>[New] In 2024, How to Delete Discord Server?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-launch-your-brands-professional-chapter-with-instagram/"><u>[Updated] In 2024, Launch Your Brand's Professional Chapter with Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elevate-your-ppt-shows-with-advanced-techniques-for-2024/"><u>Elevate Your PPT Shows with Advanced Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-examining-facebooks-hidden-activity-knowledge-is-power/"><u>In 2024, Examining Facebook’s Hidden Activity Knowledge Is Power</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-foundations-of-fast-and-easy-nft-innovation/"><u>In 2024, Foundations of Fast & Easy NFT Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/line-of-business-insights-overcoming-logistics-hurdles-by-mirroring-staff-knowledge/"><u>Line-of-Business Insights: Overcoming Logistics Hurdles by Mirroring Staff Knowledge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-httpsnpicorsteduhazardspestfactsgpshtml/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From https://npic.orst.edu/hazards/pestfacts/gps.html</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-the-api-agreement-for-abbyys-flexicapture-cloud-your-comprehensive-guide-to-data-archive-services/"><u>Navigating Through the API Agreement for ABBYY's FlexiCapture Cloud - Your Comprehensive Guide to Data Archive Services</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-guide-to-upgraded-audio-drivers-for-win1111/"><u>Quick Guide to Upgraded Audio Drivers for Win11/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/robiquity-secures-strategic-alliance-with-abbyy-enhancing-rpa-and-content-solutions/"><u>Robiquity Secures Strategic Alliance with ABBYY, Enhancing RPA and Content Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-energy-supply-changes-butagaz-teams-up-with-abbyys-cutting-edge-tech-solutions/"><u>Simplifying Energy Supply Changes – Butagaz Teams Up with ABBYY's Cutting-Edge Tech Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solving-windows-nt-11-bluetooth-connectivity-problems-expert-tips-and-fixes-inside/"><u>Solving Windows N't 11 Bluetooth Connectivity Problems: Expert Tips & Fixes Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/steering-innovation-meet-ulf-persson-ceo-of-abbyy/"><u>Steering Innovation - Meet Ulf Persson, CEO of ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-order-management-how-dot-foods-empowers-sales-team-with-automated-po-systems/"><u>Streamlining Order Management: How Dot Foods Empowers Sales Team with Automated PO Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ins-and-outs-of-firefox-picture-in-picture/"><u>The Ins and Outs of Firefox Picture-in-Picture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-anatomy-of-a-web-page-essentials-for-optimization/"><u>Understanding the Anatomy of a Web Page: Essentials for Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
+</ul></div>
+

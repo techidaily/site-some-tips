@@ -1,7 +1,7 @@
 ---
 title: "Transforming Into an Advanced Python Coder: My Journey with LinkedIn's Complimentary AI Program"
-date: 2024-09-17 16:33:26
-updated: 2024-09-20 11:17:13
+date: 2024-10-13T16:13:09.125Z
+updated: 2024-10-14T23:53:04.592Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ I have to give a big shout-out to LinkedIn for this offering. Normally, companie
 
 That turns this from what I originally thought was just another marketing scheme into full-on good work. It's up to you to cram as many courses as you can into the next 30 days, but if you can give up enough sleep, you can learn a lot for free. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The classes I took 
 
 In this article, I've spotlighted 14 of the courses I think are most interesting. My favorite (although I'm partial because the author is a colleague) has to be the [ChatGPT Tips for the Help Desk](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome) by Pam Baker. A seasoned technology journalist, Pam is also the author of [ChatGPT for Dummies](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChatGPT-Dummies-Computer-tech%2Fdp%2F1394204639%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb382313c-a92c-41ea-9b35-b1ada13c7d1b%7Cdtp&dtb=1). She knows her stuff. 
@@ -76,6 +83,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI courses for recruiting, finance, and support professionals
 
@@ -117,6 +131,13 @@ This course equips you with the knowledge and skills to navigate the evolving la
 **4.8 stars (217 ratings)** 
 In this course, Sammy Deprez introduces you to Azure OpenAI services and dives into the available models, including GPT models, embedding models, codex models, and DALL-E models.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI courses for Python coders 
 
 Python is one of the most popular languages among AI developers. Here I look at four courses that can help you integrate your Python knowledge with AI. [According to Ya Xu](https://www.linkedin.com/pulse/engineerings-new-world-work-look-todays-most-in-demand-ya-xu-1mmee/), VP of engineering and head of data and AI at LinkedIn, "Skills in key programming languages commonly used in the development of AI – Python, Java, and SQL – rank among the top five most sought-after skills on the technical side in the US."
@@ -136,6 +157,13 @@ Adam Wilbert shows how to use high-performance Python libraries and the Machine 
 [**Training Neural Networks in Python**](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python)  
 **4.6 stars (219 ratings)** 
 This course by Eduardo Corpeño teaches the inner workings of neural networks in Python, giving learners a chance to tap into the makings of algorithms and the steps needed to build and train their own neural networks from scratch using Python.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More free AI training 
 
@@ -175,11 +203,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-simplified-path-getting-snapchat-on-macos/"><u>[New] 2024 Approved Simplified Path Getting Snapchat on macOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-covert-calls-chroniclers-top-secret-audio-gadgets-androidios/"><u>[Updated] Covert Calls Chroniclers Top-Secret Audio Gadgets (Android/iOS)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-effective-b-roll-application/"><u>[Updated] Strategies for Effective B-Roll Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>2024 Approved Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-companion-to-master-color-correction-top-11/"><u>2024 Approved The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>2024 Approved Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aoemi-for-streamlined-file-management-on-two-independent-windows-systems/"><u>AOEMi for Streamlined File Management on Two Independent Windows Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-in-class-gaming-machines-expert-reviews-and-top-picks/"><u>Best-in-Class Gaming Machines: Expert Reviews and Top Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-and-compositing-for-youtube-videos-using-premiere-pro/"><u>Cutting and Compositing for YouTube Videos Using Premiere Pro</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-pova-5-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-copilot-vs-chatgpt-four-compelling-reasons-to-switch/"><u>Microsoft Copilot Vs. ChatGPT: Four Compelling Reasons to Switch</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-huion-sketch-tool-5-fast-fixes-for-a-broken-pen/"><u>Revitalize Your Huion Sketch Tool - 5 Fast Fixes for a Broken Pen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dx11-v100-glitch-in-wwe-2k-battlegrounds-step-by-step-guide/"><u>Solving the DX11 v10.0 Glitch in WWE 2K Battlegrounds: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-windows-10-audio-handbook-for-2024/"><u>The Essential Windows 10 Audio Handbook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-transformative-power-of-augmented-vision-for-2024/"><u>The Transformative Power of Augmented Vision for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-cross-platform-video-playback-software-for-2024/"><u>Unleashing the Power of Cross-Platform Video Playback Software for 2024</u></a></li>
+</ul></div>
+

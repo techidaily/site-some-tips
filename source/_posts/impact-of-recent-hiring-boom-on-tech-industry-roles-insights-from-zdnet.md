@@ -1,7 +1,7 @@
 ---
 title: "Impact of Recent Hiring Boom on Tech Industry Roles: Insights From ZDNet"
-date: 2024-09-17 19:33:21
-updated: 2024-09-20 10:45:34
+date: 2024-10-08T06:55:48.908Z
+updated: 2024-10-14T18:59:32.039Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,19 @@ Even if companies opt to either cut back or compensate for their skills shortage
 "We are constantly looking out for good-quality technology resources and we are recruiting to support our growth plans," relates [Raju Seetharaman](https://www.lgamerica.com/about-us/leadership/bio/raju-seetharaman), senior vice president of IT and transformation at [Legal and General America](https://www.lgamerica.com/). "The technology layoffs we are seeing across the industry so far are a result of the additional demand created during pandemic with additional capital availability and unique business opportunities. This is partly due to return to pre-pandemic model and also due to global slowdown," he says.
 
 "The skilled labor shortage will only get worse in the near future, as the need for tech talent continues to grow and the gaps between the available supply and demand for these individuals are exacerbated," predicts [Laura Baldwin](https://www.linkedin.com/in/laurabaldwin1/), president of [O'Reilly Media](https://www.oreilly.com/). 
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### CXO
 
@@ -87,11 +100,33 @@ Organizations, many of which may be facing the headwinds of a rough economy, wil
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-finding-the-right-angle-for-your-fb-videos/"><u>[New] 2024 Approved Finding the Right Angle for Your FB Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-bring-laughter-to-life-with-adobe-meme-tools-for-2024/"><u>[New] Bring Laughter to Life with Adobe Meme Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>[New] UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[New] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-implementing-podcast-seo/"><u>2024 Approved The Ultimate Guide to Implementing Podcast SEO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-premium-priced-no-cost-graphic-websites/"><u>2024 Approved Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplify-visual-narratives-with-audio-in-premiere-pro-for-2024/"><u>Amplify Visual Narratives with Audio in Premiere Pro for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eling-success-the-essential-elements-for-profitable-video-trailers-for-2024/"><u>Channeling Success The Essential Elements for Profitable Video Trailers for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-update-and-enhance-your-broadcom-gigabit-ethernet-drivers-on-windows-11/"><u>How to Securely Update and Enhance Your Broadcom Gigabit Ethernet Drivers on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-without-vlc-media-player-insights/"><u>In 2024, The Future Without VLC - Media Player Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/inside-the-secrets-of-quantum-hdr-photography-for-2024/"><u>Inside the Secrets of Quantum HDR Photography for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-passion-across-continents/"><u>Linguistic Passion Across Continents</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/optimizacion-del-rendimiento-visual-a-traves-de-intelligent-frame-interpolation-aumento-fps-y-transiciones-sin-esfuerzo/"><u>Optimización Del Rendimiento Visual a Través De Intelligent Frame Interpolation - Aumento FPS Y Transiciones Sin Esfuerzo</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-xiaomi-redmi-note-12-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-film-makers-quick-guide-to-perfect-sea-scenes-for-2024/"><u>The Film-Maker’s Quick Guide to Perfect Sea Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities-for-2024/"><u>The Full Scale of Precision A Review of Asus PA32U's Capabilities for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pivotal-role-of-eus-artificial-intelligence-law-on-ai-applications-like-chatgpt/"><u>The Pivotal Role of EU's Artificial Intelligence Law on AI Applications Like ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+</ul></div>
+

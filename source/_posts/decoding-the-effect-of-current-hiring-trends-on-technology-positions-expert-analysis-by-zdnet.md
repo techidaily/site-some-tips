@@ -1,7 +1,7 @@
 ---
 title: Decoding the Effect of Current Hiring Trends on Technology Positions - Expert Analysis by ZDNet
-date: 2024-09-19 20:52:12
-updated: 2024-09-20 10:25:10
+date: 2024-10-08T02:11:06.922Z
+updated: 2024-10-15T09:37:51.008Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,13 @@ Even if companies opt to either cut back or compensate for their skills shortage
 "We are constantly looking out for good-quality technology resources and we are recruiting to support our growth plans," relates [Raju Seetharaman](https://www.lgamerica.com/about-us/leadership/bio/raju-seetharaman), senior vice president of IT and transformation at [Legal and General America](https://www.lgamerica.com/). "The technology layoffs we are seeing across the industry so far are a result of the additional demand created during pandemic with additional capital availability and unique business opportunities. This is partly due to return to pre-pandemic model and also due to global slowdown," he says.
 
 "The skilled labor shortage will only get worse in the near future, as the need for tech talent continues to grow and the gaps between the available supply and demand for these individuals are exacerbated," predicts [Laura Baldwin](https://www.linkedin.com/in/laurabaldwin1/), president of [O'Reilly Media](https://www.oreilly.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### CXO
 
@@ -87,11 +94,27 @@ Organizations, many of which may be facing the headwinds of a rough economy, wil
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-video-content-for-a-fanbase-boom-for-2024/"><u>[New] Elevating Your Video Content for a Fanbase Boom for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-in-memes-genrator-assistance/"><u>[New] Unleash Creativity in Memes Gen'rator Assistance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-immersion-in-metaverse-leading-hmds-reviewed/"><u>[Updated] 2024 Approved Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison-for-2024/"><u>[Updated] Expert Smartphone Photo & Film Capture IPhone/Android Comparison for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtle-sound-level-lowering-in-fl-studio/"><u>[Updated] Subtle Sound Level Lowering in FL Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-8-things-to-consider-before-buying-next-lens-for-4k-camera/"><u>2024 Approved 8 Things to Consider Before Buying Next Lens for 4K Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>2024 Approved Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>2024 Approved Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-play-7t-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-oddworld-soulstorm-on-pc-overcoming-crash-dilemmas-with-simple-solutions/"><u>Mastering Oddworld: Soulstorm on PC – Overcoming Crash Dilemmas with Simple Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-subtitle-manipulation-in-macos/"><u>Mastering Subtitle Manipulation in macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sony-bdp-s3700-overhaul-a-new-perspective-review/"><u>Sony BDP-S3700 Overhaul A New Perspective Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+</ul></div>
+

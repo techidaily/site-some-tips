@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Job Market When Times Are Tough: Expert Advice on Finding Work Amidst Recession - Tips by ZDNet"
-date: 2024-09-17 17:42:56
-updated: 2024-09-20 12:14:31
+date: 2024-10-14T08:59:11.291Z
+updated: 2024-10-15T05:49:51.971Z
 tags:
   - professional-development
 categories:
@@ -39,6 +39,13 @@ Dust off your resume and LinkedIn profile — especially if it's been several ye
 
 Consider creating a [resume template](https://www.zdnet.com/education/professional-development/best-resume-templates/) that you can easily customize for each job posting. A list containing all of your professional achievements will make it easier to pull items specific to the job posting.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Reach out to your network.
 
 Many people find job opportunities through networking. But networking requires consistent investment. Reach out to your close contacts and ask for referrals. A referral can get you much further than a cold application. 
@@ -50,6 +57,13 @@ Make sure you send brief but collegial emails and LinkedIn messages. Even a dist
 **SEE:** [**How to set up informational interviews without seeming pushy**](https://www.zdnet.com/education/professional-development/how-to-set-up-informational-interviews/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Find companies that are clearly looking to hire.
 
@@ -75,6 +89,13 @@ And even within industries, look for [recession-proof jobs](https://www.zdnet.co
 
 In addition, you can add transferable skills that give you greater flexibility on the job market. Make sure to highlight those skills on your resume.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Consider freelancing as an option.
 
 ### Explore
@@ -90,6 +111,13 @@ If you're getting started, reach out to your network to offer your services. Res
 While your goal might be a full-time job, temporary work can bridge the gap. During a recession, many companies hire new employees as contractors before making full-time employment decisions. Temporary work can add to your resume while also providing a source of income.
 
 Search for temporary or contract positions as part of your overall job search. And consider reaching out to recruiters to ask about temporary work opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Stay the course, be patient, and focus on what you can control.
 
@@ -123,11 +151,31 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-shorts-description-everything-you-need-to-know-for-2024/"><u>[New] YouTube Shorts Description Everything You Need to Know for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-apeak-recording-assessment-top-software-showdown/"><u>[Updated] In 2024, Apeak Recording Assessment Top Software Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-film-a-beginners-guide-to-essential-shots/"><u>[Updated] Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-detailed-walkthrough-to-load-wm6/"><u>2024 Approved Detailed Walkthrough to Load WM6</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-virtual-meetings-in-google-mail/"><u>2024 Approved Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>2024 Approved The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-handbook-for-srt-file-conversions/"><u>2024 Approved The Expert's Handbook for SRT File Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-30-metaverse-meme-creation-tips-and-trends/"><u>2024 Approved Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-video-editors-aiding-in-app-dev-creation/"><u>2024 Approved Top Video Editors Aiding in App Dev Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-integrating-chatgpt-into-cognitive-behavioral-therapy-sessions/"><u>Effective Strategies: Integrating ChatGPT Into Cognitive Behavioral Therapy Sessions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-reno-11-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo Reno 11 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-12-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme 12 5G FRP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stealthy-sound-suppression-techniques-for-fade-out/"><u>In 2024, Stealthy Sound Suppression Techniques for Fade-Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>In 2024, Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youth-empowerment-your-life-story-can-inspire/"><u>In 2024, Youth Empowerment Your Life Story Can Inspire</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-infinix-note-30i-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30i? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-storytelling-into-cinematic-art-for-2024/"><u>Transforming Storytelling Into Cinematic Art for 2024</u></a></li>
+</ul></div>
+

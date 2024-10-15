@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Work Journey: 5 Essential Tips for Career Growth as Recommended by ZDNet"
-date: 2024-09-19 13:21:55
-updated: 2024-09-20 12:54:53
+date: 2024-10-07T18:25:23.673Z
+updated: 2024-10-14T20:05:31.149Z
 tags:
   - professional-development
 categories:
@@ -38,6 +38,13 @@ Every organization needs information technology security and support. As ZDNet's
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AWS Certified DevOps Engineer — Professional   
 
 Companies in every business sector rely on Amazon Web Services (AWS) for cloud computing. Among them are Airbnb, Coursera, Johnson & Johnson, Samsung, and Unilever. If you've got at least two years of experience operating and managing AWS infrastructure and apps, consider earning the AWS [Certified DevOps Engineer — Professional](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Faws.amazon.com%2Fcertification%2Fcertified-devops-engineer-professional%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb3f339e2-b56d-4b6e-9682-00e8531d3a3e%7Cdtp&dtb=1) certification. 
@@ -55,6 +62,13 @@ Companies in every business sector rely on Amazon Web Services (AWS) for cloud c
 ---
 
 This certification demonstrates that you know how to automate testing and deployment of AWS-based infrastructure and applications. [AWS also offers](https://www.zdnet.com/article/start-training-to-become-a-certified-aws-devops-engineer-for-40/) a variety of other related certifications that might advance your career.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Artificial Intelligence Engineer certification
 
@@ -100,6 +114,13 @@ The U.S. Bureau of Labor Statistics says the median annual salary for computer a
 
 Want insight on how? Check out our guide: [How to negotiate your salary: A 5 W's approach](https://www.zdnet.com/education/professional-development/how-to-negotiate-salary/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Write a professional resignation letter
 
 According to a 2020 [Gallup poll](https://www.gallup.com/workplace/231587/millennials-job-hopping-generation.aspx), [21% of millennials](https://www.gallup.com/workplace/231587/millennials-job-hopping-generation.aspx) reported changing jobs in the last year. That's more than three times the number of job-changers who weren't born between 1980 and 1996\. And in a [2021 report](https://www.bls.gov/nls/questions-and-answers.htm), the BLS said people born between 1957 and 1964 — younger baby boomers — said they held about 12 jobs between ages 18 and 54\. 
@@ -107,6 +128,13 @@ According to a 2020 [Gallup poll](https://www.gallup.com/workplace/231587/millen
 Nearly everyone changes jobs or careers throughout their lifetime. That means you'll need to write a few resignation letters. 
 
 If you need some guidance, check out this guide: [Do's and don'ts for writing a resignation letter](https://www.zdnet.com/education/professional-development/how-to-write-a-resignation-letter/). It may help you avoid burning bridges or going viral for the wrong reasons.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
@@ -122,11 +150,27 @@ If you need some guidance, check out this guide: [Do's and don'ts for writing a 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-androids-top-video-recording-options-5-excellent-picks-for-2024/"><u>[New] Android's Top Video Recording Options - 5 Excellent Picks for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/implify-your-path-to-youtube-short-mastery/"><u>[New] Simplify Your Path to YouTube Short Mastery</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-skys-best-friends-top-11-drone-gear-for-phantom/"><u>[New] Sky's Best Friends Top 11 Drone Gear for Phantom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-esl-english-as-second-language-for-vr/"><u>[New] The ESL (English as Second Language) for VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transition-your-tunes-transferring-collections-between-services/"><u>[Updated] Transition Your Tunes Transferring Collections Between Services</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-auditory-archive-top-resources-for-free-skype-music-files/"><u>2024 Approved Auditory Archive Top Resources for Free Skype Music Files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-13-prowindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your Apple iPhone 13 Pro/Windows/Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-mediamagic-8-edition/"><u>In 2024, MediaMagic 8 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>In 2024, Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-webm-to-mp3-top-10-webm-to-mp3-converters/"><u>In 2024, WebM to MP3 Top 10 WebM to MP3 Converters</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-top-rated-free-video-splitters-editors-choice/"><u>New 2024 Approved Top-Rated Free Video Splitters Editors Choice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-your-windows-11-creators-update-woes-overcoming-download-stalls-and-silent-screens/"><u>Solve Your Windows 11 Creators Update Woes: Overcoming Download Stalls & Silent Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques-for-2024/"><u>Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques for 2024</u></a></li>
+</ul></div>
+

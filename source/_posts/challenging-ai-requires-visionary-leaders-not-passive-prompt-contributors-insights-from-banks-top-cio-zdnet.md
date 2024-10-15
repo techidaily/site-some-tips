@@ -1,7 +1,7 @@
 ---
 title: Challenging AI Requires Visionary Leaders, Not Passive Prompt Contributors - Insights From Bank's Top CIO | ZDnet
-date: 2024-09-18 23:43:41
-updated: 2024-09-20 11:13:25
+date: 2024-10-12T16:58:54.660Z
+updated: 2024-10-14T22:06:00.464Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,31 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/oundational-codes-for-youtube-enthusiasts/"><u>[New] Foundational Codes for YouTube Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-exclusive-list-of-elite-christian-streaming-services/"><u>[New] The Exclusive List of Elite Christian Streaming Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximizing-revenue-through-youtube-brand-partnerships/"><u>[Updated] Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-talk-20-words-to-bolster-marketing-success/"><u>[Updated] Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vegas-pros-21-landmark-release-a-complete-analysis/"><u>[Updated] Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-novices-nook-the-easiest-mc-dwellings-explored/"><u>2024 Approved Novice's Nook The Easiest MC Dwellings Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>2024 Approved The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/quick-solutions-resolve-the-error-code-0x8100002f-on-your-windows-system-seamlessly/"><u>Quick Solutions: Resolve the 'Error Code 0X8100002F' On Your Windows System Seamlessly</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Capture Hiring Managers' Attention: Expert Tips for an Unforgettable Software Engineer Cover Letter | Insights From ZDNET Professionals"
-date: 2024-09-17 20:57:50
-updated: 2024-09-20 10:18:43
+date: 2024-10-08T18:36:18.564Z
+updated: 2024-10-15T04:56:55.822Z
 tags:
   - professional-development
 categories:
@@ -33,6 +33,13 @@ The ideal software engineer cover letter should clock in at slightly under a pag
 
 Strive to create a succinct business document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What should I include in a software engineer cover letter?
 
 All cover letters contain several key elements:
@@ -48,6 +55,13 @@ For best results, you should not think of creating a cover letter as a templated
 **Your contact info**
 
 Your contact info should go at the top of the page and include your:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -109,6 +123,13 @@ Close with a professional sign-off such as "best" or "sincerely."
 
 Finally, congratulate yourself on a job well done and review our [phone interview tips](https://www.zdnet.com/education/professional-development/interview-tips-recent-grads/) plus our lists of [computer science interview questions](https://www.zdnet.com/education/professional-development/common-computer-science-interview-questions/) and [impressive questions to ask in an interview](https://www.zdnet.com/education/professional-development/questions-to-ask-in-an-interview/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips on writing a software engineer cover letter
 
 **You don't need to rewrite an entire cover letter for every job you apply for.**
@@ -124,6 +145,13 @@ Plan on writing a custom introduction for each letter.
 Don't just list your skills. Talk about where and when you have used them in your career. For instance, rather than simply mention that you know Python, discuss a programming project you spearheaded that heavily drew upon coding in Python.
 
 **Put your soft skills in context.**
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -183,11 +211,31 @@ Make sure to proofread your work before sending it. Getting a second pair of eye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-5-must-know-strategies-for-effective-team-video-calls/"><u>[Updated] 5 Must-Know Strategies for Effective Team Video Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-best-free-online-video-capture-platforms/"><u>[Updated] Explore the Best Free Online Video Capture Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synchronized-system-apple-watch-and-mac-unlocking/"><u>[Updated] Synchronized System Apple Watch and Mac Unlocking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-use-kapwing-meme-maker/"><u>[Updated] Use Kapwing Meme Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-potential-of-the-metaverses-vast-space/"><u>2024 Approved The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>2024 Approved Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effective-methods-to-converting-your-mp4-content-into-high-quality-ogg-video-ogv-files/"><u>Effective Methods to Converting Your MP4 Content Into High-Quality Ogg Video (OGV) Files</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/enhancing-your-content-with-music-and-dynamic-effects-in-slide-shows-for-pc-and-mac-users/"><u>Enhancing Your Content with Music and Dynamic Effects in Slide Shows for PC & Mac Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-photoshop-techniques-for-dynamic-realistic-text/"><u>In 2024, Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>In 2024, Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23 Phone FRP Lock</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolve-display-synchronization-problems-pc/"><u>Resolve Display Synchronization Problems (PC)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screensnapper-pro-the-ultimate-guide-to-capturing-your-world/"><u>ScreenSnapper Pro The Ultimate Guide to Capturing Your World</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-approach-to-overcome-inability-to-refresh-the-classic-minecraft-launcher/"><u>Step-by-Step Approach to Overcome Inability to Refresh the Classic Minecraft Launcher</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-dramatic-hdr-portraits-explained-for-2024/"><u>The Art of Dramatic HDR Portraits Explained for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta-for-2024/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta for 2024</u></a></li>
+</ul></div>
+

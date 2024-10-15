@@ -1,7 +1,7 @@
 ---
 title: "Five Essential Questions Answered: Mastering Salary Talks with the W's Strategy | TechInsight"
-date: 2024-09-17 19:54:28
-updated: 2024-09-20 11:29:25
+date: 2024-10-08T03:25:03.164Z
+updated: 2024-10-15T01:19:01.288Z
 tags:
   - professional-development
 categories:
@@ -19,6 +19,13 @@ Knowing **who** is involved in salary negotiations is an essential first step. W
 
 ### **Why**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [Computer science salary trends: A negotiator's guide Employees in computer science, IT, and cybersecurity are in demand, so negotiate for compensation that reflects your professional worth.  Read now](https://www.zdnet.com/article/computer-science-salary/)
@@ -29,6 +36,13 @@ Here's an example: Negotiating a $40,000 salary up to $45,000 could allow you to
 
 Now that you know why you need to negotiate your salary to avoid leaving money on the table, it is important to explain your worth. Why should the company offer you more money? Why is your experience and perspective worth more? Having a compelling case –– supported with evidence and examples –– is the key to making a confident request.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Who**
 
 You will likely negotiate with a recruiter, a hiring manager, or your current manager. If you have not already, learning more about the company and who you will talk with will give you an advantage.
@@ -36,6 +50,13 @@ You will likely negotiate with a recruiter, a hiring manager, or your current ma
 LinkedIn, the popular career social networking site, is a great place to start. You can gather information about your future manager, their work, and your future teammates. You can also gain insight into what drives the interviewer and the company culture. Also, make sure to check out the company's public social media pages, YouTube channel, and website. All this information will help you learn more about the people behind your company.
 
 As [others have argued](https://greatresumesfast.com/blog/connecting-with-the-hiring-manager-on-linkedin/), it's ok to research your interviewer or recruiter. LinkedIn showcases career achievements and helps make professional connections. However, it's [generally agreed](https://www.themuse.com/advice/should-you-connect-with-the-hiring-manager-on-linkedin) that sending follow-up messages to a recruiter instead of connecting is your safest bet.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **What**
 
@@ -73,6 +94,19 @@ Keep in mind that negotiation is part of the process of choosing job candidates,
 
 By understanding the value of negotiating your salary and benefits, who you will be engaging with, what to focus on, when to start the conversation, and the best way to communicate, you'll have the knowledge and power to push your career to the next level.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **This article was reviewed by Sarah Holliday, MS, GCDF** 
 
 [Sarah Holliday](https://www.linkedin.com/in/sarah-holliday-ms-gcdf/) is a higher education administrator with over seven years of experience working with nontraditional and traditional students in areas related to career development, professional development, and personal enrichment. Holliday also works as an adjunct teaching English, career development, and business courses.
@@ -102,11 +136,33 @@ Sarah Holliday is a paid member of the Red Ventures Education freelance review n
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sharpen-your-scopes-essential-close-up-techniques-for-mines/"><u>[New] Sharpen Your Scopes Essential Close-Up Techniques for Mines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-speedy-spread-of-youtube-playlists-techniques/"><u>[Updated] Speedy Spread of Youtube Playlists Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[Updated] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>[Updated] The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[Updated] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-screen-recorders-for-low-end-pc/"><u>2024 Approved Screen Recorders for Low-End PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-impact-of-luts-on-professional-photography/"><u>2024 Approved The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevate-your-snap-game-15-strategies-for-social-success/"><u>Elevate Your Snap Game 15 Strategies for Social Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-camera-to-canvas-getting-started-with-lunapic-for-2024/"><u>From Camera to Canvas Getting Started with LunaPic for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-xs-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone XS iCloud Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>In 2024, The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-travelers-guide-mastering-video-speed-adjustment/"><u>In 2024, Time Traveler's Guide Mastering Video Speed Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-byte-requirement-for-24-hours-of-movie-viewing/"><u>In 2024, Total Byte Requirement for 24 Hours of Movie Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-magic-of-photo-cleanse-picsart-bg-removal/"><u>In 2024, Unveiling the Magic of Photo Cleanse Picsart Bg Removal</u></a></li>
+<li><a href="https://article-tips.techidaily.com/prime-titles-pro-elevate-your-youtube-game/"><u>Prime Titles Pro Elevate Your YouTube Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-playbook-for-drone-imagery-for-2024/"><u>The Editor's Playbook for Drone Imagery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-lunapics-secret-to-stunning-visuals-for-2024/"><u>Unlock LunaPic's Secret to Stunning Visuals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-pixels-the-exclusive-advantages-of-hp-envy-27-for-2024/"><u>Unmatched Pixels The Exclusive Advantages of HP Envy 27 for 2024</u></a></li>
+</ul></div>
+

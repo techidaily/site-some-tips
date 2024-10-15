@@ -1,7 +1,7 @@
 ---
 title: "Beyond Laziness: Unpacking the Motivations Behind 'Quiet Quitting' In Modern Workplaces | Expert Analysis by ZDNET"
-date: 2024-09-17 16:49:23
-updated: 2024-09-20 10:55:49
+date: 2024-10-09T16:36:47.125Z
+updated: 2024-10-15T01:02:45.819Z
 tags:
   - professional-development
 categories:
@@ -50,9 +50,23 @@ It's sad that, in 2022, after all we've learned about the role of work in our we
 
 Instead of castigating employees for taking a step back from roles that don't reward them, let's look at how we can apply the lessons of the past two years to create more sustainable, more equitable and more rewarding ways of working.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ZDNET'S MONDAY OPENER 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### PREVIOUSLY ON ZDNET'S MONDAY OPENER:
 
@@ -71,11 +85,27 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-leveraging-youtube-for-seamless-facebook-sharing/"><u>[New] In 2024, Leveraging YouTube for Seamless Facebook Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>[New] The Easy Way to Download and Use the iFunny Meme App</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-quest-for-superior-video-capture-tools/"><u>[Updated] 2024 Approved The Quest for Superior Video Capture Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[Updated] Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ning-with-youtube-essential-steps-to-create-your-space-for-2024/"><u>Beginning with YouTube Essential Steps to Create Your Space for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/discover-the-best-five-replacements-for-syncplicity-safe-robust-options-await/"><u>Discover the Best Five Replacements for Syncplicity – Safe, Robust Options Await!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-insights-on-making-your-podcast-name-unforgettable/"><u>Essential Insights on Making Your Podcast Name Unforgettable</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-the-best-way-to-enhance-cell-signal-in-2amo-top-devices-of-2024/"><u>Find the Best Way to Enhance Cell Signal in 2Amo: Top Devices of 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unravel-the-mysteries-of-color-grading-with-cs6cc-luts/"><u>In 2024, Unravel the Mysteries of Color Grading with CS6/CC LUTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/spielen-sie-wii-und-wii-u-konsolen-von-kann-man-dvds-ab-die-aktuellen-methoden-fur-2023-erklart/"><u>Spielen Sie Wii Und Wii-U Konsolen Von Kann Man DVDs Ab - Die Aktuellen Methoden Für 2023 Erklärt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-rainbow-six-siege-solutions-for-error-code-3-0x0001000b/"><u>Troubleshooting Rainbow Six Siege - Solutions for Error Code 3-0X0001000B</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-magix-clip-studio-for-2024/"><u>Unveiling the Power of MAGIX Clip Studio for 2024</u></a></li>
+</ul></div>
+

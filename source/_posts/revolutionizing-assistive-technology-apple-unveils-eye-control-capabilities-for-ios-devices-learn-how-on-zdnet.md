@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Assistive Technology: Apple Unveils Eye-Control Capabilities for iOS Devices - Learn How on ZDNet"
-date: 2024-10-08T01:44:45.725Z
-updated: 2024-10-08T19:37:51.828Z
+date: 2024-10-09T00:47:14.264Z
+updated: 2024-10-14T21:01:06.569Z
 tags:
   - apple
 categories:
@@ -45,22 +45,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -71,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -83,6 +76,13 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,19 +130,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-becoming-professionally-active-registering-a-business-on-ig-for-2024/"><u>[Updated] Becoming Professionally Active Registering a Business on IG for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-expedite-channel-growth-surpass-the-10k-view-threshold-now/"><u>[Updated] Expedite Channel Growth Surpass the 10K View Threshold Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-direct-to-digital-webcam-capture-through-vlc-media-player/"><u>2024 Approved Direct-to-Digital Webcam Capture Through VLC Media Player</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-how-to-generate-speech-from-text-the-top-text-to-speech-converters/"><u>2024 Approved How To Generate Speech From Text | The Top Text-to-Speech Converters</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>2024 Approved Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-swift-access-to-youtube-srt-files-three-key-points/"><u>2024 Approved Swift Access to YouTube SRT Files Three Key Points</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-iphone-user-manual-for-water-imagery/"><u>2024 Approved The Ultimate iPhone User Manual for Water Imagery</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/fast-conversion-guide-transforming-webm-files-into-mkv-format/"><u>Fast Conversion Guide: Transforming WebM Files Into MKV Format</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ideal-ringtone-hunt-prime-downloads/"><u>Ideal Ringtone Hunt Prime Downloads</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-maximizing-tiktok-video-velocity-effectively/"><u>In 2024, Maximizing TikTok Video Velocity Effectively</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-sunny-side-up-videography-for-android/"><u>In 2024, Sunny Side-Up Videography for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>In 2024, Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
-<li><a href="https://article-files.techidaily.com/revitalizing-screenshots-the-ultimate-top-10-iphoneandroid-sticker-tools-for-2024/"><u>Revitalizing Screenshots - The Ultimate Top 10 iPhone/Android Sticker Tools for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-camera-kings-battle-ultimate-sj6-vs-xiaomis-yi-kickstart-dream-for-2024/"><u>[New] Camera Kings Battle Ultimate SJ6 Vs. Xiaomi’s Yi Kickstart Dream for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-transformation-of-windows-10-landscape/"><u>[New] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-10-stabilized-video-makers/"><u>[New] Ultimate Guide to 10 Stabilized Video Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-color-grading-with-luts-in-pscc/"><u>[New] Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hat-makes-a-youtube-short-go-viral-for-2024/"><u>[New] What Makes a YouTube Short Go Viral for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhancing-text-clarity-in-high-quality-obs-output/"><u>[Updated] Enhancing Text Clarity in High Quality OBS Output</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-grab-tailor-made-cost-free-outro-videos/"><u>[Updated] Grab Tailor-Made, Cost-Free Outro Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-in-step-approach-hulu-recording-tutorial-for-diverse-systems-for-2024/"><u>[Updated] Step-In-Step Approach Hulu Recording Tutorial for Diverse Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-circle-of-online-av-masters/"><u>[Updated] The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tickle-tycoon-picture-builder/"><u>[Updated] Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-action-on-slow-footage-with-best-apps/"><u>2024 Approved Swift Action on Slow Footage with Best Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-powerhouses-of-vr-engine-technology/"><u>2024 Approved Unveiling the Powerhouses of VR Engine Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-delightful-adventures-the-joy-of-playing-pokemon-shining-pearl/"><u>Exploring Delightful Adventures: The Joy of Playing Pokémon Shining Pearl</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-moto-g24-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Motorola Moto G24 Phone with Broken Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-from-frames-to-frequencies-the-video-transformation/"><u>In 2024, From Frames to Frequencies The Video Transformation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-mac-peripherals-reviewed-find-the-ideal-mouse-for-your-computer-best-picks-2024/"><u>Leading Mac Peripherals Reviewed: Find the Ideal Mouse for Your Computer (Best Picks, 2024)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-securing-new-features-with-effortless-ios-downloads-and-setup-processes/"><u>The Ultimate Guide to Securing New Features with Effortless iOS Downloads & Setup Processes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-immagini-tga-in-formato-png-gratuitamente-conversione-on-line-con-movavi/"><u>Trasforma Immagini TGA in Formato PNG Gratuitamente - Conversione On-Line Con Movavi</u></a></li>
 </ul></div>
 

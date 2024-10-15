@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Shift to Remote Employment: A Comprehensive Weekly Roadmap by ZDNET Professionals"
-date: 2024-09-18 13:43:10
-updated: 2024-09-20 11:31:32
+date: 2024-10-10T06:42:15.778Z
+updated: 2024-10-15T06:34:32.092Z
 tags:
   - professional-development
 categories:
@@ -23,6 +23,19 @@ To get you started, we put together a step-by-step guide for beginning a new rem
 
 Tori Rubloff/ZDNet
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1-2 weeks before starting your new job  
 
 ### 1\. Buy any equipment you need for working from home.
@@ -32,6 +45,13 @@ The equipment you need depends on your new job, but it should help make you more
 Get the computer and software you need, along with a keyboard, headphones, webcam, and whatever else your job requires. If your employer provided a computer, check that it works.
 
 Other useful [remote work tech](https://www.zdnet.com/article/remote-work-10-ways-to-upgrade-your-working-from-home-setup/) might include a comfortable chair and a standing desk to break up long periods of sitting.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Set up your work station.
 
@@ -45,11 +65,25 @@ When you start a new job, you need to record and reference a lot of information.
 
 This might be as simple as keeping a notebook or a physical filing system. You might also try productivity software, such as Notion and Evernote.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. If you live with others, talk with them about your workday boundaries.
 
 When you work from a shared home, you may encounter noise and distractions throughout the day. Discuss your work schedule and demands with other home occupants to avoid issues.
 
 Try to limit noise and disruptions during your work hours. You could even coordinate your breaks to accomplish home tasks without losing valuable work time. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Set reasonable goals and intentions for your first 30, 60, and 90 days.
 
@@ -74,6 +108,13 @@ Brainstorm performance, learning, and personal goals related to your role. These
 ---
 
 ## Week 1 of your new job
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Start the habit of being on time for every meeting.
 
@@ -119,6 +160,13 @@ If you spend the time learning the tech early, you can avoid playing catch-up la
 
 ## Weeks 2-4 of your new job
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Learn your team's communication methods.
 
 Communication is important for most professionals. For remote workers on a new job, it's essential. 
@@ -130,6 +178,19 @@ Figure out how your company communicates and what platforms they use for each fu
 Supervisors, managers, and mentors expect to field questions from employees in new jobs. Take advantage of this opportunity to get as much information as possible. 
 
 Be sure to note down all the answers and advice you get. If you avoid repeating questions, you'll show your superiors you value the help you have received.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Set up chats with your coworkers.
 
@@ -162,6 +223,19 @@ As you grow in your position, your goals and questions will also evolve. Keep th
 Even after five weeks of work, you should still be learning. 
 
 Continue taking notes and learning from your peers and the situations you encounter. Even the most experienced professional can learn new tricks, so stay in "sponge mode" and absorb everything.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Don't be so hard on yourself.
 
@@ -196,11 +270,27 @@ Complete and integrate as many of these week-to-week tips as possible, and you'l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>[New] Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-seal-on-immersive-odyssey/"><u>[Updated] Ultimate Seal on Immersive Odyssey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 15 Pro in the Best Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-workflow-with-mac-preview-complete-guide/"><u>In 2024, Streamlining Your Workflow with Mac Preview Complete Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-capsule-converting-single-photographs-to-video/"><u>In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/in-depth-reviews-by-toms-computer-gear-hub/"><u>In-Depth Reviews by Tom's Computer Gear Hub</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-version-of-m-audio-fast-track-drivers-available-for-windows-users-compatible-with-os-10-7-8-and-81/"><u>Latest Version of M-Audio Fast Track Drivers Available for Windows Users - Compatible with OS: 10, 7, 8 and 8.1</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/professional-grade-hd-video-editors-our-top-5/"><u>Professional-Grade HD Video Editors Our Top 5</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speedy-explorer-windows-10-photography-interface-for-2024/"><u>Speedy Explorer - Windows 10 Photography Interface for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-method-to-alter-iphone-resolution-for-2024/"><u>Streamlined Method to Alter iPhone Resolution for 2024</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ultimate-instructional-resource-on-navigating-and-customizing-your-settings-tab-preferences/"><u>The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-the-best-the-ultimate-5-book-promo-video-list-for-2024/"><u>Uncover the Best The Ultimate 5 Book Promo Video List for 2024</u></a></li>
+</ul></div>
+

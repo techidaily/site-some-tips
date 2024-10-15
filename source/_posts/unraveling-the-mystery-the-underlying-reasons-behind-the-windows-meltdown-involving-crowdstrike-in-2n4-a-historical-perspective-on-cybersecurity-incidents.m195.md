@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Underlying Reasons Behind the Windows Meltdown Involving CrowdStrike in 2N4 - A Historical Perspective on Cybersecurity Incidents"
-date: 2024-10-02T17:00:04.546Z
-updated: 2024-10-09T01:20:46.147Z
+date: 2024-10-13T09:06:01.398Z
+updated: 2024-10-15T08:24:16.824Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -181,16 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-accelerated-actions-saving-ppts-quickly/"><u>[Updated] Accelerated Actions Saving PPTs Quickly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>[Updated] In 2024, Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-file-imports-into-windows-11-with-ease/"><u>[Updated] Mastering File Imports Into Windows 11 with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-sound-guide-for-your-android-devices-customization/"><u>[Updated] The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list/"><u>[Updated] Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-from-webp-to-jpeg/"><u>2024 Approved Ultimate Tutorial From WebP to JPEG</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-project-your-online-meetings-from-zoom-to-the-big-screen-television/"><u>How To: Project Your Online Meetings From Zoom to the Big Screen Television</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-editing-with-kinemaster-know-how-and-premier-online-counterparts/"><u>In 2024, Transform Video Editing with KineMaster Know-How & Premier Online Counterparts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/mastering-the-art-of-embedding-contact-forms-in-ebooks-using-flipbuilders-tools/"><u>Mastering the Art of Embedding Contact Forms in Ebooks Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-essential-steps-for-clearance-prior-to-tiktok-uploads/"><u>The Essential Steps for Clearance Prior to TikTok Uploads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-is-your-channels-income-regular-via-youtube/"><u>[New] In 2024, Is Your Channel's Income Regular via YouTube?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-msi-mystic-light-not-working-on-windows/"><u>[SOLVED] MSI Mystic Light Not Working on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-navigate-hdri-windows-powered-editing-wonders/"><u>[Updated] Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-moment-in-vr-infinity/"><u>[Updated] Ultimate Moment in VR Infinity</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/153plus-useful-russian-words-and-phrases-for-safe-travels/"><u>153+ Useful Russian Words & Phrases for Safe Travels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-action-like-never-before-review-the-t5-eye-action-camera/"><u>2024 Approved Action Like Never Before Review the T5 Eye Action Camera</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-livestreaming-to-facebook-from-iphonestablets/"><u>2024 Approved Step-by-Step Livestreaming to Facebook From iPhones/Tablets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-effortlessly-attain-professional-graphic-content/"><u>2024 Approved Techniques to Effortlessly Attain Professional Graphic Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-list-of-filmmaking-gear-for-newcomers/"><u>2024 Approved The Essential List of Filmmaking Gear for Newcomers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-8-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhance-ai-clarity-and-reduce-errors-discover-6-proven-prompt-methods-for-better-results/"><u>Enhance AI Clarity and Reduce Errors: Discover 6 Proven Prompt Methods for Better Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-world-of-srt-files-on-youtube-and-twitter-for-2024/"><u>Navigating the World of SRT Files on YouTube and Twitter for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ps4-controller-light-codes-explained-navigating-the-significance-of-blinking-colors/"><u>PS4 Controller Light Codes Explained: Navigating the Significance of Blinking Colors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/thank-you-in-motion-templates-for-every-budget-level-for-2024/"><u>Thank You in Motion Templates for Every Budget Level for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-checklist-for-internet-broadcast-preservation-for-2024/"><u>The Complete Checklist for Internet Broadcast Preservation for 2024</u></a></li>
 </ul></div>
 

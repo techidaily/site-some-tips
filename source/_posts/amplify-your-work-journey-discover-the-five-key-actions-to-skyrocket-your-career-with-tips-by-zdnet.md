@@ -1,7 +1,7 @@
 ---
 title: "Amplify Your Work Journey: Discover the Five Key Actions to Skyrocket Your Career with Tips by ZDNET"
-date: 2024-09-17 10:48:41
-updated: 2024-09-20 12:12:13
+date: 2024-10-10T05:34:44.813Z
+updated: 2024-10-15T09:03:51.413Z
 tags:
   - professional-development
 categories:
@@ -37,6 +37,13 @@ Every organization needs information technology security and support. As ZDNet's
 **SEE:** [**The best tech certifications for every IT professional**](https://www.zdnet.com/education/computers-tech/best-tech-certifications/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AWS Certified DevOps Engineer — Professional   
 
@@ -78,6 +85,13 @@ All of those attributes fall into the soft, or people, skills category. And they
 * [5 soft skills for business careers](https://www.zdnet.com/education/business-management/soft-skills-for-business-careers/)
 * [Common misconceptions about working in tech](https://www.zdnet.com/education/computers-tech/common-misconceptions-working-in-tech/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Key steps to level up your career
 
 No matter how you approach shaping your career trajectory, making a few key decisions and moves may position you to step into your desired role. Once you've strengthened your hard skills and polished your soft skills, it's time to take action. 
@@ -100,6 +114,13 @@ The U.S. Bureau of Labor Statistics says the median annual salary for computer a
 
 Want insight on how? Check out our guide: [How to negotiate your salary: A 5 W's approach](https://www.zdnet.com/education/professional-development/how-to-negotiate-salary/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Write a professional resignation letter
 
 According to a 2020 [Gallup poll](https://www.gallup.com/workplace/231587/millennials-job-hopping-generation.aspx), [21% of millennials](https://www.gallup.com/workplace/231587/millennials-job-hopping-generation.aspx) reported changing jobs in the last year. That's more than three times the number of job-changers who weren't born between 1980 and 1996\. And in a [2021 report](https://www.bls.gov/nls/questions-and-answers.htm), the BLS said people born between 1957 and 1964 — younger baby boomers — said they held about 12 jobs between ages 18 and 54\. 
@@ -107,6 +128,19 @@ According to a 2020 [Gallup poll](https://www.gallup.com/workplace/231587/millen
 Nearly everyone changes jobs or careers throughout their lifetime. That means you'll need to write a few resignation letters. 
 
 If you need some guidance, check out this guide: [Do's and don'ts for writing a resignation letter](https://www.zdnet.com/education/professional-development/how-to-write-a-resignation-letter/). It may help you avoid burning bridges or going viral for the wrong reasons.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
@@ -122,11 +156,27 @@ If you need some guidance, check out this guide: [Do's and don'ts for writing a 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-experience-the-pinnacle-of-free-fb-image-and-vfx-crafting/"><u>[New] 2024 Approved Experience the Pinnacle of Free FB Image and VFX Crafting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-seeking-the-perfect-cut-choose-between-filmora-or-democreator/"><u>[New] 2024 Approved Seeking the Perfect Cut? Choose Between Filmora or Democreator</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-marketers-mvp-list-top-10-instagram-video-editing-apps/"><u>[New] In 2024, The Marketer's MVP List Top 10 Instagram Video Editing Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-subtlety-matters-fading-out-sounds-in-logic-pro/"><u>[New] Subtlety Matters Fading Out Sounds in Logic Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pinnacle-of-new-zooids-in-panzoids/"><u>[New] The Pinnacle of New Zooids in Panzoids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-best-free-screen-recorders-on-windows-10/"><u>[New] Unlocking the Best Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unpacking-the-enhancements-in-sony-s6500-bdp/"><u>[New] Unpacking the Enhancements in Sony S6500 BDP</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-comparing-cloud-prices-for-maximum-savings-for-2024/"><u>[Updated] Comparing Cloud Prices for Maximum Savings for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[Updated] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>2024 Approved Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-windows-defenders-threat-barrier-a-top-5-approach-to-restoration/"><u>Reviving Windows Defender’s Threat Barrier: A Top 5 Approach to Restoration</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-edition-of-macs-stellar-file-eraser-v5-with-automated-deletion-plan/"><u>Standard Edition of Mac's Stellar File Eraser v5 with Automated Deletion Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-power-of-a-fresh-start-for-your-windows-apps/"><u>The Power of a Fresh Start for Your Windows Apps</u></a></li>
+</ul></div>
+

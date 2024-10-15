@@ -1,7 +1,7 @@
 ---
 title: ZDNet Report Finds that 25%% of Tech Employees Contemplate Job Transitions
-date: 2024-09-17 23:55:22
-updated: 2024-09-20 10:23:38
+date: 2024-10-10T01:13:04.780Z
+updated: 2024-10-14T22:06:09.749Z
 tags:
   - professional-development
 categories:
@@ -47,15 +47,42 @@ Industry leaders across the spectrum share their concerns and advice about worki
 
 "Keep learning is my best advice," says [Andrew Duncan](https://www.linkedin.com/in/andrewdun/?originalSubdomain=uk), CEO and managing partner at Infosys Consulting. "New experiences, new skills development, and new project opportunities are always the best path to keep advancing. Find a mentor that can help you through coaching and advisory -- these types of more seasoned business veterans are often a great ticket to opening new doors within a company, especially for younger professionals. Keep yourself visible and market yourself -- show people your successes and achievements and the value you have created in a project." 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Be a team player** 
 
 "Become critically important for the success of your team," says [Zaven Nahapetyan](https://www.linkedin.com/in/zavn/), co-founder of Niche.club, and a former engineering manager at Facebook. "As you get more senior, think about your team in broader terms: First, your immediate coworkers, then your organization. Understand what results you, your team, and your organization are supposed to be driving. Don't think of your job as a list of responsibilities, but rather as an investment by the company in order to achieve some goal. Try to understand what that goal is, and do everything in your power to help achieve it." 
 
 **Also:** [**5 ways to boost your skills and increase your career opportunities**](https://www.zdnet.com/education/professional-development/5-ways-to-boost-your-skills-and-increase-your-career-opportunities/)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Focus on the big picture**
 
 "Today's technology professionals should look beyond their current role in their organization, to think more broadly about the current challenges of the industry as a whole," says [Ben Smith](https://www.linkedin.com/in/bnsmth/), CTO of NetWitness. "Internally, they should seek out educational opportunities and tools available to expand their skills and succeed in their roles. Managers should know the top two or three goals of each of their employees, particularly those goals which may cross over from the professional world into the personal. The sooner a manager realizes that they cannot succeed by managing every employee identically, the stronger that manager's retention metric will be, whether in cybersecurity or any other industry." 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Shift thinking from heads-down tech to heads-up business concerns** 
 
@@ -82,11 +109,33 @@ Industry leaders across the spectrum share their concerns and advice about worki
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>[New] 2024 Approved Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clearfocuscutout-how-to-blur-your-youtube-videos-background/"><u>[New] In 2024, ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[New] Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>[New] The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-true-tints-and-shades-in-photos/"><u>[New] Unlocking True Tints and Shades in Photos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-engaging-consumer-openings-for-2024/"><u>[Updated] Engaging Consumer Openings for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-qanda-beyond-basic-usage/"><u>[Updated] Instagram Q&A Beyond Basic Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-of-live-streaming-with-periscope/"><u>[Updated] The Evolution of Live Streaming with Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-flip-to-flash-with-android/"><u>[Updated] Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[Updated] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-text-trends-top-10-modern-effects/"><u>2024 Approved Text Trends Top 10 Modern Effects</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726028391772-dvd/"><u>世界中のDVDフォーマットに合わせて再生するコツ</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/beyond-google-other-ar-sticker-solutions/"><u>Beyond Google Other AR Sticker Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-asus-prime-ap-750g-gold-750w-psu-performance-analysis/"><u>Comprehensive Evaluation: Asus Prime AP-750G Gold 750W PSU - Performance Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files-for-2024/"><u>Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>In 2024, Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-multitask-media-with-ease-expertly-using-netflixs-picture-in-picture-feature-for-2024/"><u>Master Multitask Media with Ease Expertly Using Netflix’s Picture-In-Picture Feature for 2024</u></a></li>
+</ul></div>
+

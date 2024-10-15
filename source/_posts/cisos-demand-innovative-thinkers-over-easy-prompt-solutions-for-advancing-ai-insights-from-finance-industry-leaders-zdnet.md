@@ -1,7 +1,7 @@
 ---
 title: CISOs Demand Innovative Thinkers Over Easy Prompt Solutions for Advancing AI - Insights From Finance Industry Leaders | ZDNet
-date: 2024-09-19 13:56:25
-updated: 2024-09-20 12:25:16
+date: 2024-10-13T17:09:03.402Z
+updated: 2024-10-14T18:09:16.311Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,36 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-personalized-timeline-presentation-facebook-lookback-tips/"><u>[New] 2024 Approved Personalized Timeline Presentation Facebook Lookback Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-blueprint-for-srt-file-adaptability/"><u>[New] The Essential Blueprint for SRT File Adaptability</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-instagrams-guide-to-intellectual-property-in-music/"><u>[Updated] 2024 Approved Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-movies-into-virtual-reality-realms/"><u>[Updated] Transforming Movies Into Virtual Reality Realms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unhindered-movie-enjoyment-no-cost-video-player-pcmac-for-2024/"><u>[Updated] Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unzip-the-scripts-crafting-subtitles-from-compressed-files/"><u>[Updated] Unzip the Scripts Crafting Subtitles From Compressed Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>2024 Approved The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>Commanders' Crusade Revealing the Best of 7 Total War Sagas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>In 2024, The Easy Way to Download and Use the iFunny Meme App</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-in-pc-and-components-expert-advice-from-toms-digital-world/"><u>Master the Latest in PC and Components - Expert Advice From Tom’s Digital World</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-13t-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi 13T</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-text-features-in-ae-compositions-for-2024/"><u>Tailoring Text Features in AE Compositions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unifying-media-files-from-desktop-to-iphone-for-2024/"><u>Unifying Media Files From Desktop to iPhone for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-infinix-smart-8-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Smart 8 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-v27e-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo V27e Phones</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Breaking Into the Tech Industry with a Background in Healthcare: Tips and Strategies"
-date: 2024-09-17 18:13:16
-updated: 2024-09-20 11:17:39
+date: 2024-10-08T00:59:19.685Z
+updated: 2024-10-14T18:27:45.254Z
 tags:
   - professional-development
 categories:
@@ -46,6 +46,13 @@ This section introduces technical roles that play to nurses' strengths. Eligibil
 
 Nursing informaticists use data to create new processes that improve patient care, healthcare outcomes, and nursing practice. They draw on healthcare data to recommend data-backed methods in healthcare delivery. A background in nursing helps informaticists break into the field.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Data analyst
 
 **Minimum degree required:** Bachelor's  
@@ -77,9 +84,23 @@ Junior web developers build websites that function smoothly. They create the vis
 
 Web developers typically need a college degree and some programming training. [Full-stack web development bootcamps](https://www.zdnet.com/education/bootcamps/full-stack-web-development-bootcamps-top-programs-and-what-to-expect/) and [web development certificates](https://www.zdnet.com/education/computers-tech/best-online-web-development-certificate/) may help people break in.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Non-technical roles for former nurses in tech
 
 If you're curious about how to get into tech as a nurse and technical roles seem out of reach, consider some of the following non-technical jobs. Try researching computer science jobs without coding, too.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Occupational health nurse
 
@@ -94,6 +115,13 @@ If you're curious about how to get into tech as a nurse and technical roles seem
 Occupational health nurses specialize in health issues that arise in the workplace. Some large tech companies employ occupational health nurses to treat common issues like carpal tunnel syndrome. 
 
 A healthcare background with experience in occupational or environmental health prepares nurses for this role.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tech sales
 
@@ -126,6 +154,19 @@ They collect data on customer demand, create timelines for bringing a product to
 Moving from nursing to tech requires several steps. Before applying for jobs, you'll need a clear idea of your target roles and the required skills. 
 
 Our tips walk through the process of how to get into tech as a nurse.
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Get clear on the type of tech role you want.
 
@@ -169,6 +210,13 @@ Switching fields can feel intimidating. By researching [how to switch careers to
 
 Changing careers can be a long process, but it's often worth the investment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This article was reviewed by Sarah Holliday, MS 
 
 Sarah Holliday has years of experience working with nontraditional and traditional students in career coaching and training and development. 
@@ -200,11 +248,23 @@ _Last reviewed March 31, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-guide-to-incorited-visuals-in-text-without-cost/"><u>[New] 2024 Approved Guide to Incorited Visuals in Text Without Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>[New] Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-corrected-clandestine-miniature-video-absence/"><u>[Updated] In 2024, Corrected Clandestine Miniature Video Absence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-affordable-360-degree-cameras/"><u>[Updated] Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>In 2024, Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-wireless-connection-in-windows/"><u>Reestablishing Wireless Connection in Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-best-water-and-liquid-worlds-you-can-play-for-2024/"><u>The Best Water & Liquid Worlds You Can Play for 2024</u></a></li>
+</ul></div>
+

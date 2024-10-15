@@ -1,7 +1,7 @@
 ---
 title: "The Dynamics of Quick Transformation: Exploring the Concepts Behind Disruptive Innovation | Innovative Strategies"
-date: 2024-09-19 14:13:21
-updated: 2024-09-20 12:14:38
+date: 2024-10-12T00:37:24.945Z
+updated: 2024-10-15T07:38:07.947Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ So a new company targets an overlooked customer base -- and manages to deliver a
 
 [The Future of the Internet The internet has never been more important, and its future has never been so uncertain. This ZDNET special report looks at the possible futures - good and bad - that lie ahead.  Read now](https://www.zdnet.com/topic/the-future-of-the-internet/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is disruptive innovation not?
 
 Defining disruptive innovation isn't easy and not everyone is going to agree on every example. Classic disruptive innovation should not simply describe just any situation of upheaval. If a new company shakes things up a bit for incumbent competitors, that scene is not necessarily one of disruptive innovation -- that could simply be a breakthrough. In order for this theory to have power and be used as an analytical and predictive model, it needs to be precisely defined. 
@@ -39,9 +46,23 @@ Not everyone thinks that's the case and other perspectives can be found that arg
 
 What counts as disruption is up for debate, especially as Christensen's theory is applied to shifting contexts.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is it important to define disruptive innovation?
 
 Disruption isn't a fixed point; it's the evolution of a product or service from the fringes of customers to the mainstream. It's important to define it this way because then it becomes more about the experimental nature of the process than about the output. See, disruptive innovations don't always succeed and not every successful company is a disruptor. The process is about building new business models previously unseen in the target industry and appealing to a more niche customer base at first.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is disruptive innovation the primary way innovation operates?
 
@@ -62,6 +83,13 @@ The main technologies to keep an eye on are the ones that tackle an underserved 
 Something like [autonomous vehicles](https://www.christenseninstitute.org/blog/sorry-autonomous-vehicles-arent-disruptive-heres-why-it-matters/), for example, can seem innovative, but they aren't disruptive according to the theory because they'll be quickly absorbed into existing industries. The incumbent advantage is strong. 
 
 The important thing to remember is that innovation does not always lead to disruption. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What does disruptive innovation mean for the everyday employee?
 
@@ -100,11 +128,31 @@ Disruption theory is difficult to define [and even experts don't agree on every 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-tips-boosting-efficiency-in-screen-recording-using-mobizen/"><u>[New] Expert Tips Boosting Efficiency in Screen Recording Using Mobizen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premium-slideshow-tools-for-iphone-series-9-13-xr-ios13/"><u>[New] Premium Slideshow Tools For iPhone Series 9-13 (XR-iOS13)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-rapid-recording-rules-for-iphone-timelapses/"><u>[New] Rapid Recording Rules for iPhone Timelapses</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>[New] Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-chorus-closet-capture-download-and-listen-to-tunes/"><u>[Updated] Chorus Closet Capture, Download & Listen to Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-prime-images-storage-centers/"><u>[Updated] Prime Images Storage Centers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-up-to-date-tips-for-purchasing-top-360-imagers/"><u>[Updated] Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>2024 Approved Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-comprehensive-list-of-vimeo-downloader-utilities/"><u>In 2024, Comprehensive List of Vimeo Downloader Utilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-color-grading-with-luts-in-pscc/"><u>In 2024, Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-photoshops-image-smoothing-worth-the-hype-in-2024/"><u>Is Photoshop's Image Smoothing Worth the Hype, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals-for-2024/"><u>KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigate-youtube-gaming-success-with-right-tags-for-2024/"><u>Navigate YouTube Gaming Success with Right Tags for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-windows-11-crimson-display-problem/"><u>Solving the Windows 11 Crimson Display Problem</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tailor-intels-chipset-integration-to-windows-versions-ws-11781/"><u>Tailor Intel's Chipset Integration to Windows Versions WS 11/7/8.1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-secrets-to-subtle-sound-diminishment-in-lumafusion-for-2024/"><u>The Secrets to Subtle Sound Diminishment in Lumafusion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-full-screen-flexibility-with-pip-feature-on-iphones-for-2024/"><u>Unlock Full Screen Flexibility with PIP Feature on iPhones for 2024</u></a></li>
+</ul></div>
+

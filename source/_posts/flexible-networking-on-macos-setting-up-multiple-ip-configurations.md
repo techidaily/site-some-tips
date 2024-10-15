@@ -1,7 +1,7 @@
 ---
 title: "Flexible Networking on MacOS: Setting Up Multiple IP Configurations"
-date: 2024-10-05T17:02:53.672Z
-updated: 2024-10-09T00:19:42.267Z
+date: 2024-10-12T09:25:01.316Z
+updated: 2024-10-14T20:42:42.753Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ So, how do you make this configuration? It's quite simple. Let me show you.
 **What you'll need:** The only thing you'll need for this is MacOS Sonoma (which includes Safari v17). That's it. Let's get this configuration taken care of.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -70,10 +70,16 @@ You can open Safari settings through the Menu Bar or a keyboard shortcut.
 Screenshot by Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Enable tab autoclose
@@ -116,24 +122,19 @@ With this feature set, Safari will automatically close tabs based on the last ti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-next-generation-of-vr-innovations-reviewed/"><u>[New] The Next Generation of VR Innovations Reviewed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-pro-tips-iphone-in-the-dark-spotlight/"><u>[Updated] 2024 Approved Pro Tips IPhone in the Dark Spotlight</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-advice-5-proven-methods-to-document-minecraft-on-apple-devices-for-2024/"><u>[Updated] Expert Advice 5 Proven Methods to Document Minecraft on Apple Devices for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-costless-conundrum-of-final-cut-pro-access/"><u>[Updated] The Costless Conundrum of Final Cut Pro Access</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-zeo-startup-showcase/"><u>[Updated] The Ultimate Zeo-Startup Showcase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tier-eighth-edition-of-image-blender-tool/"><u>[Updated] Top Tier Eighth Edition of Image Blender Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>2024 Approved The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-selection-choosing-excellent-free-srt-translators/"><u>2024 Approved Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved Utilization of Unused Film Clips Tips and Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-4k-marvel-sony-xperia-xz-premium-reviewed/"><u>In 2024, Exploring the 4K Marvel Sony Xperia XZ Premium Reviewed</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-se-2022-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone SE (2022) Stuck On Activation Lock?</u></a></li>
-<li><a href="https://common-error.techidaily.com/kernel-error-41-solved-for-win11-win10/"><u>Kernel Error 41: Solved for Win11, Win10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-guide-to-top-rated-church-streaming-platforms/"><u>Your Guide to Top-Rated Church Streaming Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-finding-the-perfect-dj-template-video-download-for-your-events/"><u>[New] Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069572251-new-in-2024-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>[New] In 2024, PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cutting-clout-not-content-efficient-video-length-reduction/"><u>[Updated] Cutting Clout, Not Content Efficient Video Length Reduction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images/"><u>[Updated] The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-intricacies-of-transferring-videos-to-youtube/"><u>2024 Approved Navigating the Intricacies of Transferring Videos to YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>2024 Approved The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>2024 Approved The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-asus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Asus</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-creating-perfect-360-photos-on-iphone/"><u>In 2024, Creating Perfect 360 Photos on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-budgets-youtube-marketing-investments/"><u>In 2024, Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial-for-2024/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tips-and-tricks-for-easy-and-effective-xbox-gameplay-capture/"><u>Tips & Tricks for Easy and Effective Xbox Gameplay Capture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-out-these-6-free-generative-pre-trained-transformer-replacements-today/"><u>Try Out These 6 Free Generative Pre-Trained Transformer Replacements Today</u></a></li>
 </ul></div>
 

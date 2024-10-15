@@ -1,7 +1,7 @@
 ---
 title: "Securing the Next Round: Proven Strategies for Excelling in Phone Screenings and Advancing Your Job Search with Insights From ZDNet"
-date: 2024-09-19 14:23:50
-updated: 2024-09-20 12:22:39
+date: 2024-10-11T01:42:42.758Z
+updated: 2024-10-14T19:16:50.128Z
 tags:
   - professional-development
 categories:
@@ -18,6 +18,13 @@ How should you prepare for a phone interview? What are the most common phone int
 Companies often use phone interviews to screen applicants and decide which candidates to meet in person. Phone interviews save the time and expense of arranging in-person interviews as the first step in a job search. 
 
 During a phone interview, companies want to learn about the applicants' experience, qualifications, and if he/she is a good fit for the position. Candidates who make a strong impression land a second interview.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to expect during a phone interview
 
@@ -42,6 +49,13 @@ You've scheduled a phone interview for 1:00 p.m. on Wednesday. But what time zon
 
 During the phone interview, you'll want to demonstrate your enthusiasm for the position. Researching the company — and determining why you want to work for them — will go a long way toward landing a second interview. Learn about the company, its values, and its goals. Reach out to anyone in your network who's worked for the company to get an insider perspective.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make an accomplishments cheat sheet
 
 The interviewer will want to know why they should hire you. Make a cheat sheet of your experiences, skills, and accomplishments. Read the job posting again and write down specific qualifications that the employer is looking for. Make sure you talk about these qualifications in your interview. Use the cheat sheet during the interview when they ask you to provide specific examples of your accomplishments. 
@@ -58,13 +72,40 @@ Salary expectations might come up during a phone interview. Research the salary 
 
 Almost every interview ends with, "do you have any questions for me?" Use your prep time to come up with three questions for the interviewer. Asking questions shows your interest in the role and demonstrates that you've done your research. You can ask about the day-to-day responsibilities, the company culture, or the metrics for success in the role.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Prep your interview materials
 
 What materials will you need during the phone interview? Some people must have a hard copy of their resume at their side. Others want paper to take notes or look at a cheat sheet of their accomplishments. It's also a good idea to have notes about the company and a copy of the job posting. Make sure you prepare any materials well in advance of the interview time. If you are doing a virtual interview, you can pull your notes up on your computer screen for reference.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Do a practice round
 
 You've practiced your answers in front of the mirror, but consider a mock interview to get even more practice. Ask a friend, family member, or someone you trust to practice with you. Provide a list of questions and answer them as you would during the interview. Ask for constructive feedback to improve your answers.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Get in the right mindset
 
@@ -96,6 +137,13 @@ Feel free to ask follow-up questions throughout the call. Asking questions shows
 
 The interviewer wants to know if you're a good fit for the role, so make sure to use examples from your professional experience to demonstrate your accomplishments. Those examples serve as evidence of your qualifications and work history. Avoid using examples from your personal life — it's important to stay professional.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Show enthusiasm
 
 Demonstrate enthusiasm during the call. Talk about why you're interested in the role and company, and show your excitement for the career opportunity. Some think speaking professionally requires a robotic demeanor, but that isn't always the case. It's okay to show emotion and energy during a job interview. In fact, doing so helps forge a connection between you and the interviewer.
@@ -104,11 +152,25 @@ Demonstrate enthusiasm during the call. Talk about why you're interested in the 
 
 What's the best way to end the interview on a high note? Make sure to thank the interviewer for their time and express your interest one last time. For example, consider ending the call with "I'm looking forward to the next steps." Your last impression should be one of enthusiasm for the hopeful next interview.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## After the phone interview: Ending on a high note
 
 ### Take notes after the interview
 
 Once you hang up the phone, what's next? While it's fresh in your mind, jot down notes about the interview. Write down new information about the role or company. And take some notes on the main topics covered. These notes can help you prepare for a second interview.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Send a thank-you email
 
@@ -162,11 +224,27 @@ _Last reviewed Jan. 27, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-innovating-education-with-virtual-immersion/"><u>[New] 2024 Approved Innovating Education with Virtual Immersion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-spotlight-secrets-perfecting-vlogger-lights/"><u>[New] 2024 Approved Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-conventional-to-cutting-edge-the-shift-from-rgb-to-srgb/"><u>[New] From Conventional to Cutting-Edge The Shift From Rgb to Srgb</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-perfect-your-profile-easy-guide-for-instagram-videos-from-desktop/"><u>[New] In 2024, Perfect Your Profile Easy Guide for Instagram Videos From Desktop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-play-to-pause-save-games-via-obs-for-2024/"><u>[Updated] From Play to Pause Save Games via OBS for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamline-your-songs-with-youtube-playlist-formats/"><u>[Updated] Streamline Your Songs with YouTube Playlist Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-secret-life-of-a-designer-canvas-hidden-edits/"><u>[Updated] The Secret Life of a Designer Canva's Hidden Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-tiktok-video-techniques-that-work/"><u>2024 Approved Transformative TikTok Video Techniques That Work</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-overcome-the-infamous-code-43-error-on-your-gtx-graphics-card-with-windows-10-solution/"><u>How to Overcome the Infamous Code 43 Error on Your GTX Graphics Card with Windows 10 [Solution]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-handbook-to-windows-11-video-mastery-for-2024/"><u>The Insider's Handbook to Windows 11 Video Mastery for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-17-ideal-locations-fur-langlebiges-texterlegen-kostenlos-mit-dem-movavi-konvertierprogramm/"><u>Top 17 Ideal Locations Für Langlebiges Texterlegen (Kostenlos) - Mit Dem Movavi-Konvertierprogramm</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-asmr-equipment-for-thoughtful-shoppers-seeking-performance-for-2024/"><u>Top ASMR Equipment for Thoughtful Shoppers Seeking Performance for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-best-ways-to-capture-your-minecraft-quests-on-a-mac/"><u>Unveiling the Best Ways to Capture Your Minecraft Quests on a Mac</u></a></li>
+</ul></div>
+

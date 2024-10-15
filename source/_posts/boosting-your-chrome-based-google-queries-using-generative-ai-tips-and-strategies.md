@@ -1,7 +1,7 @@
 ---
 title: Boosting Your Chrome-Based Google Queries Using Generative AI - Tips & Strategies
-date: 2024-09-17 10:42:48
-updated: 2024-09-20 11:51:19
+date: 2024-10-09T05:44:54.075Z
+updated: 2024-10-15T06:01:05.353Z
 tags:
   - google
 categories:
@@ -45,6 +45,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** To add SGE to Chrome, you'll need the Chrome desktop browser and a valid Chrome account that is not a work or school account (it's not yet available for those). That's it. Let's make it work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Log into your Google account
 
 The first thing you must do is open Chrome on your desktop (or laptop). Once Chrome is ready, click the profile icon in the upper right corner and click **Turn on sync** from the pop-up menu. You will then be prompted to type your Google account email address and then your password. Do note, if you're already signed into your Google account from within Chrome and enabled Sync, you can skip this step.
@@ -52,6 +59,13 @@ The first thing you must do is open Chrome on your desktop (or laptop). Once Chr
 Logging into your Google account to be used for Chrome Sync.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Access Google Labs
 
@@ -61,6 +75,13 @@ Accessing the Google Labs page is as simple as clicking the beaker.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable SGE
 
 On the Google Labs page, you'll see the card for SGE. In the card is an On/Off slider. Click that slider until it's in the On position. You can then close the Google Labs tab.
@@ -68,6 +89,19 @@ On the Google Labs page, you'll see the card for SGE. In the card is an On/Off s
 You can also enable other Google Labs experiments here.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Try SGE
 
@@ -108,11 +142,23 @@ You've just empowered your Google searches with generative AI in Chrome. Hopeful
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-to-turn-on-hdr-settings-in-windows-11/"><u>[Updated] In 2024, How to Turn On HDR Settings in Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mixing-video-sequences-with-blend-mode-expertise/"><u>[Updated] Mixing Video Sequences with Blend Mode Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-optimized-user-experience/"><u>Cookiebot-Enabled Sites: Optimized User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-boost-your-sites-engagement/"><u>Cookiebot-Enhanced User Experience: Boost Your Site's Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-enhancing-your-websites-seo-and-conversion-rates/"><u>Cookiebot-Enhanced: Enhancing Your Website's SEO and Conversion Rates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-dealing-with-nospinlockavailable-stop-code-issues/"><u>Expert Advice on Dealing with NO_SPIN_LOCK_AVAILABLE Stop Code Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-10-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 10 5G Phone without PIN</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-gionee-f3-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Gionee F3 Pro</u></a></li>
+</ul></div>
+

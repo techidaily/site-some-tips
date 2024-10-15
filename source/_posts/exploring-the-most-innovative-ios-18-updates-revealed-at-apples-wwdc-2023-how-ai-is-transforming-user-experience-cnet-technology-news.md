@@ -1,7 +1,7 @@
 ---
 title: Exploring the Most Innovative iOS 18 Updates Revealed at Apple's WWDC 2023 - How AI Is Transforming User Experience | CNET Technology News
-date: 2024-10-06T18:08:53.970Z
-updated: 2024-10-08T19:05:51.504Z
+date: 2024-10-08T23:23:52.745Z
+updated: 2024-10-15T02:08:24.949Z
 tags:
   - apple
 categories:
@@ -56,6 +56,13 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -64,18 +71,18 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -86,13 +93,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -113,10 +113,10 @@ Apple is opening up the format for third-party creators to create immersive vide
 Even so, I think this is great. Those immersive videos are fantastic. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Other new features
@@ -129,10 +129,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  What do you think?
@@ -179,21 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-12-screen-capture-tools-unlimited-recording/"><u>[New] 2024 Approved Ultimate 12 Screen Capture Tools (Unlimited Recording)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flickering-fonts-2-innovative-text-techniques/"><u>[New] In 2024, Flickering Fonts 2 Innovative Text Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-become-a-kinemaster-meme-wizard/"><u>[Updated] Become a KineMaster Meme Wizard</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-spotlight-on-tone-treasures-websites/"><u>[Updated] Exclusive Spotlight on Tone Treasures Websites</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-expert-tips-for-shifting-gender-identity-in-digital-imagery/"><u>[Updated] In 2024, Expert Tips for Shifting Gender Identity in Digital Imagery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-blurring-iphone-images-four-steps-covered/"><u>[Updated] The Art of Blurring iPhone Images - Four Steps Covered</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-10-best-cases-for-your-gopro/"><u>[Updated] The Elite List 10 Best Cases for Your GoPro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-enhanced-experience-of-movavi-video-pro/"><u>2024 Approved The Enhanced Experience of Movavi Video Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-quick-and-free-jpeg-to-gif-conversion-services/"><u>2024 Approved Top 10 Quick & Free JPEG-to-GIF Conversion Services</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/re-and-compare-20plus-best-free-video-editors-for-ios/"><u>Explore and Compare 20+ Best Free Video Editors for iOS</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-can-you-easily-send-a-steam-game-credit-as-gifts/"><u>How Can You Easily Send A Steam Game Credit as Gifts?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-itunes-radio-downloading-blueprint/"><u>In 2024, The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimize-online-sessions-tackling-zoom-audio-noise/"><u>Optimize Online Sessions Tackling Zoom Audio Noise</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/stay-up-to-date-with-facebooks-latest-watched-content-for-2024/"><u>Stay Up-to-Date with Facebook's Latest Watched Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android-for-2024/"><u>The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-in-2024/"><u>Ultimate Guide to GoPro Max or Hero 11, In 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus-for-2024/"><u>[New] Gain Profit Power The Secret of Successful Youtube Marketing & 500+ for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-nostalgia-frame-portraits-on-the-x-phone/"><u>[New] Nostalgia Frame Portraits on the X Phone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-harvest-mastery-discovering-valheims-optimal-flora/"><u>[Updated] In 2024, Harvest Mastery Discovering Valheim's Optimal Flora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m4a3gp-movavi/"><u>線上免費轉換M4A音頻至3GP格式：如何利用 Movavi 方便簡單的解決方案</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amds-latest-giants-in-depth-performance-review-of-the-ryzen-5-9600x-and-ryzen-7-9700x-powered-by-advanced-zen-5/"><u>AMD's Latest Giants - In-Depth Performance Review of the Ryzen 5 9600X and Ryzen 7 9700X Powered by Advanced Zen 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-note-50-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme Note 50</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-de-fichiers-aiff-en-m4a-sur-internet-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers AIFF en M4A Sur Internet Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-files-into-mkv-format-for-free-with-movavi-online-tool/"><u>Convert SWF Files Into MKV Format for Free with Movavi Online Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-conversion-transforming-voc-files-into-wmv-format-with-movavi/"><u>Free Conversion: Transforming VOC Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-video-m4v-a-formato-3g2-online-movavi/"><u>Gratuito Conversor De Vídeo M4V a Formato 3G2 Online - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-facile-pour-convertir-des-videos-m2p-en-mp4-sans-frais-utilisez-movavi-maintenant/"><u>Guide Facile Pour Convertir Des Vidéos M2P en MP4 Sans Frais - Utilisez Movavi Maintenant !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-digiarty-software-inc-winxdvd-corporate-overview-and-product-catalog/"><u>In-Depth Look at Digiarty Software, Inc. (WinXDVD) - Corporate Overview & Product Catalog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+<li><a href="https://win-docs.techidaily.com/transformez-vos-fichiers-vob-en-un-format-m2ts-compatible-avec-xbox-et-blu-ray-gratuitement-movavi/"><u>Transformez Vos Fichiers VOB en Un Format M2TS Compatible Avec Xbox Et Blu-Ray, Gratuitement - Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-how-to-switch-on-bluetooth-for-windows-7-devices/"><u>Troubleshooting and Fixing: How to Switch On Bluetooth for Windows 7 Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-secrets-of-expert-periscope-use-for-2024/"><u>Unlocking the Secrets of Expert Periscope Use for 2024</u></a></li>
 </ul></div>
 

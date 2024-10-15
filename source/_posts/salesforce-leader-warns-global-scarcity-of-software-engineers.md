@@ -1,7 +1,7 @@
 ---
 title: "Salesforce Leader Warns: Global Scarcity of Software Engineers"
-date: 2024-09-17 16:52:28
-updated: 2024-09-20 10:15:32
+date: 2024-10-08T16:41:03.166Z
+updated: 2024-10-15T02:08:56.500Z
 tags:
   - professional-development
 categories:
@@ -72,11 +72,34 @@ Hayward said the challenge for enterprises -- and this is where technology talen
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-extract-and-save-fb-videos-the-cutting-edge-of-top-5/"><u>[New] 2024 Approved Extract and Save FB Videos The Cutting Edge of Top 5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-science-of-perfectly-timed-episodes/"><u>[New] The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-trailblazers-top-intro-list-for-zooids/"><u>[New] Trailblazers Top Intro List for Zooids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quick-guide-to-twitter-videos-meet-aspect-ratio-criteria/"><u>[Updated] Quick Guide to Twitter Videos Meet Aspect Ratio Criteria</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-switching-on-windows-11-for-automatic-hdr-mode/"><u>[Updated] Switching On Windows 11 for Automatic HDR Mode</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-vivas-video-experience/"><u>2024 Approved Understanding Viva's Video Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-knowledge-setting-windows-filter-keys/"><u>Essential Knowledge: Setting Windows Filter Keys</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-ace-guide-to-constructing-virtual-classroom-headlines/"><u>In 2024, Ace Guide to Constructing Virtual Classroom Headlines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-top-sierra-dvd-makers/"><u>In 2024, Ultimate Guide to Top Sierra DVD Makers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/save-big-on-high-quality-media-transfers-secure-macx-mediatrans-now/"><u>Save Big on High-Quality Media Transfers – Secure MacX MediaTrans Now!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-messy-scripts-microsoft-onenotes-new-handwriting-smoothing-feature/"><u>Transform Messy Scripts: Microsoft OneNote's New Handwriting Smoothing Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-tales-the-top-storytelling-channels-on-yt-this-year-for-2024/"><u>Unraveling Tales The Top Storytelling Channels on YT This Year for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-sound-glitch-restore-clarity-with-simple-steps/"><u>Zoom Sound Glitch? Restore Clarity with Simple Steps</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

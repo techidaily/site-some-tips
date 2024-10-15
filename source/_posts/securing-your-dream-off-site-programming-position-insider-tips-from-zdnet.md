@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Dream Off-Site Programming Position: Insider Tips From ZDNet"
-date: 2024-09-19 10:19:59
-updated: 2024-09-20 12:45:40
+date: 2024-10-14T02:01:29.801Z
+updated: 2024-10-15T02:31:25.368Z
 tags:
   - professional-development
 categories:
@@ -55,6 +55,13 @@ Building a network using social media and LinkedIn, [taking advantage of interns
 
 Attending industry conferences, talks by leaders of companies you admire, alumni events, career fairs, and even coworker parties can lead to meeting people who can help you get hired. Practice a short "elevator pitch" about the job you're seeking and your applicable skills.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Maximize the quality of your application and portfolio.
 
 Finding a remote software engineering job requires an attention-grabbing cover letter, resume, and portfolio. 
@@ -66,6 +73,13 @@ Experienced software engineers can showcase work projects, emphasize problem-sol
 Tailor your [cover letter](https://www.zdnet.com/education/computers-tech/software-engineer-cover-letter/)for each position to demonstrate you've researched the company. Your [software engineer resume](https://www.zdnet.com/education/computers-tech/how-to-write-a-software-engineer-resume/) should highlight education, relevant work history, certifications earned, programming languages, software proficiencies, and technical skills.
 
 ## 4\. Apply to remote software engineering jobs that check your boxes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -115,6 +129,13 @@ Organize your job search with tools like these:
 * Notion, described as a personal wiki of projects you want to showcase
 * Job-seeker tracking apps like JibberJobber, JobCull, Kiter, Placement, and Teal
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Be willing to negotiate your salary.
 
 Once you've received a job offer, you'll want to know [how to negotiate salary](https://www.zdnet.com/education/professional-development/how-to-negotiate-salary/). 
@@ -126,6 +147,13 @@ One negotiation technique we recommend is using the "Five Ws" popularized by jou
 * Understand **where** you will be discussing salary, e.g., face-to-face, on the phone, or via video conference.
 * **When** do you start negotiations? After the employer offers a specific number on salary.
 * Be ready to explain **why** you deserve the salary you're requesting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### This article was reviewed by Sierra Gawlowski, PE
 
@@ -159,11 +187,25 @@ _Last reviewed May 2, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-20plus-cool-metaverse-memes-and-how-to-make-your-own-memes/"><u>[New] 20+ Cool Metaverse Memes and How to Make Your Own Memes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-free-srt-translator-showdown-the-best-eight-in-ranking/"><u>[New] 2024 Approved Free SRT Translator Showdown The Best Eight in Ranking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-creme-de-la-creme-of-vr-development-talent/"><u>[Updated] The Crème De La Crème of VR Development Talent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-30-pro-windows-10-secrets-revealed/"><u>[Updated] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-niche-knowledge-on-selecting-premium-fpv-drone-propellers/"><u>2024 Approved Niche Knowledge on Selecting Premium FPV Drone Propellers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-evaluation-unveiling-the-strengths-and-weaknesses-of-iphone-13/"><u>Detailed Evaluation: Unveiling the Strengths and Weaknesses of iPhone 13</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disentangle-onedrive-and-microsoft-account-on-windows-machine/"><u>Disentangle OneDrive & Microsoft Account on Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hearthstone-stability-enhanced-no-more-pc-crashing/"><u>Hearthstone Stability Enhanced - No More PC Crashing!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-your-iphone-from-staying-charged-while-on-hold-8-essential-tips/"><u>Stop Your iPhone From Staying Charged While on Hold - 8 Essential Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artists-guide-to-dynamic-palette-alteration-for-2024/"><u>The Artist's Guide to Dynamic Palette Alteration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-exchanging-images-and-videos-on-apple-devices-for-2024/"><u>Tips & Tricks Exchanging Images & Videos on Apple Devices for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Talent Acquisition: Moving Beyond Traditional Resumes in Tech Recruitment | ZDNet"
-date: 2024-09-18 12:15:35
-updated: 2024-09-20 11:47:49
+date: 2024-10-13T19:10:17.184Z
+updated: 2024-10-15T09:03:13.185Z
 tags:
   - professional-development
 categories:
@@ -52,6 +52,13 @@ Four in ten (40%) recruiters polled said they regularly hire developers who don'
 
 Shifting the focus from resumes to skills also gives an opportunity for those with [non-standard job backgrounds to get into tech](https://www.zdnet.com/article/developer-jobs-when-it-comes-to-building-diverse-teams-employers-are-still-missing-the-mark/), says Richardson: "Which we need, frankly. There's such a mismatch between demand for developers or development skills and the supply of engineering graduates. Our forecasts are that the need for developers is going to grow about 15% year over year. It's crazy."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Not dead yet
 
 While CoderPad's research indicates skills-based hiring is becoming more popular, there remains a strong demand for CVs in the hiring process.
@@ -97,11 +104,29 @@ At the same time, the blame for poor hiring decisions usually lands at the feet 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-social-media-metrics-the-igtv-hashtag-connection-for-2024/"><u>[New] Mastering Social Media Metrics The IGTV Hashtag Connection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>[New] The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>[New] Transform Your Workflow Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>[New] Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-harmonizing-tracks-in-youtube-music/"><u>[Updated] Harmonizing Tracks in YouTube Music</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-flawless-filming-ipad-timelapse-techniques/"><u>[Updated] In 2024, Flawless Filming IPad Timelapse Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-intensifying-interaction-with-enhanced-zoom-on-roblox-for-2024/"><u>[Updated] Intensifying Interaction with Enhanced Zoom on Roblox for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[Updated] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>2024 Approved The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-hidden-gems-of-m3-macbook-air/"><u>Discovering the Hidden Gems of M3 MacBook Air</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-enable-iphone-screen-rotation-tips-for-changing-from-portrait-to-landscape-view/"><u>How to Enable iPhone Screen Rotation - Tips for Changing From Portrait to Landscape View</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-2-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 2 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-6s-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 6s Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-podcasts-identity-with-ai-name-makers-for-2024/"><u>Transform Your Podcast's Identity with AI Name Makers for 2024</u></a></li>
+</ul></div>
+

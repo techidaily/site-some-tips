@@ -1,7 +1,7 @@
 ---
 title: "Boosting Team Efficiency: Mastering Generative AI with Three Essential Strategies – Insights From ZDNet"
-date: 2024-09-18 14:35:27
-updated: 2024-09-20 11:52:43
+date: 2024-10-08T18:56:38.084Z
+updated: 2024-10-15T09:02:51.257Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Bonomi explained how the three-stage training process helps people across Rakuten to upskill in AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 1: Foundations
 
 While it's easy for people to believe everyone is aware of generative AI, Bonomi says the reality is different. Many people need to be taught the basics.
@@ -63,6 +70,13 @@ Before the program started, 78% of employees felt uncomfortable using AI. Today,
 
 "But with AI, we're inverting that approach. Businesses will be built for growth and sustainability, and we must think about what that shift means and how tasks will change."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 2: Certifications
 
 With the foundations to help people understand AI, some employees are building on this platform and moving to stage two.
@@ -77,6 +91,13 @@ She then ran one-hour labs with ELB to hone staff knowledge.
 
 The workshops and labs are bolstered through certification: "The second level is about training and developing the skills you need to use AI tools. We're establishing certifications to show people have acquired knowledge."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 3: Tasks
 
 Bonomi said she expects people to start entering stage three this year. At this final level, the people who have been trained and certified will move on to task-specific use cases.
@@ -90,6 +111,13 @@ Bonomi said she expects people to start entering stage three this year. At this 
 Bonomi said it's at this third level that Rakuten will expose and explore potential role changes due to the introduction of AI.
 
 "This stage is all about saying, 'OK, now you know how to use ChatGPT and leverage it. How will you start embedding the technology into the organization and your role?' At that point, we'll work with HR reps to help us with the process."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taking AI to the next level
 
@@ -134,11 +162,26 @@ Her advice for other business leaders who want to boost their company's AI skill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-what-you-must-watch-a-close-look-at-todays-top-8-social-media-clips/"><u>[Updated] In 2024, What You Must Watch! - A Close Look at Today's Top 8 Social Media Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-pc-edition-of-image-overlay-mastery/"><u>[Updated] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-20-top-anime-song-starters/"><u>[Updated] Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supercharge-your-screens-with-video-enhancer-v22/"><u>2024 Approved Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>2024 Approved Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v29-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V29</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/free-frame-conversion-tweeting-vids-into-animated-gifs-for-2024/"><u>Free Frame Conversion Tweeting Vids Into Animated GIFs for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-pova-5-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Pova 5 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-15-smartest-ways-to-watch-nba-live-in-action/"><u>In 2024, The 15 Smartest Ways to Watch NBA Live in Action</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-win-10118-graphics-functions/"><u>Streamlining Win 10/11/8 Graphics Functions</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-i-favor-ioss-finest-choosing-apple-arcade/"><u>Why I Favor iOS's Finest: Choosing Apple Arcade</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-unite-without-problems/"><u>Windows & NVidia Unite Without Problems</u></a></li>
+</ul></div>
+

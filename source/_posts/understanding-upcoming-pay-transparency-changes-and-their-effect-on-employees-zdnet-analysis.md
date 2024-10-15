@@ -1,7 +1,7 @@
 ---
 title: Understanding Upcoming Pay Transparency Changes and Their Effect on Employees | ZDNet Analysis
-date: 2024-09-17 19:40:11
-updated: 2024-09-20 10:55:47
+date: 2024-10-08T19:04:11.927Z
+updated: 2024-10-14T16:00:25.247Z
 tags:
   - professional-development
 categories:
@@ -28,6 +28,13 @@ Such legislation and conversations about salary transparency can encourage more 
 According to a study of 2,000 US workers by [Adzuna](https://www.adzuna.com/), 54% of job applicants declined a job offer after learning about the position's salary. The same study says that 33% of job applicants would not attend an interview before knowing how much the job would pay.
 
 So, why do companies keep such vital information to themselves? And how can they be more honest with applicants about their compensational intentions?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Developer
 
@@ -56,6 +63,13 @@ Salary transparency saves applicants time applying to jobs they won't accept onc
 
 "It's a real problem, where candidates apply, interview, only for them to find out the job isn't financially viable for them," he says. "Transparency helps candidates avoid unnecessary applications, which in turn avoids wasted travel time, childcare, and all other costs attributed to searching for your roles."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Salary transparency as a means to achieving equality
 
 Salary transparency has always been a touchy subject, grouped with politics and religion as off-limits for water cooler conversations. It's something older generations say they wouldn't discuss with their coworkers, but the tide is turning on this narrative.
@@ -81,6 +95,13 @@ But to make real change, companies should broaden their definition of transparen
 Lenaghan suggests a total-rewards perspective includes all perks, values, and cultural aspects a business can offer a potential employee. These rewards include flexible work hours or paid childcare, and they can be helpful to mention for companies that can't compete monetarily with larger firms.
 
 "Small businesses or nonprofits may not be able to compete with Fortune 500 companies in terms of salary, but when you expand total rewards, and you look at all the other unique characteristics and benefits of their organizational culture, in fact, they can compete quite well," she says.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Be crystal clear. Your employees will appreciate it
 
@@ -121,11 +142,29 @@ If a new employee in an entry-level position is making as much as a tenured, mid
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-speech-logging-apps-for-ipads-3/"><u>[New] In 2024, Superior Speech Logging Apps for iPads #3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-vr-selection-top-8-must-have-titles/"><u>[New] Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>[New] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-switching-picture-in-picture-on-macios-effortlessly/"><u>[Updated] Switching Picture-in-Picture on Mac/iOS Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-windows-10-sound-capabilities/"><u>[Updated] Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphones-guide-to-great-night-images/"><u>2024 Approved The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722959593424-download-the-newest-intel-irisplus-gpu-drivers-smooth-and-speedy-setup-process/"><u>Download the Newest Intel Iris+ GPU Drivers: Smooth and Speedy Setup Process</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Motorola Moto G73 5G?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-iphone-hdr-techniques-for-professional-results/"><u>In 2024, Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973249322-master-data-transfer-speed-secure-your-lexar-usb-drivers-in-minutes/"><u>Master Data Transfer Speed: Secure Your Lexar USB Drivers in Minutes!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-astro-a40-mic-step-by-step-troubleshooting-guide/"><u>Reviving Your Astro A40 Mic: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ssdacer/"><u>SSDへのAcerノートブックアップグレード手順：詳細ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-text-styling-portals-for-creatives-for-2024/"><u>Unveiling the Top Text Styling Portals for Creatives for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Kickstart Your Journey Into the World of Artificial Intelligence: Top 5 Essential Steps Detailed by ZDNet"
-date: 2024-09-17 13:38:39
-updated: 2024-09-20 11:30:19
+date: 2024-10-11T22:30:44.261Z
+updated: 2024-10-14T17:13:04.738Z
 tags:
   - professional-development
 categories:
@@ -39,6 +39,13 @@ Back when I taught entry-level programming, about half my students wanted to pro
 
 My point here is that you have to be willing to do the work, and you also have to be able to bring something to the job. Rick seems willing to do the work, and he has skills he can bring to the job. Below are the five steps I'd recommend Rick -- and anyone interested in pivoting to AI work -- take. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Identify your current skills 
 
 This is important if you want to switch careers. What skills do you already have? 
@@ -52,6 +59,13 @@ He probably has some serious writing skills. Writing a product requirements spec
 Depending on what kind of product manager he is, he might also have marketing communications skills. By this, I mean the ability to write promotional copy describing his products for prospects, not just the implementation teams. 
 
 As an experienced product manager, he probably also has strong project management skills, strong organization skills, and some level of product knowledge (in his case, for life science-related offerings). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Identify skills that might transfer
 
@@ -96,6 +110,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Train yourself
 
@@ -165,6 +186,13 @@ But keep in mind that a career in AI also comes with challenges. It's a moving t
 
 There. That'll get you thinking. Good luck.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Let us know how it goes
 
 Feel free to share your journey of exploration and transformation in the comments below. Or, even better, share it in your new blog or Substack. Good luck. Be strong. Be curious. What do you think? Let us know if Rick's path seems like it might be similar to yours. Did you learn anything you can put to use? What ideas do you have that I didn't share? Let us know in the comments below.
@@ -194,11 +222,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-synergizing-brands-on-video-platforms/"><u>[New] Synergizing Brands on Video Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-6-nft-makers-for-artists-to-unleash-imagination/"><u>[New] Top 6 NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-bringing-history-alive-old-images-in-new-video-formats/"><u>[Updated] 2024 Approved Bringing History Alive Old Images in New Video Formats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channeling-success-emulating-top-video-bloggers-techniques/"><u>[Updated] In 2024, Channeling Success Emulating Top Video Bloggers' Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-masterful-approaches-to-producing-captivating-fb-video-campaigns-for-2024/"><u>[Updated] Masterful Approaches to Producing Captivating FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-budget-friendly-filmmakers-dream/"><u>[Updated] The Budget-Friendly Filmmaker's Dream</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-modern-readers-pathway-to-capturing-internet-television/"><u>[Updated] The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-pros-pathway-to-professionalism-making-videos-using-a-phone/"><u>[Updated] The Pro's Pathway to Professionalism Making Videos Using a Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-popular-free-soundtrack-sites-for-gamers/"><u>2024 Approved The Most Popular Free Soundtrack Sites for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-full-potential-of-macs-preview-tool/"><u>2024 Approved Unlocking Full Potential of Mac's Preview Tool</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-instructions-for-taking-screenshots-on-hp-systems/"><u>Complete Instructions for Taking Screenshots on HP Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortlessly-connect-airpods-to-windows-machines/"><u>Effortlessly Connect AirPods to Windows Machines</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-proplus-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro+ 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-obtain-and-update-hp-deskjet-3700-printer-drivers-get-started-today/"><u>Step-by-Step Guide to Obtain and Update HP DeskJet 3700 Printer Drivers - Get Started Today!</u></a></li>
+</ul></div>
+

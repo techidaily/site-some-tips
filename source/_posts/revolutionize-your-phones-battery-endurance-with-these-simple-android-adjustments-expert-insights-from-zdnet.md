@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Your Phone's Battery Endurance with These Simple Android Adjustments - Expert Insights From ZDNet
-date: 2024-09-17 18:53:23
-updated: 2024-09-20 10:49:37
+date: 2024-10-12T03:35:43.354Z
+updated: 2024-10-15T00:34:51.685Z
 tags:
   - google
 categories:
@@ -71,6 +71,13 @@ If you're using your phone, chances are you're typing on the keyboard pretty oft
 
 **How to**: Open the Settings app and locate "Language and input." This section is where your keyboard settings live. Find the section where you get to choose your default keyboard, then tap the gear icon next to it to manage settings. If you're a Gboard user (like most people), you'll then go to Preferences > Key press and disable "Sound on keypress" and "Haptic feedback on keypress."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reduce your notifications
 
 Max Buondonno/ZDNET
@@ -81,11 +88,25 @@ You might not realize it, but notifications can be one of the biggest drainers o
 
 **How to**: Go to Settings > Notifications > "App notifications" to see a list of all the apps installed on your phone. There are toggles next to each of them that, when flipped, will disable all notifications for that particular app.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Turn off "Hey Google" detection
 
 If your phone is constantly listening for you to say "Hey Google," chances are your battery is draining away. Your microphone is active, waiting to hear you say those two magic words that trigger the Google Assistant, and it takes a fair amount of energy to run that process all day. Disabling the feature is a no-brainer for anyone who doesn't use the Assistant daily. And let's be honest, how many of us use the assistant daily?
 
 **How to**: Open the Google app on your phone and tap your profile picture in the top-right corner. Then, visit Settings > Google Assistant > Hey Google & Voice Match and flick off "Hey Google." Now your phone will only trigger the Assistant if you hold down the power button or via another method.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Reduce your screen's refresh rate
 
@@ -94,6 +115,13 @@ There's no question that phone screens have gotten _really_ good over the past f
 **Also: [Change this Android setting to instantly double your phone speed](https://www.zdnet.com/article/change-this-android-setting-to-instantly-give-your-phone-twice-the-speed/)**
 
 **How to**: Open the Settings app and navigate to the Display section. Here, you'll find the settings to configure your refresh rate. Most smartphones call the feature something different; Google labels it "Smooth Display" while Samsung calls it "Motion smoothness." Find the setting associated with the refresh rate and revert to the standard rate. Your screen will likely seem a bit choppier as a result, but that's completely normal. It simply means it's operating at 60Hz, which every phone used to run at just a few years ago.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Turn off the wireless features you aren't using
 
@@ -130,11 +158,24 @@ I didn't include this feature in the primary list because, well, it's an obvious
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-yt-titling-excellence-with-smart-technology/"><u>[Updated] YT Titling Excellence with Smart Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/construct-chuckles-adobe-meme-creation/"><u>Construct Chuckles Adobe Meme Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-elite-selection-premier-17-inch-laptops-for-253/"><u>Discover the Elite Selection: Premier 17-Inch Laptops for 2^53</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-analysis-the-ultimate-test-of-the-razer-portal-for-online-play/"><u>Expert Analysis: The Ultimate Test of the Razer Portal for Online Play</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-live-online-broadcasts-recording-techniques/"><u>In 2024, Mastering Live Online Broadcasts Recording Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unmasked-influence-introducing-the-power-players-of-insta/"><u>In 2024, Unmasked Influence Introducing the Power Players of Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tp-links-av130-query/"><u>TP-Link's AV130 # Query</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Discreetly Securing New Opportunities: A Guide for Job Hunting While Employed"
-date: 2024-09-17 15:21:59
-updated: 2024-09-20 10:23:32
+date: 2024-10-11T06:30:00.678Z
+updated: 2024-10-15T04:57:05.633Z
 tags:
   - professional-development
 categories:
@@ -35,11 +35,25 @@ Try organizing your thoughts in a list or diary entry to better understand your 
 
 Once you know what you want, you can zero in on opportunities that seem to fit your needs as a professional and human being.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be discreet about looking for a new job.
 
 You may feel tempted to hint to your coworkers about your dissatisfaction with the current situation or excitement at a promising lead. Don't do it. If word gets around your workplace that you are looking for a new job, this could create a tense situation or even get you fired.
 
 This means you should also not post to your social media accounts or LinkedIn about your job search. Being discreet will allow you to find the right replacement job without rushing.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your resume and LinkedIn.
 
@@ -60,6 +74,13 @@ Do not use company computers to look up job opportunities.
 For one, it is unprofessional to do this on your current company's time. More importantly, you could raise eyebrows in your workplace if someone sees a search engine autocomplete option relating to your job search or a worker from IT mentions unusual activity on company computers.
 
 Only use personal devices to visit [job search sites](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) and wait until you are home to look for work. This way you will maintain professionalism and avoid your company's scrutiny.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Prioritize networking, rather than just applying on job boards.
 
@@ -104,6 +125,13 @@ Set boundaries for yourself by telling possible employers which times work and w
 ---
 
 ## 8\. Keep giving your current job your best effort.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -158,11 +186,29 @@ A positive, proactive attitude can help you overcome[new job anxiety](https://ww
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-virtual-meetings-mastering-gmail-and-zoom-usage-together/"><u>[New] Pioneering Virtual Meetings Mastering Gmail and Zoom Usage Together</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-hand-tracking-encyclopedia/"><u>[New] The Complete Hand-Tracking Encyclopedia</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>[New] The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[Updated] 2024 Approved Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ios-insiders-list-top-rated-downloading-apps-for-video-buffs/"><u>2024 Approved IOS Insider's List Top-Rated Downloading Apps for Video Buffs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>2024 Approved Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766647342-macx-mediatrans/"><u>公式MacX MediaTransユーザーマニュアル：最適な設定と高度な音楽転送・編集手法を学ぶ</u></a></li>
+<li><a href="https://driver-install.techidaily.com/access-top-tier-sound-in-minutes/"><u>Access Top-Tier Sound in Minutes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-eliminate-code-red-issue-553-from-your-call-of-duty-experience-insights-for-xbox-ps5-and-pc/"><u>How to Eliminate Code Red Issue #55^3 From Your Call of Duty Experience - Insights for Xbox, PS5, and PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-transferring-tunes-between-platforms/"><u>In 2024, The Art of Transferring Tunes Between Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/reparatur-von-handbrake-unter-verschiedenen-windowsversionen-einschliesslich-vista-und-neuer/"><u>Reparatur Von HandBrake Unter Verschiedenen Windowsversionen, Einschließlich Vista Und Neuer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionary-srt-adjustments-unleash-potential-on-both-oses/"><u>Revolutionary SRT Adjustments Unleash Potential on Both OSes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-steps-adding-comprehensive-captions-to-youtube-videos-for-2024/"><u>Simple Steps Adding Comprehensive Captions to YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symbolizing-sound-designing-a-captivating-podcast-image-for-2024/"><u>Symbolizing Sound Designing a Captivating Podcast Image for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-package-revelation-for-2024/"><u>The Art of Package Revelation for 2024</u></a></li>
+</ul></div>
+

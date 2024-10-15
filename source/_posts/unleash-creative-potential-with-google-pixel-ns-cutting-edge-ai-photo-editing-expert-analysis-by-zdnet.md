@@ -1,7 +1,7 @@
 ---
 title: Unleash Creative Potential with Google Pixel N's Cutting-Edge AI Photo Editing | Expert Analysis by ZDNET
-date: 2024-09-18 21:45:40
-updated: 2024-09-20 10:25:40
+date: 2024-10-08T04:29:43.191Z
+updated: 2024-10-15T07:03:15.372Z
 tags:
   - google
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reimagine
 
 Kerry Wan/ZDNET
@@ -51,6 +58,13 @@ In the era of [generative AI](https://www.zdnet.com/article/what-is-generative-a
 
 All you have to do is tap the area you want to change and type what you want to see. Some sample prompts could include "add sunset" or "make the grass greener."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Updated Magic Editor 
 
 Magic Editor has new capabilities powered by AI. Now, it can reframe your photo automatically, suggest the best crop, and even expand your image to get more out of your shot. This particular feature is useful when a picture you took has potential, but the framing was less than ideal. 
@@ -58,6 +72,13 @@ Magic Editor has new capabilities powered by AI. Now, it can reframe your photo 
 **Also:** [**Google just announced the new Pixel Buds. Here are the 3 features I'm most excited about**](https://www.zdnet.com/article/google-just-announced-the-new-pixel-buds-here-are-the-3-features-im-most-excited-about/)
 
 This adds to the already extensive suite of editing tools available in Magic Editor, such as the ability to remove and move objects, edit backgrounds, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Pixel 9 Pro updated Video Boost
 
@@ -84,11 +105,33 @@ The Pixel 9 Pro has an updated Video Boost feature, allowing you to upgrade your
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-best-humor-image-processor-for-2024/"><u>[New] Best Humor Image Processor for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-essentials-of-starting-an-instagram-live-for-2024/"><u>[Updated] The Essentials of Starting an Instagram Live for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unseen-video-on-sony-a6400-whats-going-wrong/"><u>2024 Approved Unseen Video on Sony A6400 What's Going Wrong?</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/como-rescatar-tus-datos-previos-al-reinicio-de-fabrica-en-windows-vista-y-7/"><u>Cómo Rescatar Tus Datos Previos Al Reinicio De Fábrica en Windows Vista Y 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-fast-how-to-stop-fifa-22-from-crashing-on-your-computer/"><u>Fix It Fast: How to Stop FIFA 22 From Crashing on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-and-uipath-are-pioneering-automation-insights-from-the-future-of-finance-summit/"><u>How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-rpa-is-dominating-the-thoughts-of-top-executives-insights-from-abbyy/"><u>How RPA Is Dominating the Thoughts of Top Executives: Insights From ABBYY</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-complete-guide-to-pc-mac-and-phone-movie-playback/"><u>In 2024, The Complete Guide to PC, Mac & Phone Movie Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-tracking-on-your-website/"><u>Leverage Cookiebot Technology for Superior User Tracking on Your Website</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebots-powerful-tracking-solutions-for-superior-user-insights/"><u>Leverage Cookiebot's Powerful Tracking Solutions for Superior User Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/"><u>Leverage Mobile OCR for Streamlined Customer Onboarding Processes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/"><u>Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-this-article-introduces-some-of-the-best-web-based-online-vertical-video-editors/"><u>New 2024 Approved This Article Introduces some of the Best Web-Based Online Vertical Video Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-website-performance-and-tracking/"><u>Optimize with Cookiebot: Elevate Website Performance & Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/"><u>Optimized With Cookiebot Technology - Boost Your Site's Engagement and Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-crawlbot-enhancing-site-traffic/"><u>Optimized with CrawlBot: Enhancing Site Traffic</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/silence-problem-twitter-videos-lacking-sounds-for-2024/"><u>Silence Problem Twitter Videos Lacking Sounds for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-innovative-samsung-galaxy-chromebook-2-review/"><u>The Ultimate Guide to the Innovative Samsung Galaxy Chromebook 2 Review</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Strategies for Landing Employment During Economic Downturns - Insights From ZDNet
-date: 2024-09-17 14:35:14
-updated: 2024-09-20 10:26:38
+date: 2024-10-07T22:53:36.598Z
+updated: 2024-10-15T01:52:13.590Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Write down what you want in a job and prioritize your list. Refer back to the li
 
 Next, set achievable goals. Instead of telling yourself to find a job by a certain date, set goals for networking, like attending a certain number of events each month or reaching out to a certain number of contacts each week. You can also set goals for the number of job applications you want to submit each week. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your resume and LinkedIn.
 
 ### Explore
@@ -38,6 +45,13 @@ Next, set achievable goals. Instead of telling yourself to find a job by a certa
 Dust off your resume and LinkedIn profile — especially if it's been several years (or longer) since you were on the job market. This will save you time and energy during your job search.
 
 Consider creating a [resume template](https://www.zdnet.com/education/professional-development/best-resume-templates/) that you can easily customize for each job posting. A list containing all of your professional achievements will make it easier to pull items specific to the job posting.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reach out to your network.
 
@@ -77,6 +91,13 @@ In addition, you can add transferable skills that give you greater flexibility o
 
 ## 7\. Consider freelancing as an option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Explore
 
 [Best job search sites for tech roles: Our picks Job boards abound, but the best job search sites for tech roles help you find the job you want when you want it.  Read now](https://www.zdnet.com/article/job-search-sites-for-tech/)
@@ -90,6 +111,13 @@ If you're getting started, reach out to your network to offer your services. Res
 While your goal might be a full-time job, temporary work can bridge the gap. During a recession, many companies hire new employees as contractors before making full-time employment decisions. Temporary work can add to your resume while also providing a source of income.
 
 Search for temporary or contract positions as part of your overall job search. And consider reaching out to recruiters to ask about temporary work opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Stay the course, be patient, and focus on what you can control.
 
@@ -123,11 +151,28 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-a-comprehensive-guide-to-climbing-the-facebook-rankings-ladder-for-2024/"><u>[New] A Comprehensive Guide to Climbing the Facebook Rankings Ladder for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-gradual-sound-escalation-auditions-guide-to-fades/"><u>[New] The Gradual Sound Escalation Audition’s Guide to Fades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-overview-dji-inspire-1-reviewed/"><u>[New] The Ultimate Overview DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-streamers-toolkit-beyond-streamlabs-obs/"><u>[Updated] In 2024, Streamer's Toolkit Beyond Streamlabs OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
+<li><a href="https://games-able.techidaily.com/capture-the-dreamcatcher-spirit-playing-game-on-android/"><u>Capture the Dreamcatcher Spirit: Playing Game on Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-your-perfectly-fitted-gopro-mount-6-and-above/"><u>Discovering Your Perfectly-Fitted GoPro Mount #6 and Above</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elite-green-tech-in-the-world-of-screen-capture/"><u>Elite Green Tech in the World of Screen Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-innovate-your-mobile-photography-with-these-free-overlay-experts/"><u>In 2024, Innovate Your Mobile Photography with These Free Overlay Experts</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/jvmdll-file-not-found-heres-how-you-can-correctly-address-this-common-windows-error/"><u>JVM.dll File Not Found? Here’s How You Can Correctly Address This Common Windows Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-perks-of-academia-your-guide-to-getting-affordable-dell-tech-as-a-student/"><u>Navigating the Perks of Academia: Your Guide to Getting Affordable Dell Tech as a Student</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-music-movement-between-services-for-2024/"><u>Streamline Your Music Movement Between Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-honored-tech-selfies-with-iphone-x-for-2024/"><u>Time-Honored Tech Selfies with iPhone X for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-discover-and-report-errors-for-a-payday-at-openai/"><u>Unlock Your Potential: Discover and Report Errors for a Payday at OpenAI</u></a></li>
+</ul></div>
+

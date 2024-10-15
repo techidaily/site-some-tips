@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Team Potential with Generative AI: Three Proven Methods for Confidence & Productivity | Expert Tips on ZDNet"
-date: 2024-09-17 12:41:22
-updated: 2024-09-20 11:52:55
+date: 2024-10-13T23:40:19.284Z
+updated: 2024-10-15T08:12:07.364Z
 tags:
   - professional-development
 categories:
@@ -47,6 +47,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Bonomi explained how the three-stage training process helps people across Rakuten to upskill in AI.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 1: Foundations
 
 While it's easy for people to believe everyone is aware of generative AI, Bonomi says the reality is different. Many people need to be taught the basics.
@@ -63,6 +70,13 @@ Before the program started, 78% of employees felt uncomfortable using AI. Today,
 
 "But with AI, we're inverting that approach. Businesses will be built for growth and sustainability, and we must think about what that shift means and how tasks will change."
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 2: Certifications
 
 With the foundations to help people understand AI, some employees are building on this platform and moving to stage two.
@@ -77,6 +91,13 @@ She then ran one-hour labs with ELB to hone staff knowledge.
 
 The workshops and labs are bolstered through certification: "The second level is about training and developing the skills you need to use AI tools. We're establishing certifications to show people have acquired knowledge."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Stage 3: Tasks
 
 Bonomi said she expects people to start entering stage three this year. At this final level, the people who have been trained and certified will move on to task-specific use cases.
@@ -90,6 +111,13 @@ Bonomi said she expects people to start entering stage three this year. At this 
 Bonomi said it's at this third level that Rakuten will expose and explore potential role changes due to the introduction of AI.
 
 "This stage is all about saying, 'OK, now you know how to use ChatGPT and leverage it. How will you start embedding the technology into the organization and your role?' At that point, we'll work with HR reps to help us with the process."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Taking AI to the next level
 
@@ -134,11 +162,31 @@ Her advice for other business leaders who want to boost their company's AI skill
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[New] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-pace-kings-and-queens-of-the-olympics-year-2022/"><u>[Updated] The Pace Kings & Queens of the Olympics, Year 2022</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-vision-tech-top-5-for-slow-motion/"><u>[Updated] Ultimate Vision Tech Top 5 for Slow Motion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>[Updated] Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-auto-captioned-content-in-social-media-visuals/"><u>2024 Approved Navigating Auto-Captioned Content in Social Media Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stretching-youtube-videos-to-full-display/"><u>2024 Approved Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola support MKV video files?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-file-organization-grouped-directories-at-a-glance-on-windows-11/"><u>Enhance File Organization - Grouped Directories at a Glance on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-surpass-everyday-photo-taking-with-ios-11/"><u>In 2024, Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-utilities-free-and-paid-macpc-bd-software-compared/"><u>In 2024, Ultimate Utilities Free & Paid Mac/PC BD Software Compared</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y27-4g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y27 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/nexiq-usb-link-drivers-easy-download-and-step-by-step-installation-guide/"><u>Nexiq USB-Link Drivers: Easy Download and Step-by-Step Installation Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23-for-2024/"><u>The Ultimate Guide to YouTube's Most Captivating Storytellers in '23 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-elite-sites-for-high-res-vectors-for-2024/"><u>Top 10 Elite Sites For High-Res Vectors for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-your-iphones-full-potential-by-resolving-location-not-available-problems/"><u>Unlocking Your iPhone's Full Potential by Resolving 'Location Not Available' Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+</ul></div>
+

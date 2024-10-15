@@ -1,7 +1,7 @@
 ---
 title: 5 Proven Strategies to Advance Your Career and Secure That Promotion | ZDNet
-date: 2024-09-19 17:48:54
-updated: 2024-09-20 10:32:21
+date: 2024-10-11T08:24:03.306Z
+updated: 2024-10-15T09:58:09.910Z
 tags:
   - professional-development
 categories:
@@ -20,6 +20,13 @@ Strong academic qualifications and solid work experience can help you get your f
 So, how can you get promoted? From trying out new projects to taking on responsibility and moving into management positions, five business experts give their best-practice tips for climbing the career ladder.
 
 ## **1\. Make sure people get to know the real you**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Special Feature
 
@@ -63,6 +70,13 @@ However, don't get stuck in a rut – once you're motivated, make sure you keep 
 
 ## **3\. Get a reputation for delivering great results** 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The New Rules of Work In the office, hybrid or remote, here's what is changing about where, when and how you do your job.  Read now](https://www.zdnet.com/topic/the-new-rules-of-work/)
@@ -93,6 +107,13 @@ Massuet says people who get promoted make sure that the noise surrounding projec
 
 "I always try to connect all the things that need to have value and are aligned to our vision. I try to minimise things that are not valuable. I always try to get everybody involved in every project or initiative that I take on," he says.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Listen to people and help them meet their objectives**
 
 As you start to take on more responsibility for projects, Eduardo Plastino, director of the Centre for the Future of Work at Cognizant, says the most successful leaders are defined by an ability to communicate and listen.
@@ -104,6 +125,13 @@ Flexible leadership doesn't mean switching course sharply, says Plastino. Instea
 Honesty, meanwhile, is about ensuring that everyone in the team is aware of what they're supposed to achieve and how they're going to get there. While some information is sensitive, Plastino says people who climb the ladder keep people informed about broader strategic goals.
 
 "It's about feeling the environment and challenging yourself on a regular basis: 'Am I doing what I could do or what I should do? Am I listening to people? Do I understand what the people who report to me need to do their jobs, too?' If you want to be successful, you have to listen – that's one of the most important lessons."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Read more from this special report: Tech skills - Upgrade your job**
 
@@ -119,11 +147,33 @@ Honesty, meanwhile, is about ensuring that everyone in the team is aware of what
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-encompassing-details-inside-googles-podcast-application/"><u>[New] Encompassing Details Inside Google's Podcast Application</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>[Updated] The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-venture-into-virtual-worlds-a-close-look-at-lgs-360-tech/"><u>[Updated] Venture Into Virtual Worlds A Close Look at LG's 360 Tech</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-navigating-the-quest-for-clean-photo-archives/"><u>2024 Approved Navigating the Quest for Clean Photo Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stream-on-the-go-youtube-via-mobile-for-understaffed-creators/"><u>2024 Approved Stream on the Go YouTube via Mobile for Understaffed Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-avi-to-gif-transitions-on-pcmac-via-filmora-pro/"><u>2024 Approved Streamlining AVI to GIF Transitions on PC/Mac via Filmora Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>2024 Approved Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-shots-premium-video-cams-for-slow-motion-magic/"><u>2024 Approved Top Shots Premium Video Cams for Slow-Motion Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-potential-of-gopro-hero5-in-time-lapse-cinematography/"><u>2024 Approved Unlocking the Potential of GoPro Hero5 in Time-Lapse Cinematography</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-for-effective-use-of-command-prompt-to-remove-files-on-windows-11/"><u>Expert Tips for Effective Use of Command Prompt to Remove Files on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-meizu-21-pro-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Meizu 21 Pro?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-guide-to-3d-color-grading-using-ps-luts/"><u>In 2024, In-Depth Guide to 3D Color Grading Using PS Luts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>In 2024, The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://win-dash.techidaily.com/no-fewer-than-6-and-no-more-than-9-organic-operations-representatives-from-the-production-handling-and-processing-sectors-of-the-usda-certified-organic-indu152/"><u>No Fewer than 6 and No More than 9 Organic Operations Representatives From the Production, Handling and Processing Sectors of the USDA Certified Organic Industry</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-optimization-success-fixes-implemented-for-zombie-army-4-dead-war-launch-glitches/"><u>PC Optimization Success! Fixes Implemented for 'Zombie Army 4: Dead War' Launch Glitches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/tapping-into-trendy-partnerships-how-to-profit-from-your-passion-on-instagram-for-2024/"><u>Tapping Into Trendy Partnerships How to Profit From Your Passion on Instagram for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/understanding-libor-changeover-with-artificial-intelligence-perspectives-by-abbyy-experts/"><u>Understanding LIBOR Changeover with Artificial Intelligence: Perspectives by ABBYY Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-through-360-degree-fisheye-imaging-for-2024/"><u>Unlocking the World Through 360 Degree Fisheye Imaging for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-f25-pro-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo F25 Pro 5G? Here is How | Dr.fone</u></a></li>
+</ul></div>
+

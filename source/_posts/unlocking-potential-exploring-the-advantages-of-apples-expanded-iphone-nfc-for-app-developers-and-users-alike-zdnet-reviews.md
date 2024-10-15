@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Exploring the Advantages of Apple's Expanded iPhone NFC for App Developers and Users Alike | ZDNET Reviews"
-date: 2024-10-01T16:16:03.901Z
-updated: 2024-10-09T00:16:46.275Z
+date: 2024-10-10T08:24:18.130Z
+updated: 2024-10-15T03:22:06.923Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ This durability is a testament to Apple's commitment to sustainable design and s
 To overcome this, Apple must redefine its device value proposition and demonstrate that new hardware advancements are crucial for the next generation of digital experiences. This could involve unlocking new [AI capabilities](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/), transforming everyday interactions through augmented reality, or pushing the boundaries of what's possible on mobile devices with applications previously reserved for high-end desktops. Apple can reignite consumer interest and drive new upgrades by aligning cutting-edge hardware with compelling, functional software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The software challenge: catching up to hardware
@@ -72,10 +72,10 @@ Imagine an iPadOS where AI doesn't just improve photo editing, but transforms ev
 Moreover, with the integration of AI features anticipated in iOS 18 and iPadOS 18, Apple seems poised to redefine the user experience. These features must be more than just incremental updates, however -- they must be transformative. Apple's promise of AI capabilities must manifest in tangible ways that change how we interact with our devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generative AI: Apple's new frontier
@@ -103,16 +103,10 @@ The potential applications of on-device AI are vast:
 These developments would not just be incremental improvements but could redefine the functionality of mobile devices. By pushing the boundaries of what on-device generative AI can achieve, Apple is poised to enhance user engagement and open up new opportunities in personalized technology and AI-driven services. This strategic integration of advanced AI could propel Apple to the forefront of the technology innovation curve, making its devices indispensable tools for the next generation of users.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The road ahead: WWDC 2024 and beyond
@@ -146,16 +140,16 @@ Such a setup necessitates Apple to invest more in cloud infrastructure, which it
 At WWDC, Apple must articulate how it plans to balance these technological advancements with user-centric design. Demonstrating OpenELM's potential to power features such as real-time multilingual translation, advanced content creation, and personalized recommendations while ensuring data privacy will be critical to convincing users of the value these AI capabilities add.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A call for innovation
@@ -200,19 +194,22 @@ Apple has the opportunity to lead and redefine the next wave of personal computi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-analyzing-user-interface-and-features-in-youtube-mobile-app/"><u>[New] Analyzing User Interface and Features in YouTube Mobile App</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-dive-deep-into-adobe-cloud-then-discover-alternatives-for-2024/"><u>[New] Dive Deep Into Adobe Cloud, Then Discover Alternatives for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-digital-background-switchers-shutterfix-excellence/"><u>[New] Leading Digital Background Switchers ShutterFix Excellence</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories-for-2024/"><u>[New] Perfect Picture Spotlights How to Zoom in & Out on Insta Stories for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[New] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-pinnacle-of-picture-perfection-with-video-enhance-v22/"><u>[Updated] 2024 Approved Pinnacle of Picture Perfection with Video Enhance V2.2</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supreme-audiovisual-hints-pack/"><u>[Updated] Supreme Audiovisual Hints Pack</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essentials-of-writing-attractive-vlog-narratives/"><u>[Updated] The Essentials of Writing Attractive Vlog Narratives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-sns-hdrs-strengths-and-comparative-software/"><u>[Updated] Unveiling SNS HDR's Strengths & Comparative Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-iphone-photo-potential-the-art-of-reflection/"><u>2024 Approved Unlock iPhone Photo Potential The Art of Reflection</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/choosing-between-myai-and-chatgpt-for-your-snapchat-needs/"><u>Choosing Between MyAI and ChatGPT for Your Snapchat Needs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elden-ring-release-delay-why-is-the-game-still-unreleased/"><u>Elden Ring Release Delay: Why Is The Game Still Unreleased?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-mkv-player-pcandroid-experience-for-2024/"><u>Superior MKV Player PC/Android Experience for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content/"><u>[New] Conquer Oversized Drafts Learn to Edit and Organize TikTok Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-envisioning-your-fb-video-showcase/"><u>[Updated] 2024 Approved Envisioning Your FB Video Showcase</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023s-leading-cost-free-fb-picture-and-video-developer-tools/"><u>2023'S Leading, Cost-Free FB Picture and Video Developer Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4ogvmovavi/"><u>無料で使えるMP4に簡単変換!動画形式OGVをMovaviでオンライン変更する方法</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-the-newly-released-2022-airpods-pro-worth-your-money-a-comprehensive-review-by-an-expert-findings/"><u>Are the Newly Released 2022 AirPods Pro Worth Your Money? A Comprehensive Review by an Expert Findings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-wmv-and-m4a-video-formats-for-free-on-the-web-with-moveave/"><u>Convert WMV & M4A Video Formats for Free on the Web with Moveave</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-videos-3gp-a-formatos-avanzados-online-sin-coste-soluciones-de-movavi/"><u>Convertir Videos 3GP a Formatos Avanzados Online Sin Coste: Soluciones De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-from-flac-to-mp3-by-movavi/"><u>Free Online Converter From FLAC to MP3 by Movavi</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/guia-para-fijar-video-sin-problemas-en-dispositivos-mac-pc-o-telefonos-android-e-ios/"><u>Guía Para Fijar Video Sin Problemas en Dispositivos Mac, PC O Teléfonos Android E iOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-streaming-experience-through-youtubes-av1-technology/"><u>In 2024, Transform Your Streaming Experience Through YouTube's AV1 Technology</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-games-with-ease-the-comprehensive-review-of-bright-and-colorful-viewsonic-xg272-2k-240hz-gaming-display/"><u>Mastering Games with Ease: The Comprehensive Review of Bright and Colorful ViewSonic XG272-2K 240Hz Gaming Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/misez-vous-sur-loption-de-conversion-wma-a-ogg-en-ligne-gratuit-chez-movavi-une-solution-simple-et-rapide/"><u>Misez-Vous Sur L'option De Conversion WMA À Ogg en Ligne Gratuit Chez Movavi : Une Solution Simple Et Rapide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-14-melhores-tradutores-de-audiomensagem-livres-que-voce-precisa-conhecer-hoje/"><u>Os 14 Melhores Tradutores De Audiomensagem Livres Que Você Precisa Conhecer Hoje</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/push-boundaries-in-image-editing-expert-distortion-techniques-for-2024/"><u>Push Boundaries in Image Editing Expert Distortion Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-and-easy-guide-to-crafting-beautiful-iphone-collages-discover-the-most-effective-methods/"><u>Quick & Easy Guide to Crafting Beautiful iPhone Collages: Discover the Most Effective Methods!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-audio-units-au-a-formatos-mp4-por-internet-gratis-con-movavi/"><u>Transforma Audio Units (AU) a Formatos MP4 Por Internet Gratis Con Movavi</u></a></li>
 </ul></div>
 

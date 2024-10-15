@@ -1,7 +1,7 @@
 ---
 title: "Stand Out with Your Resume: Expert Tips for Software Engineers' Cover Letters | Forbes Careers"
-date: 2024-09-19 22:37:38
-updated: 2024-09-20 10:45:19
+date: 2024-10-13T09:13:38.066Z
+updated: 2024-10-14T20:57:03.384Z
 tags:
   - professional-development
 categories:
@@ -33,6 +33,19 @@ The ideal software engineer cover letter should clock in at slightly under a pag
 
 Strive to create a succinct business document.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What should I include in a software engineer cover letter?
 
 All cover letters contain several key elements:
@@ -48,6 +61,19 @@ For best results, you should not think of creating a cover letter as a templated
 **Your contact info**
 
 Your contact info should go at the top of the page and include your:
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -109,6 +135,13 @@ Close with a professional sign-off such as "best" or "sincerely."
 
 Finally, congratulate yourself on a job well done and review our [phone interview tips](https://www.zdnet.com/education/professional-development/interview-tips-recent-grads/) plus our lists of [computer science interview questions](https://www.zdnet.com/education/professional-development/common-computer-science-interview-questions/) and [impressive questions to ask in an interview](https://www.zdnet.com/education/professional-development/questions-to-ask-in-an-interview/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips on writing a software engineer cover letter
 
 **You don't need to rewrite an entire cover letter for every job you apply for.**
@@ -124,6 +157,13 @@ Plan on writing a custom introduction for each letter.
 Don't just list your skills. Talk about where and when you have used them in your career. For instance, rather than simply mention that you know Python, discuss a programming project you spearheaded that heavily drew upon coding in Python.
 
 **Put your soft skills in context.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -183,11 +223,33 @@ Make sure to proofread your work before sending it. Getting a second pair of eye
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-bringing-text-to-life-3d-creation-in-photo/"><u>[New] 2024 Approved Bringing Text to Life 3D Creation in PHOTO</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-dell-p2715q-review-a-4k-visual-revolution-unfolds/"><u>[New] 2024 Approved The Dell P2715Q Review A 4K Visual Revolution Unfolds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-apex-athletes-snowspeedcross-22-recaps/"><u>[New] Apex Athletes Snowspeedcross '22 Recaps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-traffic-on-youtube-tips-that-actually-work/"><u>[New] In 2024, Free Traffic on YouTube Tips That Actually Work</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-legalities-in-sharing-musical-works-for-2024/"><u>[New] Navigating Legalities in Sharing Musical Works for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[New] Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-budget-friendly-webm-players-that-work-flawlessly/"><u>[Updated] Top 15 Budget-Friendly WebM Players That Work Flawlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-jump-recapturing-lost-moments/"><u>[Updated] Twitch Time Jump Recapturing Lost Moments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-unresponsive-rust-code-best-practices-and-hacks-to-get-back-on-track/"><u>Dealing with Unresponsive Rust Code : Best Practices and Hacks to Get Back on Track</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach-for-2024/"><u>Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/exclusive-compilation-of-top-10-budget-friendly-photo-savers-for-2024/"><u>Exclusive Compilation of Top 10 Budget-Friendly Photo Savers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>In 2024, Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktoks-best-practices-for-stellar-edits/"><u>In 2024, TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-aeious-ny-portable-solar-generator-evaluation-ideal-for-delicate-medequip-with-pure-sine-wave-technology/"><u>In-Depth Aeious Ny Portable Solar Generator Evaluation: Ideal for Delicate MedEquip with Pure Sine Wave Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-ways-to-preserve-your-video-games/"><u>Quick Ways to Preserve Your Video Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-creativity-the-most-popular-8-mobile-apps-for-edits-for-2024/"><u>Streamlined Creativity The Most Popular 8 Mobile Apps for Edits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-roadmap-to-thriving-in-digital-advertising-for-2024/"><u>The Roadmap to Thriving in Digital Advertising for 2024</u></a></li>
+</ul></div>
+

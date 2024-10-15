@@ -1,7 +1,7 @@
 ---
 title: The Roadmap for Nurses Entering the Tech World - Insights From ZDNet
-date: 2024-09-18 21:13:16
-updated: 2024-09-20 11:55:49
+date: 2024-10-08T08:58:00.522Z
+updated: 2024-10-15T02:14:01.863Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ While many of the hard skills in nursing might not appear transferable, analytic
 
 When considering a move into tech, make a list of your strengths with workplace examples for each one. This research can help you identify career paths and build strong [job applications](https://www.zdnet.com/education/tech-job-application-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Technical roles for former nurses in tech
 
 This section introduces technical roles that play to nurses' strengths. Eligibility for these jobs depends on your education, skills, and prior experience.
@@ -45,6 +52,13 @@ This section introduces technical roles that play to nurses' strengths. Eligibil
 * The ability to evaluate complex data
 
 Nursing informaticists use data to create new processes that improve patient care, healthcare outcomes, and nursing practice. They draw on healthcare data to recommend data-backed methods in healthcare delivery. A background in nursing helps informaticists break into the field.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Data analyst
 
@@ -107,6 +121,13 @@ A healthcare background with experience in occupational or environmental health 
 
 Tech sales professionals discuss tech services and products with potential customers. They meet with clients, discuss their needs, and explain how to use different technologies. Professionals build strong relationships with clients, making these great tech jobs for extroverts. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Product manager
 
 **Minimum degree required:** Bachelor's  
@@ -121,11 +142,25 @@ Product managers oversee a product's lifecycle from planning through development
 
 They collect data on customer demand, create timelines for bringing a product to the market, and coordinate with manufacturing and engineering team members to complete a product.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tips for how to get into tech from nursing
 
 Moving from nursing to tech requires several steps. Before applying for jobs, you'll need a clear idea of your target roles and the required skills. 
 
 Our tips walk through the process of how to get into tech as a nurse.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Get clear on the type of tech role you want.
 
@@ -136,6 +171,13 @@ Our tips walk through the process of how to get into tech as a nurse.
 Before investing in a career change, carefully consider what type of role you want. Do your skills fit better with a technical or non-technical role? What industry would you prefer to work in? How much does work/life balance matter?
 
 When exploring [computer science careers](https://www.zdnet.com/education/computers-tech/best-careers-with-computer-science-degree/), you can also consider job growth numbers, [computer science salaries](https://www.zdnet.com/education/computers-tech/computer-science-salary/), and job duties.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Upskill
 
@@ -200,11 +242,33 @@ _Last reviewed March 31, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption/"><u>[New] A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-budget-friendly-twit-to-gif-guide/"><u>[New] Budget-Friendly Twit-to-GIF Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003610291-solved-garrys-mod-keeps-crashing-2024-tips/"><u>[Solved] Garry’s Mod Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-battle-of-the-capture-tools-obs-studio-against-bandicam-for-2024/"><u>[Updated] Battle of the Capture Tools OBS Studio Against Bandicam for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc-for-2024/"><u>[Updated] From Viewer to Voyager In-Depth Guide for Captivating Live TV on Your PC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-potential-comprehensive-analysis-of-dji-phantom-4/"><u>[Updated] Unlocking the Potential Comprehensive Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-momentary-motion-picture-manuscript/"><u>2024 Approved Momentary Motion Picture Manuscript</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-chromes-velocity-effortlessly-tips-for-a-smoother-experience/"><u>Improve Chrome's Velocity Effortlessly - Tips for a Smoother Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review All You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-video-studio-encyclopedia-xreviewers-edition/"><u>The Video Studio Encyclopedia XReviewer's Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-how-to-navigate-and-utilize-gpt-3-in-the-openai-playground/"><u>Unlocking Creative Potential: How to Navigate and Utilize GPT-3 in the OpenAI Playground</u></a></li>
+</ul></div>
+

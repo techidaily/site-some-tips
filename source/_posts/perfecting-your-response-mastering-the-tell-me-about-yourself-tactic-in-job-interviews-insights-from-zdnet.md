@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Your Response: Mastering the 'Tell Me About Yourself' Tactic in Job Interviews - Insights From ZDNet"
-date: 2024-09-17 13:51:59
-updated: 2024-09-20 11:16:15
+date: 2024-10-08T23:59:53.580Z
+updated: 2024-10-15T04:15:01.635Z
 tags:
   - professional-development
 categories:
@@ -46,6 +46,13 @@ The "tell me about yourself" interview question sometimes sounds different. Inte
 * Tell me something I don't already know from your resume.
 
 Be ready for any version of this question with your structured and practiced answer. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Breakdown: How to answer the 'tell me about yourself' interview question
 
@@ -109,6 +116,13 @@ Remember that interviewers want to learn more about your work experience and you
 
 Try to keep your answer to one to three minutes. Watch your interviewer's body language and feel free to expand on any portions they look excited about. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do's and don'ts for answering 'tell me about yourself'  
 
 There are some rules when answering the "tell me about yourself" interview question. Interviewers have certain expectations when it comes to how you answer this question, so you don't want to deviate far from them. 
@@ -120,6 +134,13 @@ One of the most important and basic [interview tips](https://www.zdnet.com/educa
 ### Do
 
 **Stay positive**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -146,6 +167,13 @@ Saying that you brought in new customers is okay, but saying that you "increased
 Mentioning that you quilt or play chess reveals more about you than just what you do in your spare time, it shows a part of your personality. Interactive roles like volunteer work or being a part of a softball team demonstrate that you are friendly and are able to communicate well with others. 
 
 **Also:** [**What the latest employment surge means for technology jobs**](https://www.zdnet.com/article/what-the-latest-employment-surge-means-for-technology-jobs/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Don't
 
@@ -187,11 +215,33 @@ Too busy for a daily newsletter? ZDNET's Week in Review delivers our editors' pi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-voice-manipulation-in-ps-console-titles/"><u>[New] The Art of Voice Manipulation in PS Console Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-artisans-path-to-precision-zooming-on-kinemaster/"><u>[New] The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>[New] The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-soloists-guide-to-captivating-audiences/"><u>[New] The Soloist's Guide to Captivating Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[New] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-harnessing-powerful-tools-for-effective-youtubers-seo-for-2024/"><u>[Updated] Harnessing Powerful Tools for Effective YouTubers' SEO for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-hitting-the-high-score-in-ps4-game-capture-mastery-for-2024/"><u>[Updated] Hitting the High Score in PS4 Game Capture Mastery for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-step-by-step-guide-recording-on-itunes/"><u>[Updated] In 2024, Step-by-Step Guide Recording on iTunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>[Updated] Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[Updated] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-time-stamped-photography/"><u>2024 Approved The Essentials of Time-Stamped Photography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722902038600-anticipating-the-future-of-tech-at-googles-forthcoming-showcase-stay-updated/"><u>Anticipating the Future of Tech at Google's Forthcoming Showcase - Stay Updated</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-x50-gt-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor X50 GT Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-safeguard-your-text-documents-implement-password-security-features/"><u>How To Safeguard Your Text Documents: Implement Password Security Features</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a25-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A25 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29e-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29e Phone with Broken Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/las-cinco-mejor-tacticas-para-recuperar-archivos-video-flash-online/"><u>Las Cinco Mejor Tácticas Para Recuperar Archivos Vídeo Flash Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-playbook-a-guide-to-efficiently-posting-srt-files-online-for-2024/"><u>The Ultimate Playbook A Guide to Efficiently Posting SRT Files Online for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-reality-wars-which-tech-rules-the-gamers-world/"><u>Virtual Reality Wars Which Tech Rules the Gamer’s World</u></a></li>
+</ul></div>
+

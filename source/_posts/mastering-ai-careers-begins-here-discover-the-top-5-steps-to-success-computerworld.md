@@ -1,7 +1,7 @@
 ---
 title: "Mastering AI Careers Begins Here: Discover the Top 5 Steps to Success | ComputerWorld"
-date: 2024-09-19 14:17:59
-updated: 2024-09-20 12:39:49
+date: 2024-10-12T05:56:31.524Z
+updated: 2024-10-15T00:27:08.613Z
 tags:
   - professional-development
 categories:
@@ -38,6 +38,13 @@ Back when I taught entry-level programming, about half my students wanted to pro
 **Also: [Thanks to my 5 favorite AI tools, I'm working smarter now](https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/)**
 
 My point here is that you have to be willing to do the work, and you also have to be able to bring something to the job. Rick seems willing to do the work, and he has skills he can bring to the job. Below are the five steps I'd recommend Rick -- and anyone interested in pivoting to AI work -- take. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Identify your current skills 
 
@@ -97,6 +104,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Train yourself
 
 But, Rick says he doesn't know the AI field. He doesn't know the business of AI (all the players, how they relate, their competitive landscape). He doesn't really know how it all works. And he's never done any actual AI work. 
@@ -118,6 +132,13 @@ Then, get yourself a [ChatGPT Plus](https://www.zdnet.com/article/gpt-3-5-vs-gpt
 **Also: [You can build your own AI chatbot with this drag-and-drop tool](https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/)**
 
 My point here is simple: make yourself knowledgeable. If you want to get a job in a field where you don't possess the experience, expertise, or credentials, you won't get anywhere without any of them. Fortunately, AI is a field that doesn't require board certification or a specific terminal degree. But it does require knowing stuff. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Build yourself some AI resume points 
 
@@ -142,6 +163,13 @@ Speaking of that, especially for our product marketing friend Rick, find an AI K
 **Also: [Generative AI now requires developers to stretch cross-functionally. Here's why](https://www.zdnet.com/article/generative-ai-now-requires-developers-to-stretch-cross-functionally-heres-why/)**
 
 Now, here's the trick that will better help you move the job needle: Agree to do these services in return for giving you a title associated with the company. It doesn't have to be a line title, like "marketing manager." It can simply be "advisor." The point is, you want to be able to legitimately list on your LinkedIn profile something like, "Advisor, Happy Valley AI Enterprises," or something similar. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Give it six months 
 
@@ -194,11 +222,23 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-metaverse-frontier-gear-guide-select-8-headsets/"><u>[New] Metaverse Frontier Gear Guide Select 8 Headsets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-rated-apps-for-instagrams-vertical-igtv-content-enhancement-for-2024/"><u>[New] Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-dji-inspire-2s-features/"><u>[New] Unveiling DJI Inspire 2'S Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-macs-top-5-mkv-decoder-software/"><u>2024 Approved Mac's Top 5 MKV Decoder Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-12-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus 12 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-nokia-c02-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Nokia C02 Phone?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pova-5-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pova 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reducing-high-cpu-consumption-issues-while-playing-phasmophobia/"><u>Reducing High CPU Consumption Issues While Playing Phasmophobia</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tutorial-on-precise-audioshifting-for-2024/"><u>Ultimate Tutorial on Precise Audioshifting for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: LinkedIn's Gratis AI Training Elevated My Python Skills to New Heights – An Experience Recounted by ZDNET
-date: 2024-09-18 21:53:46
-updated: 2024-09-20 12:46:12
+date: 2024-10-10T03:45:09.274Z
+updated: 2024-10-14T19:26:19.882Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ I have to give a big shout-out to LinkedIn for this offering. Normally, companie
 
 That turns this from what I originally thought was just another marketing scheme into full-on good work. It's up to you to cram as many courses as you can into the next 30 days, but if you can give up enough sleep, you can learn a lot for free. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The classes I took 
 
 In this article, I've spotlighted 14 of the courses I think are most interesting. My favorite (although I'm partial because the author is a colleague) has to be the [ChatGPT Tips for the Help Desk](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome) by Pam Baker. A seasoned technology journalist, Pam is also the author of [ChatGPT for Dummies](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChatGPT-Dummies-Computer-tech%2Fdp%2F1394204639%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C61bba7aa-a31a-43f4-a498-dd223e9c56ff%7Cdtp&dtb=1). She knows her stuff. 
@@ -54,6 +61,13 @@ I also took the two-hour [Machine Learning with Python: Foundations](https://www
 I learned a lot in this course, especially about how to collect and prepare data for machine learning. I also was able to stretch my Python programming knowledge, specifically about how a machine learning model can be built in Python. In just two hours, I felt like I got a friendly and comprehensive brain dump. 
 
 There are many other helpful courses. Let's break them down into categories and look at some examples. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  General AI literacy 
 
@@ -76,6 +90,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI courses for recruiting, finance, and support professionals
 
@@ -137,6 +158,13 @@ Adam Wilbert shows how to use high-performance Python libraries and the Machine 
 **4.6 stars (219 ratings)** 
 This course by Eduardo Corpeño teaches the inner workings of neural networks in Python, giving learners a chance to tap into the makings of algorithms and the steps needed to build and train their own neural networks from scratch using Python.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More free AI training 
 
 This article is the latest in my ongoing series of free AI training spotlights. Here are four more: 
@@ -175,11 +203,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhanced-engagement-with-effective-youtube-video-outros-strategies/"><u>[New] 2024 Approved Enhanced Engagement with Effective YouTube Video Outros Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-common-vlogging-fears-and-how-to-beat-them/"><u>[New] In 2024, 10 Common Vlogging Fears and How To Beat Them</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-growing-greatness-valheims-finest-sprouts-selection/"><u>[Updated] Growing Greatness Valheim's Finest Sprouts Selection</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-cutting-edge-screen-recorders-for-professionals/"><u>[Updated] In 2024, Cutting-Edge Screen Recorders for Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-of-youtube-video-comments/"><u>[Updated] Unlocking the Secrets of YouTube Video Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>2024 Approved 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>2024 Approved Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-list-of-top-vector-stock-portals/"><u>2024 Approved The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-content-pc-video-editing-for-effective-youtube-presentations-for-2024/"><u>Elevate Your Content PC Video Editing for Effective YouTube Presentations for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-hot-40i-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Hot 40i</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-strategies-softwares-versus-hardware-harmony/"><u>In 2024, Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24+ Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-find-n3-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Find N3 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-f54-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F54 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-editors-guide-to-top-10-fcp-plug-ins-for-2024/"><u>The Ultimate Editor's Guide to Top 10 FCP Plug-Ins for 2024</u></a></li>
+</ul></div>
+

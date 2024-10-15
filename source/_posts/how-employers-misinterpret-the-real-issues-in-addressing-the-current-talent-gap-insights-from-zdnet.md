@@ -1,7 +1,7 @@
 ---
 title: "How Employers Misinterpret the Real Issues in Addressing the Current Talent Gap: Insights From ZDNet"
-date: 2024-09-18 11:20:10
-updated: 2024-09-20 10:25:55
+date: 2024-10-09T03:27:21.373Z
+updated: 2024-10-15T09:10:35.474Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,13 @@ Tech workers are particularly keen on mentorship opportunities (38%) and greater
 Unfortunately for workers, employers are underdelivering when it comes to providing opportunities for growth. A recent [survey by Pluralsight](https://www.pluralsight.com/resource-center/state-of-upskilling-2022) found that 40% of tech workers cite a lack of room for career development as one of the primary motivators to leave their employer – taking priority even over compensation. 
 
 Given that [just 24% of tech workers plan to stay with their employer](https://www.zdnet.com/education/professional-development/as-hiring-freezes-and-layoffs-hit-is-the-bubble-about-to-burst-for-tech-workers/) for the next 12 months, and with 52% of IT workers thinking of quitting at least once a month, according to Pluralsight, it is clear that development opportunities are key in the battle for talent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action, not words
 
@@ -72,11 +79,31 @@ Budget restraints will always be one argument companies will offer for not inves
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-funimate-video-maker-login-to-sign-up-guide/"><u>[New] 2024 Approved Funimate Video Maker Login to Sign up Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-pixelpilots-pathway-navigating-screen-recorder-landscapes/"><u>[New] 2024 Approved PixelPilot's Pathway Navigating Screen Recorder Landscapes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweetvidaudiomaker-instant-sound-output/"><u>[New] 2024 Approved TweetVidAudioMaker Instant Sound Output</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>[New] Top 3 Tactics Transforming Pin Videos Into MP3 Sounds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleashing-creativity-with-aiseesofts-screencast-innovations/"><u>[New] Unleashing Creativity with Aiseesoft's Screencast Innovations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seizing-youtubes-algorithm-advantage-with-smart-seo-tactics/"><u>[Updated] Seizing YouTube's Algorithm Advantage with Smart SEO Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[Updated] Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[Updated] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>2024 Approved Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://win11.techidaily.com/a-compreayers-guide-accessing-windows-web-services-manager/"><u>A Compreayer's Guide: Accessing Windows Web Services Manager</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-y27-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo Y27 4G Phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-official-method-to-unlock-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Pro Max Official Method to Unlock Your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>In 2024, The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-value-panoramic-recording-equipment-for-savvy-shoppers/"><u>In 2024, Top Value Panoramic Recording Equipment for Savvy Shoppers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/speedy-assembly-for-stunning-google-image-mosaics-for-2024/"><u>Speedy Assembly for Stunning Google Image Mosaics for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailored-transmission-terminal-podcasters-hub-for-2024/"><u>Tailored Transmission Terminal Podcaster's Hub for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions-for-2024/"><u>Unlock Kinemaster's Secrets to Smooth Transitions for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tech Professional's Blueprint for Crafting an Impeccable Job Proposal - Insights From ZDNet
-date: 2024-09-18 13:23:25
-updated: 2024-09-20 12:35:40
+date: 2024-10-11T21:38:35.702Z
+updated: 2024-10-14T16:29:57.657Z
 tags:
   - professional-development
 categories:
@@ -54,6 +54,13 @@ Employers examine your application materials to see if you fit their company cul
 If you emphasize interesting products you helped create, you may seem like a good fit for an innovation-focused culture. If you talk about increases in profitability you helped create, you may fit a bottom-line-focused culture.
 
 Tailor your application materials to fit the kind of company culture you'd like to join.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Are you a fit for the role?
 
@@ -143,6 +150,13 @@ A: Explain the **A**ction you took
 
 R: Explain the **R**esult of your action
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Providing references
 
 Most job positions require you to submit two to three professional references. Professional references could include:
@@ -157,6 +171,13 @@ References in higher job positions may be more impressive. However, your referen
 
 Etiquette dictates asking permission to use someone as a reference before listing them. Notify possible references one to two weeks before you begin applying for jobs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Answering salary expectations
 
 If you need to give your expected salary on a job application, you should, whenever possible, answer "open to negotiation." 
@@ -169,6 +190,13 @@ Check if such laws exist where you live before answering salary history question
 
 ## Bonus tips: Professionalizing yourself online
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use a professional-sounding email address.
 
 Your email address can influence an employer's decision to hire you. An address that doesn't include your name or includes a joke or off-color language could be considered unprofessional and immature.
@@ -179,6 +207,13 @@ Try one of these formats for a more professional look:
 * Your name + your location@address
 * Your name + your specialty@address
 * Your name + your degree@address
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Clean up your social media profiles.
 
@@ -214,6 +249,13 @@ If you've followed our [networking tips](https://www.zdnet.com/education/compute
 
 Otherwise, continue applying to jobs. Trust that your efforts in crafting great job applications will help the right employer find you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **This article was reviewed by Sarah Holliday, MS** 
 
 Sarah Holliday has years of experience working with nontraditional and traditional-aged students in various areas related to career coaching and training and development. Holliday holds a BA in English from the University of Maryland, Baltimore County, and an MS in instructional design and technology (training and performance improvement) from Walden University. Holliday is currently working on her doctorate and looks forward to dissertating in the near future. 
@@ -246,11 +288,31 @@ _Last reviewed March 12, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-androidiphone-top-10-vr-gaming-picks/"><u>[New] Android/iPhone Top 10 VR Gaming Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-photography-gurus-guide-to-date-stamping/"><u>[New] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-utility-watch-opens-your-macdevice/"><u>[New] Ultimate Utility Watch Opens Your MacDevice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-pocket-sized-worlds-googles-cardboard-meets-samsungs-gear/"><u>[Updated] Pocket-Sized Worlds Google's Cardboard Meets Samsung's Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailored-visual-representation-free-logo-base-for-personal-touches/"><u>[Updated] Tailored Visual Representation Free Logo Base for Personal Touches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-user-manual-for-water-imagery/"><u>[Updated] The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-tutorial-updating-your-epson-wf-3520-printer-drivers-on-windows-devices/"><u>Easy Installation Tutorial: Updating Your Epson WF 3520 Printer Drivers on Windows Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-christian-hymnal-options-for-ringtone-customization/"><u>In 2024, Christian Hymnal Options for Ringtone Customization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-transition-of-zip-to-subrip-srt-formats/"><u>In 2024, Navigating the Transition of Zip to SubRip (SRT) Formats</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speedy-execution-tactics-for-fb-video-success/"><u>In 2024, Speedy Execution Tactics for FB Video Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>In 2024, Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-efficiency-the-editors-guide-to-speed-control/"><u>In 2024, Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sustainable-filmmaking-aids-at-no-charge/"><u>Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-scavengers-keeping-you-from-gaming-on-your-computer/"><u>Ultimate Fix for Scavengers Keeping You From Gaming On Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unique-choir-compositions-as-your-smartphone-tones-for-2024/"><u>Unique Choir Compositions as Your Smartphone Tones for 2024</u></a></li>
+</ul></div>
+

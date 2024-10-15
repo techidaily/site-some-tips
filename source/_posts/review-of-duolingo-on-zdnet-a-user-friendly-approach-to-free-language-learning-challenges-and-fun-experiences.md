@@ -1,7 +1,7 @@
 ---
 title: Review of Duolingo on ZDNet - A User-Friendly Approach to Free Language Learning Challenges & Fun Experiences
-date: 2024-09-17 15:14:20
-updated: 2024-09-20 11:59:11
+date: 2024-10-07T21:08:40.689Z
+updated: 2024-10-14T17:11:09.634Z
 tags:
   - professional-development
 categories:
@@ -54,6 +54,13 @@ Still, Duolingo's gamification is not for everyone. Serious learners may find th
 | Requirements         | Do not need to create an account right away to start learning                                                                                                                                                                                                                                                                                                                               |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How language learning works
 
@@ -111,6 +118,13 @@ Duolingo
 
 By downloading the app and completing a lesson, I understood how Duolingo keeps students interested in the language: There are streaks, there are awards -- it's fun. It's language learning that keeps the big picture in mind without getting bogged down by the details, especially at first.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Duolingo actually effective?
 
 Not on its own. If you supplement Duolingo lessons with Duolingo stories or [even a Duolingo event](https://events.duolingo.com/), you'll maximize the free resources offered by the company and maybe even still not have a complete grasp of the language. Self-study is key here, meaning you should acquire workbooks and practice on your own time in addition to using Duolingo. I also think it's important to speak as you go through questions on Duolingo; for example, I tried saying 好 or hǎo out loud when a question popped up that mentioned it. 
@@ -123,9 +137,23 @@ Duolingo's message of learning a language in 10 or 20 minutes per day seems unre
 
 **More: [Free language learning apps](https://www.zdnet.com/education/computers-tech/free-language-learning-apps/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Duolingo still worth your time?
 
 If you want to achieve fluency within a couple of years, Duolingo should not be your only platform of learning, but it is a good supplement. As I used the app, I felt more like I was having fun and less like I was cramming conjugations in my brain. The slow pace might not be for everyone, though, and I've seen it used best as a practice tool to keep up in regular classes. I was impressed with Duolingo overall. It's a solid tool to start learning a language, but not one for total mastery. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Two years of Duolingo
 
@@ -192,11 +220,31 @@ Another trusted method with instant feedback on pronunciation.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-vs-modern-broadcasting-tools-a-comparison-for-2024/"><u>[New] OBS Vs. Modern Broadcasting Tools A Comparison for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-your-vlogging-journey-starts-here-essentials/"><u>[Updated] In 2024, Your Vlogging Journey Starts Here Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-transcribing-dreams-into-movies/"><u>[Updated] The Art of Transcribing Dreams Into Movies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-gaming-footage-with-camcapture/"><u>2024 Approved Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-e-conference-headline-generator/"><u>2024 Approved Leading E-Conference Headline Generator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-first-step-in-vlogging-tools-you-need/"><u>2024 Approved The First Step in Vlogging Tools You Need</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>From Amateurs to A-Listers Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-snicker-spinner-picture-editor/"><u>In 2024, Snicker Spinner Picture Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-success-starts-on-screen-10-must-see-films/"><u>In 2024, The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transfer-tactics-efficiently-getting-data-on-your-computer/"><u>In 2024, Transfer Tactics Efficiently Getting Data On Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android/"><u>In 2024, Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-elevate-your-linguistic-skills/"><u>Mondly: Elevate Your Linguistic Skills</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/revolutionize-cross-border-billing-enhanced-efficiency-with-abbyys-smart-ai-technology/"><u>Revolutionize Cross-Border Billing: Enhanced Efficiency with ABBYY's Smart AI Technology</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-checklist-for-using-firefoxs-popup-window-for-2024/"><u>The Ultimate Checklist for Using Firefox's Popup Window for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-pp-playbook-for-silent-scene-transitions-for-2024/"><u>The Ultimate PP Playbook for Silent Scene Transitions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix-for-2024/"><u>Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-seamless-skype-group-communication-for-pcmac-for-2024/"><u>Unlocking Seamless Skype Group Communication for PC/Mac for 2024</u></a></li>
+</ul></div>
+

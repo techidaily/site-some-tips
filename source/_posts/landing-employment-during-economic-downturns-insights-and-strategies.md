@@ -1,7 +1,7 @@
 ---
 title: "Landing Employment During Economic Downturns: Insights & Strategies"
-date: 2024-09-19 10:33:49
-updated: 2024-09-20 11:37:37
+date: 2024-10-10T23:29:25.402Z
+updated: 2024-10-15T00:00:46.990Z
 tags:
   - professional-development
 categories:
@@ -30,6 +30,13 @@ Write down what you want in a job and prioritize your list. Refer back to the li
 Next, set achievable goals. Instead of telling yourself to find a job by a certain date, set goals for networking, like attending a certain number of events each month or reaching out to a certain number of contacts each week. You can also set goals for the number of job applications you want to submit each week. 
 
 ## 2\. Update your resume and LinkedIn.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -75,6 +82,13 @@ And even within industries, look for [recession-proof jobs](https://www.zdnet.co
 
 In addition, you can add transferable skills that give you greater flexibility on the job market. Make sure to highlight those skills on your resume.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Consider freelancing as an option.
 
 ### Explore
@@ -85,11 +99,25 @@ Freelancing can be a great way to gain experience and boost your job prospects i
 
 If you're getting started, reach out to your network to offer your services. Research freelancing websites and look into the tax and savings implications of working freelance jobs. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Consider temporary work.
 
 While your goal might be a full-time job, temporary work can bridge the gap. During a recession, many companies hire new employees as contractors before making full-time employment decisions. Temporary work can add to your resume while also providing a source of income.
 
 Search for temporary or contract positions as part of your overall job search. And consider reaching out to recruiters to ask about temporary work opportunities.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Stay the course, be patient, and focus on what you can control.
 
@@ -123,11 +151,28 @@ Focus on what you can control. Stand up to [imposter syndrome](https://www.zdnet
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[Updated] Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-lapse-magic-animation-through-the-lens-of-movie-maker/"><u>2024 Approved Time-Lapse Magic Animation Through the Lens of Movie Maker</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-13-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 13 without Passcode or Face ID</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-boundaries-top-6-artists-leading-nft-frontier/"><u>Breaking Boundaries Top 6 Artists Leading NFT Frontier</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-honor-70-lite-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Honor 70 Lite 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nubia-red-magic-8s-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nubia Red Magic 8S Pro+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/image-excellence-showdown-unveiling-the-best-qualities-between-png-and-jpg/"><u>Image Excellence Showdown: Unveiling the Best Qualities Between PNG and JPG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-vision-into-stunning-hdr-portraits/"><u>In 2024, Transforming Your Vision Into Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-blueprint-to-dominate-with-your-spotify-ad-campaign-for-2024/"><u>The Blueprint to Dominate With Your Spotify Ad Campaign for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-uplifting-films-for-boosting-your-drive-for-2024/"><u>Top 10 Uplifting Films for Boosting Your Drive for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-alternatives-pour-inshot-sur-bureau-decouvrez-les-meilleurs-choix/"><u>Top Alternatives Pour InShot Sur Bureau - Découvrez Les Meilleurs Choix !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveil-this-years-finest-selection-your-guide-to-the-best-gratis-offline-speed-challenges-of-eby/"><u>Unveil This Year's Finest Selection: Your Guide to the Best Gratis Offline Speed Challenges of Eby</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/your-journey-to-1k-followers-in-one-month-secrets-from-top-influencers-for-2024/"><u>Your Journey to 1K Followers in One Month Secrets From Top Influencers for 2024</u></a></li>
+</ul></div>
+

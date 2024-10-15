@@ -1,7 +1,7 @@
 ---
 title: "Unlocking an AI Future: Begin Here With These Five Key Strategies - Insights From ZDNET"
-date: 2024-09-19 20:11:14
-updated: 2024-09-20 12:22:59
+date: 2024-10-10T20:15:29.555Z
+updated: 2024-10-15T01:52:52.760Z
 tags:
   - professional-development
 categories:
@@ -38,6 +38,13 @@ Back when I taught entry-level programming, about half my students wanted to pro
 **Also: [Thanks to my 5 favorite AI tools, I'm working smarter now](https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/)**
 
 My point here is that you have to be willing to do the work, and you also have to be able to bring something to the job. Rick seems willing to do the work, and he has skills he can bring to the job. Below are the five steps I'd recommend Rick -- and anyone interested in pivoting to AI work -- take. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Identify your current skills 
 
@@ -97,6 +104,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Train yourself
 
 But, Rick says he doesn't know the AI field. He doesn't know the business of AI (all the players, how they relate, their competitive landscape). He doesn't really know how it all works. And he's never done any actual AI work. 
@@ -118,6 +138,13 @@ Then, get yourself a [ChatGPT Plus](https://www.zdnet.com/article/gpt-3-5-vs-gpt
 **Also: [You can build your own AI chatbot with this drag-and-drop tool](https://www.zdnet.com/article/you-can-build-your-own-ai-chatbot-with-this-drag-and-drop-tool/)**
 
 My point here is simple: make yourself knowledgeable. If you want to get a job in a field where you don't possess the experience, expertise, or credentials, you won't get anywhere without any of them. Fortunately, AI is a field that doesn't require board certification or a specific terminal degree. But it does require knowing stuff. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Build yourself some AI resume points 
 
@@ -154,6 +181,13 @@ Put in an hour each day. Make sure you read relevant articles every day. Do some
 The point here is that by the end of six months, make it so that AI isn't this new thing you want to move into, it's this thing that you're already very familiar with and use as a matter of your daily activities. 
 
 That way, by the end of the six months, you're not asking to "move into AI," but to "use your AI skills and knowledge in the AI field." That'll come across as much more powerful to hiring managers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to consider when working in AI 
 
@@ -194,11 +228,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-photographers-guide-to-negative-imaging/"><u>[New] The Photographer’s Guide to Negative Imaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upscaling-your-youtube-visuals/"><u>[New] Upscaling Your YouTube Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-list-of-different-video-camera-types/"><u>[Updated] List of Different Video Camera Types</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-level-strategies-for-saving-and-recording-movs-on-windows-pcs/"><u>[Updated] Pro-Level Strategies for Saving and Recording MOVs on Windows PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-windows-10-mastering-photo-and-video-importation/"><u>[Updated] Unveiling Windows 10 Mastering Photo & Video Importation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-art-of-chromatic-enhancement/"><u>2024 Approved Unlocking the Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>2024 Approved Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/activities-include-combating-cybercrime-responding-to-major-cyber-incidents-and-promoting-an-open-internet-environment/"><u>Activities Include Combating Cybercrime, Responding to Major Cyber Incidents, and Promoting an Open Internet Environment.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-selection-of-mp4-media-players-for-windows-and-mac-systems/"><u>Discover the Ultimate Selection of MP4 Media Players for Windows and Mac Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-official-epson-xp-245-printer-drivers-on-windows-7-8-and-10/"><u>Find and Install Official Epson XP-245 Printer Drivers on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-magic-6-lite-video-recovery-recover-deleted-videos-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Honor Magic 6 Lite Video Recovery - Recover Deleted Videos from Honor Magic 6 Lite</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-kdenlive-is-a-free-open-source-video-editing-software-application-kdenlive-is-a-powerful-video-editor-that-can-be-used-to-create-professional-qualit/"><u>In 2024, Kdenlive Is a Free, Open-Source Video Editing Software Application. Kdenlive Is a Powerful Video Editor that Can Be Used to Create Professional-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-pioneering-virtual-voyages-with-jaunt-vr/"><u>In 2024, Pioneering Virtual Voyages with Jaunt VR</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-postmycam-seeking-top-notch-alternatives/"><u>In 2024, PostMyCam Seeking Top-Notch Alternatives</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-hidden-truths-about-youtube-earnings/"><u>In 2024, The Hidden Truths About YouTube Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-powerhouse-of-4k-reviewing-the-nikon-j5-camera/"><u>In 2024, The Powerhouse of 4K Reviewing the Nikon J5 Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ming-success-stories-of-gaming-geeks-for-2024/"><u>Streaming Success Stories of Gaming Geeks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artisans-path-to-gratuitous-text-animation-for-2024/"><u>The Artisan's Path to Gratuitous Text Animation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-footage-techniques-for-outstanding-gopro-edits-for-2024/"><u>Transform Your Footage Techniques for Outstanding GoPro Edits for 2024</u></a></li>
+</ul></div>
+

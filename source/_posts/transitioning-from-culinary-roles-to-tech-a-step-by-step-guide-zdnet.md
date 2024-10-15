@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From Culinary Roles to Tech: A Step-by-Step Guide | ZDNet"
-date: 2024-09-18 10:10:23
-updated: 2024-09-20 10:23:22
+date: 2024-10-14T03:12:18.783Z
+updated: 2024-10-14T19:16:06.403Z
 tags:
   - professional-development
 categories:
@@ -46,6 +46,13 @@ The right tech role for you depends on your particular education, skills, and pr
 
 Computer support specialists come in two varieties: computer network support specialists and computer user support specialists. Computer network support specialists typically evaluate existing systems and perform needed maintenance. Computer user support specialists listen to clients' needs and help them solve software or hardware issues.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Software developer
 
 ### Explore
@@ -61,6 +68,19 @@ Computer support specialists come in two varieties: computer network support spe
 * Self-development skills
 
 Software developers create and update software and applications. They typically work in groups and need individual and teamwork skills to be successful. This position often requires a bachelor's degree, but food service applicants may choose to enroll in a [coding bootcamp](https://www.zdnet.com/article/best-coding-bootcamps-guide/) to learn necessary [computer programming](https://www.zdnet.com/education/computers-tech/what-is-computer-programming/) languages. 
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Web developer
 
@@ -83,6 +103,13 @@ Web developers design and maintain websites using HTML and other programming lan
 ## Non-technical roles available to former food services workers in tech
 
 If you're looking for a non-programming role in tech, you still have many options. Eligibility for these jobs depends on your particular education, skills, and previous experience. A bachelor's degree in any subject satisfies the education requirements for many of these roles. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tech sales
 
@@ -156,6 +183,13 @@ Transitioning from food service into tech is easier than you think. You already 
 
 If you're looking for more guidance on [how to switch careers into tech](https://www.zdnet.com/education/topic/how-to-switch-careers-to-tech/), try researching online degree programs and coding bootcamps to set you apart from other candidates. Many programs offer career services to their graduates.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This article was reviewed by Sarah Holliday, MS 
 
 Sarah Holliday has years of experience working with nontraditional and traditional-aged students in areas related to career coaching and training and development. Holliday holds a BA in English from The University of Maryland, Baltimore County, and an MS in instructional design and technology (training and performance improvement) from Walden University. Holliday is currently working on her doctorate and looks forward to dissertating soon.
@@ -185,11 +219,26 @@ _Last reviewed March 31, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unraveling-the-mystery-of-frame-rates-in-videos/"><u>[New] In 2024, Unraveling the Mystery of Frame Rates in Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-wars-the-top-10-platforms-ranked-and-compared/"><u>[New] Streaming Wars The Top 10 Platforms Ranked and Compared</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-spark-20-proplus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Spark 20 Pro+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hdr-tvs-explored-is-aurora-at-the-forefront-for-2024/"><u>HDR TVs Explored Is Aurora at the Forefront for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-choose-the-background-music-for-the-trailer-for-2024/"><u>How to Choose the Background Music for the Trailer for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-nokia-c12-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Nokia C12 Through Google Earth?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-science-of-motion-without-contact/"><u>In 2024, Unraveling the Science of Motion Without Contact</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-your-vlogging-game-top-tier-mac-mp4-editors-reviewed-for-2024/"><u>Prime Your Vlogging Game Top-Tier Mac MP4 Editors Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/studio-masterclass-in-depth-xvideostudio-report-for-2024/"><u>Studio Masterclass In-Depth XVideoStudio Report for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/swiftly-fix-red-eyes-in-iphone-photography-at-no-cost-for-2024/"><u>Swiftly Fix Red Eyes in iPhone Photography at No Cost for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement/"><u>The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-htc-u23-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for HTC U23 Users</u></a></li>
+</ul></div>
+

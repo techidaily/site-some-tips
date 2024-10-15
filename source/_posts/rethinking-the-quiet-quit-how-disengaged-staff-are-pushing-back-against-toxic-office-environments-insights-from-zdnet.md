@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the 'Quiet Quit': How Disengaged Staff Are Pushing Back Against Toxic Office Environments - Insights From ZDNet"
-date: 2024-09-19 14:38:36
-updated: 2024-09-20 11:46:50
+date: 2024-10-09T16:20:54.547Z
+updated: 2024-10-14T19:03:04.454Z
 tags:
   - professional-development
 categories:
@@ -50,9 +50,23 @@ It's sad that, in 2022, after all we've learned about the role of work in our we
 
 Instead of castigating employees for taking a step back from roles that don't reward them, let's look at how we can apply the lessons of the past two years to create more sustainable, more equitable and more rewarding ways of working.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### ZDNET'S MONDAY OPENER 
 
 _ZDNet's Monday Opener is our opening take on the week in tech, written by members of our editorial team._ 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### PREVIOUSLY ON ZDNET'S MONDAY OPENER:
 
@@ -71,11 +85,30 @@ _ZDNet's Monday Opener is our opening take on the week in tech, written by membe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-no-trouble-way-to-start-iphones-screen-snapshots-for-2024/"><u>[New] The No-Trouble Way to Start iPhone's Screen Snapshots for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[New] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-step-by-step-guide-using-nvidia-recorder/"><u>[Updated] In 2024, Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-integrated-iptv-channel-distribution-for-2024/"><u>[Updated] Integrated IPTV Channel Distribution for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[Updated] The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-triumphs-in-transparency-reddits-top-posts-reviewed-10/"><u>[Updated] Triumphs in Transparency Reddit's Top Posts Reviewed (10)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-top-10-sites-to-download-copyright-free-meditation-music/"><u>2024 Approved Top 10 Sites to Download Copyright-Free Meditation Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-for-boosting-handp-healthcare-fb-campaigns/"><u>2024 Approved Top Strategies for Boosting H&P Healthcare FB Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>2024 Approved Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-visuals-from-android-to-apple-gear/"><u>2024 Approved Transitioning Visuals From Android to Apple Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mysteries-of-quantum-hdr/"><u>2024 Approved Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/pcmwavmp3/"><u>効率的PCM音声ファイルからWAVやMP3への高画質・速度向上変換ガイド</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-do-color-correction-in-gopro-studio-for-2024/"><u>How to Do Color Correction in GoPro Studio for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-leading-slow-motions-camera-edition/"><u>In 2024, Leading Slow-Motions Camera Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-15-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 15 Pro iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Your Initial Months: A Comprehensive Blueprint for New Telecommuters | ZDNet"
-date: 2024-09-19 18:51:19
-updated: 2024-09-20 12:51:56
+date: 2024-10-14T02:59:28.149Z
+updated: 2024-10-15T02:17:03.601Z
 tags:
   - professional-development
 categories:
@@ -24,6 +24,13 @@ To get you started, we put together a step-by-step guide for beginning a new rem
 Tori Rubloff/ZDNet
 
 ## 1-2 weeks before starting your new job  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Buy any equipment you need for working from home.
 
@@ -73,7 +80,21 @@ Brainstorm performance, learning, and personal goals related to your role. These
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Week 1 of your new job
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Start the habit of being on time for every meeting.
 
@@ -98,6 +119,13 @@ Separate your time with clear end-of-work signals, such as shutting your compute
 Remote workers can fall behind and lose track of tasks without structure. One effective way to manage your daily duties is to create a to-do list. 
 
 Write out your goals and your tasks for the day and the week. Your list will help you [focus on work](https://www.zdnet.com/education/how-to-improve-your-focus-at-work/) and hold yourself accountable if you procrastinate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Find out about expectations for work hours: set or flexible?
 
@@ -125,6 +153,13 @@ Communication is important for most professionals. For remote workers on a new j
 
 Figure out how your company communicates and what platforms they use for each function. Get comfortable with the programs they use and know who to go to for questions. Learn how often your managers want you to check in.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Keep asking for help when you have questions.
 
 Supervisors, managers, and mentors expect to field questions from employees in new jobs. Take advantage of this opportunity to get as much information as possible. 
@@ -143,13 +178,34 @@ In most cases, remote work does not require as much activity as an onsite job. B
 
 You can compensate by adding physical activities, such as working out, taking a walk, or going out for a coffee break with a friend. Standing regularly or stretching out your arms, back, and neck can positively affect your physical and mental health. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Set boundaries around when your coworkers or managers can reach you.
 
 You may need to establish your availability to coworkers and managers. If you find your work disrupts your home life because of constant calls and urgent emails, something needs to change.
 
 Share your schedule with managers and coworkers. You can even set an out-of-office reminder on your email or voicemail to help limit after-hours calls.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Weeks 5+ of your new job
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Continue meeting regularly with your manager.
 
@@ -196,11 +252,27 @@ Complete and integrate as many of these week-to-week tips as possible, and you'l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-does-youtube-pay-you/"><u>[New] 2024 Approved How Does YouTube Pay You?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elevate-your-fb-video-experience-with-fastest-extensions-and-tools/"><u>[New] Elevate Your FB Video Experience with Fastest Extensions and Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-anti-shake-gimblers-reviewed-by-vloggers/"><u>[New] The Best Anti-Shake Gimblers Reviewed by Vloggers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-captivating-spokesperson-appraisal-8th-analysis/"><u>[Updated] Captivating Spokesperson Appraisal 8Th Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagine-virtual-engagements-with-customized-video-filters-in-zoom/"><u>[Updated] Reimagine Virtual Engagements with Customized Video Filters in Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-snapedit-story-complete-video-editor-features/"><u>[Updated] SnapEdit Story – Complete Video Editor Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>2024 Approved Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-guide-to-disable-facebook-broadcasts-mobiledesktop/"><u>In 2024, Guide to Disable Facebook Broadcasts, Mobile/Desktop</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-switch-to-the-future-capture-cards-guide/"><u>In 2024, Switch to the Future Capture Cards Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-syma-x8c-performance-breakdown/"><u>In 2024, Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-low-volume-playback-system-guide/"><u>In 2024, The Art of Low-Volume Playback System Guide</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-customized-transitions-to-obs/"><u>New 2024 Approved How to Add Customized Transitions to OBS</u></a></li>
+</ul></div>
+

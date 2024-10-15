@@ -1,7 +1,7 @@
 ---
 title: Tech Talent Remains Highly Sought-After Despite Pessimistic Reporting | Insights From ZDNet Analysis
-date: 2024-09-18 19:24:11
-updated: 2024-09-20 12:54:24
+date: 2024-10-07T16:08:43.077Z
+updated: 2024-10-15T03:16:29.035Z
 tags:
   - professional-development
 categories:
@@ -25,6 +25,13 @@ This may suggest tougher times ahead for technology professionals, but that's no
 
 That's the word from [Jeff Williams](https://www.paychex.com/newsroom/executive-bios/jeff-williams), vice president of enterprise and HR solutions for [Paychex](https://www.paychex.com/), providing his perspective on what's ahead for the technology talent market in the year ahead. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q: Despite the headlines, does the balance still favor tech professionals overall? Does demand for skills remain strong?
 
 Williams: "Technology skills will always remain crucial for businesses, regardless of the changing macro-economic environment. We are in a unique moment where, despite talks of an economic downturn, the hiring market is still hot, and employee retention remains a priority for many businesses. Though the scales may tip yet, it's important to note demand remains strong for tech professionals as we enter an increasingly digitalized world.
@@ -39,9 +46,29 @@ Williams: "Technology skills will always remain crucial for businesses, regardle
 
 Williams: "Over the past few years, I've seen the demand for network and cybersecurity professionals explode. Additionally, software development that automates manual or inefficient processes is welcomed by businesses as they tighten belts. Today, we need people who can translate business speak to IT speak and vice versa. People who can hear business issues and then translate those to technological solutions is a rare skill."  
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q: What types of companies have and will continue to have the strongest demand?
 
 "In 2023 and beyond, small and midsized businesses will need to hone their digital presence in order to successfully grow and attract talent. As a result, countless companies, regardless of sector, have discovered a need for investment in IT infrastructure and automation of the client experience. That includes retail, service-based organizations, and health care. For those companies looking to drive efficiency through robotic process automation, the need for tech professionals only increases."  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: What initiatives or actions should technology professionals take to demonstrate their value to their businesses and keep advancing in their careers?
 
@@ -50,6 +77,13 @@ Williams: "As businesses continue to adapt to technology, technology professiona
 **Also:** [**The future of finance belongs to open source**](https://www.zdnet.com/finance/the-future-of-finance-belongs-to-open-source/)  
   
 "Be a student of your firm. Know the income statement, the balance sheet, your competition, and your operating environment. Go to places that differentiate you, your knowledge, and your upside. To build a bridge to more senior positions, you must demonstrate an understanding of the business you're in and the role technology plays. The people who understand their operating environment and technology's place in it tend to get noticed."  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q: Should professionals consider entrepreneurial opportunities? Please provide any advice for launching or joining a startup.
 
@@ -82,11 +116,30 @@ Williams: "As we see tech giants downsize, laid-off employees often take the lea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decode-your-insta-performance-a-complete-look-at-user-behavior/"><u>[Updated] Decode Your Insta Performance A Complete Look at User Behavior</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-your-favorite-videos-without-limits-for-2024/"><u>[Updated] Download Your Favorite Videos Without Limits for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-from-raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation/"><u>[Updated] In 2024, From Raw Footage to Polished Videos IMovie's Role in YouTube Content Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-photo-edits-clearing-out-backgrounds/"><u>[Updated] The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>2024 Approved The Power of Networking Building Strong Relationships with Stakeholders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-creative-potential-with-filmora-answers/"><u>2024 Approved Unlocking Creative Potential with Filmora Answers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-se-2022-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone SE (2022) iCloud Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-redmi-13c-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Redmi 13C 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-supplements-to-enhance-gopro/"><u>In 2024, Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-imaging-embracing-quantum-hdr/"><u>In 2024, The Future of Imaging Embracing Quantum HDR</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-best-top-10-public-domain-image-websites-2023-for-2024/"><u>New Discover the Best Top 10 Public Domain Image Websites 2023 for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-the-mophie-ac-powerstation-balancing-cost-with-convenience-in-mobile-charging-technology/"><u>Review: The Mophie AC Powerstation – Balancing Cost with Convenience in Mobile Charging Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streaming-showdown-obs-and-shadowtoolkit/"><u>Streaming Showdown OBS & ShadowToolkit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-melodies-with-inshot-clips-for-2024/"><u>Synchronizing Melodies with InShot Clips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-text-boosting-techniques-in-videos-for-2024/"><u>Top 10 Text Boosting Techniques in Videos for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-for-troubleshooting-facebook-video-playback-sound-issues-on-pc-latest-insights/"><u>Top Strategies for Troubleshooting Facebook Video Playback Sound Issues on PC - Latest Insights</u></a></li>
+</ul></div>
+

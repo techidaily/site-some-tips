@@ -1,7 +1,7 @@
 ---
 title: "Top-Ranked Free AI Learning Platforms: Is Pursuing an AI Certification a Smart Move? - Insights From ZDNet"
-date: 2024-09-19 10:34:35
-updated: 2024-09-20 10:49:51
+date: 2024-10-09T16:31:06.797Z
+updated: 2024-10-15T08:36:34.612Z
 tags:
   - professional-development
 categories:
@@ -183,9 +183,29 @@ When it comes to the courses and programs I'm spotlighting here, there's no way 
 
 With all that, I will say that the absolute high point was [when I could get an AI to talk like a pirate](https://www.zdnet.com/article/i-used-chatgpt-to-rewrite-my-text-in-the-style-of-shakespeare-c3po-and-harry-potter/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some companies are promoting micro-degrees. They seem expensive, but fast, but are they any good?
 
 Let's be clear: A micro-degree is not a degree. It's a set of courses with a marketing name attached. Degrees are granted by accredited academic institutions, accredited by [regional accrediting bodies](https://en.wikipedia.org/wiki/Higher%5Feducation%5Faccreditation%5Fin%5Fthe%5FUnited%5FStates). I'm not saying you won't learn anything in those programs. But they're not degrees and they may cost more than just-as-good courses that don't have a fancy marketing name attached.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So, do certificates have any value?
 
@@ -198,6 +218,13 @@ You can set a goal to learn a topic, and if you get a credential, you can be fai
 **See: [How to add a new credential to your LinkedIn profile, and why you should](https://www.zdnet.com/education/professional-development/how-to-add-a-new-credential-to-your-linkedin-profile-and-why-you-should/)**
 
 My advice: If you can get a certificate, and the price for getting it doesn't overly stretch your budget, go ahead and get it. It still is a resume point. But don't fork over bucks on the scale of a college tuition for some promise that you'll get qualified for a job faster and easier than, you know, going to college.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other learning resources you'll probably love**
 
@@ -228,11 +255,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-importance-of-non-primary-footage-in-editing/"><u>[New] The Importance of Non-Primary Footage in Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>[New] Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-superior-third-ranked-ipad-recording-apps/"><u>[Updated] 2024 Approved Superior Third-Ranked iPad Recording Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-video-potential-nine-superior-stream-filters/"><u>[Updated] Unlock Your Video Potential Nine Superior Stream Filters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-with-these-painless-fixes-for-dying-light-fps-problems/"><u>Boost Your Gaming Experience with These Painless Fixes for Dying Light FPS Problems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-14-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 14 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-7-action-cams-to-capture-ski-trips/"><u>In 2024, Top 7 Action Cams to Capture Ski Trips</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/isletmeye-uygun-movavi-video-editing-software-profesyonel-videografik-sistemleri/"><u>İşletmeye Uygun Movavi Video Editing Software: Profesyonel Videografik Sistemleri</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-online-music-venues-for-2024/"><u>Top 30 Online Music Venues for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/top-5-dvd-to-xvid-conversion-tools-for-quality-video-editing/"><u>Top 5 DVD to Xvid Conversion Tools for Quality Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stop-rocket-league-from-continuously-crashing/"><u>Ultimate Guide to Stop Rocket League From Continuously Crashing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing-for-2024/"><u>Unleash Creativity with Ease Mastering the Art of Photo Text Editing for 2024</u></a></li>
+</ul></div>
+

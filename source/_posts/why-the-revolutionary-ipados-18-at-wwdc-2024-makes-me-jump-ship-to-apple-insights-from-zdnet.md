@@ -1,7 +1,7 @@
 ---
 title: Why the Revolutionary iPadOS 18 at WWDC 2024 Makes Me Jump Ship to Apple - Insights From ZDNet
-date: 2024-10-03T17:15:17.773Z
-updated: 2024-10-09T03:18:01.273Z
+date: 2024-10-10T01:30:42.681Z
+updated: 2024-10-15T07:54:21.988Z
 tags:
   - apple
 categories:
@@ -35,15 +35,22 @@ Read on for a look at some of the new accessibility features coming to Apple har
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -54,10 +61,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -67,10 +74,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -78,13 +85,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -120,22 +120,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-insights-into-a-common-symbol-the-blue-emoji-in-fb-chat/"><u>[New] In 2024, Insights Into a Common Symbol The Blue Emoji in FB Chat</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-shooting-essential-gimbals-and-handhelds-reviewed/"><u>[New] Streamlined Shooting Essential Gimbals and Handhelds Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-video-edits-the-reason-for-imovie-cropping/"><u>[New] Tailoring Video Edits The Reason for iMovie Cropping</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-encompassing-synopsis-decoding-google-podcasts-app/"><u>[Updated] 2024 Approved Encompassing Synopsis Decoding Google Podcasts App</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-maintaining-the-right-video-aspect-on-twitters/"><u>[Updated] In 2024, Maintaining the Right Video Aspect on Twitters</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-share-process-with-youtube-and-fb-integration-for-2024/"><u>[Updated] Streamline Your Share Process with YouTube and FB Integration for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>[Updated] The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-of-ifunnys-meme-application/"><u>[Updated] Unleash the Potential of iFunny’s Meme Application</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-prime-mobile-camera-apps-iphone-and-android-comparison/"><u>2024 Approved Prime Mobile Camera Apps IPhone & Android Comparison</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-nokia-130-music-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Nokia 130 Music Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-fixing-warzone-lag-and-increasing-frames-per-second-fps/"><u>Achieve Smoother Gameplay: Fixing Warzone Lag and Increasing Frames Per Second (FPS)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-problems-when-your-icloud-isnt-synching-correctly/"><u>How to Resolve Problems When Your iCloud Isn’t Synching Correctly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-trip-diary-into-haul-video-hype/"><u>In 2024, Transform Your Trip Diary Into Haul Video Hype</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-obs-potential-strategies-involving-lut-filters/"><u>In 2024, Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shining-spots-on-screen-top-video-lights-strategies-for-2024/"><u>Shining Spots on Screen Top Video Lights Strategies for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transform-your-photos-removing-backdrops-with-ease-for-2024/"><u>Transform Your Photos Removing Backdrops with Ease for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-and-performance-of-the-64gb-samsung-galaxy-tab-s5e-a-complete-review/"><u>Unveiling the Power and Performance of the 64GB Samsung Galaxy Tab S5e: A Complete Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-virtual-worlds-for-buddy-bonding-games/"><u>[Updated] 10 Virtual Worlds for Buddy Bonding Games</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality/"><u>[Updated] From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-overcoming-inconsistency-stop-obs-frame-loss/"><u>2024 Approved Overcoming Inconsistency Stop OBS Frame Loss</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bast-gratis-video-konverterer-i-windows-utvalna-20-alternativ-for-1187/"><u>Bäst Gratis Video-Konverterer I Windows - Utvalna 20 Alternativ För 11/8/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-free-on-line-da-wmv-a-ts-tramite-il-software-di-movavi-prova-ora-gratuitamente/"><u>Conversione Free On-Line Da WMV a TS Tramite Il Software Di Movavi - Prova Ora Gratuitamente</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargas-gratuitas-para-cambiar-archivos-de-video-desde-mp4-a-asf-sin-problemas-movavi/"><u>Descargas Gratuitas Para Cambiar Archivos De Vídeo Desde MP4 a ASF Sin Problemas - Movavi</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-broadcasting-without-rts-video-tweeting-simplified/"><u>In 2024, Broadcasting Without RTs Video Tweeting Simplified</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-advice-on-optimal-hdr-camera-selection/"><u>In 2024, Expert Advice on Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ios-video-experience-the-10-most-excellent-players/"><u>IOS Video Experience The 10 Most Excellent Players</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-transforms-linguistic-learning-with-a-fresh-guidebook/"><u>Mondly Transforms Linguistic Learning with a Fresh Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-media-transformation-easily-convert-m4ampeg-to-m4v-formats/"><u>Movavi's No-Cost Media Transformation: Easily Convert M4A/MPEG to M4V Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-owing-uavs-heavy-load-drone-rankings/"><u>Optimal Owing UAVs Heavy Load Drone Rankings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/refreshing-your-zoom-app-a-comprehensive-walkthrough-for-windows-and-macs/"><u>Refreshing Your Zoom App – A Comprehensive Walkthrough for Windows & Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-change-mka-audio-to-mp3-for-no-cost-online-with-moveavi/"><u>Seamlessly Change MKA Audio to MP3 for No Cost Online with MoveAVI</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-functional-right-click-on-your-windows-10-mouse/"><u>Troubleshooting Guide: Fixing the Non-Functional Right-Click on Your Windows 10 Mouse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wat-is-een-mkv-file-en-de-procedure-om-het-openbaar-te-maken/"><u>Wat Is Een MKV-File en De Procedure Om Het Openbaar Te Maken?</u></a></li>
 </ul></div>
 

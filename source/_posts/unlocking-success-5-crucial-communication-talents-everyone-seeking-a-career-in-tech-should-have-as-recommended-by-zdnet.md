@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Success: 5 Crucial Communication Talents Everyone Seeking a Career in Tech Should Have, as Recommended by ZDNET"
-date: 2024-09-19 15:52:15
-updated: 2024-09-20 10:32:55
+date: 2024-10-11T02:09:11.365Z
+updated: 2024-10-15T06:10:53.123Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ Good data and quality work in tech workplaces arise from team members possessing
 
 Other more abstract soft skills, such as adaptability, self-motivation, and critical thinking, help tech workers stay on top of their blind spots as human beings and use the available tools effectively.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 people skills for tech jobs  
 
 The following are among the most important soft skills for tech careers. Each skill can help you better work collaboratively, use your intellectual and creative strengths, and maintain mental discipline.
@@ -36,6 +43,13 @@ The following are among the most important soft skills for tech careers. Each sk
 [Computer science degrees](https://www.zdnet.com/education/computers-tech/best-online-computer-science-degree/) and other tech-related college programs teach these skills alongside hard skills. But you don't have to go back to college — you can cultivate these soft skills on your own time.
 
 ### 1\. Adaptability
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -67,6 +81,13 @@ Though tech professionals work with computer systems and software, they still ne
 
 You can work on your written and verbal communication skills by attending workshops or night classes. Some agencies in your city may even offer classes for improving communication skills. Read more often and brush up on your grammar. Self-edit to avoid typos and improve your confidence.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Leadership
 
 Leadership is a crucial soft skill for tech career advancement. Senior engineers, developers, and managers need to be good leaders. 
@@ -78,6 +99,13 @@ Try developing your leadership skills by speaking up more frequently in meetings
 Challenge yourself to try difficult projects that require flexing your creative muscles. You can also take business classes in leadership at your local college or earn a certificate or [master's in organizational leadership](https://www.zdnet.com/education/business-management/best-online-organizational-leadership-masters/).
 
 ### 5\. Self-motivation
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -112,11 +140,31 @@ Check out our favorite [productivity apps](https://www.zdnet.com/education/profe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-breakdown-of-earnings-how-much-does-a-clicky-make/"><u>[New] 2024 Approved Breakdown of Earnings How Much Does a Clicky Make?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-zooming-in-youtube-videos/"><u>[New] The Art of Zooming in YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-treasures-without-cost/"><u>[New] Unlocking Visual Treasures Without Cost</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-daily-dose-of-tiktok-motivation-the-elite-fifteen/"><u>[Updated] In 2024, Daily Dose of TikTok Motivation The Elite Fifteen</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-digital-learning-session-replays/"><u>[Updated] In 2024, Digital Learning Session Replays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>2024 Approved The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>2024 Approved Ultimate Studio Tracker XVideoExploration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-zoom-in-your-xbox-setup/"><u>2024 Approved Unlock the Full Potential of Zoom in Your Xbox Setup</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-minecrafts-campfire-stories-skins-edition-analysis/"><u>Comprehensive Guide: Minecraft's Campfire Stories Skins Edition Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>In 2024, Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-x-fold-2-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo X Fold 2 Phone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-f04-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy F04 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>In 2024, Time-Saving Photo Enhancement Adding Dates to Pictures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-installation-issues-with-the-windows-10-may-2019-build-1903-update/"><u>Overcoming Installation Issues with the Windows 10 May 2019 (Build 1903) Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-up-your-photography-game-with-these-top-8-tablets-for-2024/"><u>Step Up Your Photography Game With These Top 8 Tablets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-to-effortlessly-attain-professional-graphic-content-for-2024/"><u>Techniques to Effortlessly Attain Professional Graphic Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tutorial-for-wm6-setup-for-2024/"><u>Ultimate Tutorial for WM6 Setup for 2024</u></a></li>
+</ul></div>
+

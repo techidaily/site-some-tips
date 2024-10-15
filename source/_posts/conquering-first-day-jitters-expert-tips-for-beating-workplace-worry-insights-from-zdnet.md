@@ -1,7 +1,7 @@
 ---
 title: "Conquering First-Day Jitters: Expert Tips for Beating Workplace Worry - Insights From ZDNet"
-date: 2024-09-17 15:40:15
-updated: 2024-09-20 12:21:33
+date: 2024-10-13T23:35:45.806Z
+updated: 2024-10-14T20:39:19.402Z
 tags:
   - professional-development
 categories:
@@ -25,6 +25,13 @@ Anxiety is an emotional defense mechanism that puts us on alert in threatening s
 
 These emotions trigger a stress response in our bodies, which can cause physical, emotional, and mental symptoms.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Physical symptoms
 
 New job anxiety can cause many physical symptoms, such as headaches, nausea, changes in appetite, muscle pain, and restlessness. You may find it difficult to fall asleep or stay awake. 
@@ -34,6 +41,13 @@ If the anxiety escalates to a panic attack, you might also encounter shortness o
 ### Mental symptoms
 
 The mental symptoms of new job anxiety may include constant worry, racing thoughts, negativity, and feelings of impending doom or danger. You may be irritable, on edge, and struggling to concentrate. You might also lose confidence or feel out of control of your situation. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Therapist insights on new job anxiety
 
@@ -71,9 +85,23 @@ These are great and will actually reduce some of your anxiety, as you are listen
 
 However, if your anxiety is so elevated that you feel paralyzed and cannot take action or are self-sabotaging, it could be harmful. Anxiety is the opposite mental state to learning. Some anxiety will help you stay attuned and careful. Too much, and you will be so flooded you can't take anything in.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What to do when you're feeling new job anxiety
 
 The following tips might provide some relief from new job anxiety. Some might be more effective than others depending on the individual and the situation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Write down your thoughts and emotions.
 
@@ -82,6 +110,13 @@ The first step to managing your anxiety is understanding what might be triggerin
 The goal here should be to catalog your thoughts and anxieties and track the times and potential triggers. While you might not solve all your anxiety issues or make sense of every single thought, you may be able to identify a pattern or trigger along the way. 
 
 These records might also help you feel more in control of your anxiety and boost your [emotional intelligence](https://www.zdnet.com/education/emotional-intelligence-at-work-guide/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Remind yourself about how anxiety works.
 
@@ -100,6 +135,13 @@ You can also think about the situation logically and examine whether the fear dr
 Think of this as challenging your thoughts with reason rather than forced positivity. 
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Become aware of your physiology and practice self-regulating.
 
@@ -203,11 +245,33 @@ _Last reviewed March 16, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-elite-10-virtual-clashes-for-2024/"><u>[New] Elite 10 Virtual Clashes for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[New] In 2024, Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-10-premier-online-church-service-providers/"><u>[New] The 10 Premier Online Church Service Providers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-strategies-for-impressive-gopro-timelapses/"><u>[Updated] Essential Strategies for Impressive GoPro Timelapses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-novice-to-expert-a-guide-for-effective-single-stream-livestreams/"><u>[Updated] From Novice to Expert A Guide for Effective Single-Stream Livestreams</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance-for-2024/"><u>[Updated] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-15-most-effective-live-sports-streaming-methods/"><u>[Updated] The 15 Most Effective Live Sports Streaming Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>[Updated] Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-crafting-serenity-a-spiritual-journey-through-6-intellectually-designed-minecraft-modern-houses/"><u>2024 Approved Crafting Serenity A Spiritual Journey Through 6 Intellectually Designed Minecraft Modern Houses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-seminar-strategist-summit/"><u>In 2024, Supreme Seminar Strategist Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-portable-audio-choices-decoded/"><u>In 2024, Top Portable Audio Choices Decoded</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-a05s-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy A05s Black and White | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supercharge-videos-with-dynamic-titles-for-2024/"><u>Supercharge Videos with Dynamic Titles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quest-for-ultimate-clarity-with-the-z32x-monitor-for-2024/"><u>The Quest for Ultimate Clarity with the Z32X Monitor for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-hidden-functions-to-enhance-your-canva-artistry-for-2024/"><u>Top 10 Hidden Functions to Enhance Your Canva Artistry for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-audio-and-video-elite-webcams-for-podcasting-for-2024/"><u>Unmatched Audio & Video Elite Webcams for Podcasting for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/vom-abrufen-von-spotify-playlists-bis-zur-ubertragung-auf-apple-music-eine-schrittweise-anleitung/"><u>Vom Abrufen Von Spotify-Playlists Bis Zur Übertragung Auf Apple Music - Eine Schrittweise Anleitung</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-channels-for-filmmakers-to-learn-filmmaking-tips/"><u>YouTube Channels for Filmmakers to Learn Filmmaking Tips</u></a></li>
+</ul></div>
+

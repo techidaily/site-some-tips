@@ -1,7 +1,7 @@
 ---
 title: "Bank CIO Advocates for Creative Thinkers over Passive AI Prompters in Tech Evolution: Insights From ZDNet"
-date: 2024-09-18 20:25:39
-updated: 2024-09-20 11:34:35
+date: 2024-10-12T21:24:55.040Z
+updated: 2024-10-14T18:38:35.835Z
 tags:
   - professional-development
 categories:
@@ -98,11 +98,32 @@ As a result, he's seeing "the line between a classic coder and a business analys
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-farming-secrets-stardew-on-ginger-isles/"><u>[New] 2024 Approved Farming Secrets Stardew on Ginger Isles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-srt-openedit-manual-for-mac-users/"><u>[New] Ultimate SRT Open/Edit Manual for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-the-potential-of-aurora-hdr-tech/"><u>[New] Unraveling the Potential of Aurora HDR Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-srt-to-txt-guide-for-time-saving/"><u>2024 Approved Transformative SRT to TXT Guide for Time-Saving</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-distinctive-ai-artwork-mastering-the-microsoft-copilot-image-generator/"><u>Creating Distinctive AI Artwork: Mastering the Microsoft Copilot Image Generator</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/fortschrittliche-texterfassung-mit-machine-learning-aktuelle-innovationen-von-abbyy/"><u>Fortschrittliche Texterfassung Mit Machine Learning – Aktuelle Innovationen Von ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>In 2024, Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g24-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G24 Phone Now with These Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-c33-2023-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme C33 2023? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-moto-g23-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Moto G23</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/obraz-diska-v-windows-1011-3-besplatnyh-metoda-sozdaniya/"><u>Образ Диска В Windows 10/11: 3 Бесплатных Метода Создания</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Most Valuable Free AI Education Opportunities and Assessing the Value of AI Credentials
-date: 2024-09-19 10:11:37
-updated: 2024-09-20 10:47:21
+date: 2024-10-10T06:00:12.150Z
+updated: 2024-10-15T09:12:44.517Z
 tags:
   - professional-development
 categories:
@@ -183,9 +183,29 @@ When it comes to the courses and programs I'm spotlighting here, there's no way 
 
 With all that, I will say that the absolute high point was [when I could get an AI to talk like a pirate](https://www.zdnet.com/article/i-used-chatgpt-to-rewrite-my-text-in-the-style-of-shakespeare-c3po-and-harry-potter/).
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some companies are promoting micro-degrees. They seem expensive, but fast, but are they any good?
 
 Let's be clear: A micro-degree is not a degree. It's a set of courses with a marketing name attached. Degrees are granted by accredited academic institutions, accredited by [regional accrediting bodies](https://en.wikipedia.org/wiki/Higher%5Feducation%5Faccreditation%5Fin%5Fthe%5FUnited%5FStates). I'm not saying you won't learn anything in those programs. But they're not degrees and they may cost more than just-as-good courses that don't have a fancy marketing name attached.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## So, do certificates have any value?
 
@@ -198,6 +218,13 @@ You can set a goal to learn a topic, and if you get a credential, you can be fai
 **See: [How to add a new credential to your LinkedIn profile, and why you should](https://www.zdnet.com/education/professional-development/how-to-add-a-new-credential-to-your-linkedin-profile-and-why-you-should/)**
 
 My advice: If you can get a certificate, and the price for getting it doesn't overly stretch your budget, go ahead and get it. It still is a resume point. But don't fork over bucks on the scale of a college tuition for some promise that you'll get qualified for a job faster and easier than, you know, going to college.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Other learning resources you'll probably love**
 
@@ -228,11 +255,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>[New] 2024 Approved Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-smooth-and-swift-designing-your-best-thumbnails/"><u>[New] In 2024, Smooth & Swift Designing Your Best Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-profit-generating-online-entertainer-for-2024/"><u>[New] Top Profit Generating Online Entertainer for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unleashing-the-power-of-hashtags-for-instagram-success/"><u>[Updated] 2024 Approved Unleashing the Power of Hashtags for Instagram Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uhd-precision-converter-clearer-sharper-visuals/"><u>[Updated] UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-methods-for-total-file-destruction-the-7-best-practices/"><u>Advanced Methods for Total File Destruction: The 7 Best Practices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-razr-40-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Razr 40 Ultra?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/explore-the-best-7-platforms-for-transforming-art-into-nfts-for-2024/"><u>Explore the Best 7 Platforms for Transforming Art Into NFTs for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-facil-para-combinar-y-superponer-imagenes-con-herramientas-en-linea/"><u>Guía Fácil Para Combinar Y Superponer Imágenes Con Herramientas en Línea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mkv-gif-movavi/"><u>무세워진 원시 MKV 갤리를 전통 GIF로 변환하는 동시에 Movavi의 강력한 인식을 유지하는 방법</u></a></li>
+</ul></div>
+

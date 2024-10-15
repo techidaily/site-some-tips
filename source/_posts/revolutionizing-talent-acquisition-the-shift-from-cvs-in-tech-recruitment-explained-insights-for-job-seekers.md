@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Talent Acquisition: The Shift From CVs in Tech Recruitment Explained - Insights for Job Seekers"
-date: 2024-09-17 10:37:59
-updated: 2024-09-20 11:43:36
+date: 2024-10-08T04:08:31.519Z
+updated: 2024-10-15T04:02:42.447Z
 tags:
   - professional-development
 categories:
@@ -52,6 +52,13 @@ Four in ten (40%) recruiters polled said they regularly hire developers who don'
 
 Shifting the focus from resumes to skills also gives an opportunity for those with [non-standard job backgrounds to get into tech](https://www.zdnet.com/article/developer-jobs-when-it-comes-to-building-diverse-teams-employers-are-still-missing-the-mark/), says Richardson: "Which we need, frankly. There's such a mismatch between demand for developers or development skills and the supply of engineering graduates. Our forecasts are that the need for developers is going to grow about 15% year over year. It's crazy."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Not dead yet
 
 While CoderPad's research indicates skills-based hiring is becoming more popular, there remains a strong demand for CVs in the hiring process.
@@ -97,11 +104,25 @@ At the same time, the blame for poor hiring decisions usually lands at the feet 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-essentials-understanding-whatsapp-calls/"><u>[New] The Essentials Understanding WhatsApp Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-thriving-amidst-the-world-of-podcasts/"><u>[New] The Ultimate Guide to Thriving Amidst the World of Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-apple-m1-breakdown-a-glimpse-into-the-future/"><u>[Updated] The Apple M1 Breakdown A Glimpse Into the Future</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-warp-footage-with-phantom-lens-expertise/"><u>[Updated] Time Warp Footage with Phantom Lens Expertise</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cutting-edge-editing-advanced-strategies-for-using-the-background-erase-feature/"><u>2024 Approved Cutting Edge Editing Advanced Strategies for Using the Background Erase Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-use-zoom-in-gmail-best-ways/"><u>2024 Approved How to Use Zoom in Gmail [Best Ways]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-lg-channels-critical-points-explained-clearly/"><u>Demystifying LG Channels: Critical Points Explained Clearly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-connoisseurs-guide-to-adding-precise-dates-on-images/"><u>The Connoisseur's Guide to Adding Precise Dates on Images</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-the-perfect-iphone-for-your-gaming-needs/"><u>The Ultimate Guide to Choosing the Perfect iPhone for Your Gaming Needs</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-imovie-basics-for-new-users-how-to-seamlessly-add-sounds-and-music/"><u>Updated In 2024, IMovie Basics for New Users How to Seamlessly Add Sounds and Music</u></a></li>
+</ul></div>
+

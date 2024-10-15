@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive Strategy for Securing Employment in Top Tech Firms - Insights From ZDNet
-date: 2024-09-17 17:16:26
-updated: 2024-09-20 10:48:40
+date: 2024-10-08T00:01:12.660Z
+updated: 2024-10-14T17:15:57.810Z
 tags:
   - professional-development
 categories:
@@ -22,6 +22,19 @@ Tech companies look for certain technical skills, experience, and qualities duri
 ## How to land a job at a major tech company
 
 If you want to work at a large tech company, you need to know what tech companies look for in job applicants. Whether you want to be an [Amazon software engineer](https://www.zdnet.com/education/how-to-become-amazon-software-engineer/) or seek a non-technical role at Sony or an Alphabet Inc. company, these tips will help. 
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Start a digital notebook of research, learnings, and tips.
 
@@ -83,6 +96,13 @@ When a major tech company lists requirements, make sure you fit them. Does the r
 
 You'll be competing with others who meet the qualifications, so make sure you do, too. That might mean gaining experience at a smaller company before jumping to a major tech company. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Start preparing early and thoroughly for technical interviews.
 
 Technical interviews are one of the most intimidating parts of the hiring process. So start preparing early. 
@@ -101,11 +121,25 @@ Prepare a quick pitch that includes your background and why you want to work for
 
 You'll also need specific examples to demonstrate your hard and people skills. Check out our [interview tips](https://www.zdnet.com/education/tech-job-interview-tips/) for more advice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Don't be surprised if you apply and interview multiple times before landing a job.
 
 Many tech professionals apply multiple times before landing an interview at a big tech company. And many interview multiple times before receiving a job offer. Don't get discouraged. Instead, expect the process to take time. 
 
 Keep honing your skills and perfecting your [job application](https://www.zdnet.com/education/tech-job-application-guide/) and your coding portfolio. And keep working toward your professional goals. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Insights from a big tech company employee
 
@@ -159,6 +193,13 @@ Curiosity is one of the top skills tech companies want. An interest in lifelong 
 
 Job candidates can demonstrate curiosity by giving examples of times they followed unique lines of inquiry and preparing [questions to ask in an interview](https://www.zdnet.com/education/professional-development/questions-to-ask-in-an-interview/). Creativity can also demonstrate curiosity at work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Innovative
 
 Tech companies have a reputation for innovation. And they look for employees who share that trait. 
@@ -170,6 +211,13 @@ Innovative employees invent new ways to approach problems and develop unique sol
 Passionate employees stick with projects and see them through to completion. But tech companies don't only care about passion for work. 
 
 They also cultivate passion for hobbies and other interests. For example, Google encourages employees to devote [20% of their time](https://www.cnbc.com/2021/12/16/google-20-percent-rule-shows-exactly-how-much-time-you-should-spend-learning-new-skills.html) to hobbies or skill-building.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Thoughtful
 
@@ -188,6 +236,13 @@ Tech companies want proactive workers willing to contribute to the company's mis
 Tech companies expect employees to add to their skillsets. A learner mentality is necessary in tech since technologies constantly evolve. 
 
 Demonstrate a learner mentality by listing professional development and training sessions on your resume and mentioning new skills you've learned.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Taking informed risks
 
@@ -225,11 +280,27 @@ Consider how your skills connect with the company's broader mission or culture. 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>[New] The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-srt-journey-from-novice-to-expert/"><u>[New] The SRT Journey From Novice to Expert</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-calculating-monetary-gain-for-a-milion-of-youtube-watchers/"><u>[Updated] 2024 Approved Calculating Monetary Gain for a Milion of YouTube Watchers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-subtitle-creation-an-in-depth-srt-guide-with-strategies/"><u>[Updated] 2024 Approved Mastering Subtitle Creation An In-Depth SRT Guide with Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[Updated] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-picture-sequence-architect/"><u>2024 Approved Ultimate Picture Sequence Architect</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/guia-gratuita-para-recuperar-datos-eliminados-rapido-y-sencillo-de-una-unidad-flash-usb/"><u>Guía Gratuita Para Recuperar Datos Eliminados Rápido Y Sencillo De Una Unidad Flash USB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-try-the-top-free-voice-modifier-for-an-edge-in-valorant/"><u>In 2024, Try the Top Free Voice Modifier for an Edge in Valorant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-channels-to-zero-cost-image-frames/"><u>In 2024, Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ingenious-intellectual-engagement-best-general-knowledge-channels-for-2024/"><u>Ingenious Intellectual Engagement Best General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-successful-deployment-fixes-for-windows-version-1903-updates/"><u>Mastering Successful Deployment: Fixes for Windows Version 1903 Updates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-tip-to-uncover-your-recently-watched-movies-on-fb-for-2024/"><u>Quick Tip to Uncover Your Recently Watched Movies on FB for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/simple-step-superior-scsi-functionality/"><u>Simple Step, Superior SCSI Functionality</u></a></li>
+</ul></div>
+

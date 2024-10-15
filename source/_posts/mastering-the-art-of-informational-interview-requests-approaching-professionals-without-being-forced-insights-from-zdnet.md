@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Informational Interview Requests: Approaching Professionals Without Being Forced | Insights From ZDNet"
-date: 2024-09-19 16:11:48
-updated: 2024-09-20 11:46:57
+date: 2024-10-09T04:53:04.702Z
+updated: 2024-10-15T05:00:26.907Z
 tags:
   - professional-development
 categories:
@@ -25,6 +25,13 @@ An informational interview helps you learn more about a position or role. You're
 
 Rather than interviewing with a hiring manager, you'll speak directly with a professional. They'll share their perspective on their job.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why set up an informational interview?
 
 During an informational interview, you'll connect with an experienced professional. And informational interviews offer several benefits beyond networking. 
@@ -42,6 +49,13 @@ Here's what you might get out of an informational interview.
 
 So, you want to set up an informational interview. But how do you get started? Our walkthrough will help you schedule interviews without seeming pushy.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Decide that you're not going to let fear get in your way.
 
 Reaching out to a stranger to set up an interview can be awkward. Your instincts might warn you to avoid contacting people at all. But don't let fear stop you.
@@ -50,6 +64,13 @@ Read up on how to [network as an introvert](https://www.zdnet.com/education/prof
 
 Reach out to your current network for connections so you can build a foundation for an informational interview. And allow yourself to make mistakes. Instead of worrying over the "perfect message," just be confident and polite.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Decide who you'd like to speak with.
 
 An informational interview is all about getting information. So think carefully about who you'd like to interview. Which people will help you reach your professional goals?
@@ -57,6 +78,13 @@ An informational interview is all about getting information. So think carefully 
 Then reach out to friends and family to see whether they can put you in touch with someone in a target role. You can also lean on your alumni network, LinkedIn connections, or [professional networking sites](https://www.zdnet.com/education/professional-development/best-networking-sites-for-tech-professionals/). 
 
 Tools like LinkedIn allow you to filter employees at a company who went to your school.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Reach out.
 
@@ -122,11 +150,26 @@ After an informational interview, send a quick [thank-you email](https://www.zdn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-access-to-royalty-free-design-tools/"><u>[Updated] Mastering Access to Royalty-Free Design Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[Updated] The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-htc-u23-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/creative-tims-premium-bootstrap-4-admin-template-angular-material-dashboard-version-14/"><u>Creative Tim's Premium Bootstrap 4 Admin Template - Angular Material Dashboard, Version 14</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-csv-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .csv document online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-summit-elite-production-space-25/"><u>In 2024, Summit Elite Production Space 25</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/iphone-document-scanning-and-conversion-with-ocr-transform-pdfsjpegs-into-editable-text-using-finereader/"><u>IPhone Document Scanning & Conversion with OCR - Transform PDFs/JPEGs Into Editable Text Using FineReader</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-windows-11s-missing-coprocessor-driver-problem-successfully/"><u>Resolving Windows 11'S Missing Coprocessor Driver Problem Successfully</u></a></li>
+<li><a href="https://fox-place.techidaily.com/ultimate-guide-transferring-windows-files-seamlessly-to-your-samsung-ssd/"><u>Ultimate Guide: Transferring Windows Files Seamlessly to Your Samsung SSD</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-your-soundtrack-sets-from-different-spaces-for-2024/"><u>Uniting Your Soundtrack Sets From Different Spaces for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-audio-processing-at-zero-cost-for-2024/"><u>Unlimited Audio Processing at Zero Cost for 2024</u></a></li>
+</ul></div>
+

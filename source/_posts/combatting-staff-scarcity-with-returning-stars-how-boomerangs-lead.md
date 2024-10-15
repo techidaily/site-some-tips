@@ -1,7 +1,7 @@
 ---
 title: Combatting Staff Scarcity with Returning Stars - How Boomerangs Lead
-date: 2024-09-17 10:53:41
-updated: 2024-09-20 10:50:22
+date: 2024-10-11T02:54:09.703Z
+updated: 2024-10-15T04:19:40.325Z
 tags:
   - professional-development
 categories:
@@ -69,6 +69,13 @@ Yet provided that employer and employee parted ways on good terms and there are 
 
 Likewise, having an employee quit and then return to a company gives employers an opportunity to rectify some of the issues that prompted their move, says Wilson, which can also have a positive impact on other employees: "In some cases, if it's a new discovery for us…we want to make sure we have a plan to remediate those if it hasn't already been solved." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Don't burn bridges 
 
 Lewis and Wilson offer practical tips for employees to consider before leaving their job for a new role, as well as for keeping the door open to old employers.
@@ -106,11 +113,25 @@ The buck stops with leaders, says Wilson: "There are a million cheesy quotes abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>[New] In 2024, Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-premium-vr-headset-picks-for-uavs/"><u>[New] Premium VR Headset Picks for UAVs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-shutter-snappiness-harnessing-edits-for-great-photos/"><u>[New] Shutter Snappiness Harnessing Edits for Great Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-to-reduce-nausea-while-in-vr/"><u>[New] Techniques to Reduce Nausea While In VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-enhanced-ultrablade-samsungs-2023-take/"><u>[Updated] The Enhanced UltraBlade Samsung’s 2023 Take</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-cheat-sheet-essentials-for-vlc-and-mac/"><u>2024 Approved The Ultimate Cheat Sheet Essentials for VLC and Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/an-in-depth-look-at-samsungs-latest-move-with-the-galaxy-s21-release/"><u>An In-Depth Look at Samsung's Latest Move with the Galaxy S21 Release</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compatibility-score-which-phones-work-with-gear-vr/"><u>Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/sky-high-drone-competition-guide-plus-5-innovative-fpv-systems-for-2024/"><u>Sky High Drone Competition Guide + 5 Innovative FPV Systems for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-nonfunctional-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Nonfunctional Paradox Launcher</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722961602043-wifi-drivers-for-windows-7-download-and-update-easily/"><u>WiFi Drivers for Windows 7 Download & Update. Easily!</u></a></li>
+</ul></div>
+

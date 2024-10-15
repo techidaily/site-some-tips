@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft's Hiring Process for Tech Roles: Expert Tips & Advice Featured on ZDNET"
-date: 2024-09-19 21:40:19
-updated: 2024-09-20 11:45:36
+date: 2024-10-09T00:27:14.094Z
+updated: 2024-10-14T21:51:27.856Z
 tags:
   - professional-development
 categories:
@@ -29,6 +29,13 @@ The company has implemented [work-from-home](https://www.zdnet.com/education/pro
 
 If you're a student or recent graduate, Microsoft also offers [tech internships](https://www.zdnet.com/education/professional-development/tech-internships/), including UX design, supply chain, IT operations, finance, sales, and many types of engineering. These internships are difficult to earn but may provide future career opportunities. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where should I apply for Microsoft careers?
 
 You can submit [job applications](https://www.zdnet.com/education/professional-development/tech-job-application-guide/) on the Microsoft website, LinkedIn, or many [different job search sites.](https://www.zdnet.com/education/professional-development/job-search-sites-for-tech/) Applying directly to the Microsoft website won't increase your chances of getting hired. Pick whatever site works best for you.
@@ -50,11 +57,25 @@ For coding roles, Microsoft looks for individuals with top tech skills like [Mic
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many years of experience do you need to work at Microsoft?
 
 It depends on the role. 
 
 For example, the program manager position is considered entry-level and requires only one year of experience. Software or hardware engineer positions require three to five years.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to meet Microsoft's expectations when applying for a tech role
 
@@ -63,6 +84,13 @@ Many [big tech companies](https://www.zdnet.com/education/professional-developme
 It's important to make a good impression, so prepare thoroughly before submitting your application.
 
 **Education background**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -186,11 +214,33 @@ Practice answering basic behavioral interview questions and research unique ques
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-escaping-a-stroke-on-your-youtube-channel/"><u>[New] 2024 Approved Escaping a Stroke on Your YouTube Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-3-techniques-converting-pin-videos-to-mp3s/"><u>[New] Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-laugh-ledger-the-ultimate-list-of-hilarious-tweet-threads/"><u>[Updated] Laugh Ledger The Ultimate List of Hilarious Tweet Threads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast/"><u>[Updated] The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-potential-of-windows-movie-maker-in-windows-8-environments/"><u>[Updated] Unlocking the Potential of Windows Movie Maker in Windows 8 Environments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>[Updated] Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vector-editing-revolution-post-acid-pro-era/"><u>[Updated] Vector Editing Revolution Post-ACID Pro Era</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-luts-for-precision-controlled-image-editing/"><u>2024 Approved Harnessing LUTs for Precision-Controlled Image Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/vlcwindowsmac/"><u>日本語VLCメディアプレーヤーの更新：WindowsとMacで簡単なインストール手順</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-effortlessly-share-window-movie-creations-with-vimeo/"><u>In 2024, Effortlessly Share Window Movie Creations with Vimeo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-defy-2-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola Defy 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-laugh-hard-best-meme-app-for-you/"><u>In 2024, Laugh Hard Best Meme App for You</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-storage-without-spending-the-comprehensive-list-of-best-30-budget-friendly-cloud-services-with-1tbplus/"><u>In 2024, Storage Without Spending The Comprehensive List of Best 30 Budget-Friendly Cloud Services with 1TB+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-players-rejoice-as-fixed-subnautica-below-zero-stability-issues-resolved/"><u>PC Players Rejoice as [FIXED] Subnautica: Below Zero Stability Issues Resolved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies-for-2024/"><u>The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies for 2024</u></a></li>
+</ul></div>
+

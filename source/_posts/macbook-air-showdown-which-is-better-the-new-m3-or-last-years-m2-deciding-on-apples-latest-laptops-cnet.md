@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Showdown: Which Is Better, The New M3 or Last Year's M2? Deciding on Apple’s Latest Laptops | CNET"
-date: 2024-10-04T01:15:33.543Z
-updated: 2024-10-08T16:55:26.303Z
+date: 2024-10-07T16:15:57.007Z
+updated: 2024-10-15T03:49:39.417Z
 tags:
   - apple
 categories:
@@ -75,10 +75,10 @@ The M3 13-inch Air starts at [$1,099](https://apple.sjv.io/c/159047/435031/7613?
 If you're confident you want an M2 MacBook Air and need more help deciding which Air will float your boat, check out [ZDNET's M2 MacBook Air buying guide](https://www.zdnet.com/article/macbook-air-15-inch-2022-vs-macbook-air-13-inch-2023/). If you're contemplating buying an M3 MacBook Air and want to know how it stacks up against the M2 Air models, [we compared the specs](https://www.zdnet.com/article/m3-macbook-air-vs-m2-macbook-air/) to help you decide which one is best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which MacBook is right for you?
@@ -127,24 +127,22 @@ No matter which model you buy, a MacBook is excellent for users who want to expa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-tiktok-linking-made-simple-and-irreversible/"><u>[New] TikTok Linking Made Simple and Irreversible</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-discovering-the-best-soil-sprouts-of-valheim/"><u>[Updated] Discovering the Best Soil Sprouts of Valheim</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-maintain-a-shadowy-presence-on-instagram-livestreams/"><u>[Updated] How to Maintain a Shadowy Presence on Instagram Livestreams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-prime-selection-of-websites-for-youtube-video-intro-download/"><u>[Updated] In 2024, Prime Selection of Websites for YouTube Video Intro Download</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-describing-your-podcast-with-flair/"><u>[Updated] The Art of Describing Your Podcast with Flair</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-places-for-free-text-visual-enhancements/"><u>[Updated] Top Places for Free Text Visual Enhancements</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/alleviating-hp-printer-error-code-oxc4eb827f/"><u>Alleviating HP Printer Error: Code OXC4EB827F</u></a></li>
-<li><a href="https://win-dash.techidaily.com/direct-links-to-the-most-recent-nvidia-drivers-for-geforce-rtx-1080-on-windows-11-secure-and-fast-download/"><u>Direct Links to the Most Recent Nvidia Drivers for GeForce RTX 1080 on Windows 11 – Secure & Fast Download</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-intricate-dance-of-photos-into-a-unified-display/"><u>In 2024, The Intricate Dance of Photos Into a Unified Display</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-burst-mode-in-action-sports-filming/"><u>In 2024, The Role of Burst Mode in Action Sports Filming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-professional-iphoneipad-podcast-production/"><u>In 2024, The Ultimate Guide to Professional iPhone/iPad Podcast Production</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions/"><u>In 2024, Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/msi-leads-the-charge-with-camm2-compatible-z79n-zero-project-motherboards-transforming-the-landscape-of-desktop-ram-technology/"><u>MSI Leads the Charge with CAMM2-Compatible Z79n Zero Project Motherboards – Transforming the Landscape of Desktop RAM Technology</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/preventing-disruptions-from-windows-710s-printer-service/"><u>Preventing Disruptions From Windows 7/10'S Printer Service</u></a></li>
-<li><a href="https://some-tips.techidaily.com/step-by-step-guide-to-mastering-kinemaster-plus-10-best-video-editors-online-for-2024/"><u>Step-by-Step Guide to Mastering KineMaster + 10 Best Video Editors Online for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-screenplays-distributed-among-classified-types-for-2024/"><u>Superior Screenplays Distributed Among Classified Types for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/1715701201999-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup.</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-to-windows-11-without-interruption-the-in-place-approach/"><u>Transitioning to Windows 11 Without Interruption: The In-Place Approach</u></a></li>
-<li><a href="https://techtrends.techidaily.com/whats-the-water-resistance-rating-of-the-iphone-13/"><u>What's the Water Resistance Rating of the iPhone 13?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos/"><u>[New] In 2024, Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-enhancing-your-video-conferencing-essential-tips-for-using-zoom-in-win10/"><u>[New] In 2024, Enhancing Your Video Conferencing Essential Tips for Using Zoom in Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superb-alter-ego-voice-tools-for-aspiring-vtubers/"><u>[New] Superb Alter-Ego Voice Tools For Aspiring VTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-practices-to-personalize-snapchat-video-playback/"><u>[Updated] Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-an-owners-guide-to-playlist-permutations-in-yt/"><u>2024 Approved An Owner's Guide to Playlist Permutations in YT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>2024 Approved The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-8-collaborative-video-collage-android-apps-freepremium/"><u>2024 Approved Unveiling Top 8 Collaborative Video Collage Android Apps (Free/Premium)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-list-of-budget-friendly-online-editors/"><u>In 2024, Comprehensive List of Budget-Friendly Online Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unravel-costs-liberating-your-vob-experience-pcmac/"><u>In 2024, Unravel Costs Liberating Your VOB Experience (PC/Mac)</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/insta360s-underwater-exploration-made-easy-the-one-x2-reviewed/"><u>Insta360's Underwater Exploration Made Easy - The One X2 Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-thrustmaster-t150-gamepad-controls-get-set-up-fast/"><u>Instant Download: ThrustMaster T150 Gamepad Controls - Get Set Up Fast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hero5-users-blueprint-for-incredible-time-lapse-videos-for-2024/"><u>The Hero5 User's Blueprint for Incredible Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-premier-rankings-best-general-knowledge-shows-for-2024/"><u>The Premier Rankings Best General Knowledge Shows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-these-14-exceptional-text-animations-for-2024/"><u>Unleash Creativity with These 14 Exceptional Text Animations for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How Recent Job Growth Impacts Tech Careers: Insights From ZDNet"
-date: 2024-09-17 14:32:12
-updated: 2024-09-20 10:20:18
+date: 2024-10-13T01:00:40.596Z
+updated: 2024-10-14T17:36:47.570Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,13 @@ Even if companies opt to either cut back or compensate for their skills shortage
 "We are constantly looking out for good-quality technology resources and we are recruiting to support our growth plans," relates [Raju Seetharaman](https://www.lgamerica.com/about-us/leadership/bio/raju-seetharaman), senior vice president of IT and transformation at [Legal and General America](https://www.lgamerica.com/). "The technology layoffs we are seeing across the industry so far are a result of the additional demand created during pandemic with additional capital availability and unique business opportunities. This is partly due to return to pre-pandemic model and also due to global slowdown," he says.
 
 "The skilled labor shortage will only get worse in the near future, as the need for tech talent continues to grow and the gaps between the available supply and demand for these individuals are exacerbated," predicts [Laura Baldwin](https://www.linkedin.com/in/laurabaldwin1/), president of [O'Reilly Media](https://www.oreilly.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### CXO
 
@@ -87,11 +94,27 @@ Organizations, many of which may be facing the headwinds of a rough economy, wil
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-preservation-pathway-digitizing-and-safeguarding-old-family-photos/"><u>[New] The Preservation Pathway Digitizing & Safeguarding Old Family Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-iphone-features-producing-and-modifying-videos-at-a-tranquil-pace/"><u>[Updated] In 2024, Unveiling iPhone Features Producing and Modifying Videos at a Tranquil Pace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-toggle-pip-for-streaming-youtube-videos-more-conveniently-with-iphone/"><u>[Updated] Toggle PIP for Streaming Youtube Videos More Conveniently with iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-seamless-transition-leading-8-tools-for-sub-to-srt-changeover/"><u>2024 Approved Seamless Transition Leading 8 Tools for Sub to SRT Changeover</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-storytelling-youtube-channels-to-follow-this-year/"><u>2024 Approved The Best Storytelling YouTube Channels to Follow This Year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029255384-windows/"><u>様々な動画同時表示: Windowsパソコン用ガイド</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/illuminate-creativity-spk10-037s-flexible-brilliant-glow/"><u>Illuminate Creativity: SPK10-037's Flexible, Brilliant Glow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-handbook-to-drone-video-editing/"><u>In 2024, The Ultimate Handbook to Drone Video Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-imagery-top-30-creations-with-da-vincis-latest-ai/"><u>Innovative Imagery: Top 30 Creations with Da Vinci's Latest AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210166882-solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside</u></a></li>
+<li><a href="https://some-tips.techidaily.com/srt-innovation-how-technology-shapes-industry-standards-for-2024/"><u>SRT Innovation How Technology Shapes Industry Standards for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/vertical-or-horizontal-facebook-video-tactic/"><u>Vertical or Horizontal Facebook Video Tactic</u></a></li>
+</ul></div>
+

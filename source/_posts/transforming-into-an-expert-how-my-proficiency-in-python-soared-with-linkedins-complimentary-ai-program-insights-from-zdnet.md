@@ -1,7 +1,7 @@
 ---
 title: "Transforming Into an Expert: How My Proficiency in Python Soared with LinkedIn’s Complimentary AI Program - Insights From ZDNet"
-date: 2024-09-19 14:32:18
-updated: 2024-09-20 12:48:24
+date: 2024-10-11T04:27:32.567Z
+updated: 2024-10-15T06:53:48.626Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ I have to give a big shout-out to LinkedIn for this offering. Normally, companie
 
 That turns this from what I originally thought was just another marketing scheme into full-on good work. It's up to you to cram as many courses as you can into the next 30 days, but if you can give up enough sleep, you can learn a lot for free. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The classes I took 
 
 In this article, I've spotlighted 14 of the courses I think are most interesting. My favorite (although I'm partial because the author is a colleague) has to be the [ChatGPT Tips for the Help Desk](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome) by Pam Baker. A seasoned technology journalist, Pam is also the author of [ChatGPT for Dummies](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChatGPT-Dummies-Computer-tech%2Fdp%2F1394204639%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C61bba7aa-a31a-43f4-a498-dd223e9c56ff%7Cdtp&dtb=1). She knows her stuff. 
@@ -54,6 +61,13 @@ I also took the two-hour [Machine Learning with Python: Foundations](https://www
 I learned a lot in this course, especially about how to collect and prepare data for machine learning. I also was able to stretch my Python programming knowledge, specifically about how a machine learning model can be built in Python. In just two hours, I felt like I got a friendly and comprehensive brain dump. 
 
 There are many other helpful courses. Let's break them down into categories and look at some examples. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  General AI literacy 
 
@@ -76,6 +90,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI courses for recruiting, finance, and support professionals
 
@@ -116,6 +137,13 @@ This course equips you with the knowledge and skills to navigate the evolving la
 [**Azure OpenAI: Generative AI Models and How to Use Them**](https://www.linkedin.com/learning/azure-openai-generative-ai-models-and-how-to-use-them/)  
 **4.8 stars (217 ratings)** 
 In this course, Sammy Deprez introduces you to Azure OpenAI services and dives into the available models, including GPT models, embedding models, codex models, and DALL-E models.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  AI courses for Python coders 
 
@@ -175,11 +203,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-from-parts-to-project-designing-your-own-4k-pc-workstation/"><u>[New] In 2024, From Parts to Project Designing Your Own 4K PC Workstation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-taking-control-of-a-stopped-up-obs-capture-device/"><u>[New] In 2024, Taking Control of a Stopped-Up OBS Capture Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-trusted-6-online-communities-driving-business-growth/"><u>[New] Trusted 6 Online Communities Driving Business Growth</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-digital-media-seeker/"><u>2024 Approved Digital Media Seeker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-psd-drop-shadows/"><u>2024 Approved Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-essentialists-guide-to-iphone-sound-recording/"><u>In 2024, The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-timeless-melodies-from-iconic-animes/"><u>In 2024, Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-video-potential-the-creme-de-la-creme-browser-recorders/"><u>In 2024, Unlocking Video Potential The Crème De La Crème Browser Recorders</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-nord-n30-se-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Nord N30 SE FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-twitter-video-convertors-for-2024/"><u>The Ultimate List of Twitter Video Convertors for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Secrets Revealed: Scoring Your First Virtual Software Developer Position - Tips From ZDNet"
-date: 2024-09-19 11:47:56
-updated: 2024-09-20 12:32:59
+date: 2024-10-14T07:30:28.025Z
+updated: 2024-10-14T20:47:52.301Z
 tags:
   - professional-development
 categories:
@@ -55,6 +55,13 @@ Building a network using social media and LinkedIn, [taking advantage of interns
 
 Attending industry conferences, talks by leaders of companies you admire, alumni events, career fairs, and even coworker parties can lead to meeting people who can help you get hired. Practice a short "elevator pitch" about the job you're seeking and your applicable skills.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Maximize the quality of your application and portfolio.
 
 Finding a remote software engineering job requires an attention-grabbing cover letter, resume, and portfolio. 
@@ -106,6 +113,13 @@ You will likely also take a skills assessment test.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Stay organized by tracking your applications and interview statuses.
 
 Organize your job search with tools like these: 
@@ -114,6 +128,13 @@ Organize your job search with tools like these:
 * Google Sheets or Excel, spreadsheets that you can customize to keep track of submitted applications and interview dates
 * Notion, described as a personal wiki of projects you want to showcase
 * Job-seeker tracking apps like JibberJobber, JobCull, Kiter, Placement, and Teal
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Be willing to negotiate your salary.
 
@@ -126,6 +147,13 @@ One negotiation technique we recommend is using the "Five Ws" popularized by jou
 * Understand **where** you will be discussing salary, e.g., face-to-face, on the phone, or via video conference.
 * **When** do you start negotiations? After the employer offers a specific number on salary.
 * Be ready to explain **why** you deserve the salary you're requesting.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### This article was reviewed by Sierra Gawlowski, PE
 
@@ -159,11 +187,29 @@ _Last reviewed May 2, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-how-to-get-royalty-free-clip-art-for-2024/"><u>[New] How to Get Royalty Free Clip Art for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>[New] The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tier-steadicam-options-for-drone-video-production/"><u>[New] Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[New] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-premier-mic-choices-for-4k-cameras-and-clear-audio-capture/"><u>[Updated] Premier Mic Choices for 4K Cameras & Clear Audio Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-preventing-total-loss-of-image-in-streaming-videos-on-youtube/"><u>[Updated] Preventing Total Loss of Image in Streaming Videos on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-quick-recovery-of-twitch-broadcasts/"><u>[Updated] The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[Updated] The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphone-podcast-retrieval-handbook/"><u>2024 Approved The Essential iPhone Podcast Retrieval Handbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>2024 Approved The Future of Sound Design Magix Music Maker's Latest Upgrade</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-itel-p55-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Itel P55 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-free-screen-recorders-on-windows-10/"><u>In 2024, Top 5 Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prompt-engineering-careers-realistic-or-virtual/"><u>Prompt Engineering Careers: Realistic or Virtual?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-basics-of-electronic-story-craftsmanship-for-2024/"><u>The Basics of Electronic Story Craftsmanship for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-comparison-iphone-15-pro-max-and-samsung-galaxy-s24-ultra-face-off/"><u>The Ultimate Comparison: IPhone 15 Pro Max and Samsung Galaxy S24 Ultra Face-Off</u></a></li>
+</ul></div>
+

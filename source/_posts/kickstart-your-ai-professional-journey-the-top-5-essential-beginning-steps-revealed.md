@@ -1,7 +1,7 @@
 ---
 title: "Kickstart Your AI Professional Journey: The Top 5 Essential Beginning Steps Revealed"
-date: 2024-09-18 23:28:29
-updated: 2024-09-20 11:34:29
+date: 2024-10-13T03:25:28.726Z
+updated: 2024-10-15T05:12:20.242Z
 tags:
   - professional-development
 categories:
@@ -38,6 +38,13 @@ Back when I taught entry-level programming, about half my students wanted to pro
 **Also: [Thanks to my 5 favorite AI tools, I'm working smarter now](https://www.zdnet.com/article/my-5-favorite-ai-tools-for-work/)**
 
 My point here is that you have to be willing to do the work, and you also have to be able to bring something to the job. Rick seems willing to do the work, and he has skills he can bring to the job. Below are the five steps I'd recommend Rick -- and anyone interested in pivoting to AI work -- take. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Identify your current skills 
 
@@ -97,6 +104,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Train yourself
 
 But, Rick says he doesn't know the AI field. He doesn't know the business of AI (all the players, how they relate, their competitive landscape). He doesn't really know how it all works. And he's never done any actual AI work. 
@@ -143,6 +157,13 @@ Speaking of that, especially for our product marketing friend Rick, find an AI K
 
 Now, here's the trick that will better help you move the job needle: Agree to do these services in return for giving you a title associated with the company. It doesn't have to be a line title, like "marketing manager." It can simply be "advisor." The point is, you want to be able to legitimately list on your LinkedIn profile something like, "Advisor, Happy Valley AI Enterprises," or something similar. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Give it six months 
 
 I know. Now that you've decided you want to transition into AI, you want the gig tomorrow. Well, pal, that's not going to happen. But if you give yourself six months, and you work it seriously, you'll have a pretty good chance of moving into this new field. 
@@ -164,6 +185,13 @@ A career in AI could be rewarding for a number of reasons. You get to help push 
 But keep in mind that a career in AI also comes with challenges. It's a moving target, so you need to be learning constantly and your skills could prove to be out of date six months after you learned them. There are tremendous ethical concerns and missteps that are possible at every stage along the value chain. Because the field is moving so fast, it's also likely to be a very high pressure career. And, of course, there's the question of job security. Will you engineer yourself right out of a job as you integrate AI into your organization?
 
 There. That'll get you thinking. Good luck.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Let us know how it goes
 
@@ -194,11 +222,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-setup-and-evaluate-facebook-instream-ads/"><u>[New] How to Setup and Evaluate Facebook Instream Ads?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-skys-limit-broken-by-djis-pro-drone-review/"><u>[New] The Sky's Limit Broken by DJI’s Pro Drone Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synching-worlds-instagram-to-tiktok-essentials/"><u>[Updated] Synching Worlds Instagram to TikTok Essentials</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-troubleshooting-why-arent-your-recommended-fb-videos-displayed/"><u>2024 Approved Troubleshooting Why Aren't Your Recommended FB Videos Displayed?</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-8-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-g2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo G2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-asus-rog-phone-8-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Asus ROG Phone 8 Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leveraging-data-key-performance-indicators-for-igtv-videos/"><u>In 2024, Leveraging Data Key Performance Indicators for IGTV Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo/"><u>In 2024, Transform Your Edits How to Negate Distracting Surroundings Using Affinity Photo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/our-5-favorite-free-malware-removal-tools-of-2024/"><u>Our 5 Favorite Free Malware Removal Tools of 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-soaring-podcast-rankings-with-seo-for-2024/"><u>Unraveling the Secrets to Soaring Podcast Rankings with SEO for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-your-design-how-to-eliminate-backgrounds-in-figma/"><u>Unveiling Your Design How To Eliminate Backgrounds in Figma</u></a></li>
+</ul></div>
+

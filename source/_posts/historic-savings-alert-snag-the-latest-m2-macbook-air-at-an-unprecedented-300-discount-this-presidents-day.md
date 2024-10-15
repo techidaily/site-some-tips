@@ -1,7 +1,7 @@
 ---
 title: "Historic Savings Alert: Snag the Latest M2 MacBook Air at an Unprecedented $300 Discount This Presidents' Day!"
-date: 2024-10-04T18:55:19.390Z
-updated: 2024-10-09T02:54:57.958Z
+date: 2024-10-12T09:38:33.800Z
+updated: 2024-10-14T21:48:03.203Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ From headphones to robot vacuums to TVs, now's your chance to snag savings that 
 * [Blink Outdoor 4 Floodlight Camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0BBX45V5B%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $85 (save $45 at Amazon)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The best Presidents Day tech deals still live
@@ -71,13 +71,6 @@ June Wan/ZDNET
 * [Asus TUF Gameing A17 Laptop](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Fmecha-gray-asus-tuf-gaming-f17-fa707xi-ns94%252Fp%252FN82E16834236430%253FItem%253DN82E16834236430): $1,350 (save $450 at Newegg)
 * [Asus Gaming Desktop Predator Orion 3000](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fclick.linksynergy.com%2Fdeeplink%3Fid%3DIokOf8qagZo%26mid%3D44583%26u1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp%26murl%3Dhttps%253A%252F%252Fwww.newegg.com%252Facer-po3-650-ub91-predator-orion-3000%252Fp%252FN82E16883101905%253FItem%253DN82E16883101905): $700 (save $500 at Newegg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The best Presidents Day headphones deals still live
 
 Jason Hiner/ZDNET
@@ -91,6 +84,13 @@ Jason Hiner/ZDNET
 * [Jabra Elite 5 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0B7ZNCXKZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $99 (save $51 at Amazon)
 * [Jabra Elite 4 Active Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB09MVGQRDD%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $90 (save $30 at Amazon)
 * [Jabra Elite 10 Wireless Earbuds](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CB91VRGV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $200 (save $50 at Amazon)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The best Presidents Day TV deals still live
 
@@ -106,19 +106,6 @@ Maria Diaz/ZDNET
 * [Hisense 75-inch 4K UHD Fire TV](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHisense-75-Inch-Class-Smart-75U6HF%2Fdp%2FB0CHJ7GQ2Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $750 (save $400 at Amazon)
 * [Samsung 85-inch Class TU690T UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-85-class-tu690t-crystal-uhd-4k-smart-tizen-tv%2F6527338.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,000 (save $300 at Best Buy)
 * [Samsung 75-inch Class QN85C UHD 4K Smart Tizen TV](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsamsung-75-class-qn85c-neo-qled-4k-uhd-smart-tizen-tv%2F6536416.p%3F&publisher_slug=itechdaily19598&exclusive=1): $1,800 (save $500 at Best Buy)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The best Presidents Day robot vacuum deals still live
 
@@ -136,6 +123,13 @@ Beth Mauder/ZDNET
 * [Roborock S8 Pro Vacuum and Mop](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FPro-Ultra-Self-Washing-Self-Refilling-Self-Emptying%2Fdp%2FB0BVB5PTDK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $1,400 (save $200 at Amazon)
 * [Roborock S8 Pro Vacuum and Mop](https://roborock.pxf.io/c/159047/1179705/14848?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fus.roborock.com%2Fproducts%2Froborock-s8-pro-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp): $1,400 (save $200 at Roborock)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best Presidents Day home deals still live
 
 Arlo
@@ -148,13 +142,6 @@ Arlo
 * [Bluetti AC200L Portable Power Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0CLGZB3L6%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $1,699 (save $300 at Amazon with coupon)
 * [iDoo Queen Air Mattress](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2FB0C8TF4VK8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $70 (save $46 at Amazon)
 * [Eve Light Strip](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEve-Light-Strip-Full-Spectrum-Necessary%2Fdp%2FB07MTX8MR4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ceaa49380-64ae-4bd2-b49e-bdacc86c98a2%7Cdtp&dtb=1): $40 (save $40 at Amazon)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When is President's Day?
 
@@ -169,6 +156,13 @@ We also looked over customer reviews to find out what matters to real people who
 ## When will these deals expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on a deal, but don't fret -- we're constantly finding new chances to save and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does Amazon have a Presidents' Day sale?
 
@@ -216,21 +210,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-recording-the-next-level-of-play/"><u>[New] In 2024, Recording the Next Level of Play</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-visual-treatment-applying-filters-to-videos/"><u>[New] Superior Visual Treatment Applying Filters to Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-10-best-meme-patterns/"><u>2024 Approved The Comprehensive Guide to #10 Best Meme Patterns</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-android-gaming-experience-kinemaster-reviewed/"><u>2024 Approved The Ultimate Android Gaming Experience - KineMaster Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultima-designs-analysis-pinnacle-suite-studio-2023-overview/"><u>2024 Approved Ultima Designs Analysis Pinnacle Suite Studio, 2023 Overview</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-review-of-lg-bp350-for-home-theaters/"><u>2024 Approved Ultimate Review of LG BP350 for Home Theaters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-creativity-top-20-vlogger-themes/"><u>2024 Approved Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unmatched-audio-changer-applications-for-smartphones/"><u>2024 Approved Unmatched Audio Changer Applications for Smartphones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-windows-11s-hidden-secrets-for-media-upload/"><u>2024 Approved Unveiling Windows 11'S Hidden Secrets for Media Upload</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-recover-from-a-ksuserdll-missing-error-on-your-computer-systematically/"><u>How To Recover From A ksuser.dll Missing Error on Your Computer Systematically</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-achieve-superior-zoom-sound-2-essential-tweaks-explored/"><u>In 2024, Achieve Superior Zoom Sound 2 Essential Tweaks Explored</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-exploring-the-depth-of-photography-with-polarrs-advanced-editing/"><u>In 2024, Exploring the Depth of Photography with Polarr’s Advanced Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premiere-gear-optimal-panoramic-recorders/"><u>In 2024, Premiere Gear Optimal Panoramic Recorders</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/leverage-video-platforms-with-targeted-sharing-techniques-for-2024/"><u>Leverage Video Platforms with Targeted Sharing Techniques for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-eliminating-recurring-usb-device-not-found-pop-ups-a-comprehensive-approach/"><u>Troubleshooting and Eliminating Recurring 'USB Device Not Found' Pop-Ups: A Comprehensive Approach</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] 2024 Approved How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>[New] In 2024, Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-why-no-video-suggestions-pop-up-in-your-social-media-world-for-2024/"><u>[Updated] Why No Video Suggestions Pop Up in Your Social Media World for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-podcast-hooks-compelling-beginnings/"><u>2024 Approved The Art of Podcast Hooks Compelling Beginnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparando-a-eficiencia-de-extracao-7-zip-winrar-e-winzip-explicados/"><u>Comparando a Eficiência De Extração: 7-Zip, WinRAR E WinZip Explicados</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/craft-your-future-with-instagram-video-marketing-step-by-step-guide-for-2024/"><u>Craft Your Future with Instagram Video Marketing Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formato-de-archivo-m4a-a-partir-de-wav-gratuito-y-sin-conexion-usando-movavi/"><u>Formato De Archivo M4A a Partir De WAV Gratuito Y Sin Conexión Usando Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/future-of-storage-cutting-edge-cost-effective-solutions-for-2024/"><u>Future of Storage Cutting-Edge, Cost-Effective Solutions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gif-to-png-online-konvertor-professioneel-werkvormige-opschreven-movavi/"><u>Gratuit GIF-to-PNG Online Konvertor: Professioneel Werkvormige Opschreven - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-omhefken-van-mka-naar-wav-format-movavi/"><u>Gratuit Online Omhefken Van MKA Naar WAV-Format - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-convertitore-online-caf-programma-di-masterizzazione-fatto-in-casa-da-movavi/"><u>Gratuito Convertitore OnLine Caf – Programma Di Masterizzazione Fatto in Casa Da Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-ultimate-walkthrough-obtaining-realtek-printer-and-scanner-driver-software-for-windows/"><u>The Ultimate Walkthrough: Obtaining RealTek Printer and Scanner Driver Software for Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-external-bddvd-drives-the-ultimate-guide/"><u>Top Rated External BD/DVD Drives - The Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformer-un-fichier-aiff-en-format-wmv-gratuitement-facile-et-rapide-avec-movavi/"><u>Transformer Un Fichier AIFF en Format WMV Gratuitement - Facile Et Rapide Avec Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-reign-of-your-online-photographs/"><u>Unveiling the Reign of Your Online Photographs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m4b-and-flac-movavi/"><u>オンラインでの M4B & FLAC ファイル変換サービス - 完全無料提供: Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Next Round: Proven Strategies for Excelling in Phone Screenings and Advancing to In-Person Assessments - Insights From ZDNet"
-date: 2024-09-17 22:29:36
-updated: 2024-09-20 12:27:39
+date: 2024-10-14T02:16:02.664Z
+updated: 2024-10-15T05:41:45.603Z
 tags:
   - professional-development
 categories:
@@ -34,9 +34,23 @@ Salary might come up during a phone interview, particularly when speaking with a
 
 It's important to start preparing for a phone interview as early as possible. When scheduling the interview, consider blocking off time to prepare. Use that time to learn more about the company, practice your answers to common phone interview questions, and prepare questions for the interviewer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get the details down
 
 You've scheduled a phone interview for 1:00 p.m. on Wednesday. But what time zone? Is it a true phone interview or a video call? Who should place the call, you or the interviewer? Make sure you know the details or reach out to the company for clarification. While getting the details down, make sure they have both your phone number and email. If the call is on Zoom, make sure you have the link and test it 10 minutes before your call.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Research the company
 
@@ -72,6 +86,13 @@ Make a plan to get in the right mindset for your interview. Decide where to take
 
 ## During the phone interview: How to show you're a stand-out candidate
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Treat it like an in-person interview
 
 Your first impression goes a long way and approaching a phone interview professionally can help you make it to the second round of interviews. Take the phone interview seriously and make sure to use professional language while remaining conversational. If it is a video interview, you should show up five minutes ahead of time, as you would with an in-person interview.
@@ -88,6 +109,13 @@ It's natural to feel nervous during a phone interview, and we tend to speak fast
 
 Don't let a dry throat or cough interrupt your interview. Make sure to start the call with a glass of water close at hand. Or if you prefer, bring a cup of coffee or tea for a little caffeine boost. Similarly, make sure you're not hungry (or overly full) when you start the interview.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ask follow-up questions
 
 Feel free to ask follow-up questions throughout the call. Asking questions shows the interviewer that you're listening and interested in the role. If the interviewer asks an unclear question, don't hesitate to ask for clarification. It's better to make sure you understand the question than to muddle through with a subpar answer.
@@ -95,6 +123,13 @@ Feel free to ask follow-up questions throughout the call. Asking questions shows
 ### Bring examples from your professional experience
 
 The interviewer wants to know if you're a good fit for the role, so make sure to use examples from your professional experience to demonstrate your accomplishments. Those examples serve as evidence of your qualifications and work history. Avoid using examples from your personal life — it's important to stay professional.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show enthusiasm
 
@@ -106,9 +141,23 @@ What's the best way to end the interview on a high note? Make sure to thank the 
 
 ## After the phone interview: Ending on a high note
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Take notes after the interview
 
 Once you hang up the phone, what's next? While it's fresh in your mind, jot down notes about the interview. Write down new information about the role or company. And take some notes on the main topics covered. These notes can help you prepare for a second interview.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Send a thank-you email
 
@@ -131,6 +180,13 @@ In either scenario, congratulate yourself for gaining confidence and experience 
 ### This article was reviewed by Dana Alqaq
 
 ![dana alqaq, a woman with long brown hair, smiles at the camera](https://www.zdnet.com/a/img/resize/cf11b0d5b20adb6fe3099cd1553dec264efc013a/2022/02/02/a3babff1-03ec-48a3-85ea-b0847e705985/dana-alqaq.png?auto=webp&width=1280)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Dana Alqaq](https://www.linkedin.com/in/dana-alqaq/) comes from a diverse and well-rounded background focusing on IT, cybersecurity, and HR. She is a corporate recruiter in northern Virginia for a government sector and holds bachelor's degrees in cybersecurity and business management. Dana has an extensive background in higher education with over five years of experience, as well as 15 years of experience in customer service. She stays up to date on changes in the tech industry through educational courses and training programs.
 
@@ -162,11 +218,23 @@ _Last reviewed Jan. 27, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-iphone-playlist-podcast-tips/"><u>[New] The Ultimate iPhone Playlist Podcast Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-gif-editor-how-to-make-animated-gif-images-online-from-youtube-video/"><u>[Updated] GIF Editor How to Make Animated GIF Images Online From YouTube Video</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-snap-back-on-tiktok-after-accidental-loadout/"><u>[Updated] In 2024, Snap-Back on TikTok After Accidental Loadout</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-affordable-vector-art-websites/"><u>2024 Approved Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-steam-shop-display-problems/"><u>How to Successfully Resolve Steam Shop Display Problems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>In 2024, Uncompromised Creativity Best macOS Big Sur Editing Tools Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-low-volume-settings-in-os-xwindows-for-2024/"><u>Mastering Low-Volume Settings in OS X/Windows for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/visualize-success-with-these-three-insta-video-caption-approaches/"><u>Visualize Success with These Three Insta Video Caption Approaches</u></a></li>
+</ul></div>
+

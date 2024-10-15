@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Professional EQ: A Comprehensive ZDNet Handbook"
-date: 2024-09-18 13:36:20
-updated: 2024-09-20 11:22:30
+date: 2024-10-09T05:15:59.345Z
+updated: 2024-10-14T20:37:08.560Z
 tags:
   - professional-development
 categories:
@@ -24,6 +24,13 @@ Originally coined in 1990 by psychology professors John D. Mayer and Peter Salov
 Emotional intelligence is awareness of both one's own emotions and those of other people. People with high emotional intelligence possess strong communication, listening, and conflict resolution skills. 
 
 Emotional intelligence is useful in everyday situations where emotional management and awareness are at play, such as helping a friend mourn personal loss, listening to your partner talk about a frustrating work conflict, or communicating your emotional needs to a family member.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### You might want to improve your emotional intelligence skills if …
 
@@ -56,6 +63,13 @@ Higher emotional intelligence can reap high returns in the workplace. The potent
 * Better skills at defining and enforcing professional boundaries in the workplace
 * More [focused on work](https://www.zdnet.com/education/how-to-improve-your-focus-at-work/) and better time management
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Setbacks of having low emotional intelligence skills at work
 
 Conversely, low emotional intelligence skills can unnecessarily complicate your workplace life, causing you to miss out on opportunities or even get in trouble. Examples of negative consequences you may experience include:
@@ -80,6 +94,13 @@ The present moment is the best time to practice emotional intelligence skills be
 ![5 components of emotional intelligence: self-awareness, self-regulation, intrinsic motivation, empathy, and social skills](https://www.zdnet.com/a/img/resize/73cfff9012ebeb03b7114931d67a8789db193294/2022/02/24/c0356e01-f212-4869-a1cf-6f94d996af66/5-components.png?auto=webp&width=1280)
 
 Tori Rubloff/ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Self-awareness
 
@@ -144,6 +165,13 @@ Practicing empathy can make it easier to:
 * **"Check in on how your co-workers are doing.** Especially over the past two years, people have experienced more stress, anxiety, and depression than ever before. Mental health has been hard to manage for many, but in the workplace, people are often expected to "function as normal." This can lead to feeling burnt out and depleted, especially when keeping this all to yourself. Ask your co-workers or managers how they are doing. If you notice that they are overwhelmed, normalize their experience and if you have the capacity, ask them if you can help them with some tasks.
 * **"Normalize talking about feelings.** Everyone has emotions, but due to stigma (especially in the workplace), people hide their emotions. Many people think that sharing something like "I'm feeling overwhelmed with my workload right now" or "Tomorrow's presentation is giving me anxiety" is unprofessional. People can't "turn off" being human for the 40+ hours they work weekly, so instead of pretending to not have natural human emotions, start normalizing your emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Social skills
 
 Social skills refer to our ability to follow social conventions and use tools such as levity, politeness, and friendliness when interacting with others. Good social skills allow us to remember what is off-limits or irrelevant in our interactions and what would instead help us get along with others effectively.
@@ -163,6 +191,13 @@ Good social skills can encompass some of the following positive acts you can pra
 ## In conclusion
 
 It can feel difficult to discuss emotional intelligence. No one has perfect emotional intelligence. Emotional intelligence is and of itself a humbling concept. Practicing it well means recognizing that you are never truly "done". But remember: emotional intelligence is just as much the art of checking in on yourself as it is of showing consideration for others.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Divya Robin, MHC-LP
 
@@ -199,11 +234,30 @@ Divya Robin, MHC-LP, is a psychotherapist, media contributor, mental health advo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-analyzing-whether-youtube-premium-is-right-for-you/"><u>[New] 2024 Approved Analyzing Whether YouTube Premium Is Right for You</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-maximizing-your-social-reach-with-dual-display-facebook-streaming/"><u>[New] In 2024, Maximizing Your Social Reach with Dual Display Facebook Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>[New] Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unleash-your-social-media-potential-find-the-best-8-instagram-timers/"><u>[New] Unleash Your Social Media Potential Find the Best 8 Instagram Timers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-sleight-of-the-brain-navigating-top-room-riddles/"><u>[Updated] 2024 Approved Sleight of the Brain Navigating Top Room Riddles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-script-architect-space/"><u>[Updated] Superior Script Architect Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>[Updated] The Art of Shots Discover the Best Camera Angles for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[Updated] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-srt-simplified-a-practical-manual-for-xmlssattml-transformation/"><u>2024 Approved SRT Simplified A Practical Manual for XML/SSA/TTML Transformation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-top-picks-samsungs-virtual-reality-adventures/"><u>2024 Approved Top Picks Samsung's Virtual Reality Adventures</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-t2-pro-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-for-seamlessly-rejuvenating-lenovo-power-management-modules/"><u>Step-by-Step Process for Seamlessly Rejuvenating Lenovo Power Management Modules</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tactics-for-transformative-first-moments-in-your-podcasts-for-2024/"><u>Tactics for Transformative First Moments in Your Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-plan-to-grow-your-subscriber-base-for-2024/"><u>The Ultimate Plan to Grow Your Subscriber Base for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed-for-2024/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed for 2024</u></a></li>
+</ul></div>
+

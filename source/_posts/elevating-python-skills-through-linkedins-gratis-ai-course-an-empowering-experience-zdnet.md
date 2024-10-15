@@ -1,7 +1,7 @@
 ---
 title: "Elevating Python Skills Through LinkedIn's Gratis AI Course: An Empowering Experience | ZDNET"
-date: 2024-09-17 10:35:51
-updated: 2024-09-20 11:37:59
+date: 2024-10-09T04:35:44.353Z
+updated: 2024-10-14T16:47:15.679Z
 tags:
   - professional-development
 categories:
@@ -41,6 +41,13 @@ I have to give a big shout-out to LinkedIn for this offering. Normally, companie
 
 That turns this from what I originally thought was just another marketing scheme into full-on good work. It's up to you to cram as many courses as you can into the next 30 days, but if you can give up enough sleep, you can learn a lot for free. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  The classes I took 
 
 In this article, I've spotlighted 14 of the courses I think are most interesting. My favorite (although I'm partial because the author is a colleague) has to be the [ChatGPT Tips for the Help Desk](https://www.linkedin.com/learning/chatgpt-tips-for-the-help-desk/welcome) by Pam Baker. A seasoned technology journalist, Pam is also the author of [ChatGPT for Dummies](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FChatGPT-Dummies-Computer-tech%2Fdp%2F1394204639%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cb382313c-a92c-41ea-9b35-b1ada13c7d1b%7Cdtp&dtb=1). She knows her stuff. 
@@ -76,6 +83,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI courses for recruiting, finance, and support professionals
 
@@ -117,6 +131,13 @@ This course equips you with the knowledge and skills to navigate the evolving la
 **4.8 stars (217 ratings)** 
 In this course, Sammy Deprez introduces you to Azure OpenAI services and dives into the available models, including GPT models, embedding models, codex models, and DALL-E models.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  AI courses for Python coders 
 
 Python is one of the most popular languages among AI developers. Here I look at four courses that can help you integrate your Python knowledge with AI. [According to Ya Xu](https://www.linkedin.com/pulse/engineerings-new-world-work-look-todays-most-in-demand-ya-xu-1mmee/), VP of engineering and head of data and AI at LinkedIn, "Skills in key programming languages commonly used in the development of AI – Python, Java, and SQL – rank among the top five most sought-after skills on the technical side in the US."
@@ -136,6 +157,13 @@ Adam Wilbert shows how to use high-performance Python libraries and the Machine 
 [**Training Neural Networks in Python**](https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/creating-a-neural-network-in-python)  
 **4.6 stars (219 ratings)** 
 This course by Eduardo Corpeño teaches the inner workings of neural networks in Python, giving learners a chance to tap into the makings of algorithms and the steps needed to build and train their own neural networks from scratch using Python.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More free AI training 
 
@@ -175,11 +203,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-hdr-techniques-in-modern-photoshoots/"><u>[Updated] Understanding HDR Techniques in Modern Photoshoots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[Updated] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-10-plugins-to-enhance-fcp/"><u>2024 Approved Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-gap-to-recovered-network-access/"><u>Bridging the Gap to Recovered Network Access</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos-for-2024/"><u>Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a18-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A18 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-13-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 13 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>In 2024, Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprerancial-onestream-approach-to-online-streaming/"><u>In 2024, The Comprerancial OneStream Approach to Online Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-end-to-end-guide-to-picsart/"><u>In 2024, The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwinding-upside-down-asmr-to-support-zzzs/"><u>In 2024, Unwinding Upside-Down ASMR to Support Zzz's</u></a></li>
+<li><a href="https://media-tips.techidaily.com/newly-introduced-distracting-adverts-pop-up-on-google-tv-platform/"><u>Newly Introduced Distracting Adverts Pop up on Google TV Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-device-driver-load-failure-in-win11/"><u>Overcoming Device Driver Load Failure in Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/rising-star-hashtags-on-instagram-that-can-propel-your-profile/"><u>Rising Star Hashtags on Instagram That Can Propel Your Profile</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus FRP Bypass</u></a></li>
+</ul></div>
+

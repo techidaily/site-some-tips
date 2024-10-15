@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Strategies for Skills Shortage: Why Companeys Might Be Focusing on Incorrect Aspects, According to ZDNET"
-date: 2024-09-19 17:33:48
-updated: 2024-09-20 11:56:21
+date: 2024-10-07T22:42:29.988Z
+updated: 2024-10-15T00:12:49.950Z
 tags:
   - professional-development
 categories:
@@ -34,6 +34,13 @@ Tech workers are particularly keen on mentorship opportunities (38%) and greater
 Unfortunately for workers, employers are underdelivering when it comes to providing opportunities for growth. A recent [survey by Pluralsight](https://www.pluralsight.com/resource-center/state-of-upskilling-2022) found that 40% of tech workers cite a lack of room for career development as one of the primary motivators to leave their employer – taking priority even over compensation. 
 
 Given that [just 24% of tech workers plan to stay with their employer](https://www.zdnet.com/education/professional-development/as-hiring-freezes-and-layoffs-hit-is-the-bubble-about-to-burst-for-tech-workers/) for the next 12 months, and with 52% of IT workers thinking of quitting at least once a month, according to Pluralsight, it is clear that development opportunities are key in the battle for talent.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Action, not words
 
@@ -72,11 +79,29 @@ Budget restraints will always be one argument companies will offer for not inves
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-premier-handwear-for-immersive-vr-experiences/"><u>[New] Premier Handwear for Immersive VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tickletech-instant-creation-of-laughter-graphics/"><u>[New] TickleTech Instant Creation of Laughter Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-path-to-captivating-photographic-alliances/"><u>[New] Unveiling the Path to Captivating Photographic Alliances</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-conquer-youtube-vimeo-editing-5-advanced-trimming-strategies/"><u>[Updated] In 2024, Conquer YouTube-Vimeo Editing 5 Advanced Trimming Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-insight-navigating-through-googles-podcast-app/"><u>[Updated] Total Insight Navigating Through Google's Podcast App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapshots-with-vsco-essentials/"><u>[Updated] Transform Your Snapshots with VSCO Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>2024 Approved The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-242-troubleshooting-correcting-directx-error-messages-step-by-step/"><u>Battlefield 2#42 Troubleshooting: Correcting DirectX Error Messages Step-by-Step</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/complete-guide-to-recording-videos-with-obs-as-mp4-format/"><u>Complete Guide to Recording Videos with OBS as MP4 Format</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-guide-the-best-techniques-for-shifting-video-content-onto-ios-devices/"><u>Easy Guide: The Best Techniques for Shifting Video Content Onto iOS Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-typography-and-layout-the-top-10-for-ae/"><u>In 2024, Mastering Typography & Layout The Top 10 For AE</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-the-activation-hurdle-in-microsoft-office/"><u>Navigating Past the Activation Hurdle in Microsoft Office</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-podcasts-for-apple-podcasts-for-2024/"><u>Streamline Your Podcasts for Apple Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-eye-catching-text-in-media-for-2024/"><u>Top 10 Eye-Catching Text in Media for 2024</u></a></li>
+</ul></div>
+

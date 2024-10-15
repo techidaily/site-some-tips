@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Handling Job Interview Q&A: Tips From ZDNet"
-date: 2024-09-18 20:42:56
-updated: 2024-09-20 12:49:41
+date: 2024-10-11T19:46:27.628Z
+updated: 2024-10-15T04:19:26.247Z
 tags:
   - professional-development
 categories:
@@ -37,6 +37,13 @@ Before we get into what questions to ask, it's important to understand why it's 
 
 ## Five questions you should ask in an interview
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. What do you like most about the culture? 
 
 Transitioning from being interviewed to becoming the interviewee can be awkward, but asking a more reflective question can be a great way to ease into the shift in dynamics while helping you learn more about arguably one of the most important aspects of the company: culture. 
@@ -52,6 +59,13 @@ It's important to ask questions, but make sure that you're not asking ones that 
 **Also: [Tech in 2023: Here's what is going to really matter](https://www.zdnet.com/article/tech-in-2023-weve-analysed-the-data-and-heres-whats-really-going-to-matter/)**
 
 According to Dr. Lenaghan, it's important to do an "environmental scan'' to understand what's happening in the industry and what's on the horizon. What implications do these broader changes have on your potential role and work processes?
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Why did you join this company? 
 
@@ -91,6 +105,13 @@ While you should always have a question or two reserved for the end, the followi
 
 Even though this might be a burning question, it's not one you want to ask -- especially if it's an early-round interview or initial screening call. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** In Depth
 
 [Less is more: Why the four-day week is rocking the world of work The working week doesn't work anymore. One big change could be better for everyone.  Read now](https://www.zdnet.com/article/less-is-more-why-the-four-day-week-rocking-the-world-of-work/)
@@ -104,6 +125,13 @@ Asking something that can readily be found on the company website can give the i
 "Ensure that your questions are ones that you couldn't have answered by doing your own research," says Lenaghan. 
 
 If the company website has a mission statement, for example, don't ask what the company stands for or what the company most values. Instead, you could ask how the company upholds its values, while mentioning specific ones, to show that you did your research and you're interested in learning more. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. For initial screenings: What's my compensation?
 
@@ -138,11 +166,26 @@ While asking about pay rates and benefits is important and fair, there is in fac
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-how-to-guide-for-soundless-video-documentation/"><u>[New] How-To Guide for Soundless Video Documentation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>[Updated] Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[Updated] The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>2024 Approved Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>2024 Approved Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-comprehensive-guide-to-high-quality-live-streaming-with-logitech-camera-for-2024/"><u>A Comprehensive Guide to High-Quality Live Streaming with Logitech Camera for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-the-divergent-aspects-of-youtubes-and-dailymentions/"><u>Deciphering the Divergent Aspects of YouTubes & DailyMentions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008422847-expert-tips-to-eliminate-genshin-impacts-error-4201-get-back-into-the-game/"><u>Expert Tips to Eliminate Genshin Impact's Error 4201 – Get Back Into the Game!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-oneplus-nord-ce-3-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your OnePlus Nord CE 3 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-6-plus-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone 6 Plus? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600202279-stellar-data-recovery-windows/"><u>スペシャルオファー！Stellar Data Recovery - 万が一Windowsで失われたデータを安全に取り戻せる無料プログラム</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How to Secure Your Free MacBook Air M3: Uncover the Stealthy Best Buy Promotion!"
-date: 2024-10-07T20:48:11.013Z
-updated: 2024-10-08T17:00:16.985Z
+date: 2024-10-14T03:41:15.707Z
+updated: 2024-10-15T02:38:08.881Z
 tags:
   - apple
 categories:
@@ -44,24 +44,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **_What you'll need:_** An iPhone running iOS 17.2 or newer. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Go to your iPhone Settings
 
 To find the Journal app setting, open your Settings app on your iPhone.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Find Privacy & Security
 
@@ -69,11 +63,25 @@ Scroll down and open Privacy & Security within your Apple device's Settings app.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Tap on Journaling Suggestions
 
 Tap on Journaling Suggestions. Even if this option is disabled, the "Discoverable by Others" setting will be enabled until you disable it.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn off Discoverable by Others
 
@@ -83,25 +91,18 @@ Maria Diaz/ZDNET
 
 ---
 
-## **FAQ**
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## **FAQ**
 
 ## Where is the Journal app on iOS 17?
 
 The Journal app was released in December 2023 along with iOS 17.2\. The app was added to iPhones automatically with the software update, so it should have appeared on your iPhone's home screen around that time. If you can't find Journal, search for the app through your iPhone's list of installed apps. If you deleted it, you can redownload it from the App Store.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the problem with the iPhone Journal app?
 
@@ -116,13 +117,6 @@ However, some people feel uncomfortable about the app tracking who you've been m
 **Also: [iPhone 16 reports: Spatial video and ultra-thin bezels coming to all models](https://www.zdnet.com/article/iphone-16-reports-spatial-video-and-ultra-thin-bezels-coming-to-all-models/)**
 
 The ability to detect nearby devices is meant to improve the experience by providing personalized suggestions based on your activities and interactions. Apple is adamant that this information is saved on the device and not shared with the company, and says it does not store which of your contacts were detected around you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What if I've never used the Journal app?
 
@@ -162,19 +156,14 @@ The "Discoverable by Others" setting does not reveal or share your personal info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unlock-artistic-expression-download-movie-maker-for-win11-enthusiasts/"><u>[New] Unlock Artistic Expression Download Movie Maker for Win11 Enthusiasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-ingenious-animated-texts-top-14-snapshots/"><u>[Updated] Journey Through Ingenious Animated Texts Top 14 Snapshots</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-speedy-instagram-media-consumption-strategies-for-2024/"><u>[Updated] Speedy Instagram Media Consumption Strategies for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-lineup-elite-webcam-holders/"><u>2024 Approved Superior Lineup Elite Webcam Holders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tips-and-tricks-adjusting-the-tempo-of-your-snapchat-videos/"><u>2024 Approved Tips and Tricks Adjusting the Tempo of Your Snapchat Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-snapchats-spotlight-mechanics/"><u>2024 Approved Unlocking Snapchat's Spotlight Mechanics</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elevating-performance-with-a-windows-11-64-bit-upgrade/"><u>Elevating Performance with a Windows 11 (64-Bit) Upgrade</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-gionee-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Gionee Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfecting-the-science-of-converting-speech-to-text-with-google-for-2024/"><u>Perfecting the Science of Converting Speech to Text with Google for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-converting-and-importing-m2tsmts-files-into-imovie-for-easy-video-editing/"><u>Step-by-Step Guide: Converting and Importing M2TS/MTS Files Into iMovie for Easy Video Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-blueprint-to-establishing-an-online-review-community-for-toys-for-2024/"><u>The Blueprint to Establishing an Online Review Community for Toys for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-no-cost-voice-modifier-transform-your-valorant-gameplay-for-2024/"><u>Ultimate No-Cost Voice Modifier Transform Your Valorant Gameplay for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-make-slow-motion-videos-for-instagram/"><u>[New] How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-musicreactionvids10-discovering-2023s-stars/"><u>[Updated] 2024 Approved MusicReactionVids10 Discovering 2023'S Stars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thinkers-arena-premier-gk-quiz-vids/"><u>2024 Approved Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uniting-voices-how-to-speak-with-your-youtube-community/"><u>2024 Approved Uniting Voices How to Speak With Your YouTube Community</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-humor-potential-quickly-kapwings-app/"><u>2024 Approved Unlock Humor Potential Quickly - Kapwing's App</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bugs-a-comprehensive-guide-to-fixing-days-gone-crashes-and-enhancing-playability-in-202cu/"><u>Beat the Bugs: A Comprehensive Guide to Fixing 'Days Gone' Crashes & Enhancing Playability in 202Cu</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/explore-top-real-estate-opportunities-with-cab-properties/"><u>Explore Top Real Estate Opportunities with CAB Properties</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S23+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments-for-2024/"><u>The No-Fuss Guide for Exploring Loved and Trending YouTube Comments for 2024</u></a></li>
 </ul></div>
 

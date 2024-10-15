@@ -1,7 +1,7 @@
 ---
 title: Master the Art of the Tech Job Application with Your Software Engineer's Resume Guide | Insights by ZDNet Experts
-date: 2024-09-17 15:28:33
-updated: 2024-09-20 12:44:20
+date: 2024-10-10T16:28:29.329Z
+updated: 2024-10-14T23:52:40.548Z
 tags:
   - professional-development
 categories:
@@ -84,6 +84,13 @@ Phrases and sentence fragments are acceptable.
 
 If you are new to the field, visit [How to become a software engineer](https://www.zdnet.com/article/how-to-become-software-engineer/) for ways to gain experiences for your resume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skills
 
 The skills section of your software engineer resume should be concise and easy to scan. Try listing relevant skills in bulleted lists. Again, only include skills applicable to the job.
@@ -106,6 +113,13 @@ For our hypothetical Amazon position, the list of your technical skills could in
 
 Avoid listing soft skills. A bulleted list doesn't have space for the context you'll need to prove you have an abstract skill like "self-starter," and an employer is unlikely to trust your self-assessment without that context. Save people skills for your cover letter instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Projects
 
 Now that your resume has grabbed the hiring manager's attention, your projects section should showcase your passion for software engineering and include projects most applicable to the position you want. Include one-line descriptions of a few projects and link to your portfolio for more details.
@@ -127,6 +141,13 @@ You can also include internships you completed while in school and any software 
 If you have the space and additional sections will add depth to your resume, consider including the following.
 
 **Certifications**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Explore
 
@@ -180,6 +201,13 @@ Instead of listing 20 different skills that you might have picked up over time, 
 
 VS: I will want to set up an interview with a candidate when they're describing their prior experience and the impact or complexity is absolutely unambiguous. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### This article was reviewed by Sierra Gawlowski, PE
 
 [Sierra Gawlowski](https://www.linkedin.com/in/sierra-gawlowski/), PE, earned her BS in civil engineering and is a licensed professional engineer in the state of Washington. She has worked for a private engineering consulting firm as well as for public agencies. Sierra enjoys mentoring engineering students and junior staff. She also leads a project team for Engineers Without Borders and currently sits on the board of directors for Kilowatts for Humanity.
@@ -212,11 +240,29 @@ _Last reviewed May 23, 2022._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-apps-for-daily-podcasts/"><u>[New] Top 5 iPhone Apps for Daily Podcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-your-stepwise-approach-to-uploading-youtube-shorts-on-laptop-phone/"><u>[New] Your Stepwise Approach to Uploading YouTube Shorts on Laptop, Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-effective-techniques-for-securely-storing-itunes-videos-for-2024/"><u>[Updated] Effective Techniques for Securely Storing iTunes Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-the-best-ps2-emulation-software-for-android-for-2024/"><u>[Updated] Explore the Best PS2 Emulation Software for Android for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-from-twitter-video-snippets-to-lively-animated-gifs/"><u>[Updated] From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-sonic-union-for-speakers/"><u>[Updated] Unrivaled Sonic Union for Speakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-subtle-iphone-shots-4-essential-techniques-discovered/"><u>2024 Approved The Path to Subtle iPhone Shots 4 Essential Techniques Discovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-3d-typographic-sites/"><u>2024 Approved Ultimate List of 3D Typographic Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-iphones-full-screen-memories/"><u>2024 Approved Utilizing iPhone's Full-Screen Memories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle/"><u>Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-maintain-stable-frame-rates-and-avoid-fps-drops-while-enjoying-f1-2021-on-your-computer/"><u>How to Maintain Stable Frame Rates and Avoid FPS Drops While Enjoying F1 2021 on Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-leveraging-secondary-footage-for-enhanced-storytelling/"><u>In 2024, Leveraging Secondary Footage for Enhanced Storytelling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-optimizing-your-android-experience-with-effective-recordings/"><u>In 2024, Optimizing Your Android Experience with Effective Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette/"><u>In 2024, The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/say-goodbye-to-old-info-a-simple-guide-on-using-stellar-to-clear-your-iphones-memory/"><u>Say Goodbye to Old Info: A Simple Guide on Using Stellar to Clear Your iPhone's Memory</u></a></li>
+</ul></div>
+

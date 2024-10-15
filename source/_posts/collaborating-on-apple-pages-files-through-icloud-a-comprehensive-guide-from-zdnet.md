@@ -1,7 +1,7 @@
 ---
 title: "Collaborating on Apple Pages Files Through iCloud: A Comprehensive Guide From ZDNet"
-date: 2024-10-01T16:57:41.424Z
-updated: 2024-10-08T19:32:28.635Z
+date: 2024-10-09T22:19:28.207Z
+updated: 2024-10-14T20:40:08.157Z
 tags:
   - apple
 categories:
@@ -27,31 +27,11 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
 
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
@@ -65,6 +45,13 @@ Open System Preferences by clicking the Apple button in the top left corner of y
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Pages for iCloud Drive
 
 In the next window (**Figure 2**), click the check box for Pages and then click Done. Close System Preferences.
@@ -72,6 +59,13 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 **Figure 2**: Enabling Pages for iCloud Drive collaboration.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enable the Collaboration feature
 
@@ -83,6 +77,13 @@ The first thing you must do is open the Pages document that will be shared with 
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Enable the Collaborate feature
 
 Click Collaborate and you'll be informed the document must be moved to iCloud before you can collaborate (**Figure 4**).
@@ -90,13 +91,6 @@ Click Collaborate and you'll be informed the document must be moved to iCloud be
 **Figure 4**: You cannot collaborate on a document until it's been moved to iCloud.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Enable Track Changes
 
@@ -117,10 +111,10 @@ Make sure to configure both the Who Can Access and Permission options. Here, you
 Depending on the sharing method you choose, you'll either open Apple Mail, Messages, AirDrop, or Twitter, or you'll copy the link to the file to your clipboard. Make your selection and click Share, at which point the document will be activated for sharing. Whoever is the recipient of the link will then be able to access the file either from within iCloud (if Pages isn't available on their OS) or directly from within Apple Pages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop sharing
@@ -163,18 +157,19 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twittersphere-wave-identifying-the-days-viral-video-threads/"><u>[New] 2024 Approved Twittersphere Wave Identifying the Day's Viral Video Threads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-your-screens-youtube-video-resizing-tricks/"><u>[New] Streamline Your Screens YouTube Video Resizing Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-handbook-to-drone-video-editing/"><u>[New] The Ultimate Handbook to Drone Video Editing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-10-undiscovered-memelists-on-facebook-for-2024/"><u>[New] Top 10 Undiscovered Memelists on Facebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>[New] Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-complete-azure-guide-to-speech-to-text-integration/"><u>[Updated] The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-content-effortless-download-of-youtube-video-for-ios-for-2024/"><u>[Updated] Unleashing Content Effortless Download of Youtube Video for iOS for 2024</u></a></li>
-<li><a href="https://win-unique.techidaily.com/free-full-stack-creation-with-vue-and-laravel-integrating-json-api-in-a-complete-material-dashboard-by-creative-tim/"><u>Free Full-Stack Creation with Vue and Laravel: Integrating JSON API in a Complete Material Dashboard by Creative Tim</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oneplus-12-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from OnePlus 12</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-aural-tapestry-weaving-sounds-into-cinematic-threads/"><u>In 2024, Aural Tapestry Weaving Sounds Into Cinematic Threads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-twirl-forge-instruments/"><u>In 2024, Twirl Forge Instruments</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-hassle-free-handbook-to-addressing-your-hazki-car-problems/"><u>The Hassle-Free Handbook to Addressing Your Hazki Car Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-layers-of-a-great-humorous-poster-for-2024/"><u>The Layers of a Great Humorous Poster for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-facebook-blue-verification-a-step-by-step-guide-for-2024/"><u>[New] Unlocking Facebook Blue Verification A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/airpods-latest-version-launch-timeline-and-preorder-guide-exclusive-tips/"><u>AirPods Latest Version Launch Timeline & Preorder Guide – Exclusive Tips</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/automatisches-robocopy-inkrementelles-datensicherung-nach-vorgegebener-uhrzeit-einfache-schritt-fur-schritt-anleitung/"><u>Automatisches Robocopy-Inkrementelles Datensicherung Nach Vorgegebener Uhrzeit - Einfache Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/capturing-desktop-activity-a-guide-to-screen-recording-with-audio-on-windows-systems/"><u>Capturing Desktop Activity: A Guide to Screen Recording With Audio on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/combine-multiple-videos-into-one-with-our-no-cost-online-video-editor/"><u>Combine Multiple Videos Into One with Our No-Cost Online Video Editor</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-biggest-fifa-footage-trends-in-graphics/"><u>Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-aesthetic-transformations-the-best-windows-11-themes-for-tech-savvy-users/"><u>Free Aesthetic Transformations: The Best Windows 11 Themes for Tech Savvy Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-online-bunches-of-premium-quality-vector-icons/"><u>In 2024, Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-bring-your-clips-to-life-a-compreenased-way-to-post-on-youtube/"><u>In 2024, Bring Your Clips to Life A Compreenased Way to Post on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>In 2024, How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/los-mas-eficaces-conectores-de-video-para-windows-11-un-ranking-con-los-7-mejores-opciones/"><u>Los Más Eficaces Conectores De Video Para Windows 11: Un Ranking Con Los 7 Mejores Opciones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gif-to-webm-upgrade-convert-your-animations-cost-free-using-top-seo-optimized-solutions/"><u>Online GIF to WebM Upgrade: Convert Your Animations Cost-Free Using Top SEO-Optimized Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-i-file-rmvb-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma I File RMVB in MP4 Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ogg-ogv-movavi/"><u>オンラインで簡単! Ogg, Ogvファイルを無料変換 - Movavi</u></a></li>
 </ul></div>
 

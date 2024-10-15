@@ -1,7 +1,7 @@
 ---
 title: Why Tech Giants Are Rethinking Candidate Screening - The End of the CV Era
-date: 2024-09-17 21:21:43
-updated: 2024-09-20 11:49:45
+date: 2024-10-07T22:15:01.351Z
+updated: 2024-10-15T06:13:23.481Z
 tags:
   - professional-development
 categories:
@@ -52,6 +52,13 @@ Four in ten (40%) recruiters polled said they regularly hire developers who don'
 
 Shifting the focus from resumes to skills also gives an opportunity for those with [non-standard job backgrounds to get into tech](https://www.zdnet.com/article/developer-jobs-when-it-comes-to-building-diverse-teams-employers-are-still-missing-the-mark/), says Richardson: "Which we need, frankly. There's such a mismatch between demand for developers or development skills and the supply of engineering graduates. Our forecasts are that the need for developers is going to grow about 15% year over year. It's crazy."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Not dead yet
 
 While CoderPad's research indicates skills-based hiring is becoming more popular, there remains a strong demand for CVs in the hiring process.
@@ -97,11 +104,26 @@ At the same time, the blame for poor hiring decisions usually lands at the feet 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-time-lapse-wizardry-harnessing-gopros-potential/"><u>[New] Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-velvet-vaults-2022-olympic-skaters/"><u>[New] Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-secrets-to-successful-youtube-filmmaking-with-pc-editing-software/"><u>[Updated] Secrets to Successful YouTube Filmmaking with PC Editing Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-methods-for-rolling-macos-sierra-back-to-el-capitan/"><u>2024 Approved Methods for Rolling MacOS Sierra Back to El Capitan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-macos-tutorials-for-editing-srt-files/"><u>2024 Approved Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>2024 Approved Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726222224576-rmvb-mp4-movavi/"><u>網路直接 RMVB 到 MP4 自由下載 - 使用 Movavi 流式音像編解碼</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-5-pro-audio-techniques-for-windows-10-users/"><u>In 2024, 5 Pro Audio Techniques for Windows 10 Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/leveraging-wirecast-for-high-impact-engaging-social-media-streams/"><u>Leveraging Wirecast for High Impact, Engaging Social Media Streams</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/lossless-dvd-copying-solutions-on-windows-11-a-guide-for-efficient-backups/"><u>Lossless DVD Copying Solutions on Windows 11: A Guide for Efficient Backups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-get-your-stubbornly-closed-epic-games-launcher-running-again/"><u>Troubleshooting Steps: Get Your Stubbornly Closed Epic Games Launcher Running Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-periscopes-mystique-is-it-free-and-how-to-signup-in-2024/"><u>Unraveling Periscope's Mystique Is It Free and How to Signup, In 2024</u></a></li>
+</ul></div>
+
