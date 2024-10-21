@@ -1,7 +1,7 @@
 ---
 title: Discover Leviton's Latest Innovations in Smart Living with the Premier Launch of Their Matter Outdoor Plug – Insights From ZDNET
-date: 2024-09-18 12:29:44
-updated: 2024-09-20 12:57:46
+date: 2024-10-18T18:09:25.244Z
+updated: 2024-10-20T16:18:02.927Z
 tags:
   - energy
 categories:
@@ -43,11 +43,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-transform-your-audience-engagement-with-ultimate-youtube-banner-guide/"><u>[New] In 2024, Transform Your Audience Engagement with Ultimate YouTube Banner Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-series-top-tier-webcam-grips/"><u>[New] Ultimate Series Top-Tier Webcam Grips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-audio-content-with-googles-tools/"><u>[Updated] Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiny-tale-telling-framework/"><u>[Updated] Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-filmoras-pathway-to-convert-video-avi-files-into-image-gif/"><u>2024 Approved Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-grandest-gatherings-a-chronicle-of-the-most-voted-posts-top-10/"><u>2024 Approved The Grandest Gatherings A Chronicle of the Most Voted Posts (Top 10)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortlessly-change-your-podcasts-from-m4b-to-m4a-format-using-movavis-no-cost-solution/"><u>Effortlessly Change Your Podcasts From M4B to M4A Format Using Movavi's No-Cost Solution</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-screencast-wisdom-key-facts-and-strategies-for-2024/"><u>Expert Screencast Wisdom Key Facts and Strategies for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-color-grading-utilizing-luts-in-ae/"><u>In 2024, The Art of Color Grading Utilizing LUTs in AE</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-configuring-parent-friendly-settings-in-windows-11/"><u>Ultimate Guide: Configuring Parent-Friendly Settings in Windows 11</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

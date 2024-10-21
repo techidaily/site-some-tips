@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reviews Jabra Elite 5: An Ideal Mix of Affordability & Performance"
-date: 2024-09-18 11:40:58
-updated: 2024-09-20 12:28:46
+date: 2024-10-13T18:10:59.222Z
+updated: 2024-10-20T17:27:04.189Z
 tags:
   - google
 categories:
@@ -48,6 +48,13 @@ After figuring out what your top price level is for a set, dive into some of the
 | Wireless connectivity | Bluetooth multipoint with Google Fast Pair, Microsoft Swift Pair |
 | Earbud weight         | TBD                                                              |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Hardware
 
 * **Secure charging case**
@@ -74,6 +81,13 @@ A large physical button is positioned on the outside surface of the Elite 5 and 
 
 **Also: [Jabra Elite 3 review: Forget AirPods, these $80 earbuds offer more for less](https://www.zdnet.com/product/jabra-elite-3-true-wireless-earphones-with-mic/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Smartphone software
 
 * **Needed for full experience**
@@ -96,6 +110,13 @@ Matthew Miller/ZDNet
 
 [Early-bird offer: Jabra Elite 5 $130 at Jabra](https://www.jdoqocy.com/click-9041660-15459428-1676571532000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 The [Jabra Elite 7 Pro](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.jabra.com/bluetooth-headsets/jabra-elite-7-pro) received a software update to address a couple of the issues I had before with that model and I also see the price for them is currently down to $129.99, a $70 reduction. The Elite 7 Pro fit a bit differently than the Elite 5 and while they are good for my ears, I prefer the fit of the Elite 5\. The 7 Pro provides a bit longer battery life and are optimized for calling.
@@ -103,6 +124,13 @@ The [Jabra Elite 7 Pro](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-
 At $149.99 (currently [marked down to $130](https://www.kqzyfj.com/click-9041660-15415754-1671657513000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)), the Elite 5 is a solid earbud as long as you are not looking for a powerful and noticeable active noise-cancellation experience. While ANC is subtle, I listened to music and podcasts on a recent flight and the annoying airplane background noises were canceled out fairly well. In a quiet environment I did not notice much ANC, but then again some people may prefer not to have such strong ANC in their ears.
 
 Battery life over the past couple of weeks has been as advertised, I love the Gold Beige color, the earbuds snap securely into the case, charging via a cable or wireless charging pad is great, music and movies have sounded awesome, and callers have been very satisfied with my audio quality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -135,11 +163,31 @@ There are a few Jabra options available, including the Elite 7 Pro and Elite 3, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>[New] Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-blizzard-brilliance-olympic-peaks-in-beijing/"><u>[Updated] Blizzard Brilliance Olympic Peaks in Beijing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-video-selfie-verfication-is-it-really-useful-in-2024/"><u>[Updated] Instagram Video Selfie Verfication - Is It Really Useful, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-roadmap-to-youtube-fame-accruing-more-subscribers/"><u>[Updated] The Roadmap to YouTube Fame Accruing More Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-role-of-supplemental-imagery-in-storytelling/"><u>[Updated] The Role of Supplemental Imagery in Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-top-7-floodproof-video-cameras-guide/"><u>Essential Top 7 Floodproof Video Cameras Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Huawei P60?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>In 2024, The Art of Plating on Camera Food Video Production Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-writing-impressive-podcast-summaries/"><u>In 2024, The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-converting-speech-to-text-with-google-docs-for-2024/"><u>Mastering the Art of Converting Speech to Text with Google Docs for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/pro-tips-for-pioneering-board-use-in-webinars-android-iphone-and-windows-users/"><u>Pro Tips for Pioneering Board Use in Webinars Android, iPhone & Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt-for-2024/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-removing-persistent-folders-in-windows-1011-with-revo-uninstaller/"><u>Ultimate Guide: Removing Persistent Folders in Windows 10/11 with Revo Uninstaller</u></a></li>
+</ul></div>
+

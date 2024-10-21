@@ -1,7 +1,7 @@
 ---
 title: Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Victor – Detailed Analysis by ZDNet
-date: 2024-09-19 23:26:33
-updated: 2024-09-20 10:11:54
+date: 2024-10-13T16:56:06.065Z
+updated: 2024-10-20T16:15:53.233Z
 tags:
   - google
 categories:
@@ -71,6 +71,13 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 
 I would prefer the iPhone shot for this particular image but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A clear winner in night time
 
 1x indoor with artificial lights
@@ -97,6 +104,13 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro XL gets good at selfies
 
 Zoomed out selfies
@@ -106,6 +120,13 @@ Prakhar Khanna/ZDNET
 I like the selfie shooter on the iPhone 15 Pro and have found it better than Android phones. But it tends to blow out highlights sometimes. I didn't find that to be an issue on the Pixel 9 Pro. The above two selfies were taken in zoomed-out mode to check for the edge distortion (none) and FoV. 
 
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
 
@@ -140,11 +161,29 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers-for-2024/"><u>[Updated] Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-symphonic-syncopation-perfecting-audio-transitions/"><u>[Updated] Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[Updated] Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-submission-a-podcasters-guide/"><u>2024 Approved Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoid-the-missing-dll-dilemma-quick-fixes-for-python24dll-problems/"><u>Avoid the Missing DLL Dilemma: Quick Fixes for Python24.dll Problems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/bridging-the-gap-in-corrupted-video-recovery/"><u>Bridging the Gap in Corrupted Video Recovery</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-photojournalism-gopro-time-lapse-basics/"><u>Elevating Photojournalism GoPro Time-Lapse Basics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/game-of-thrones-ringtones-premier-download-websites-ranked/"><u>Game of Thrones Ringtones Premier Download Websites Ranked</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-13-pro-max-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 13 Pro Max SIM Lock?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-s24-ultra-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy S24 Ultra? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-update-pitfalls-0x30017/"><u>Navigating Through Windows Update Pitfalls (0X30017)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-magic-behind-luts-crafting-captivating-photos-for-2024/"><u>The Magic Behind LUTs Crafting Captivating Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-twitch-loophole-reviving-forgotten-chats-for-2024/"><u>The Twitch Loophole Reviving Forgotten Chats for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tutorial-comment-convertir-des-fichiers-m4a-en-m4v-gratuits-sur-internet-via-movavi/"><u>Tutorial - Comment Convertir Des Fichiers M4A en M4V Gratuits Sur Internet via Movavi</u></a></li>
+</ul></div>
+

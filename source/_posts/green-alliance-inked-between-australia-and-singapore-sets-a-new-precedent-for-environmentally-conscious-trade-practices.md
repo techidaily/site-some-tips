@@ -1,7 +1,7 @@
 ---
 title: Green Alliance Inked Between Australia & Singapore Sets a New Precedent for Environmentally Conscious Trade Practices
-date: 2024-09-18 15:31:55
-updated: 2024-09-20 12:56:54
+date: 2024-10-13T16:00:00.814Z
+updated: 2024-10-20T18:45:56.794Z
 tags:
   - energy
 categories:
@@ -43,11 +43,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-gastronomic-glamour-top-7-ingredients-for-stunning-cooking-videos/"><u>[Updated] In 2024, Gastronomic Glamour Top 7 Ingredients for Stunning Cooking Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-gaze-field-vr-device-overview/"><u>[Updated] Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-on-how-to-erase-your-tiktok-profile/"><u>Easy Instructions on How to Erase Your TikTok Profile</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-8-plus-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-motorola-moto-g-stylus-5g-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-studio-techniques-decoded-xvideostudio-edition/"><u>In 2024, Studio Techniques Decoded XVideoStudio Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unified-imagery-the-ultimate-blend-strategy/"><u>In 2024, Unified Imagery The Ultimate Blend Strategy</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721412760366-iphone-users-reset-your-chatgpt-experience/"><u>IPhone Users, Reset Your ChatGPT Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/maximizing-streaming-experience-with-two-screen-viewing-on-netflix/"><u>Maximizing Streaming Experience with Two-Screen Viewing on Netflix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-90-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor 90 and Browser | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-3d-typographic-sites-for-2024/"><u>Ultimate List of 3D Typographic Sites for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-a34-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy A34 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

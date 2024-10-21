@@ -1,7 +1,7 @@
 ---
 title: The Material's Compatibility with the Fluid Being Transported Is Crucial; Incompatible Materials Can Lead to Corrosion or Contamination.
-date: 2024-10-14T10:18:20.552Z
-updated: 2024-10-14T22:21:26.133Z
+date: 2024-10-17T20:51:09.845Z
+updated: 2024-10-20T22:06:47.699Z
 tags:
   - apple
 categories:
@@ -44,15 +44,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -63,13 +70,6 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -77,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -90,10 +90,10 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -130,19 +130,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-friends-sharing-seeking-complete-viewability-via-smschat-services/"><u>[New] 2024 Approved Friends’ Sharing Seeking Complete Viewability via SMS/Chat Services</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>[New] In 2024, From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>[New] In 2024, Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-vrecorder-a-download-and-install-journey/"><u>[New] Mastering VRecorder A Download & Install Journey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-pros-guide-to-srt-alterations-on-a-macbook/"><u>[New] The Pro's Guide to SRT Alterations on a MacBook</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-rebooting-your-windows-photo-viewer-two-procedures-for-w10-for-2024/"><u>[Updated] Rebooting Your Windows Photo Viewer Two Procedures for W10 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[Updated] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-hardware-encoder-and-equipment-you-should-know/"><u>[Updated] Top Live Streaming Hardware Encoder and Equipment You Should Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-play-8t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Play 8T</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-infinix-note-30-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Infinix Note 30 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-spectrum-of-perfection-creating-stunning-hdrs-in-lightroom/"><u>In 2024, The Spectrum of Perfection Creating Stunning HDRs in Lightroom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-of-your-films-with-final-cut-pro/"><u>In 2024, Unlock the Potential of Your Films with Final Cut Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-virtual-evolution-dichotomy-metaverse-and-omniverse-compared-for-2024/"><u>The Virtual Evolution Dichotomy Metaverse & Omniverse Compared for 2024</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-infinix-note-30-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Infinix Note 30</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-potential-androidandioss-top-free-overlay-tools-guide/"><u>[New] Unlock Potential Android&iOS's Top Free Overlay Tools Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-compre-points-with-perfect-pictures-snap-techniques-for-teams/"><u>[Updated] In 2024, Compre Points with Perfect Pictures Snap Techniques for Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-editing-workflow-with-final-cut-pro-tips/"><u>[Updated] Streamlining Your Editing Workflow with Final Cut Pro Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-taking-flight-to-better-photos-an-intensive-look-at-dji-sparks-miniature-design/"><u>[Updated] Taking Flight to Better Photos An Intensive Look at DJI Spark's Miniature Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[Updated] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>2024 Approved Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-media-player-through-subtitles/"><u>2024 Approved Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>2024 Approved Voicing Freedom How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/common-frustrations-shared-by-users-after-upgrading-to-ios-18-a-deep-dive-on-lessons-learned/"><u>Common Frustrations Shared by Users After Upgrading to iOS 18 - A Deep Dive on Lessons Learned</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-securely-download-nvidia-drivers-for-multiple-windows-oses-win10win7win8-guide/"><u>How to Securely Download Nvidia Drivers for Multiple Windows OSes: Win10/Win7/Win8 Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-cloud-voice-editors-for-chrome-os-transforming-your-tone-and-pitch/"><u>In 2024, Top 5 Cloud Voice Editors for Chrome OS Transforming Your Tone and Pitch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-dialogue-engine-anticipated-traits-of-gpt-5/"><u>Revolutionary Dialogue Engine: Anticipated Traits of GPT-5</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/seamless-streams-addressing-instagrams-video-snags-for-2024/"><u>Seamless Streams Addressing Instagram's Video Snags for 2024</u></a></li>
 </ul></div>
 

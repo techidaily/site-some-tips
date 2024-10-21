@@ -1,7 +1,7 @@
 ---
 title: "Mastering Gmail Organization: Tips for Optimizing Your Label Use - Insights From ZDNet"
-date: 2024-09-17 15:59:38
-updated: 2024-09-20 12:27:32
+date: 2024-10-17T17:56:26.019Z
+updated: 2024-10-20T18:51:34.048Z
 tags:
   - google
 categories:
@@ -36,6 +36,13 @@ I hadn't touched labels in some time. They were working as expected and it had b
 
 How do you find out this information? Let me show you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open Settings
 
 Log in to Gmail and click the gear icon in the top right corner. From the pop-up menu (**Figure 1**), click See All Settings.
@@ -61,9 +68,23 @@ After deleting (or hiding) all of the unwanted labels, you can close out the Set
 
 For me, it was all about starting from square one. To that end, I culled nearly all of the labels associated with my account (minus the System Labels, which you can't delete). With that clean slate, I could then go back and create only the labels I needed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Locate a target message
 
 To create a label, locate an email in your inbox that will be associated with that label. Say, for example, you receive a daily email from your team manager. Locate one of those messages in your inbox.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Create a new label based on that message
 
@@ -78,6 +99,13 @@ In the resulting pop-up, click Create New (**Figure 4**).
 You can select from a current label or create a new one.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Name and next your label
 
@@ -132,11 +160,26 @@ And that, my dear Gmail-using friends, is how you can better manage the labels i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-rise-of-remote-therapeutic-platforms/"><u>[New] The Rise of Remote Therapeutic Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>[New] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-essential-guide-to-video-spinning-in-vlc-media-player/"><u>[Updated] In 2024, The Essential Guide to Video Spinning in VLC Media Player</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-sony-a6400-screen-blackout-mystery-for-2024/"><u>[Updated] Sony A6400 Screen Blackout Mystery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zoom-features-on-windows-11-pcs/"><u>[Updated] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-add-a-streamline-of-youtube-playlists-on-your-website/"><u>2024 Approved How to Add a Streamline of YouTube Playlists on Your Website</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>2024 Approved The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-tutorial-setting-up-hp-zbook-15-g3-drivers-in-windows/"><u>Complete Tutorial: Setting up HP ZBook 15 G3 Drivers in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-social-media-sites-the-powerhouses-facebook-twitter-insta-youtube/"><u>Exploring Top Social Media Sites: The Powerhouses - Facebook, Twitter, Insta, Youtube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-gt-5-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme GT 5 Pro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-best-video-software-vlc-against-mx-for-2024/"><u>Unveiling Best Video Software VLC Against MX for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-budget-friendly-excellent-webm-viewers/"><u>Your Ultimate Guide to Budget-Friendly, Excellent WebM Viewers</u></a></li>
+</ul></div>
+

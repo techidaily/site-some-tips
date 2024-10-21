@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Your Workflow with Apple's Latest: A Head-to-Head of the M3 Vs. M1 MacBook Pro | Wired Gadget Review"
-date: 2024-10-08T17:29:03.439Z
-updated: 2024-10-15T02:51:36.113Z
+date: 2024-10-13T22:15:41.541Z
+updated: 2024-10-20T21:00:40.394Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,16 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -77,10 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -121,19 +121,19 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[New] 2024 Approved Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>[New] Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-best-practices-in-confirming-your-youtube-access-for-2024/"><u>[Updated] Best Practices in Confirming Your YouTube Access for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-essential-streamers-for-remote-church-attendance/"><u>[Updated] In 2024, Essential Streamers for Remote Church Attendance</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-angle-arsenal-samsung-vs-lg-comparison/"><u>[Updated] The Ultimate Angle Arsenal Samsung Vs LG Comparison</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726222746499-movavi/"><u>網路直通無需付錢，改變音源格式：MOVAVI 自由型編排</u></a></li>
-<li><a href="https://some-tips.techidaily.com/a-csata-megallo-az-on-mikroszamara-top-20-kiktatasokkal-gyujtott-el-pc-programokba-es-telefonokba-2024/"><u>A Csata Megálló Az Ön Mikroszámára: Top 20 Kiktatásokkal Gyújtott El PC-Programokba És Telefonokba, 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-conversion-easily-change-ppm-documents-with-movavi/"><u>Free Online Conversion: Easily Change PPM Documents with Movavi</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-instagrams-video-time-policy/"><u>In 2024, Navigating Instagram's Video Time Policy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavii-tod-mov/"><u>MOVAvii 無限制網路上的還原服務 - 免費 TOD 到 MOV 格式轉換</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tailored-canon-printer-drivers-for-your-windows-11-devices/"><u>Tailored Canon Printer Drivers for Your Windows 11 Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-att-andra-storleken-pa-videofilmer-i-windows-och-mac-os-en-lattlastande-resa-till-guide/"><u>Tips För Att Ändra Storleken På Videofilmer I Windows Och Mac OS - en Lättlästande Resa Till Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/vegas-promp4movavi/"><u>VEGAS Proを使ってMP4/MOV/AVIフォーマットの動画が正しく表示されるようにする方法</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wmvmp3-movavi/"><u>제공된 온라인 WMV/MP3 크리에이션 - Movavi의 무료 기회</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recorders-unite-compete-in-2024/"><u>[New] Recorders Unite, Compete, In 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-cloud-pricing-models-and-savings-strategies/"><u>[New] Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-corporate-emblems-from-available-graphic-samples/"><u>2024 Approved Craft Corporate Emblems From Available Graphic Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>2024 Approved Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-to-end-windows-10s-unstable-photo-viewing/"><u>2024 Approved Swift Strategies to End Windows 10'S Unstable Photo Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-efficient-zoom-meeting-arrangements-on-android/"><u>2024 Approved Tips for Efficient Zoom Meeting Arrangements on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-typography-in-after-effects/"><u>2024 Approved Transformative Typography in After Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calm-tales-on-screen-analyzing-parent-child-bedtime-videos-for-2024/"><u>Calm Tales on Screen Analyzing Parent-Child Bedtime Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>In 2024, Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photobooth-frustration-unfreezing-video-playback-for-2024/"><u>Photobooth Frustration Unfreezing Video Playback for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/speeding-past-stalls-proven-techniques-to-bypass-a-frozen-start-in-forza-horizon-groove/"><u>Speeding Past Stalls: Proven Techniques to Bypass a Frozen Start in Forza Horizon Groove</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-tutorial-how-to-move-all-your-songs-from-computer-to-iphones-using-a-simple-usb-connection/"><u>Step-by-Step Tutorial: How to Move All Your Songs From Computer to iPhones Using a Simple USB Connection</u></a></li>
 </ul></div>
 

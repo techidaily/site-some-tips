@@ -1,7 +1,7 @@
 ---
 title: "Get the High-End Features of Flagships for $350 Less: Limited Sale on Motorola Phone with Inbuilt Stylus and Extra Storage Space - ZDNET's Exclusive Deal!"
-date: 2024-09-17 18:15:24
-updated: 2024-09-20 10:41:38
+date: 2024-10-15T16:19:47.417Z
+updated: 2024-10-20T22:47:45.152Z
 tags:
   - google
 categories:
@@ -18,6 +18,13 @@ Matthew Miller/ZDNET
 ### What's the deal?
 
 The [Moto G Stylus 5G (2024)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is down to $349 during Labor Day week, a $50 discount on an already affordable handset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,6 +82,13 @@ A 50MP main and 13MP ultra-wide camera are positioned on the back of the phone. 
 
 While the camera hardware is not as powerful as [flagship phones](https://www.zdnet.com/article/best-phone/), Motorola provides excellent software tools that help you capture great photos and be creative with little effort. Still, I've enjoyed using the Motorola camera, especially when capturing quick shots during the daytime. The 50MP camera system should serve most people just fine. At this price point, you really can't complain.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 I started using personal digital assistant (PDA) devices that all had a stylus in 1997, and I am still a fan of using such an accessory that provides precision inputs and on-device handwriting. The [Moto G Stylus 5G](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is an affordable option for stylus lovers while also serving as a very capable Android phone. The Motorola user interface remains one of my favorites since it is optimized for efficient use and doesn't rely as heavily on AI to help you get things done.
@@ -100,11 +114,33 @@ I started using personal digital assistant (PDA) devices that all had a stylus i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-innovative-methods-blurring-the-line-between-work-and-distractions/"><u>[New] In 2024, Innovative Methods Blurring the Line Between Work and Distractions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-humor-image-creator/"><u>[New] Ultimate Humor Image Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-the-practical-benefits-of-photo-stability-features/"><u>[New] Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-using-srt-audio-on-windows-and-macos-devices/"><u>[New] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-best-idevice-custom-alerts/"><u>[Updated] Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-effortless-video-integration-into-instagram-feed/"><u>2024 Approved Effortless Video Integration Into Instagram Feed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-learning-photography-on-the-go-the-lunapic-approach/"><u>2024 Approved Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/connecting-methods-for-bluetooth-samsung-buds-and-laptops-made-simple/"><u>Connecting Methods for Bluetooth Samsung Buds and Laptops Made Simple</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/gamers-top-picks-1-ranked-4k-laptops/"><u>Gamers' Top Picks #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-asus-rog-phone-7-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Asus ROG Phone 7 Device SIM</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>In 2024, Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-handbook-for-instagram-reels/"><u>In 2024, The Essential Handbook for Instagram Reels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-video-conferencing-with-ease-on-your-win10-pc-for-2024/"><u>Navigating Video Conferencing with Ease on Your Win10 PC for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-integrating-disneyplus-into-your-chromecast-experience/"><u>Step-by-Step Instructions on Integrating Disney+ Into Your Chromecast Experience</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-spark-10-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Spark 10 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-quality-video-uplift-immaculate-resolution-for-2024/"><u>Top Quality Video Uplift Immaculate Resolution for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-srt-editing-techniques-for-apple-devices-for-2024/"><u>Transformative SRT Editing Techniques for Apple Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
+</ul></div>
+

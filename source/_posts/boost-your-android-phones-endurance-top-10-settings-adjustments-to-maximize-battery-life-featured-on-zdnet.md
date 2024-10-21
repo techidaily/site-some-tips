@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Android Phone's Endurance: Top 10 Settings Adjustments to Maximize Battery Life, Featured on ZDNET"
-date: 2024-09-19 18:10:33
-updated: 2024-09-20 10:46:36
+date: 2024-10-19T21:11:34.148Z
+updated: 2024-10-20T23:23:24.417Z
 tags:
   - google
 categories:
@@ -39,6 +39,13 @@ There's a handy feature built into Android called Adaptive Battery, and it's ava
 
 **How to**: Go to Settings > Battery > Adaptive preferences and check to ensure "Adaptive battery" is enabled. If it's not, flick it on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Switch to dark mode
 
 Kerry Wan/ZDNET
@@ -55,6 +62,13 @@ It's common knowledge that cranking down your display's brightness can help save
 
 **How to**: Swipe down once or twice from the top of your phone's display to visit the quick settings menu. You'll see a slider with a picture of a sun or other source of light next to it. Drag the slider to the left to decrease your brightness. To reduce the time it takes for your phone to sleep, go to Settings > Display and change "Screen timeout" to anything below a minute.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Remove unused accounts
 
 Kerry Wan/ZDNET
@@ -65,11 +79,25 @@ We've all done this at some point in our lives: you set up a new account for a s
 
 **How to**: Go to the Settings app and find the accounts section (on Samsung phones it's called "Accounts and backup", while Pixel phones use "Passwords & accounts"). You'll find a list of all the accounts synced to your phone. Tap on one of them and scroll down to the "Remove account" button. Tap it and the account will disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn off keyboard sounds and haptics
 
 If you're using your phone, chances are you're typing on the keyboard pretty often, whether to post to social media or respond to your friend's messages. If you have sound and haptic feedback enabled, your battery may suffer because your phone needs to make a series of vibrations and noises every time you tap a letter. Hearing and feeling the keyboard as you type is a nice experience, but it's not ideal if you want to eke out some extra juice from a full charge.
 
 **How to**: Open the Settings app and locate "Language and input." This section is where your keyboard settings live. Find the section where you get to choose your default keyboard, then tap the gear icon next to it to manage settings. If you're a Gboard user (like most people), you'll then go to Preferences > Key press and disable "Sound on keypress" and "Haptic feedback on keypress."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reduce your notifications
 
@@ -138,11 +166,31 @@ I didn't include this feature in the primary list because, well, it's an obvious
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-innovative-iphone-macro-tactics-for-professional-results/"><u>[New] In 2024, Innovative iPhone Macro Tactics for Professional Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-guide-to-legally-sharing-music-on-instagram/"><u>[New] The Comprehensive Guide to Legally Sharing Music on Instagram</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-economical-entrance-to-youtube-ecosystem-affiliate-assistance-for-small-sets/"><u>[Updated] In 2024, Economical Entrance to YouTube Ecosystem Affiliate Assistance for Small Sets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lgs-monitor-revolution-the-complete-examination-of-a-4k-screen/"><u>[Updated] LG's Monitor Revolution The Complete Examination of a 4K Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-rhythm-and-film-imovie-for-music-videos/"><u>[Updated] Rhythm & Film IMovie for Music Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-fine-tuning-snapchat-video-velocity/"><u>[Updated] The Ultimate Guide Fine-Tuning Snapchat Video Velocity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-8-android-fixes-for-time-lags-in-videos/"><u>[Updated] Top 8 Android Fixes for Time-Lags in Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-to-amplify-gopro-battery-duration/"><u>2024 Approved Techniques to Amplify GoPro Battery Duration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vegas-pro-21-a-comprehenive-examination-for-gamblers-and-techies-alike/"><u>2024 Approved Vegas Pro '21 A Comprehenive Examination for Gamblers and Techies Alike</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expand-and-contract-your-view-zooming-techniques-for-iphonesipads/"><u>Expand & Contract Your View: Zooming Techniques for iPhones/iPads</u></a></li>
+<li><a href="https://facebook.techidaily.com/express-yourself-online-using-your-avatar-in-facebook-covers/"><u>Express Yourself Online: Using Your Avatar in Facebook Covers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-reno-8t-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Reno 8T 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-htc-u23-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On HTC U23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprehensive-blueprint-to-powerdirectors-full-potential/"><u>In 2024, The Comprehensive Blueprint to PowerDirector's Full Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-online-tips-creating-title-magic/"><u>In 2024, Top Online Tips Creating Title Magic</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monetizing-content-how-much-adsense-pays-you-per-thousand-video-hits-for-2024/"><u>Monetizing Content How Much AdSense Pays You Per Thousand Video Hits for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-collection-of-gopro-complements-for-2024/"><u>The Prime Collection of GoPro Complements for 2024</u></a></li>
+</ul></div>
+

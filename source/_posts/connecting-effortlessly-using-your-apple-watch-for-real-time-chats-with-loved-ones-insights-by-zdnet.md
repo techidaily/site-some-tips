@@ -1,7 +1,7 @@
 ---
 title: "Connecting Effortlessly: Using Your Apple Watch for Real-Time Chats with Loved Ones - Insights by ZDNet"
-date: 2024-10-09T23:25:28.909Z
-updated: 2024-10-15T04:59:21.748Z
+date: 2024-10-15T23:37:00.401Z
+updated: 2024-10-20T18:25:20.291Z
 tags:
   - apple
 categories:
@@ -30,6 +30,19 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -40,6 +53,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -47,16 +67,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -76,10 +90,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. View the actual Check in alert
@@ -87,13 +101,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -118,13 +125,6 @@ Next, tap the link for "Add a Destination." Start typing the address of the dest
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
 
@@ -168,21 +168,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-tips-to-improve-zooms-facebook-live-functionality/"><u>[New] In 2024, Tips to Improve Zoom's Facebook Live Functionality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-premier-chromebook-monitoring-app/"><u>[Updated] In 2024, Premier Chromebook Monitoring App</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/windows-9/"><u>迅速解決 Windows 中 '系統無法找到指定文件' 錯誤：9 個有效方法</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-xs-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone XS How to Bypass?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-haven-in-photo-editing-with-lunapic/"><u>In 2024, Beginner's Haven in Photo Editing with LunaPic</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-celestial-sound-shift-exploring-the-features-user-manuals-and-alternatives-for-star-voice-transformation/"><u>In 2024, Celestial Sound Shift Exploring the Features, User Manuals & Alternatives for Star Voice Transformation</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>In 2024, Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-power-streamlining-eucon-workflows-with-smart-ocr-solutions/"><u>Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-efficient-user-tracking-and-conversion-optimization/"><u>Leveraging Cookiebot Technology for Efficient User Tracking and Conversion Optimization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mobile-scanning-and-converting-documents-to-text-with-finereader-iphones-compatible/"><u>Mobile Scanning & Converting Documents to Text with FineReader - iPhones Compatible</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-future-with-siemens-gbs-mastering-document-automation-through-abbyys-expert-insights/"><u>Navigating the Future with Siemens GBS: Mastering Document Automation Through ABBYY's Expert Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/newbies-guide-6-strategic-social-media-tactics-for-growth-for-2024/"><u>Newbies Guide 6 Strategic Social Media Tactics for Growth for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimisez-votre-tresorerie-avec-notre-checklist-des-opportunites-financeuses-abbyy/"><u>Optimisez Votre Trésorerie Avec Notre Checklist Des Opportunités Financeuses - ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-your-websites-seo-performance/"><u>Optimize with Cookiebot: Elevate Your Website's SEO Performance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pionierarbeit-von-dsgf-fur-digitalisierung-der-finanzen-partnerschaft-mit-abbyy-macht-wirkung/"><u>Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>[New] The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>[New] The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-from-tweet-vids-to-mp3-audio-files/"><u>[New] The Ultimate Guide From Tweet Vids to MP3 Audio Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-tale-of-two-approaches-polite-vs-aggressive-asking/"><u>[Updated] 2024 Approved A Tale of Two Approaches Polite vs Aggressive Asking</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-charting-success-with-these-top-15-youtube-introduction-techniques-for-2024/"><u>[Updated] Charting Success with These Top 15 YouTube Introduction Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-prospects-and-limitations-within-samsungs-2023-image-editor/"><u>In 2024, Unveiling Prospects and Limitations Within Samsung's 2023 Image Editor</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-highly-capable-dell-xps-13-convertible-notebook/"><u>In-Depth Analysis of the Highly Capable Dell XPS 13 Convertible Notebook</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-ultra-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Ultra Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-zoom-services-directly-from-your-inbox-gmail-edition-for-2024/"><u>Utilizing Zoom Services Directly From Your Inbox - Gmail Edition for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-14-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi 14 Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Long-Lasting Power on Android: A Strategic Guide with 10 Key Adjustments for Enhanced Battery Performance, Featured by ZDNet"
-date: 2024-09-18 15:49:57
-updated: 2024-09-20 11:41:12
+date: 2024-10-17T20:28:26.062Z
+updated: 2024-10-20T20:22:39.521Z
 tags:
   - google
 categories:
@@ -65,11 +65,25 @@ We've all done this at some point in our lives: you set up a new account for a s
 
 **How to**: Go to the Settings app and find the accounts section (on Samsung phones it's called "Accounts and backup", while Pixel phones use "Passwords & accounts"). You'll find a list of all the accounts synced to your phone. Tap on one of them and scroll down to the "Remove account" button. Tap it and the account will disappear.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn off keyboard sounds and haptics
 
 If you're using your phone, chances are you're typing on the keyboard pretty often, whether to post to social media or respond to your friend's messages. If you have sound and haptic feedback enabled, your battery may suffer because your phone needs to make a series of vibrations and noises every time you tap a letter. Hearing and feeling the keyboard as you type is a nice experience, but it's not ideal if you want to eke out some extra juice from a full charge.
 
 **How to**: Open the Settings app and locate "Language and input." This section is where your keyboard settings live. Find the section where you get to choose your default keyboard, then tap the gear icon next to it to manage settings. If you're a Gboard user (like most people), you'll then go to Preferences > Key press and disable "Sound on keypress" and "Haptic feedback on keypress."
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reduce your notifications
 
@@ -87,6 +101,13 @@ If your phone is constantly listening for you to say "Hey Google," chances are y
 
 **How to**: Open the Google app on your phone and tap your profile picture in the top-right corner. Then, visit Settings > Google Assistant > Hey Google & Voice Match and flick off "Hey Google." Now your phone will only trigger the Assistant if you hold down the power button or via another method.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Reduce your screen's refresh rate
 
 There's no question that phone screens have gotten _really_ good over the past few years, thanks in part to the faster refresh rates manufacturers have been including. Whether it's 90Hz, 120Hz, or even faster, increasing the times a screen refreshes helps make animations, scrolling social media, and everyday interactions feel smoother and more responsive. Unfortunately, a high refresh rate also means increased battery usage -- you might sometimes be better turning the feature off.
@@ -94,6 +115,13 @@ There's no question that phone screens have gotten _really_ good over the past f
 **Also: [Change this Android setting to instantly double your phone speed](https://www.zdnet.com/article/change-this-android-setting-to-instantly-give-your-phone-twice-the-speed/)**
 
 **How to**: Open the Settings app and navigate to the Display section. Here, you'll find the settings to configure your refresh rate. Most smartphones call the feature something different; Google labels it "Smooth Display" while Samsung calls it "Motion smoothness." Find the setting associated with the refresh rate and revert to the standard rate. Your screen will likely seem a bit choppier as a result, but that's completely normal. It simply means it's operating at 60Hz, which every phone used to run at just a few years ago.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Turn off the wireless features you aren't using
 
@@ -138,11 +166,25 @@ I didn't include this feature in the primary list because, well, it's an obvious
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-visionsnap-tech-your-guide-to-the-best-of-2023/"><u>[New] In 2024, VisionSnap Tech – Your Guide to the Best of 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unwind-and-learn-your-guide-to-podcasting-multitasking/"><u>[Updated] Unwind and Learn Your Guide to Podcasting Multitasking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photography-transformed-simplifying-edges-and-corners/"><u>2024 Approved Photography Transformed Simplifying Edges and Corners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-photos-from-physical-to-digital-storage/"><u>2024 Approved Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/fusing-visual-media-and-apple-audio-for-2024/"><u>Fusing Visual Media and Apple Audio for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-download-and-installation-of-the-epson-et-4550-driver-on-your-windows-computer-get-started-now/"><u>Hassle-Free Download & Installation of the Epson ET-4550 Driver on Your Windows Computer – Get Started Now</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-instantly-professional-masterful-thumbnails-created-fast/"><u>In 2024, Instantly Professional Masterful Thumbnails Created Fast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-real-time-conquests-unveiled-7-epic-strategy-titles-reviewed/"><u>In 2024, Real-Time Conquests Unveiled 7 Epic Strategy Titles Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pioneers-guide-to-gopro-and-timelapse-magic/"><u>In 2024, The Pioneer's Guide to GoPro and Timelapse Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-iphone-hdr-photography-skills-for-2024/"><u>The Essential iPhone HDR Photography Skills for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolving-role-of-ai-in-shaping-developer-work-processes/"><u>The Evolving Role of AI in Shaping Developer Work Processes</u></a></li>
+</ul></div>
+

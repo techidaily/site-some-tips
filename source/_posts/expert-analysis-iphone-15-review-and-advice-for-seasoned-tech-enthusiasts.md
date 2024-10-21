@@ -1,7 +1,7 @@
 ---
 title: Expert Analysis - iPhone 15 Review & Advice for Seasoned Tech Enthusiasts
-date: 2024-10-13T08:43:10.816Z
-updated: 2024-10-15T08:40:49.418Z
+date: 2024-10-15T18:27:23.642Z
+updated: 2024-10-20T19:29:41.887Z
 tags:
   - apple
 categories:
@@ -45,19 +45,6 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -72,6 +59,13 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -133,6 +127,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -148,10 +149,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -167,22 +168,15 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,19 +212,14 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-how-to-build-your-own-4k-video-editing-pc/"><u>[New] How To Build Your Own 4K Video Editing PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-proven-strategies-for-premium-picture-acquisition-gratis/"><u>[New] Proven Strategies for Premium Picture Acquisition Gratis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-colors-unleashed-practical-application-of-color-theory/"><u>[Updated] Colors Unleashed Practical Application of Color Theory</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-joy-and-sadness-with-these-10-best-ig-meme-communities-for-2024/"><u>[Updated] Unleash Joy and Sadness with These 10 Best IG Meme Communities for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mac/"><u>移动碟中文：移視影片編輯器(Mac版) - 對應多种影片和音频格式</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726221222630-mkvwma-movavi/"><u>在線無成本MKV變更為WMA - 利用 Movavi的編輯器</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-gratuite-de-fichiers-aiff-en-m4a-sur-internet-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers AIFF en M4A Sur Internet Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-fast-control-tools-for-gaming-enthusiasts/"><u>Essential Fast-Control Tools for Gaming Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-for-mp3-to-aac-with-opus-support-moveave/"><u>Free Online Converter for MP3 to AAC with Opus Support - Moveave</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guide-facile-pour-convertir-des-videos-m2p-en-mp4-sans-frais-utilisez-movavi-maintenant/"><u>Guide Facile Pour Convertir Des Vidéos M2P en MP4 Sans Frais - Utilisez Movavi Maintenant !</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-v27e-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo V27e Phone Screen?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-humorhub-quick-and-quirky-images/"><u>In 2024, HumorHub Quick & Quirky Images</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-list-of-top-tier-facebook-profile-picture-designers/"><u>In 2024, The Ultimate List of Top-Tier Facebook Profile Picture Designers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mpg-wav-movavi/"><u>MPG 동메모리 WAV로 전환 - 무료 Movavi 서비스</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximizing-moolah-on-youtube-a-creators-handbook/"><u>[New] Maximizing Moolah on YouTube A Creator's Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-velvet-vaults-2022-olympic-skaters/"><u>[New] Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-macos-tutorials-for-editing-srt-files/"><u>2024 Approved Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>2024 Approved Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tune-tracker-and-manager-android-companion/"><u>2024 Approved Top Tune Tracker & Manager, Android Companion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-top-5-best-5k-video-player-apps-for-android-devices-free-options-available/"><u>Download the Top 5 Best 5K Video Player Apps for Android Devices - FREE Options Available!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-maximum-mobile-mastery-highlights-covers-on-iosandroid/"><u>In 2024, Maximum Mobile Mastery Highlights Covers on iOS/Android</u></a></li>
+<li><a href="https://win-web3.techidaily.com/techniques-rapides-pour-une-recuperation-de-partitions-ssd-reussie-un-manuel-pratique-et-simple/"><u>Techniques Rapides Pour Une Récupération De Partitions SSD Réussie: Un Manuel Pratique Et Simple</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-artisans-path-to-crafting-confidential-snaps-for-2024/"><u>The Artisan's Path to Crafting Confidential Snaps for 2024</u></a></li>
 </ul></div>
 

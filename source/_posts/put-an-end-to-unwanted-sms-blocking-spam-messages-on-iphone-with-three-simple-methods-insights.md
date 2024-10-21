@@ -1,7 +1,7 @@
 ---
 title: "Put an End to Unwanted SMS: Blocking Spam Messages on iPhone with Three Simple Methods - Insights"
-date: 2024-10-11T22:01:13.977Z
-updated: 2024-10-14T20:55:49.262Z
+date: 2024-10-13T18:01:53.289Z
+updated: 2024-10-20T20:48:40.685Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ Tap on Messages to access the settings for your Messages app.
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Scroll until you find 'Filter Unknown Messages'
 
 Scroll down to find the Filter Unknown Messages option and turn it on. This option is turned off by default, so you'll need to toggle it to the "on" position to enable it.
@@ -71,19 +78,19 @@ The message inbox will now default to show messages from people in your contact 
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I stop spam calls on iPhone?
@@ -100,13 +107,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
 
@@ -127,10 +127,10 @@ If you keep getting messages from the same sender after reporting them, you can 
 4. Select Block this caller.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why is the 'Filter Unknown Senders' option turned off?
@@ -175,20 +175,18 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ow-to-make-a-cooking-video-in-steps-an-ultimate-guide-for-2024/"><u>[New] How to Make a Cooking Video in Steps - an Ultimate Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cheap-yet-good-quality-cameras-reviewed-here/"><u>[Updated] In 2024, Cheap Yet Good Quality Cameras Reviewed Here</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-asus-rog-phone-7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Asus ROG Phone 7 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y78-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y78 5G Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/como-convertir-archivos-mkv-a-linea-con-gratuidad-mediante-movavi/"><u>Cómo Convertir Archivos MKV a Línea Con Gratuidad Mediante Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-libre-y-gratuita-de-m4v-a-flv-en-linea-con-la-herramienta-de-movavi/"><u>Conversión Libre Y Gratuita: De M4V a FLV en Línea Con La Herramienta De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-change-your-audio-files-from-mp3-to-video-format-avi-with-ease/"><u>Free Online Converter: Change Your Audio Files From MP3 to Video Format (AVI) with Ease</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gif-design-essentials-top-9-tools-to-elevate-your-creativity/"><u>GIF Design Essentials Top 9 Tools to Elevate Your Creativity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>In 2024, Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-pdf-naar-png-converteer-gratis-simpelweg-en-krachtig-met-movavi/"><u>Online-PDF Naar PNG Converteer Gratis - Simpelweg en Krachtig Met Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/reigniting-frozen-discord-overlay-a-stepwise-guide-for-windows-users/"><u>Reigniting Frozen Discord Overlay: A Stepwise Guide for Windows Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uniendo-videos-eficientemente-tecnicas-faciles-y-rapidas-de-movavi/"><u>Uniendo Videos Eficientemente: Técnicas Fáciles Y Rápidas De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/vuurproffen-movavi-video-editor-bestel-duitslands-bijna-gewaardeid-zeer-veilig-kaufeexperte/"><u>Vuurproffen Movavi Video Editor Bestel: Duitsland's Bijna Gewaardeid Zeer Veilig Kaufeexperte</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-the-rings-rhythm-a-clash-with-streamers/"><u>[New] In 2024, In the Ring's Rhythm A Clash with Streamers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860550244-2024-approved-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>2024 Approved Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones.</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-uploading-and-saving-images-on-icloud-using-your-iphone-or-computer/"><u>Easy Methods for Uploading and Saving Images on iCloud Using Your iPhone or Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-erase-iphone-7-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase iPhone 7 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-vivo-y27s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Vivo Y27s Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-monitor-match-up-recommendations-for-top-tier-xbox-sx-experience/"><u>In 2024, Ultimate Monitor Match-Up Recommendations for Top-Tier Xbox SX Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-handling-unable-to-terminate-error-on-pc/"><u>Solutions for Handling 'Unable to Terminate' Error on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023-for-2024/"><u>The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro-for-2024/"><u>Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-business-data-haven-selection/"><u>Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-steadicam-options-for-drone-video-production-for-2024/"><u>Top-Tier Steadicam Options for Drone Video Production for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-targus-graphics-cards-fresh-drivers-for-windows-1087-downloaded/"><u>Update Your Targus Graphics Cards: Fresh Drivers for Windows 10/8/7 Downloaded</u></a></li>
 </ul></div>
 

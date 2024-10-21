@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovations Revealed: IPad Pro (M4), Upgraded 13-Inch iPad Air, and the Improved Apple Pencil Pro Coverage | Insights"
-date: 2024-10-10T22:15:46.070Z
-updated: 2024-10-14T19:54:35.712Z
+date: 2024-10-19T20:44:55.406Z
+updated: 2024-10-20T19:29:58.819Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,16 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -95,10 +89,16 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -139,17 +139,24 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-direct-data-delivery-master-5-techniques-for-uploading-files/"><u>[New] In 2024, Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quantum-hdr-unveiled-insightful-guide-for-professionals/"><u>[New] Quantum HDR Unveiled Insightful Guide for Professionals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[Updated] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>2024 Approved Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-shining-up-your-android-videos-effortlessly/"><u>2024 Approved Shining Up Your Android Videos Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/aoc-monitor-not-responding-heres-your-ultimate-guide-for-windows-10-users/"><u>AOC Monitor Not Responding? Here's Your Ultimate Guide for Windows 10 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/conveniently-embedding-passwords-into-windows-text-archives/"><u>Conveniently Embedding Passwords Into Windows Text Archives</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a1-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A1 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-iphone-photomosaic-creation-collage/"><u>In 2024, The Definitive Guide to iPhone Photomosaic Creation (Collage)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/izing-engagement-the-power-of-tailored-cards-and-ends-on-yt/"><u>Maximizing Engagement The Power of Tailored Cards & Ends on YT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-correcting-ralink-rt3290-driver-issues-for-multiple-windows-versions/"><u>Step-by-Step Guide to Correcting Ralink RT3290 Driver Issues for Multiple Windows Versions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-easy-photo-progression-on-instagram/"><u>[New] 2024 Approved Easy Photo Progression on Instagram</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-lg-digital-cinema-31mu97-b-4k-monitor-review/"><u>[New] 2024 Approved LG Digital Cinema 31MU97-B 4K Monitor Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>[New] Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>[New] Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-converting-ordinary-images-into-artistic-hdr-works-for-2024/"><u>[Updated] Converting Ordinary Images Into Artistic HDR Works for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-intellectual-property-rules-for-instagram-beats/"><u>[Updated] In 2024, Intellectual Property Rules for Instagram Beats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-shots-discover-the-best-camera-angles-for-iphones/"><u>[Updated] The Art of Shots Discover the Best Camera Angles for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[Updated] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-total-circles-capture-systems-for-2024/"><u>[Updated] Total Circles Capture Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-the-science-and-art-of-attention-grabbing-titles/"><u>2024 Approved Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-server-which-translates-to-best-windows-server-cloud-backup-software/"><u>最高のWindows Serverクラウドバックアップソフトウェア Which Translates to Best Windows Server Cloud Backup Software.</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-bluetooth-functionality-in-windows-11-instantly-and-easily/"><u>Guide to Restoring Bluetooth Functionality in Windows 11 Instantly & Easily!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>In 2024, Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/simple-techniques-for-removing-dark-backgrounds-from-photos-top-tips-for-2e23/"><u>Simple Techniques for Removing Dark Backgrounds From Photos - Top Tips for 2E23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tactics-for-transformative-first-moments-in-your-podcasts-for-2024/"><u>Tactics for Transformative First Moments in Your Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-plan-to-grow-your-subscriber-base-for-2024/"><u>The Ultimate Plan to Grow Your Subscriber Base for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>Unleash Speed Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
 </ul></div>
 

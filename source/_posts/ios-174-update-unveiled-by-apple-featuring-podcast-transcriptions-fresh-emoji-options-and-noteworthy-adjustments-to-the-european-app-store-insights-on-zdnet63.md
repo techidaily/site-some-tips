@@ -1,0 +1,115 @@
+---
+title: "IOS 17.4 Update Unveiled by Apple: Featuring Podcast Transcriptions, Fresh Emoji Options & Noteworthy Adjustments to the European App Store - Insights on ZDNet"
+date: 2024-10-18T18:33:29.975Z
+updated: 2024-10-20T23:24:13.031Z
+tags:
+  - apple
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/5648c434c12cbf88b15506d6d23b8724252689511d16fa18d7a28833e2a6d9c5.jpg
+---
+
+## IOS 17.4 Update Launches Featuring Podcast Transcript Support, Fresh Emoji Additions, and Enhanced EU Apple App Store - Latest
+
+![iPhone 15 Pro photo taken with iPhone 15 Pro Max in portrait mode](https://www.zdnet.com/a/img/resize/cbb6e06548207ca48ddc17f21c5a95be254f99ba/2023/10/05/c175a0e5-2ef1-400f-b90b-8dd3cf353de4/img-1927.jpg?auto=webp&width=1280)
+
+Jason Hiner/ZDNET
+
+Apple has kicked off the latest update for the [iPhone](https://www.zdnet.com/article/best-iphone/) with the release of iOS 17.4\. Now available for all iPhone users, the new version comes with a smattering of new features, enhancements, and the usual bug fixes. But most significant are the changes imposed on Apple by the European Union.
+
+With the European Union's Digital Markets Act (DMA) going into effect on March 6, Apple has officially opened the door with iOS (and iPadOS) 17.4 to alternative app stores. That means users in the EU will be able to sideload apps from other marketplaces and use third-party payment systems when purchasing apps and services.
+
+**Also: [Apple M3 MacBook Air hands-on: These 3 new features stood out to me most](https://www.zdnet.com/article/apple-m3-macbook-air-hands-on-these-3-new-features-stood-out-to-me-most/)**
+
+Naturally, Apple had to be dragged kicking and screaming to comply with the new regulations and has imposed strict requirements for third-party stores and providers. But this is the cost if the company wants to keep doing business in the EU.
+
+#### Newsletters
+
+ZDNET Tech Today
+
+ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked about stories, five days a week.
+
+ Subscribe
+
+[See all](https://www.zdnet.com/newsletters/)
+
+Moving beyond the shores of Europe, iOS 17.4 adds a transcript feature to the Apple Podcasts app. Those of you who catch podcasts through the app will be able to read the transcript of an episode as you listen to it. You can even search for specific text within the transcript and play with the size and contrast of the text screen.
+
+Next on the list are new emojis. Ones for a mushroom, a phoenix, a lime, a broken chain, and shaking heads are now accessible through the emoji keyboard. You'll also be able to tweak 18 different emoji of people and bodies to place them in different directions.
+
+Otherwise, the update offers a slew of random changes across the board.
+
+A music recognition feature lets you add songs that you've identified to your playlists and library in Apple Music and Apple Music Classical. Siri can now announce incoming messages in any supported language. The Stolen Device Protection feature will allow you to turn on the tighter security in all locations, not just in unknown places.
+
+**Also: [M3 MacBook Air vs. M2 MacBook Air: Which Apple laptop should you buy?](https://www.zdnet.com/article/m3-macbook-air-vs-m2-macbook-air/)**
+
+New virtual card numbers will let you use Apple Cash to pay for items at merchants that don't yet accept Apple Pay. You'll be able to type in the number from the Wallet app or through Safari AutoFill. The Battery Health screen in Settings will display the battery cycle count, manufacture date, and first use on [iPhone 15 and iPhone 15 Pro models](https://www.zdnet.com/article/new-iphone-15-models-compared-iphone-15-vs-plus-vs-pro-vs-pro-max/).
+
+A new Call Identification feature will display key details verified by Apple, such as the business name, logo, and department name. The [Apple Messages for Business service](https://register.apple.com/resources/messages/messaging-documentation/) will now provide information on order status, flight notifications, fraud alerts, and other transactions.
+
+On the bug fix side, iOS 17.4 resolves two notable issues. First, it fixes a problem where contact pictures were blank in the Find My app. Second, it takes care of a glitch for Dual SIM users in which the phone number would change from the primary to the secondary SIM. The update also squashes a few security bugs as described in [an Apple support page](https://support.apple.com/en-us/HT214081).
+
+Of course, the latest updates aren't limited to the iPhone. The iPad gets custody of iPadOS 17.4, with many of the same new features and fixes found in iOS 17.4.
+
+**Also: [The best iPads](https://www.zdnet.com/article/best-ipad/)**
+
+To update your iPhone or iPad, head to Settings, select General, and then tap Software Update. Tap the Update Now button to download and install the new version.
+
+#### Apple
+
+[iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/ "iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get")
+
+[My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)](https://www.zdnet.com/article/my-biggest-regret-with-upgrading-my-iphone-to-ios-18-and-im-not-alone/ "My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)")
+
+[We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/ "We've used every iPhone 16 model and here's our best buying advice for 2024")
+
+[6 iOS 18 settings I changed immediately - and why you should too](https://www.zdnet.com/article/6-ios-18-settings-i-changed-immediately-and-why-you-should-too/ "6 iOS 18 settings I changed immediately - and why you should too")
+
+* [iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get](https://www.zdnet.com/article/iphone-16-pro-and-pro-max-hands-on/ "iPhone 16 Pro upgrade: If you have a 3 year-old iPhone, here are all the new features you'll get")
+* [My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)](https://www.zdnet.com/article/my-biggest-regret-with-upgrading-my-iphone-to-ios-18-and-im-not-alone/ "My biggest regret with upgrading my iPhone to iOS 18 (and I'm not alone)")
+* [We've used every iPhone 16 model and here's our best buying advice for 2024](https://www.zdnet.com/article/iphone-16-pro-max-buying-advice-2024/ "We've used every iPhone 16 model and here's our best buying advice for 2024")
+* [6 iOS 18 settings I changed immediately - and why you should too](https://www.zdnet.com/article/6-ios-18-settings-i-changed-immediately-and-why-you-should-too/ "6 iOS 18 settings I changed immediately - and why you should too")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-accelerated-screen-recordings-and-voice-over-assistance-for-2024/"><u>[New] Accelerated Screen Recordings & Voice Over Assistance for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-dive-into-tiktoks-emoji-wonderland-discover-7-and-hidden-easter-eggs/"><u>[New] In 2024, Dive Into TikTok's Emoji Wonderland – Discover 7 & Hidden Easter Eggs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-picks-the-best-6-online-communities-for-enterprise-expansion/"><u>[New] Key Picks The Best 6 Online Communities for Enterprise Expansion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-panzoid-framework-assemblage/"><u>[New] Ultimate Panzoid Framework Assemblage</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-on-selecting-the-ideal-video-aspect-ratio/"><u>[Updated] Expert Tips on Selecting the Ideal Video Aspect Ratio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-circle-of-online-av-masters/"><u>[Updated] The Elite Circle of Online AV Masters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-exceptional-live-streamers/"><u>2024 Approved The Ultimate Guide to Exceptional Live Streamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-podcast-tools-for-windows-8/"><u>2024 Approved Ultimate Podcast Tools for Windows 8</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-90-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor 90 Lite FRP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-brand-storytelling-through-the-eyes-of-customer-voices/"><u>In 2024, Brand Storytelling Through the Eyes of Customer Voices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-honor-90-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Honor 90 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-hilarious-side-of-iphones/"><u>In 2024, The Hilarious Side of iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-tools-to-convert-srt-into-engaging-video-content/"><u>In 2024, Top 10 FREE Tools to Convert SRT Into Engaging Video Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/opt-out-navigating-chatgpts-data-use/"><u>Opt-Out: Navigating ChatGPT's Data Use</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-missing-graphics-option-errors-on-nvidia/"><u>Resolving Missing Graphics Option Errors on NVIDIA</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quick-setup-for-smartphones-as-personalized-vr-headsets-for-2024/"><u>The Quick Setup for Smartphones as Personalized VR Headsets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema-for-2024/"><u>The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unravel-the-mystery-of-scouring-exceptional-photos-on-pexels-for-2024/"><u>Unravel the Mystery of Scouring Exceptional Photos on Pexels for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

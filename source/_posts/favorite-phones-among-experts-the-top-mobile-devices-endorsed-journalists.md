@@ -1,7 +1,7 @@
 ---
 title: "Favorite Phones Among Experts: The Top Mobile Devices Endorsed Journalists"
-date: 2024-10-13T20:03:39.620Z
-updated: 2024-10-15T04:27:51.235Z
+date: 2024-10-13T18:05:20.283Z
+updated: 2024-10-20T17:34:10.851Z
 tags:
   - apple
 categories:
@@ -46,6 +46,13 @@ Pros
 Cons 
 * New design Cameras are impressive Performance Battery life
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## iPhone 12 Pro
 
 ### Jason Cipriani and Simon Bisson
@@ -69,13 +76,6 @@ Pros
 
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy S21 Ultra
 
@@ -112,6 +112,13 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -185,6 +192,13 @@ Cons
 
 ## Google Pixel 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tony Baer
 
 **Tony Baer:** I like the Pixel because unlike branded phones (e.g., Samsung Galaxy), it has just one operating system, and therefore, just one app for things like photos. This was an endless source of confusion for me during the days with my old Samsung phones: Which photo app did my pictures go in? (Etc., etc. for other bundled apps.) However, the Pixel 2 has one mechanical defect: The charging port is just slightly too large, meaning that when I plug in the charger, I can't always be sure that the phone is getting any juice. For work at home, this is just an inconvenience, but when we go back on the road again, this will be a show stopper. 
@@ -200,6 +214,13 @@ Show less
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
 ## Huawei P20 Pro
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Federico Guerrini
 
@@ -237,25 +258,18 @@ Cons
 
 Show Expert Take Show less 
 
+###   
+
+###   
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-###   
-
-###   
 
 ## iPhone X
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Robin Harris
 
@@ -283,13 +297,6 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 7 Plus
 
 ### Tiernan Ray
@@ -298,14 +305,14 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -319,14 +326,20 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-## Lumia 1520
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Lumia 1520
 
 ### Mary Branscombe
 
@@ -336,14 +349,14 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-## Samsung Galaxy Note 8
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Note 8
 
 ### Charles McLellan
 
@@ -352,13 +365,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###   
 
@@ -392,20 +398,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-discover-the-premier-complimentary-voice-transform-for-valorant/"><u>[New] 2024 Approved Discover the Premier, Complimentary Voice Transform for Valorant</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-become-a-meme-wizard-with-these-9gag-strategies/"><u>[New] Become a Meme Wizard with These 9GAG Strategies</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-financial-finesse-top-business-strategy-titles-reviewed/"><u>[New] In 2024, Financial Finesse Top Business Strategy Titles Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-ai-assisted-the-ultimate-list-of-podcast-title-makers/"><u>[Updated] AI-Assisted The Ultimate List of Podcast Title Makers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-optimizing-site-engagement/"><u>Cookiebot-Enhanced User Experience: Optimizing Site Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-powering-your-website-with-cutting-edge-automation/"><u>Cookiebot-Enhanced: Powering Your Website with Cutting-Edge Automation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-personalization-through-innovative-cookiebot-solutions/"><u>Enhanced Personalization Through Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-personalization-with-cookiebot-technology/"><u>Enhanced Personalization with Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-site-analytics-through-innovative-cookiebot-technology/"><u>Experience Enhanced Site Analytics Through Innovative Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-user-engagement-website-performance-boosted-using-innovative-solution-cookiebot-integration/"><u>Experience Enhanced User Engagement: Website Performance Boosted Using Innovative Solution - Cookiebot Integration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/"><u>In 2024, Unlocking the Potential of Screenshotting Your Android Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/monster-hunter-rise-wont-start-troubleshooting-steps-inside/"><u>Monster Hunter Rise Won't Start? Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-performing-a-full-factory-reset-on-any-ipad-model/"><u>Ultimate Guide: Performing a Full Factory Reset on Any iPad Model</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-9-reasons-to-think-twice-before-opting-for-an-ai-mental-health-professional/"><u>Unveiling 9 Reasons to Think Twice Before Opting for an AI Mental Health Professional</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-underdeveloped-world-of-vr-experiences/"><u>[New] The Underdeveloped World of VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-timelapse-video-shooting-with-hero5/"><u>[New] Unveiling the Secrets of Timelapse Video Shooting with Hero5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-lengthening-gopros-electric-life/"><u>[Updated] Strategies for Lengthening GoPro's Electric Life</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c300mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C300Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-noise-free-audiovisual-links/"><u>In 2024, Navigating Noise-Free Audiovisual Links</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-skyrocketing-sales-how-ad-revenue-transforms-youtube-videos/"><u>In 2024, Skyrocketing Sales How Ad Revenue Transforms YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mp2-converter-convert-mp2-audio-files-online-at-no-cost-with-quickaudiotool/"><u>MP2 Converter - Convert MP2 Audio Files Online at No Cost with QuickAudioTool</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-configuration-hurdles-fixing-the-stuck-pre-setup-screen/"><u>Overcoming Windows Configuration Hurdles: Fixing the Stuck Pre-Setup Screen</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-skype-call-techniques-for-effective-recordings-free-and-paid-on-computers-for-2024/"><u>Top Skype Call Techniques for Effective Recordings (Free & Paid) on Computers for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Early Bird Discounts: A Guide to Pre-Ordering Google's Latest Marvels – Pixel 9, 9 Pro & 9 Pro Fold | Tech Insights with ZDNet"
-date: 2024-09-19 21:22:30
-updated: 2024-09-20 12:15:51
+date: 2024-10-17T19:07:44.573Z
+updated: 2024-10-20T16:44:51.481Z
 tags:
   - google
 categories:
@@ -39,6 +39,13 @@ The ["Pro" model of the Pixel 9](https://www.zdnet.com/article/i-tested-the-goog
 
 [Preorder Now Pixel 9 Pro at Best Buy Get a free $200 gift card when you preorder the Pixel 9 Pro and Pro XL at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-128gb-unlocked-hazel%2F6587889.p%3FskuId%3D6587889&publisher_slug=itechdaily19598&exclusive=1)[Preorder Now Pixel 9 Pro at Amazon Preorder the Pixel 9 Pro at Amazon and get a free $200 gift card. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0DBSSGL4F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C41a24207-2fdd-4c45-8610-1239d50b8891%7Cdtp&dtb=1)[Preorder Now Pixel 9 Pro at Google Get $200 in Google Store credit when you buy the Pixel 9 Pro or Pro XL through Aug. 28\. View at Google](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/pixel%5F9%5Fpro?)[Preorder Now Pixel 9 Pro at AT&T Snag double storage on the Pixel 9, 9 Pro, and 9 Pro XL when you preorder at AT&T by Aug. 21. View at AT&T](https://www.dpbolvw.net/click-9041660-15880197-1723491434000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Preorder Now Pixel 9 Pro at T-Mobile New and existing customers can get $100 off the Pixel 9 Pro and $200 off the Pixel 9 Pro XL. No need to add a line or trade in a device. View at T-mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro XL  
 
 The [XL model of the Pixel 9 Pro](https://www.zdnet.com/article/google-pixel-9-pro-xl-hands-on-im-reminded-of-the-iphone-but-in-the-best-way/) features a larger 6.8-inch Super Actua display and the same memory and camera configurations. The price starts at $1,099 and is available in the same colors as the Pixel 9 Pro. 
@@ -62,11 +69,25 @@ Kerry Wan/ZDNET
 * Get [NFL Sunday Ticket from YouTube and YouTube TV](https://www.tkqlhce.com/click-9041660-15733793?url=https%3A%2F%2Fwww.verizon.com%2Fnfl-sunday-ticket-on-youtube-streaming%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for free when you purchase a new [Google Pixel 9](https://www.anrdoezrs.net/click-9041660-15881168-1723575173000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and sign up for a new line on Unlimited Plus or Unlimited Ultimate.
 * [Get 20%](https://www.tkqlhce.com/click-9041660-15733793?url=https%3A%2F%2Fwww.verizon.com%2Fproducts%2Fshop%2Fonline%2Fgoogle-pixel-9-cases-screen-protectors-sale%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) off Pixel 9 series cases, screen protectors and select chargers for a limited time while supplies last.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Google Pixel 9 offers at AT&T
 
 * Get the [Pixel 9 Pro for free](https://www.dpbolvw.net/click-9041660-15880197-1723491434000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) when you buy with a qualifying plan and trade in a Pixel smartphone (any year, any condition). Preorder by 8/21 and get double the storage.
 * Get the [Pixel 9 Pro XL for free](https://www.tkqlhce.com/click-9041660-15880193-1723491402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) when you buy with a qualifying plan and trade in a Pixel smartphone (any year, any condition). Preorder by 8/21 and get double the storage.
 * Get the [Pixel 9](https://www.dpbolvw.net/click-9041660-15880192-1723489924000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for just $10.99/month (no trade-in required).
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Pixel 9 offers at T-Mobile 
 
@@ -74,6 +95,13 @@ Kerry Wan/ZDNET
 * Get a free Pixel 9 (or up to $800 off [Pixel 9 Pro](https://www.t-mobile.com/cell-phone/google-pixel-9-pro) or 9 Pro XL) when adding a line on Business Unlimited Ultimate or Business Unlimited Edge.
 * Get up to $600 off the Pixel 9, 9 Pro, [9 Pro XL](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-xl) or 9 Pro Fold when adding a line on Go5G, Go5G Business, Magenta and more.
 * Get up to $500 off the Pixel 9, 9 Pro, 9 Pro XL or [9 Pro Fold](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-fold) with trade in on eligible plans (Go5G, Go5G Business, Magenta and more).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -100,11 +128,26 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-maximize-engagement-with-these-9-youtube-thumbnail-creators-for-2024/"><u>[Updated] Maximize Engagement with These 9 YouTube Thumbnail Creators for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fastest-photo-view-in-windows-10/"><u>2024 Approved Fastest Photo View in Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-techniques-for-consolidating-and-dividing-cells-within-microsoft-excel-spreadsheets/"><u>Easy Techniques for Consolidating and Dividing Cells Within Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/getting-the-latest-canon-pixus-mf8500c-drivers-for-your-pc-compatible-with-win-7-81-and-10/"><u>Getting the Latest Canon PIXUS MF8500C Drivers for Your PC: Compatible with Win 7, 8.1 & 10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-data/"><u>How to recover lost data from Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-strategic-planning-of-podcast-drop-times/"><u>In 2024, Strategic Planning of Podcast Drop Times</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-linksys-ea8300-router-examination-optimizing-your-smart-home-network/"><u>In-Depth Linksys EA8300 Router Examination - Optimizing Your Smart Home Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-new-world-errors/"><u>Troubleshooting Tips: Overcoming 'New World Errors'</u></a></li>
+</ul></div>
+

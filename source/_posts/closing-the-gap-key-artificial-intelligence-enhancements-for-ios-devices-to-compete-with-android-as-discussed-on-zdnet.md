@@ -1,7 +1,7 @@
 ---
 title: "Closing the Gap: Key Artificial Intelligence Enhancements for iOS Devices to Compete with Android, as Discussed on ZDNet"
-date: 2024-10-08T10:06:54.210Z
-updated: 2024-10-14T23:46:06.554Z
+date: 2024-10-16T22:46:34.856Z
+updated: 2024-10-20T22:11:28.626Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,16 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,19 +137,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-easy-pathway-to-fish-chatter-alteration-within-win-environment/"><u>[New] Easy Pathway to Fish Chatter Alteration Within Win Environment</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigate-the-world-of-games-top-12-pc-clickers-revealed/"><u>[Updated] 2024 Approved Navigate the World of Games Top 12 PC Clickers Revealed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-securely-saving-your-instagram-videos-on-pc-and-macos/"><u>2024 Approved Securely Saving Your Instagram Videos on PC and MacOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-user-engagement-with-smart-analytics/"><u>Cookiebot-Driven Success: Enhancing User Engagement with Smart Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-conversion-optimization-boost-your-site-performance-easily/"><u>Cookiebot-Enabled Conversion Optimization: Boost Your Site Performance Easily!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-performance-and-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Performance and User Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-the-ultimate-powering-tool-for-your-digital-marketing-success/"><u>Cookiebot: The Ultimate Powering Tool for Your Digital Marketing Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebots-innovative-technology-drives-digital-marketing-success-and-engagement-optimization/"><u>Cookiebot's Innovative Technology Drives Digital Marketing Success and Engagement Optimization</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/default-text-configuration-options/"><u>Default Text Configuration Options</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006527002-dragon-quest-xi-stability-fix-overcome-crash-errors-with-these-tips/"><u>Dragon Quest XI Stability Fix - Overcome Crash Errors with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-stuck-screens-in-valorant-tips-and-tricks-for-fast-startup-times/"><u>Eliminating Stuck Screens in Valorant: Tips and Tricks for Fast Startup Times</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/valorant-performance-fix-enforce-system-reset/"><u>Valorant Performance Fix: Enforce System Reset</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-joke-tastic-iphones-today-for-2024/"><u>[New] Joke-Tastic iPhones Today for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pros-of-expanded-ram-in-minecraft-gaming-world-for-2024/"><u>[New] Pros of Expanded Ram in Minecraft Gaming World for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sculpting-light-an-in-depth-look-at-lightroom-hdr-photos/"><u>[New] Sculpting Light An In-Depth Look at Lightroom HDR Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-summit-creation-pro-x-evaluation/"><u>[New] Summit Creation Pro X Evaluation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elite-tech-companies-for-video-to-twitter/"><u>[Updated] 2024 Approved Elite Tech Companies for Video-to-Twitter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-filmoras-route-to-convert-avi-to-eye-catching-gifs/"><u>[Updated] Filmora’s Route to Convert AVI to Eye-Catching GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-hidden-treasure-of-royalty-free-graphics/"><u>[Updated] Unveiling the Hidden Treasure of Royalty-Free Graphics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-stretching-youtube-videos-to-full-display/"><u>2024 Approved Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-most-affordable-gaming-tunes-top-10-lists/"><u>2024 Approved The Most Affordable Gaming Tunes Top 10 Lists</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/come-creare-un-backup-automatico-dei-tuoi-file-con-la-utilita-di-pianificazione-guida-passo-passo/"><u>Come Creare Un Backup Automatico Dei Tuoi File Con La Utilità Di Pianificazione: Guida Passo-Passo</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-can-you-retrieve-deleted-facetime-pictures-find-out-here/"><u>How Can You Retrieve Deleted FaceTime Pictures? Find Out Here</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-itel-p55-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Itel P55 Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-m54-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy M54 5G online without jailbreak</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-x9b-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock X9b Phone Forgot Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-surpass-everyday-photo-taking-with-ios-11/"><u>In 2024, Surpass Everyday Photo-Taking with iOS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-total-exploration-the-dji-phantom-4-experience-reviewed/"><u>In 2024, Total Exploration The DJI Phantom 4 Experience Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-iphone-guide-to-water-reflected-imagery-for-2024/"><u>The Ultimate iPhone Guide to Water-Reflected Imagery for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-best-timecode-conversion-tools-for-filmmaker-for-2024/"><u>Updated Best Timecode Conversion Tools for Filmmaker for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004617484-why-does-microsoft-outlook-continuously-fail-troubleshooting-tips-revealed/"><u>Why Does Microsoft Outlook Continuously Fail? Troubleshooting Tips Revealed!</u></a></li>
 </ul></div>
 

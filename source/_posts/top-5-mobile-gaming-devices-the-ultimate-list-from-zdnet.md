@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Mobile Gaming Devices : The Ultimate List From ZDNet"
-date: 2024-10-13T01:59:00.042Z
-updated: 2024-10-15T06:49:07.737Z
+date: 2024-10-17T16:51:37.930Z
+updated: 2024-10-20T18:17:52.142Z
 tags:
   - apple
 categories:
@@ -85,31 +85,11 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6817dc6f-ce2f-432c-88f1-ccdac360ed74%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -117,28 +97,29 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -148,16 +129,22 @@ However, if you want to get in at the lowest price or you're buying a watch for 
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the newest Apple Watch?
 
 Apple has a lengthy lineup of its flagship tech wearable, with several iterations over the last few years. The two newest watch releases come in the Apple Watch Series 9 and the Apple Watch Ultra 2, which were released in September 2023\. The Apple Watch SE (2nd Gen) remains the most up-to-date base model. With multiple models available, both old and new, you'll be sure to find a watch that fits your needs and your price point. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Apple watches have the new double tap feature?
 
@@ -180,6 +167,19 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -225,18 +225,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-hook-up-guide-scripts-to-seduce-listeners/"><u>[New] The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-pixelgrabber-evaluation-with-vendors-offerings-for-2024/"><u>[Updated] PixelGrabber Evaluation with Vendors' Offerings for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-yuva-2-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Yuva 2 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726222800570-movavi/"><u>与 Movavi 精心设计的联锁营销 - 量身定制深度链接生成</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decouvrez-les-meilleures-versions-gratuites-de-convertisseur-mov-mac-oswindowsen-ligne-classement-des-experts/"><u>Découvrez Les Meilleures Versions Gratuites De Convertisseur MOV [Mac OS/Windows/En Ligne] : Classement Des Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargar-y-convertir-archivos-ogm-a-formatos-de-video-en-linea-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos OGM a Formatos De Video en Línea Sin Coste Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/entendendo-o-formato-de-video-mov-tecnicas-para-abertura-e-conversao/"><u>Entendendo O Formato De Vídeo MOV: Técnicas Para Abertura E Conversão</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mp4-effortless-video-format-changing-with-movavi/"><u>Free Online Converter: AVI to MP4 - Effortless Video Format Changing with Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-cargar-videos-en-tiktok-desde-una-computadora/"><u>Guía Paso a Paso Para Cargar Vídeos en TikTok Desde Una Computadora</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/mac-os-video-editor-turn-photos-into-beautiful-slideshows-for-2024/"><u>Mac OS Video Editor Turn Photos Into Beautiful Slideshows for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/save-your-files-effortlessly-with-aomeis-best-free-windows-backup-software-the-standard-edition/"><u>Save Your Files Effortlessly with AOMEI's Best FREE Windows Backup Software - The Standard Edition</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unveiling-the-best-windows-photo-organizers-listed-here/"><u>Unveiling the Best Windows Photo Organizers Listed Here</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-revolutionize-your-snapchat-with-smart-boomerangs/"><u>[New] Revolutionize Your Snapchat with Smart Boomerangs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-9-windows-gif-capture-tools-perfect-animation-preservation-for-2024/"><u>[New] Top 9 Windows GIF Capture Tools Perfect Animation Preservation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tier-steadicam-options-for-drone-video-production/"><u>[New] Top-Tier Steadicam Options for Drone Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-universalviewers-guide-2024-worldwide-selection-and-local-options/"><u>[New] UniversalViewers Guide 2024 Worldwide Selection & Local Options</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-downloading-your-youtube-watch-lists-step-by-step/"><u>[Updated] Downloading Your YouTube Watch Lists Step by Step</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-3d-viewing-playback-on-android/"><u>2024 Approved Superior 3D Viewing, Playback on Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-journey-an-evaluation-of-goofy-adventures/"><u>2024 Approved The Comedic Journey An Evaluation of 'Goofy Adventures'</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/collaborative-music-streaming-mastering-group-playlists-on-spotify/"><u>Collaborative Music Streaming: Mastering Group Playlists on Spotify</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-rgb-control-for-windows-11-display/"><u>Enable RGB Control for Windows 11 Display</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-an-inactive-window-control-center/"><u>Fixing an Inactive Window Control Center</u></a></li>
+<li><a href="https://win11.techidaily.com/flawless-installation-effectively-pinning-windows-11-desktop-icons/"><u>Flawless Installation: Effectively Pinning Windows 11 Desktop Icons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>In 2024, Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-shelldll-cannot-be-located-error-a-step-by-step-guide/"><u>Resolving the 'Shell.dll Cannot Be Located' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmissable-vr-cinematic-journeys-for-2024/"><u>Unmissable VR Cinematic Journeys for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-hidden-youtube-comments-for-2024/"><u>Unveiling Hidden YouTube Comments for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Stunning Design & Performance: Affordable Alternative to Samsung at Only $2 Cuffs - Explore the Best Android Device Reviewed by ZDNet!"
-date: 2024-09-17 10:17:22
-updated: 2024-09-20 11:42:52
+date: 2024-10-13T21:30:36.560Z
+updated: 2024-10-20T20:52:24.476Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,31 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-perfect-your-gameplay-tips-for-professional-minecraft-sessions-on-mac/"><u>[New] 2024 Approved Perfect Your Gameplay Tips for Professional Minecraft Sessions on Mac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uide-to-producing-impactful-lifestyle-motivational-content-for-2024/"><u>[New] Guide to Producing Impactful Lifestyle Motivational Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-headline-for-job-searches/"><u>[New] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creative-potential-the-ultimate-hdr-guide/"><u>[New] Unleash Creative Potential The Ultimate HDR Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-color-correctors-handbook/"><u>[Updated] The Ultimate Color Corrector's Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tonal-treasures-the-ultimate-list-of-classical-download-sites/"><u>[Updated] Tonal Treasures The Ultimate List of Classical Download Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-premium-video-translation-tools/"><u>2024 Approved Top 6 Premium Video Translation Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-on-precise-audioshifting/"><u>2024 Approved Ultimate Tutorial on Precise Audioshifting</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/deep-dive-review-how-miles-moraless-marvel-adventure-balances-limited-focus-with-significant-influence/"><u>Deep Dive Review: How Miles Morales's Marvel Adventure Balances Limited Focus with Significant Influence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-the-ios-181-preview-version-featuring-enhanced-ai-capabilities-from-apple-step-by-step-guide-techcrunch/"><u>Download the IOS 18.1 Preview Version Featuring Enhanced AI Capabilities From Apple – Step-by-Step Guide | TechCrunch</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-importing-images-into-specific-albums-on-ios-using-aomei-fonebackup-techniques/"><u>Guide: Importing Images Into Specific Albums on iOS Using AOMEI FoneBackup Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-attracting-product-brands-on-youtube/"><u>In 2024, The Art of Attracting Product Brands on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/syma-x8c-feature-analysis-for-2024/"><u>Syma X8C Feature Analysis for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/troubleshooting-anydvd-permission-issues-on-dvd-drives/"><u>Troubleshooting AnyDVD Permission Issues on DVD Drives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncovering-the-best-in-botting-with-bard-and-bing/"><u>Uncovering the Best in Botting with Bard & Bing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-iphones-potential-for-dynamic-shots-for-2024/"><u>Unleashing iPhone’s Potential for Dynamic Shots for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-tv-demystified-your-complete-reference-for-2024/"><u>YouTube TV Demystified Your Complete Reference for 2024</u></a></li>
+</ul></div>
+

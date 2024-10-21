@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the iOS 18 Control Center: A Step-by-Step Guide | ZDNET"
-date: 2024-10-11T16:56:33.701Z
-updated: 2024-10-15T05:55:31.802Z
+date: 2024-10-15T16:04:34.541Z
+updated: 2024-10-20T17:28:22.318Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,19 +51,6 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -70,16 +64,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -91,10 +79,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -104,10 +98,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -146,24 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-transformation-mp4-plus-srt-success/"><u>[New] The Ultimate Transformation MP4 + SRT Success</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elevate-your-film-edits-with-final-cuts-top-10-tools/"><u>[Updated] 2024 Approved Elevate Your Film Edits with Final Cut’s Top 10 Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-erasing-the-spotlight-hide-visuals-in-shared-media-for-2024/"><u>[Updated] Erasing the Spotlight Hide Visuals in Shared Media for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-expertly-chosen-top-ten-cine-cameras-for-everyone/"><u>[Updated] In 2024, Expertly Chosen Top Ten Cine-Cameras for Everyone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-thirteen-for-professional-cinematic-equipment/"><u>[Updated] Ultimate Thirteen for Professional Cinematic Equipment</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-camera-review-the-ultimate-guide-to-best-videographics/"><u>2024 Approved Camera Review - The Ultimate Guide to Best Videographics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-key-gear-for-broadcast-engineers-and-directors/"><u>2024 Approved Key Gear for Broadcast Engineers and Directors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>2024 Approved The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-effect-overhaul-the-two-pronged-approach/"><u>2024 Approved TikTok Effect Overhaul The Two-Pronged Approach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>2024 Approved Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-access-royalty-free-clip-art-tips/"><u>In 2024, Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices/"><u>Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/navigating-recordings-in-windows-11-a-compreayers-guide/"><u>Navigating Recordings in Windows 11 A Compreayer's Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reverting-realtek-lan-error-following-update/"><u>Reverting Realtek LAN Error Following Update</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/ride-the-waves-with-top-picks-for-surfing-cams-for-2024/"><u>Ride the Waves with Top Picks for Surfing Cams for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-sound-design-magix-music-makers-latest-upgrade-for-2024/"><u>The Future of Sound Design Magix Music Maker's Latest Upgrade for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-5-ways-to-record-online-tv-shows/"><u>Top 5 Ways to Record Online TV Shows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-cinema-teasers-compilation-for-2024/"><u>Top Cinema Teasers Compilation for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-deciphering-cosmic-constructs-metaverse-vs-multiverse-for-2024/"><u>[New] Deciphering Cosmic Constructs Metaverse vs Multiverse for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-rapid-tiktok-downloads-flawless-mp4-format-conversions/"><u>[New] In 2024, Rapid TikTok Downloads Flawless MP4 Format Conversions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-twitch-vs-youtube-a-complete-comparison/"><u>[Updated] In 2024, Twitch Vs. Youtube – A Complete Comparison</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[Updated] Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>2024 Approved Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-freely-accessible-cutting-edge-video-editor-tools/"><u>In 2024, Freely Accessible Cutting Edge Video Editor Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-v30-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo V30? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-storytelling-spanning-eight-movie-types/"><u>In 2024, Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-best-text-effects-for-your-video/"><u>In 2024, Top 10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/pushing-boundaries-with-innovative-instagram-content-for-2024/"><u>Pushing Boundaries with Innovative Instagram Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlined-steps-to-watching-vr-on-your-ios-device-for-2024/"><u>Streamlined Steps to Watching VR on Your IOS Device for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-guide-to-dialogic-depth-in-screenplays-for-2024/"><u>The Writers' Guide to Dialogic Depth in Screenplays for 2024</u></a></li>
 </ul></div>
 

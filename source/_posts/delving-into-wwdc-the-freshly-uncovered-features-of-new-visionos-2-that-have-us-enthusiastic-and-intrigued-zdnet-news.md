@@ -1,7 +1,7 @@
 ---
 title: "Delving Into WWDC: The Freshly Uncovered Features of New VisionOS 2 That Have Us Enthusiastic & Intrigued | ZDNET News"
-date: 2024-10-13T16:25:36.039Z
-updated: 2024-10-14T17:54:27.840Z
+date: 2024-10-15T20:19:49.237Z
+updated: 2024-10-20T17:54:18.853Z
 tags:
   - apple
 categories:
@@ -45,19 +45,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -71,10 +58,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -84,6 +71,13 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -103,13 +97,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
@@ -123,10 +110,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -136,6 +123,13 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,19 +165,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-free-online-platform-convert-any-fb-video-into-a-song/"><u>[New] Free Online Platform Convert Any FB Video Into a Song</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-engagement-personalized-youtube-thumbnail-guide/"><u>[Updated] 2024 Approved Elevate Engagement Personalized YouTube Thumbnail Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-utilizing-tailored-volume-reduction-in-audacity/"><u>[Updated] Utilizing Tailored Volume Reduction in Audacity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-play-7t-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor Play 7T</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-hot-40i-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Hot 40i Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/oled-my-two-year-journey-to-perfection/"><u>OLED: My Two-Year Journey to Perfection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-christian-tunes-customization-and-downloading-for-2024/"><u>Step-by-Step Christian Tunes Customization & Downloading for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-success-without-xsplit-for-2024/"><u>Streaming Success Without Xsplit for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-youtube-video-transformations-into-mpegs-for-2024/"><u>Streamlining YouTube Video Transformations Into MPEGs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-masterful-lunapic-photography-for-2024/"><u>The Complete Guide to Masterful LunaPic Photography for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-streaming-high-quality-cricket-matches-for-2024/"><u>The Ultimate Guide to Streaming High-Quality Cricket Matches for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-magic-5-lite-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor Magic 5 Lite for Parents | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-mobile-vr-experiences-the-leading-10-headsets-for-2024/"><u>Top Mobile VR Experiences - The Leading 10 Headsets for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-mac-tool-for-screen-and-audio-capture/"><u>[New] Innovative Mac Tool for Screen & Audio Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>[New] The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[New] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[Updated] The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-drones-their-functionality-explored/"><u>2024 Approved Understanding Drones Their Functionality Explored</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/download-gratuito-disco-de-particionamento-do-linux-com-aomei-backupper-para-sistemas-livres/"><u>Download Gratuito: Disco De Particionamento Do Linux Com AOMEI Backupper Para Sistemas Livres</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s18-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S18 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-control-and-manage-chatgpt-exchanges-using-folder-systems/"><u>Innovative Ways to Control and Manage ChatGPT Exchanges Using Folder Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-no-audio-devices-installed-issue-on-windows-11/"><u>Solving the 'No Audio Devices Installed' Issue on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/testing-the-capabilities-of-magix-image-viewer-for-2024/"><u>Testing the Capabilities of MAGIX Image Viewer for 2024</u></a></li>
 </ul></div>
 

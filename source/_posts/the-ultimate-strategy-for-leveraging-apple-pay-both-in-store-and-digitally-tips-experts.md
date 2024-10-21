@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Strategy for Leveraging Apple Pay Both In-Store & Digitally - Tips Experts
-date: 2024-10-11T16:11:59.097Z
-updated: 2024-10-14T16:52:31.345Z
+date: 2024-10-18T22:40:20.888Z
+updated: 2024-10-20T16:23:23.141Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -46,19 +39,6 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -83,10 +63,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -121,13 +107,6 @@ That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.)
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I set up Apple Pay from my iPhone Settings?
 
 To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
@@ -137,6 +116,13 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -144,6 +130,13 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -156,10 +149,10 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -169,6 +162,13 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -218,22 +218,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-excellent-pc-screen-grabbers-the-most-useful-1-5-for-2024/"><u>[New] Excellent PC Screen Grabbers The Most Useful #1-#5 for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nlocking-video-content-free-downloader-apps-guide-for-2024/"><u>[New] Unlocking Video Content Free Downloader Apps Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-giggles-guidebook-planning-7-funny-video-frameworks/"><u>[Updated] Giggles Guidebook Planning 7 Funny Video Frameworks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-sierras-icloud-drives-and-shares/"><u>[Updated] The Ultimate Guide to Sierra's iCloud Drives & Shares</u></a></li>
-<li><a href="https://some-tips.techidaily.com/adjusting-video-aspect-ratios-easily-guides-for-converting-from-169-43-and-more/"><u>Adjusting Video Aspect Ratios Easily – Guides for Converting From 16:9, 4:3, and More</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-libre-de-mp3-a-m4b-online-con-movavi/"><u>Conversión Libre De MP3 a M4B Online Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-swf-files-effortlessly-with-movavis-no-cost-mp4-encoder-tool/"><u>Convert SWF Files Effortlessly with Movavi's No-Cost MP4 Encoder Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertidores-webm-libres-e-instantaneos-para-cambiar-tu-animacion-gif-herramientas-por-movavi/"><u>Convertidores WebM Libres E Instantáneos Para Cambiar Tu Animación GIF - Herramientas Por Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guida-completa-come-salvare-e-ripopolare-la-tua-cronologia-delle-chat-di-wechat/"><u>Guida Completa: Come Salvare E Ripopolare La Tua Cronologia Delle Chat Di WeChat</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-latest-netgear-a6100-driver-version-compatible-with-windows/"><u>How to Obtain the Latest Netgear A6100 Driver Version Compatible with Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-upload-videos-from-a-computer-pc-or-mac-to-your-instagram-profile/"><u>How to Upload Videos From a Computer (PC or Mac) to Your Instagram Profile</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mastering-windows-11-vm-setup-on-any-platform-step-by-step-instructions/"><u>Mastering Windows 11 VM Setup on Any Platform - Step-by-Step Instructions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mejor-editor-de-video-para-mac-herramienta-profesional-de-edicion-digital-con-soluciones-inteligentes/"><u>Mejor Editor De Video Para Mac - Herramienta Profesional De Edición Digital Con Soluciones Inteligentes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-3gp-mp4/"><u>Movavi: 원료 가격 3GP 파일이 바로 MP4 코어로 전환하기 위한 단순합니다!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simova-movie-transformation-tool-securely-discounted-purchase/"><u>SiMoVa Movie Transformation Tool - Securely Discounted Purchase</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726029712883-dvd/"><u>ジブリDVDを安全にコピーするための専門的なガイド：新しい映画体験</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-remedies-for-iphone-unfocused-shots/"><u>[Updated] Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-up-to-date-tips-for-purchasing-top-360-imagers/"><u>[Updated] Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2024dvdtsutayaposrenday/"><u>「2024年の革新的なレンタルDVDコピー手段：Tsutaya、ゲオ、POSRENDAYから合法的にコピーする方法」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>2024 Approved Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-streaming-spectrum-digital-vs-physical-frontiers/"><u>2024 Approved The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/aerial-mastery-with-husqvarna-h501x4-fpv-analysis-for-2024/"><u>Aerial Mastery with Husqvarna H501X4 FPV Analysis for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-zebra-gk420d-printer-up-and-running-secure-the-latest-drivers-here/"><u>Get Your Zebra GK420D Printer Up and Running – Secure the Latest Drivers Here!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-your-kyocera-printer-up-and-running-in-windows-driver-downloads-and-setup-instructions/"><u>Getting Your KYOCERA Printer Up & Running in Windows: Driver Downloads & Setup Instructions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-landscape-of-motion-sensing-technology/"><u>In 2024, Navigating the Landscape of Motion Sensing Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-color-grading-with-luts-in-pscc/"><u>In 2024, Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/precision-edit-app-stream-error-remover/"><u>Precision Edit App: Stream Error Remover</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fixing-sluggish-closure-in-windows-10-operating-system/"><u>Resolved: Fixing Sluggish Closure in Windows 10 Operating System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-audio-problems-ensuring-proper-functionality-of-external-speakers/"><u>Solving Windows Audio Problems: Ensuring Proper Functionality of External Speakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-supplements-to-enhance-gopro-for-2024/"><u>Superior Supplements to Enhance GoPro for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-key-to-video-marketing-dominance-youtubes-seo-secrets/"><u>The Key to Video Marketing Dominance YouTube's SEO Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-best-zero-cost-image-editors-online-for-2024/"><u>Ultimate Guide Best Zero-Cost Image Editors Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-full-screen-flexibility-with-pip-feature-on-iphones-for-2024/"><u>Unlock Full Screen Flexibility with PIP Feature on iPhones for 2024</u></a></li>
 </ul></div>
 

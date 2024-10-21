@@ -1,7 +1,7 @@
 ---
 title: "Lenovo Chromebook Duet 3 Evaluation: A Game-Changer in Affordable Chrome OS Devices Redefined for Enhanced Performance | GadgetsDaily"
-date: 2024-09-19 11:18:18
-updated: 2024-09-20 12:18:39
+date: 2024-10-16T16:37:27.976Z
+updated: 2024-10-20T17:52:01.233Z
 tags:
   - google
 categories:
@@ -51,6 +51,13 @@ Fortunately, today's $300 Chromebooks yield much better experiences. The [Lenovo
 | **Camera**           | 5MP front, 8MP rear                                             |
 | **Connection ports** | 2x USB-C 3.2 Gen 1, pogo-pin (for detachable keyboard)          |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design
 
 I'll admit, the least exciting part of the Lenovo Chromebook Duet 3 is its design. Well, that is, before you snap on the included accessories that give it its 2-in-1 charm.
@@ -77,6 +84,13 @@ June Wan/ZDNet
 
 Having a second USB-C port means that you can reassuringly connect the Lenovo Chromebook to an external monitor _while_ keeping it charged. This was especially handy when I was testing the device's HDMI streaming, a task that often triggers performance throttling and intense battery drainage. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Accessories
 
 As I mentioned before, the bundled accessories do a lot of heavy lifting for the Duet 3's functionality. The keyboard, much like the one that came with the original Duet, is compact and responsive. Installing it is as simple as aligning its pogo pins to that of the tablet and snapping the two together. Note that the keyboard is not Bluetooth or wireless compatible, so you can't detach it from the tablet and continue typing.
@@ -92,6 +106,13 @@ The included keyboard features a row of function keys and a clicky trackpad.
 June Wan/ZDNet
 
 Lastly, the included kickstand case has a slot to house a stylus, even though Lenovo doesn't put one in the box. The best (and only) explanation for this is because the Duet 3 supports Universal Stylus Initiative (USI) 2.0 and not USI 1.0\. Lenovo has yet to release its USI 2.0 stylus, so even though the Chromebook tablet is "future-proofed" you could say it's almost too ahead of its time. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance
 
@@ -114,6 +135,19 @@ The Lenovo Chromebook Duet 3 is fit for at-home and on-the-go use.
 June Wan/ZDNet
 
 Lastly, the speakers on the 2-in-1 are side-firing, moderately loud, and have a dispiriting lack of bass. There's no 3.5mm headphone jack on board, so I'd recommend pairing up a set of earbuds or headphones to get the best sound. 
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battery
 
@@ -162,11 +196,27 @@ Beyond the scope of Chromebooks, the Surface Go 3 is an affordable, Windows-powe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-excellent.techidaily.com/1-effortless-data-restoration-with-aomei-onekey-the-ultimate-one-click-solution/"><u>1. Effortless Data Restoration with AOMEI OneKey - The Ultimate One-Click Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-inshot-cuts-for-professional-edge/"><u>2024 Approved Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-where-to-pull-off-ringtone-files/"><u>2024 Approved Ultimate List Where To Pull Off Ringtone Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024s-ultimate-monitor-matches-for-professional-photographers/"><u>2024’S Ultimate Monitor Matches for Professional Photographers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/distinguishing-between-echo-pop-and-echo-dot-a-comprehensive-guide/"><u>Distinguishing Between Echo Pop and Echo Dot - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-diving-deep-into-whatsapps-vocal-messaging-experience/"><u>In 2024, Diving Deep Into WhatsApp's Vocal Messaging Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-functionality-of-unmanned-aerial-vehicles-explored/"><u>In 2024, The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-download-land-free-photo-frames-for-2024/"><u>Navigating Download Land Free Photo Frames for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-the-best-yts-premier-unboxing-sites-for-2024/"><u>The Best of the Best YT's Premier Unboxing Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-tutorial-on-using-snapchat-spotlight-for-2024/"><u>The Essential Tutorial on Using Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-y17s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Y17s.</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Masterclass: How to Seamlessly Incornate Gems for Enhanced Efficiency in Ruby Development."
-date: 2024-09-19 23:47:57
-updated: 2024-09-20 12:16:16
+date: 2024-10-14T16:53:45.716Z
+updated: 2024-10-20T22:49:14.807Z
 tags:
   - google
 categories:
@@ -35,6 +35,13 @@ These premade Gems include a Brainstormer, Career guide, Coding partner, Learnin
 
 For example, you can customize the Brainstormer Gem with new instructions to better suit the project you are working on. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make Gems that tackle repetitive tasks
 
 As mentioned in the intro, one of the biggest advantages of custom AI assistants is that they allow you to avoid repeatedly entering the same instructions. As a result, customizing a Gem is especially useful in scenarios where you will be inputting the prompt to get assistance with the same task. 
@@ -44,6 +51,13 @@ As mentioned in the intro, one of the biggest advantages of custom AI assistants
 "One of our team members has this great use case about how they tend to write in a lot of run-on sentences," said Tokuno. "So they created a Gem to help simplify their writing and break up long sentences."
 
 If you are stuck on how to customize your Gems to fit your task exactly, the next tip might come in handy. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Let Gemini help you with your Gem customization 
 
@@ -67,6 +81,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Be specific 
 
 Your custom AI assistant can only help you as much as you instruct it. Therefore, the more specific you are, the more tailored and useful the assistant will be. Google provides an example of using Gemini to role-play a conversation. 
@@ -74,6 +95,13 @@ Your custom AI assistant can only help you as much as you instruct it. Therefore
  "Whether that's with a friend or a colleague, you might want to prep," said Tokuno. "And you can use a Gem to do a test run."
 
 In those scenarios, you want to be as specific as possible about who Gems is role-playing to make your conversation as effective as possible. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Incorporate into your team 
 
@@ -102,11 +130,27 @@ Last but not least, Tuoko encourages users to think of Gems as their team, givin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[Updated] 2024 Approved Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-efficient-steps-for-capturing-iphone-screens/"><u>2024 Approved Efficient Steps for Capturing iPhone Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-snapchats-spotlight-mechanics/"><u>2024 Approved Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-between-the-latest-gadgets-apple-watch-series-9-or-fitbit-charge-6/"><u>Deciding Between the Latest Gadgets: Apple Watch Series 9 or Fitbit Charge 6?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fix-stuck-instagram-story-pins-for-2024/"><u>Fix Stuck Instagram Story Pins for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-efficiency-boost-discover-the-top-5-youtube-shorteners/"><u>In 2024, Efficiency Boost Discover the Top 5 YouTube Shorteners</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oppo-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Oppo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>In 2024, The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi Note 12 5G FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-blueprint-to-establishing-an-online-review-community-for-toys-for-2024/"><u>The Blueprint to Establishing an Online Review Community for Toys for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-images-into-scenes-syncing-beats-for-2024/"><u>Turning Images Into Scenes, Syncing Beats for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y02t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y02T Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+</ul></div>
+

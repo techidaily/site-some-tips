@@ -1,7 +1,7 @@
 ---
 title: "Step by Step Guide: Implementing Dual Authentication to Strengthen Online Safety | Cybersecurity Tips From ZDNet"
-date: 2024-09-17 19:27:50
-updated: 2024-09-20 10:42:53
+date: 2024-10-17T17:06:35.550Z
+updated: 2024-10-20T21:57:11.344Z
 tags:
   - google
 categories:
@@ -77,6 +77,13 @@ When you set up this form of 2FA on an account for the first time, you're typica
 
 Some services allow you to set up a trusted email address to receive authentication codes. The process is identical to the one for using text messages. Enter your preferred email address, wait for a code to arrive in your email app, and enter the code to confirm that this method works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I set up 2FA with an authenticator app?
 
 To set up an authenticator app as a trusted device, you have to first prove that you can sign into the service using your password, then prove that you are who you say you are on the trusted device, using biometrics or a PIN.
@@ -114,6 +121,13 @@ Some 2FA settings include an option to generate special app passwords for use wi
 
 As part of the 2FA setup process, you should also generate one or more recovery codes, which you can print out and store in a safe place. In the event your smartphone is lost or damaged, you can use those codes to regain access to your account. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I transfer 2FA accounts to a new smartphone?
 
 If you use SMS text messages as a second factor for authentication, transferring your number to the new phone will seamlessly transfer your 2FA setup too.
@@ -144,6 +158,13 @@ Or maybe you don't need a dedicated authenticator app at all. Increasingly, pass
 
 If you prefer, you can also mix and match authenticator apps on a trusted device. I use 1Password to save both passwords and 2FA codes for most sites and services, making sign-in even more seamless. However, I use the separate [Microsoft Authenticator](https://www.microsoft.com/en-us/account/authenticator) app for high-value accounts, including verification codes for setting up 1Password on a new device. I go into more detail about your authenticator app options here: ["Protect yourself: How to choose the right two-factor authenticator app."](https://www.zdnet.com/article/protect-yourself-how-to-choose-the-right-two-factor-authenticator-app/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How do I know which services support 2FA?
 
 When I started writing about this technology, more than a decade ago, 2FA support was relatively rare. Today, it's commonplace and increasingly becoming a checklist feature that security-conscious customers demand from online services. 
@@ -158,6 +179,13 @@ When I started writing about this technology, more than a decade ago, 2FA suppor
 2FA support is ubiquitous among social media services (Facebook, X/Twitter, Instagram, and so on). Every online storage service worth considering supports 2FA, as do most domain registrars and web hosting companies. If you're unsure about a specific service, the best place to check is a superb open source information repository called the [2FA Directory](https://2fa.directory/), which is run by a [Swedish nonprofit, the 2factorauth group](https://2fa.directory/about/), and [maintained on GitHub](https://github.com/2factorauth/twofactorauth).
 
 And if a high-value service you rely on doesn't support 2FA, well, maybe you should consider switching to one that does. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which services should I protect first?
 
@@ -203,11 +231,33 @@ You probably have login credentials at dozens of online services that support 2F
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-action-sequence-alerts-mastering-4-techniques-on-the-xbox-one/"><u>[New] In 2024, Action Sequence Alerts Mastering 4 Techniques on the Xbox One</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leading-face-transformation-apps-for-iphones-and-androids/"><u>[New] Leading Face Transformation Apps for iPhones & Androids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-ensuring-unbiased-decision-making/"><u>[New] Techniques For Ensuring Unbiased Decision-Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>[New] The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-creative-expression-incor-points-on-sharing-gifs-on-snapchat/"><u>[New] Unlock Creative Expression Incor Points on Sharing Gifs on Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-leading-webcam-models-enhancing-twitchs-viewer-experience/"><u>[Updated] Leading Webcam Models Enhancing Twitch's Viewer Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-outstanding-evaluation-and-alternative-paths/"><u>[Updated] Outstanding Evaluation & Alternative Paths</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest/"><u>[Updated] Streamlined Processes for Exporting Video Assets as MP3 on Pinterest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[Updated] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-at-memes-app-version/"><u>2024 Approved The Best at Memes (App Version)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-y100-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo Y100 to Another | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-wipe-clean-your-gmail-app-a-comprehensive-approach/"><u>How To Wipe Clean Your Gmail App - A Comprehensive Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-iphone-x876-owners-must-have-gif-apps-guide/"><u>In 2024, IPhone X/8/7/6 Owners' Must-Have GIF Apps Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-practices-to-personalize-snapchat-video-playback/"><u>In 2024, Top Practices to Personalize Snapchat Video Playback</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-konvertierung-mit-der-tta-datei-von-movavi-kostenlos/"><u>MP3 Konvertierung Mit Der TTA-Datei Von Movavi - Kostenlos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-mi-drone-4k-review-drones-vs-landscape-photography-for-2024/"><u>The Mi Drone 4K Review Drones vs Landscape Photography for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-printing-perfection-new-hp-drivers-available/"><u>Windows 11 Printing Perfection - New HP Drivers Available</u></a></li>
+</ul></div>
+

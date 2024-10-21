@@ -1,7 +1,7 @@
 ---
 title: Mike Cannon-Brookes & Grok Ventures Secure Majority Share in AGL, Thwarting Divestment Strategy - ZDNet
-date: 2024-09-17 23:16:52
-updated: 2024-09-20 12:54:28
+date: 2024-10-19T16:41:59.396Z
+updated: 2024-10-20T16:10:15.030Z
 tags:
   - energy
 categories:
@@ -43,11 +43,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[New] Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1717722974971-updated-in-2024-how-to-see-your-subscribers-on-youtube/"><u>[Updated] In 2024, How to See Your Subscribers on YouTube?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-basics-of-motion-design/"><u>2024 Approved Understanding the Basics of Motion Design</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-interaction-on-pc-with-nvidias-innovative-chatbot/"><u>Enhancing Interaction on PC With Nvidia’s Innovative Chatbot</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-m14-4g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy M14 4G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>In 2024, Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oneplus-12-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-minimizing-vr-nausea-effective-strategies/"><u>In 2024, Minimizing VR Nausea Effective Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-selling-oculus-rift-gaming-experiences/"><u>In 2024, The Best-Selling Oculus Rift Gaming Experiences</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-convert-your-videos-top-mp4-to-mp3-converters-for-any-device-for-2024/"><u>New Convert Your Videos Top MP4 to MP3 Converters for Any Device for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

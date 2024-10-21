@@ -1,7 +1,7 @@
 ---
 title: "Impeding Green Initiatives & AI Progress: The Role of Inefficient Data Centers | ZDNet Insights"
-date: 2024-09-18 18:28:40
-updated: 2024-09-20 11:54:11
+date: 2024-10-15T17:15:34.189Z
+updated: 2024-10-20T23:03:02.660Z
 tags:
   - energy
 categories:
@@ -43,11 +43,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/fficiency-in-action-rapid-removal-of-youtube-discussions/"><u>[New] Efficiency in Action Rapid Removal of YouTube Discussions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-backdrop-change-kit-pixelpioneers-reveal/"><u>[New] Ultimate Backdrop Change Kit PixelPioneer's Reveal</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-filmmakers-companion-quickly-convert-any-avi-file-into-a-trendy-gif-using-filmora-for-2024/"><u>[Updated] Filmmakers' Companion Quickly Convert Any AVI File Into a Trendy GIF Using Filmora for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>[Updated] The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-accompanying-visual-content-with-music/"><u>2024 Approved The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-stunning-photos-on-iphones-for-2024/"><u>Expert Tips for Stunning Photos on iPhones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-android-time-lapses-innovations-in-video-capture/"><u>In 2024, The Future of Android Time-Lapses Innovations in Video Capture</u></a></li>
+<li><a href="https://media-tips.techidaily.com/multichannel-sports-broadcasts-on-youtube-tv-the-future-of-personalized-sportscasting/"><u>Multichannel Sports Broadcasts on YouTube TV: The Future of Personalized Sportscasting.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-world-of-electronics-with-toms-review-site/"><u>Navigating the World of Electronics with Tom's Review Site</u></a></li>
+<li><a href="https://techidaily.com/redefine-your-customer-journey-with-advanced-interaction-automation/"><u>Redefine Your Customer Journey with Advanced Interaction Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-video-editing-apps-for-macos-big-sur-11-for-2024/"><u>Top 6 Video Editing Apps for macOS Big Sur 11 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

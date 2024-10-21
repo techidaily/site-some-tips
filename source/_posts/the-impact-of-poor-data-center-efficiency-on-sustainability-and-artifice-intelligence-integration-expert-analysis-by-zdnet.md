@@ -1,7 +1,7 @@
 ---
 title: The Impact of Poor Data Center Efficiency on Sustainability and Artifice Intelligence Integration | Expert Analysis by ZDNet
-date: 2024-09-18 23:26:40
-updated: 2024-09-20 10:31:24
+date: 2024-10-15T20:00:52.520Z
+updated: 2024-10-20T21:16:53.334Z
 tags:
   - energy
 categories:
@@ -43,11 +43,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-pictorial-archive-networks/"><u>[New] Excellent Pictorial Archive Networks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dissecting-fraps-screen-capture-features/"><u>[Updated] In 2024, Dissecting Fraps Screen Capture Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-laugh-out-loud-and-weepy-instagrams-best-meme-communities/"><u>[Updated] In 2024, Laugh Out Loud & Weepy Instagram's Best Meme Communities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>[Updated] The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-sourcing-top-tier-instagram-ringtones-and-crafting-standout-alarms/"><u>[Updated] The Ultimate Blueprint for Sourcing Top-Tier Instagram Ringtones and Crafting Standout Alarms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images/"><u>[Updated] The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exploring-the-huawei-p10s-user-interface-and-usability/"><u>2024 Approved Exploring the Huawei P10's User Interface & Usability</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos/"><u>2024 Approved Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>2024 Approved The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>2024 Approved Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/continuous-monitoring-and-health-insights-a-deep-dive-into-the-fitbit-inspire-hr-tracker/"><u>Continuous Monitoring & Health Insights: A Deep Dive Into the Fitbit Inspire HR Tracker</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-windows-10-performance-tips-on-using-sfc-and-dism-tools/"><u>How to Restore Windows 10 Performance: Tips on Using SFC and DISM Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harmonizing-vision-and-voice-the-ultimate-guide/"><u>In 2024, Harmonizing Vision and Voice The Ultimate Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g73-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Moto G73 5G Phones with/without a PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-budgets-youtube-marketing-investments/"><u>In 2024, Understanding Budgets YouTube Marketing Investments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-a-diy-guide-to-haul-edits-for-2024/"><u>Unleash Creativity with a DIY Guide to Haul Edits for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

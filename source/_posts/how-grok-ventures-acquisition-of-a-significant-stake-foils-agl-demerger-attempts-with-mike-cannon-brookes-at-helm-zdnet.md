@@ -1,7 +1,7 @@
 ---
 title: How Grok Ventures' Acquisition of a Significant Stake Foils AGL DeMerger Attempts with Mike Cannon-Brookes at Helm | ZDNET
-date: 2024-09-19 11:47:27
-updated: 2024-09-20 11:10:30
+date: 2024-10-14T19:56:39.100Z
+updated: 2024-10-20T16:13:51.790Z
 tags:
   - energy
 categories:
@@ -43,11 +43,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-best-practices-boosting-your-game-videos-with-tags/"><u>[New] 2024 Approved Best Practices Boosting Your Game Videos with Tags</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-basic-to-exceptional-a-step-by-step-thumbnail-guide-for-2024/"><u>[New] From Basic to Exceptional A Step-by-Step Thumbnail Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-navigating-the-world-of-hulu-recordings-windowsmaciosandroid/"><u>[New] Navigating the World of Hulu Recordings Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>[New] The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-accessories-to-elevate-your-sj4000-experience/"><u>[New] Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>[New] Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-cinematic-images-post-production-of-vt-videos-with-fcpx/"><u>[Updated] 2024 Approved Cinematic Images Post-Production of VT Videos with FCPX</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>[Updated] Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-pro-tiktok-editing-techniques/"><u>[Updated] Ultimate Guide Pro TikTok Editing Techniques</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-of-dts-play-fi-technology/"><u>Exploring the Features of DTS Play-Fi Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>In 2024, The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-twirl-forge-instruments/"><u>In 2024, Twirl Forge Instruments</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolved-windows-10-auto-delete-files-how-to-stop-and-fix/"><u>Resolved: Windows 10 Auto-Delete Files - How To Stop & Fix</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-layers-of-a-great-humorous-poster-for-2024/"><u>The Layers of a Great Humorous Poster for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Snag Exclusive Savings: Mastering the Art of Early Orders for Google Pixel 9 & Pro Models + The Upcoming Pixel 9 Pro Flex!"
-date: 2024-09-17 23:55:55
-updated: 2024-09-20 11:23:25
+date: 2024-10-18T16:45:37.284Z
+updated: 2024-10-20T23:13:42.985Z
 tags:
   - google
 categories:
@@ -33,6 +33,13 @@ The smallest, standard Google phone, the [Pixel 9](https://www.zdnet.com/article
 
 ##   
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro
 
 The ["Pro" model of the Pixel 9](https://www.zdnet.com/article/i-tested-the-google-pixel-9-pros-add-me-feature-and-found-it-crazy-clever/) features a 6.3-inch Super Actua display (with a higher brightness rating than the Actua), 16GB of RAM, a 42MP front camera, and three rear cameras (50MP wide, 48MP ultrawide, and 48MP telephoto). Pixel 9 Pro users also get one year of Google One AI Premium Plan, which includes Gemini Advanced and Gemini Live access and 2TB of cloud storage. Pricing starts at $999, and the device is available in Obsidian, Porcelain, Hazel (grey), and Rose Quartz (pink). 
@@ -51,6 +58,13 @@ The [foldable version of the Pixel 9 Pro](https://www.zdnet.com/article/google-p
 
 [Preorder Now Pixel 9 Pro Fold at Google Get $350 in Google Store credit when you buy the Pixel 9 Pro Fold through Sept. 7\. View at Google](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/pixel%5F9%5Fpro%5Ffold?)[Preorder Now Pixel 9 Pro Fold at Amazon Preorder the Pixel 9 Pro Fold at Amazon and get a free $350 gift card. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Fold-Smartphone%2Fdp%2FB0DBW3RBPT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd94af500-bffc-4ef2-bc8d-c37e9a520e37%7Cdtp&dtb=1)[Preorder Now Pixel 9 Pro Fold at Verizon Save $900 when you buy the Google Pixel 9 Pro Fold device at Verizon. _Terms: Unlimited Ultimate plan required. Promo credit may change based on other Unlimited plans. May not be combined with other offers._ View at Verizon](https://www.jdoqocy.com/click-9041660-15881169-1723575143000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Preorder Now Pixel 9 Pro Fold at T-Mobile Get up to $1,000 off the Pixel 9, 9 Pro, 9 Pro XL and 9 Pro Fold when trading in or adding a line on Go5G Plus/Next or Go5G Business Plus/Next, via 24 monthly bill credits plus tax. View at T-mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-fold)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Pixel 9 series preorders and deals   
 
 Kerry Wan/ZDNET
@@ -62,11 +76,25 @@ Kerry Wan/ZDNET
 * Get [NFL Sunday Ticket from YouTube and YouTube TV](https://www.tkqlhce.com/click-9041660-15733793?url=https%3A%2F%2Fwww.verizon.com%2Fnfl-sunday-ticket-on-youtube-streaming%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for free when you purchase a new [Google Pixel 9](https://www.anrdoezrs.net/click-9041660-15881168-1723575173000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and sign up for a new line on Unlimited Plus or Unlimited Ultimate.
 * [Get 20%](https://www.tkqlhce.com/click-9041660-15733793?url=https%3A%2F%2Fwww.verizon.com%2Fproducts%2Fshop%2Fonline%2Fgoogle-pixel-9-cases-screen-protectors-sale%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) off Pixel 9 series cases, screen protectors and select chargers for a limited time while supplies last.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Google Pixel 9 offers at AT&T
 
 * Get the [Pixel 9 Pro for free](https://www.dpbolvw.net/click-9041660-15880197-1723491434000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) when you buy with a qualifying plan and trade in a Pixel smartphone (any year, any condition). Preorder by 8/21 and get double the storage.
 * Get the [Pixel 9 Pro XL for free](https://www.tkqlhce.com/click-9041660-15880193-1723491402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) when you buy with a qualifying plan and trade in a Pixel smartphone (any year, any condition). Preorder by 8/21 and get double the storage.
 * Get the [Pixel 9](https://www.dpbolvw.net/click-9041660-15880192-1723489924000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for just $10.99/month (no trade-in required).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Pixel 9 offers at T-Mobile 
 
@@ -100,11 +128,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-craft-your-channels-moniker-youtube-naming-tools-and-tips/"><u>[New] 2024 Approved Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audio-excellence-premium-recording-mics-ranked/"><u>[New] Audio Excellence Premium Recording Mics Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-photos-with-photoshops-dynamic-motion-blur-feature/"><u>[New] Tailoring Photos with Photoshop's Dynamic Motion Blur Feature</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-2023-panorama-of-facebooks-micro-videos-insights-and-impact/"><u>[New] The 2023 Panorama of Facebook's Micro-Videos Insights and Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-accessories-for-yi-4k-action-camera/"><u>[Updated] Best Accessories for YI 4K Action Camera</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-compreeved-art-of-audio-notes-capture/"><u>2024 Approved The Compreeved Art of Audio Notes Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-art-of-crafting-excellent-zoom-conferences/"><u>In 2024, The Art of Crafting Excellent Zoom Conferences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-live-performances-best-audio-platforms-for-2024/"><u>Top Live Performances Best Audio Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncharted-territories-discovering-hidden-vlc-capabilities-for-2024/"><u>Uncharted Territories Discovering Hidden VLC Capabilities for 2024</u></a></li>
+</ul></div>
+

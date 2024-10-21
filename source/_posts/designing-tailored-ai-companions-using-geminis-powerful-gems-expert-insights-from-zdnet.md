@@ -1,7 +1,7 @@
 ---
 title: Designing Tailored AI Companions Using Geminis' Powerful Gems | Expert Insights From ZDNET
-date: 2024-09-17 12:42:35
-updated: 2024-09-20 12:24:20
+date: 2024-10-15T17:46:59.665Z
+updated: 2024-10-20T23:16:38.581Z
 tags:
   - google
 categories:
@@ -39,6 +39,13 @@ Once you have a paid subscription, sign in with your account at the [Google Gemi
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Access premade Gems through Gem manager
 
 Click the entry in the left sidebar that reads "Gem manager." On the main screen, there are several premade Gems from Google that you can try to see how they work. Click one of the premade models, the options include "Brainstormer," "Career guide," "Coding partner," "Learning coach," or "Writing editor."
@@ -65,6 +72,13 @@ When you are ready, you can also submit your own question or prompt and see how 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Create your own Gem
 
 Now that you've experienced how Gems work, it's time to cook up your own. Return to the "Gem Manager" page and click the "New Gem" button. To start, create a name for your Gem. Next, type the instructions for the Gem to explain the purpose you want it to serve.
@@ -85,11 +99,25 @@ If once you see the results you want to tweak the instructions, click in the Ins
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Save your Gem
 
 If you're happy with your Gem and the information it provides, click the Save button to save it. A message tells you that your Gem has been created. To further use your Gem, click the link for "Start Chat."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Other Gem options
 
@@ -124,11 +152,28 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[New] Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[New] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality/"><u>[Updated] In 2024, Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-edits-how-to-negate-distracting-surroundings-using-affinity-photo/"><u>2024 Approved Transform Your Edits How to Negate Distracting Surroundings Using Affinity Photo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-pip-in-edge-for-a-superior-browsing-experience/"><u>2024 Approved Unlock PIP in Edge for a Superior Browsing Experience</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/breaking-out-of-your-iphones-persistent-data-recovery-loop-with-simple-fixes/"><u>Breaking Out of Your iPhone's Persistent 'Data Recovery' Loop with Simple Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>In 2024, Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visuals-detailed-guide-to-hero5-black-proficiency/"><u>In 2024, Unlocking Visuals Detailed Guide to Hero5 Black Proficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intellectual-ownership-of-machine-learning-outputs/"><u>Intellectual Ownership of Machine Learning Outputs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserving-high-quality-outputs-a-guide-to-lossless-video-trimming-in-windows-11/"><u>Preserving High-Quality Outputs: A Guide to Lossless Video Trimming in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-innovative-5k-screens-ranked-8-for-2024/"><u>The Most Innovative 5K Screens Ranked #8 for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-g42-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia G42 5G without backup.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-resolving-the-blackout-issue-during-your-facetime-calls/"><u>Troubleshooting Guide: Resolving the Blackout Issue During Your FaceTime Calls</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Phantom V Fold | Dr.fone</u></a></li>
+</ul></div>
+

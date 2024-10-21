@@ -1,7 +1,7 @@
 ---
 title: "Introducing Leviton's Innovative Smart Devices: Spotlight on the Revolutionary First Matter Outdoor Plug | Tech Insights by ZDNET"
-date: 2024-09-17 21:45:21
-updated: 2024-09-20 11:10:15
+date: 2024-10-16T18:51:44.582Z
+updated: 2024-10-20T20:48:43.100Z
 tags:
   - energy
 categories:
@@ -43,11 +43,36 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twit-favorites-of-the-year-amazon-primes-peak-series/"><u>[Updated] In 2024, Twit-Favorites of the Year Amazon Prime's Peak Series</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-zoom-expertise-for-improved-google-meet-visibility/"><u>[Updated] The Ultimate Zoom Expertise for Improved Google Meet Visibility</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-daily-video-size-summation-total-gb-cost/"><u>2024 Approved Daily Video Size Summation Total GB Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>2024 Approved Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subject-emphasis-background-cleanse/"><u>2024 Approved Subject Emphasis Background Cleanse</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>2024 Approved Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/effortlessly-share-window-movie-creations-with-vimeo/"><u>Effortlessly Share Window Movie Creations with Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhancing-video-creativity-with-effective-filmora-strategies/"><u>Enhancing Video Creativity with Effective Filmora Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/flight-simulation-enthusiasts-rejoice-the-immersive-world-of-x-plane-11s-cutting-edge-visual-design-reviewed/"><u>Flight Simulation Enthusiasts Rejoice! The Immersive World of X-Plane 11'S Cutting-Edge Visual Design Reviewed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/go-viral-fast-with-these-8-proven-techniques-for-youtube-success/"><u>Go Viral Fast with These 8 Proven Techniques for YouTube Success</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 iOS System? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-30-pro-windows-10-secrets-revealed/"><u>In 2024, Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-finest-10-online-spots-to-download-pristine-photos-for-2024/"><u>The Finest 10 Online Spots to Download Pristine Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-zero-price-screen-capture-software-for-windows-10-users-for-2024/"><u>Top 5 Zero Price Screen Capture Software for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-creativity-the-top-10-after-effects-templates-for-2024/"><u>Unleashing Creativity The Top 10 After Effects Templates for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Results & Champion
-date: 2024-09-17 20:46:53
-updated: 2024-09-20 12:30:37
+date: 2024-10-18T22:00:53.144Z
+updated: 2024-10-20T16:51:23.567Z
 tags:
   - google
 categories:
@@ -71,6 +71,19 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 
 I would prefer the iPhone shot for this particular image but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A clear winner in night time
 
 1x indoor with artificial lights
@@ -97,6 +110,13 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro XL gets good at selfies
 
 Zoomed out selfies
@@ -106,6 +126,13 @@ Prakhar Khanna/ZDNET
 I like the selfie shooter on the iPhone 15 Pro and have found it better than Android phones. But it tends to blow out highlights sometimes. I didn't find that to be an issue on the Pixel 9 Pro. The above two selfies were taken in zoomed-out mode to check for the edge distortion (none) and FoV. 
 
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
 
@@ -140,11 +167,31 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-essential-knowledge-for-capturing-your-dell-device-writingscreen/"><u>[New] 2024 Approved Essential Knowledge for Capturing Your Dell Device' Writingscreen</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metaverse-mirth-makers-top-tips-for-crafting-hilarious-virtual-images/"><u>[New] Metaverse Mirth Makers Top Tips for Crafting Hilarious Virtual Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-videos-with-magix-video-pro-x/"><u>[New] Transform Your Videos with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-video-conferencing-with-zoom-and-gmail/"><u>[Updated] Seamless Video Conferencing with Zoom & Gmail</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turbocharge-fb-video-speed-selective-extensions-and-apps-guidebook/"><u>[Updated] Turbocharge FB Video Speed Selective Extensions & Apps Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>2024 Approved The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-set-up-your-hp-thunderbolt-dock-g2-with-120w-and-230w-options/"><u>How to Download & Set Up Your HP Thunderbolt Dock G2 with 120W and 230W Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-showdown-top-6-hdmi-21-monitors-reviewed/"><u>In 2024, The Ultimate Screen Showdown Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-non-bandicamp-capture-tools-for-mac-users/"><u>In 2024, Top 5 Non-Bandicamp Capture Tools for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-camera-tech-s-filmmaking/"><u>In 2024, Unparalleled Camera Tech 'S Filmmaking</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-video-effects-handbook-tips-and-tricks/"><u>New The Ultimate Video Effects Handbook Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stream-your-audiovid-creations-here-for-2024/"><u>Stream Your AudioVid Creations Here for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-connectors-companion-instagram-to-tiktok-guide-for-2024/"><u>The Connector's Companion Instagram to TikTok Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-free-high-quality-subtitle-tools-for-2024/"><u>The Ultimate Guide to FREE, High-Quality Subtitle Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-contenuti-audiovisivi-con-winxvideo-ai-per-unesperienza-visiva-senza-pari/"><u>Trasforma I Tuoi Contenuti Audiovisivi Con Winxvideo AI per Un'esperienza Visiva Senza Pari</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-chrome-to-pro-running-professional-video-editing-software-on-your-chromebook/"><u>Updated 2024 Approved From Chrome to Pro Running Professional Video Editing Software on Your Chromebook</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Note 30 5G | Dr.fone</u></a></li>
+</ul></div>
+

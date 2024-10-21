@@ -1,7 +1,7 @@
 ---
 title: "Seamless Collaboration: Merging Google Calendar and Slack - A Step-by-Step Guide"
-date: 2024-09-17 12:14:31
-updated: 2024-09-20 12:12:17
+date: 2024-10-16T22:11:56.542Z
+updated: 2024-10-20T21:26:15.806Z
 tags:
   - google
 categories:
@@ -34,11 +34,25 @@ Before I continue with the installation of the Google Calendar app, know that yo
 
 With that said, let's install the Google Calendar app on Slack. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Installing the Google Calendar app 
 
 ###  1\. Log in to Slack 
 
 The first task is to log in to your Slack workspace in either the Slack app or the web version. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. Locate the app 
 
@@ -70,6 +84,13 @@ You will then have to again click Allow to complete the installation.
 
 ##  Using the Google Calendar app 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. Viewing events and settings 
 
 Let's say you want to see today's events in your Google Calendar. For that, type: 
@@ -91,6 +112,19 @@ Hit Enter and you'll see all of the options available for the app (**Figure 5**)
 **Figure 5:** In the Settings window you can add new calendars (from your Google Calendar list) and enable or disable notifications.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. Adding events to your calendar 
 
@@ -129,11 +163,24 @@ And that's all it takes to integrate your Google Calendar with Slack. For anyone
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube-for-2024/"><u>[New] Brand Battlegrounds Mastery of Marketing Metrics on YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-amplify-your-profile-pull-clever-hacks-that-work-on-tinder/"><u>[Updated] 2024 Approved Amplify Your Profile Pull Clever Hacks That Work on Tinder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-compelling-vlog-dialogue-crafting/"><u>[Updated] The Art of Compelling Vlog Dialogue Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram/"><u>[Updated] Unleash Creativity Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>[Updated] Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fast-forward-to-forgotten-reddit-threads-for-2024/"><u>Fast Forward to Forgotten Reddit Threads for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-scanning-mastery-using-fraps-tools/"><u>In 2024, Screen Scanning Mastery Using Fraps Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-internal-server-errors-windows-1011-tips/"><u>Overcoming Internal Server Errors: Windows 10/11 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-joy-of-journeys-end-innovative-box-revelations-for-2024/"><u>The Joy of Journey's End Innovative Box Revelations for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/zero-price-super-quality-youtube-thumbnails-extractor-guide-for-2024/"><u>Zero Price, Super Quality YouTube Thumbnails Extractor Guide for 2024</u></a></li>
+</ul></div>
+

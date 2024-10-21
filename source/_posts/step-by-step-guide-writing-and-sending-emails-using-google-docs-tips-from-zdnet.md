@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Writing and Sending Emails Using Google Docs - Tips From ZDNet"
-date: 2024-09-18 21:59:30
-updated: 2024-09-20 12:53:54
+date: 2024-10-16T16:37:48.066Z
+updated: 2024-10-20T19:39:41.475Z
 tags:
   - google
 categories:
@@ -31,13 +31,34 @@ You've been tasked to compose emails that are to be sent out to clients, custome
 
 ## **Creating an email draft in Google Docs**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Open a new Google Docs document.** 
 
 **Place your cursor anywhere in the document.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Click Insert > Building Blocks > Email draft (Figure 1).**
 
 **![email draft on menu bar](https://www.zdnet.com/a/img/resize/6708cadf9696f563a35b8272080a1374fd34f1ed/2022/05/19/0b63aea7-8061-4920-b5c0-21adfc12b651/email1.jpg?auto=webp&width=1280)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Adding an email draft into a Google Docs document.**
 
@@ -84,11 +105,25 @@ You've been tasked to compose emails that are to be sent out to clients, custome
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-car-load-error-on-gadget/"><u>[Fixed] Car Load Error on Gadget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-honing-hertz-gameplay-tactics-in-free-fire/"><u>[Updated] Honing Hertz Gameplay Tactics in Free Fire</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-leveraging-background-footage-for-engaging-content/"><u>2024 Approved Leveraging Background Footage for Engaging Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-full-screen-preview-tutorials/"><u>2024 Approved Step-by-Step Full Screen Preview Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>2024 Approved The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-10-family-friendly-movies-for-summertime-bliss/"><u>Essential 10 Family-Friendly Movies for Summertime Bliss</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-qanda-on-quantum-hdr-technology/"><u>In 2024, The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stopping-backlight-flickering-in-displays/"><u>Stopping Backlight Flickering in Displays</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-non-functional-subtitles-on-amazon-prime-videos/"><u>Troubleshooting Guide: Repairing Non-Functional Subtitles on Amazon Prime Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unlock Preorder Perks and Discounts on Google's Latest Innovations: Pixel #9, Pro Duo, & Pixel 9 Pro Fold | Insider Tips From ZDNet"
-date: 2024-09-19 13:48:41
-updated: 2024-09-20 12:19:11
+date: 2024-10-13T20:27:12.409Z
+updated: 2024-10-20T17:46:19.256Z
 tags:
   - google
 categories:
@@ -45,15 +45,42 @@ The [XL model of the Pixel 9 Pro](https://www.zdnet.com/article/google-pixel-9-p
 
 [Preorder Now Pixel 9 Pro XL at Best Buy Get a free $200 gift card when you preorder the Pixel 9 Pro and Pro XL at Best Buy. View at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-128gb-unlocked-hazel%2F6587889.p%3FskuId%3D6587889&publisher_slug=itechdaily19598&exclusive=1)[Preorder Now Pixel 9 Pro XL at Amazon Preorder the Pixel 9 Pro XL at Amazon and get a free $200 gift card. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0DBSVJ57F%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd94af500-bffc-4ef2-bc8d-c37e9a520e37%7Cdtp&dtb=1)[Preorder Now Pixel 9 Pro XL at Verizon Get a free memory upgrade when you order your Pixel 9 or Pixel 9 Pro XL for a limited time -- 512GB for the price of 256GB. View at Verizon](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.verizon.com/smartphones/google-pixel-9-pro-xl/?sku=sku6014804)[Preorder Now Pixel 9 Pro XL at Google Get $200 in Google Store credit when you buy the Pixel 9 Pro or Pro XL through Aug. 28\. View at Google](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/pixel%5F9%5Fpro?)[Preorder Now Pixel 9 Pro XL at AT&T Snag double storage on the Pixel 9, 9 Pro, and 9 Pro XL when you preorder at AT&T by Aug. 21. View at AT&T](https://www.tkqlhce.com/click-9041660-15880193-1723491402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Preorder Now Pixel 9 Pro XL at T-Mobile New and existing customers can get $100 off the Pixel 9 Pro and $200 off the Pixel 9 Pro XL. No need to add a line or trade in a device. View at T-mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-xl)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro Fold   
 
 The [foldable version of the Pixel 9 Pro](https://www.zdnet.com/article/google-pixel-9-pro-fold-four-best-features-that-make-it-the-foldable-phone-to-beat/) features a 6.3-inch Actua outer display and an 8-inch Super Actua inner display, 16GB of RAM, a 10MP front camera, and a similar camera configuration as last year's Pixel Fold (48MP wide, 10.5MP ultrawide, and 10.8MP telephoto). The price starts at $1,799, and the phone is available in Obsidian and Porcelain.
 
 [Preorder Now Pixel 9 Pro Fold at Google Get $350 in Google Store credit when you buy the Pixel 9 Pro Fold through Sept. 7\. View at Google](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/config/pixel%5F9%5Fpro%5Ffold?)[Preorder Now Pixel 9 Pro Fold at Amazon Preorder the Pixel 9 Pro Fold at Amazon and get a free $350 gift card. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Fold-Smartphone%2Fdp%2FB0DBW3RBPT%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd94af500-bffc-4ef2-bc8d-c37e9a520e37%7Cdtp&dtb=1)[Preorder Now Pixel 9 Pro Fold at Verizon Save $900 when you buy the Google Pixel 9 Pro Fold device at Verizon. _Terms: Unlimited Ultimate plan required. Promo credit may change based on other Unlimited plans. May not be combined with other offers._ View at Verizon](https://www.jdoqocy.com/click-9041660-15881169-1723575143000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Preorder Now Pixel 9 Pro Fold at T-Mobile Get up to $1,000 off the Pixel 9, 9 Pro, 9 Pro XL and 9 Pro Fold when trading in or adding a line on Go5G Plus/Next or Go5G Business Plus/Next, via 24 monthly bill credits plus tax. View at T-mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-fold)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## More Pixel 9 series preorders and deals   
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Pixel 9 offers at Verizon 
 
@@ -61,6 +88,13 @@ Kerry Wan/ZDNET
 * Get a 256GB [Pixel 9](https://www.anrdoezrs.net/click-9041660-15881168-1723575173000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) in select colors for free with a Business Unlimited plan, an eligible trade-in, and a free storage upgrade offer.
 * Get [NFL Sunday Ticket from YouTube and YouTube TV](https://www.tkqlhce.com/click-9041660-15733793?url=https%3A%2F%2Fwww.verizon.com%2Fnfl-sunday-ticket-on-youtube-streaming%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for free when you purchase a new [Google Pixel 9](https://www.anrdoezrs.net/click-9041660-15881168-1723575173000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and sign up for a new line on Unlimited Plus or Unlimited Ultimate.
 * [Get 20%](https://www.tkqlhce.com/click-9041660-15733793?url=https%3A%2F%2Fwww.verizon.com%2Fproducts%2Fshop%2Fonline%2Fgoogle-pixel-9-cases-screen-protectors-sale%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) off Pixel 9 series cases, screen protectors and select chargers for a limited time while supplies last.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Google Pixel 9 offers at AT&T
 
@@ -100,11 +134,25 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-secrets-to-effective-instagram-scheduling/"><u>[New] 2024 Approved Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-everything-you-need-to-know-about-making-a-photomontage/"><u>[New] Everything You Need to Know About Making a PhotoMontage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-battery-selection-guide-for-uavs/"><u>[New] The Ultimate Battery Selection Guide for UAVs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-insights-into-audio-memos/"><u>[Updated] The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>2024 Approved Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-android-3d-player-showcase/"><u>2024 Approved Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unbeatable-range-ultimate-4k-camera-rig-selection/"><u>2024 Approved Unbeatable Range Ultimate 4K Camera Rig Selection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anno-1800-update-addressing-and-correcting-directx-trouble-shooting-steps/"><u>Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-livestream-networks-you-need-to-watch/"><u>In 2024, The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-essential-list-of-religious-ringing-sounds-for-2024/"><u>The Essential List of Religious Ringing Sounds for 2024</u></a></li>
+</ul></div>
+

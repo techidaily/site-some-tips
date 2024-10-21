@@ -1,7 +1,7 @@
 ---
 title: "Explore Top 5 Innovative Features of iOS 18 Developer Preview: A Must-Read"
-date: 2024-10-08T21:43:25.443Z
-updated: 2024-10-14T18:05:12.580Z
+date: 2024-10-14T18:23:33.576Z
+updated: 2024-10-20T23:24:42.181Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,24 +128,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>[New] 2024 Approved Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>[Updated] 2024 Approved Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-pros-and-cons-deciphering-virtual-reality/"><u>2024 Approved Pros and Cons Deciphering Virtual Reality</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-utilizing-open-source-for-broadcasting-workshops/"><u>2024 Approved Utilizing Open-Source for Broadcasting Workshops</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavimxfwmv/"><u>如何使用Movavi将MXF免费转换为WMV格式：在线快速、高效转换服务</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cambia-file-raw-a-formato-jpg-gratuitamente-su-internet-usando-il-servizio-di-conversione-di-movavi/"><u>Cambia File RAW a Formato JPG Gratuitamente Su Internet Usando Il Servizio Di Conversione Di Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-tunes-in-mp3m4r-by-changing-aif-files-for-free-with-our-easy-online-tool/"><u>Get Your Tunes in MP3/M4R by Changing AIF Files for Free with Our Easy Online Tool!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/la-formule-facile-pour-conserver-vos-videos-de-tiktok-sous-toutes-formes-et-sur-tous-les-appareils/"><u>La Formule Facile Pour Conserver Vos Vidéos De TikTok Sous Toutes Formes Et Sur Tous Les Appareils !</u></a></li>
-<li><a href="https://win-trending.techidaily.com/la-solutions-incontournables-pour-le-clonage-de-systemes-sous-windows-7-une-superbe-alternative-a-clonezilla/"><u>La Solutions Incontournables Pour Le Clonage De Systèmes Sous Windows 7: Une Superbe Alternative À Clonezilla</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-outage-guide-is-the-service-down-or-can-you-watch-now/"><u>Netflix Outage Guide: Is The Service Down Or Can You Watch Now?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-transformation-from-m4a-to-mkv-without-costs-discover-the-power-of-movavi/"><u>Online Transformation From M4A to MKV without Costs: Discover the Power of Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-fix-updating-synaptics-ps2-touchpad-drivers-made-simple/"><u>Quick Fix: Updating Synaptics PS/2 Touchpad Drivers Made Simple</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/step-by-step-tutorial-copying-images-seamlessly-from-your-ios-devices/"><u>Step-by-Step Tutorial: Copying Images Seamlessly From Your iOS Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-quintessential-editing-advantages-of-filmora/"><u>The Quintessential Editing Advantages of Filmora</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-methods-to-create-a-screen-recording-on-your-iphone-11-a-comprehensive-guide/"><u>Top 4 Methods to Create a Screen Recording on Your iPhone 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-15-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 15</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformar-archivo-mxf-a-formato-mp4-gratis-en-linea-con-convertidor-de-movavi/"><u>Transformar Archivo MXF a Formato MP4 Gratis en Línea Con Convertidor De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-list-of-top-ranking-screen-recorder-applications-reviewed/"><u>Ultimate List of Top-Ranking Screen Recorder Applications Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/web-opus-ogg-movavi/"><u>Web에서 무료 OPUS OGG 제공 모드 – Movavi용 사전 처리 기술</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-photos-come-alive-with-accompanied-melodies/"><u>[New] In 2024, Photos Come Alive with Accompanied Melodies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-itunes-podcast-enrollment/"><u>[New] Tips for iTunes Podcast Enrollment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>[New] Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-editing-hacks-for-flawless-image-edits-on-canva/"><u>[New] Ultimate Editing Hacks for Flawless Image Edits on Canva</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-polaroid-cubeplus-action-camera-review/"><u>[Updated] Polaroid Cube+ Action Camera Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-scripting-fx-vaults/"><u>[Updated] Superior Scripting FX Vaults</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-complete-picture-toolwizs-app-masterclass-for-2024/"><u>[Updated] The Complete Picture Toolwiz's App Masterclass for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>[Updated] Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-funimate-pro-activation-guide-for-android-users/"><u>2024 Approved Funimate Pro Activation Guide for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-soloists-path-to-trending-podcasts/"><u>2024 Approved The Soloist's Path to Trending Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-trends-in-effective-podcast-naming/"><u>2024 Approved Top 10 Trends in Effective Podcast Naming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-spark-10-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Spark 10 5G Phone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-selection-the-11-greatest-inspiring-movie-masterpieces/"><u>Ultimate Selection: The 11 Greatest Inspiring Movie Masterpieces</u></a></li>
 </ul></div>
 

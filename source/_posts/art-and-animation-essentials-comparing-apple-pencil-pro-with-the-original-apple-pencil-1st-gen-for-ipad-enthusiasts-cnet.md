@@ -1,7 +1,7 @@
 ---
 title: "Art & Animation Essentials: Comparing Apple Pencil Pro with the Original Apple Pencil (1St Gen) for iPad Enthusiasts | CNET"
-date: 2024-10-09T09:37:29.353Z
-updated: 2024-10-14T16:19:34.664Z
+date: 2024-10-16T21:34:36.856Z
+updated: 2024-10-20T17:47:45.864Z
 tags:
   - apple
 categories:
@@ -69,10 +69,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,10 +94,10 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -124,6 +124,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -134,6 +141,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -152,13 +166,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -166,13 +173,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,17 +218,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-cushioning-calm-top-relaxing-pc-titles/"><u>[New] 2024 Approved Cushioning Calm Top Relaxing PC Titles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-essential-tools-photo-music-capture-software-review/"><u>[New] Essential Tools Photo-Music Capture Software Review</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unveiling-adobes-storage-mastery-and-the-hunt-for-top-non-adobe-backup-services/"><u>[New] Unveiling Adobe's Storage Mastery & The Hunt for Top Non-Adobe Backup Services</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-17-techniques-to-log-digital-broadcasts/"><u>[Updated] 2024 Approved Mastering 17 Techniques to Log Digital Broadcasts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-quickeye-ff-plugins/"><u>[Updated] 2024 Approved QuickEye FF Plugins</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-accessible-obs-presets-for-affordable-computers-for-2024/"><u>[Updated] Accessible OBS Presets for Affordable Computers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726225599759-tswmv-movavi/"><u>网上免费的TS到WMV转换工具 - 掌控Movavi专业转换技术</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-libera-da-aac-a-mp3-guida-completa-su-movavi/"><u>Conversione Libera Da AAC a MP3: Guida Completa Su Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-halo-infinite-display-glitches-with-these-easy-steps/"><u>Fix Your Halo Infinite Display Glitches with These Easy Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-productive-pastimes-during-your-podcast-engagement/"><u>In 2024, Productive Pastimes During Your Podcast Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-transformacao-livre-webp-em-jpeg-na-web/"><u>Movavi: Transformação Livre WebP Em JPEG Na Web</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-gif-jpg/"><u>Movavi의 도구를 사용하여 GIF를 JPG으로 바꾸기 - 인터넷 공간에서 원활한 이동</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-tools-for-effective-adobe-presentation-recordings/"><u>[New] 2024 Approved Essential Tools for Effective Adobe Presentation Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-art-of-visual-storytelling-for-online-platforms/"><u>[New] The Art of Visual Storytelling for Online Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-obs-camera-not-working-problem-solved/"><u>[Updated] In 2024, OBS Camera Not Working Problem [Solved]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailoring-your-headline-for-job-searches/"><u>[Updated] Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[Updated] The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-tips-for-iphones-hdr-images/"><u>[Updated] Ultimate Tips for iPhone's HDR Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-creative-naming-top-10-ai-podcast-names/"><u>[Updated] Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-film-aesthetics-using-luts/"><u>2024 Approved Transforming Film Aesthetics Using Luts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tutorials-for-downgrading-macos-sierra-to-el-capitan/"><u>2024 Approved Tutorials for Downgrading MacOS Sierra To El Capitan</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-visuals-hub-icon-and-banner-crafting-tips-for-2024/"><u>Channel Visuals Hub Icon & Banner Crafting Tips for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a15-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A15 5G Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-infinix-note-30-vip-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Infinix Note 30 VIP.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-live-tweets-strategies-unveiled/"><u>In 2024, Leveraging Live Tweets Strategies Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-browsing-navigating-multi-screen-views-in-chrome/"><u>In 2024, Streamlined Browsing Navigating Multi-Screen Views in Chrome</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/smile-spectrum-ranking-jokes-from-reddit-and-twitter/"><u>Smile Spectrum Ranking Jokes From Reddit & Twitter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-freevista-vistas-treasuring-the-visual-wealth-of-costless-tiktok-screens-for-2024/"><u>The FREEvista Vistas Treasuring the Visual Wealth of Costless TikTok Screens for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-discord-failing-to-start-up/"><u>Troubleshooting Guide: Resolving Issues with Discord Failing to Start Up</u></a></li>
 </ul></div>
 

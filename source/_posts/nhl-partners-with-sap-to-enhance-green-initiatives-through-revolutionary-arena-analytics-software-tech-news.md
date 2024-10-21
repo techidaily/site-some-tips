@@ -1,7 +1,7 @@
 ---
 title: NHL Partners with SAP to Enhance Green Initiatives Through Revolutionary Arena Analytics Software | Tech News
-date: 2024-09-17 13:11:19
-updated: 2024-09-20 11:23:21
+date: 2024-10-19T19:37:28.593Z
+updated: 2024-10-20T16:08:24.422Z
 tags:
   - energy
 categories:
@@ -43,11 +43,31 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://media-tips.techidaily.com/how-to-speedy-techniques-for-transforming-clips-into-gif-format/"><u>[How-To] Speedy Techniques for Transforming Clips Into GIF Format</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlocking-the-secrets-to-effective-youtube-video-uploads/"><u>[New] Unlocking the Secrets to Effective YouTube Video Uploads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] In 2024, Interactive Content The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-verbal-input-processing-for-free/"><u>[Updated] Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-guide-downloading-vh1-shows-and-episodes-seamlessly/"><u>Effortless Guide: Downloading VH1 Shows & Episodes Seamlessly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 13 Pro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-subtlety-garagebands-audio-softening/"><u>In 2024, The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>In 2024, Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://techidaily.com/sign-svd-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .svd file Documents Online for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-sketches-plotting-the-market-map-for-2024/"><u>Strategy Sketches Plotting the Market Map for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

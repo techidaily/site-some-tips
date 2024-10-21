@@ -1,7 +1,7 @@
 ---
 title: "Staying Ahead in Academia: How Gemini AI Can Transform Your Study Habits - Insights for University Scholars"
-date: 2024-09-19 19:54:28
-updated: 2024-09-20 12:39:57
+date: 2024-10-18T16:35:49.148Z
+updated: 2024-10-20T16:13:48.249Z
 tags:
   - google
 categories:
@@ -27,6 +27,13 @@ In partnership with [OpenStax](https://www.zdnet.com/article/meet-gemini-educati
 
 To activate OpenStax within Gemini, users can type in a prompt such as "@OpenStax explain \[insert subject here\]?"Then, the responses will reference OpenStax's content library, including concise explanations with links referencing the textbook content. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Create engaging quizzes to test your knowledge**
 
 Gemini can help you test your knowledge of various subject matters by providing you with practice quizzes. Gemini can walk you through each question and provide feedback and hints to help you get through the quiz. 
@@ -34,6 +41,13 @@ Gemini can help you test your knowledge of various subject matters by providing 
 **Also: [4 ways my favorite study app Quizlet just got even better (and it's still free)](https://www.zdnet.com/article/4-ways-my-favorite-study-app-quizlet-just-got-even-better-and-its-still-free/)**
 
 All you have to do is type, "quiz me on \[insert subject here\]," and Gemini will deliver interactive quizzes and collaborative responses on topics ranging from the biological sciences to history and even pop culture.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Upload educational content and materials to prep for exams**
 
@@ -53,6 +67,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Use the Learning Coach Gem for study help**
 
 Gemini Advanced subscribers also have access to [Gems](https://www.zdnet.com/article/googles-gemini-just-got-two-popular-chatgpt-plus-features-and-one-is-free-to-use/), which are customized versions of Gemini for tackling particular tasks. In addition to creating their own custom Gems, users can access the premade [Gem Learning coach](https://blog.google/products/gemini/google-gemini-update-august-2024/#link={) to help them create a tailored learning plan for their specific academic needs.
@@ -64,6 +91,13 @@ For example, if you want to prepare for upcoming exams, you can use the Learning
 ## **5\. Gain a better understanding of a topic** 
 
 Gemini can simplify any topic in a digestible way by using videos, images, and real-life examples that demonstrate what you're learning. All you have to do is ask Gemini to provide you with an explanation or more resources on a specific topic. For example, you can ask Gemini for follow-up questions, video recommendations, and more. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who can access it?
 
@@ -90,11 +124,24 @@ These Gemini features are only available for students 18 and older. School admin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-enhance-your-content-filmmaking-for-youtube-trailers-with-filmora/"><u>[New] In 2024, Enhance Your Content Filmmaking for YouTube Trailers with Filmora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-inshot-cuts-for-professional-edge/"><u>[New] Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-style-for-text-mobility/"><u>[Updated] Superior Style for Text Mobility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-gear-selection-guide-for-global-filmmakers/"><u>2024 Approved Gear Selection Guide for Global Filmmakers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-sony-xbr65x85e-65-inch-4k-television-a-comprehensive-evaluation/"><u>Affordable Sony XBR65X85e 65 Inch 4K Television - A Comprehensive Evaluation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-poco-m6-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Poco M6 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-open-control-panel-in-windows-10/"><u>How to Open Control Panel in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-vision-into-visual-storytelling-with-windows-11-techniques/"><u>In 2024, Transforming Vision Into Visual Storytelling with Windows 11 Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-the-pros-and-cons-of-the-costly-but-superb-google-pixelbook-go-laptop/"><u>Navigating Through the Pros and Cons of the Costly, But Superb Google Pixelbook Go Laptop</u></a></li>
+</ul></div>
+

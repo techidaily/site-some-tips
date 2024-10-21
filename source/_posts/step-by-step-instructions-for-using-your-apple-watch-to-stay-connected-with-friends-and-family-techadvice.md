@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Using Your Apple Watch to Stay Connected with Friends and Family | TechAdvice
-date: 2024-10-11T19:26:59.716Z
-updated: 2024-10-14T23:03:55.710Z
+date: 2024-10-14T22:41:33.517Z
+updated: 2024-10-20T17:59:02.387Z
 tags:
   - apple
 categories:
@@ -32,13 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -47,16 +40,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -66,35 +59,22 @@ After installing the latest iOS update, your iPhone will restart.
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -115,6 +95,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -130,6 +117,13 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -175,24 +169,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlock-the-secrets-of-your-lost-iphone-x/"><u>[New] 2024 Approved Unlock the Secrets of Your Lost iPhone X</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-strategic-approaches-to-googles-podcast-submission-protocol-for-2024/"><u>[New] Strategic Approaches to Google’s Podcast Submission Protocol for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>[Updated] In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-non-twitter-video-tweeting-hacks-for-the-modern-user/"><u>[Updated] Non-Twitter Video Tweeting Hacks for the Modern User</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-free-android-video-call-apps-compared-for-2024/"><u>[Updated] Top Free Android Video Call Apps Compared for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/balancing-the-scales-unpacking-crypto-stability-coins/"><u>Balancing the Scales: Unpacking Crypto Stability Coins</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-video-transcoding-tools-for-ubuntu-users-top-8-picks/"><u>Best Video Transcoding Tools for Ubuntu Users: Top 8 Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-free-on-line-da-wmv-a-ts-tramite-il-software-di-movavi-prova-ora-gratuitamente/"><u>Conversione Free On-Line Da WMV a TS Tramite Il Software Di Movavi - Prova Ora Gratuitamente</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-avi-files-to-m4a-format-for-free-with-movavis-online-software/"><u>Convert AVI Files to M4A Format for Free with Movavi's Online Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargas-gratuitas-para-cambiar-archivos-de-video-desde-mp4-a-asf-sin-problemas-movavi/"><u>Descargas Gratuitas Para Cambiar Archivos De Vídeo Desde MP4 a ASF Sin Problemas - Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-problem-solutions-for-no-sound-on-your-hp-notebook/"><u>Fixing the Silent Problem: Solutions for No Sound on Your HP Notebook</u></a></li>
-<li><a href="https://facebook.techidaily.com/global-spots-off-limits-no-facebook-access-here/"><u>Global Spots Off-Limits: No Facebook Access Here</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-next-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>In 2024, Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavis-no-cost-media-transformation-easily-convert-m4ampeg-to-m4v-formats/"><u>Movavi's No-Cost Media Transformation: Easily Convert M4A/MPEG to M4V Formats</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streaming-cinema-and-series-on-crackle-enjoy-films-and-tv-at-no-cost/"><u>Streaming Cinema & Series on Crackle - Enjoy Films & TV at No Cost</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wat-is-een-mkv-file-en-de-procedure-om-het-openbaar-te-maken/"><u>Wat Is Een MKV-File en De Procedure Om Het Openbaar Te Maken?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-elevate-visual-content-with-effective-snapchat-zoom-techniques/"><u>[New] 2024 Approved Elevate Visual Content with Effective Snapchat Zoom Techniques</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-ultimate-guide-to-share-your-igtv-story-with-ease/"><u>[New] In 2024, Ultimate Guide to Share Your IGTV Story with Ease</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-kids-earning-big-the-success-story-of-young-ryan-kaji/"><u>[New] Kids Earning Big The Success Story of Young Ryan Kaji</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/astering-youtube-audio-uploads/"><u>[New] Mastering YouTube Audio Uploads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-swapping-your-images-tone-spectrum/"><u>[New] Techniques for Swapping Your Image's Tone Spectrum</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leverage-smart-organization-in-mematic/"><u>[Updated] Leverage Smart Organization in Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hero5-users-blueprint-for-incredible-time-lapse-videos/"><u>[Updated] The Hero5 User's Blueprint for Incredible Time-Lapse Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/11-excellent-choices-for-high-quality-audio-logging/"><u>11 Excellent Choices for High-Quality Audio Logging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-thrifty-choices-for-virtual-reality-heads/"><u>2024 Approved Thrifty Choices for Virtual Reality Heads</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-applying-apple-music-to-your-videos-for-2024/"><u>Expert Tips for Applying Apple Music to Your Videos for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-of-mobility-unveiled-top-trends-shaping-the-new-era-of-smart-devices-and-beyond/"><u>Future of Mobility Unveiled: Top Trends Shaping the New Era of Smart Devices and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>In 2024, Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>In 2024, The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-photographic-archives/"><u>In 2024, Top Tier Photographic Archives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-must-have-tools-and-effects-for-your-tiktok-edits-for-2024/"><u>Top 20 Must-Have Tools & Effects for Your TikTok Edits for 2024</u></a></li>
 </ul></div>
 

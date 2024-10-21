@@ -1,7 +1,7 @@
 ---
 title: "Affordable Yet Stylish: Discovering One of the Top Value-for-Money Android Devices Under $200"
-date: 2024-09-19 21:34:23
-updated: 2024-09-20 11:57:41
+date: 2024-10-17T18:21:41.472Z
+updated: 2024-10-20T16:52:29.375Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,29 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-fast-forward-to-flawless-windows-11-photography/"><u>[New] Fast Forward to Flawless Windows 11 Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>[New] Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[New] Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[Updated] The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[Updated] Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>2024 Approved The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/create-a-video-anthology-for-listing/"><u>Create a Video Anthology for Listing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/exploring-popularity-stock-images-meme-journey-for-2024/"><u>Exploring Popularity Stock Images' Meme Journey for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-paso-a-paso-modificar-la-tasa-de-bits-en-audios-convertidor-mp3/"><u>Guía Paso a Paso: Modificar La Tasa De Bits en Audios - Convertidor MP3</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-v27e-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo V27e Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>In 2024, The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mpeg2-video-compression-made-easy-with-virtualdub/"><u>New MPEG2 Video Compression Made Easy with VirtualDub</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-latest-on-ps5-slim-updates-costs-launch-timeline-and-technical-details/"><u>The Latest on PS5 Slim – Updates, Costs, Launch Timeline, and Technical Details</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-interfaces-unveiled-the-podcasters-must-have-list-for-2024/"><u>Top Audio Interfaces Unveiled The Podcaster's Must-Have List for 2024</u></a></li>
+</ul></div>
+

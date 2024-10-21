@@ -1,7 +1,7 @@
 ---
 title: "Unveiling at Apple's 'Glowtime': IPhone 16 Reveals, Enhanced AirPods & The Next-Gen Apple Watch 10 – Comprehensive Report on ZDNET"
-date: 2024-10-12T01:21:05.179Z
-updated: 2024-10-15T08:04:22.385Z
+date: 2024-10-13T17:21:09.447Z
+updated: 2024-10-20T17:17:46.958Z
 tags:
   - apple
 categories:
@@ -61,16 +61,10 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -94,10 +88,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -125,10 +119,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -146,10 +140,16 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -198,19 +198,20 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-chart-converters-for-video/"><u>[New] 2024 Approved Ultimate Chart Converters for Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fresh-take-on-video-ads-youtubes-latest-strategy-unveiled/"><u>Fresh Take on Video Ads: YouTube's Latest Strategy Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-instagram-collections-boost-daily-productivity-a-users-guide/"><u>How Instagram Collections Boost Daily Productivity: A User's Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-motorola-moto-g13-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Motorola Moto G13 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-google-pixel-8-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Google Pixel 8 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/may-22-todays-new-york-times-insightful-clues-and-solutions-connecting-the-dots-with-346/"><u>May 22: Today's New York Times Insightful Clues & Solutions - Connecting the Dots with #346</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-precise-mic-auditing-techniques-to-ensure-high-quality-recordings/"><u>Quick & Precise Mic Auditing Techniques to Ensure High-Quality Recordings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/rediscover-childhood-memories-with-our-powerful-online-browser-simulator/"><u>Rediscover Childhood Memories with Our Powerful Online Browser Simulator</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shielding-your-information-from-unavoidable-security-incidents/"><u>Shielding Your Information From Unavoidable Security Incidents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/simplify-writing-emails-using-protonmails-smart-composing-feature/"><u>Simplify Writing Emails Using ProtonMail's Smart Composing Feature</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solutions-for-overcoming-unexpected-outcomes-errors-on-your-windows-11-device/"><u>Solutions for Overcoming Unexpected Outcomes Errors on Your Windows 11 Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-when-your-kotion-g2000-microphone-fails/"><u>Troubleshooting Steps for When Your Kotion G2000 Microphone Fails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-sound-on-the-go-comprehensive-review-of-the-jbl-clip-5-bluetooth-speaker-experience/"><u>Ultimate Sound on the Go: Comprehensive Review of the JBL Clip 5 Bluetooth Speaker Experience</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-monetary-potential-predictor-for-2024/"><u>YouTube Monetary Potential Predictor for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-lost-and-found-follower-hunt/"><u>[New] 2024 Approved Instagram Lost and Found Follower Hunt</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoid-complexity-easy-video-edits-on-windows-10-for-everyone/"><u>[New] Avoid Complexity Easy Video Edits on Windows 10 for Everyone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-major-modifications-in-windows-movie-maker/"><u>[New] Unveiling Major Modifications in Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-ultimate-flowchart-streaming-success-on-facebook-iphonesipads/"><u>[Updated] 2024 Approved The Ultimate Flowchart Streaming Success on Facebook, iPhones/iPads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-channel-growth-blueprint-selecting-between-studio-and-latest-beta-for-2024/"><u>[Updated] Channel Growth Blueprint Selecting Between Studio and Latest Beta for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-smooth-loop-setup-tailoring-youtube-content-for-television/"><u>[Updated] Smooth Loop Setup Tailoring YouTube Content for Television</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uhd-precision-converter-clearer-sharper-visuals/"><u>[Updated] UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1-resepsi-gratis-tutorial-lanjutan-penggunaan-data-hd-gagal-langka-langkapan-sempangnya/"><u>1. Resepsi Gratis: Tutorial Lanjutan Penggunaan Data HD Gagal, Langka-Langkapan Sempangnya!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/acquista-i-migliori-modi-di-streaming-video-per-la-tua-apple-tv/"><u>Acquista I Migliori Modi Di Streaming Video per La Tua Apple TV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosted-visuals-a-beginners-guide-to-gopro-video-editing/"><u>Boosted Visuals A Beginner's Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>In 2024, The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
 </ul></div>
 

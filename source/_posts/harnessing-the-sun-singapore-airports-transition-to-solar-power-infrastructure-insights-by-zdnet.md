@@ -1,7 +1,7 @@
 ---
 title: "Harnessing the Sun: Singapore Airports Transition to Solar Power Infrastructure - Insights by ZDNet"
-date: 2024-09-19 11:35:50
-updated: 2024-09-20 10:17:19
+date: 2024-10-14T22:35:51.354Z
+updated: 2024-10-20T16:37:07.128Z
 tags:
   - energy
 categories:
@@ -43,11 +43,38 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-meme-matrix-top-10-memes-on-social-media-platforms/"><u>[New] 2024 Approved Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-elite-internet-recorder-choices-7-to-try/"><u>[New] In 2024, Elite Internet Recorder Choices - 7 to Try</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-staying-relevant-adapting-to-periscope-trends/"><u>[New] Staying Relevant Adapting to Periscope Trends</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>[New] Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolved-examination-of-sony-bdp-s3700/"><u>[Updated] The Evolved Examination of Sony BDP-S3700</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-meme-design-props/"><u>[Updated] The Ultimate Guide to Meme Design Props</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-tiktok-usage-efficiently-change-user-numbers/"><u>2024 Approved Streamline TikTok Usage Efficiently Change User Numbers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stock-image-memes-real-life-narratives/"><u>2024 Approved Top 10 Stock Image Memes Real Life Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-iphone-videos-shorten-and-resize-with-ease/"><u>2024 Approved Transform Your iPhone Videos Shorten & Resize with Ease</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y78t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78t in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-effortless-crossposting-youtube-links-to-ig-stories/"><u>In 2024, Effortless Crossposting YouTube Links to IG Stories</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-x-flip-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo X Flip Without PUK Codes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-for-finding-the-best-online-cricket-matches-today/"><u>In 2024, Top Tips for Finding the Best Online Cricket Matches Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/magnify-memories-unaltered-resolution/"><u>Magnify Memories Unaltered Resolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-free-stopwatches-without-a-price-tag-for-2024/"><u>Ultimate Free Stopwatches Without a Price Tag for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205984585-usb-ports-failure-in-windows-1011-heres-how-to-fix-them/"><u>USB Ports Failure in Windows 10/11? Here's How to Fix Them</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

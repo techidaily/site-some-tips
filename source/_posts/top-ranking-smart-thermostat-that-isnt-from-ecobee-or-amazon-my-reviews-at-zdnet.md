@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking Smart Thermostat That Isn't From Ecobee or Amazon - My Reviews at ZDNet
-date: 2024-09-17 10:51:24
-updated: 2024-09-20 12:51:32
+date: 2024-10-15T23:35:32.953Z
+updated: 2024-10-20T17:14:45.732Z
 tags:
   - energy
 categories:
@@ -43,11 +43,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-2023s-top-social-moment-infographics/"><u>[Updated] In 2024, 2023'S Top Social Moment Infographics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-creating-smooth-audio-cuts/"><u>[Updated] The Art of Creating Smooth Audio Cuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-dji-inspire-2-distilled/"><u>[Updated] The Essence of DJI Inspire 2 Distilled</u></a></li>
+<li><a href="https://win-best.techidaily.com/2-guide-complet-pour-la-reconstruction-dun-systeme-dexploitation-windows/"><u>2. Guide Complet Pour La Reconstruction D'un Systeme D'Exploitation Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-for-successful-play-of-modern-warfare-2-a-comprehensive-guide/"><u>Fixing Issues for Successful Play of Modern Warfare 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-talent-release-form-for-filming-and-video-to-free-download/"><u>In 2024, Talent Release Form for Filming and Video to Free Download</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-broken-gaming-mic-on-runmjh-setup/"><u>Step-by-Step Fixes for a Broken Gaming Mic on RUNMJH Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-free-screen-recorders-on-windows-11-2023-update-for-2024/"><u>Top 5 Free Screen Recorders on Windows 11-2023 Update for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-easy-video-flip-a-beginners-guide-to-rotating-footage/"><u>Updated In 2024, Easy Video Flip A Beginners Guide to Rotating Footage</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

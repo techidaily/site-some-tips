@@ -1,7 +1,7 @@
 ---
 title: Exploring the Sonic Brilliance of Sony's WH-1000XM5 Headphones - A Comprehensive ZDNET Analysis
-date: 2024-09-17 21:20:12
-updated: 2024-09-20 11:49:41
+date: 2024-10-18T18:41:59.244Z
+updated: 2024-10-20T21:32:38.419Z
 tags:
   - google
 categories:
@@ -48,6 +48,19 @@ Key improvements over the WH-1000XM4 include a simpler folding design, a better 
 | Wireless connectivity | Bluetooth 5.2 with multipoint connection support                         |
 | Headset weight        | 250 grams (8.82 ounces)                                                  |
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design and fit
 
 The retail package includes the Sony headphones, a carrying case, an airplane adapter, a 47-inch 3.5mm audio cable, and a USB-A to USB-C cable. Silver and black headphones are available to purchase and this year I tested the silver color option.
@@ -70,6 +83,13 @@ Matthew Miller/ZDNET
 
 The outside flat surface of the right earcup is touch sensitive and provides consistent performance of the controls. Touch controls let you manage volume, play/pause, skip forward and back, and more. The headset charges via USB-C with the option to connect via a 3.5mm connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Smartphone software
 
 In order to optimize your use of the Sony WH-1000XM5 headphones, you need to download and install the Sony Headphones Connect application to your Android or iOS smartphone. After installation, simply turn on the headphones to initiate pairing with your smartphone.
@@ -82,6 +102,13 @@ The touch surface performs flawlessly
 
 Matthew Miller/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 While we don't often think about phone calls with headphones optimized for a listening experience, it is more important today than ever with so many people using headphones like this for their remote work communications. The call quality on both ends when using the WH-1000XM5 is outstanding and it's great to have a single headset with long battery life taking on all of my headset duties.
@@ -93,6 +120,13 @@ Audio quality is superb, the active noise-canceling creates an environment of is
 I thought the previous [WH-1000XM4 headset](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FSony-WH-1000XM4-Canceling-Headphones-phone-call%2Fdp%2FB0863FR3S9%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C9928fd5d-3856-46f8-b6d5-67c9a3170fc2%7Cdtp&dtb=1) was nearly perfect so I was pleasantly surprised by the improved comfort, noise canceling, and call performance of the WH-1000XM5\. I don't know what else Sony can do to improve in the next version, but the company did a good job of finding ways to improve a nearly perfect product so I look forward to finding out.
 
 The Sony WH-1000XM5 headset is available now for $399.99\. Keep an eye out for deals during the upcoming holiday season and make sure to add this Sony headset to your wish list. You will not be disappointed and will enjoy an amazing world of audio experiences.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -110,11 +144,33 @@ The Sony WH-1000XM5 is arguably the best wireless headset available today. If yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-world-of-google-ar-accessories-and-beyond/"><u>[New] The World of Google AR Accessories, and Beyond</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-sites-for-vector-graphics-collection/"><u>[New] Top 10 Sites for Vector Graphics Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>[New] Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-uncovering-hidden-wellsprings-of-free-graphic-designs/"><u>[New] Uncovering Hidden Wellsprings of Free Graphic Designs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-snapshot-verbalizer/"><u>[Updated] Snapshot Verbalizer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>[Updated] The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-top-10-list-free-image-layering-progs-iosandroid/"><u>2024 Approved Exclusive Top 10 List Free Image Layering Progs iOS/Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-approach-integrating-typefaces-in-ae/"><u>2024 Approved The Artisan's Approach Integrating Typefaces in AE</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-video-posting-pathway-for-twitter-and-tumblr-users/"><u>2024 Approved Video Posting Pathway for Twitter & Tumblr Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/compreenas-an-insightful-guide-to-photography-mastery/"><u>Compreenas An Insightful Guide to Photography Mastery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Blade A73 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-introduce-audio-files-to-premiere-pro-timeline/"><u>In 2024, Introduce Audio Files to Premiere Pro Timeline</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-novices-route-to-rapidly-play-videos-on-snapchat/"><u>In 2024, The Novice's Route to Rapidly Play Videos on Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/storage-analysis-videography-on-64128gb-hardware/"><u>Storage Analysis Videography on 64/128GB Hardware</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tonal-transition-triumphs-for-creative-virtuosos-for-2024/"><u>Tonal Transition Triumphs for Creative Virtuosos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-0x80072efd-error-in-windows-10-effortlessly/"><u>Troubleshooting and Fixing the 0X80072EFD Error in Windows 10 Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ustream-overview-plus-similar-services-for-2024/"><u>Ustream Overview + Similar Services for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/years-ultimate-yt-story-creators-list/"><u>Year's Ultimate YT Story Creators List</u></a></li>
+</ul></div>
+

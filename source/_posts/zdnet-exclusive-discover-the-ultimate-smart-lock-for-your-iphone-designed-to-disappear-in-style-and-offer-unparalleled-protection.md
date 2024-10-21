@@ -1,0 +1,156 @@
+---
+title: "ZDNET Exclusive: Discover the Ultimate Smart Lock for Your iPhone, Designed to Disappear in Style and Offer Unparalleled Protection!"
+date: 2024-10-16T17:04:41.149Z
+updated: 2024-10-20T21:11:51.230Z
+tags:
+  - apple
+categories:
+  - tech
+thumbnail: https://thmb.techidaily.com/a087050a8f216b62187c0a193212a1a2be3253c5fbdb30090648af201a9a0e0d.jpg
+---
+
+## Discover the Leading Alternative to Apple and Tile: Expert Evaluation of the Best Wallet AirTags
+
+![KeySmart SmartCard](https://www.zdnet.com/a/img/resize/d09403f153abeba4bcbbf24db327d63a3ed11426/2024/03/18/0accc90e-03af-42d6-a3b2-691d4553c3e4/img-9077.jpg?auto=webp&width=1280)
+
+KeySmart SmartCard
+
+Adrian Kingsley-Hughes/ZDNET
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### ZDNET's key takeaways
+
+* KeySmart's SmartCard is available from [Amazon for $40](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKeySmart-SmartCard-Rechargeable-Reusable-Versatile%2Fdp%2FB0CB4VL6GC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1) ([3-pack](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKeySmart-SmartCard-Ultra-Thin-Rechargeable-Waterproof%2Fdp%2FB0CTKY13BP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1) for $90).
+* It's super thin, works with Apple iOS Find My, wireless rechargeable battery, and is IPX7-rated.
+* It needs recharging every 5 months or so.
+
+---
+
+[Apple AirTags](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542AM-A-AirTag-Pack%2Fdp%2FB0932QJ2JZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1) have changed my life, saving me countless hours looking for keys and other items that I absent-mindedly misplaced.
+
+But AirTags have a few design flaws. First, the replaceable battery means you're [chucking away handfuls of CR2032s](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FEnergizer-Electronic-Specialty-Battery-2032BP4%2Fdp%2FB00D8P5T0U%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1) every year. Then there's the shape and size. These tiny UFO-shaped devices don't have a lanyard hole and are too bulky to be placed in a wallet without giving you a pain in the rear. 
+
+Yes, some wallets have little holders for AirTags, but in my experience, they are all too bulky.
+
+**Also:** [**Forget AirTags: Tile's new trackers come in all shapes and sizes (and an SOS button)**](https://www.zdnet.com/article/forget-airtags-tiles-new-trackers-come-in-all-shapes-and-sizes-and-an-sos-button/)
+
+[ZDNET RECOMMENDS KeySmart SmartCard The KeySmart Wallet Tracker Card is the thickness of about two credit cards, making it the slimmest tracking card on the market. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKeySmart-SmartCard-Rechargeable-Reusable-Versatile%2Fdp%2FB0CB4VL6GC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1)
+
+But there's a third-party AirTag-like product that takes everything that the original Apple AirTag has to offer, and solves all of the above problems and more. That tag is the [KeySmart SmartCard](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKeySmart-SmartCard-Rechargeable-Reusable-Versatile%2Fdp%2FB0CB4VL6GC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1). 
+
+The first thing I love about the SmartCard is the thickness, or more specifically, its thinness!
+
+The SmartCard is less than 2mm thin!
+
+Adrian Kingsley-Hughes/ZDNET
+
+While Apple's AirTag is 8 mm thick, the Smart\`Card is less than 2 mm, or the thickness of two credit cards. 
+
+This makes it perfect for use in a wallet. There's also a luggage tag hole in the end for attaching the SmartCard to your suitcase.
+
+The SmartCard is much thinner than the AirTag.
+
+Adrian Kingsley-Hughes/ZDNET
+
+#### Newsletters
+
+ZDNET Recommends
+
+ZDNET saves you time and money by delivering the best products and tech deals to your inbox every week.
+
+ Subscribe
+
+[See all](https://www.zdnet.com/newsletters/)
+
+KeySmart was able to make this card so thin by doing away with the bulky CR2032 coin cell and replacing it with a rechargeable battery. This battery is recharged using a wireless charger every five months or so.
+
+As I was testing this card I was thinking that it'd be great if KeySmart had built MagSafe tech into the card to allow it to attach to my angled MagSafe iPhone charger. Well, KeySmart thought of everything -- this card attaches itself to wireless MagSafe chargers!
+
+**Also:** [**I found the AirTags that Android users have been waiting for**](https://www.zdnet.com/article/i-found-the-airtags-that-android-users-have-been-waiting-for/)
+
+Because there are no battery compartment covers, the tag is robust and has an IPX7 rating for dustproofing and water resistance, and can survive up to 30 minutes of immersion in 3 feet of water.
+
+And despite being thin, these things are tough and take quite a bending and squeezing, so they will survive life in wallets.
+
+These SmartCards are tough!
+
+Adrian Kingsley-Hughes/ZDNET
+
+**Also: [How to find out if an AirTag is tracking you](https://www.zdnet.com/article/how-to-find-out-if-an-airtag-is-tracking-you/)**
+
+Other than all of these improvements, this device works like an AirTag. It's activated using the Find My app, and you search for it when you've put your wallet down in the wrong place.
+
+This is the AirTag that Apple should have made. 
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## ZDNET's buying advice
+
+[AirTags](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MX542AM-A-AirTag-Pack%2Fdp%2FB0932QJ2JZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1) are great, but they have those first-generation limitations that I'm sure that Apple will one day solve with a next-gen wave of AirTags. But for now, the [KeySmart SmartCard](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FKeySmart-SmartCard-Rechargeable-Reusable-Versatile%2Fdp%2FB0CB4VL6GC%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01317798-f9df-4292-b16e-ce14e745557a%7Cdtp&dtb=1) is the best AirTag for those who want a thin solution for their wallet or as a luggage tag. 
+
+#### Featured reviews
+
+[One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/ "One of the best smart thermostats I've tested is not made by Ecobee or Amazon")
+
+[I demoed Apple's standard iPhone 16 and didn't envy the Pro models at all](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/ "I demoed Apple's standard iPhone 16 and didn't envy the Pro models at all")
+
+[This Lenovo laptop that transforms into an Android tablet is the most clever device I've tested](https://www.zdnet.com/article/i-tested-lenovos-windows-laptop-that-doubles-as-an-android-tablet-and-it-has-so-much-potential/ "This Lenovo laptop that transforms into an Android tablet is the most clever device I've tested")
+
+[Forget Apple Watch Series 10: The Oura Ring is my go-to health tracker for one obvious reason](https://www.zdnet.com/article/forget-apple-watch-series-10-the-oura-ring-is-my-go-to-health-tracker-for-one-obvious-reason/ "Forget Apple Watch Series 10: The Oura Ring is my go-to health tracker for one obvious reason")
+
+* [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/ "One of the best smart thermostats I've tested is not made by Ecobee or Amazon")
+* [I demoed Apple's standard iPhone 16 and didn't envy the Pro models at all](https://www.zdnet.com/article/why-im-recommending-the-standard-iphone-16-over-the-pro-this-year-and-im-not-alone/ "I demoed Apple's standard iPhone 16 and didn't envy the Pro models at all")
+* [This Lenovo laptop that transforms into an Android tablet is the most clever device I've tested](https://www.zdnet.com/article/i-tested-lenovos-windows-laptop-that-doubles-as-an-android-tablet-and-it-has-so-much-potential/ "This Lenovo laptop that transforms into an Android tablet is the most clever device I've tested")
+* [Forget Apple Watch Series 10: The Oura Ring is my go-to health tracker for one obvious reason](https://www.zdnet.com/article/forget-apple-watch-series-10-the-oura-ring-is-my-go-to-health-tracker-for-one-obvious-reason/ "Forget Apple Watch Series 10: The Oura Ring is my go-to health tracker for one obvious reason")
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>[New] Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-methods-for-preserving-chat-recordings/"><u>[New] Quick Methods for Preserving Chat Recordings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-on-win10-the-leading-apps-to-check-out/"><u>[Updated] 2024 Approved Capturing on Win10 The Leading Apps to Check Out</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-cash-flow-maximizing-income-through-content-marketing/"><u>[Updated] 2024 Approved Vimeo Cash Flow Maximizing Income Through Content Marketing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-finding-cost-effective-buys-on-gopros/"><u>[Updated] Finding Cost-Effective Buys on GoPros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-comparing-cloud-space-charges-methods-and-results/"><u>2024 Approved Comparing Cloud Space Charges Methods and Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webm4a-aiff-mova/"><u>無償でWeb上のM4A, AIFF形式を自動変換可能 - Movaビジュアル</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversao-webm-em-gif-livre-on-line-com-o-movavi-guia-simples-e-eficiente-para-todos-os-usuarios/"><u>Conversão WebM Em GIF Livre On-Line Com O Movavi: Guia Simples E Eficiente Para Todos Os Usuários</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-vocal-effect-modifications-to-enhance-your-audio-experience/"><u>Discover the Best Vocal Effect Modifications to Enhance Your Audio Experience</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passer-dun-gif-a-3gp-facilement-et-sans-frais-la-methode-movavi-pour-les-videastes-en-ligne/"><u>Passer D'un GIF À 3GP Facilement Et Sans Frais : La Méthode Movavi Pour Les Vidéastes en Ligne</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passo-a-passo-para-converter-audio-amr-em-formato-mp3-com-o-ajudandar-do-videoconverter-da-movavi/"><u>Passo a Passo Para Converter Áudio AMR Em Formato MP3 Com O Ajudandar Do VideoConverter Da Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quick-guide-to-downloading-just-the-speech-tune-out-visuals-keep-the-audio-only/"><u>Quick Guide to Downloading Just the Speech: Tune Out Visuals, Keep the Audio Only!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-sony-xperia-5-v-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Sony Xperia 5 V</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/strategies-for-corrupted-nikon-mov-file-rehabilitation/"><u>Strategies for Corrupted Nikon MOV File Rehabilitation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-applicazioni-piu-efficienti-per-la-registrazione-dello-schermo-del-computer/"><u>Top 5 Applicazioni Più Efficienti per La Registrazione Dello Schermo Del Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/topo-12-herramientas-de-animacion-libres-y-gratuitas-para-disenadores-en-2024/"><u>Topo 12 Herramientas De Animación Libres Y Gratuitas Para Diseñadores en 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-musica-facilmente-convertir-m4a-en-flac-sin-costo-usando-movavi/"><u>Transforma Tu Música Fácilmente: Convertir M4A en FLAC Sin Costo Usando Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-f54-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy F54 5G Users</u></a></li>
+</ul></div>
+

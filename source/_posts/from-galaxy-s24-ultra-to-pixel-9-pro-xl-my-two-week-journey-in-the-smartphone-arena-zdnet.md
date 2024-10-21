@@ -1,7 +1,7 @@
 ---
 title: From Galaxy S24 Ultra to Pixel 9 Pro XL - My Two-Week Journey in the Smartphone Arena | ZDNet
-date: 2024-09-17 10:56:16
-updated: 2024-09-20 12:55:23
+date: 2024-10-16T19:17:20.630Z
+updated: 2024-10-20T17:49:22.495Z
 tags:
   - google
 categories:
@@ -87,11 +87,31 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (3/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. The AI will trip up at times and pause the session, but haptic feedback does help guide the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience tremendously.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's still too early to call the [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ca622f3-bf4d-4bdf-87eb-98a9d106a52c%7Cdtp&dtb=1) the [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, but it's certainly up there for consideration -- even with its AI blunders. While the new model is Google's most expensive non-foldable phone yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ca622f3-bf4d-4bdf-87eb-98a9d106a52c%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7ca622f3-bf4d-4bdf-87eb-98a9d106a52c%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -127,11 +147,29 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ptimal-video-posting-frequency-for-increased-youtube-popularity-for-2024/"><u>[New] Optimal Video Posting Frequency for Increased YouTube Popularity for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-perfect-pictures-at-work-master-snap-camera-use/"><u>[Updated] 2024 Approved Perfect Pictures at Work Master Snap Camera Use</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-comedy-kings-and-queens-of-2023-for-2024/"><u>[Updated] Comedy Kings & Queens of 2023 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-video-aesthetics-with-bb-and-lc-overlays-on-facebook/"><u>[Updated] Enhancing Video Aesthetics with BB and LC Overlays on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-notch-screen-recorder-pcmacos-edition/"><u>[Updated] In 2024, Top-Notch Screen Recorder PC/macOS Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-captivating-online-ads-for-facebook/"><u>2024 Approved Crafting Captivating Online Ads for Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-play-8t-by-drfone-android/"><u>Full Guide to Unlock Your Honor Play 8T</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-xcover-7-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy XCover 7 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-free-screen-recording-in-win11/"><u>In 2024, Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolved-sony-bdp-s6700-unveiled-for-2024/"><u>The Evolved Sony BDP-S6700 Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-professional-quality-images-with-pss-3d-lut-techniques-for-2024/"><u>Unlocking Professional Quality Images with PS's 3D LUT Techniques for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/usb-20-essentials-understanding-speeds-cable-types-and-connector-options/"><u>USB 2.0 Essentials: Understanding Speeds, Cable Types, and Connector Options</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Maximizing Productivity with Top Tools & Techniques to Streamline Your Daily Routine | Expert Tips by ZDNet
-date: 2024-09-19 13:43:13
-updated: 2024-09-20 12:43:24
+date: 2024-10-18T22:13:53.610Z
+updated: 2024-10-20T16:38:47.782Z
 tags:
   - google
 categories:
@@ -49,6 +49,13 @@ Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
@@ -68,6 +75,13 @@ Actually, scratch that. I no longer take my iPhone to bed with me. Instead, I we
 The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -94,6 +108,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -167,6 +188,13 @@ By the way, this is also a great way to think about users, which I initially was
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## To-doing my to-do list
 
 By this point, I'm usually most of the way through the morning. My email has been processed and actions have been moved to my to-do list and schedule items to my calendar. I've done a considerable amount of reading, and I'm up to speed on the various issues I'm responsible for following. I've graded students and supported users (and added any bugs or key follow-up items to my to-do list). 
@@ -196,6 +224,13 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -237,11 +272,31 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-list-of-religious-ringing-sounds/"><u>[New] The Essential List of Religious Ringing Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-boost-engagement-with-effective-wirecast-broadcasts-on-fb/"><u>[Updated] 2024 Approved Boost Engagement with Effective Wirecast Broadcasts on FB</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-threefold-stabilization-to-shine-your-iphone-videos/"><u>[Updated] Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-podcasters-guide-to-seamless-streaming-setup/"><u>2024 Approved The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-note-12-pro-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi Note 12 Pro 4G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/access-and-install-versatile-tools-with-the-epubor-downloads-platform/"><u>Access and Install Versatile Tools with the Epubor Downloads Platform</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/broad-overview-the-mechanics-of-google-podcast-app/"><u>Broad Overview The Mechanics of Google Podcast App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/find-your-dream-free-vfx-alternative-top-30-sites-explored-deeply/"><u>Find Your Dream Free VFX Alternative - Top 30 Sites Explored Deeply</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-scripts-that-reshape-cinematic-history/"><u>In 2024, Scripts that Reshape Cinematic History</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/installing-the-magic-dragon-addon-for-optimal-performance-a-comprehensive-walkthrough-on-kodi-platforms-nexus-and-matrix/"><u>Installing the Magic Dragon Addon for Optimal Performance: A Comprehensive Walkthrough on Kodi Platforms Nexus & Matrix</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/latest-lg-360-camera-features-and-review-for-2024/"><u>Latest LG 360 Camera Features and Review for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-the-tcl-32s325-experience-a-detailed-evaluation-of-a-2019-roku-smart-led-tv/"><u>Mastering the TCL 32S325 Experience - A Detailed Evaluation of a 2019 Roku Smart LED TV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-photography-shadow-techniques-for-2024/"><u>The Art of iPhone Photography Shadow Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-3-cloud-based-speech-tools/"><u>Top 3 Cloud-Based Speech Tools</u></a></li>
+</ul></div>
+

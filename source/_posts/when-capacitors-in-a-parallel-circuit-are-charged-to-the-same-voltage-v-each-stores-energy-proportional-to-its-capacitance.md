@@ -1,7 +1,7 @@
 ---
 title: When Capacitors in a Parallel Circuit Are Charged to the Same Voltage V, Each Stores Energy Proportional to Its Capacitance.
-date: 2024-10-12T02:57:11.295Z
-updated: 2024-10-15T05:21:41.479Z
+date: 2024-10-13T19:13:22.161Z
+updated: 2024-10-20T19:59:31.610Z
 tags:
   - apple
 categories:
@@ -45,13 +45,6 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | iPhone 15    | iPhone 15 Plus                                    |                                                   |
@@ -68,10 +61,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
@@ -79,13 +72,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
 
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
 
@@ -141,19 +127,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -168,6 +141,13 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -180,9 +160,23 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -218,21 +212,17 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>[New] Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-understanding-youtube-shorts-earnings-for-maker-income/"><u>[New] In 2024, Understanding YouTube Shorts Earnings for Maker Income</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-integrated-iptv-channel-distribution-for-2024/"><u>[New] Integrated IPTV Channel Distribution for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-skys-the-limit-crafting-professional-drone-videos/"><u>[New] Sky's the Limit Crafting Professional Drone Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-blueprint-for-influential-video-arrangements-for-2024/"><u>[New] The Blueprint for Influential Video Arrangements for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-in-frame-multimedia-experience-on-mac/"><u>[Updated] The Ultimate Guide to In-Frame Multimedia Experience on Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-workflow-youtube-to-mpeg-essentials/"><u>2024 Approved Streamline Your Video Workflow YouTube-to-MPEG Essentials</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-add-chapters-to-vimeo-video/"><u>[New] How to Add Chapters to Vimeo Video?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlocking-audio-enhancement-three-inexpensive-apple-techniques-for-films-for-2024/"><u>[New] Unlocking Audio Enhancement Three Inexpensive Apple Techniques for Films for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[Updated] 2024 Approved Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
 <li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-window-to-world-class-video-playback/"><u>2024 Approved Ultimate Window to World-Class Video Playback</u></a></li>
-<li><a href="https://article-posts.techidaily.com/acid-pro-analysis-and-related-tools-reviewed/"><u>ACID Pro Analysis and Related Tools Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-is-generative-ai-emerging-as-a-latest-instrument-in-spreading-fake-news/"><u>How Is Generative AI Emerging as a Latest Instrument in Spreading Fake News?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-download-your-favorite-videos-without-limits/"><u>In 2024, Download Your Favorite Videos Without Limits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>In 2024, Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-assessment-the-benefits-and-features-of-linksyss-wrt1900acs-open-source-router-unveiled/"><u>Comprehensive Assessment: The Benefits & Features of Linksys's WRT1900ACS Open Source Router Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-6s-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 6s Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-closer-look-approach-to-team-collaboration-for-2024/"><u>The Closer Look Approach to Team Collaboration for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings-for-2024/"><u>The Complete Guide to Adding Video Filter Magic to Zoom Meetings for 2024</u></a></li>
 <li><a href="https://some-tips.techidaily.com/the-experts-manual-for-fusing-linktree-and-tiktok-biographies-for-2024/"><u>The Expert's Manual for Fusing Linktree and TikTok Biographies for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-skywalkers-unite-new-war-epoch/"><u>The Skywalkers Unite! New War Epoch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset-for-2024/"><u>Venturing Virtuality A Review of LG's 360 Headset for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whisper-techniques-concealing-commands-effectively/"><u>Window's Whisper Techniques: Concealing Commands Effectively</u></a></li>
 </ul></div>
 

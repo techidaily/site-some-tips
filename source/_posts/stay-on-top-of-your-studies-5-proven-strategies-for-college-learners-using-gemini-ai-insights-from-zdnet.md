@@ -1,7 +1,7 @@
 ---
 title: "Stay on Top of Your Studies: 5 Proven Strategies for College Learners Using Gemini AI - Insights From ZDNet"
-date: 2024-09-18 15:30:37
-updated: 2024-09-20 10:45:39
+date: 2024-10-16T23:25:04.890Z
+updated: 2024-10-20T21:04:31.200Z
 tags:
   - google
 categories:
@@ -26,6 +26,13 @@ To help students get started, Google rounded up five [Gemini features](https://b
 In partnership with [OpenStax](https://www.zdnet.com/article/meet-gemini-education-three-ways-google-is-equipping-students-and-education-with-ai/), a nonprofit initiative out of Rice University, Gemini can access all of the academic textbooks and educational materials in OpenStax's library. 
 
 To activate OpenStax within Gemini, users can type in a prompt such as "@OpenStax explain \[insert subject here\]?"Then, the responses will reference OpenStax's content library, including concise explanations with links referencing the textbook content. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Create engaging quizzes to test your knowledge**
 
@@ -53,6 +60,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Use the Learning Coach Gem for study help**
 
 Gemini Advanced subscribers also have access to [Gems](https://www.zdnet.com/article/googles-gemini-just-got-two-popular-chatgpt-plus-features-and-one-is-free-to-use/), which are customized versions of Gemini for tackling particular tasks. In addition to creating their own custom Gems, users can access the premade [Gem Learning coach](https://blog.google/products/gemini/google-gemini-update-august-2024/#link={) to help them create a tailored learning plan for their specific academic needs.
@@ -61,9 +81,23 @@ Gemini Advanced subscribers also have access to [Gems](https://www.zdnet.com/art
 
 For example, if you want to prepare for upcoming exams, you can use the Learning Coach Gem and specify what you need to study and review. Then, the Learning Coach would create a learning plan that covers key subtopics and outlines essential topics. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Gain a better understanding of a topic** 
 
 Gemini can simplify any topic in a digestible way by using videos, images, and real-life examples that demonstrate what you're learning. All you have to do is ask Gemini to provide you with an explanation or more resources on a specific topic. For example, you can ask Gemini for follow-up questions, video recommendations, and more. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who can access it?
 
@@ -90,11 +124,31 @@ These Gemini features are only available for students 18 and older. School admin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-story-straightforward-recording-tips-for-2024/"><u>[New] Instagram Story Straightforward Recording Tips for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>[New] Level Up Your Screen Shots The Expert's Approach to PS4 Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-innovation-insights-into-vr-gear-designs/"><u>[New] The Innovation Insights Into VR Gear Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-snapchats-spotlight-mechanics/"><u>[New] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-9-best-video-calling-applications-safety-and-simplicity-focus/"><u>[Updated] 2024 Approved 9 Best Video Calling Applications Safety & Simplicity Focus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-virtual-recording-tools-online/"><u>[Updated] In 2024, Top Virtual Recording Tools Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-vintner-techniques-for-flavorful-films/"><u>[Updated] The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-notch-graphic-retouches/"><u>[Updated] Top-Notch Graphic Retouches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>2024 Approved Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-potential-of-text-with-photo-shading-psx/"><u>2024 Approved Unlock the Potential of Text with Photo Shading PSX</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/hashtag-hacks-the-top-25-tactics-to-elevate-your-instagram-profile-for-2024/"><u>Hashtag Hacks The Top 25 Tactics to Elevate Your Instagram Profile for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-rings-rhythm-versus-screen-time-symphony/"><u>In 2024, The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-ios-auditory-pleasures/"><u>In 2024, The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://win-web.techidaily.com/metodos-efectivos-para-desactivar-la-actualizacion-periodica-en-outlook-de-apple-computadoras/"><u>Métodos Efectivos Para Desactivar La Actualización Periódica en Outlook De Apple Computadoras</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-lava-blaze-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Lava Blaze 2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-describing-your-podcast-with-flair-for-2024/"><u>The Art of Describing Your Podcast with Flair for 2024</u></a></li>
+</ul></div>
+

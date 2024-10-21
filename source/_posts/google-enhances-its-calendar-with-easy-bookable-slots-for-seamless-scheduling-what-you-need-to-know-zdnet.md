@@ -1,7 +1,7 @@
 ---
 title: Google Enhances Its Calendar with Easy Bookable Slots for Seamless Scheduling - What You Need to Know | ZDNet
-date: 2024-09-17 14:58:37
-updated: 2024-09-20 11:36:36
+date: 2024-10-17T20:30:45.755Z
+updated: 2024-10-20T23:33:48.752Z
 tags:
   - google
 categories:
@@ -41,9 +41,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser (as the feature has yet to roll out to the mobile app). As I mentioned, this can be either a free or paid account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Google Calendar
 
 The first thing to do is open your default web browser and point it to [calendar.google.com](https://calendar.google.com). If you're not already logged into your Google account, do so now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Create a new appointment block
 
@@ -53,6 +67,19 @@ Click the Create button and you'll find a new entry.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Name and customize the schedule
 
 In the next popup, give the appointment schedule a name, set the appointment duration, edit the availability (by adding or removing days), and take care of the remaining customizations. Once you're done, click Next.
@@ -60,6 +87,13 @@ In the next popup, give the appointment schedule a name, set the appointment dur
 Make sure to only include the days you want available for booking.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Finish the customization
 
@@ -112,11 +146,25 @@ And that's all there is to using the new Google bookable appointment scheduling 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-evaluating-djis-phantom-3-features-for-2024/"><u>[New] Evaluating DJI's Phantom 3 Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-full-review-of-lgs-high-definition-monitoring-experience/"><u>[New] The Full Review of LG's High Definition Monitoring Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-sky-high-success-on-social-media-mastering-dji-drone-streams/"><u>[Updated] 2024 Approved Sky-High Success on Social Media Mastering DJI Drone Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-turning-youtube-hosted-tweets-into-audio-files/"><u>[Updated] Techniques for Turning YouTube-Hosted Tweets Into Audio Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-azure-guide-to-speech-to-text-integration/"><u>2024 Approved The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-spreading-online-jokes-fast/"><u>2024 Approved The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/bug-free-gaming-how-from-the-ashes-of-remnant-now-stays-steady-on-launch/"><u>Bug-Free Gaming: How 'From the Ashes of Remnant' Now Stays Steady on Launch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-poco-m6-pro-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Poco M6 Pro 5G Pattern Lock Screen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-sapphire-driver-updates-available-get-them-here/"><u>Latest Sapphire Driver Updates Available: Get Them Here!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-list-of-viral-stock-images-and-stories-for-2024/"><u>The Ultimate List of Viral Stock Images & Stories for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "SAP and the National Hockey League Unite for Greener Goals: Introducing Cutting-Edge Venue Performance Tools | EcoTech Insights"
-date: 2024-09-19 12:55:16
-updated: 2024-09-20 10:16:36
+date: 2024-10-19T18:17:02.140Z
+updated: 2024-10-20T21:02:18.947Z
 tags:
   - energy
 categories:
@@ -43,11 +43,33 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-premier-photography-frame-selection-24/"><u>[New] 2024 Approved The Premier Photography Frame Selection '24</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-zoomed-details-for-team-collaboration-on-ms-teams/"><u>[New] Navigating Zoomed Details for Team Collaboration on MS Teams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>[New] The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-capturing-moments-expert-tips-on-downloading-social-media-lives-for-2024/"><u>[Updated] Capturing Moments Expert Tips on Downloading Social Media Lives for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor 90 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-foundations-of-video-editing-in-the-gaming-world/"><u>In 2024, Foundations of Video Editing in the Gaming World</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-poco-c65-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Poco C65 FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>In 2024, Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-efficient-airdrop-transfers-fixes-for-all-apple-gadgets/"><u>In 2024, Unlock Efficient AirDrop Transfers - Fixes for All Apple Gadgets</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/progressive-procedure-masterful-method-with-applewatch-for-2024/"><u>Progressive Procedure Masterful Method with AppleWatch for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-clarity-overcoming-gopro-haze-challenges-for-2024/"><u>Unveiling Clarity Overcoming GoPro Haze Challenges for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

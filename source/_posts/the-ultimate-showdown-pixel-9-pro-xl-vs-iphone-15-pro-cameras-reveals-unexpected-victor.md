@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Showdown: Pixel 9 Pro XL vs iPhone 15 Pro Cameras Reveals Unexpected Victor!"
-date: 2024-09-18 18:42:26
-updated: 2024-09-20 10:56:56
+date: 2024-10-14T20:50:12.602Z
+updated: 2024-10-20T19:06:36.888Z
 tags:
   - google
 categories:
@@ -71,6 +71,13 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A clear winner in night time
 
 1x indoor with artificial lights
@@ -97,6 +104,19 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Pixel 9 Pro XL gets good at selfies
 
 Zoomed out selfies
@@ -106,6 +126,13 @@ Prakhar Khanna/ZDNET
 I like the selfie shooter on the iPhone 15 Pro and have found it better than Android phones. But it tends to blow out highlights sometimes. I didn't find that to be an issue on the Pixel 9 Pro. The above two selfies were taken in zoomed-out mode to check for the edge distortion (none) and FoV. 
 
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
 
@@ -140,11 +167,25 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-screen-recorders-for-google-meet-you-should-try-free-and-paid-for-2024/"><u>[New] Best Screen Recorders for Google Meet You Should Try [Free and Paid] for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oost-your-engagement-now-discover-these-key-youtube-shortcuts-for-2024/"><u>[New] Boost Your Engagement Now! - Discover These Key YouTube Shortcuts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-3-step-guide-to-exceptional-gopro-videos/"><u>2024 Approved The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>2024 Approved Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/superior-asmr-microphone-guide-you-must-read-for-2024/"><u>Superior ASMR Microphone Guide You Must Read for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites-for-2024/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-methods-for-unfound-d3dx925dll-files/"><u>The Ultimate Troubleshooting Methods for Unfound d3dx9_25.dll Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-newest-lg-bp550-specs-for-2024/"><u>Ultimate Guide Newest LG BP550 Specs for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-messenger-kids-sleep-mode-for-optimal-performance/"><u>Unlocking Messenger Kids' Sleep Mode for Optimal Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-8-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 8</u></a></li>
+</ul></div>
+

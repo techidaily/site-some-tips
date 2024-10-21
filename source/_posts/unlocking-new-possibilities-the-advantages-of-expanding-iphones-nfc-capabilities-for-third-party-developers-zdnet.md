@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities: The Advantages of Expanding iPhone's NFC Capabilities for Third-Party Developers | ZDNET"
-date: 2024-10-11T21:54:07.371Z
-updated: 2024-10-15T04:08:07.953Z
+date: 2024-10-19T22:06:44.976Z
+updated: 2024-10-20T16:51:40.614Z
 tags:
   - apple
 categories:
@@ -77,29 +77,29 @@ Apple's iOS 18.1 is accessible currently as a developers beta and only for the P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-connectivity-made-simple-easy-to-use-youtube-buttons/"><u>[New] 2024 Approved Channel Connectivity Made Simple Easy-to-Use YouTube Buttons</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-speaking-stories-writing-lyrical-film-scripts-for-2024/"><u>[New] Speaking Stories Writing Lyrical Film Scripts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-future-of-game-logging-exciting-alternatives-to-fbx-centric-apps-for-2024/"><u>[New] The Future of Game Logging Exciting Alternatives to FBX-Centric Apps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pioneers-of-immersion-history-in-vr/"><u>[Updated] Pioneers of Immersion History in VR</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-total-mobility-assessment-2023/"><u>2024 Approved Total Mobility Assessment 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/5-effektive-massnahmen-zur-optimierung-von-papierbasierten-ablaufen-durch-intelligente-automatisierung-losungen-mit-abbyy/"><u>5 Effektive Maßnahmen Zur Optimierung Von Papierbasierten Abläufen Durch Intelligente Automatisierung – Lösungen Mit ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/94-der-firmen-verlieren-potenzielle-kunden-wahrend-des-onboarding-prozesses-wie-kann-das-vermieden-werden/"><u>94% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
-<li><a href="https://games-able.techidaily.com/boost-your-series-sx-entertainment-by-tweaking-vrr-settings/"><u>Boost Your Series S/X Entertainment by Tweaking VRR Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1724312968539-abbyy-timeline/"><u>デジタル化時代の革命: ABBYY Timelineで強化されたプロセスデジタルツイン</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-photography-gurus-guide-to-date-stamping/"><u>[New] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-utility-watch-opens-your-macdevice/"><u>[New] Ultimate Utility Watch Opens Your MacDevice</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-visualstoryteller-for-windows-for-2024/"><u>[New] VisualStoryteller for Windows for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-virtual-classrooms-a-selection-without-udemy/"><u>[Updated] 2024 Approved Premier Virtual Classrooms A Selection without Udemy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamers-dilemma-choose-between-obs-and-twitch/"><u>[Updated] 2024 Approved Streamer's Dilemma Choose Between OBS & Twitch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-pocket-sized-worlds-googles-cardboard-meets-samsungs-gear/"><u>[Updated] Pocket-Sized Worlds Google's Cardboard Meets Samsung's Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-user-manual-for-water-imagery/"><u>[Updated] The Ultimate iPhone User Manual for Water Imagery</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-exploring-advanced-techniques-making-a-difference-with-your-slow-motion-images-on-instagram/"><u>2024 Approved Exploring Advanced Techniques Making a Difference with Your Slow Motion Images on Instagram</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/professional-vue-black-dashboard-exclusive-premium-bootstrap-4-admin-suite-from-creative-tim/"><u>Professional Vue Black Dashboard: Exclusive Premium Bootstrap 4 Admin Suite From Creative Tim</u></a></li>
+<li><a href="https://win-top.techidaily.com/wiederherstellung-von-uefi-systempunkten-methode-mit-bios-basierter-vorgehensweise/"><u>Wiederherstellung Von UEFI-Systempunkten - Methode Mit BIOS-Basierter Vorgehensweise</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

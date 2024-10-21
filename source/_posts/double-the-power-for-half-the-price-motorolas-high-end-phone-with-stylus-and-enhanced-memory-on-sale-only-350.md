@@ -1,7 +1,7 @@
 ---
 title: "Double the Power for Half the Price: Motorola's High-End Phone with Stylus & Enhanced Memory on Sale - Only $350!"
-date: 2024-09-19 21:34:27
-updated: 2024-09-20 10:28:24
+date: 2024-10-14T21:21:11.868Z
+updated: 2024-10-20T18:48:30.869Z
 tags:
   - google
 categories:
@@ -18,6 +18,19 @@ Matthew Miller/ZDNET
 ### What's the deal?
 
 The [Moto G Stylus 5G (2024)](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is down to $349 during Labor Day week, a $50 discount on an already affordable handset.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
 
@@ -75,6 +88,13 @@ A 50MP main and 13MP ultra-wide camera are positioned on the back of the phone. 
 
 While the camera hardware is not as powerful as [flagship phones](https://www.zdnet.com/article/best-phone/), Motorola provides excellent software tools that help you capture great photos and be creative with little effort. Still, I've enjoyed using the Motorola camera, especially when capturing quick shots during the daytime. The 50MP camera system should serve most people just fine. At this price point, you really can't complain.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 I started using personal digital assistant (PDA) devices that all had a stylus in 1997, and I am still a fan of using such an accessory that provides precision inputs and on-device handwriting. The [Moto G Stylus 5G](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-moto-g-stylus-5g-2024-256gb-unlocked-caramel-latte%2F6578951.p%3FskuId%3D6578951&publisher_slug=itechdaily19598&exclusive=1) is an affordable option for stylus lovers while also serving as a very capable Android phone. The Motorola user interface remains one of my favorites since it is optimized for efficient use and doesn't rely as heavily on AI to help you get things done.
@@ -100,11 +120,25 @@ I started using personal digital assistant (PDA) devices that all had a stylus i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-masterfb-mp4-hacking-facebook-videos-with-ease-for-2024/"><u>[Updated] MasterFB-MP4 Hacking Facebook Videos with Ease for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>[Updated] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-todays-drones-tomorrows-promise/"><u>[Updated] Unveiling Today's Drones Tomorrow's Promise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-shots-a-windows-11-guide/"><u>2024 Approved Streamline Your Shots A Windows 11 Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/composing-correspondents-curtains/"><u>Composing Correspondents' Curtains</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-freezing-glitches-in-baldurs-gate-your-guide-to-6-essential-tweaks/"><u>Eliminate Freezing Glitches in Baldur’s Gate: Your Guide to 6 Essential Tweaks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/selection-wonders-enhancing-youtube-video-thumbnails/"><u>Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gunstige-online-konvertierung-von-webm-zu/"><u>Günstige Online-Konvertierung Von Webm Zu</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-collection-of-film-scripts-by-genre/"><u>In 2024, The Ultimate Collection of Film Scripts by Genre</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-live-setting-picks-for-2024/"><u>Ultimate Live Setting Picks for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-eliminate-unwanted-sound-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>Updated In 2024, Eliminate Unwanted Sound A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
+</ul></div>
+

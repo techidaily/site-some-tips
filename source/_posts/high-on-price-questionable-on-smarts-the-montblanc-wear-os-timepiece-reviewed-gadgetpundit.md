@@ -1,7 +1,7 @@
 ---
 title: "High on Price, Questionable on Smarts: The Montblanc Wear OS Timepiece Reviewed | GadgetPundit"
-date: 2024-09-17 23:36:19
-updated: 2024-09-20 10:15:57
+date: 2024-10-15T17:57:28.637Z
+updated: 2024-10-20T17:12:29.291Z
 tags:
   - google
 categories:
@@ -52,6 +52,19 @@ I've been primarily testing the Montblanc smartwatch with my iPhone (while alter
 | Bands                    | 20mm width                                                                             |
 | Dimensions               | 42 mm diameter by 14 mm thickness                                                      |
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Hardware
 
 Montblanc delivers the Summit 3 in a jewelry box befitting the luxury brand. Open the top of the box to reveal the watch, with a calf leather band attached, wrapped around a pillow in the center of the top. Two drawers are positioned below the top that slide open to reveal a detailed user guide in the top drawer and the charging dock, USB-C cable, and rubber watch band in the bottom drawer. The USB-C cable slides into the charging dock, which has a silicone bottom to prevent it from moving around a surface. There are four gold connection spots on the back of the watch that rest on top of four pins on the charging dock.
@@ -98,6 +111,13 @@ Matthew Miller/ZDNET
 
 The Google Wear OS experience is pretty much the same as you will find on other Wear OS smartwatches, and there are a large number of apps to customize the watch for your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Montblanc Summit smartphone app
 
 On both iPhones and Android devices, the only current way to connect the Montblanc Summit 3 is through the Montblanc Summit app. The app is pretty basic, with limited functionality other than customizing the look of the watch. Then again, the Google Wear OS smartphone app doesn't do much either, so I'm OK with Montblanc having its own app that optimizes the experience for its brand. The main tab, My Watch, facilitates customization of the 11 current watch face options and the tiles that you will swipe through. There is limited capability to customize the watch faces by changing the background color and hands on some faces. Others have no customization options, but if there is any option for customization, then look for the watch edit icon in the upper right of the Montblanc application.
@@ -124,6 +144,13 @@ The Summit 3 performs just like other standard Wear OS smartwatches when paired 
 
 [Montblanc Summit 3 $1,290 at Montblanc](https://www.montblanc.com/en-us/discover/campaign/summit-3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Daily usage experiences and conclusion
 
 First and foremost, the [Montblanc Summit 3](https://www.montblanc.com/en-us/discover/campaign/summit-3) is focused on the hardware: a luxury watch design with modern smartwatch internals. The hardware is fantastic, with smooth glass, lightweight titanium, flawless buttons, and high-quality bands. It's a large watch, but not as massive as others I have tried. Luxury watches are much more expensive, so for a luxury-brand watch, this is a fairly affordable option.
@@ -133,6 +160,13 @@ I've been a bit frustrated by the presence of Montblanc's fitness and health app
 I installed the Strava app and was hoping it would be useful for tracking my outdoor running and indoor rowing. When I launched Strava outside, it showed that GPS had been acquired, and I tapped on start. The app then only captured the time between when I hit start and end, with no distance, effort, elevation, or heart rate data captured on the watch. Unfortunately, Strava on Wear OS does not have an indoor running option, so I chose a workout, and it did capture my heart rate for this activity. It seems both the app and the watch failed here, but again I will see what happens when we get a more robust health and wellness option in September.
 
 Messaging with my voice, Google Wallet, Google Maps, and other apps all worked flawlessly when paired with my [Z Fold 4](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-z-fold4%2F&publisher_slug=itechdaily19598&exclusive=1). The battery has proven to last a couple of days, which is typical for a smartwatch, but I'll do more testing when I can fully test the health and wellness functionality. It's a lovely smartwatch, but at $1,290, it is clearly for the watch buyer who wants a luxury piece of jewelry with smartwatch internals.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -165,11 +199,31 @@ There are not many luxury smartwatches available, but we do see a few options fo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-channel-honor-roll-play-button-and-follower-awards/"><u>[New] Channel Honor Roll - Play Button & Follower Awards</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-prime-websites-to-increase-video-viewership/"><u>[New] Prime Websites to Increase Video Viewership</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-potential-of-your-notes-use-mematic/"><u>[New] Unleash the Potential of Your Notes - Use Mematic</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-decelerating-music-dynamics-step-by-step-guide-in-premiere-pro/"><u>[Updated] Decelerating Music Dynamics Step-by-Step Guide in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-enterprise-sky-saver-guide/"><u>[Updated] Premium Enterprise Sky Saver Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[Updated] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>2024 Approved Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-crafting-superior-srt-documents/"><u>2024 Approved The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vectors-sourcebook-top-10-list/"><u>2024 Approved The Ultimate Vectors Sourcebook - Top 10 List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-mobile-melodies-on-iphone/"><u>2024 Approved Unleashing Creativity with Mobile Melodies on iPhone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cod-vanguard-voice-communication-errors-how-to-solve-them-effectively/"><u>Cod: Vanguard Voice Communication Errors – How to Solve Them Effectively</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-picks-leading-wi-fi-range-extenders-dominating-2024-market/"><u>Expert Picks: Leading Wi-Fi Range Extenders Dominating 2024 Market</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-v30t-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme V30T Phone without PIN</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-itel-p40-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Itel P40 Phone? Unlock It Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photography-at-the-tip-of-your-fingers-top-10-apps-for-2024/"><u>Photography at the Tip of Your Fingers – Top 10 Apps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-get-your-evil-genius-game-running-smoothly/"><u>Unlocking the Secrets to Get Your Evil Genius Game Running Smoothly</u></a></li>
+</ul></div>
+

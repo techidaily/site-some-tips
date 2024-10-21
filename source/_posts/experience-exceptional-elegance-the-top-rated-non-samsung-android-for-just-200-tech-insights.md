@@ -1,7 +1,7 @@
 ---
 title: "Experience Exceptional Elegance: The Top-Rated Non-Samsung Android for Just $200 | Tech Insights"
-date: 2024-09-18 11:40:23
-updated: 2024-09-20 10:37:16
+date: 2024-10-13T17:45:25.078Z
+updated: 2024-10-20T21:36:03.632Z
 tags:
   - google
 categories:
@@ -63,6 +63,13 @@ Matthew Miller/ZDNET
 
 I was very pleased to see AGM implement the fingerprint sensor in the right-side power button, as my thumb naturally rests there while holding the phone in my right hand. There is an additional button on the left side that you can customize to launch the temperature utility, turn on the flashlight, or launch the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 If you are looking for an affordable rugged phone that has the latest version of Android and a big display, the [AGM X6 Phantom](https://www.aliexpress.com/item/1005007354515299.html) is a good option. The display isn't as brilliant as [the newest smartphones](https://www.zdnet.com/article/best-phone/) and the camera is limited, but battery life is great and it provides a basic Android experience.
@@ -90,11 +97,33 @@ It is not easy to stand out in a world of glass slabs, but the AGM X6 Phantom le
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-diverse-backdrops-for-tiktok-videos/"><u>[New] In 2024, Explore Diverse Backdrops for TikTok Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-journey-through-japan-best-video-games-akin-to-ghost-of-tsushima/"><u>[New] Journey Through Japan Best Video Games Akin to Ghost of Tsushima</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>[New] The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-practical-approach-to-hymnal-phone-tones/"><u>[Updated] 2024 Approved A Practical Approach to Hymnal Phone Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-rate-free-excellence-criteria-for-top-10-lut-tools/"><u>[Updated] Premium-Rate Free Excellence Criteria for Top 10 LUT Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-prime-5-minute-time-lapse-video-creator/"><u>[Updated] Prime 5-Minute Time-Lapse Video Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>[Updated] Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-online-stores-for-personalized-box-designs/"><u>[Updated] Top 10 Online Stores for Personalized Box Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-srt-to-video-top-10-free-subtitle-tools/"><u>[Updated] Transform SRT to Video - Top 10 FREE Subtitle Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamsmart-beyond-the-dacast-shell/"><u>2024 Approved StreamSmart Beyond the DaCast Shell</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-vanguard-of-radio-theatre-composition/"><u>2024 Approved The Vanguard of Radio-Theatre Composition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bluetooth-wireless-mastery-lihans-lhfm1e39-car-stereo-upgrade-reviewed-now/"><u>Bluetooth Wireless Mastery: Lihan's LHFM1e39 Car Stereo Upgrade Reviewed Now!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cultivating-effective-sponsorship-agreements-in-youtubers-realm/"><u>Cultivating Effective Sponsorship Agreements in YouTubers' Realm</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-12plus-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme 12+ 5G FRP Locks</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-the-same-dont-update-how-to-preserve-your-whatsapp-usage/"><u>Keep the Same, Don’t Update: How to Preserve Your WhatsApp Usage</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ulate-sound-rate-in-youtube-playback/"><u>Manipulate Sound Rate in YouTube Playback</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-networks-fueling-business-innovation-and-growth-for-2024/"><u>Top 6 Networks Fueling Business Innovation and Growth for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unplug-and-replay-twitch-livestream-techniques-for-2024/"><u>Unplug and Replay Twitch Livestream Techniques for 2024</u></a></li>
+</ul></div>
+

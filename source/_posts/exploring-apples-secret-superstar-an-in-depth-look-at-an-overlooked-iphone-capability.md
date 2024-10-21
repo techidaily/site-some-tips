@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's Secret Superstar: An In-Depth Look at an Overlooked iPhone Capability"
-date: 2024-10-13T08:26:30.212Z
-updated: 2024-10-15T06:42:23.981Z
+date: 2024-10-17T23:38:57.634Z
+updated: 2024-10-20T19:55:11.306Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Multiple cores can increase performance considerably for problems that can be split into parallel processes. Many modern processes work well in parallel, especially graphics, data crunching, AI, ML, and AR-related tasks. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  CPU vs. SoC
@@ -86,10 +86,10 @@ SoCs have enormous performance benefits because all the electrical impulses have
 It wasn't until SoCs could be successfully fabricated with tens of billions of transistors that they were suitable for high-performance personal computers. They can be now, so now they are. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Apple Silicon
@@ -111,6 +111,13 @@ For almost all activities, [the Apple Silicon-based Macs blow away their equival
 They're a win for Apple because the company no longer has to rely on Intel for its chips. To be fair, Apple still doesn't make its own chips. It also doesn't manufacture its own iPhones. The company relies on a vast supply chain to produce in the quantities it sells. But the company now designs its own chips for the Mac. By removing its reliance on Intel's innovation teams, Apple can engineer these components to its specific priorities. The result is apparent. 
 
 However, the Silicon transition was a win for Apple and its customers solely because of something called Rosetta 2\. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Rosetta 2
 
@@ -155,10 +162,10 @@ It's a win for both developers and users when code is compiled for Apple Silicon
 I found, for example, that Rosetta-translated Chrome was OK but a bit sluggish. When I replaced that with the Apple Silicon version of Chrome, it was far faster. For help finding out which of your applications are Native, Intel, or "Universal" (meaning the application contains native code for both Intel and Apple Silicon), read "[Sluggish apps on your M1 Mac? Check this first for a possible fix](https://www.zdnet.com/article/the-first-thing-to-check-if-an-app-seems-sluggish-on-your-m1-mac/)." 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  M1, M2, M3, Pro, Max, and Ultra
@@ -182,13 +189,6 @@ David Gewirtz/ZDNET
 The M-series processors are SoCs, so memory and storage come right on the chip. Depending on the chip, you can go from 8GB RAM up to 192GB RAM and 256GB of flash storage up to a whopping 8TB on the 16-inch MacBook Pro with M3 Max. That additional storage will cost you, to the tune of a few thousand bucks more. But if you need it, you need it.
 
 The sizes of the chips differ considerably. The base chip is about a quarter the size of the Max model. This makes sense because the Max crams a lot more onto its die. It got smaller between the M2 and M3 generations when the die-production process went from 5-nanometer to 3-nanometer components. But for now, it's just interesting to note that the M3 Max has 92 billion transistors, while the double-chip M2 Ultra has 134 billion transistors -- all in the space of about the size of a fingernail. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Final thoughts
 
@@ -230,15 +230,17 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-immersive-videography-the-360-journey/"><u>[New] Exploring Immersive Videography The 360° Journey</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-earn-more-maximizing-income-through-youtube-mobile-advertising-for-2024/"><u>[Updated] Earn More Maximizing Income Through YouTube Mobile Advertising for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-5-best-title-maker-online/"><u>2024 Approved 5 Best Title Maker Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mp3202410/"><u>获取高效MP3转换工具：2024年网上最值得信赖的10个推荐列表</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726221340487-m4a-flv-movavi/"><u>無條件免費 M4A 到 FLV 過渡 - 動漫實用工具Movavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/las-5-editoras-de-formatos-mov-totalmente-gratuitas-guia-completa-para-su-seleccion-en-2024/"><u>Las 5 Editoras De Formatos MOV Totalmente Gratuitas: Guía Completa Para Su Selección en 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/sony-xperia-10-v-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Sony Xperia 10 V ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-a-dark-wallpaper-automatically-on-android-devices/"><u>Step-by-Step Guide: Setting Up a Dark Wallpaper Automatically on Android Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726227593841-mp3m4v-movavi/"><u>앱에서 무료 MP3/M4V 변형: 모바일 라이브러리의 강력한 해결책 - Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-post-impact-auto-adjusting-videos-for-instagram-on-mac/"><u>[New] Enhance Post Impact Auto-Adjusting Videos for Instagram on Mac</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-video-directing-the-complete-powerdirector-2024-review/"><u>[Updated] Mastering Video Directing The Complete PowerDirector 2024 Review</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-methods-youtube-to-mpeg-transformation-guide/"><u>2024 Approved Essential Methods YouTube to MPEG Transformation Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-novel-vlog-talk-points-everyday/"><u>In 2024, Novel Vlog Talk Points Everyday</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-images-into-captivating-gifs/"><u>In 2024, Transform Images Into Captivating GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tune-treasure-hunt-finding-the-perfect-audio/"><u>In 2024, Tune Treasure Hunt Finding the Perfect Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-techniques-from-video-to-audio-downloads-on-pinterest/"><u>In 2024, Ultimate Techniques From Video to Audio Downloads on Pinterest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncovering-the-practical-benefits-of-photo-stability-features/"><u>In 2024, Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>In 2024, Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultime-solution-comment-sauvegarder-avec-elegance-vos-titres-de-la-bibliotheque-steam-un-tutoriel-detaille/"><u>Ultime Solution: Comment Sauvegarder Avec Élégance Vos Titres De La Bibliothèque Steam - Un Tutoriel Détaillé</u></a></li>
 </ul></div>
 

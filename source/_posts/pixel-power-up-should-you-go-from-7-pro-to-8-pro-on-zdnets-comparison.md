@@ -1,7 +1,7 @@
 ---
 title: Pixel Power-Up! Should You Go From 7 Pro to 8 Pro on ZDNet's Comparison?
-date: 2024-09-19 16:35:13
-updated: 2024-09-20 10:53:21
+date: 2024-10-18T21:28:26.229Z
+updated: 2024-10-20T20:25:00.657Z
 tags:
   - google
 categories:
@@ -44,9 +44,23 @@ But with as many new (and old) features as the [Pixel 8 Pro](https://buy.geni.us
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the Google Pixel 8 Pro if...  
 
 June Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. You want an improved camera experience
 
@@ -55,6 +69,13 @@ If the Google Pixel is known for something, its the device's camera and photo-ed
 **Also: [My go-to camera setting for the smoothest phone videos](https://www.zdnet.com/article/my-go-to-camera-setting-for-the-smoothest-phone-videos-just-dont-abuse-it/)**
 
 The Pixel 8 Pro also features an improved aperture for all three lenses in the triple camera array, allowing for brighter images in low-light conditions and a shallower depth of field, which helps create those blurred-background images organically. The 50MP camera now features f/1.68 aperture instead of the 7 Pro's f/1.85\. The 48MP ultrawide camera goes to f/1.95, and the 48MP telephoto has an aperture of f/2.8 compared to the 7 Pro's f/3.5.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You want a porcelain or bright blue Pro smartphone
 
@@ -71,6 +92,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You'll use the temperature sensor
 
@@ -125,11 +153,31 @@ The Google Pixel 8 Pro is the first Pixel to feature a model with up to 1TB of s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-find-anything-you-want-to-know-about-instagram-video-limit/"><u>[New] Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-filmmakers-delight-filmoras-best-aspects-exposed/"><u>[New] In 2024, Filmmakers' Delight Filmora's Best Aspects Exposed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-effortless-live-broadcasts-with-one-device-use/"><u>[New] The Essence of Effortless Live Broadcasts with One-Device Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[New] The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-budget-friendly-ball-games-watch-and-edit-on-the-go/"><u>[Updated] Budget-Friendly Ball Games Watch & Edit on the Go</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-seo-handbook-for-podcast-success/"><u>[Updated] The Essential Seo Handbook for Podcast Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expressing-emotionally-using-emojis-for-yt-comments/"><u>2024 Approved Expressing Emotionally Using Emojis for YT Comments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pixel-perfection-masterful-methods-for-stunning-imagery/"><u>2024 Approved Pixel Perfection Masterful Methods for Stunning Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-undead-lore-weaver/"><u>2024 Approved Undead Lore Weaver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-settings-regained-in-win10-os/"><u>Display Settings Regained in Win10 OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-guide-to-screen-zooming-on-microsoft-teams-for-2024/"><u>Expert Guide to Screen Zooming on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-k850-ultrahd-samsung-2023-tech-review/"><u>In 2024, K850 UltraHD Samsung 2023 Tech Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-role-of-authenticity-in-client-generated-marketing/"><u>In 2024, The Role of Authenticity in Client-Generated Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-text-tilt-treasures/"><u>In 2024, Top Text Tilt Treasures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>In 2024, Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-manual-to-acquiring-final-cut-pro-gratis-for-2024/"><u>The Essential Manual to Acquiring Final Cut Pro Gratis for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleash-your-gameplay-potential-on-a-philips-49-inch-oled-curved-screen/"><u>Unleash Your Gameplay Potential on a Philips 49-Inch OLED Curved Screen</u></a></li>
+</ul></div>
+

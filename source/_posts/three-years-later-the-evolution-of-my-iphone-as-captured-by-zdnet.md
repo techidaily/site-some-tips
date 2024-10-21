@@ -1,7 +1,7 @@
 ---
 title: "Three Years Later: The Evolution of My iPhone as Captured by ZDNet"
-date: 2024-10-13T00:56:20.573Z
-updated: 2024-10-15T03:48:01.432Z
+date: 2024-10-18T21:32:58.550Z
+updated: 2024-10-20T20:35:40.778Z
 tags:
   - apple
 categories:
@@ -73,10 +73,10 @@ The paint has scraped off.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Taking sides?
@@ -96,16 +96,10 @@ Strangely smooth.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The bottom line? Not much of one
@@ -121,16 +115,10 @@ Not much of a scratch there.
 Chris Matyszczyk/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You can do it. Yes, you can.
@@ -183,18 +171,15 @@ Sometimes it's worth exposing your blemishes and letting people see you -- and y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-best-monitors-for-xbox-series-x/"><u>[New] The Best Monitors for Xbox Series X</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[New] The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-11-windows-11-secrets-unveiled/"><u>[New] Top 11 Windows 11 Secrets Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-google-meet-recording-made-easy-for-smartphone-users/"><u>[Updated] Google Meet Recording Made Easy for Smartphone Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-macbook-mixer-dynamic-perfect-streams-in-5-steps/"><u>2024 Approved The MacBook-Mixer Dynamic Perfect Streams in 5 Steps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-file-transfers-setting-up-a-python-server-in-windows/"><u>Easy File Transfers: Setting Up a Python Server in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>How to recover old videos from your Nubia Z60 Ultra</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-dominating-spotifys-advertising-space/"><u>In 2024, Strategies for Dominating Spotify's Advertising Space</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-honor-x50-gt-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50 GT Black and White | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-unplugged-speaker-or-headphone-problems-on-windows-10-8-and-7/"><u>Solve Unplugged Speaker or Headphone Problems on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-getting-your-hp-wireless-keyboard-back-online/"><u>Step-by-Step Solutions: Getting Your HP Wireless Keyboard Back Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-path-to-picsart-proficiency-for-2024/"><u>The Ultimate Path to PicsArt Proficiency for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-13c-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-methodical-path-to-discovering-hidden-youtube-footage-for-2024/"><u>[New] The Methodical Path to Discovering Hidden YouTube Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-converting-speech-to-text-with-google-docs/"><u>[New] The Ultimate Guide to Converting Speech to Text with Google Docs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-video-audio-mastering-the-srt-mp4-duo/"><u>2024 Approved Enhancing Video Audio Mastering the SRT-MP4 Duo</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-instant-adjustment-match-youtube-to-mac-aspects/"><u>2024 Approved Instant Adjustment Match YouTube to Mac Aspects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-the-turing-test-can-it-ever-be-overtaken/"><u>Simplifying the Turing Test: Can It Ever Be Overtaken?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-stations-beyond-ustream-reviews-for-2024/"><u>Streaming Stations Beyond Ustream Reviews for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-online-platforms-an-insight-into-facebook-twitter-instagram-youtube/"><u>The Powerhouses of Online Platforms: An Insight Into Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-macos-manual-for-mixer-live-streaming-for-2024/"><u>The Ultimate MacOS Manual for Mixer Live Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-hd-videos-on-android-devices-for-2024/"><u>Unlock the Potential of HD Videos on Android Devices for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Inbox: A Simple Tactic Eliminates Clutter Without the Hassle of Multi-Accounts or Stringent Filters!"
-date: 2024-09-18 18:15:21
-updated: 2024-09-20 10:45:58
+date: 2024-10-16T20:47:26.024Z
+updated: 2024-10-20T22:43:40.441Z
 tags:
   - google
 categories:
@@ -55,6 +55,19 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to create an alias using Gmail
 
 Although it's the world's most popular email service, Gmail's implementation of aliases is surprisingly limited. To create an alias, you start with your primary address and then modify it by adding a plus sign at the end and then adding some extra text. If your address is example@gmail.com, you can use example+news@gmail.com, example+family@gmail.com, etc.
@@ -62,6 +75,13 @@ Although it's the world's most popular email service, Gmail's implementation of 
 **Also: [Running out of Gmail storage? How to get another 15GB for free](https://www.zdnet.com/article/running-out-of-gmail-storage-how-to-get-another-15gb-for-free/)**
 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
 
@@ -73,6 +93,19 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to create an alias using your Apple ID
 
 If you own an iPhone, iPad, or MacBook, you can use that device to create up to three email aliases that go to an address associated with your Apple ID. This feature is called [Hide My Email](https://support.apple.com/guide/icloud/what-are-email-aliases-in-icloud-mail-mm074af79454/1.0/icloud/1.0), and it uses the iCloud domain as its forwarding mechanism.
@@ -82,6 +115,13 @@ The one catch is that each alias uses an auto-generated name that can be less th
 **Also: [You can easily move your photos from Google Photos to iCloud Photos. Here's how](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/)**
 
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Other alias options
 
@@ -112,11 +152,25 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-a-beginners-guide-to-music-in-online-video-footage-fb/"><u>[New] 2024 Approved A Beginner's Guide to Music in Online Video Footage (FB)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-virtual-producers-showdown/"><u>[New] In 2024, Virtual Producer's Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-success-in-live-streaming-of-cricket-matches/"><u>2024 Approved Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/schutz-ihrer-sd-daten-vor-der-formatierung-beste-strategien-verstehen-und-anwenden/"><u>Schutz Ihrer SD-Daten Vor Der Formatierung: Beste Strategien Verstehen Und Anwenden</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-average-income-derived-from-each-video-watcher-for-2024/"><u>The Average Income Derived From Each Video Watcher for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-srt-enhancements-maximizing-performance-on-both-platforms-for-2024/"><u>Top SRT Enhancements Maximizing Performance on Both Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-png-alterations-guide-for-2024/"><u>Ultimate PNG Alterations Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q-for-2024/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases-for-2024/"><u>Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wi-fi-ts-wmv/"><u>무료 Wi-Fi TS WMV 변환기 - 원자성 비용 광고 다이제스트 및 시청자를 위한 안내서</u></a></li>
+</ul></div>
+

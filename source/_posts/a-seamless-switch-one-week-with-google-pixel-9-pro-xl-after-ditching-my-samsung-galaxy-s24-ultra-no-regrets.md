@@ -1,7 +1,7 @@
 ---
 title: A Seamless Switch? One Week with Google Pixel 9 Pro XL After Ditching My Samsung Galaxy S24 Ultra – No Regrets!
-date: 2024-09-17 22:57:54
-updated: 2024-09-20 11:30:47
+date: 2024-10-17T18:17:08.450Z
+updated: 2024-10-20T23:05:43.713Z
 tags:
   - google
 categories:
@@ -87,11 +87,31 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (3/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. The AI will trip up at times and pause the session, but haptic feedback does help guide the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience tremendously.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's still too early to call the [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5766f6f7-10e4-4fa5-adf2-ef3a9e0c7605%7Cdtp&dtb=1) the [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, but it's certainly up there for consideration -- even with its AI blunders. While the new model is Google's most expensive non-foldable phone yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5766f6f7-10e4-4fa5-adf2-ef3a9e0c7605%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C5766f6f7-10e4-4fa5-adf2-ef3a9e0c7605%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -127,11 +147,30 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-full-disclosure-insights-into-the-google-podcast-app/"><u>[New] Full Disclosure Insights Into the Google Podcast App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-screen-picks-for-ps5-and-xbox-games/"><u>[New] The Premier Screen Picks for PS5 and Xbox Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-audio-enthusiast-hub-capture-and-audit-mp3-files-for-2024/"><u>[Updated] Audio Enthusiast Hub Capture and Audit MP3 Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-trending-picture-tales-history-revealed/"><u>[Updated] Trending Picture Tales History Revealed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-virtual-reality-streaming-who-to-watch/"><u>[Updated] Virtual Reality Streaming Who to Watch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-perusing-past-facebook-pages-to-review-or-not-to/"><u>2024 Approved The Art of Perusing Past Facebook Pages To Review or Not To?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-how-to-on-using-voice-input-in-google-docs/"><u>2024 Approved The Ultimate How-To on Using Voice Input in Google Docs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>2024 Approved Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-complete-walkthrough-for-retrieving-gone-texts-in-various-mobile-phones/"><u>A Complete Walkthrough for Retrieving Gone Texts in Various Mobile Phones</u></a></li>
+<li><a href="https://techidaily.com/all-about-wsus-your-complete-introduction-to-windows-server-updates-management/"><u>All About WSUS: Your Complete Introduction to Windows Server Updates Management</u></a></li>
+<li><a href="https://win11.techidaily.com/change-power-saving-settings-adjust-the-screen-brightness-on-battery-saver-by-tweaking-the-power-plans-in-system-settings/"><u>Change Power Saving Settings: Adjust the Screen Brightness on Battery Saver by Tweaking the Power Plans in 'System Settings'.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-both-worlds-10-video-editing-apps-for-kids-with-free-and-paid-features/"><u>New The Best of Both Worlds 10 Video Editing Apps for Kids with Free and Paid Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-sound-with-cloud-tools-top-5-online-text-to-speech-services-reviewed-for-2024/"><u>Transform Sound with Cloud Tools Top 5 Online Text-to-Speech Services Reviewed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steam-resolving-the-failed-to-load-steamuidll-critical-failure/"><u>Troubleshooting Steam: Resolving the 'Failed to Load steamui.dll' Critical Failure</u></a></li>
+</ul></div>
+

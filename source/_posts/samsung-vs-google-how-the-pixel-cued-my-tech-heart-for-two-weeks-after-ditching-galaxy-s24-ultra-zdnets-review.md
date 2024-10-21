@@ -1,7 +1,7 @@
 ---
 title: "Samsung Vs. Google: How the Pixel Cued My Tech Heart for Two Weeks After Ditching Galaxy S24 Ultra | ZDNET's Review"
-date: 2024-09-19 13:56:25
-updated: 2024-09-20 11:48:59
+date: 2024-10-17T22:45:27.670Z
+updated: 2024-10-20T22:59:50.952Z
 tags:
   - google
 categories:
@@ -87,11 +87,25 @@ While I'm still testing every [new Pixel 9 AI feature](https://www.zdnet.com/art
 * **[Gemini Live](https://www.zdnet.com/article/you-can-access-googles-gemini-live-for-free-right-now-heres-how-and-why-youll-want-to/) (3/5)**: Like ChatGPT's voice feature, you can chat and ask questions to Gemini Live while it's running in the background. The AI will trip up at times and pause the session, but haptic feedback does help guide the flow of the conversation. Multimodality and synchronization with the [Pixel Buds Pro 2](https://www.zdnet.com/article/google-unveils-pixel-buds-pro-2-here-are-the-3-features-im-most-excited-about/) should improve the experience tremendously.
 * **[Call Notes](https://www.zdnet.com/article/this-simple-and-actually-useful-ai-tool-is-my-favorite-new-pixel-feature-its-in-ios-18-too/) (2/5)**: The reliability of the summarization feature is greatly affected by call quality, speaking pace, and whether there are any unique words in the conversation, such as foreign names and objects. In most cases, Gemini transcribed dates, places, and bits of important information inaccurately.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 It's still too early to call the [Google Pixel 9 Pro XL](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HWL5WN%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa90454f-a0d4-4eb0-a551-8dc7c22bfa00%7Cdtp&dtb=1) the [best Android phone](https://www.zdnet.com/article/best-android-phone/) this year, but it's certainly up there for consideration -- even with its AI blunders. While the new model is Google's most expensive non-foldable phone yet, the price bump is justified by improvements in aspects that traditionally held the Pixel line back, such as charging speed, performance, and build quality.
 
 With the reintroduction of an XL model this year, the smaller [Pixel 9 Pro](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Pro-Smartphone-Porcelain%2Fdp%2FB0D7HVLTYV%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa90454f-a0d4-4eb0-a551-8dc7c22bfa00%7Cdtp&dtb=1) should appeal to users who want a more comfortable device without compromising on specs and camera hardware. And if both phones are out of your budget, but you want the core features, consider the cheaper [Pixel 9](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGoogle-Pixel-Unlocked-Smartphone-Advanced%2Fdp%2FB0D7HWJDQM%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa90454f-a0d4-4eb0-a551-8dc7c22bfa00%7Cdtp&dtb=1).
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test phones
 
@@ -127,11 +141,29 @@ For a more extensive breakdown, check out our comprehensive [phone testing metho
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-obscured-feedback-on-youtube-videos/"><u>[New] Exploring Obscured Feedback on YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-revolutionary-video-editor-top-tier-clarity/"><u>[New] In 2024, Revolutionary Video Editor Top-Tier Clarity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-techniques-for-capturing-presentations/"><u>[Updated] In 2024, Advanced Techniques for Capturing Presentations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-yt-thumbnails-flashy-neon-borders-applied/"><u>[Updated] In 2024, Boost YT Thumbnails Flashy Neon Borders Applied</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-earning-cash-online-with-no-skills-needed/"><u>[Updated] The Ultimate Guide to Earning Cash Online with No Skills Needed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unraveling-the-mysteries-of-smooth-audioshifts-for-2024/"><u>[Updated] Unraveling the Mysteries of Smooth Audioshifts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-choice-of-steadicams-for-drone-shooting/"><u>2024 Approved Ultimate Choice of Steadicams for Drone Shooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unwind-the-clock-pioneering-techniques-for-youtube-video-reversal/"><u>In 2024, Unwind the Clock Pioneering Techniques for YouTube Video Reversal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-what-to-expect-from-the-new-google-pixel-timepiece-price-launch-date-and-specs/"><u>Inside Scoop: What to Expect From the New Google Pixel Timepiece – Price, Launch Date & Specs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-ice-artistry-2022-edition-for-2024/"><u>The Best of Ice Artistry 2022 Edition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-crafting-luts-in-3d-for-2024/"><u>The Complete Guide to Crafting LUTs in 3D for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-google-chrome-reboot-for-swift-resolution/"><u>Troubleshooting Stuck Google Chrome: Reboot for Swift Resolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-iphone-strategies-for-flawless-audio-downloads-for-2024/"><u>Ultimate iPhone Strategies for Flawless Audio Downloads for 2024</u></a></li>
+</ul></div>
+

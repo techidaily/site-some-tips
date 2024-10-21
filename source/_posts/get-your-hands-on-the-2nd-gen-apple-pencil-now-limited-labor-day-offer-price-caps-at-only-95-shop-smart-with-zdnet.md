@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on the 2Nd Gen Apple Pencil Now! Limited Labor Day Offer Price Caps at Only $95 – Shop Smart with ZDNET.
-date: 2024-10-08T18:54:26.474Z
-updated: 2024-10-14T22:50:32.203Z
+date: 2024-10-13T17:58:26.096Z
+updated: 2024-10-20T16:37:15.572Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +46,13 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,13 +76,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -85,13 +92,6 @@ Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Hold your iPhone near the payment terminal
 
 Entering your passcode authenticates your payment, so all you need to do next is hold your phone within about an inch of the card reader to process the transaction. 
@@ -106,14 +106,14 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-## FAQ
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
 
@@ -125,10 +125,16 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
@@ -149,6 +155,13 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -156,13 +169,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 **Also: [Have you used Cash App in the last 6 years? You might be eligible for $2,500](https://www.zdnet.com/article/have-you-used-cash-app-within-the-past-six-years-you-might-be-eligible-for-2500/)**
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
 
@@ -212,18 +218,21 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-establishing-baseline-metrics-for-igtv-effectiveness/"><u>[New] 2024 Approved Establishing Baseline Metrics for IGTV Effectiveness</u></a></li>
-<li><a href="https://some-tips.techidaily.com/solved-auto-unloading-issue/"><u>[Solved] Auto Unloading Issue</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>[Updated] The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5/"><u>「ピンボケを克服: 5つの最強技術で、あなたの写真を鮮明に戻す究極ガイド」</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/devoilant-les-secrets-des-systemes-dintelligence-de-traitement-perspectives-innovantes-avec-abbyy/"><u>Dévoilant Les Secrets Des Systèmes D'Intelligence De Traitement: Perspectives Innovantes Avec ABBYY</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-compilation-of-2023-writers-on-youtube/"><u>In 2024, The Ultimate Compilation of 2023’ Writers on YouTube</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/maximizing-your-ps5-a-comprehensive-guide-to-achieving-120fps-gaming/"><u>Maximizing Your PS5: A Comprehensive Guide to Achieving 120FPS Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/professional-data-annihilation-explained-bitraser-enterprise-edition-video-tutorial/"><u>Professional Data Annihilation Explained – BitRaser Enterprise Edition Video Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-to-select-every-single-message-in-your-gmail-inbox/"><u>The Complete Walkthrough to Select Every Single Message in Your Gmail Inbox</u></a></li>
-<li><a href="https://some-tips.techidaily.com/total-horizon-capture-versus-focused-dimensionality-for-2024/"><u>Total Horizon Capture Versus Focused Dimensionality for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transforme-gratuitement-un-fichier-wav-en-format-3gp-avec-movavi/"><u>Transforme Gratuitement Un Fichier WAV en Format 3GP Avec Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-choices-premium-3d-lights-for-gamers/"><u>Ultimate Choices: Premium 3D Lights for Gamers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-cloaked-content-exploration-reading-instagram-stories-without-sharing-your-identity/"><u>[New] In 2024, Cloaked Content Exploration Reading Instagram Stories without Sharing Your Identity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-movies-at-no-cost-on-various-oses/"><u>[New] Unlock Your Movies at No Cost on Various OSes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-updated-dialogue-tools-to-engage-audio-audiences/"><u>[New] Updated Dialogue Tools to Engage Audio Audiences</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-download-custom-mcb-banner-packs/"><u>[Updated] Download Custom MCB Banner Packs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-founding-an-indie-review-platform-for-fashion-and-apparel/"><u>[Updated] The Ultimate Guide to Founding an Indie Review Platform for Fashion and Apparel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>[Updated] Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-list-of-premium-cost-free-webm-streaming-services/"><u>Essential List of Premium, Cost-Free WebM Streaming Services</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-6s-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6s Plus In Different Conditionsin</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-secure-method-storing-tweet-imagesvideos-on-your-mobile/"><u>In 2024, Secure Method Storing Tweet Images/Videos on Your Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-route-to-collecting-pictorial-frame-downloads/"><u>In 2024, The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-origin-issues-now-fixed-regain-access/"><u>Resolved: Origin Issues Now Fixed - Regain Access</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/shakespeares-sonnet-scribbled-into-todays-vernacular/"><u>Shakespeare’s Sonnet Scribbled Into Today's Vernacular</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-vistas-for-digital-viewership-for-2024/"><u>Superior Vistas for Digital Viewership for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-through-360-degree-fisheye-imaging-for-2024/"><u>Unlocking the World Through 360 Degree Fisheye Imaging for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-windows-107-users-guide-to-dawnbreakers-discovering-top-8-audio-workstations/"><u>Updated Windows 10/7 Users Guide to Dawnbreakers Discovering Top 8 Audio Workstations</u></a></li>
 </ul></div>
 

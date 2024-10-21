@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Feature: Google Calendar Now Supports Appointment Blocking - A User-Friendly Guide | ZDNet"
-date: 2024-09-18 13:45:52
-updated: 2024-09-20 12:49:37
+date: 2024-10-17T20:35:56.078Z
+updated: 2024-10-20T20:54:24.451Z
 tags:
   - google
 categories:
@@ -41,9 +41,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **What you'll need:** The only things you'll need are a valid Google account and a web browser (as the feature has yet to roll out to the mobile app). As I mentioned, this can be either a free or paid account.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Google Calendar
 
 The first thing to do is open your default web browser and point it to [calendar.google.com](https://calendar.google.com). If you're not already logged into your Google account, do so now.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Create a new appointment block
 
@@ -53,6 +67,13 @@ Click the Create button and you'll find a new entry.
 
 Jack Wallen/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Name and customize the schedule
 
 In the next popup, give the appointment schedule a name, set the appointment duration, edit the availability (by adding or removing days), and take care of the remaining customizations. Once you're done, click Next.
@@ -60,6 +81,13 @@ In the next popup, give the appointment schedule a name, set the appointment dur
 Make sure to only include the days you want available for booking.
 
 Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Finish the customization
 
@@ -112,11 +140,33 @@ And that's all there is to using the new Google bookable appointment scheduling 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-eco-screen-shots-download-free-guides-for-cinematic-creation/"><u>[New] 2024 Approved Eco-Screen Shots Download Free Guides for Cinematic Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mac-ready-detailed-screenflow-review-with-v4-for-2024/"><u>[New] Mac Ready Detailed ScreenFlow Review with V4 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[New] Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-sharing-subtitle-files-socially/"><u>[New] The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>[New] Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/riple-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>[New] Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-reclaiming-credibility-from-a-youtube-ban/"><u>[Updated] In 2024, Reclaiming Credibility From a YouTube Ban</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-download-snapchat-ringtones-websites/"><u>[Updated] Top 10 Download Snapchat Ringtones Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selections-premium-webcam-platforms/"><u>[Updated] Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-essential-list-of-free-rippers-for-video-conversion/"><u>2024 Approved Essential List of Free Rippers For Video Conversion</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-football-inscriptions-premier-fifa-youtube-insights/"><u>2024 Approved Football Inscriptions Premier FIFA YouTube Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-find-n3-flip-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Find N3 Flip Through Google Earth?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C Phone without Google Account?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>In 2024, Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-art-of-sideways-iphone-photography/"><u>In 2024, Unveiling the Art of Sideways iPhone Photography</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/launchpad-gear-list-enhance-your-beginners-gopro-journey/"><u>Launchpad Gear List - Enhance Your Beginner's GoPro Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-almanac-key-takeaways-from-filmora-editioning-for-2024/"><u>The Editor’s Almanac Key Takeaways From Filmora Editioning for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions for 2024</u></a></li>
+</ul></div>
+

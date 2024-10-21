@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Geminis for Tailored AI Help Desks: An Expert's Guide on ZDNet"
-date: 2024-09-17 14:34:23
-updated: 2024-09-20 12:46:31
+date: 2024-10-19T20:29:44.809Z
+updated: 2024-10-20T18:34:02.521Z
 tags:
   - google
 categories:
@@ -22,6 +22,13 @@ MariaTkach/Getty Images
 Don't know how to code? No worries, you won't need to. You can start with either a premade Gem or create a new Gem from scratch using your own text instructions. For now, Gems are available only to paid Gemini subscribers. Here's how they work.
 
 ## How to create custom AI assistants with Gemini Gems
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Sign up for a paid account
 
@@ -55,6 +62,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Submit your request and view the results
 
 After selecting one of the premade Gems, you can choose one of the sample prompts related to that Gem to get started. Depending on the request, Gemini may ask questions related to your topic so it can better flesh out specific suggestions and information. 
@@ -85,11 +99,25 @@ If once you see the results you want to tweak the instructions, click in the Ins
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Save your Gem
 
 If you're happy with your Gem and the information it provides, click the Save button to save it. A message tells you that your Gem has been created. To further use your Gem, click the link for "Start Chat."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Other Gem options
 
@@ -124,11 +152,25 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/1715761224698-new-how-to-use-markers-in-video-recording-and-editing/"><u>[New] How to Use Markers in Video Recording and Editing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-writers-and-their-payment-frequency/"><u>[New] YouTube' Writers and Their Payment Frequency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-photo-enhancement-with-complete-guide-to-facetune/"><u>[Updated] Mastering Photo Enhancement with Complete Guide to Facetune</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-video-framing-mastery-letterbox-technique-for-social-media-content/"><u>[Updated] Video Framing Mastery Letterbox Technique for Social Media Content</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-iphone-data-recovery-apps-of-2n4-our-top-10-selection-supporting-ios-17plus/"><u>Discover the Leading iPhone Data Recovery Apps of 2N4 - Our Top 10 Selection Supporting iOS 17+</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-deathloop-game-failure-to-launch-scenario/"><u>How to Resolve Deathloop Game Failure to Launch Scenario</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/immediate-access-lifewires-choice-of-must-watch-films-for-streaming-today/"><u>Immediate Access: Lifewire's Choice of Must-Watch Films for Streaming Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-audio-podcasts-made-easy-for-iphones/"><u>In 2024, Streamline Audio Podcasts Made Easy for iPhones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-wonders-mastering-firefox-x-pie-mode/"><u>In 2024, Unveiling the Wonders Mastering Firefox X-Pie Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-update-fixes-for-error-0x800736cc/"><u>Streamlining Windows Update Fixes for Error 0X800736CC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strengthening-your-presence-networking-techniques-for-youtubers-for-2024/"><u>Strengthening Your Presence Networking Techniques for YouTubers for 2024</u></a></li>
+</ul></div>
+

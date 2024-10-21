@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Connecting Your Google Drive to Slack | Tips & Tricks From ZDNet
-date: 2024-09-19 14:40:13
-updated: 2024-09-20 11:37:15
+date: 2024-10-19T20:56:57.652Z
+updated: 2024-10-20T16:50:46.959Z
 tags:
   - google
 categories:
@@ -31,7 +31,21 @@ And, thankfully, the integration of Google Drive into Slack is incredibly simple
 
 Let me show you how it's done. I'll be demonstrating it on the Slack desktop app. However, you can also handle this process through the Slack web interface in the same way.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Integrating Google Drive and Slack
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open Slack
 
@@ -40,6 +54,13 @@ The first thing you must do is open Slack and then navigate to a workspace in wh
 **Figure 1**: The Apps section of the Slack left sidebar is where it all starts.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Add the Google Drive app
 
@@ -58,6 +79,13 @@ Click the Google Drive button and then click App Homepage. This will take you to
 Image: Jack Wallen
 
 Upon clicking to authenticate your Google Drive account, you'll be prompted to select the Google account to be used and to allow the required permissions for the app. As soon as you've authenticated your account, you'll receive an alert from Slack that you've added Google Drive to the workspace.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using Google Drive in Slack
 
@@ -98,11 +126,27 @@ And that's all there is to adding Google Drive integration to Slack. If you depe
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-free-and-easy-top-8-fb-link-exporters-for-23-online/"><u>[New] Free and Easy Top 8 FB Link Exporters for '23 Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-transformation-of-windows-10-landscape/"><u>[New] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-10-stabilized-video-makers/"><u>[New] Ultimate Guide to 10 Stabilized Video Makers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-add-instagram-filter-to-existing-photos-and-videos/"><u>[Updated] 2024 Approved How to Add Instagram Filter to Existing Photos and Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-making-your-photoshop-projects-pop-with-3d-text-design/"><u>[Updated] Making Your Photoshop Projects Pop with 3D Text Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tickle-tycoon-picture-builder/"><u>[Updated] Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/duel-of-the-titans-which-cameras-win-gopro-vs-ghost-s-for-2024/"><u>Duel of the Titans Which Cameras Win? GoPro Vs. Ghost-S for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-as-the-users-intention-is-to-explore-the-best-for-this-purpose-a-list-of-top-5-free-mpeg-video-splitters-are-under-discussion/"><u>New In 2024, As the Users Intention Is to Explore the Best; for This Purpose, a List of Top 5 Free MPEG Video Splitters Are Under Discussion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-audio-journey-mastering-the-art-of-quick-fixes-for-spotify-setbacks-in-android-auto-unveiling-1e-strategies/"><u>Seamless Audio Journey: Mastering the Art of Quick Fixes for Spotify Setbacks in Android Auto (Unveiling 1E Strategies)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is The Turing Test And Will It Ever Be Beaten?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wie-man-ein-backup-vom-computer-auf-das-iphone-wiederherstellt-deine-detaillierte-losung/"><u>Wie Man Ein Backup Vom Computer Auf Das iPhone Wiederherstellt - Deine Detaillierte Lösung</u></a></li>
+</ul></div>
+

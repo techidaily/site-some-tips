@@ -1,7 +1,7 @@
 ---
 title: How to Keep Your iPhone Hidden From Other Users with Ease - Turn Off Journal Setting Now | ZDNet
-date: 2024-10-13T05:16:26.041Z
-updated: 2024-10-14T16:49:50.629Z
+date: 2024-10-19T20:49:53.655Z
+updated: 2024-10-20T18:14:02.225Z
 tags:
   - apple
 categories:
@@ -42,16 +42,10 @@ Although this list might not make your top 5 most used features in macOS, Hot Co
 Let's get these Hot Corners configured, so you can start enjoying a better workflow on your macOS desktop. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Configuring your Hot Corners
@@ -59,10 +53,10 @@ Let's get these Hot Corners configured, so you can start enjoying a better workf
 The location of the Hot Corners configuration isn't exactly intuitive. To configure your Hot Corners, follow these steps. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. Access Mission Control Configuration
@@ -74,10 +68,16 @@ The macOS System Preferences window.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. Open Hot Corners Configuration
@@ -89,10 +89,10 @@ The Hot Corners configuration is found within the Mission Control window.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. Configure Your Hot Corners
@@ -143,17 +143,20 @@ Hot Corners are a great way to help make your macOS desktop workflow a bit more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-acoustiquest-investigating-soundscape/"><u>[New] AcoustiQuest Investigating Soundscape</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-chronicles-unveiled-an-array-of-more-than-a-hundred-inspiring-title-concepts/"><u>[Updated] Snapchat Chronicles Unveiled An Array of More Than a Hundred Inspiring Title Concepts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-adobes-photo-jiggle-decrease-enhancing-or-eliminating/"><u>2024 Approved Adobe's Photo Jiggle Decrease Enhancing or Eliminating?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-screen-spectrum-your-gateway-to-gameplay/"><u>2024 Approved Screen Spectrum Your Gateway to Gameplay</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descarga-imprescindible-movavi-soluciones-de-multimedia-para-su-negocio/"><u>Descarga Imprescindible - Movavi Soluciones De Multimedia Para Su Negocio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mjpeg-movavi/"><u>Free Online Converter: AVI to MJPEG - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuita-conversione-di-file-mod-a-mp3-con-movavi-online/"><u>Gratuita Conversione Di File MOD a MP3 Con Movavi Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-revamping-videos-the-art-of-editing-via-story-remix-and-windows-photos/"><u>In 2024, Revamping Videos The Art of Editing via Story Remix and Windows Photos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unmasking-the-significance-of-snapchat-emojis/"><u>In 2024, Unmasking the Significance of Snapchat Emojis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movaviogvmp3/"><u>Movaviを使用して無料OGV音源から高速MP3変換ツール –オンライン</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformez-votre-fichier-aac-en-format-mp4-facilement-gratuit-avec-movavi/"><u>Transformez Votre Fichier AAC en Format MP4 Facilement - Gratuit Avec Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-dji-mavic-air-2s-unveiled-a-game-changing-drone-experience/"><u>Ultimate Guide: DJI Mavic Air 2S Unveiled - A Game-Changing Drone Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-10-most-admirable-photo-frame-apps/"><u>[New] The 10 Most Admirable Photo Frame Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>[Updated] Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-selection-of-free-streaming-options-reviewed-for-2024/"><u>[Updated] Ultimate Selection of Free Streaming Options Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-still-faces-picsarts-motion-blur-magic/"><u>2024 Approved Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728492893505-win11/"><u>如何利用Win11的系統清理功能升級電腦效能：一次性操作，永遠的效果</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-the-mirage-identifying-pretend-predictions-in-artificial-intelligence/"><u>Deciphering the Mirage: Identifying Pretend Predictions in Artificial Intelligence</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streaming-soundscapes-on-your-iphone/"><u>In 2024, Streaming Soundscapes on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>In 2024, Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-your-pc-with-toms-hardware-expert-guides-and-comparisons/"><u>Mastering Your PC with Tom's Hardware Expert Guides and Comparisons</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-best-background-music-remover-to-help-you-remove-background-music/"><u>New Best Background Music Remover to Help You Remove Background Music</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-to-prevent-phoenix-point-game-crashes/"><u>Resolved: Troubleshooting Steps to Prevent Phoenix Point Game Crashes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/skill-enhancement-on-screen-top-10-android-drawing-app-list-for-2024/"><u>Skill Enhancement on Screen Top 10 Android Drawing App List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/smooth-start-gradual-appearance-for-2024/"><u>Smooth Start Gradual Appearance for 2024</u></a></li>
 </ul></div>
 

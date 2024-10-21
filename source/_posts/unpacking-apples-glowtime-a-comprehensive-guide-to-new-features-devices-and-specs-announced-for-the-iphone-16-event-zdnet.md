@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Apple's 'Glowtime': A Comprehensive Guide to New Features, Devices, and Specs Announced for the iPhone 16 Event | ZDNET"
-date: 2024-10-13T21:10:52.700Z
-updated: 2024-10-15T08:14:05.308Z
+date: 2024-10-15T21:23:18.898Z
+updated: 2024-10-20T22:39:49.169Z
 tags:
   - apple
 categories:
@@ -61,10 +61,16 @@ The camera system has also been upgraded on the Pro line, featuring a new 48MP F
 The iPhone 16 Pro and iPhone 16 Pro Max are available for preorder on September 13 at $999 and $1,099 respectively, starting at 128GB of storage. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Apple Watch Series 10
@@ -88,10 +94,10 @@ Alongside the Watch Series 10, Apple announced a new satin black finish for its 
 Apple also launched an array of new watch bands, including new offerings from Hermes and Nike Sport Loop. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AirPods 4
@@ -119,10 +125,10 @@ Lastly, Apple announced new hearing health features for AirPods Pro 2 coming thi
 These features will be available in the fall for AirPods Pro 2 via the software update when paired with an iPhone running on iOS 18 or iPad running on iPadOS 18\. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Apple Intelligence updates
@@ -140,10 +146,10 @@ The biggest highlight was the launch of Visual Intelligence, Apple's answer to G
 Users who purchase a device from the new iPhone 16 lineup will be able to access Visual Intelligence from the new Camera Control option "later this year," according to Apple, though the company did not clarify an exact launch date. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Everything to know about iOS 18
@@ -192,22 +198,18 @@ ZDNET is at Apple headquarters in Cupertino now, so stay tuned for the latest ne
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-ultimate-combo-guide-zooming-into-facebook-streaming/"><u>[Updated] 2024 Approved The Ultimate Combo Guide Zooming Into Facebook Streaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/17-faneres-diktatwr-istoselides-lhpshs-gratis-me-mobabh-kwdikopoieitai/"><u>17 Φανερές Δικτάτωρ Ιστοσελίδες Λήψης - Gratis Με Μόβαβη Κωδικοποιείται</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mov-to-ogg-movavi/"><u>無料のオンライン MOV to OGG コンバータ - Movavi で使いやすく改良</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-smart-7-hd-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Smart 7 HD Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/como-convertir-un-archivo-gif-al-formato-de-video-m4v-en-internet-sin-coste-movavi/"><u>Cómo Convertir Un Archivo GIF Al Formato De Vídeo M4V en Internet Sin Coste - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-libera-online-da-mov-a-avi-con-movavi-modulo-guida-completo/"><u>Conversione Libera Online Da MOV a AVI Con Movavi: Modulo Guida Completo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertir-archivos-vob-a-mkv-online-gratuito-con-movavi/"><u>Convertir Archivos VOB a MKV Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X6 Pro Phone Without Password?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavimpemp3/"><u>Movaviの無料MPEからMP3へのオンライン変換ツール</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-gratis-conversion-de-archivos-swf-y-wmv-a-formatos-mas-recientes/"><u>Online Gratis Conversión De Archivos SWF Y WMV a Formatos Más Recientes</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-game-seekers-handbook-acquiring-elite-steam-gaming-for-free/"><u>The Game Seeker's Handbook: Acquiring Elite Steam Gaming for Free</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-10-must-watch-teen-films-streaming-on-netflix/"><u>Top 10 Must-Watch Teen Films Streaming on Netflix</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nubia-z50-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nubia Z50 Ultra Location | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasformare-immagini-webp-in-gif-a-bordo-servizio-di-conversione-on-line-gratuito-da-movavi/"><u>Trasformare Immagini Webp in Gif a Bordo: Servizio Di Conversione On-Line Gratuito Da Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-z-flip-5-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://blog-min.techidaily.com/verwandeln-sie-ihre-videos-schnell-fur-instagram-professionelle-instagram-video-konverter-in-mp4-format/"><u>Verwandeln Sie Ihre Videos Schnell Für Instagram – Professionelle Instagram Video Konverter in MP4 Format</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-utilize-your-appletv-for-a-smooth-view-of-fb-videos-online/"><u>[New] 2024 Approved How to Utilize Your AppleTV for a Smooth View of FB Videos Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-how-to-for-ifunnys-meme-app/"><u>[New] The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-online-collection-of-video-downloader-tools/"><u>[Updated] 2024 Approved Elite Online Collection of Video Downloader Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-easy-techniques-for-bending-digital-pictures/"><u>[Updated] In 2024, Easy Techniques for Bending Digital Pictures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-approach-to-crafting-hits-on-9gag/"><u>[Updated] Step-by-Step Approach to Crafting Hits on 9GAG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>[Updated] Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[Updated] The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288241953-winx-dvd-copy-pro/"><u>「特集：WinX DVD Copy Pro安全な価格クリップコード取得ガイド」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>2024 Approved Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-apple-airpods-pro-gen-3-analysis-key-upgrades-unveiled/"><u>Comprehensive Apple AirPods Pro (Gen 3) Analysis - Key Upgrades Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-eye-candy-for-digital-performances/"><u>In 2024, Ultimate Eye Candy for Digital Performances</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-mystery-of-premium-free-photography-access/"><u>In 2024, Unraveling the Mystery of Premium Free Photography Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-finest-affordable-webm-players-on-market-for-2024/"><u>Unveiling the Finest Affordable WebM Players on Market for 2024</u></a></li>
 </ul></div>
 
