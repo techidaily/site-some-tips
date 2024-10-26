@@ -1,7 +1,7 @@
 ---
 title: Ordering Made Simple with Alexa - Direct Panera Delivery Requests Handled by Voice Assistant
-date: 2024-09-19 22:46:34
-updated: 2024-09-20 12:22:30
+date: 2024-10-19T16:34:16.197Z
+updated: 2024-10-26T18:19:03.340Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-10-best-mobile-writing-tools-for-iosandroid-images/"><u>[New] In 2024, 10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-efficiency-in-exporting-photos-from-device-to-share-via-snapchat/"><u>[Updated] Efficiency in Exporting Photos From Device to Share via Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-business-driven-social-networks/"><u>2024 Approved Top 6 Business-Driven Social Networks</u></a></li>
+<li><a href="https://win-special.techidaily.com/6-key-indicators-identifying-bogus-profiles-on-facebook/"><u>6 Key Indicators: Identifying Bogus Profiles on Facebook</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/directory-of-video-capturing-technologies-by-type/"><u>Directory of Video Capturing Technologies by Type</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-what-to-do-when-your-logitech-g230-microphone-stops-responding/"><u>DIY Repair: What to Do When Your Logitech G230 Microphone Stops Responding</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exclusive-analysis-the-samsung-galaxy-a51-5g-smart-choice-solid-performance-at-great-price/"><u>Exclusive Analysis: The Samsung Galaxy A51 5G - Smart Choice, Solid Performance at Great Price</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-canon-editing-kit-freepay-for-luts-included/"><u>In 2024, Ultimate Canon Editing Kit - Free/Pay for LUTs Included</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-efficiency-the-editors-guide-to-speed-control/"><u>In 2024, Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-most-popular-wedding-countdown-clocks-a-top-10-list-androidios-for-2024/"><u>The Most Popular Wedding Countdown Clocks A Top 10 List (Android/iOS) for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/trio-of-titans-chatgpt-microsofts-ai-googles-bard-edition/"><u>Trio of Titans: ChatGPT, Microsoft's AI, Google's Bard Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-mac-friendly-video-to-mp4-codecs-for-2024/"><u>Ultimate List of Mac-Friendly Video to MP4 Codecs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today</u></a></li>
+</ul></div>
+

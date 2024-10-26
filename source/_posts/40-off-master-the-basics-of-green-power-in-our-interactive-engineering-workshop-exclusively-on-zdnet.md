@@ -1,7 +1,7 @@
 ---
 title: "$40 Off: Master the Basics of Green Power in Our Interactive Engineering Workshop, Exclusively on ZDNET!"
-date: 2024-09-18 17:26:37
-updated: 2024-09-20 10:25:42
+date: 2024-10-20T18:23:36.078Z
+updated: 2024-10-26T16:37:47.948Z
 tags:
   - energy
 categories:
@@ -43,11 +43,34 @@ ZDNET saves you time and money by delivering the best products and tech deals to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rafting-timeless-videos-with-retro-filmmaking-skills-for-2024/"><u>[New] Crafting Timeless Videos with Retro Filmmaking Skills for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-reel-into-reality-how-boomers-keep-ig-audiene-hooked-for-2024/"><u>[New] Reel Into Reality How Boomers Keep IG Audiene Hooked for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-creature-companions-best-animal-titles-on-android/"><u>[Updated] In 2024, Creature Companions Best Animal Titles on Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-perfect-your-content-instagram-reel-best-practices/"><u>[Updated] Perfect Your Content Instagram Reel Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>2024 Approved Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-have-chatgpt-jailbreaks-faded-investigating-the-top-eight-factors/"><u>How Have ChatGPT Jailbreaks Faded? Investigating the Top Eight Factors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-7-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 7 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>In 2024, The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/what-is-the-best-frame-rate-for-slow-motion-video-in-2024/"><u>What Is The Best Frame Rate For Slow Motion Video, In 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

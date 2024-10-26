@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: How to Stop Endless Promotional Emails in Gmail, Outlook, and Beyond | ZDNet"
-date: 2024-09-18 21:12:33
-updated: 2024-09-20 11:24:28
+date: 2024-10-20T16:12:32.796Z
+updated: 2024-10-26T18:39:47.476Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,29 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -43,7 +63,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-affordable-easy-to-use-video-capture-tools-for-windows/"><u>[New] Affordable, Easy-to-Use Video Capture Tools for Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chuckle-chronicles-hilarious-meme-crafting-simplified/"><u>[New] Chuckle Chronicles Hilarious Meme Crafting Simplified</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-to-attending-live-showcases-on-tiktok/"><u>[New] Step-by-Step Guide to Attending Live Showcases on TikTok</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 and iPad Securely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-system-integration-windows-plus-kali-linux-setup/"><u>Conquering System Integration: Windows + Kali Linux Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-visuals-with-our-cutting-edge-fork-of-stable-diffusion-perfect-for-creating-large-format-images-effortlessly/"><u>Enhance Your Visuals with Our Cutting-Edge Fork of Stable Diffusion, Perfect for Creating Large Format Images Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expanding-ai-assistance-bringing-chatgpt-features-into-diverse-applications/"><u>Expanding AI Assistance: Bringing ChatGPT Features Into Diverse Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-future-with-taco-bells-ai-powered-drive-thru-system/"><u>Experience the Future with Taco Bell's AI-Powered Drive-Thru System</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-unmatched-travel-planning-with-bings-innovative-ai-concierge/"><u>Experience Unmatched Travel Planning with Bing's Innovative AI Concierge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-creality-k1-max-how-this-3d-printer-is-changing-the-game-for-hobbyists-and-professionals-alike/"><u>Exploring the Creality K1 Max: How This 3D Printer Is Changing the Game for Hobbyists and Professionals Alike</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-innovative-strategy-behind-duckduckgos-latest-ai-powered-search-technology/"><u>Exploring the Innovative Strategy Behind DuckDuckGo's Latest AI-Powered Search Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-and-clarifying-the-most-prevalent-9-misunderstandings-about-ai-chatbots/"><u>Exposing and Clarifying the Most Prevalent 9 Misunderstandings About AI Chatbots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-access-chatgpt-now-offers-customized-gpt-models-to-everyone/"><u>Free Access: ChatGPT Now Offers Customized GPT Models to Everyone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-uninstalling-programs-on-samsungs-smart-television-platform/"><u>Guide to Uninstalling Programs on Samsung's Smart Television Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-effectively-recharge-oculus-quest-vr-controllers-a-comprehensive-tutorial/"><u>How To Effectively Recharge Oculus Quest VR Controllers - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-flip-5-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Flip 5 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-video-submissions-from-imovie-to-vimeo/"><u>In 2024, Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+</ul></div>
+

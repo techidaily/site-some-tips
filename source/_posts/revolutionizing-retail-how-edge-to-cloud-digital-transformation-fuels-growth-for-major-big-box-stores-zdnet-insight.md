@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Retail: How Edge-to-Cloud Digital Transformation Fuels Growth for Major Big Box Stores | ZDNet Insight"
-date: 2024-09-18 15:28:34
-updated: 2024-09-20 11:40:28
+date: 2024-10-25T18:12:39.800Z
+updated: 2024-10-26T16:57:26.668Z
 tags:
   - edge-computing
 categories:
@@ -115,6 +115,13 @@ In this article, we're going to take a slightly different approach. Rather than 
 
 Because many of these initiatives tend to be confidential inside the real-world companies performing them, in this article we're going to be talking about a fictional distributed home and building goods chain retailer: Home-by-Home. That way, we can dive into some of the areas of business operations that a real enterprise might not be comfortable revealing publicly.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Case study: Home-by-Home
 
 At a base level, Home-by-Home stores need to be able to handle normal checkout and customer transactions. While this is an operation common to nearly all retailers, it's also one that's deeply infused with technology and innovation.
@@ -145,11 +152,25 @@ Since 2000, Home-by-Home has been converting larger stores into dual-purpose fac
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## End-to-end integration across all stores and vendors
 
 There is one general operating principle by which Home-by-Home measures all of its IT decisions: everything must integrate, and do so smartly. It's not enough just to have constant streams of data coming from the stores to organization-wide databases. 
 
 That data has to go to the right places at the right time, and trigger the right operations. Data flow also can't just be one way. Data has to move from vendors and suppliers to various corporate departments to stores and back again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -170,6 +191,13 @@ Dynamic provisioning and on-demand infrastructure from edge to cloud is key to i
 
 Seasonal surges are also accommodated, allowing the company to add about 30% additional IT infrastructure resources for the critical home improvement seasons, but then scale back down and reduce spending during the months when consumers are focused on other interests.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Edge-to-cloud platforms
 
 HPE GreenLake is an example of one of the companies that offers edge-to-cloud services that bring the centralized dashboard, on-demand provisioning, and pay-as-you-go benefits of public cloud infrastructure to on-premises computing and edge computing installations. This is what a company like Home-by-Home needs to be able to begin provisioning the services for its new acquisition immediately. There is no order-and-wait period for new configurations. 
@@ -186,11 +214,28 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-a-guide-to-sharing-gifs-in-4-simple-steps/"><u>[New] 2024 Approved Mastering Instagram A Guide to Sharing GIFs in 4 Simple Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pioneering-immersive-tech-firms/"><u>[New] 2024 Approved Pioneering Immersive Tech Firms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] In 2024, Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hosting-youtube-webinars-for-no-charge/"><u>[New] In 2024, Hosting YouTube Webinars for No Charge</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-windows-10-tips-for-maximum-productivity/"><u>[New] Top Windows 10 Tips For Maximum Productivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>[New] Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-from-basic-recording-to-masterpiece-your-webcam-guide/"><u>2024 Approved From Basic Recording to Masterpiece Your WebCam Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-convenient-access-a-step-by-step-guide-to-turn-on-and-utilize-the-quick-find-feature-on-your-device/"><u>Discover Convenient Access: A Step-by-Step Guide to Turn On & Utilize the Quick Find Feature on Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>In 2024, Unlocking Full Potential In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://driver-error.techidaily.com/navigating-the-evolution-of-usb-technology-the-era-of-usb-composite-devices-explained/"><u>Navigating the Evolution of USB Technology: The Era of USB Composite Devices Explained</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-free-windows-11-media-player-enjoy-unlimited-entertainment/"><u>Top Rated Free Windows 11 Media Player: Enjoy Unlimited Entertainment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-other-powerful-video-players-beyond-vlc-for-2024/"><u>Uncovering Other Powerful Video Players Beyond VLC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-av1-technology-for-2024/"><u>Unlocking the Potential of AV1 Technology for 2024</u></a></li>
+<li><a href="https://tools.techidaily.com/zonetrigger/products/"><u>Zonetrigger's Products</u></a></li>
+</ul></div>
+

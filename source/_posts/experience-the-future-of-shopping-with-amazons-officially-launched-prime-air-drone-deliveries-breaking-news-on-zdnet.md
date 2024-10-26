@@ -1,7 +1,7 @@
 ---
 title: Experience the Future of Shopping with Amazon's Officially-Launched Prime Air Drone Deliveries | Breaking News on ZDNET
-date: 2024-09-17 23:33:12
-updated: 2024-09-20 11:40:46
+date: 2024-10-21T19:08:36.267Z
+updated: 2024-10-26T18:20:28.524Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +65,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-understanding-youtubes-premier-package/"><u>[New] 2024 Approved Understanding YouTube's Premier Package</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-beginner-to-star-top-25-vlogging-ideas/"><u>[New] From Beginner to Star Top 25 Vlogging Ideas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-efficiently-redistributing-your-creative-works/"><u>[Updated] Efficiently Redistributing Your Creative Works</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-effective-b-roll-application/"><u>[Updated] Strategies for Effective B-Roll Application</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-no-spend-high-repeat-leading-apps-for-your-pinterest-vids/"><u>2024 Approved No Spend, High Repeat! Leading Apps for Your Pinterest Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>2024 Approved Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-companion-to-master-color-correction-top-11/"><u>2024 Approved The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>2024 Approved Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-se-2020-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone SE (2020) Without Backup? | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-11-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 11 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-100-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor 100 Pro</u></a></li>
+<li><a href="https://win-latest.techidaily.com/page-unavailable-http-error-404-content-cannot-be-retrieved/"><u>Page Unavailable (HTTP Error )404 – Content Cannot Be Retrieved</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-tutorial-for-saving-youtube-content-onto-a-2017-ipad-pro-using-ios-11/"><u>Step-by-Step Tutorial for Saving YouTube Content Onto a 2017 iPad Pro Using iOS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-windows-10-audio-handbook-for-2024/"><u>The Essential Windows 10 Audio Handbook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-transformative-power-of-augmented-vision-for-2024/"><u>The Transformative Power of Augmented Vision for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-video-cards-in-computing-an-insightful-guide/"><u>Understanding the Role of Video Cards in Computing: An Insightful Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-cross-platform-video-playback-software-for-2024/"><u>Unleashing the Power of Cross-Platform Video Playback Software for 2024</u></a></li>
+</ul></div>
+

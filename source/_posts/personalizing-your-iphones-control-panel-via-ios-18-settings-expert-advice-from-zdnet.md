@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your iPhone's Control Panel via iOS 18 Settings – Expert Advice From ZDNet
-date: 2024-10-15T16:23:34.752Z
-updated: 2024-10-20T23:45:01.216Z
+date: 2024-10-25T17:50:59.452Z
+updated: 2024-10-26T19:21:03.530Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -44,10 +44,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,10 +59,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -70,6 +70,13 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -90,13 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,20 +134,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-best-in-class-android-storage-solutions-cloud-edition-2024/"><u>[New] Best-in-Class Android Storage Solutions (Cloud Edition, 2024)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-digital-imaging-apps-for-sharpening-fuzzy-pictures/"><u>[New] Top 10 Digital Imaging Apps for Sharpening Fuzzy Pictures</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-excellence-in-viewing-windows-phones-premium-apps/"><u>[Updated] In 2024, Excellence in Viewing Windows Phone's Premium Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-radiance-hdr-examined-value-or-not/"><u>[Updated] Radiance HDR Examined Value or Not?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-magnification-in-roblox-worlds/"><u>[Updated] The Art of Magnification in Roblox Worlds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-software-for-mkv-files/"><u>[Updated] Top 5 Mac Software for MKV Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-browsing-with-ms-edges-pip/"><u>[Updated] Transform Your Browsing with MS Edge's PIP</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-complete-process-to-tweak-your-instagram-voice/"><u>2024 Approved The Complete Process to Tweak Your Instagram Voice</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/achieving-harmony-selecting-ideal-aspect-ratios/"><u>Achieving Harmony Selecting Ideal Aspect Ratios</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-using-obs-and-streamlabs-together-mac/"><u>In 2024, The Ultimate Guide to Using OBS and Streamlabs Together (Mac)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-advanced-zooming-on-snapchat/"><u>In 2024, Unlock Creative Potential Advanced Zooming on Snapchat</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio/"><u>New In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-asus-rog-phone-7-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Asus ROG Phone 7.</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/understanding-the-dynamics-of-instagram-unfollows-for-2024/"><u>Understanding the Dynamics of Instagram Unfollows for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-potential-metaverse-marketing-secrets/"><u>Unlocking Potential Metaverse Marketing Secrets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-download-and-generate-free-official-passport-pictures-now/"><u>[New] 2024 Approved Download & Generate Free, Official Passport Pictures Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-virtual-reality-with-top-bike-simulators/"><u>[New] Mastering Virtual Reality with Top Bike Simulators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ld-hollywood-techniques-for-modern-filmmakers/"><u>[New] Old Hollywood Techniques for Modern Filmmakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>[New] Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-savings-for-cloud-storage-costs-analysis/"><u>2024 Approved Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-asmrs-health-perks/"><u>2024 Approved Understanding ASMR's Health Perks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-lava-yuva-3-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Lava Yuva 3 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram-for-2024/"><u>Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-end-of-platform-locked-entertainment/"><u>The End of Platform-Locked Entertainment</u></a></li>
 </ul></div>
 

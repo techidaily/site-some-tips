@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Explores Essential AI Features for Apple's Competitive Edge Against Industry Giants: An In-Depth Analysis of 10 Key Points"
-date: 2024-10-13T20:25:31.476Z
-updated: 2024-10-20T17:27:17.263Z
+date: 2024-10-22T17:58:25.876Z
+updated: 2024-10-26T17:52:30.102Z
 tags:
   - apple
 categories:
@@ -28,6 +28,13 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 
 ## The best iPadOS 18 features announced at WWDC
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence on the iPad
 
 Apple announced a ton of new artificial intelligence (AI) features coming to the iPhone with iOS 18 at WWDC today. But the iPad wasn't left behind -- new iPadOS AI features will make the iPad more user-friendly, enhancing productivity and creativity.
@@ -48,13 +55,6 @@ iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. A built-in Calculator for iPad
 
 During WWDC, Apple announced that the Calculator app finally will be included as a native app with iPadOS 18\. It will also get a redesign, as the Mac Calculator will now resemble the iPhone app, with round buttons instead of square ones, and will feature new capabilities with Apple Pencil integrations.
@@ -69,13 +69,6 @@ Until now, iPad users looking for a calculator had to download third-party apps 
 
 A built-in Calculator app eliminates the need to download a third-party app and allows Apple to leverage the iPad's larger screen to offer complex calculations and advanced visualizations. This feature enables everyday users, like students, to use the iPad more effectively for math and science queries. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. An intuitive Notes app
 
 The Notes app for iPad also has been redesigned, with Smart Script in Notes for users with an Apple Pencil. Smart Script lets users handwrite with the Apple Pencil and spell-checks on the go as the user writes. Smart Script also works to streamline handwriting as it straightens lines and makes notes more legible in your handwriting.
@@ -83,6 +76,13 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 **Also: [iPad Pro (2024) review: Apple's most advanced tablet is no MacBook, and I'm okay with that](https://www.zdnet.com/article/ipad-pro-2024-review/)**
 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. A Passwords app
 
@@ -95,10 +95,10 @@ Apple is making the new Passwords app available for iOS and iPadOS, giving users
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
@@ -124,10 +124,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -171,20 +171,22 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-boosting-channel-earnings-the-step-by-step-famebit-guide-to-affiliates/"><u>[New] 2024 Approved Boosting Channel Earnings The Step-by-Step FameBit Guide to Affiliates</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-reviving-old-memories-posting-them-via-your-camera-roll/"><u>[New] 2024 Approved Reviving Old Memories Posting Them via Your Camera Roll</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-techniques-for-fast-forwarding-in-spotify/"><u>[New] The Essential Techniques for Fast-Forwarding in Spotify</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-fast-track-setting-up-and-enjoying-ifunny-memes/"><u>[New] The Fast Track Setting Up & Enjoying iFunny Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-tier-innovations-in-virtual-reality-setup/"><u>[New] Top-Tier Innovations in Virtual Reality Setup</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unleash-your-creativity-anywhere-anyplace-these-6-best-free-online-platforms-for-youtube-short-video-downloading/"><u>[Updated] In 2024, Unleash Your Creativity Anywhere, Anyplace These 6 Best Free, Online Platforms for YouTube Short Video Downloading</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-impact-and-innovations-in-vegaspro-a-2019-review/"><u>2024 Approved The Impact and Innovations in VegasPro A 2019 Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-visuals-quick-and-costless-video-downloads-on-pinterest/"><u>2024 Approved Unlock Your Visuals Quick & Costless Video Downloads on Pinterest</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-t2-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo T2 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-camon-20-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Camon 20 Phone When You Forget the Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-viewing-vlc-versus-mx-comparison/"><u>In 2024, Streamlining Your Viewing VLC Versus MX Comparison</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>In 2024, The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
-<li><a href="https://facebook.techidaily.com/new-era-for-honesty-facebook-tightens-misinformation-penalties/"><u>New Era for Honesty? Facebook Tightens Misinformation Penalties</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-high-performance-components-at-toms-hardware-store/"><u>The Definitive Guide to High-Performance Components at Tom's Hardware Store</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-comparing-igs-new-features-reels-vs-stories/"><u>[New] Comparing IG's New Features Reels Vs Stories</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-from-silence-to-symphony-how-to-set-up-unique-ringtones-and-sounds-for-android/"><u>[New] From Silence to Symphony How to Set Up Unique Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cutting-edge-video-recording-for-windows-users/"><u>[New] In 2024, Cutting-Edge Video Recording for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[New] Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-tools-for-youtube-to-webm-conversion/"><u>[New] Top 10 Tools for YouTube to WebM Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-youtube-potential-implementing-chapter-sections/"><u>[New] Unlocking YouTube Potential Implementing Chapter Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-horizon-capture-versus-focused-dimensionality/"><u>[Updated] Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-transformation-with-3d-lut-in-photoshop/"><u>2024 Approved The Art of Image Transformation with 3D LUT in Photoshop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-4-places-to-download-skype-tones/"><u>2024 Approved Top-Ranked 4 Places to Download Skype Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-your-iphone-photo-mosaic-mastery/"><u>2024 Approved Unlock the Power of Your iPhone Photo Mosaic Mastery</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-davi-vers-mp4-par-telechargement-en-ligne-decouvrez-les-techniques-simples-avec-movavi/"><u>Conversion Gratuite D'AVI Vers MP4 Par Téléchargement en Ligne: Découvrez Les Techniques Simples Avec Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-amd-radeon-r5-driver-software-for-windows-operating-systems-111087/"><u>Latest AMD Radeon R5 Driver Software for Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/periscope-explained-costs-accessibility-and-registration-guide/"><u>Periscope Explained Costs, Accessibility & Registration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades-for-2024/"><u>The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-movie-storage-space-needs-over-24-hours-for-2024/"><u>Understanding Movie Storage Space Needs Over 24 Hours for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-full-experience-overcoming-launch-issues-in-mass-effect-legendary-edition/"><u>Unlock the Full Experience: Overcoming Launch Issues in Mass Effect Legendary Edition</u></a></li>
 </ul></div>
 

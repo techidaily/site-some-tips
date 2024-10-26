@@ -1,7 +1,7 @@
 ---
 title: Personalizing Your iPhone Control Center in iOS 18? Master These Steps with Insights
-date: 2024-10-13T18:10:53.015Z
-updated: 2024-10-20T20:36:08.735Z
+date: 2024-10-24T17:58:03.929Z
+updated: 2024-10-26T16:22:38.031Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
@@ -44,10 +37,10 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -58,24 +51,31 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,24 +134,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-science-behind-effective-slug-lines/"><u>[New] The Science Behind Effective Slug Lines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-photography-potential-with-lightroom-hdrs/"><u>[New] Unleashing Photography Potential with Lightroom HDRs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-vectors-unveiled-a-novices-path-through-types-and-apps/"><u>[New] Vectors Unveiled A Novice’s Path Through Types and Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>[Updated] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-optimal-free-tools-5-gif-to-video-conversion-websites-without-downloads/"><u>2024 Approved Optimal Free Tools 5 GIF-to-Video Conversion Websites Without Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-fast-loading-facebook-videos/"><u>2024 Approved The Art of Fast-Loading Facebook Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/6ieq5yuv6luk44ks5pon5l2c44gz44kl44gf44kb44gu44op44kk44k744oz44k56kab5lu277ya44od44oq44k344o86kej6kqs/"><u>自動車を操作するためのライセンス要件：ポリシー解説</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/digital-universe-awaits-essential-key-collectors-612lifetime-windows-11-sale/"><u>Digital Universe Awaits: Essential Key Collector's $6.12/Lifetime Windows 11 Sale</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-ways-to-resolve-dictation-failures-on-ios-devices/"><u>Effective Ways to Resolve Dictation Failures on iOS Devices</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-not-found-efficient-windows-repairs/"><u>Eliminate 'Not Found': Efficient Windows Repairs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f14-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a24-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A24 FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-lava-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Lava Phone? Unlock It Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-trial-vlle-outlook-on-apps-for-2024/"><u>Tech Trial VLLE Outlook on Apps for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-new-frontier-of-video-conversations-a-2023-guide-to-non-omegle-chat-websites-for-2024/"><u>The New Frontier of Video Conversations A 2023 Guide to Non-Omegle Chat Websites for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-ideas-for-making-your-podcast-stand-out-visually-for-2024/"><u>Top 10 Ideas for Making Your Podcast Stand Out Visually for 2024</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-vivo-y100i-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Vivo Y100i</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-live-setting-picks-for-2024/"><u>Ultimate Live Setting Picks for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-pova-6-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Pova 6 Pro 5G Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-balanced-hue-enhancer-suite/"><u>[New] 2024 Approved Balanced Hue Enhancer Suite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-list-where-to-pull-off-ringtone-files/"><u>[New] In 2024, Ultimate List Where To Pull Off Ringtone Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-visualize-success-innovative-video-ideas-countdown/"><u>[New] In 2024, Visualize Success Innovative Video Ideas Countdown</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-engaging-your-audience-the-art-of-interacting-with-subscribers/"><u>[Updated] 2024 Approved Engaging Your Audience The Art of Interacting with Subscribers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-6-tools-for-video-language-shift/"><u>2024 Approved Superior 6 Tools for Video Language Shift</u></a></li>
+<li><a href="https://discover-best.techidaily.com/5yuv55s744gu44kk44oz44k44o844os44o844k56kej6zmk44og44kv44ol44od44kvic0g6auy5zob6loq44gq44ot44ol44o844kj44oz44kw5l2t6ait44gu44gf44kb44gr/"><u>動画のインターレース解除テクニック - 高品質なビューィング体験のために</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-troubleshooting-guide-repairing-logitech-g430-mic-malfunctions-successfully/"><u>DIY Troubleshooting Guide - Repairing Logitech G430 Mic Malfunctions Successfully</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-crafting-a-pathway-to-instagram-affordability-through-partnerships/"><u>In 2024, Crafting a Pathway to Instagram Affordability Through Partnerships</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reclaiming-gone-reddit-content-a-time-saving-guide/"><u>In 2024, Reclaiming Gone-Reddit Content A Time-Saving Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-syncopate-screen-a-beginners-guide-to-mobile-video-making/"><u>In 2024, Syncopate Screen A Beginner's Guide to Mobile Video Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-zoom-features-on-your-chromebook-for-2024/"><u>Streamlining Zoom Features on Your Chromebook for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/toms-tech-hub-the-ultimate-guide/"><u>Tom's Tech Hub: The Ultimate Guide</u></a></li>
 </ul></div>
 

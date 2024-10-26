@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Choosing Between Apple Watch Ultra & Series 8 - Tips From ZDNET"
-date: 2024-10-18T21:06:18.211Z
-updated: 2024-10-20T17:29:02.580Z
+date: 2024-10-21T16:25:25.859Z
+updated: 2024-10-26T17:49:17.195Z
 tags:
   - apple
 categories:
@@ -44,16 +44,16 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
 
@@ -65,13 +65,6 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. You ride, hike or dive… a lot
 
 Speaking of outdoor activities, the Ultra is specifically made for extreme fitness enthusiasts who need longer battery life, a better, brighter display and improved GPS tracking. 
@@ -79,6 +72,13 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -96,13 +96,6 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. You want a traditional Apple Watch design
 
 If the Apple Watch Ultra's design isn't all that appealing to you, the Apple Watch Series 8 may be the better choice. It uses the same design as the last few Apple Watch models and comes in 41mm and 45mm sizes. On the right side of the aluminum (or steel) housing is the digital crown and side button that's used for navigating the watch. 
@@ -114,10 +107,16 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You're not ready to pay $799 for a watch
@@ -141,6 +140,13 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -178,20 +184,20 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-transforming-trips-into-tales-the-roadmap-to-becoming-a-travel-blogger/"><u>[New] In 2024, Transforming Trips Into Tales The Roadmap to Becoming a Travel Blogger</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tiktok-content-mastery-learn-to-alter-digit-scenes-effectively/"><u>[New] TikTok Content Mastery Learn to Alter Digit Scenes Effectively</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-best-80s-movie-magic-for-contemporary-edits/"><u>[Updated] 2024 Approved Best 80S Movie Magic for Contemporary Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-cinematographers-playbook-top-5-creative-strategies/"><u>[Updated] The Cinematographer's Playbook Top 5 Creative Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-streaming-stature-symbolized-by-play-and-follower-awards/"><u>2024 Approved Streaming Stature Symbolized by Play & Follower Awards</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-superior-hd-videos-on-android-devices/"><u>2024 Approved Unleash Superior HD Videos on Android Devices</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>In 2024, The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-screen-pip-tutorials-for-macos-enthusiasts/"><u>In 2024, Transform Your Screen PIP Tutorials for macOS Enthusiasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y77t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y77t IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maisto-rc-rock-crawler-review/"><u>Maisto RC Rock Crawler Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/precision-and-persuasion-crafting-content-that-sticks-on-reddit-for-2024/"><u>Precision and Persuasion Crafting Content That Sticks on Reddit for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/scouring-cyberspace-advanced-tactics-for-finding-emerging-communities/"><u>Scouring Cyberspace: Advanced Tactics for Finding Emerging Communities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essentials-of-firefoxs-pip-functionality-for-2024/"><u>The Essentials of Firefox's PIP Functionality for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials-for-2024/"><u>Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-modern-gamers-guide-understanding-the-latest-on-bandicam/"><u>[New] 2024 Approved The Modern Gamer's Guide Understanding the Latest on Bandicam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-10-escape-room-games/"><u>[New] 2024 Approved Top 10 Escape Room Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-deeper-dive-into-the-heart-of-mixed-reality/"><u>[New] A Deeper Dive Into the Heart of Mixed Reality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-savvy-soccer-snatching-how-to-record-and-cut-cheap-for-2024/"><u>[Updated] Savvy Soccer Snatching How to Record and Cut Cheap for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambia-tu-foto-de-archivo-jpeg-sin-costo-a-un-encantador-gif-usando-nuestro-superior-y-facil-convertidor-web/"><u>Cambia Tu Foto De Archivo JPEG Sin Costo a Un Encantador GIF Usando Nuestro Superior Y Fácil Convertidor Web</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-tu-musica-en-linea-de-wma-a-mkv-sin-costo-alguno-usando-el-potente-software-movavi/"><u>Cómo Convertir Tu Música en Línea De WMA a MKV Sin Costo Alguno Usando El Potente Software Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-gratuitement-des-fichiers-raw-en-videos-avi-sur-le-web-avec-movavi/"><u>Convertissez Gratuitement Des Fichiers RAW en Vidéos AVI Sur Le Web Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-online-konverter-voc-naar-wmv-mit-movavi-geavanceerd-video-conversieprogramma/"><u>Gratis Online Konverter VOC Naar WMV Mit Movavi - Geavanceerd Video Conversieprogramma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-convertisseur-en-ligne-movavi-des-fichiers-mxf-en-animations-gif-rapides-et-faciles/"><u>Gratuit Convertisseur en Ligne Movavi : Des Fichiers MXF en Animations GIF Rapides Et Faciles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-converseren-van-m4a-naar-wmv-met-movavi/"><u>Gratuit Online - Converseren Van M4A Naar WMV Met Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-optimize-and-reduce-discords-cpu-consumption-insights/"><u>How To Optimize & Reduce Discord's CPU Consumption: Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-laughter-is-free-access-to-top-meme-creations/"><u>In 2024, Laughter Is Free Access to Top Meme Creations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reglissez-vos-fichiers-mp4-gratuitement-en-wmv-via-loption-en-ligne-de-movavi/"><u>Réglissez Vos Fichiers MP4 Gratuitement en WMV via L'option en Ligne De Movavi</u></a></li>
+<li><a href="https://win-special.techidaily.com/tecnica-di-backup-inviolabile-mantenere-i-tuoi-dati-chiave-al-sicuro-con-il-backup-di-outlook/"><u>Tecnica Di Backup Inviolabile: Mantenere I Tuoi Dati Chiave Al Sicuro Con Il Backup Di Outlook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-top-10-universal-m4v-video-player-apps-compatible-with-all-devices/"><u>The Ultimate List of Top 10 Universal M4V Video Player Apps Compatible with All Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Supercharge Your macOS Productivity with Customized Hot Corners Explained – Pro Tips From ZDNET
-date: 2024-10-18T19:22:13.149Z
-updated: 2024-10-20T16:32:30.163Z
+date: 2024-10-24T18:20:09.640Z
+updated: 2024-10-26T18:09:31.282Z
 tags:
   - apple
 categories:
@@ -28,15 +28,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 
 ## Create a custom Focus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -46,13 +53,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 **Figure 1:** The Notifications & Focus entry in System Preferences.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
 
@@ -79,10 +79,10 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -100,10 +100,16 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -148,24 +154,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-navigating-noise-sensational-success-in-telegram-marketing/"><u>[New] Navigating Noise Sensational Success in Telegram Marketing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-pathways-to-acquiring-facebooks-distinguished-verification-for-2024/"><u>[Updated] Pathways to Acquiring Facebook's Distinguished Verification for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-srts-most-effective-upgrades-for-macwindows/"><u>[Updated] SRT's Most Effective Upgrades for Mac/Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-blurring-iphone-images-four-steps-covered/"><u>[Updated] The Art of Blurring iPhone Images - Four Steps Covered</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-elite-list-10-best-cases-for-your-gopro/"><u>[Updated] The Elite List 10 Best Cases for Your GoPro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-steadicams-for-drone-shooting-precision/"><u>2024 Approved Superior Steadicams for Drone Shooting Precision</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-pop-8-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Pop 8 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generate-hits-adobe-made-memes/"><u>In 2024, Generate Hits Adobe-Made Memes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-smart-8-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Smart 8 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-itunes-radio-downloading-blueprint/"><u>In 2024, The Complete iTunes Radio Downloading Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-iphone-capabilities-crafting-and-transforming-slow-videos/"><u>In 2024, Unlocking iPhone Capabilities Crafting & Transforming Slow Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/professional-video-transformation-supercharge-your-videos-with-winx-deluxes-gpu-speedy-resizing-and-converting-techniques/"><u>Professional Video Transformation: Supercharge Your Videos with WinX Deluxe's GPU Speedy Resizing & Converting Techniques</u></a></li>
-<li><a href="https://win-lab.techidaily.com/reemplaza-o-recupera-archivos-dll-ausentes-en-windows-10-y-11-descubre-13-soluciones-efectivas/"><u>Reemplaza O Recupera Archivos DLL Ausentes en Windows 10 Y 11 - Descubre 13 Soluciones Efectivas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android-for-2024/"><u>The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-strategies-for-optimizing-audio-visual-conference-recording/"><u>Top Strategies for Optimizing Audio-Visual Conference Recording</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-in-2024/"><u>Ultimate Guide to GoPro Max or Hero 11, In 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-best-windows-10-auditory-integration-software-compared-for-2024/"><u>Updated Best Windows 10 Auditory Integration Software Compared for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>[New] Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-roadmap-for-successful-online-brand-collaborations-on-youtube/"><u>[New] The Roadmap for Successful Online Brand Collaborations on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-strategy-to-seamlessly-upload-srt-subtitles-online/"><u>[New] The Ultimate Strategy to Seamlessly Upload SRT Subtitles Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-obs-studio-vs-fraps-which-is-a-better-screen-capture-software/"><u>[Updated] In 2024, OBS Studio vs Fraps – Which Is A Better Screen Capture Software?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-8-screenshot-and-video-editing-tools-for-phones/"><u>[Updated] The Best 8 Screenshot & Video Editing Tools for Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared/"><u>[Updated] Unlocking KineMaster Potential How To Engage and Top Alternatives Compared</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-smart-users-guide-to-enhancing-technology/"><u>2024 Approved The Smart User's Guide to Enhancing Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-architects-guide-to-memo-mastery/"><u>2024 Approved The Sound Architect's Guide to Memo Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-first-video-second-comparing-podcast-vs-youtube/"><u>Audio First, Video Second? Comparing Podcast vs YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boosting-pc-speed-the-ultimate-walkthrough-for-intel-drivers-updates/"><u>Boosting PC Speed: The Ultimate Walkthrough for Intel Drivers Updates</u></a></li>
+<li><a href="https://app-tips.techidaily.com/discover-apples-latest-innovation-with-the-redesigned-ios-1erlockunlock-interface/"><u>Discover Apple's Latest Innovation with the Redesigned iOS 1erLock/Unlock Interface</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-to-motion-the-musical-layer/"><u>In 2024, Photo to Motion The Musical Layer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-8-visual-augmentations-for-live-cams/"><u>In 2024, Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers/"><u>In 2024, Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-paperwork-with-chatgpts-4-essential-methods/"><u>Navigating Paperwork with ChatGPT's 4 Essential Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/saturation-savvy-3-effective-methods-for-photocolor-evolution-for-2024/"><u>Saturation Savvy 3 Effective Methods for PhotoColor Evolution for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/search-for-sentences-that-describe-proximity-to-amenities-eg-shops-and-cafes/"><u>Search for Sentences that Describe Proximity to Amenities (E.g., Shops and Cafes).</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/the-complete-guide-for-incorporating-funny-and-engaging-gifs-into-your-discord-chats/"><u>The Complete Guide for Incorporating Funny & Engaging GIFs Into Your Discord Chats</u></a></li>
 </ul></div>
 

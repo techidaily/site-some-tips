@@ -1,7 +1,7 @@
 ---
 title: "Inside an Apple Store: Unveiling The World's Thinnest iPads & Debating the Impact of 0.08 Inches | ZDNET"
-date: 2024-10-14T22:16:10.982Z
-updated: 2024-10-20T16:35:24.011Z
+date: 2024-10-21T16:08:17.616Z
+updated: 2024-10-26T18:46:07.456Z
 tags:
   - apple
 categories:
@@ -65,10 +65,10 @@ Please remember, though, that Apple had [inserted thinness in my mind](https://w
 So as I picked them up, I was primed to believe in the thin new world.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thinly-veiled confusion?
@@ -96,10 +96,16 @@ I couldn't resist, however, checking how much heavier it was than the 11-inch 10
 It's a fulsome 0.23 pounds heavier, yet curiously it's 0.08 pounds lighter than the new 13-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I was sold
@@ -152,24 +158,17 @@ They're great at laying it on thick, you know.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>[New] In 2024, A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-illuminated-imagery-standing-out-in-the-visual-field/"><u>[New] In 2024, Illuminated Imagery Standing Out in the Visual Field</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-launching-a-youtube-channel-key-pieces-of-equipment/"><u>[New] Launching a YouTube Channel Key Pieces of Equipment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transformative-visuals-the-pixiz-process-for-photo-video-fusion/"><u>[New] Transformative Visuals The Pixiz Process for Photo-Video Fusion</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-rotating-realities-your-guide-to-instagram-vision/"><u>[Updated] 2024 Approved Rotating Realities Your Guide to Instagram Vision</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-crafting-a-personalized-ringtone-from-tiktok-sounds/"><u>[Updated] Crafting a Personalized Ringtone From TikTok Sounds</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-10-best-farming-games/"><u>[Updated] In 2024, Top 10 Best Farming Games</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-skills-sharpen-your-windows-images/"><u>[Updated] Swift Skills Sharpen Your Windows Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thankful-tailings-templates-for-every-dollar-plan/"><u>[Updated] Thankful Tailings Templates for Every Dollar Plan</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thinkers-arena-premier-gk-quiz-vids/"><u>[Updated] Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-most-shared-stock-photos-and-their-tales/"><u>[Updated] Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-seamless-integration-turning-audio-into-written-format-in-ms-word/"><u>2024 Approved Seamless Integration Turning Audio Into Written Format in MS Word</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-audio-extraction-with-pazera-tools-analysis/"><u>2024 Approved The Future of Audio Extraction with Pazera Tools Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-affordable-asmr-experience-awaits/"><u>2024 Approved The Ultimate Affordable ASMR Experience Awaits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>2024 Approved The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-through-tiktoks-video-palettes/"><u>In 2024, Navigating Through TikTok's Video Palettes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-launch-issues-top-tips-and-fixes-for-players/"><u>League of Legends Launch Issues: Top Tips and Fixes for Players</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-instructions-for-free-ts-to-mkv-file-transformation-using-your-pc-or-mac/"><u>Step-by-Step Instructions for Free TS to MKV File Transformation Using Your PC or Mac</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-user-discontent-insights-on-windows-11/"><u>Understanding User Discontent: Insights on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tips-to-reduce-compression-artifacts-in-obs/"><u>[New] Tips to Reduce Compression Artifacts in OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-humor-pay-nothing-easymeme-tools-guide/"><u>[New] Unlock Humor, Pay Nothing EasyMeme Tools Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-11-fitness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>[Updated] 11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-scheduling-zoom-conferences-for-android-users/"><u>2024 Approved Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>2024 Approved Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://games-able.techidaily.com/a-list-of-blizzard-masterpieces-needing-a-second-chance-from-ms/"><u>A List of Blizzard Masterpieces Needing a Second Chance From MS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-your-gaming-visuals-fixing-pixelation-problems-in-call-of-duty-warzone/"><u>Enhance Your Gaming Visuals: Fixing Pixelation Problems in Call of Duty: Warzone</u></a></li>
+<li><a href="https://games-able.techidaily.com/epic-game-retro-experience-for-modern-devices/"><u>Epic Game Retro Experience for Modern Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-11-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oneplus-nord-n30-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On OnePlus Nord N30 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-s23-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy S23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-aerial-precision-mavic-pro-analysis-for-2024/"><u>Unveiling Aerial Precision - Mavic Pro Analysis for 2024</u></a></li>
 </ul></div>
 

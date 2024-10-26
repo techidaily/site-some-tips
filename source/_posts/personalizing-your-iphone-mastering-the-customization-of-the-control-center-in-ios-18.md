@@ -1,7 +1,7 @@
 ---
 title: "Personalizing Your iPhone: Mastering the Customization of the Control Center in iOS 18"
-date: 2024-10-17T23:48:05.753Z
-updated: 2024-10-20T19:08:26.973Z
+date: 2024-10-22T17:40:00.193Z
+updated: 2024-10-26T18:07:42.937Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Move the available controls
 
 You can move any of the current controls on the first screen. To start, tap the plus icon in the upper-left corner to segue to edit mode. Notice that the controls all have a border around them with the familiar minus sign at the top. Drag and drop each control to a new spot until you've reorganized them all. Swipe up on the screen when you're done.
@@ -51,6 +44,13 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -58,10 +58,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -71,16 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -92,10 +86,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -140,24 +140,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-prime-video-players-our-handpicked-collection/"><u>[New] Prime Video Players Our Handpicked Collection</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-essential-steps-to-compress-youtube-video-spaces/"><u>[New] The Essential Steps to Compress YouTube Video Spaces</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtube-streams-optimal-webm-converters-ranked/"><u>[Updated] 2024 Approved YouTube Streams Optimal WebM Converters Ranked</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-a6400s-visual-void-finding-video-fix-for-2024/"><u>[Updated] A6400's Visual Void - Finding Video Fix for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-essential-guide-to-the-top-10-video-calls-for-your-smartphone/"><u>[Updated] Essential Guide to the Top 10 Video Calls for Your Smartphone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supreme-session-naming-service/"><u>[Updated] Supreme Session Naming Service</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-intelligence-in-moto-z2-reviewed/"><u>[Updated] The Essence of Intelligence in Moto Z2 Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-toolwiz-photosapp-overview-a-complete-analysis-and-future-prospects/"><u>[Updated] Toolwiz PhotosApp Overview - A Complete Analysis and Future Prospects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-software-guide-for-video-game-shows/"><u>[Updated] Ultimate Software Guide for Video Game Shows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-speedy-windows-image-browser/"><u>2024 Approved Superior Speedy Windows Image Browser</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-tutorial-sending-subtitles-via-srt-to-twitter-facebook-and-more/"><u>2024 Approved The Ultimate Tutorial Sending Subtitles via SRT to Twitter, Facebook & More</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-diverse-windows-movie-maker-versions/"><u>2024 Approved Unveiling Diverse Windows Movie Maker Versions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/access-newest-sound-engine-asus-device-driver-without-payment-download-today/"><u>Access Newest Sound Engine ASUS Device Driver without Payment - Download Today</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/assessing-the-value-of-budget-ssls-certs/"><u>Assessing the Value of Budget SSLS Certs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-11-proipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 11 Pro/iPad/iPod</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-final-cut-pro-tutorial-adding-picture-in-picture-effects-to-your-videos/"><u>In 2024, Final Cut Pro Tutorial Adding Picture-in-Picture Effects to Your Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-for-transforming-srt-into-diverse-formats/"><u>In 2024, The Expert's Playbook for Transforming SRT Into Diverse Formats</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-drone-footage-through-editing/"><u>In 2024, Unlocking the Potential of Drone Footage Through Editing</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-7-plusipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 7 Plus/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/descubre-las-18-opciones-superiores-para-cortar-videos-y-mantener-la-excelencia-en-tu-pc/"><u>¡Descubre Las 18 Opciones Superiores Para Cortar Videos Y Mantener La Excelencia en Tu PC!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-breakthrough-in-drone-tech-yuneec-q500-4k/"><u>[New] 2024 Approved Breakthrough in Drone Tech Yuneec Q500 4K</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pixelpunmatic-device/"><u>[Updated] 2024 Approved PixelPunmatic Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-online-interactions-master-microsoft-teams-snap-for-2024/"><u>[Updated] Elevate Your Online Interactions Master Microsoft Teams Snap for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aacmovavi/"><u>「オンラインでアクセシブルなAAC音声ファイルを無料で簡単に変換：Movaviの方法」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-times-illusion-crafting-engaging-slow-motion-videos-on-ig/"><u>2024 Approved Time's Illusion Crafting Engaging Slow-Motion Videos on IG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227008786-pgmtiff-movavi/"><u>自由版移動網站：直接將PGM格式改為TIFF - Movavi提供解決方案</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/capture-your-moments-with-manycam-the-ultimate-live-video-editing-and-camcorder-tool/"><u>Capture Your Moments with ManyCam: The Ultimate Live Video Editing and Camcorder Tool</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-c65-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco C65 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-achteraf-het-beste-de-top-10-mp4-to-mp3-converters-voor-gemakkelijk-uitspraak/"><u>Het Achteraf Het Beste: De Top 10 MP4-to-MP3 Converters Voor Gemakkelijk Uitspraak</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-tecno-camon-20-premier-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Tecno Camon 20 Premier 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221674084-movavimp4/"><u>MovaviのウェブテレビMP4フリー変換サービス - 快適な配信</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-photo-viewer-apps-para-usar-en-windows-10/"><u>Top Rated Photo Viewer Apps Para Usar en Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-nef-a-foto-jpeg-directamente-en-la-web-servicio-gratis-de-conversion-por-movavi/"><u>Transformar Archivo NEF a Foto JPEG Directamente en La Web - Servicio Gratis De Conversión Por Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-czech-ease-through-effective-online-learning/"><u>Unlock Czech Ease Through Effective Online Learning</u></a></li>
 </ul></div>
 

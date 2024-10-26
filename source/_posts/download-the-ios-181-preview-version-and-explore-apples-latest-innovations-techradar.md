@@ -1,7 +1,7 @@
 ---
 title: Download the IOS 18.1 Preview Version & Explore Apple's Latest Innovations | TechRadar
-date: 2024-10-19T18:49:02.985Z
-updated: 2024-10-20T19:52:52.552Z
+date: 2024-10-20T18:04:24.783Z
+updated: 2024-10-26T19:19:56.078Z
 tags:
   - apple
 categories:
@@ -35,10 +35,16 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,16 +77,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -121,16 +121,18 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-camtech-dive-looking-for-improved-alternatives/"><u>[New] CamTech Dive Looking for Improved Alternatives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-eight-outstanding-models-your-guide-to-5k-monitors/"><u>[New] Eight Outstanding Models - Your Guide to 5K Monitors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-chuckles-and-pixels-suite/"><u>[New] In 2024, Ultimate Chuckles and Pixels Suite</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>2024 Approved Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-which-iphone-video-editor-stands-tall-cameo-vs-filmorago/"><u>2024 Approved Which iPhone Video Editor Stands Tall? Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cutting-through-steps-posting-tiktok-videos-on-twitter-for-2024/"><u>Cutting Through Steps Posting TikTok Videos on Twitter for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-and-easy-macx-mp4-video-converter-convert-videos-to-mp4-format-on-macos-without-cost/"><u>Free & Easy MacX MP4 Video Converter: Convert Videos to MP4 Format on macOS Without Cost</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-soundtracks-into-professional-podcasts/"><u>In 2024, Transforming Soundtracks Into Professional Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-financial-lifeline-of-podcasting-for-2024/"><u>The Financial Lifeline of Podcasting for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android-for-2024/"><u>Top-Rated Mobile Video Editors for iOS & Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-hastening-vimeo-media-transmission/"><u>[New] Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-audio-transformation-tools-unleash-voices/"><u>[New] Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[New] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-essential-tiktok-to-twitter-sharing/"><u>2024 Approved The Essential TikTok to Twitter Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-marketing-strategy/"><u>2024 Approved Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-angle-adjustment-a-step-by-step-editing-guide/"><u>2024 Approved Youtube Angle Adjustment A Step-by-Step Editing Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y78t-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y78t? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/audio-wizards-unveiled-top-5-techniques-for-win10-for-2024/"><u>Audio Wizards Unveiled Top 5 Techniques for Win10 for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-nokia-31-smartphone-assessment-ideal-entry-level-device/"><u>Comprehensive Nokia 3.1 Smartphone Assessment - Ideal Entry-Level Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improve-your-health-with-these-9-chatgpt-tips-and-techniques/"><u>Improve Your Health with These 9 ChatGPT Tips and Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-pixel-performance-from-a-start/"><u>In 2024, Understanding Pixel Performance From a Start</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 </ul></div>
 

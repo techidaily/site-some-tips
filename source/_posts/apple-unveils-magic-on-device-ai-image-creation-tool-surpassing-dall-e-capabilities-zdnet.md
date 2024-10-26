@@ -1,7 +1,7 @@
 ---
 title: Apple Unveils Magic On-Device AI Image Creation Tool, Surpassing DALL-E Capabilities | ZDNet
-date: 2024-10-16T21:20:38.966Z
-updated: 2024-10-20T21:22:07.743Z
+date: 2024-10-21T18:03:22.826Z
+updated: 2024-10-26T18:52:11.407Z
 tags:
   - apple
 categories:
@@ -63,28 +63,27 @@ The iPhone 16 and iPhone 16 Plus are available for pre-order from $799 and $899,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-flashy-flights-prime-pc-and-mobile-game-hits/"><u>[New] Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ntegrative-design-embedding-youtube-in-slides/"><u>[New] Integrative Design Embedding YouTube in Slides</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-content-reach-livestreaming-past-footage-on-facebook/"><u>[New] Revolutionize Your Content Reach Livestreaming Past Footage on Facebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-seamlesscapture-w10s-simple-recording-tool/"><u>[New] SeamlessCapture W10's Simple Recording Tool</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-seeking-the-finest-cinematography-talents/"><u>[Updated] Seeking the Finest Cinematography Talents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-revolutionary-storage-solutions-select-from-the-best-20-free-options-1tbplus/"><u>2024 Approved Revolutionary Storage Solutions - Select From the Best 20 Free Options (1TB+)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-subject-emphasis-background-cleanse/"><u>2024 Approved Subject Emphasis Background Cleanse</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>2024 Approved Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>2024 Approved Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-15-pro-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 15 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-13-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 13 Pro In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>In 2024, Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-asus-rog-phone-8-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Asus ROG Phone 8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-finest-10-online-spots-to-download-pristine-photos-for-2024/"><u>The Finest 10 Online Spots to Download Pristine Photos for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-showdown-is-googleer-gemini-a-superior-alternative-to-chatgpt/"><u>The Showdown: Is Google'er Gemini a Superior Alternative to ChatGPT?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-zero-price-screen-capture-software-for-windows-10-users-for-2024/"><u>Top 5 Zero Price Screen Capture Software for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-masters-choice-10-preeminent-online-tools-for-vimeo-files/"><u>[New] 2024 Approved Master's Choice 10 Preeminent Online Tools for Vimeo Files</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ewbies-nook-making-eye-catching-mac-videos-for-youtube/"><u>[New] Newbies' Nook Making Eye-Catching Mac Videos for YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-titles-best-ai-powered-podcast-name-makers/"><u>[New] Transforming Titles Best AI-Powered Podcast Name Makers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtube-thumbnail-design-on-macos-unveiled/"><u>[Updated] 2024 Approved YouTube Thumbnail Design on macOS Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-insights-into-audio-memos/"><u>[Updated] The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/content-creation-on-facebook-aspect-ratio-choice-for-2024/"><u>Content Creation on Facebook Aspect Ratio Choice for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/fast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>Fast Track A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>In 2024, Synergistic Campaigns Brands & YouTube Hand in Hand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-10-best-blurred-background-tools/"><u>In 2024, The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>In 2024, Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-in-ar-applying-lut-techniques/"><u>In 2024, Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/index-of-videography-gadgets-by-type-for-2024/"><u>Index of Videography Gadgets by Type for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ize-video-views-with-these-top-5-link-shrinkers/"><u>Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tackling-thick-footprint-troubles-a-how-to-on-3d-print-perfection/"><u>Tackling Thick Footprint Troubles: A How-To on 3D Print Perfection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-googles-groundbreaking-palm-2-ai-model/"><u>Understanding Google's Groundbreaking PaLM 2 AI Model</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

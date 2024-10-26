@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: The Impact of Extended NFC Support in iPhones for External App Developers and You | InnovateTech Hub"
-date: 2024-10-19T17:16:49.413Z
-updated: 2024-10-20T16:28:39.808Z
+date: 2024-10-19T18:42:16.491Z
+updated: 2024-10-26T16:06:45.792Z
 tags:
   - apple
 categories:
@@ -54,6 +54,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Security and privacy implications
 
   
@@ -72,10 +85,10 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -103,10 +116,16 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -119,10 +138,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -134,13 +153,6 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 > "At Apple, we innovate every day to make technology people love—designing products that work seamlessly together, protect people's privacy and security, and create a magical experience for our users. This lawsuit threatens who we are and the principles that set Apple products apart in fiercely competitive markets. If successful, it would hinder our ability to create the kind of technology people expect from Apple—where hardware, software, and services intersect. It would also set a dangerous precedent, empowering government to take a heavy hand in designing people's technology. We believe this lawsuit is wrong on the facts and the law, and we will vigorously defend against it."
 
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Previous coverage
 
@@ -178,24 +190,18 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-superior-text-tools-and-after-effects/"><u>[New] Superior Text Tools & After Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-intersection-of-design-and-efficiency-in-professional-environments/"><u>[New] The Intersection of Design & Efficiency in Professional Environments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-top-pick-top-10-android-and-ios-wedding-countdown-clock-apps-of-the-year/"><u>[New] The Top Pick Top 10 Android and iOS Wedding Countdown Clock Apps of the Year</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-tracks-three-free-safe-techniques-explored/"><u>[New] Unlocking YouTube Tracks Three Free, Safe Techniques Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-full-screen-tips-for-premiere-pro-users/"><u>[Updated] Ultimate Full Screen Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-delve-deep-into-powerdirector-comprehensive-review-and-tutorial/"><u>2024 Approved Delve Deep Into PowerDirector - Comprehensive Review & Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-macs-visionary-picks-the-10-elite-monitors-with-4k/"><u>2024 Approved Mac's Visionary Picks The #10 Elite Monitors with 4K</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-for-professional-livestreaming-using-zoom-on-youtube/"><u>2024 Approved The Complete Guide for Professional Livestreaming Using Zoom on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oneplus-ace-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for OnePlus Ace 2 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/curing-the-lag-in-grand-theft-auto-v-effective-solutions/"><u>Curing the Lag in Grand Theft Auto V – Effective Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-timelapse-magic-utilizing-your-canon-gear/"><u>In 2024, Timelapse Magic Utilizing Your Canon Gear</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-securing-photographic-backdrops/"><u>In 2024, Ultimate Guide to Securing Photographic Backdrops</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-slomo-videography-tool-assessment/"><u>In 2024, Ultimate SloMo Videography Tool Assessment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>In 2024, Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-asus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Asus Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/smart-solutions-apply-apple-watch-open-mac/"><u>Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-2023-shoppers-guide-to-innovative-360-cameras-and-systems-for-2024/"><u>The 2023 Shopper’s Guide to Innovative 360 Cameras & Systems for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-streaming-spectrum-digital-vs-physical-frontiers/"><u>The Streaming Spectrum Digital vs Physical Frontiers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-magic-6-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor Magic 6 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nline-tutorial-adding-youtube-playlists-to-your-site-for-2024/"><u>[New] Online Tutorial Adding YouTube Playlists to Your Site for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-10-online-background-variant-software/"><u>[New] Unveiling the Best 10 Online Background Variant Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimizing-conversion-processes-from-xml-to-high-quality-srts-for-2024/"><u>[Updated] Optimizing Conversion Processes From XML to High-Quality SRTs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-secret-story-gazers-manual-for-discreet-instagram-stories-on-desktopmobile/"><u>[Updated] Secret Story Gazer's Manual for Discreet Instagram Stories on Desktop/Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-high-quality-sound-recording-via-audacity/"><u>[Updated] The Art of High-Quality Sound Recording via Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>2024 Approved Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/forknippat-gratis-movavi-dvd-konvertera-vidare-i-mp4-format-for-mac-anvandare/"><u>Förknippat Gratis Movavi DVD Konvertera Vidare I Mp4 Format För Mac-Användare</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-from-tweet-vids-to-mp3-audio-files-for-2024/"><u>The Ultimate Guide From Tweet Vids to MP3 Audio Files for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-android-photo-fixes-for-2024/"><u>Ultimate Guide to Android Photo Fixes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-periscope-features-pricing-and-how-to-join-for-2024/"><u>Understanding Periscope Features, Pricing & How To Join for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/win-8-to-win-11-a-comprehensive-upgrade-guide/"><u>Win 8 to Win 11: A Comprehensive Upgrade Guide</u></a></li>
 </ul></div>
 

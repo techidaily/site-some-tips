@@ -1,7 +1,7 @@
 ---
 title: "How to Enable Cross-Platform Compatibility: Using Parallels Desktop 18 for Windows 11 on Intel & Apple's M1 Chip | ZDNet"
-date: 2024-10-15T19:34:22.090Z
-updated: 2024-10-20T23:41:13.578Z
+date: 2024-10-20T17:46:43.225Z
+updated: 2024-10-26T18:47:21.999Z
 tags:
   - apple
 categories:
@@ -75,16 +75,10 @@ According to Apple, these iPhone models will get iOS 18 when it becomes widely a
 Notably, the once-popular iPhone X model is not on the list. Older devices like the iPhone 8 series also didn't make the cut this year. As for what's to come, Apple's new [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-iphone-should-you-buy-today/) lineup will launch with iOS 18 out of the box.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will iOS 18 be released?
@@ -96,10 +90,10 @@ Apple typically releases its new operating systems for public beta access a few 
 Apple will likely release iOS 18 out of beta this fall, following the [September 9 "Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/). The Apple Intelligence features will be available in stages for qualifying devices, as they're expected to roll out gradually over the coming year and into the next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is a software beta?
@@ -109,6 +103,13 @@ A software beta is a version of a program or operating system initially released
 **Also: [Apple Intelligence arrives in iOS 18.1 developer beta. Here's what's new for iPhone](https://www.zdnet.com/article/apple-intelligence-arrives-in-ios-18-1-developer-beta-heres-whats-new-for-iphone/)**
 
 The beta phase follows alpha testing, where software is developed and tested internally within the company. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iOS 18 beta vs full release: What's the difference?
 
@@ -133,10 +134,10 @@ Apple, Best Buy, and Amazon are just some retailers that accept iPhone trade-ins
 If you're looking to maintain or obtain a service provider, you can check your iPhone's trade-in value at one of these retailers or at an authorized dealer for a telecommunications company. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which iPhone models will get Apple Intelligence?
@@ -146,13 +147,6 @@ While many iPhone models support iOS 18, very few will support Apple Intelligenc
 **Also: [Apple iOS 18 public beta 3 adds satisfying 'Thanos snap' to hide distractions in Safari](https://www.zdnet.com/article/apple-ios-18-public-beta-3-adds-satisfying-thanos-snap-to-hide-distractions-in-safari/)**
 
 Apple Intelligence will be part of iOS 18, iPadOS18, and macOS Sequoia, but will be released over time.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which iPhone models will no longer be supported?
 
@@ -188,18 +182,14 @@ iOS 18 will not be supported in the iPhone X, iPhone 8, or earlier models. The n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-simplicity-in-pc-audio-capture-choose-x-recorder/"><u>[New] 2024 Approved Simplicity in Pc Audio Capture Choose X-Recorder</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-reels-virality-unlocked-leveraging-tiktok-hacks/"><u>[New] Instagram Reels Virality Unlocked Leveraging TikTok Hacks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>[Updated] 2024 Approved Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-ten-clandestine-corrections-for-artists/"><u>2024 Approved Top Ten Clandestine Corrections for Artists</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-13-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 13 Pro? Find the Best Solution Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-mpeg-4-to-multifarious-formats-a-guide-using-vlc-for-2024/"><u>From MPEG-4 to Multifarious Formats A Guide Using VLC for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-edit-and-enhance-a-novices-journey-with-lunapic/"><u>In 2024, Capture, Edit & Enhance A Novice's Journey with LunaPic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-video-editor-comparing-inshots-features/"><u>In 2024, Top Video Editor Comparing InShot's Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>In 2024, Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-humor-with-excellent-zero-cost-memes/"><u>In 2024, Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-playback-operation-for-srt-across-operating-systems-for-2024/"><u>[New] Playback Operation for SRT Across Operating Systems for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eel-in-riches-a-guide-to-earning-on-youtube-shorts/"><u>[New] Reel In Riches A Guide to Earning on YouTube Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-guide-to-blur-techniques-for-dynamic-artwork/"><u>[New] The Essential Guide to Blur Techniques for Dynamic Artwork</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-altering-voices-for-a-competitive-edge-in-free-fire/"><u>[New] The Ultimate Guide Altering Voices for a Competitive Edge in Free Fire</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-final-cut-pro-x-insider-market-vertical-videos-for-instagram-enthusiasts/"><u>[Updated] In 2024, Final Cut Pro X Insider' Market Vertical Videos for Instagram Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>In 2024, Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superbackground-cleanup-suite-for-2024/"><u>SuperBackground Cleanup Suite for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-advantages-why-switching-to-claude-3-outshines-chatgpt/"><u>Top 4 Advantages: Why Switching to Claude 3 Outshines ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tch-tactics-streamlining-screen-sessions-for-all/"><u>YT Watch Tactics Streamlining Screen Sessions for All</u></a></li>
 </ul></div>
 

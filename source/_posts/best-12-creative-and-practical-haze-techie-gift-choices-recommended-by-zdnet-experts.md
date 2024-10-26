@@ -1,7 +1,7 @@
 ---
 title: Best 12 Creative and Practical Haze-Techie Gift Choices Recommended by ZDNet Experts
-date: 2024-09-18 11:34:54
-updated: 2024-09-20 11:20:58
+date: 2024-10-23T18:06:07.257Z
+updated: 2024-10-26T16:36:34.303Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-exceptional-hd-video-documentation-gear/"><u>[Updated] 2024 Approved Exceptional HD Video Documentation Gear</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-standard-youtube-licenses-versus-cc/"><u>[Updated] 2024 Approved Standard Youtube Licenses Versus CC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-empowering-film-suggestions/"><u>[Updated] The Ultimate List Empowering Film Suggestions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-30-webcams-elevating-audio-quality/"><u>[Updated] Top 30 Webcams Elevating Audio Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[Updated] Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>2024 Approved Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/compute-disk-space-efficiently-via-powershell-commands/"><u>Compute Disk Space Efficiently via PowerShell Commands</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-tips-software-solutions-for-retrieving-lost-iphone-note-content/"><u>Expert Tips: Software Solutions for Retrieving Lost iPhone Note Content</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-ce-34878-0-issue-quickly-for-your-ps4-console/"><u>How to Fix the CE-34878-0 Issue Quickly for Your PS4 Console</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-overcome-graphics-driver-error-messages-with-simple-repairs/"><u>How to Overcome Graphics Driver Error Messages with Simple Repairs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>In 2024, The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g13-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G13 FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-vr-innovations-for-fun-and-games/"><u>In 2024, Unleashing Potential VR Innovations for Fun & Games</u></a></li>
+<li><a href="https://win-top.techidaily.com/recovering-lost-video-files-from-a-microsd-card-a-step-by-step-guide/"><u>Recovering Lost Video Files From a MicroSD Card – A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-apple-listed-podcast-success-for-2024/"><u>Strategies for Apple-Listed Podcast Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-eight-destinations-for-3d-typography-for-2024/"><u>Top Eight Destinations for 3D Typography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-quantum-hdr-your-comprehensive-guide-for-2024/"><u>Unlocking Quantum HDR Your Comprehensive Guide for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Selection of Samsung Prime Day Savings for October - Insider Info From ZDNet
-date: 2024-09-19 11:50:20
-updated: 2024-09-20 11:50:40
+date: 2024-10-23T16:56:41.095Z
+updated: 2024-10-26T17:57:16.780Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,7 +56,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +91,19 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +144,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-power-of-3d-luts-in-creative-pixels/"><u>[New] Harnessing the Power of 3D LUTs in Creative Pixels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-streaming-made-easy-with-these-11-advanced-recording-tips/"><u>[New] In 2024, Streaming Made Easy with These 11 Advanced Recording Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-prioritizing-quality-the-best-skype-recorders-listed/"><u>[New] Prioritizing Quality The Best Skype Recorders Listed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-editing-with-vita-a-complete-review/"><u>[New] The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-under-the-lens-hero-4-meets-hero-5/"><u>[New] Under the Lens Hero 4 Meets Hero 5</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-cinemas-next-frontier-virtual-reality/"><u>[New] Unlocking Cinema's Next Frontier Virtual Reality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-all-inclusive-giroptic-panoramic-study/"><u>[Updated] 2024 Approved All-Inclusive Giroptic Panoramic Study</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inside-the-world-of-digital-screen-recording/"><u>[Updated] In 2024, Inside the World of Digital Screen Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-right-platform-for-content-creation-podcast-or-video/"><u>[Updated] The Right Platform for Content Creation? Podcast or Video?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-guide-to-effective-screen-recording-with-tunefab/"><u>[Updated] The Ultimate Guide to Effective Screen Recording with Tunefab</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-popular-meme-ideas-for-every-occasion/"><u>[Updated] Top Popular Meme Ideas for Every Occasion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-brain-challenge-top-trivia-networks-for-24/"><u>[Updated] Ultimate Brain Challenge - Top Trivia Networks for '24</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-finding-premium-free-music-without-breaking-copyrights/"><u>2024 Approved Finding Premium, Free Music Without Breaking Copyrights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-digital-tools-for-enhancing-web-streams/"><u>In 2024, Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-directx-troubles-in-fifa-20/"><u>Resolved: Overcoming DirectX Troubles in FIFA 20</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-experts-manual-to-windows-10-prowess-for-2024/"><u>The Expert's Manual to WINDOWS 10 Prowess for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-photos-with-easy-online-cropping-steps-for-2024/"><u>Transforming Photos with Easy Online Cropping Steps for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/transition-your-online-footprint-update-your-date-of-birth-fb/"><u>Transition Your Online Footprint: Update Your Date of Birth (FB)</u></a></li>
+</ul></div>
+

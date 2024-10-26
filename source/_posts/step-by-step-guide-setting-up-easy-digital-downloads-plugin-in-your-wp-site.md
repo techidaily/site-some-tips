@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Easy Digital Downloads Plugin in Your WP Site"
-date: 2024-09-19 11:12:49
-updated: 2024-09-20 10:52:49
+date: 2024-10-22T19:09:25.963Z
+updated: 2024-10-26T16:48:42.627Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -65,15 +72,36 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-harnessing-googles-capability-for-exact-speech-recognition/"><u>[New] Harnessing Google’s Capability for Exact Speech Recognition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ai-photo-cutting-master/"><u>[New] Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-insiders-manual-to-upload-content-to-igtv-for-2024/"><u>[New] The Insider's Manual to Upload Content to IGTV for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-top-10-gimbals-elevating-dsrl-cinematic-results-for-2024/"><u>[New] Top 10 Gimbals Elevating DSRL Cinematic Results for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapshot-savvy-exploring-the-depths-of-snapchat-filters-for-2024/"><u>[Updated] Snapshot Savvy Exploring the Depths of Snapchat Filters for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-mastering-funimate/"><u>[Updated] The Art of Mastering Funimate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-clarity-the-finest-10-online-editing-utilities-ranked/"><u>[Updated] Unveil Clarity The Finest 10 Online Editing Utilities Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essence-of-color-in-photography-top-11-tutorials/"><u>2024 Approved The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-brain-teasers-selecting-prime-trivia-channels/"><u>In 2024, The Best Brain Teasers - Selecting Prime Trivia Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-chapter-of-cinema-vr-revolution/"><u>In 2024, The Next Chapter of Cinema VR Revolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-fast-fixes-for-lost-reddit-content/"><u>In 2024, Unveiling Fast Fixes for Lost Reddit Content</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-generate-videos-from-text-with-ai/"><u>New 2024 Approved How to Generate Videos From Text with AI</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-5-best-online-tone-generators-free-and-simple/"><u>Updated 2024 Approved 5 Best Online Tone Generators Free & Simple</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unlock-the-power-of-slow-motion-a-beginners-guide-to-windows-live-movie-maker/"><u>Updated Unlock the Power of Slow Motion A Beginners Guide to Windows Live Movie Maker</u></a></li>
+</ul></div>
+

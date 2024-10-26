@@ -1,7 +1,7 @@
 ---
 title: "Connecting with Loved Ones on the Go: Using Your Apple Watch for Instant Messaging"
-date: 2024-10-14T17:40:59.392Z
-updated: 2024-10-20T18:35:58.657Z
+date: 2024-10-19T18:15:31.574Z
+updated: 2024-10-26T19:15:12.578Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update your devices
 
 To update your phone to iOS 18, head to Settings, select General, and then choose the option to upgrade to iOS 18\. Tap the Update Now button and allow the latest version to be downloaded and installed.
@@ -41,10 +48,16 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -54,10 +67,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -76,25 +89,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -125,6 +124,13 @@ Screenshot by Lance Whitney/ZDNET
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,20 +168,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-tips-for-staying-positive-in-the-face-of-critical-youtube-comments/"><u>[New] Tips for Staying Positive in the Face of Critical YouTube Comments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-travel-video-setup-must-have-items-checklist/"><u>[New] Travel Video Setup Must-Have Items Checklist</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amplify-creativity-in-photography-innovative-pixlr-hacks/"><u>[Updated] Amplify Creativity in Photography Innovative Pixlr Hacks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-9-affordable-online-editors-for-youtube-for-2024/"><u>[Updated] Discover 9 Affordable Online Editors for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-seeking-awareness-complete-view-of-sharable-media-in-messages-for-2024/"><u>[Updated] Seeking Awareness Complete View of Sharable Media in Messages for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-evaluation-of-samsungs-image-editing-software/"><u>[Updated] The Ultimate Evaluation of Samsung's Image Editing Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-freeweb-cam-studios-capabilities/"><u>2024 Approved Exploring FreeWeb Cam Studio's Capabilities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pushing-boundaries-top-2023s-professional-360-cameras/"><u>2024 Approved Pushing Boundaries Top 2023'S Professional 360 Cameras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-liberating-tracks-with-pazeras-tools/"><u>2024 Approved The Ultimate Guide to Liberating Tracks with Pazera's Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-13-favored-free-pdf-editors-july-update/"><u>Discover the Ultimate Selection: 13 Favored Free PDF Editors (July Update)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c12-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-technique-for-spotify-song-lifting-a-comprehensive-tutorial/"><u>The Ultimate Technique for Spotify Song Lifting A Comprehensive Tutorial</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-free-stopwatches-without-a-price-tag-for-2024/"><u>Ultimate Free Stopwatches Without a Price Tag for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-potential-our-picks-for-the-most-inspiring-films-for-2024/"><u>Unleash Potential Our Picks for the Most Inspiring Films for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-framefixer-analysis-all-inclusive-report/"><u>[New] FrameFixer Analysis – All-Inclusive Report</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-tiktok-experience-with-new-user-numbers/"><u>[New] Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mirrored-worldviews-on-insta-discover-100-reflective-captions-for-2024/"><u>[Updated] Mirrored Worldviews on Insta - Discover 100 Reflective Captions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-packaging-growth-tactics/"><u>2024 Approved Packaging Growth Tactics</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-image-processes-with-polarrs-compreeved-tools/"><u>In 2024, Streamlining Image Processes with Polarr's Compreeved Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>In 2024, Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-magic-5-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor Magic 5 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-picks-best-storytelling-channels-fans-for-2024/"><u>The Prime Picks Best Storytelling Channels Fans for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-missing-headphone-detection-in-windows-11-audio-devices/"><u>Troubleshooting: Missing Headphone Detection in Windows 11 Audio Devices</u></a></li>
 </ul></div>
 

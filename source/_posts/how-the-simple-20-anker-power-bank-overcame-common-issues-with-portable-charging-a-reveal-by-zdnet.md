@@ -1,7 +1,7 @@
 ---
 title: "How the Simple $20 Anker Power Bank Overcame Common Issues with Portable Charging: A Reveal by ZDNet"
-date: 2024-10-13T23:15:09.105Z
-updated: 2024-10-20T23:13:13.719Z
+date: 2024-10-19T16:37:24.806Z
+updated: 2024-10-26T17:10:10.552Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -70,13 +70,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Impressive charging power for its size
 
 The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPhone 15 Pro](https://www.zdnet.com/article/iphone-15-pro-hands-on-review/) to 68%, according to Anker. In my experience, it charged my Samsung Z Flip 4 from zero to 30% in half an hour. 
@@ -86,10 +79,10 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -105,15 +98,22 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cfd47174d-643b-44de-ae12-af3152e04989%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -149,22 +149,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-synching-worlds-instagram-to-tiktok-essentials/"><u>[New] Synching Worlds Instagram to TikTok Essentials</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-next-great-story-selecting-free-android-editing-tools/"><u>[Updated] 2024 Approved Your Next Great Story Selecting Free Android Editing Tools</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-anonymizing-videos-tips-for-keeping-personal-data-hidden-for-2024/"><u>[Updated] Anonymizing Videos Tips for Keeping Personal Data Hidden for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-simplified-steps-for-snapchat-lens-design/"><u>[Updated] In 2024, Simplified Steps for Snapchat Lens Design</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-comprehensive-audfreexpress-assessment-users/"><u>[Updated] The Comprehensive AudFreeXpress Assessment Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-lg-bp350-review-audiovisual-performance-analysis/"><u>[Updated] The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-navigating-the-world-of-elite-hdr-camera-choices/"><u>2024 Approved Navigating the World of Elite HDR Camera Choices</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-tab-s7plus-the-ultimate-android-tablet-experience/"><u>Comprehensive Analysis of the Samsung Galaxy Tab S7+ - The Ultimate Android Tablet Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Blade A73 5G Phone without Google Account?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-anthropics-new-claude-3-ai-prompt-store/"><u>How to Use Anthropic's New Claude 3 AI Prompt Store</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-craft-compelling-content-essential-youtube-short-video-edits/"><u>In 2024, Craft Compelling Content Essential Youtube Short Video Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-quirks-of-playback-solving-frozen-photobooth-videos/"><u>In 2024, The Quirks of Playback Solving Frozen Photobooth Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-metaverse-and-multimetase-distinctions-expert-explanation/"><u>In 2024, Unraveling Metaverse and Multimetase Distinctions (Expert Explanation)</u></a></li>
-<li><a href="https://win-online.techidaily.com/movavis-wav-3g2/"><u>Movavi's 우정의 단계 : 인터넷을 통해 순수한 WAV 파일을 3G2로 전환하는 방법</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-addressing-and-solving-nier-automata-pc-glitches/"><u>Resolved: Addressing and Solving Nier: Automata PC Glitches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11-for-2024/"><u>The Essential Guide to Apple's iPhone Camera Evolution in iOS 11 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-free-video-playback-vlc-or-mpc-in-2024/"><u>The Ultimate Guide to Free Video Playback VLC or MPC, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-virtual-reality-cinema-experiences/"><u>[New] 2024 Approved Essential Virtual Reality Cinema Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>[New] 2024 Approved The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-incredible-gopro-timelapse-cinematography-mastery/"><u>[New] Guide to Incredible GoPro Timelapse Cinematography Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sunlit-shades-to-subdued-spectrum-in-photoshop/"><u>[Updated] Sunlit Shades to Subdued Spectrum in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tapping-into-the-funny-side-with-photos/"><u>2024 Approved Tapping Into the Funny Side with Photos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-compreenas-for-snapchat-success-stories/"><u>2024 Approved The Compreenas for SnapChat Success Stories</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/5yip55so5zyw5yop5aot57iu5oqa6kgt5rib5bcr56gs56kf5l255so6yep/"><u>利用圖像壓縮技術減少硬碟使用量</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-six-secrets-to-holding-your-viewers-attention/"><u>In 2024, The Six Secrets to Holding Your Viewers' Attention</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-brand-with-smart-spotify-marketing/"><u>In 2024, Transforming Your Brand with Smart Spotify Marketing</u></a></li>
 </ul></div>
 

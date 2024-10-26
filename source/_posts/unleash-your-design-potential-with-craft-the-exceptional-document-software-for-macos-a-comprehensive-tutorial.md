@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Design Potential with Craft, the Exceptional Document Software for macOS - A Comprehensive Tutorial
-date: 2024-10-18T22:50:52.676Z
-updated: 2024-10-20T21:00:15.708Z
+date: 2024-10-24T17:40:27.111Z
+updated: 2024-10-26T18:51:07.536Z
 tags:
   - apple
 categories:
@@ -36,10 +36,10 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -63,10 +63,10 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -80,10 +80,10 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -134,20 +134,21 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>[New] 2024 Approved CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>[New] The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-budget-friendly-cloud-service-providers/"><u>[New] Top 10 Budget-Friendly Cloud Service Providers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-quick-and-cool-xbox-snapshots-a-gamers-bible/"><u>[Updated] 2024 Approved Quick & Cool Xbox Snapshots A Gamers' Bible</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-shared-sights-behind-the-memeayer/"><u>[Updated] Shared Sights Behind the Meme'ayer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>[Updated] Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-from-clarity-to-excellence-benqs-bl2711u-professional-4k-monitor-assessment/"><u>2024 Approved From Clarity to Excellence BenQ’s BL2711U Professional 4K Monitor Assessment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-10-online-subtitle-editors/"><u>2024 Approved The Best 10 Online Subtitle Editors</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-impact-and-value-of-instagrams-self-verifying-feature/"><u>2024 Approved The Impact and Value of Instagram's Self-Verifying Feature</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-z-fold-5-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy Z Fold 5 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-best-hd-video-players-on-android/"><u>Discover Best Hd Video Players on Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/gtfo-crash-troubleshooting-a-step-by-step-guide-for-stability/"><u>GTFO Crash Troubleshooting: A Step-by-Step Guide for Stability</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-30-pro-windows-10-secrets-revealed/"><u>In 2024, Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-common-battleye-service-setup-errors-for-smooth-gaming/"><u>Overcoming Common BattlEye Service Setup Errors for Smooth Gaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-creativity-the-top-10-after-effects-templates-for-2024/"><u>Unleashing Creativity The Top 10 After Effects Templates for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-first-choice-firefox-recording-packages/"><u>[New] 2024 Approved First Choice Firefox Recording Packages</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>[New] Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-top-tech-best-drone-gimbals-reviewed/"><u>[New] In 2024, Top Tech Best Drone Gimbals Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-mastery-the-ultimate-animoji-guide-for-iphone-x/"><u>[Updated] Unveiling Mastery The Ultimate Animoji Guide for iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>2024 Approved From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-hd-live-stream-gear-list/"><u>2024 Approved Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/advanced-ocr-technology-amplifies-workflow-at-premier-construction-data-company/"><u>Advanced OCR Technology Amplifies Workflow at Premier Construction Data Company</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/soundscapes-synopsis-a-guide-to-visual-tunes-for-2024/"><u>Soundscapes Synopsis A Guide to Visual Tunes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-traffic-cams-for-superior-vehicle-tracking-for-2024/"><u>Top 10 Traffic Cams for Superior Vehicle Tracking for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-g2-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo G2 Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

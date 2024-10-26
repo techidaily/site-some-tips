@@ -1,7 +1,7 @@
 ---
 title: What to Expect From Apple Watch’s New Version - Unveiling WatchOS N 11’S Improved Features | Insights by ZDNET
-date: 2024-10-15T22:36:19.245Z
-updated: 2024-10-20T23:02:27.924Z
+date: 2024-10-23T17:47:05.652Z
+updated: 2024-10-26T18:13:05.082Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,18 +133,17 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-onboarding-for-webinar-logging-in-microsoft-operating-systems/"><u>[Updated] Easy Onboarding for Webinar Logging in Microsoft Operating Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>2024 Approved The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/5-methods-to-seamlessly-transfer-your-android-data-to-an-iphone-post-setup/"><u>5 Methods to Seamlessly Transfer Your Android Data to an iPhone Post-Setup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ai-innovations-at-winxvideo-solving-your-most-frequent-tech-queries/"><u>AI Innovations at WinXVideo: Solving Your Most Frequent Tech Queries</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-k70e-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi K70E Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>In 2024, Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>In 2024, The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/leicht-machen-hd-qualitat-erreichen-durch-dvd-zu-mp4-konvertierung/"><u>Leicht Machen: HD-Qualität Erreichen Durch DVD Zu MP4 Konvertierung</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-logon-issues-with-user-profile-services/"><u>Troubleshooting Steps for Fixing Logon Issues with User Profile Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-scriptsmiths-network-for-2024/"><u>Ultimate Scriptsmiths Network for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blitz-photo-screening-for-windows-users/"><u>[New] Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[New] The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-over-light-and-shadow-with-hdr-software/"><u>[Updated] 2024 Approved Mastery Over Light and Shadow with HDR Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-capturing-the-clouds-advanced-drone-video-techniques/"><u>[Updated] In 2024, Capturing the Clouds Advanced Drone Video Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>[Updated] Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-editing-decoded-a-deep-dive-into-magix-vpx/"><u>2024 Approved The Art of Editing Decoded A Deep Dive Into Magix VPX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-expert-guide-to-navigating-win11-easily/"><u>2024 Approved The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-zoom-utilization-for-team-conferencing-on-msteams/"><u>Advanced Zoom Utilization for Team Conferencing on MSTEAMS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-use-airpods-as-headphones-for-the-nintendo-switch-a-guide-to-connectivity/"><u>Can You Use AirPods as Headphones for the Nintendo Switch? A Guide to Connectivity.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-your-internet-coverage-2024s-leading-wireless-range-amplifiers/"><u>Enhancing Your Internet Coverage: 2024'S Leading Wireless Range Amplifiers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211844491-error-0x887a0006-no-more-fast-fixes-at-your-fingertips/"><u>Error 0X887A0006 No More: Fast Fixes at Your Fingertips!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-affordable-and-easy-online-passport-pics-tools/"><u>In 2024, Top 10 Affordable & Easy Online Passport Pics Tools</u></a></li>
 </ul></div>
 

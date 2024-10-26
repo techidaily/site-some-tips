@@ -1,7 +1,7 @@
 ---
 title: Maximize Your Savings Before Prime Day? Secrets to Switching to a Prime Student Subscription Now!
-date: 2024-09-19 22:49:54
-updated: 2024-09-20 12:25:48
+date: 2024-10-22T18:20:31.861Z
+updated: 2024-10-26T16:56:37.167Z
 tags:
   - e-commerce
 categories:
@@ -45,17 +45,38 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-live-webcam-capture-in-vlc-media-player/"><u>[New] 2024 Approved Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stream-selection-simplified-top-10-actionable-tips/"><u>[New] Stream Selection Simplified Top 10 Actionable Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-toolkit-for-dominating-social-media-management-smm/"><u>[New] The Ultimate Toolkit for Dominating Social Media Management (SMM)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-creativity-with-top-title-methods/"><u>[New] Unlock Your Creativity with Top Title Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-accessory-hits-for-sj-series-drivers/"><u>[Updated] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-every-moment-with-switch-hd-tech/"><u>2024 Approved Capturing Every Moment with Switch HD Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-writing-persuasive-vlog-show-narratives/"><u>2024 Approved Strategies for Writing Persuasive Vlog Show Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-television-or-projector-for-peak-4k-performance/"><u>2024 Approved Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-software-guide-for-tempo-alteration/"><u>2024 Approved Ultimate Software Guide for Tempo Alteration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-walkthrough-easy-kodi-setup-on-windows-10-pc/"><u>Complete Walkthrough: Easy Kodi Setup on Windows 10 PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-route-uploading-from-youtube-to-dailymotion/"><u>Direct Route Uploading From YouTube to Dailymotion</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/embrace-solo-dining/"><u>Embrace Solo Dining</u></a></li>
+<li><a href="https://fox-that.techidaily.com/first-time-guide-activating-and-utilizing-bluetooth-on-ios-devices/"><u>First-Time Guide: Activating and Utilizing Bluetooth on iOS Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlined-techniques-download-vimeo-videos-efficiently/"><u>In 2024, Streamlined Techniques Download Vimeo Videos Efficiently</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-science-of-space-how-layout-affects-professional-effectiveness/"><u>In 2024, The Science of Space How Layout Affects Professional Effectiveness</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-x50i-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor X50i Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-rev-up-your-videos-the-best-free-speed-changing-apps-for-ios-and-android/"><u>Updated Rev Up Your Videos The Best Free Speed Changing Apps for iOS and Android</u></a></li>
+</ul></div>
+

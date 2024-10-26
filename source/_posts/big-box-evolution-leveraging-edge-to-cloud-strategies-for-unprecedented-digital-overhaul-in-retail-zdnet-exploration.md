@@ -1,7 +1,7 @@
 ---
 title: "Big-Box Evolution: Leveraging Edge-to-Cloud Strategies for Unprecedented Digital Overhaul in Retail | ZDNet Exploration"
-date: 2024-09-18 10:30:32
-updated: 2024-09-20 11:47:38
+date: 2024-10-19T18:13:24.035Z
+updated: 2024-10-26T17:46:03.716Z
 tags:
   - edge-computing
 categories:
@@ -105,6 +105,13 @@ Close Modal Dialog
 
 Digital transformation as a business priority has been the theme of the past decade. But in the early 2020s, in response to the global COVID-19 pandemic, [digital transformation](https://www.zdnet.com/article/what-is-digital-transformation-everything-you-need-to-know-about-how-technology-is-reshaping/) was boosted into overdrive. Businesses that were on a five or even a ten-year transformation roadmap were suddenly attempting to make radical changes in five to ten weeks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Special Feature
 
 [The Tech Trends to Watch in 2023 Learn about the leading tech trends the world will lean into over the next 12 months and how they will affect your life and your job.  Read now](https://www.zdnet.com/topic/the-tech-trends-to-watch-in-2023/)
@@ -114,6 +121,13 @@ Here at ZDNET, we've taken you through many deep dives into the technologies dri
 In this article, we're going to take a slightly different approach. Rather than start with the technology and what you can do with it, we're going to visit a prototypical business and look at all the technologies it might need to integrate in order to meet its growth and profitability goals.
 
 Because many of these initiatives tend to be confidential inside the real-world companies performing them, in this article we're going to be talking about a fictional distributed home and building goods chain retailer: Home-by-Home. That way, we can dive into some of the areas of business operations that a real enterprise might not be comfortable revealing publicly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Case study: Home-by-Home
 
@@ -145,11 +159,25 @@ Since 2000, Home-by-Home has been converting larger stores into dual-purpose fac
 
 Earlier this year, Home-by-Home acquired a competitor with 450 stores and has begun a considerable migration effort to move them from old point-of-sale systems and central siloed databases to the edge-to-cloud digital transformation that's actively in practice throughout Home-by-Home's operations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## End-to-end integration across all stores and vendors
 
 There is one general operating principle by which Home-by-Home measures all of its IT decisions: everything must integrate, and do so smartly. It's not enough just to have constant streams of data coming from the stores to organization-wide databases. 
 
 That data has to go to the right places at the right time, and trigger the right operations. Data flow also can't just be one way. Data has to move from vendors and suppliers to various corporate departments to stores and back again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -186,11 +214,29 @@ Edge-to-cloud platforms help aggregate entire solutions, providing the benefits 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dimming-dynamics-understated-audio-alteration-in-garageband/"><u>[New] In 2024, Dimming Dynamics Understated Audio Alteration in Garageband</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-twist-your-content-strategy-inverting-videos-for-instagram/"><u>[New] In 2024, Twist Your Content Strategy Inverting Videos for Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>[New] Top 3 Tactics Transforming Pin Videos Into MP3 Sounds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleash-creativity-essential-tips-for-lut-production/"><u>[Updated] In 2024, Unleash Creativity Essential Tips for LUT Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-smoothing-playback-the-truth-behind-frozen-photo-booth-videos/"><u>[Updated] Smoothing Playback The Truth Behind Frozen Photo Booth Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-free-video-editing-and-effects-sites/"><u>[Updated] The Ultimate Guide to Free Video Editing and Effects Sites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-30-pro-windows-10-secrets-revealed/"><u>[Updated] Top 30 Pro Windows 10 Secrets Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-to-rewriting-your-dvds-copy-conversion-compression-and-editing-techniques/"><u>Complete Guide to Rewriting Your DVDs: Copy, Conversion, Compression & Editing Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>In 2024, The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-xiaomi-redmi-note-13-proplus-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Xiaomi Redmi Note 13 Pro+ 5G Phones</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/insightful-approaches-to-tackling-robloxs-error-262/"><u>Insightful Approaches to Tackling Roblox's Error 262</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instagram-live-maintaining-privacy-while-streaming/"><u>Instagram Live Maintaining Privacy While Streaming</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/instant-mp3-transfer-tips-how-to-add-music-to-your-iphone-quickly-and-effortlessly/"><u>Instant MP3 Transfer Tips: How to Add Music to Your iPhone Quickly and Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailored-transmission-terminal-podcasters-hub-for-2024/"><u>Tailored Transmission Terminal Podcaster's Hub for 2024</u></a></li>
+</ul></div>
+

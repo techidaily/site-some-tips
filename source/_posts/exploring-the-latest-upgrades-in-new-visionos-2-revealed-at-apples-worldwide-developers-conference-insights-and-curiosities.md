@@ -1,7 +1,7 @@
 ---
 title: Exploring the Latest Upgrades in New VisionOS 2 Revealed at Apple's Worldwide Developers Conference - Insights and Curiosities
-date: 2024-10-13T23:03:19.090Z
-updated: 2024-10-20T17:02:40.656Z
+date: 2024-10-21T18:19:12.914Z
+updated: 2024-10-26T16:20:59.233Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,20 +133,16 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-instagram-blocking-basics/"><u>[New] 2024 Approved Navigating Instagram Blocking Basics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-script-zip-up-creating-srt-from-video-archives-fastly-for-2024/"><u>[New] Script Zip-Up Creating SRT From Video Archives Fastly for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[New] Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-genius-with-iphone-x-camera/"><u>[Updated] Unleash Your Creative Genius with iPhone X Camera</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/44cm44gp44gg44ke44gj44gm44oh44o844k44ks5yan55sf44gz44kl44glpplusengembloobjoetloobioociplusacgoawsoobruodkuodsplusodioobqoodhuocrplusodiplusodgplusocrplusoa146/"><u>「どうやってデータを再生するか?私達が答える最新のヒントとテクニック」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stabilizing-tech-for-youtube-creators-success/"><u>2024 Approved Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces-for-2024/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-s17e-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo S17e</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/journey-through-the-metaverse-discovering-iconic-memes-for-2024/"><u>Journey Through the Metaverse Discovering Iconic Memes for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/resolve-the-issue-quickly-expert-tips-to-overcome-doesnt-support-servicing-wpe-mistake-in-dism-tool/"><u>Resolve the Issue Quickly: Expert Tips to Overcome 'Doesn’t Support Servicing WPE' Mistake in DISM Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-launching-dead-space-remastered-troubleshooting-latest-fixes-2024/"><u>Step-by-Step Solutions for Launching Dead Space Remastered Troubleshooting - Latest Fixes 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-quick-convert-guide-transforming-gifs-into-telegram-and-whatsapp-emojis-for-2024/"><u>The Quick-Convert Guide Transforming Gifs Into Telegram and WhatsApp Emojis for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-3-leading-tools-for-drm-free-audiobook-conversion-a-comprehensive-guide/"><u>Top 3 Leading Tools for DRM-Free Audiobook Conversion: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-immersive-era-vrs-progress-and-upcoming-struggles-for-2024/"><u>Unveiling the Immersive Era VR's Progress & Upcoming Struggles for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boosting-your-youtube-presence-key-tips-for-popularity/"><u>[New] Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-snap-fying-life-with-fb-shorts/"><u>[New] Snap-Fying Life with FB Shorts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>[New] The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fastest-way-to-scan-windows-files/"><u>[Updated] The Fastest Way to Scan Windows Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/"><u>[Updated] Unlock Picture Perfection Compreenhensive Facetune Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cumulative-community-capture/"><u>2024 Approved Cumulative Community Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-these-8-ai-powered-applications-transform-content-writing-workflows/"><u>How These 8 AI-Powered Applications Transform Content Writing Workflows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-miniipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 mini/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-garmin-vivomove-hr-watch-style-meets-performance-in-one-piece/"><u>The Ultimate Guide to the Garmin Vivomove HR Watch: Style Meets Performance in One Piece</u></a></li>
+<li><a href="https://some-tips.techidaily.com/total-capture-trio-setup-for-2024/"><u>Total Capture Trio Setup for 2024</u></a></li>
 </ul></div>
 

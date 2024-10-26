@@ -1,7 +1,7 @@
 ---
 title: Unveiling Apple’s Breakthrough in AI – Promising Advances with Room for Improvement
-date: 2024-10-15T16:30:51.301Z
-updated: 2024-10-20T23:40:20.339Z
+date: 2024-10-23T17:31:24.613Z
+updated: 2024-10-26T18:07:23.979Z
 tags:
   - apple
 categories:
@@ -40,18 +40,18 @@ Jason Hiner/ZDNET
 
 Using Apple Intelligence, you'll be able to fine-tune your writing in Mail, Notes, Pages, and any supported third-party app. Like other AI-powered editing tools, Apple Intelligence will be able to rewrite, proofread, and summarize your text.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Photo features
 
 Apple Intelligence will tap into your photos for a few different tricks. You'll be able to create movies out of photos in your library just by typing a description of what you want to see, much like you would for a [chatbot prompt](https://www.zdnet.com/article/6-ways-to-write-better-chatgpt-prompts-and-get-the-results-you-want-faster/). Using natural language, you'll be able to search for specific photos and even find certain moments in a video. 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
 
@@ -68,22 +68,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Mail assistance
 
@@ -110,10 +103,10 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 ## What will come later
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Image playground
@@ -123,6 +116,13 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 ### Image wand
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Genmoji
 
@@ -166,24 +166,22 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-gateway-to-grandeur-embarking-on-a-classic-lit-journey/"><u>[New] 2024 Approved Gateway to Grandeur Embarking on a Classic Lit Journey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-understanding-the-transformations-in-vegaspro-19/"><u>[New] Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlimited-gaming-recordability-the-best-free-apps-of-2024/"><u>[New] Unlimited Gaming Recordability The Best Free Apps of 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unmatched-audio-and-video-elite-webcams-for-podcasting/"><u>[New] Unmatched Audio & Video Elite Webcams for Podcasting</u></a></li>
-<li><a href="https://win-tips.techidaily.com/erfolgreich-vorgehen-gegen-den-windows-11-fehler-0xc00000e9-professionelle-tipps-und-tricks-zum-wiederherstellen/"><u>Erfolgreich Vorgehen Gegen Den Windows 11-Fehler 0Xc00000E9 - Professionelle Tipps Und Tricks Zum Wiederherstellen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-lava-blaze-curve-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Lava Blaze Curve 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-14-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-audio-techniques-for-your-podcasts/"><u>In 2024, Innovative Audio Techniques for Your Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-method-for-timestamping-your-youtube-videos/"><u>In 2024, The Expert's Method for Timestamping Your YouTube Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/investigating-the-sudden-angle-shift-in-instagrams-videos-for-2024/"><u>Investigating the Sudden Angle Shift in Instagrams Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/oming-creative-roadblocks-in-short-form-videos/"><u>Overcoming Creative Roadblocks in Short Form Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tiktokplusinstagram-social-media-fusion-guide-for-2024/"><u>TikTok+Instagram Social Media Fusion Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-the-right-propeller-match-in-fpv-flight-for-2024/"><u>Unlocking Potential The Right Propeller Match in FPV Flight for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-potential-through-virtualization-for-2024/"><u>Unlocking Potential Through Virtualization for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-gt-neo-5-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme GT Neo 5? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs/"><u>[New] Fantasy Realms Awaits Ultimate List of No-Cost RPGs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-the-art-of-thumbnail-design-with-your-mac/"><u>[Updated] 2024 Approved Mastering the Art of Thumbnail Design with Your Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-selecting-the-superior-cloud-storage-hub/"><u>[Updated] In 2024, Selecting the Superior Cloud Storage Hub</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hasty-hacks-for-enhancing-personal-movie-making/"><u>2024 Approved Hasty Hacks for Enhancing Personal Movie Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-yearly-selection-of-top-free-pc-graphic-artists-in-czechia-your-ultimate-guide-by-movavi/"><u>2024 Yearly Selection of Top Free PC Graphic Artists in Czechia: Your Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225420916-m1vmp4-movavi/"><u>安心してM1VをMP4に変換: お手頃価格無料オンラインツール集 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/54sh5paz44gn5l244gi44kl57eo6zug44ox44ot44kw44op44og44cq5yaz55yf44cr44oa44km44oz44ot44o844oj5oml6acg/"><u>無料で使える編集プログラム【写真】ダウンロード手順</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-primes-social-success-stories-likes-and-watches-galore-for-2024/"><u>Amazon Prime’s Social Success Stories Likes & Watches Galore for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-subir-videos-a-instagram-usando-tu-pc-tutorial-para-sistemas-windows-and-macos/"><u>Cómo Subir Vídeos a Instagram Usando Tu PC (Tutorial Para Sistemas Windows & macOS)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/enhancing-video-quality-healing-broken-h265-data/"><u>Enhancing Video Quality: Healing Broken H.265 Data</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-meilleures-utilitaires-libres-de-trace-en-2024-classement-de-movavi/"><u>Les Meilleures Utilitaires Libres De Tracé en 2024 : Classement De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-flv-video-playback-insights-and-tools-using-the-movavi-converter/"><u>Mastering FLV Video Playback: Insights & Tools Using the Movavi Converter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/on-the-move-picture-and-video-tuning-tips/"><u>On-The-Move Picture & Video Tuning Tips</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-audio-m4a-al-codec-matroska-gratuito-en-linea-usando-movavi-ejemplo-perfecto/"><u>Transformar Archivos Audio M4A Al Códec Matroska Gratuito en Línea Usando Movavi - Ejemplo Perfecto</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-x50-gt-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor X50 GT FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-and-aiff-online-movavi/"><u>WMA & AIFF 형식을 제공하는 무료 Online 스위칭 - Movavi</u></a></li>
 </ul></div>
 

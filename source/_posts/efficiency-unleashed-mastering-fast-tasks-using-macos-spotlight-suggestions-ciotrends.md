@@ -1,7 +1,7 @@
 ---
 title: "Efficiency Unleashed: Mastering Fast Tasks Using macOS Spotlight Suggestions | CIOTrends"
-date: 2024-10-15T18:40:45.437Z
-updated: 2024-10-20T18:59:27.718Z
+date: 2024-10-24T18:55:55.215Z
+updated: 2024-10-26T16:01:49.663Z
 tags:
   - apple
 categories:
@@ -34,10 +34,10 @@ Of course, not every file type has an associated Quick Action but you can add ne
 First, know that out-of-the-box Quick Actions are pretty limited. The real power comes from when you create your own Quick Actions, but you have to learn to walk before you can run (and the tool to create Quick Actions can be rather overwhelming at first). Ergo, let's take a walk with MacOS Finder Quick Actions.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What files offer Quick Actions?
@@ -51,24 +51,24 @@ By default, the following file types offer Quick Actions from within the Finder 
 So, clearly, Quick Actions is limited without a bit of extra work. However, if you deal with a lot of images, videos, and PDFs, Quick Actions are there to help you. Also, you'll find the image conversion Quick Action is also limited to converting images only to JPG, PNG, and HEIF files. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Quick Actions
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Open Finder and locate a file
 
 The first thing we're going to do is open Finder and locate a file to be acted upon. Let's use a JPG file as an example. With Finder open, navigate to a directory housing the JPG image you want to transform.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Right-click the file to access the Quick Actions menu
 
@@ -97,10 +97,16 @@ Configuring your converted image in the Finder pop-up.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Convert images to a PDF
@@ -153,24 +159,20 @@ And that's all there is to MacOS Finder's Quick Actions feature. As I mentioned 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unleash-the-potential-of-your-notes-use-mematic/"><u>[New] Unleash the Potential of Your Notes - Use Mematic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-access-prime-video-downloader-picks-for-2024/"><u>[Updated] Exclusive Access Prime Video Downloader Picks for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-punchline-perfection-creating-memes-that-make-people-tickle-for-2024/"><u>[Updated] Punchline Perfection Creating Memes that Make People Tickle for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-valorant-gameplay-top-ranked-costless-voice-alterer-revealed/"><u>[Updated] Transform Valorant Gameplay Top-Ranked, Costless Voice Alterer Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[Updated] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-superior-free-reproduction-tools-for-switch-games/"><u>2024 Approved Superior Free Reproduction Tools for Switch Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-interactive-sphere-instagram-tiktok-synergy-guide/"><u>2024 Approved The Interactive Sphere Instagram-TikTok Synergy Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vectors-sourcebook-top-10-list/"><u>2024 Approved The Ultimate Vectors Sourcebook - Top 10 List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-mobile-melodies-on-iphone/"><u>2024 Approved Unleashing Creativity with Mobile Melodies on iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-full-potential-best-trio-for-zoom-conversion/"><u>2024 Approved Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/al-approaches-to-extract-mp4-from-youtube-for-2024/"><u>Ethical Approaches to Extract MP4 From YouTube for 2024</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/fix-guide-for-mbr2gpt-failed-to-update-reagentxml-on-your-computer-system/"><u>Fix Guide for 'MBR2GPT Failed to Update reagent.xml' On Your Computer System</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-key-elements-for-effective-spotify-ad-execution/"><u>In 2024, The Key Elements for Effective Spotify Ad Execution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-troubleshooting-tips-for-win-11s-stubborn-photos-app/"><u>In 2024, Troubleshooting Tips for Win 11'S Stubborn Photos App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-stability-problems-fixes-for-oxygen-not-included-game-crashes/"><u>Resolving Stability Problems: Fixes for 'Oxygen Not Included' Game Crashes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/toolwiz-analysis-revolutionizing-image-editing-on-the-go-for-2024/"><u>Toolwiz Analysis Revolutionizing Image Editing on the Go for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-8-innovative-prompts-for-creating-images-with-dall-e-3/"><u>Top 8 Innovative Prompts for Creating Images with DALL-E 3</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-strategies-to-tackle-werfaultexe-application-problems-under-windows/"><u>Top Strategies to Tackle werFault.exe Application Problems Under Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>[New] Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-crafting-compelling-end-screens-in-youtube-videos-for-2024/"><u>[Updated] Crafting Compelling End Screens in YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-avoiding-grainy-zoom-videos-techniques-included/"><u>[Updated] In 2024, Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-instagram-story-polls/"><u>[Updated] In 2024, The Ultimate Tutorial for Instagram Story Polls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>[Updated] Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-to-never-miss-a-moment-on-youtube-for-2024/"><u>[Updated] The Secret Sauce to Never Miss a Moment on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-zip-to-srt-file-transition/"><u>[Updated] Understanding the Zip to Srt File Transition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transitioning-tweets-into-facebook-visibility/"><u>2024 Approved Transitioning Tweets Into Facebook Visibility</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fusing-visuals-with-acoustic-expressionism-for-2024/"><u>Fusing Visuals with Acoustic Expressionism for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-achieving-pristine-video-quality-on-youtube/"><u>In 2024, Achieving Pristine Video Quality on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-journey-to-zoom-mastery/"><u>In 2024, Streamline Your Journey to Zoom Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instantaneous-installation-laugh-with-ifunny-memes-easily-for-2024/"><u>Instantaneous Installation Laugh with iFunny Memes Easily for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-green-screen-tech-how-to-optimize-usage/"><u>Premier Green Screen Tech How to Optimize Usage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-critical-factors-for-upgrading-your-4k-lens-for-2024/"><u>The Critical Factors for Upgrading Your 4K Lens for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-rated-webcam-recorder-applications-demystified/"><u>Top-Rated WebCam Recorder Applications Demystified</u></a></li>
 </ul></div>
 

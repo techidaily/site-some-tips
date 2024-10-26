@@ -1,7 +1,7 @@
 ---
 title: Customizing the New Control Center on iPhone with iOS 18 - Tips & Tricks
-date: 2024-10-18T21:20:57.636Z
-updated: 2024-10-20T21:14:18.748Z
+date: 2024-10-24T17:41:50.018Z
+updated: 2024-10-26T17:05:14.863Z
 tags:
   - apple
 categories:
@@ -30,24 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,10 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -70,18 +64,18 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -98,16 +92,10 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -146,21 +134,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-recording-virtual-sessions-ios-and-android-methods/"><u>[New] Recording Virtual Sessions IOS & Android Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-seamless-shift-an-introduction-to-crossfades/"><u>[New] The Seamless Shift An Introduction to Crossfades</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-your-tiktok-experience-with-new-user-numbers/"><u>[New] Transform Your TikTok Experience with New User Numbers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[New] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nderstanding-the-impact-of-youtubes-creative-commons-on-videos/"><u>[New] Understanding the Impact of YouTube's Creative Commons on Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-executing-the-last-goodbye-to-your-instagram-account-for-2024/"><u>[Updated] Executing the Last Goodbye to Your Instagram Account for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-techniques-youtube-to-facebook-amplification-for-2024/"><u>[Updated] Pioneering Techniques YouTube to Facebook Amplification for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management-for-2024/"><u>[Updated] Top 10 Android and iOS Timers for Effortless Wedding Countdown Management for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-comparison-of-leading-online-communities-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Comparison of Leading Online Communities: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-7-plus-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 7 Plus How to Bypass?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>In 2024, Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-audio-potential-pazeras-free-tool-review/"><u>In 2024, Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
-<li><a href="https://win-superb.techidaily.com/retrieve-your-missing-flipbuildercom-register-account-access-a-comprehensive-guide/"><u>Retrieve Your Missing FlipBuilder.com Register Account Access: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-prime-picks-best-storytelling-channels-fans-for-2024/"><u>The Prime Picks Best Storytelling Channels Fans for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-picture-perfect-pairings-expert-comparison-of-top-8k-televisions/"><u>[New] Picture Perfect Pairings Expert Comparison of Top 8K Televisions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-selection-elite-iphone-call-alerts/"><u>[New] Ultimate Selection Elite iPhone Call Alerts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-cover-makeovers-the-most-trusted-design-tools-ranked/"><u>[Updated] 2024 Approved Facebook Cover Makeovers The Most Trusted Design Tools Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-weave-wisdom-mastering-looms-screen-capture/"><u>[Updated] 2024 Approved Weave Wisdom Mastering Loom’s Screen Capture</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-mastering-emoji-artistry-best-on-discord-emoji-generators/"><u>[Updated] In 2024, Mastering Emoji Artistry Best On-Discord Emoji Generators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>[Updated] Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-cinema-mastering-the-best-5-camera-tips/"><u>2024 Approved The Art of Cinema Mastering the Best 5 Camera Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-tutorial-infusing-motion-blur-into-faces-using-picsart/"><u>2024 Approved The Essential Tutorial Infusing Motion Blur Into Faces Using Picsart</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-premier-yt-storytelling-list-to-watch-in-the-year-ahead/"><u>2024 Approved The Premier YT Storytelling List to Watch in the Year Ahead</u></a></li>
+<li><a href="https://win-studio.techidaily.com/get-your-hands-on-pirates-of-the-caribbean-full-series-safe-mp4-avi-downloads-for-windowsmacos-x/"><u>Get Your Hands On Pirates of the Caribbean Full Series: Safe MP4, AVI Downloads for Windows/MacOS X</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-music-organizer-for-android-users/"><u>In 2024, Pinnacle Music Organizer for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-best-identifying-the-quintessential-5-online-title-designers/"><u>In 2024, Ranking the Best Identifying the Quintessential 5 Online Title Designers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-essential-handbook-for-iphone-vr-viewing/"><u>In 2024, The Essential Handbook for iPhone VR Viewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>In 2024, Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-types-and-methods-for-hand-detection-systems/"><u>In 2024, Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-reboot-reverses-screen-returns-to-normal/"><u>System Reboot Reverses - Screen Returns to Normal</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-mic-showdown-for-podcasters/"><u>Ultimate Mic Showdown for Podcasters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-outro-options-at-no-expense-online-for-2024/"><u>Unlimited Outro Options at No Expense Online for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/where-to-find-premium-ai-prompt-services-top-7-picks/"><u>Where to Find Premium AI Prompt Services - Top 7 Picks</u></a></li>
 </ul></div>
 

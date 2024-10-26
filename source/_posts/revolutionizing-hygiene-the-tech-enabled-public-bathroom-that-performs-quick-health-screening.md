@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Hygiene: The Tech-Enabled Public Bathroom That Performs Quick Health Screening"
-date: 2024-10-15T16:45:55.072Z
-updated: 2024-10-20T23:58:03.839Z
+date: 2024-10-24T17:11:45.843Z
+updated: 2024-10-26T17:31:03.009Z
 tags:
   - apple
 categories:
@@ -75,10 +75,10 @@ Matthew Miller/ZDNET
 The battery provides up to 12 hours of data and the glasses are dust- and water-resistant, which means I can wear them all year long here in Puget Sound. I always wear glasses while biking, but rarely use them while running, and yet I have worn these for every run since they arrived. I am definitely buying my own pair to help me achieve my goals.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,20 +117,22 @@ The Engo 2 also ensure that I will continue to be a Strava Premium subscriber. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[New] In 2024, Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-transform-youtube-soundtracks-on-iphone-with-these-6-choices/"><u>[New] In 2024, Transform YouTube Soundtracks on iPhone with These 6 Choices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-innovative-tech-top-windows-cameras-explored-for-2024/"><u>[New] Innovative Tech Top Windows Cameras Explored for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed/"><u>[New] The Most Engaging AR Games for Phones Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-your-films-potential-top-11-color-grading-and-correction-methods/"><u>[New] Unlock Your Film's Potential Top 11 Color Grading and Correction Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-green-screen-magic-video-production-tips/"><u>[New] Unlocking Green Screen Magic Video Production Tips</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-action-camera-faceoff-gopro-hero-vs-sony-dslr-for-adventure-seekers-for-2024/"><u>[Updated] Action Camera Faceoff GoPro Hero Vs. Sony DSLR for Adventure Seekers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-resolving-common-windows-11-photo-app-problems/"><u>2024 Approved Resolving Common Windows 11 Photo App Problems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-of-superior-real-time-streaming-networks/"><u>2024 Approved The Ultimate List of Superior Real-Time Streaming Networks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-prime-christian-live-streaming-services-a-list/"><u>In 2024, Prime Christian Live Streaming Services A List</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-effective-content-promotion-on-youtube/"><u>In 2024, Strategies for Effective Content Promotion on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>In 2024, The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-a-step-by-nstep-approach-to-eliminate-0xc000012f-bug-on-your-pc/"><u>Mastering the Fix: A Step-by-nStep Approach to Eliminate 0xC000012F Bug on Your PC</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pros-guide-to-capturing-every-angle/"><u>Pro's Guide to Capturing Every Angle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/superior-mkv-player-pcandroid-experience-for-2024/"><u>Superior MKV Player PC/Android Experience for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-mastering-obs-and-zoom-integration-tips-for-2024/"><u>[New] Mastering OBS & Zoom Integration Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>[New] The Snapshot Solution How to Swiftly Switch Your GIF for a Sticker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tiktok-age-update-made-simple-user-friendly-techniques/"><u>[New] TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-ranked-switch-console-simulations-online/"><u>[Updated] 2024 Approved Top-Ranked Switch Console Simulations Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-of-serenity-windowsmac-adjustments/"><u>2024 Approved The Sound of Serenity Windows/Mac Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>2024 Approved Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-7-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 7 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Nubia Lock Screen Password?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-soundtracks-into-professional-podcasts/"><u>In 2024, Transforming Soundtracks Into Professional Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-free-secure-vlc-player-access-on-apple-devices/"><u>In 2024, Unlocking Free, Secure VLC Player Access on Apple Devices</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-unavailability-problems-with-destiny-2-servers-a-step-by-step-guide/"><u>Solving Unavailability Problems with Destiny 2 Servers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/step-by-step-refresh-intel-hd-graphics-in-windows/"><u>Step-by-Step: Refresh Intel HD Graphics in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-financial-lifeline-of-podcasting-for-2024/"><u>The Financial Lifeline of Podcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android-for-2024/"><u>Top-Rated Mobile Video Editors for iOS & Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
 </ul></div>
 

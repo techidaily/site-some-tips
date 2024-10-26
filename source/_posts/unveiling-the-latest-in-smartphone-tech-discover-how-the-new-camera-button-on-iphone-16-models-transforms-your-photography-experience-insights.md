@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest in Smartphone Tech: Discover How the New Camera Button on iPhone 16 Models Transforms Your Photography Experience - Insights"
-date: 2024-10-15T23:55:01.701Z
-updated: 2024-10-20T19:30:14.005Z
+date: 2024-10-25T17:26:59.002Z
+updated: 2024-10-26T16:37:01.114Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -83,13 +83,6 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2010: Smartphones meet narcism, a match made in heaven
 
 Smartphones have evolved with a cadence we're all familiar with. Each year, new capabilities have been added and features improved. Cameras evolved from 3.0MP cameras to 48-50MP monsters like the [iPhone 15 Pro Max](https://www.zdnet.com/article/should-you-buy-an-iphone-15-heres-how-my-wife-and-i-are-deciding/), [Google Pixel 8](https://www.zdnet.com/article/pixel-8-pro-vs-pixel-7-pro/), [OnePlus 11](https://www.zdnet.com/article/oneplus-11-review/), and [Asus ROG Phone 8](https://rog.asus.com/articles/smartphones/the-rog-phone-8-and-rog-phone-8-pro-beyond-gaming-with-a-slim-new-design/).
@@ -111,10 +104,16 @@ Many smartphones today capture 8K video directly into phone storage. These inclu
 Over time, all the increases in storage capacity, processor speed, battery life, and display resolution were accompanied by improvements to the software inside the phones, with vendors adding all sorts of smarts to their camera applications.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2017: The start of the AI/ML smartphone era
@@ -128,10 +127,10 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI and machine learning in today's smartphones
@@ -206,6 +205,13 @@ One thing that's important to note: [Generative AI](https://www.zdnet.com/articl
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Looking to the future
 
 We've been doing a tremendous amount of coverage of [generative AI](https://www.zdnet.com/topic/artificial-intelligence/) this past year. And every year, phone vendors introduce even more smartphone capabilities. So what does the future hold?
@@ -262,17 +268,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-chucklecraft-sign-up-now-and-laugh-later/"><u>[Updated] 2024 Approved ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-top-hdr-camera-picks/"><u>[Updated] Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-illuminating-the-role-of-color-in-editing-mastery/"><u>2024 Approved Illuminating the Role of Color in Editing Mastery</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-15-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 15 in Lost Mode</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726027581580-dvd-iphone/"><u>DVD転送 - iPhoneへのスムーズな変換ガイド</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/free-online-converter-change-tga-images-to-jpeg-format-with-ease-movavi/"><u>Free Online Converter: Change TGA Images to JPEG Format with Ease - Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oneplus-open-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from OnePlus Open to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>In 2024, The Ultimate Path to Becoming an FCP Specialist</u></a></li>
-<li><a href="https://some-tips.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors-for-2024/"><u>Master Your Captions The Top 10 Precision Subtitle Editors for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-ultimate-shutter-showdown-best-for-slow-motion-videos-for-2024/"><u>The Ultimate Shutter Showdown Best for Slow Motion Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-techniques-for-flawless-inshot-videos-for-2024/"><u>Transition Techniques for Flawless Inshot Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-building-harmonious-forms-crafting-circles-and-spheres/"><u>[New] Building Harmonious Forms Crafting Circles and Spheres</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-recovery-reviving-windows-photo-viewer-on-modern-os/"><u>[New] Swift Recovery Reviving Windows Photo Viewer on Modern OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-checklist-preparing-your-room-and-pc-for-oculus-rift/"><u>[New] Ultimate Checklist Preparing Your Room and PC for Oculus Rift</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-facetune-a-comprehensive-review/"><u>[New] Unveiling the Secrets of Facetune A Comprehensive Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevating-your-content-powerful-tags-to-watch-out-for/"><u>[Updated] 2024 Approved Elevating Your Content Powerful Tags to Watch Out For</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-social-exploration-pinpointing-popular-videos-on-the-worlds-biggest-network/"><u>[Updated] Social Exploration Pinpointing Popular Videos on the World's Biggest Network</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-best-4k-monitors/"><u>[Updated] Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximizing-reach-with-multi-network-content-sharing/"><u>2024 Approved Maximizing Reach with Multi-Network Content Sharing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scriptwriting-secrets-for-docu-films/"><u>2024 Approved Scriptwriting Secrets for Docu-Films</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-video-editing-tools-of-2024-including-exclusive-offer-from-movavi-get-your-free-download/"><u>Discover the Best Video Editing Tools of 2024, Including Exclusive Offer From Movavi - Get Your Free Download!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-corsairs-icue-link-h150i-rgb-sets-new-standards-for-graphics-card-customization-and-power/"><u>Expert Review: Corsair's iCUE Link H150i RGB Sets New Standards for Graphics Card Customization & Power</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/exploring-top-videography-apps-for-enhanced-win11-experience-for-2024/"><u>Exploring Top Videography Apps for Enhanced Win11 Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamselect-an-alternative-to-dacast/"><u>In 2024, StreamSelect An Alternative to DaCast</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-f25-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo F25 Pro 5G Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-realms-a-comparative-study-of-mr-ar-and-vr-technologies-for-2024/"><u>Uniting Realms A Comparative Study of MR, AR, and VR Technologies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/universal-vmix-adapter-for-2024/"><u>Universal VMix Adapter for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos-for-2024/"><u>Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experiencing the Future of AR: Apple Vision Pro's First Impressions in a Single Weekend - What I Learned | CNET Gadgets"
-date: 2024-10-15T21:14:45.526Z
-updated: 2024-10-20T23:02:45.117Z
+date: 2024-10-23T17:59:54.993Z
+updated: 2024-10-26T19:11:54.771Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Figuring out which HomePod is the right one for you isn't as complicated as it m
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Sound quality trumps all
@@ -72,13 +72,6 @@ More succinctly put: It just sounds better.
 And that's just when using a HomePod as a stand-alone speaker. Both the HomePod and the HomePod Mini can be paired with a second of the same model of speaker to create a stereo pair. 
 
 You can even pair two speakers together and use them as the default output for an Apple TV, simulating a soundbar-like experience. And if you have an [Apple TV 4K](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fapple-tv-4k%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), you can use the HomePod (and HomePod Mini) as the eARC default output for the TV and any other devices connected to the TV, like a gaming console. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. You have a big area to fill with sound
 
@@ -107,21 +100,47 @@ In other words, if you want to future-proof your next smart speaker purchase, an
 [Apple HomePod (2023) $299 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-homepod%2Fhomepod&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the HomePod Mini if…
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. You want an affordable smart speaker
 
 Smart speakers are convenient to have around the house. Not only can you ask for random facts and information, like the weather forecast or how tall Mount Everest is, but they also help entertain you with things like music and audiobooks while you're cooking or getting ready in the morning, and they make for fantastic hands-free timers. 
 
 But that experience isn't worth $299 to a lot of people, and I can't say I blame you, especially when the HomePod Mini exists at $99\. Yes, you can buy three of Apple's smallest smart speakers for the same price as one of the larger speakers. 
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Sound quality is important, but not everything
 
@@ -132,13 +151,6 @@ Above, I wrote a short love note about the HomePod's sound quality. But don't ge
 I have HomePod Minis placed around my home and use them to listen to all sorts of different content. In my office, the Mini starts playing music as soon as I turn on the lights. In my bedroom, we use a Mini as the audio output for the TV. In those environments, I have no complaints about how the Mini sounds. Would it sound better if I was using the larger, and more expensive, HomePod? Of course! But the Mini's sound quality isn't a horrible experience by any means.
 
 [But the HomePod Mini $99 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-homepod%2Fhomepod-mini&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -186,24 +198,24 @@ For those who aren't interested in a smart speaker from Amazon, there's Google's
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-free-c-span-video-downloads-how-to-do-it-right/"><u>[New] Free C-Span Video Downloads - How To Do It Right</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-2023-fb-live-stream-mp4-conversion-tool/"><u>[New] In 2024, 2023 FB Live Stream MP4 Conversion Tool</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-seamlessly-screen-record-the-mi-11-user-manual/"><u>[New] Seamlessly Screen Record The Mi 11 User Manual</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-reels-a-ninjas-guide/"><u>[Updated] 2024 Approved Mastering Instagram Reels A Ninja's Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-expert-analysis-the-best-webcam-videotaping-tools/"><u>[Updated] Expert Analysis The Best WebCam Videotaping Tools</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-seo-revolution-transforming-your-content-visibility-for-2024/"><u>[Updated] SEO Revolution Transforming Your Content Visibility for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-supercharge-your-design-with-these-canva-insider-tips/"><u>[Updated] Supercharge Your Design with These Canva Insider Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-iphone-selfie-perks-8/"><u>[Updated] The Ultimate List of IPhone Selfie Perks #8</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-essential-360-degree-recording-techniques/"><u>[Updated] Ultimate Guide 9 Essential 360-Degree Recording Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>[Updated] Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-and-applying-auto-hdr-a-windows-11-tutorial/"><u>[Updated] Understanding and Applying Auto HDR A Windows 11 Tutorial</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/2024-approved-mastering-vocal-depth-techniques-for-a-deepened-tone-in-filmora/"><u>2024 Approved Mastering Vocal Depth Techniques for a Deepened Tone in Filmora</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-portrait-retouching-conceal-dont-deceive/"><u>2024 Approved Perfect Portrait Retouching Conceal, Don't Deceive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>2024 Approved Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/closing-an-outdated-linkedin-profile-a-step-by-step-guide/"><u>Closing an Outdated LinkedIn Profile A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-edge-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Edge 2023 ?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streaming-success-implementing-green-screen-innovations/"><u>In 2024, Streaming Success Implementing Green Screen Innovations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-how-to-for-mac-obs-plus-streamlabs-integration-for-2024/"><u>The Complete How-To for Mac OBS + Streamlabs Integration for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/vives-discomfort-follow-these-motion-sickness-fixes/"><u>Vive's Discomfort? Follow These Motion Sickness Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-your-earnings-universal-strategies-for-youtube-revenue/"><u>[New] 2024 Approved Amplify Your Earnings Universal Strategies for YouTube Revenue</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rom-novice-to-pro-youtube-shorts-guide-for-2024/"><u>[New] From Novice to Pro YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secure-whole-page-scene/"><u>[Updated] In 2024, Secure Whole-Page Scene</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-insert-soundtracks-for-dynamic-presentations/"><u>[Updated] Insert Soundtracks for Dynamic Presentations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/accelerated-approach-eliminating-signatures-quickly-for-2024/"><u>Accelerated Approach Eliminating Signatures Quickly for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/bast-gratis-video-konverterer-i-windows-utvalna-20-alternativ-for-1187/"><u>Bäst Gratis Video-Konverterer I Windows - Utvalna 20 Alternativ För 11/8/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-free-on-line-da-wmv-a-ts-tramite-il-software-di-movavi-prova-ora-gratuitamente/"><u>Conversione Free On-Line Da WMV a TS Tramite Il Software Di Movavi - Prova Ora Gratuitamente</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargas-gratuitas-para-cambiar-archivos-de-video-desde-mp4-a-asf-sin-problemas-movavi/"><u>Descargas Gratuitas Para Cambiar Archivos De Vídeo Desde MP4 a ASF Sin Problemas - Movavi</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/efficient-heat-dissipation-with-a-cheap-laptop-tray-the-topmate-c302-breakdown/"><u>Efficient Heat Dissipation with a Cheap Laptop Tray: The TopMate C302 Breakdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-intel-rst-support-issues-a-guide-for-non-functional-services-on-windows-11/"><u>Fixing Intel RST Support Issues: A Guide for Non-Functional Services on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-msodll-file-missing-error-quickly-and-easily/"><u>How to Resolve 'Mso.dll' File Missing Error Quickly & Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-gionee-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Gionee</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-media-transformation-easily-convert-m4ampeg-to-m4v-formats/"><u>Movavi's No-Cost Media Transformation: Easily Convert M4A/MPEG to M4V Formats</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photovideo-tips-manipulating-text-with-style/"><u>Photo/Video Tips Manipulating Text with Style</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamlessly-change-mka-audio-to-mp3-for-no-cost-online-with-moveavi/"><u>Seamlessly Change MKA Audio to MP3 for No Cost Online with MoveAVI</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-video-flv-au-format-mp4-sans-frais-tutoriel-avant-premiere-avec-movavi/"><u>Transformez Votre Vidéo FLV Au Format MP4 Sans Frais - Tutoriel Avant-Première Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wat-is-een-mkv-file-en-de-procedure-om-het-openbaar-te-maken/"><u>Wat Is Een MKV-File en De Procedure Om Het Openbaar Te Maken?</u></a></li>
 </ul></div>
 

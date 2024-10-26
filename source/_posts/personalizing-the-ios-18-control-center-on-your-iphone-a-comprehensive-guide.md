@@ -1,7 +1,7 @@
 ---
 title: Personalizing the iOS 18 Control Center on Your iPhone - A Comprehensive Guide
-date: 2024-10-14T17:53:26.058Z
-updated: 2024-10-20T19:32:49.058Z
+date: 2024-10-23T16:39:30.315Z
+updated: 2024-10-26T16:19:28.713Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,6 +42,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -58,10 +65,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -69,13 +76,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -134,21 +134,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-next-wave-of-social-media-top-apps-as-periscope-alternates/"><u>[New] The Next Wave of Social Media Top Apps as Periscope Alternates</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-pristine-facebook-videos-on-chromebooks-for-2024/"><u>[New] Unlock Pristine Facebook Videos on Chromebooks for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-fb-advertising-with-a-focus-on-video-content/"><u>[Updated] 2024 Approved Mastering FB Advertising with a Focus on Video Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-pioneering-editing-snapseed-for-the-newcomer/"><u>2024 Approved Pioneering Editing Snapseed for the Newcomer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-saving-web-radio-broadcasts/"><u>2024 Approved The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>2024 Approved Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-an-aesthetic-iphone-photo-mosaic-basics-for-2024/"><u>Building an Aesthetic IPhone Photo Mosaic Basics for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/como-convertir-archivos-ppm-a-imagenes-bmp-sin-costo-utilizando-la-plataforma-movavi/"><u>Cómo Convertir Archivos PPM a Imágenes BMP Sin Costo Utilizando La Plataforma Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://some-tips.techidaily.com/quick-catch-up-effective-methods-for-skipping-edgenuity-courses-for-2024/"><u>Quick Catch-Up Effective Methods for Skipping Edgenuity Courses for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-how-to-ensure-your-discord-captures-in-game-sound/"><u>Resolved: How to Ensure Your Discord Captures In-Game Sound</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/simplified-steps-for-capturing-google-voice-calls-for-2024/"><u>Simplified Steps for Capturing Google Voice Calls for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/trouble-with-apple-iphone-15-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Plus Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity Bypassing Background in Photopea for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-crafting-compelling-documentary-narratives/"><u>[New] In 2024, Crafting Compelling Documentary Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sync-shutter-speed-blur-artistry-in-photoshop/"><u>[New] Sync Shutter Speed Blur Artistry in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[New] Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-civic-challenge-champions-premier-elections-videogames/"><u>[Updated] 2024 Approved Civic Challenge Champions Premier Elections Videogames</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-getting-windows-movie-maker-6-installed-quickly-and-easily-for-2024/"><u>[Updated] Getting Windows Movie Maker 6 Installed Quickly & Easily for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-the-intricacies-of-lgs-top-tier-4k-display/"><u>[Updated] Uncovering the Intricacies of LG's Top-Tier 4K Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-connected-healing-telemedicine-evolved/"><u>2024 Approved Connected Healing Telemedicine Evolved</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-xr-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone XR Activation Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-trustworthiness-of-health-data-from-chatgpt/"><u>Evaluating the Trustworthiness of Health Data From ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elaborate-breakdown-straightforward-dynamic-range/"><u>In 2024, Elaborate Breakdown Straightforward Dynamic Range</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-becoming-an-fcp-specialist/"><u>In 2024, The Ultimate Path to Becoming an FCP Specialist</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transition-techniques-for-flawless-inshot-videos-for-2024/"><u>Transition Techniques for Flawless Inshot Videos for 2024</u></a></li>
 </ul></div>
 

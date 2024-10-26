@@ -1,7 +1,7 @@
 ---
 title: Enhanced Auditory Communication with the Latest tvOS Update for Your Apple Device | ZDNET Insights
-date: 2024-10-19T19:08:17.820Z
-updated: 2024-10-20T17:40:53.769Z
+date: 2024-10-21T16:19:53.560Z
+updated: 2024-10-26T18:02:52.836Z
 tags:
   - apple
 categories:
@@ -42,6 +42,13 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -51,10 +58,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
@@ -64,13 +71,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -96,6 +96,13 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reduce the amount of notifications you get
 
 When a notification comes in, it not only plays a "ding!" to alert you, it also vibrates your Apple Watch and lights up the screen. While your notifications won't drain your battery in excess, if you get enough of them throughout the day, you'll definitely notice a difference in endurance.
@@ -103,13 +110,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -119,18 +119,18 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -173,24 +173,21 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-basics-of-electronic-story-craftsmanship/"><u>[New] The Basics of Electronic Story Craftsmanship</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-pulse-of-the-population-vllo-analysis/"><u>[New] The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-glamour-a-guide-to-video-color-balance/"><u>[New] YouTube Glamour A Guide to Video Color Balance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-cutting-edge-finding-the-top-5-titling-professionals-online/"><u>[Updated] The Cutting Edge Finding the Top 5 Titling Professionals Online</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-transition-effortlessly-top-10-alternatives-to-flvto-for-youtube-for-2024/"><u>[Updated] Transition Effortlessly Top 10 Alternatives to Flvto For YouTube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-easy-metaverse-character-creation/"><u>[Updated] Unlocking the Secrets to Easy Metaverse Character Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-hidden-secrets-for-advanced-win10-users/"><u>[Updated] Unveiling Hidden Secrets for Advanced Win10 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-greatest-anime-opener-tunes/"><u>2024 Approved Ultimate List Greatest Anime Opener Tunes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/guide-to-repairing-aged-usb-composite-device-connectivity-concerns-and-errors/"><u>Guide to Repairing Aged USB Composite Device Connectivity Concerns and Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-magic5-ultimate-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor Magic5 Ultimate? </u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-4g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y56-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y56 5G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tag-and-showcase-a-podcast-episode/"><u>In 2024, Tag and Showcase a Podcast Episode</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tranquil-tracks-easy-volume-diminution-via-garageband/"><u>In 2024, Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/1726029019563-insta/"><u>Insta動画を最高に見せる投稿テクニック</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-up-your-photography-game-with-these-top-8-tablets-for-2024/"><u>Step Up Your Photography Game With These Top 8 Tablets for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/tackling-inaudible-speech-in-obs-captures/"><u>Tackling Inaudible Speech in OBS Captures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-against-common-errors-why-civilization-6-wont-start-on-windows-10/"><u>Winning Against Common Errors: Why Civilization 6 Won't Start on Windows 10?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-your-images-mastering-text-on-pc-and-mac-photos/"><u>[New] In 2024, Elevate Your Images Mastering Text on PC & Mac Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-journey-to-aesthetic-excellence-fusing-images-masterfully/"><u>[New] In 2024, Journey to Aesthetic Excellence Fusing Images Masterfully</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-elevate-your-green-screen-skills-with-this-kinemaster-guide/"><u>[Updated] 2024 Approved Elevate Your Green Screen Skills with This Kinemaster Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-supercharge-your-channel-optimal-release-dates-for-2024/"><u>[Updated] Supercharge Your Channel Optimal Release Dates for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtle-soundplayback/"><u>[Updated] The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-uplifting-films-for-boosting-your-drive/"><u>[Updated] Top 10 Uplifting Films for Boosting Your Drive</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-screen-recording-software-compared-bandicam-vs-camtasia/"><u>[Updated] Top Screen Recording Software Compared Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-storytelling-into-cinematic-art/"><u>[Updated] Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi K70 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-11-environment/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 11 Environment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/secure-and-seamless-file-sharing-with-20-preferred-no-fee-services-for-2024/"><u>Secure & Seamless File Sharing with 20 Preferred No-Fee Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers-for-2024/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-subtitle-editors-transforming-into-srt-format-for-windows-and-macos-for-2024/"><u>Top 8 Subtitle Editors Transforming Into SRT Format for Windows & MacOS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
 </ul></div>
 

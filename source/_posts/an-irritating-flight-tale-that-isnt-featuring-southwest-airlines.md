@@ -1,7 +1,7 @@
 ---
 title: An Irritating Flight Tale That Isn’t Featuring Southwest Airlines
-date: 2024-09-19 16:23:47
-updated: 2024-09-20 12:59:17
+date: 2024-10-22T18:53:59.432Z
+updated: 2024-10-26T17:16:13.837Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,6 +64,19 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -65,9 +91,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +144,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-enhancing-visual-flow-effortless-fade-tricks/"><u>[Updated] Enhancing Visual Flow Effortless Fade Tricks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes-for-2024/"><u>[Updated] Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-peeking-into-instagram-stories-what-viewers-dont-know-for-2024/"><u>[Updated] Peeking Into Instagram Stories What Viewers Don’t Know for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-dynamic-cookiebot-analytics/"><u>Enhanced User Engagement with Dynamic Cookiebot Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-through-advanced-analytics-backed-by-cookiebots-expertise/"><u>Enhanced User Experience Through Advanced Analytics - Backed by Cookiebot's Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-website-analytics-through-the-innovative-use-of-cookiebot-technology/"><u>Enhanced Website Analytics Through the Innovative Use of CookieBot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-rise-of-textual-analytics-abbyy-q3-report-highlights-growing-trends-in-content-intelligence/"><u>Exploring the Rise of Textual Analytics: ABBYY Q3 Report Highlights Growing Trends in Content Intelligence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harnessing-hyperautomation-through-abbyy-unifying-computer-vision-and-large-language-models-with-idp-integration/"><u>Harnessing Hyperautomation Through ABBYY: Unifying Computer Vision and Large Language Models with IDP Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-and-uipath-are-pioneering-automation-insights-from-the-future-of-finance-summit/"><u>How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-rpa-is-dominating-the-thoughts-of-top-executives-insights-from-abbyy/"><u>How RPA Is Dominating the Thoughts of Top Executives: Insights From ABBYY</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pinnacle-software-choices-for-tweeting-vids/"><u>In 2024, Pinnacle Software Choices for Tweeting Vids</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapchats-money-making-opportunities-exposed-for-2024/"><u>Snapchat's Money-Making Opportunities Exposed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-genesis-of-ever-changing-virtual-landscapes/"><u>The Genesis of Ever-Changing Virtual Landscapes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-selection-of-photo-beauty-enhancers-iosandroid/"><u>Ultimate Selection of Photo Beauty Enhancers (iOS/Android)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-are-you-an-apple-user-interested-in-adding-a-slow-mo-to-their-videos-this-article-features-an-exceptional-procedure-for-creating-slow-mo-in-imovie-f/"><u>Updated Are You an Apple User Interested in Adding a Slow-Mo to Their Videos? This Article Features an Exceptional Procedure for Creating Slow-Mo in iMovie for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/video-editor-works-on-m1-chip-for-2024/"><u>Video Editor Works on M1 Chip for 2024</u></a></li>
+</ul></div>
+

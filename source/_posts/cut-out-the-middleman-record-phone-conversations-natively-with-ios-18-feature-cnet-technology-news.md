@@ -1,7 +1,7 @@
 ---
 title: "Cut Out the Middleman: Record Phone Conversations Natively with iOS 18 Feature | CNET Technology News"
-date: 2024-10-13T17:16:53.844Z
-updated: 2024-10-20T20:54:46.911Z
+date: 2024-10-21T18:00:16.798Z
+updated: 2024-10-26T16:20:15.585Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ Smarts aside, much of the beauty in the Level Lock+ lies beneath the surface. Th
 [ZDNET RECOMMENDS Level Lock+ A discrete-looking smart lock that can be unlocked with the tap of a supported iPhone or Apple Watch. View at Level](https://shareasale.com/r.cfm?b=2175388&u=4338022&m=132656&afftrack=techidaily&urllink=https%3A%2F%2Ftwopages.pxf.io%2F21em1d)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What lies within the Level Lock+?
@@ -60,10 +60,10 @@ Level
 The Level Lock+ uses Bluetooth and Wi-Fi to connect to your phone and comes in three finishes: Satin Nickel, Matte Black, and Polished Brass. It also includes two physical keys and key cards, just in case your phone dies. The latter must be set up in the Level Home app and use NFC technology so anyone using a key card can hold it up to the smart lock and wait for it to unlock.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Apple Home Key?
@@ -97,10 +97,10 @@ Don't get me wrong, I've always used my [Yale Assure locks](https://buy.geni.us/
 There are several other smart locks that currently support Home Key: The [Schlage Encode Plus](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09RS1Z1ZN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7b1187b0-c3a4-44a8-a291-1744775bf0bd%7Cdtp&dtb=1), [Yale Assure Lock 2 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRBP2ZM%2FA%2Fyale-assure-lock-2-plus-home-key-lock&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and [Aqara U100](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAqara-Fingerprint-Touchscreen-Electronic-Weatherproof%2Fdp%2FB0BZSD2L1W%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7b1187b0-c3a4-44a8-a291-1744775bf0bd%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Level app or Apple Home?
@@ -124,10 +124,10 @@ The touch-to-unlock and lock feature only works within a set timeframe of engagi
 There's also the option of buying a Level keypad, which is sold separately, to add to your Level Lock.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -166,17 +166,19 @@ The two largest advantages the Level Lock+ has over other smart locks are the Ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-capture-your-skype-sessions-on-mac-and-windows/"><u>[Updated] 2024 Approved How to Capture Your Skype Sessions on Mac and Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images/"><u>[Updated] The Unusual Upward Turning of IG Video Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>2024 Approved The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-gratuita-de-mkv-a-mjpeg-en-linea-por-expertos-descubre-movavi-video-editor/"><u>Conversión Gratuita De MKV a MJPEG en Línea Por Expertos: Descubre Movavi Video Editor</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-budgets-youtube-marketing-investments/"><u>In 2024, Understanding Budgets YouTube Marketing Investments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshots-on-an-hp-desktop-or-laptop/"><u>Mastering the Art of Screenshots on an HP Desktop or Laptop</u></a></li>
-<li><a href="https://driver-download.techidaily.com/newest-generic-bluetooth-adapter-drivers-free-downloads-for-windows-systems/"><u>Newest Generic Bluetooth Adapter Drivers - Free Downloads for Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-process-from-cr2-to-jpg-using-windows-software/"><u>Simplified Process: From CR2 to JPG Using Windows Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-a-diy-guide-to-haul-edits-for-2024/"><u>Unleash Creativity with a DIY Guide to Haul Edits for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-15-free-video-editing-software-for-beginners-easy-to-use-for-2024/"><u>Updated Top 15 Free Video Editing Software for Beginners Easy to Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-sharing-subtitle-files-socially/"><u>[New] The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>[New] Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tweeted-trailblazers-cutting-edge-strategies-to-save-tweets-on-screen-for-2024/"><u>[New] Tweeted Trailblazers Cutting-Edge Strategies to Save Tweets on Screen for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-download-snapchat-ringtones-websites/"><u>[Updated] Top 10 Download Snapchat Ringtones Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selections-premium-webcam-platforms/"><u>[Updated] Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-apple-drops-the-price-on-latest-beats-a-budget-friendly-alternative-to-airpods/"><u>1. Apple Drops the Price on Latest Beats: A Budget-Friendly Alternative to AirPods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726221817868-mpegwmv-movavi/"><u>網路直接免費MPEG到WMV轉化 - 使用 Movavi 影片轉換工具</u></a></li>
+<li><a href="https://win-info.techidaily.com/guide-complet-comment-restaurer-vos-fichiers-supprimes-avec-la-console-de-commande-cmd-en-francais/"><u>Guide Complet : Comment Restaurer Vos Fichiers Supprimés Avec La Console De Commande (CMD) en Français</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-12-mini-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 12 mini Activation Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460972444-no-luck-with-whatsapp-backups-on-icloud-heres-what-you-need-to-know/"><u>No Luck with WhatsApp Backups on iCloud? Here's What You Need to Know!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/unravel-the-mystery-of-tempo-control-in-instagram-stories/"><u>Unravel the Mystery of Tempo Control in Instagram Stories</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>Updated Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
 </ul></div>
 

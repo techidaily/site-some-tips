@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Pandemic Protection: ZDNET's Guide to Optimal Mask Choices and COVID Prevention Strategies for 2N22"
-date: 2024-09-19 16:33:30
-updated: 2024-09-20 12:37:43
+date: 2024-10-22T17:03:15.241Z
+updated: 2024-10-26T17:32:07.036Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +58,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-x-ology-vintage-iphone-xx-photography/"><u>[New] 2024 Approved X-Ology Vintage iPhone Xx Photography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[New] How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-snapdivide-assessment/"><u>[Updated] SnapDivide Assessment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitch-time-jump-recapturing-lost-moments/"><u>[Updated] Twitch Time Jump Recapturing Lost Moments</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-step-into-successful-online-broadcasting-top-youtube-webcam-choices/"><u>2024 Approved Step Into Successful Online Broadcasting Top YouTube Webcam Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-amazon-labor-day-blowout-snag-a-new-ipad-at-the-unbeatable-price-of-199-find-out-more-on-zdnet/"><u>Exclusive Amazon Labor Day Blowout: Snag a New iPad at the Unbeatable Price of $199 – Find Out More on ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-iphones-mirror-images-in-photos/"><u>In 2024, Mastering iPhone's Mirror Images in Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>In 2024, Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktoks-best-practices-for-stellar-edits/"><u>In 2024, TikTok's Best Practices for Stellar Edits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tart-your-video-projects-access-free-stunning-banner-templates-for-2024/"><u>Jumpstart Your Video Projects Access Free, Stunning Banner Templates for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-path-to-stardom-logo-creation-tips-for-podcasters-for-2024/"><u>The Path to Stardom Logo Creation Tips for Podcasters for 2024</u></a></li>
+</ul></div>
+

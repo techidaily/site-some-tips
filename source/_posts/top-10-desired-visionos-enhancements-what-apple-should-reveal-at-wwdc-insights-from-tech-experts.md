@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Desired VisionOS Enhancements: What Apple Should Reveal at WWDC - Insights From Tech Experts"
-date: 2024-10-16T19:53:25.992Z
-updated: 2024-10-20T18:02:28.982Z
+date: 2024-10-23T17:35:32.670Z
+updated: 2024-10-26T16:04:28.241Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ I previously showed [how to connect a trackpad and keyboard to the Vision Pro](h
 I'd like to see Apple introduce full mouse support to the Vision Pro. And, Apple, please don't limit it to the not-so-Magic Mouse or [Magic Mouse 2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Magic-Mouse-Wireless-Rechargeable%2Fdp%2FB08PL57CBR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1). Since Apple is still shipping a less-than-optimal mouse design from 2009, only slightly updated way back in 2015, many users have moved on to better models, like the various [Logitech devices](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HM94VDS%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc38e9c1f-6415-47cc-be35-e1ce57791800%7Cdtp&dtb=1). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Better Bluetooth support for non-Apple devices
@@ -63,6 +63,19 @@ Working in any of the virtual environments (I prefer Mount Hood) is great, but t
 
 I'd like the ability to create a passthrough opening that allows me to see the keyboard and the mouse (and I wouldn't mind one that lets me also see my coffee cup) while in virtual space. Ideally, an AI would be smart enough to recognize my keyboard (even if it's not Apple branded), but a reasonable first step would be merely allowing users to define passthrough zones by hand in the Vision Pro. 
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. Less draconian media restrictions
 
 Apple Vision Pro does not allow any screenshots of entertainment media. Period. Do I want to show you a screenshot of the impressive rhino sanctuary or Parkour immersive videos? Yes. Can I? No. No screenshots, no video. I also can't mirror any video to the Apple TV from the Vision Pro. 
@@ -72,13 +85,6 @@ Apple Vision Pro does not allow any screenshots of entertainment media. Period. 
 That precludes using the Vision Pro's mirror-to-Apple TV feature to help a person trying on the Vision Pro for the first time, because as soon as they drop into an entertainment app, it's no longer possible to see anything they're doing. It also precludes family members from watching Apple TV+ together, one on the Vision Pro and the others on the Apple TV. 
 
 Look, I get the whole piracy thing. But limiting even a single screenshot is overkill. Apple, please fix this. It makes it much harder to help you sell your products. Shutting down the ability to mirror any Apple TV+ content from the Vision Pro to the Apple TV is baffling. I, for example, subscribe to the Apple One Premier plan, which allows us to use Family Sharing to share among up to five people. So why is Apple blocking this capability on the Vision Pro? 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  5\. More native spatial apps
 
@@ -125,10 +131,10 @@ While many reviewers have described the Vision Pro's hand and eye tracking as "m
 This needs to improve, and I hope to see an upgrade in VisionOS 2.0\. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  10\. Find My support
@@ -137,16 +143,16 @@ It's weird, but there's no Find My app for the Apple Vision Pro. You can't even 
 
 Even cooler would be a heads-up display version of Find My that puts an arrow in your field of view as you look for what's missing. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Bonus: Better personas
 
 Wow, those things are creepy. We need to get them out of the uncanny valley. 'Nuff said. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Looking forward to VisionOS 2.0
 
@@ -186,16 +192,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unlocking-cost-effective-clouds-for-the-budget-conscious/"><u>[New] 2024 Approved Unlocking Cost-Effective Clouds for the Budget-Conscious</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-the-power-of-social-media-video-marketing-strategies/"><u>[New] In 2024, Unveiling the Power of Social Media Video Marketing Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-path-to-pristine-zoom-video-settings/"><u>[New] The Path to Pristine Zoom Video Settings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-10-photography-frames/"><u>[New] Top 10 Photography Frames</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pro-gamers-and-casters-to-subscribe-now/"><u>[Updated] 2024 Approved Pro Gamers & Casters to Subscribe Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-total-motion-systems-scrutiny-report/"><u>[Updated] Total Motion Systems Scrutiny Report</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-now-the-speedier-way-to-transfer-dvd-content-to-quicktime-on-your-mac-for-free/"><u>Download Now: The Speedier Way to Transfer DVD Content to QuickTime on Your Mac for Free!</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-silent-mode-glitches-on-windows-word-reading-feature/"><u>Fix Silent Mode Glitches on Windows' Word Reading Feature</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximize-gameplay-efficiency-with-top-monitor-extensions/"><u>In 2024, Maximize Gameplay Efficiency With Top Monitor Extensions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-videos-swiftly-with-these-top-8-iphone-apps/"><u>In 2024, Transform Your Videos Swiftly with These Top 8 iPhone Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/obs-tutorial-capturing-every-moment-of-gameplay/"><u>OBS Tutorial Capturing Every Moment of Gameplay</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-exclusive-insights-elevating-your-mobizen-screencast-game/"><u>[New] 2024 Approved Exclusive Insights Elevating Your Mobizen Screencast Game</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-insiders-look-at-streaming-content-on-social-media-platforms-for-2024/"><u>[New] Insider's Look at Streaming Content on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-decoding-battery-selection-elevate-your-drones-flight/"><u>[Updated] 2024 Approved Decoding Battery Selection Elevate Your Drone's Flight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlining-business-with-azure-speech-services/"><u>2024 Approved Streamlining Business with Azure Speech Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensible-guide-to-shifting-photosvideos-in-ios-world/"><u>Comprehensible Guide to Shifting Photos/Videos in iOS World</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477123916-critical-benefits-await-with-instant-upgrade-to-ios-153-learn-why-now/"><u>Critical Benefits Await with Instant Upgrade to iOS 15.3 – Learn Why Now</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-usb-webcam-drivers-instantly-simple-steps-guide/"><u>Download USB Webcam Drivers Instantly - Simple Steps Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/finding-solution-for-unsaved-display-adjustments/"><u>Finding Solution for Unsaved Display Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-free-screen-recording-in-win11/"><u>In 2024, Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-secrets-of-your-lost-iphone-x/"><u>In 2024, Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-methods-to-record-high-quality-audio-on-windows-for-2024/"><u>Top 5 Methods to Record High-Quality Audio on Windows for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-changing-your-devices-screen-time-password-on-iphone-and-mac/"><u>Ultimate Guide: Changing Your Device's Screen Time Password on iPhone & Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-professional-quality-images-with-pss-3d-lut-techniques-for-2024/"><u>Unlocking Professional Quality Images with PS's 3D LUT Techniques for 2024</u></a></li>
 </ul></div>
 

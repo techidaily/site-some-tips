@@ -1,7 +1,7 @@
 ---
 title: "Evolving Horizons: Navigating From Hybrid to Edge to AI in Cloud Tech - Insights by ZDNet"
-date: 2024-09-19 21:57:28
-updated: 2024-09-20 12:30:30
+date: 2024-10-19T17:33:55.657Z
+updated: 2024-10-26T16:37:51.554Z
 tags:
   - edge-computing
 categories:
@@ -57,6 +57,13 @@ Expect edge devices to be more connected, and to be left unattended more often. 
 
 This is where 5G (and eventually 6G) come into play. 5G handles intermittent connections better, and has the ability to switch frequency and "[beamform](https://www.zdnet.com/article/5g-new-radio-the-technical-background/)" to reach areas traditional cellular connectivity hasn't been able to reach. 5G is also putting far more intelligence into the field, which will substantially reduce latency, allowing edge devices to communicate with "the mother ship" far more quickly and with far greater responsiveness.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The growth of AI in cloud management
 
 Increased reliance on complex cloud environments will increase the management challenges. Here, AI can help in at least four ways:
@@ -71,6 +78,13 @@ Then, of course, there's security. With a [security skills shortage and ever-inc
 Even small companies are now managing a mind-boggling amount of information, both in motion and at rest. We're talking about terabytes, petabytes, and exabytes of both flow and storage. The only way data of that volume, moving at high velocity, can be managed is through software. But with the rapid changes and growth in bad actor sophistication, regular programming and pattern identification protection will simply not keep up.
 
 This is one of those cases where AI isn't just optional or nice to have. AI will become the bulwark required to protect businesses where nothing else can move fast enough.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cloud vendors will have to change, too
 
@@ -170,6 +184,13 @@ This is a modal window. This modal can be closed by pressing the Escape key or a
 
 Share: 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F&title= "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fthe-edge-to-cloud-evolution-is-promising-when-we-overcome-these-challenges%2F "Twitter") 
@@ -184,11 +205,25 @@ Close Modal Dialog
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-ignite-customer-interest-and-increase-revenue-top-15-tools-for-fb-data-analysis/"><u>[New] 2024 Approved Ignite Customer Interest & Increase Revenue Top 15 Tools for FB Data Analysis</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-launching-virtual-meetups-in-whatsapp-web-directly-from-your-notebook/"><u>[New] Launching Virtual Meetups in WhatsApp Web, Directly From Your Notebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-smarter-gameplay-strategic-memory-allocation-to-minecraft/"><u>[New] Smarter Gameplay Strategic Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ringtones-roundup-elite-download-hubs/"><u>[New] Superior Ringtones Roundup Elite Download Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-montages-made-easy-androidios-apps-for-creative-minds/"><u>[New] Top Montages Made Easy Android/iOS Apps for Creative Minds</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-intense-meetings-perfect-your-screen-focus-in-msteams/"><u>[Updated] Intense Meetings Perfect Your Screen Focus in MSTEAMS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[Updated] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-13c-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi 13C FRP Without Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-voice-to-text-applications/"><u>In 2024, Top Tier Voice to Text Applications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/pcmacphone-step-by-step-guide-to-movie-capture-for-2024/"><u>PC/Mac/Phone Step-by-Step Guide to Movie Capture for 2024</u></a></li>
+</ul></div>
+

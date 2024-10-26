@@ -1,7 +1,7 @@
 ---
 title: "Elite Computing Battle Royale: Comparing the Merits of Samsung's Galaxy Book Vs. Apple MacBook Pro | Detailed Review at ZDNET"
-date: 2024-10-15T16:21:47.942Z
-updated: 2024-10-20T21:45:19.400Z
+date: 2024-10-22T18:22:06.836Z
+updated: 2024-10-26T19:26:03.122Z
 tags:
   - apple
 categories:
@@ -75,13 +75,6 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
@@ -89,15 +82,22 @@ The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook 
 Apple
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### See also
 
@@ -115,16 +115,10 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're a content creator looking for a mobile desktop replacement
@@ -140,10 +134,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -199,18 +193,22 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones/"><u>[New] 2024 Approved Digital Footprint How to Share Your Short Videos on Computers & Phones</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullscreen-partnership-how-to-choose-an-mcn/"><u>[New] In 2024, Fullscreen Partnership How to Choose An MCN</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-green-screen-glossary-for-novice-visual-effect-enthusiasts-for-2024/"><u>[Updated] Green Screen Glossary for Novice Visual Effect Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-premium-accelerated-photo-browser-for-windows/"><u>[Updated] Premium Accelerated Photo Browser for Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-engaging-elite-videography-talent/"><u>[Updated] Strategies for Engaging Elite Videography Talent</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-gaming-consoles-vocals-today/"><u>[Updated] Transform Your Gaming Consoles' Vocals Today</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-organizing-your-skype-conversations-windowsmac-edition/"><u>2024 Approved Organizing Your Skype Conversations Windows/Mac Edition</u></a></li>
-<li><a href="https://win-updates.techidaily.com/die-umfassende-anleitung-zu-robocpy-in-windows-11-einsatzstrategien-and-fuhrende-ersatzmethoden/"><u>Die Umfassende Anleitung Zu Robocpy in Windows 11: Einsatzstrategien & Führende Ersatzmethoden</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-8-trusted-online-content-marketing-tools-for-2024/"><u>Discover 8 Trusted Online Content Marketing Tools for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>In 2024, The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/quick-and-effortless-steps-to-sync-your-iphone-songs-with-itunes/"><u>Quick & Effortless Steps to Sync Your iPhone Songs with iTunes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsungs-next-innovation-expected-cost-of-galaxy-z-fold-7-plus-specs-reveal-and-rumored-launch-date/"><u>Samsung's Next Innovation: Expected Cost of Galaxy Z Fold 7 + Specs Reveal and Rumored Launch Date</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-essential-youtube-end-screen-templates-for-content-makers-for-2024/"><u>[New] Essential YouTube End Screen Templates for Content Makers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>[New] The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-skyrocketing-numbers-enhancing-youtube-presence-for-2024/"><u>[Updated] Skyrocketing Numbers Enhancing YouTube Presence for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-syncopated-screecher-symphony/"><u>[Updated] Syncopated Screecher Symphony</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-symphony-of-selection-trailer-music-mastery/"><u>[Updated] The Symphony of Selection Trailer Music Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>[Updated] The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/brother-mfc-9130cw-secure-and-easy-printer-software-download/"><u>Brother MFC-9130CW - Secure and Easy Printer Software Download</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-ps5-dualsense-battery-enhancers/"><u>Excellent PS5 DualSense Battery Enhancers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/fresh-film-views-ranked-alternatives-1-7/"><u>Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-an-elaborate-review-unveiling-lgs-ultrafine-4k-wonders/"><u>In 2024, An Elaborate Review Unveiling LG's UltraFine 4K Wonders</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p40plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P40+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-mastering-digital-media-xmlttml-conversion-guide-for-srt/"><u>In 2024, Mastering Digital Media XML/TTML Conversion Guide for SRT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-windows-photos-experience-with-added-filtersmusic/"><u>In 2024, Streamlining Windows Photos Experience with Added Filters/Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-best-action-cameras-for-hunting/"><u>In 2024, Top 5 Best Action Cameras for Hunting</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-sound-to-pixels-online-for-2024/"><u>Synchronizing Sound to Pixels Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-file-conversion-your-quick-srt-to-text-txt-guide-for-2024/"><u>Transformative File Conversion Your Quick SRT to Text (TXT) Guide for 2024</u></a></li>
 </ul></div>
 

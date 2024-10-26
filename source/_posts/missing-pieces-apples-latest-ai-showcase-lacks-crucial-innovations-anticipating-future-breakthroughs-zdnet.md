@@ -1,7 +1,7 @@
 ---
 title: "Missing Pieces: Apple’s Latest AI Showcase Lacks Crucial Innovations, Anticipating Future Breakthroughs | ZDNet"
-date: 2024-09-17 18:56:15
-updated: 2024-09-20 11:51:19
+date: 2024-10-24T18:44:59.167Z
+updated: 2024-10-26T17:24:00.361Z
 tags:
   - edge-computing
 categories:
@@ -88,11 +88,40 @@ It seems likely Apple will get to both on-device training and applying Gen AI to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-efficiently-design-your-google-image-mosaic-today/"><u>[New] In 2024, Efficiently Design Your Google Image Mosaic Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-tricks-turn-your-images-upside-down-sideways/"><u>[New] IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-online-offer-enjoy-a-gallery-of-50-youtube-banners-now-for-2024/"><u>[Updated] Free Online Offer Enjoy a Gallery of 50 YouTube Banners Now for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-saving-the-ephemeral-a-guide-to-online-audio-recording-for-2024/"><u>[Updated] Saving the Ephemeral A Guide to Online Audio Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategies-to-rectify-non-displayed-thumbnails-on-shorts-videos/"><u>[Updated] Strategies to Rectify Non-Displayed Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>2024 Approved The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-free-screen-recording-in-win11/"><u>2024 Approved Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harness-the-power-of-storyremix-elevate-video-quality-for-windows-11-users-for-2024/"><u>Harness the Power of StoryRemix Elevate Video Quality for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-finest-places-to-source-high-quality-vectors/"><u>In 2024, The Finest Places to Source High-Quality Vectors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>In 2024, Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-correcting-scanning-issues/"><u>Solutions for Correcting Scanning Issues</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-10-no-cost-gaming-recording-apps-for-gamers-for-2024/"><u>Top 10 No-Cost Gaming Recording Apps for Gamers for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-educational-discount-get-150-apple-gift-card-when-buying-school-grade-macipad-zdnet-insights/"><u>Unlock Educational Discount: Get $150 Apple Gift Card When Buying School-Grade Mac/iPad | ZDNet Insights</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

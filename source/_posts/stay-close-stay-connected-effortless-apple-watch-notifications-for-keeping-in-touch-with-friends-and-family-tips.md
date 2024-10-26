@@ -1,7 +1,7 @@
 ---
 title: "Stay Close, Stay Connected: Effortless Apple Watch Notifications for Keeping in Touch with Friends and Family Tips"
-date: 2024-10-14T23:12:21.552Z
-updated: 2024-10-20T17:06:27.841Z
+date: 2024-10-21T17:22:15.212Z
+updated: 2024-10-26T16:49:38.487Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -53,6 +53,13 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -69,18 +76,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -98,6 +105,13 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -106,25 +120,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -162,18 +162,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-streamline-your-screens-youtube-video-resizing-tricks/"><u>[New] Streamline Your Screens YouTube Video Resizing Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-handbook-to-drone-video-editing/"><u>[New] The Ultimate Handbook to Drone Video Editing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-network-transmission-power-with-vlc/"><u>[New] Unlocking Network Transmission Power with VLC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essentials-of-sharing-music-compilations-online/"><u>[Updated] In 2024, The Essentials of Sharing Music Compilations Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-complete-azure-guide-to-speech-to-text-integration/"><u>[Updated] The Complete Azure Guide to Speech-to-Text Integration</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Xiaomi Redmi K70</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-v30t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme V30T Fingerprint Lock</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortlessly-decrease-video-file-size-with-these-5-vlc-tricks-an-in-depth-tutorial/"><u>Effortlessly Decrease Video File Size with These 5 VLC Tricks - An In-Depth Tutorial</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-logitech-c920-software-for-windows-11-free-download-and-installation-steps/"><u>Get the Latest Logitech C920 Software for Windows 11 - Free Download & Installation Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>In 2024, Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-how-to-skip-windows-11-lock/"><u>Mastering the Art: How to Skip Windows 11 Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-silent-system-restoring-audio-post-windows-10-upgrade/"><u>Solved: Silent System - Restoring Audio Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagrams-filter-arsenal-for-revamping-your-archive/"><u>[Updated] In 2024, Instagram's Filter Arsenal for Revamping Your Archive</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers-for-2024/"><u>[Updated] The Ultimate Guide to Instagram's Gold Standard Six Tactics to Attract More Followers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-your-tiktok-profile-altering-account-numbers/"><u>[Updated] Transforming Your TikTok Profile Altering Account Numbers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-easy-alteration-rotate-film-frames-with-vlc/"><u>2024 Approved Easy Alteration Rotate Film Frames with VLC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-smoothly-the-technology-enhancers-handbook/"><u>2024 Approved Transitioning Smoothly The Technology Enhancer's Handbook</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-the-world-with-these-leading-4k-cams-for-2024/"><u>Capture the World with These Leading 4K Cams for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-explore-and-compare-apps-via-az-recorder/"><u>In 2024, Explore & Compare Apps via AZ Recorder</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-rotate-videos-for-free-top-10-video-flip-and-rotate-tools-for-2024/"><u>New Rotate Videos for Free Top 10 Video Flip and Rotate Tools for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast-for-2024/"><u>The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-80s-effects-compendium-for-professional-editors-for-2024/"><u>Top 80S Effects Compendium for Professional Editors for 2024</u></a></li>
 </ul></div>
 

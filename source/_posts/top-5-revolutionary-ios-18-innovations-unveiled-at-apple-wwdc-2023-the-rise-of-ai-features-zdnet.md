@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Revolutionary iOS 18 Innovations Unveiled at Apple WWDC 2023: The Rise of AI Features | ZDNet"
-date: 2024-10-13T16:18:59.260Z
-updated: 2024-10-20T17:36:57.777Z
+date: 2024-10-21T18:08:59.767Z
+updated: 2024-10-26T18:30:05.270Z
 tags:
   - apple
 categories:
@@ -38,16 +38,16 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -58,19 +58,6 @@ WatchOS 11 will help those who are pregnant log their physical and mental health
 The feature plays into the Apple Watch's cycle-tracking experience, so everything remains cohesive and easy to find.
 
 Apple
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
@@ -87,6 +74,13 @@ Apple
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -107,15 +101,22 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -124,13 +125,6 @@ Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhi
 ## 11\. Tickets in your Wallet get an upgrade
 
 If you often use your digital wallet on your Apple Watch, you'll be intrigued by the improved ticketing experience. In WatchOS 11, Apple is adding more information on the event you're going to see, such as when the venue opens, what time it starts, and more. Plus, once you've loaded a ticket into your wallet and that special day approaches, you'll find seating information and other notable tidbits in a widget in your Smart Stack automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When does WatchOS 11 come out?
 
@@ -166,22 +160,24 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[New] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-future-of-social-media-sharing-twitter-videos-on-fb-for-2024/"><u>[New] The Future of Social Media Sharing Twitter Videos on FB for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-demystifying-the-use-of-luts-in-professional-photoshop-workflows/"><u>[Updated] Demystifying the Use of LUTs in Professional Photoshop Workflows</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-discover-the-artistry-of-asuss-4k-monitor-review-for-2024/"><u>[Updated] Discover the Artistry of Asus's 4K Monitor Review for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-thorough-investigation-dji-inspire-1-reviewed/"><u>[Updated] Thorough Investigation DJI Inspire 1 Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-your-youtube-potential-through-brand-partnerships/"><u>[Updated] Unlocking Your YouTube Potential Through Brand Partnerships</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a38-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A38</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-education-with-instructional-videos/"><u>2024 Approved Transforming Education with Instructional Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>2024 Approved Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-2024-mac/"><u>最新DVDコピーソフトが完全無料! 2024 Mac対応モデルを特集 - おすすめの人気ソフトで満載!</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-we-witnessing-the-onset-of-gpu-expensive-era/"><u>Are We Witnessing the Onset of GPU Expensive Era?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-photo-enhancing-apps-for-smartphones-with-overlays-top-10-for-2024/"><u>Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10) for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m34-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M34 Phones with/without a PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-terracore-pros-fusion-of-touch-and-high-definition/"><u>In 2024, TerraCore Pros Fusion of Touch & High Definition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-impressive-hdr-portraits-explained/"><u>In 2024, The Art of Impressive HDR Portraits Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-untangling-veiled-feedback-mechanisms-in-video-sites/"><u>In 2024, Untangling Veiled Feedback Mechanisms in Video Sites</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-next-leader-in-content-creation-notion-ai-or-chatgpt/"><u>The Next Leader in Content Creation: Notion AI or ChatGPT</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-essential-video-marketing-strategies-top-8-verified-services-for-2024/"><u>[Updated] Essential Video Marketing Strategies Top 8 Verified Services for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-traffic-with-these-essential-hashtags-for-youtube-gamers/"><u>[Updated] In 2024, Boost Traffic with These Essential Hashtags for YouTube Gamers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-silence-social-advertisements-for-a-smoother-stream-for-2024/"><u>[Updated] Silence Social Advertisements for a Smoother Stream for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-sharpen-images-with-windows-11-pro/"><u>[Updated] Swiftly Sharpen Images with Windows 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-video-editors-for-macos-sierra/"><u>[Updated] Top 5 Video Editors for macOS Sierra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>2024 Approved The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>2024 Approved The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-review-for-easy-hdr/"><u>Detailed Review for Easy HDR</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-why-the-affordable-apple-watch-se-deserves-your-attention-review-highlights-and-insights/"><u>Discover Why the Affordable Apple Watch SE Deserves Your Attention: Review Highlights and Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-unresponsiveness-in-your-mobile-pubg-gameplay/"><u>How to Address Unresponsiveness in Your Mobile PUBG Gameplay</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>In 2024, Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-prime-video-text-barriers-on-windows-11/"><u>Overcoming Prime Video Text Barriers on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-level-insights-enhancing-your-interview-recordings-on-ios-devices-for-2024/"><u>Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v15-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.5 File using PDF Repair Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-rise-of-autofocus-aided-hdr-photography-for-2024/"><u>The Rise of Autofocus Aided HDR Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-home-filmmaking-tricks-the-quick-and-easy-guide-for-2024/"><u>Top Home Filmmaking Tricks The Quick and Easy Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-storytelling-potential-for-2024/"><u>Unlock Your Storytelling Potential for 2024</u></a></li>
 </ul></div>
 

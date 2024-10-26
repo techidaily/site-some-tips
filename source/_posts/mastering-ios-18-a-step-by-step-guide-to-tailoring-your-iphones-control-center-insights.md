@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Tailoring Your iPhone's Control Center - Insights"
-date: 2024-10-15T18:18:59.297Z
-updated: 2024-10-20T18:25:29.910Z
+date: 2024-10-19T17:21:07.563Z
+updated: 2024-10-26T17:15:46.288Z
 tags:
   - apple
 categories:
@@ -30,18 +30,18 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,18 +51,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -71,10 +71,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,18 +85,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -134,17 +134,15 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-skyrocketing-fame-here-are-the-top-30-creative-tiktok-usernames/"><u>[New] 2024 Approved Skyrocketing Fame? Here Are the Top 30 Creative TikTok Usernames</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/s-it-legal-to-record-youtube-for-2024/"><u>[New] Is It Legal to Record YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-lunapic-enhancement-playbook/"><u>[Updated] 2024 Approved The Ultimate LunaPic Enhancement Playbook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instas-funniest-and-touchiest-memetic-hub-a-list-of-10/"><u>[Updated] Insta's Funniest & Touchiest Memetic Hub A List of 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-replaying-twitch-live-streams/"><u>2024 Approved The Art of Replaying Twitch Live Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>2024 Approved The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/5-best-hd-hunting-recorders-reviewed/"><u>5 Best HD Hunting Recorders Reviewed</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/1728502071514-hdd/"><u>故障前のHDD警告と効果的なバックアップ手順を知る</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-practices-for-youtube-to-mpeg-format-switching/"><u>In 2024, Best Practices for YouTube to MPEG Format Switching</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>In 2024, Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tactics-for-flawless-solo-streaming-experiences/"><u>In 2024, Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-use-zoom-for-win11-pc/"><u>[New] 2024 Approved How to Use Zoom for Win11 PC</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-leading-list-the-10-cost-effective-mobile-video-conferencing/"><u>[New] In 2024, Leading List The 10 Cost-Effective Mobile Video Conferencing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-pp-playbook-for-silent-scene-transitions/"><u>[New] The Ultimate PP Playbook for Silent Scene Transitions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ipad-timelapse-essentials-for-beginners/"><u>[Updated] 2024 Approved IPad Timelapse Essentials for Beginners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-strategies-for-effective-360-video-broadcasts-on-fb/"><u>[Updated] 2024 Approved Strategies for Effective 360 Video Broadcasts on FB</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>[Updated] Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effective-steps-to-dismiss-videos-in-youtube-watchlater/"><u>2024 Approved Effective Steps to Dismiss Videos in YouTube Watchlater</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-online-learning-downloading-youtube-srt-subtitles-using-3-simple-methods/"><u>In 2024, Streamline Your Online Learning Downloading YouTube SRT Subtitles Using 3 Simple Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-spots-for-boosting-youtube-videos/"><u>In 2024, Top-Ranked Spots for Boosting YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-role-of-crossfade-in-modern-music-mixing-for-2024/"><u>The Role of Crossfade in Modern Music Mixing for 2024</u></a></li>
 </ul></div>
 

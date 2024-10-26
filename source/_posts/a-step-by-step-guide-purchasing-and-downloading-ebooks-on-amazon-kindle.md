@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Purchasing and Downloading eBooks on Amazon Kindle"
-date: 2024-09-18 23:42:15
-updated: 2024-09-20 10:22:48
+date: 2024-10-25T18:58:49.595Z
+updated: 2024-10-26T17:21:03.541Z
 tags:
   - e-commerce
 categories:
@@ -45,17 +45,44 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -68,6 +95,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-sky-sprints-guide-to-excellence-plus-ultimate-fpv-drones-for-speed/"><u>[New] 2024 Approved Sky Sprints Guide to Excellence + Ultimate FPV Drones for Speed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-macos-blueprint-to-stellar-ootd-videos/"><u>[New] 2024 Approved The MacOS Blueprint to Stellar OOTD Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-platforms-secure-and-reliable-video-services-for-smes/"><u>[Updated] 2024 Approved Essential Platforms Secure & Reliable Video Services for SMEs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/199-on-a-premium-dell-quad-hd-ips-monitor-buy-today/"><u>$199 on a Premium Dell Quad HD IPS Monitor - Buy Today!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-transformative-srt-editing-techniques-for-apple-devices/"><u>2024 Approved Transformative SRT Editing Techniques for Apple Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-note-12-pro-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Redmi Note 12 Pro 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-v29-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo V29 Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-scrutinizing-the-legalities-of-youtube-versus-creative-commons/"><u>In 2024, Scrutinizing the Legalities of Youtube Versus Creative Commons</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-yourself-safe-while-exploring-fb-marketplace-deals/"><u>Keep Yourself Safe While Exploring FB Marketplace Deals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-reasons-behind-my-choice-avoiding-iphone-and-ipad-applications-on-my-mac/"><u>The Reasons Behind My Choice: Avoiding iPhone and iPad Applications on My Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-8-essential-steps-for-optimizing-your-new-windows-pc/"><u>Top 8 Essential Steps for Optimizing Your New Windows PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+</ul></div>
+

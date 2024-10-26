@@ -1,7 +1,7 @@
 ---
 title: "Epic Encounter in the World of High-End Laptops: Comparing Samsung's Latest and Apple's Best | GadgetGuru"
-date: 2024-10-18T18:42:48.831Z
-updated: 2024-10-20T18:03:54.775Z
+date: 2024-10-25T17:34:37.899Z
+updated: 2024-10-26T17:42:45.352Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -59,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -82,10 +89,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,19 +102,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -126,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -172,24 +166,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-direct-link-between-twitter-and-tumblr-videos/"><u>[New] In 2024, Direct Link Between Twitter and Tumblr Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>[New] The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-time-lapse-wizardry-harnessing-gopros-potential/"><u>[New] Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-velvet-vaults-2022-olympic-skaters/"><u>[New] Velvet Vaults 2022 Olympic Skaters</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>[Updated] In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uncovering-non-google-ar-accessories-and-tools/"><u>[Updated] Uncovering Non-Google AR Accessories and Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-memory-management-via-mematic/"><u>2024 Approved Streamline Memory Management via Mematic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-macos-tutorials-for-editing-srt-files/"><u>2024 Approved Tailored macOS Tutorials for Editing SRT Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>2024 Approved Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tune-tracker-and-manager-android-companion/"><u>2024 Approved Top Tune Tracker & Manager, Android Companion</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-ultimate-soundscape-creators-for-immersive-video-streaming/"><u>2024 Approved Ultimate Soundscape Creators for Immersive Video Streaming</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhance-video-quality-no-jitter/"><u>Enhance Video Quality: No Jitter</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-how-to-improve-resilience-against-photos-app-issues-in-windows-11/"><u>In 2024, How to Improve Resilience Against Photos App Issues in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-the-samsung-galaxy-a71-5g-your-best-bet-comparing-flagship-features-with-this-value-powerhouse/"><u>Is the Samsung Galaxy A71 5G Your Best Bet? Comparing Flagship Features with This Value Powerhouse</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-gpt-designing-unique-chatgpt-experiences/"><u>Mastering GPT: Designing Unique ChatGPT Experiences</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/snapseed-studio-reviewing-affordable-editors-for-2024/"><u>Snapseed Studio Reviewing Affordable Editors for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-10-solutions-for-troubleshooting-your-wi-fi-adapter-or-ap-issues/"><u>Top 10 Solutions for Troubleshooting Your Wi-Fi Adapter or AP Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-periscopes-mystique-is-it-free-and-how-to-signup-in-2024/"><u>Unraveling Periscope's Mystique Is It Free and How to Signup, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-professional-broadcasts-at-home-integrating-dslr-and-facebook-live/"><u>[New] In 2024, Professional Broadcasts at Home Integrating DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-seamless-replay-on-iphone-a-how-to-guide-for-2024/"><u>[Updated] Seamless Replay on iPhone A How-To Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-ingenuity-how-to-develop-captivating-facebook-slideshows-for-2024/"><u>[Updated] Social Media Ingenuity How to Develop Captivating Facebook SlideShows for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discovering-the-peak-of-mobile-photo-collages-for-tech-users/"><u>2024 Approved Discovering the Peak of Mobile Photo Collages for Tech Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-video-transcoding-tools-for-ubuntu-users-top-8-picks/"><u>Best Video Transcoding Tools for Ubuntu Users: Top 8 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-avi-files-to-m4a-format-for-free-with-movavis-online-software/"><u>Convert AVI Files to M4A Format for Free with Movavi's Online Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuissimo-convertidor-ogg-e-ape-em-linha-pelo-movavi/"><u>Gratuíssimo Convertidor OGG E APE Em Linha Pelo Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lava-agni-2-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Lava Agni 2 5G Lock Screen Password?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-ps3-classics-on-your-pc-with-top-tools/"><u>In 2024, Mastering PS3 Classics on Your PC with Top Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>In 2024, Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/virtueel-verwerpen-van-arw-naar-png-gratuite-online-convertitie-processen-met-movavi/"><u>Virtueel Verwerpen Van ARW Naar PNG: Gratuite Online-Convertitie-Processen Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vob-mjpeg-online-movavi/"><u>VOB를 무료로 MJPEG로 바꾸는 Online 도구 - Movavi</u></a></li>
 </ul></div>
 

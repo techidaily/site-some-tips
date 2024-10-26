@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: Exploring the Impact of Edge Computing and 5G on Modern Medicine | Forbes Technology Council"
-date: 2024-09-19 15:50:55
-updated: 2024-09-20 11:18:43
+date: 2024-10-24T18:33:46.567Z
+updated: 2024-10-26T18:04:18.081Z
 tags:
   - edge-computing
 categories:
@@ -33,6 +33,13 @@ AT&T
 
 Faster data processing closer to the source is important, especially in situations where a patient needs urgent medical attention. Here are ways that edge computing and 5G can help medical staff and patients in the realm of health care as they impact telemedicine, in-patient and out-patient monitoring, and emergency care. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Telemedicine and out-patient monitoring 
 
 Since the pandemic, telemedicine has become an even more convenient option than ever for those who are unable to make it to their doctor's appointments in person. The option to schedule a video visit also offers more flexibility for patients if they are far from a hospital. Now, edge computing could help patients who stay home for their appointments by allowing for faster transmission of data, such as medical records, for better results. 
@@ -52,6 +59,13 @@ In addition, business advisory firm [PwC's Next in Health 2023](https://www.pwc.
 **Also:** [**The future of cloud computing, from hybrid to edge to AI-powered**](https://www.zdnet.com/article/the-future-of-cloud-computing-from-hybrid-to-edge-to-ai-powered/)
 
 Similarly, Fabre said that patients with diabetes or cardiac issues could use wearables at home to track their health so they know when they are at risk or need assistance. This way, if further treatment is necessary, doctors can be prepared to take immediate action while patients will be notified of the status of their health without a doctor being physically present with them. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Emergency care
 
@@ -77,6 +91,13 @@ When timing is essential in emergencies and processing data does not always happ
 
 This way, doctors, nurses, and paramedics don't have to wait to provide patients with the best care because of delays in the system. AT&T also reported that distributing data also lets organizations decide where the data is processed and kept, creating more efficiency among the medical staff. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. In-patient monitoring
 
 Fabre poses the possibility of 5G enabling a "'digital window' into patients rooms" through computer vision technology and smart cameras. This could allow nurses to prioritize patients who need more immediate care while also keeping track of patients' wellness from afar. 
@@ -88,6 +109,13 @@ According to Fritz, virtual nursing care could also serve as a benefit from edge
 Fritz also emphasizes the power that cameras have with cameralytic technology by implementing features such as fall detection that could also help monitor the well-being of individuals when nurses aren't physically present. 
 
 In addition, robots also provide support in hospitals. Powered by edge computing, they can assist doctors and nurses around the clock. For instance, AT&T reports that these robots could clean patient rooms and transport supplies to various rooms that need equipment or medicine. In turn, doctors and nurses could focus on patient care. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Cybersecurity concerns with 5G and edge: What's being done
 
@@ -136,11 +164,27 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-journey-begins-on-yt-ideas-take-flight-for-2024/"><u>[New] Green Screen Journey Begins on YT, Ideas Take Flight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-streamers-guide-to-selecting-a-peak-provider/"><u>[New] The Ultimate Streamer's Guide to Selecting a Peak Provider</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlock-kinemasters-secrets-to-smooth-transitions/"><u>[New] Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upholders-of-popularity-the-10-most-loved-reddit-stories/"><u>[New] Upholders of Popularity The 10 Most Loved Reddit Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-art-of-fiction-creation/"><u>[Updated] Understanding the Art of Fiction Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-echoing-elegance-find-pristine-ringtone-archives-online/"><u>2024 Approved Echoing Elegance Find Pristine Ringtone Archives Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-huawei-nova-y91-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Huawei Nova Y91 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-networking-how-chatgpt-boosts-your-chance-for-linkedin-employment/"><u>Enhancing Networking: How ChatGPT Boosts Your Chance for LinkedIn Employment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-windows-10s-full-potential-with-zoom-services/"><u>In 2024, Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-tutorial-for-retrieving-deleted-data-from-your-samsung-smartphone-via-galaxy-data-recovery-software/"><u>Step-by-Step Tutorial for Retrieving Deleted Data From Your Samsung Smartphone via Galaxy Data Recovery Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-extracting-youtube-written-captions-a-threefold-approach-for-success-for-2024/"><u>The Art of Extracting YouTube' Written Captions A Threefold Approach for Success for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-f5-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco F5 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-edits-bottom-line-pro-guide-to-tiktok-creativity-for-2024/"><u>Top Edits, Bottom Line Pro Guide to TikTok Creativity for 2024</u></a></li>
+</ul></div>
+

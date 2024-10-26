@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing AI Efficiency: MIT Introduces Sub-Photon Level Optical Techniques for Scalable Deep Learning at the Edge"
-date: 2024-09-18 22:54:28
-updated: 2024-09-20 11:39:16
+date: 2024-10-25T18:43:23.570Z
+updated: 2024-10-26T17:42:10.741Z
 tags:
   - edge-computing
 categories:
@@ -72,6 +72,13 @@ The authors go even further. Anticipating deployment in satellites and other exo
 
 But the authors go even further. They were able to go all the way to a theoretical limit of Netcast where each Mac requires less than a single photon to be detected. Using what are called superconducting nanowire single-photon detectors (SNSPDs), they construct a receiver that can measure the results of each MAC with less than a photon of information. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Space
 
 * [What is Artemis? Everything you need to know about NASA's new moon mission](https://www.zdnet.com/article/what-is-artemis-everything-you-need-to-know-about-nasas-moon-mission/)
@@ -110,11 +117,31 @@ In concluding, they wrote, "Our approach removes a fundamental bottleneck in edg
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques/"><u>[New] Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-inshots-ecosystem-a-detailed-editor-app-study/"><u>[Updated] InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>[Updated] The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-nba-live-stream-techniques/"><u>[Updated] Top 15 NBA LIVE STREAM Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-facetune-guide-elevating-your-image-quality/"><u>[Updated] Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>2024 Approved Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/constructing-home-made-vr-headgear-with-google-cards/"><u>Constructing Home-Made VR Headgear with Google Cards</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor-for-2024/"><u>Cutting Edge or Outdated? Full Review & Guide to Vita's Editor for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-docm-file-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docm file by digital signature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-to-elevate-your-podcast-imagery/"><u>In 2024, Strategic Steps to Elevate Your Podcast Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-modern-techniques-for-gesture-interpretation/"><u>In 2024, Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-amd-ryzen-5-2600-quick-and-easy-method/"><u>Instant Access: AMD Ryzen 지팬 5 2600의 드라이버를 저장하세요 | Quick & Easy Method</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-unveiling-key-features-a-deep-dive-into-twistedwave-audio-processor/"><u>New Unveiling Key Features A Deep Dive Into TwistedWave Audio Processor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/superior-web-destinations-alarm-ringtone-downloads-guide/"><u>Superior Web Destinations Alarm Ringtone Downloads Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-next-level-of-immersion-top-10-vr-gear-for-2024/"><u>The Next Level of Immersion (Top 10 VR Gear) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-15-open-world-games-to-beat-the-climb/"><u>Top 15 Open World Games to Beat the Climb</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Favorite Phones Spotlighted: The Top Handsets Chosen Tech Experts"
-date: 2024-10-18T18:05:00.625Z
-updated: 2024-10-20T18:47:00.875Z
+date: 2024-10-23T18:09:36.544Z
+updated: 2024-10-26T16:59:44.000Z
 tags:
   - apple
 categories:
@@ -47,16 +47,10 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Trade-in deals and carrier offers
@@ -93,16 +87,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 15 Pro Max to a 16 Pro Max because I am on the iPhone Upgrade Program, and as I cover developments with Apple, it is a business expense and \[ultimately\] it's trading one loan payment for another. No other reason, although the camera improvements seem nice. I debated skipping, but there wasn't much of a downside," he says. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here's why ZDNET editors won't be upgrading to the iPhone 16
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
 
@@ -123,16 +117,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -142,10 +130,10 @@ Sometimes it's the most obvious factors that influence our choices. The expense 
 ZDNET's Adrian Kingsley-Hughes is still on the fence, but we agree on one thing. "It's a ton of money," he says.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to preorder the iPhone 16
@@ -188,22 +176,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-best-photo-and-video-display-apps-for-iphone-series-78-for-2024/"><u>[New] Best Photo & Video Display Apps for iPhone Series 7/8 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-screenshot-expert-evaluator/"><u>[New] In 2024, ScreenShot Expert Evaluator</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-shut-down-instagram-suggestions/"><u>[New] In 2024, Shut Down Instagram Suggestions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-eye-opening-journey-with-q500/"><u>[New] The Eye-Opening Journey with Q500</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-stabilizer-unmatched-smartphone-tracking/"><u>[New] The Ultimate Stabilizer Unmatched Smartphone Tracking</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-10-game-bar-alternative-recorders/"><u>[New] Top 10 Game Bar Alternative Recorders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-syncing-social-media-zoom-and-facebook-live-interactions/"><u>[Updated] Syncing Social Media Zoom and Facebook Live Interactions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-technicalities-of-podcast-rss-file-design/"><u>[Updated] The Technicalities of Podcast RSS File Design</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-seamless-scenes-integrating-fade-inout-effects/"><u>2024 Approved Seamless Scenes Integrating Fade In/Out Effects</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-controlling-safaris-pip-feature/"><u>2024 Approved Understanding and Controlling Safari's PIP Feature</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-polaroid-revelation-elevating-live-action-video-recording-for-2024/"><u>A Polaroid Revelation Elevating Live-Action Video Recording for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-premier-essentials-seamless-audio-switching/"><u>In 2024, Premier Essentials Seamless Audio Switching</u></a></li>
-<li><a href="https://solve-help.techidaily.com/restoring-performance-wizardry-on-your-hp-stream-11-a-comprehensive-guide-to-mastering-recovery-procedures/"><u>Restoring Performance Wizardry on Your HP Stream 11 - A Comprehensive Guide to Mastering Recovery Procedures</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/spark-conversation-with-personalized-instagram-story-queries-for-2024/"><u>Spark Conversation with Personalized Instagram Story Queries for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-premier-selection-of-vr-cycling-options-for-2024/"><u>The Premier Selection of VR Cycling Options for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tiktok-mastery-the-art-of-editing-your-number-for-2024/"><u>TikTok Mastery The Art of Editing Your Number for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-your-potential-in-writing-and-creativity-using-chatgpt-techniques/"><u>Unleashing Your Potential in Writing & Creativity Using ChatGPT Techniques</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-fine-tuning-frames-a-comprehensible-approach-to-iphone-editing/"><u>[New] In 2024, Fine-Tuning Frames A Comprehensible Approach to iPhone Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-humor-image-creator/"><u>[New] Ultimate Humor Image Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-using-srt-audio-on-windows-and-macos-devices/"><u>[New] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-device-independent-intro-editing-excellence-for-2024/"><u>[Updated] Device-Independent Intro Editing Excellence for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-mastering-ringtones-on-ios-a-comprehensible-process/"><u>[Updated] In 2024, Mastering Ringtones on iOS A Comprehensible Process</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>[Updated] Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-best-idevice-custom-alerts/"><u>[Updated] Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-learning-photography-on-the-go-the-lunapic-approach/"><u>2024 Approved Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/easy-to-operate-and-effective-expert-review-on-the-tp-link-re305-for-ac1200-networks/"><u>Easy to Operate and Effective: Expert Review on the TP-Link RE305 for AC1200 Networks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-nord-n30-se-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Nord N30 SE in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-androids-ultimate-guide-to-photo-editors-is-pickup-a-contender/"><u>In 2024, Android’s Ultimate Guide to Photo Editors Is PickUp a Contender?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>In 2024, Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-graphics-card-driver-download-nvidia-geforce-rtx-1650-super-for-windows-1011/"><u>Latest Graphics Card Driver Download: NVIDIA GeForce RTX 1650 Super for Windows 10/11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-quality-video-uplift-immaculate-resolution-for-2024/"><u>Top Quality Video Uplift Immaculate Resolution for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-srt-editing-techniques-for-apple-devices-for-2024/"><u>Transformative SRT Editing Techniques for Apple Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
 </ul></div>
 

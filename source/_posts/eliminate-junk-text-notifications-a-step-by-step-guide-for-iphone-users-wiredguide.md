@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Junk Text Notifications: A Step-by-Step Guide for iPhone Users | WiredGuide"
-date: 2024-10-17T23:45:42.084Z
-updated: 2024-10-20T23:25:05.927Z
+date: 2024-10-19T17:17:57.765Z
+updated: 2024-10-26T17:39:47.105Z
 tags:
   - apple
 categories:
@@ -33,10 +33,10 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -47,16 +47,16 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -71,16 +71,10 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -89,13 +83,6 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -103,6 +90,13 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -175,20 +169,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/uick-money-tally-for-video-marketers/"><u>[New] Quick Money Tally for Video Marketers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-social-media-strategists-guide-to-adjustable-video-sizes-on-fb-for-2024/"><u>[New] The Social Media Strategist's Guide to Adjustable Video Sizes on FB for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-filmmaking-made-simple-a-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Filmmaking Made Simple A Smartphone Guide to YouTube Thumbnails</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-captivate-your-audience-professional-end-screen-creations/"><u>[Updated] In 2024, Captivate Your Audience Professional End Screen Creations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>[Updated] Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-full-potential-of-apods-downloads/"><u>[Updated] Unlocking the Full Potential of APods Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>2024 Approved The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-movies-for-free-simple-video-player-software/"><u>In 2024, Explore Movies for Free Simple VIDEO Player Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-11-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 11 without Apple Account</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tricks-to-turn-off-youtube-videos-without-compromise/"><u>In 2024, Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creativity-essential-green-screen-techniques/"><u>In 2024, Unlock Creativity Essential Green Screen Techniques</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/innovative-apple-tech-giant-explores-respiratory-monitoring-feature-in-newest-vision-pro-wearable-insights-from-zdnet/"><u>Innovative Apple: Tech Giant Explores Respiratory Monitoring Feature in Newest Vision Pro Wearable - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-high-def-monitor-list-top-10-picks-for-2024/"><u>The Ultimate High-Def Monitor List Top 10 Picks for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-can-a-128gb-drive-handle-huge-video-files/"><u>[New] 2024 Approved Can a 128GB Drive Handle Huge Video Files?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-fb-status-video-downloads-a-2023-guide/"><u>[New] In 2024, Mastering FB Status Video Downloads A 2023 Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-female-gamers-on-youtube-2024-updated/"><u>[Updated] Top 10 Female Gamers on YouTube | 2024 Updated</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-virtual-reality-terms-you-should-know/"><u>[Updated] Virtual Reality Terms You Should Know</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-masterclass-top-5-suggestions-and-real-life-outcomes/"><u>2024 Approved Instagram Masterclass Top 5 Suggestions & Real-Life Outcomes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-des-fichiers-rmvb-a-laide-de-movavi-guide-complet/"><u>Conversion Gratuite Des Fichiers RMVB À L'aide De Movavi - Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gebaseerd-3gp-toeeinden-in-animated-gifs-onlinereputatie-zeer-goed/"><u>Gratuit Gebaseerd 3GP-Toeëinden in Animated GIFs - Onlinereputatie Zeer Goed!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-expert-comment-filmer-son-epilogue-de-miel-avec-les-top-photographes-et-videurs-nupciaux/"><u>Guide Expert: Comment Filmer Son Épilogue De Miel Avec Les Top Photographes Et Videurs Nupciaux</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hours-of-gaming-made-easy-the-ultimate-mavix-m9-gaming-chair-assessment/"><u>Hours of Gaming Made Easy: The Ultimate Mavix M9 Gaming Chair Assessment</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-rainbow-six-siege-following-the-2024-patch/"><u>How to Restore Voice Communication in Rainbow Six Siege Following the 2024 Patch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-troubleshoot-and-repair-ralink-rt3290-wireless-card-issues-in-windows-operating-systems-windows-1187/"><u>How to Troubleshoot and Repair Ralink RT3290 Wireless Card Issues in Windows Operating Systems (Windows 11/8/7)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-a60s-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel A60s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/meilleur-logiciel-pour-lediting-4k-facilite-et-precision-dans-vos-travaux-video-professionnels/"><u>Meilleur Logiciel Pour L'Editing 4K: Facilité Et Précision Dans Vos Travaux Vidéo Professionnels</u></a></li>
 </ul></div>
 

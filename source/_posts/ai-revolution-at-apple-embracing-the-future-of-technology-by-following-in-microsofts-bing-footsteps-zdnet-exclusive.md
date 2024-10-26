@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution at Apple: Embracing the Future of Technology by Following in Microsoft's Bing Footsteps | ZDNET Exclusive"
-date: 2024-10-14T18:06:53.184Z
-updated: 2024-10-20T20:43:15.589Z
+date: 2024-10-21T17:20:42.099Z
+updated: 2024-10-26T18:09:28.508Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -67,6 +67,13 @@ Providing private or family-specific AI instances would further enhance privacy 
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
 To offer the best AI experiences, Apple must integrate its AI services with various third-party platforms and partner with multiple AI and service providers, not just OpenAI and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/), as the company is expected to do. For example, Siri could provide personalized shopping recommendations by integrating with Amazon and Instacart. It could remind users to reorder items or suggest products based on past behavior. 
@@ -80,13 +87,6 @@ While Watch, Fitness+, and Health are the company's preferred health platforms, 
 Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet.com/article/make-room-for-rag-how-gen-ais-balance-of-power-is-shifting/) (RAG), which combines generative language models with information retrieval techniques to access external knowledge sources and incorporate real-time data into responses. 
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
@@ -107,10 +107,10 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -130,10 +130,10 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -178,20 +178,20 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-methods-for-saving-google-voice-communication/"><u>[New] 2024 Approved Quick Methods for Saving Google Voice Communication</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-diy-lol-gameplay-tapes-mastering-three-methods/"><u>[New] DIY LOL Gameplay Tapes Mastering Three Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-best-text-animation-presets/"><u>[Updated] Best Text Animation Presets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-construct-your-dreams-with-dynamic-time-lapses-on-a-hero5/"><u>[Updated] Construct Your Dreams with Dynamic Time-Lapses on a Hero5</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>[Updated] The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>[Updated] Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-psd-style-boosting/"><u>[Updated] Ultimate PSD Style Boosting</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-zipped-texts-to-subtitles-converting-files-in-a-flash/"><u>[Updated] Zipped Texts to Subtitles Converting Files in a Flash</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/150-tech-pants-by-microsoft-what-are-these-unusual-smart-clothes-and-how-do-they-work-zdnet/"><u>$150 Tech Pants by Microsoft – What Are These Unusual Smart Clothes and How Do They Work? | ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-res-video-leading-4k-conversion-tools/"><u>2024 Approved Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/raw/"><u>詳解RAW 檔案：如何啟用及其特性 - 網路上最全面的指南</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-rvs-on-the-market-exclusive-look-at-top-rated-motorhomes-and-camper-units-zdnet-gearguide/"><u>Best RVs on the Market : Exclusive Look at Top-Rated Motorhomes and Camper Units | ZDNET GearGuide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-unlocking-the-best-video-production-talents/"><u>In 2024, The Key to Unlocking the Best Video Production Talents</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tier-image-manipulations-for-2024/"><u>Top-Tier Image Manipulations for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unseen-battles-umbraheroes-black-versus-luminaryheroes-silver-for-2024/"><u>Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver) for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cut-the-confusion-learn-quickly-how-to-add-timestamps-in-videos/"><u>[New] Cut the Confusion Learn Quickly How to Add Timestamps in Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-analyzing-youtube-adrevenue-average-payments-by-thousands-of-views/"><u>[New] In 2024, Analyzing Youtube AdRevenue Average Payments by Thousands of Views</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-imageimprint-tips-for-insta-size-customization/"><u>[New] In 2024, ImageImprint Tips for Insta Size Customization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-bring-life-to-photos-using-snapchats-fun-cartoon-lenses/"><u>[Updated] Bring Life to Photos Using Snapchat's Fun Cartoon Lenses</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-skaldic-odyssey-ragnarok-awakens-for-2024/"><u>[Updated] The Skaldic Odyssey Ragnarök Awakens for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-selection-choosing-excellent-free-srt-translators/"><u>2024 Approved Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved Utilization of Unused Film Clips Tips and Tricks</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-world-in-motion-discover-14-text-animation-creations-for-2024/"><u>A World in Motion Discover 14 Text Animation Creations for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/three-cutting-edge-strategies-for-enhancing-excel-performance/"><u>Three Cutting-Edge Strategies for Enhancing Excel Performance</u></a></li>
 </ul></div>
 

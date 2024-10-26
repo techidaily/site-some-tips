@@ -1,7 +1,7 @@
 ---
 title: "14 Pro: Evaluating if Upgrading Is Worthwhile - Insights From ZDNet"
-date: 2024-10-15T20:58:30.343Z
-updated: 2024-10-20T21:36:56.074Z
+date: 2024-10-21T19:14:18.330Z
+updated: 2024-10-26T18:34:59.990Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,22 +129,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-filmmakers-guide-to-the-top-10-essential-camera-brands/"><u>[New] Filmmaker's Guide to the Top 10 Essential Camera Brands</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-video-cutting-edge-tools-devices/"><u>[New] Superior Video Cutting-Edge Tools (Devices)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-vanguard-of-virtual-storage-top-choices/"><u>[New] The Vanguard of Virtual Storage Top Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-picks-professional-ringtone-designer-guide/"><u>[New] Top Picks Professional Ringtone Designer Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-8-photo-montage-synthesizer-online/"><u>[New] Ultimate 8 Photo Montage Synthesizer Online</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplifying-your-brand-the-famebit-approach-to-youtube-affiliates/"><u>[Updated] In 2024, Amplifying Your Brand The FameBit Approach to YouTube Affiliates</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-in-depth-assessment-comprehensive-camstudio-review/"><u>2024 Approved In-Depth Assessment Comprehensive CamStudio Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-capture-every-moment-the-power-of-spring-screenrecorder/"><u>In 2024, Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-quick-tips-for-transforming-pinterest-videos-into-mp3s/"><u>In 2024, Quick Tips for Transforming Pinterest Videos Into MP3s</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-kinemaster-usage-and-top-alternative-platforms/"><u>In 2024, The Ultimate Guide to KineMaster Usage and Top Alternative Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagram-and-youtube-synergy-sharing-video-links-in-stories-for-2024/"><u>Instagram and YouTube Synergy Sharing Video Links in Stories for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reviving-windows-update-settings-quickly/"><u>Reviving Windows Update Settings Quickly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-science-behind-apples-m1-processor-unveiled-for-2024/"><u>The Science Behind Apple’s M1 Processor Unveiled for 2024</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/transform-your-documents-into-beautiful-flipbooks-with-ease-using-our-flip-printer-tool/"><u>Transform Your Documents Into Beautiful Flipbooks with Ease Using Our Flip Printer Tool!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-magic-transforming-scenes-with-gopro-timelapse-for-2024/"><u>Unveiling the Magic Transforming Scenes with GoPro Timelapse for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-poker-professional-panelisms/"><u>[New] In 2024, POKER PROFESSIONAL PANELISMS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-list-of-religious-ringing-sounds/"><u>[New] The Essential List of Religious Ringing Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>[New] The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-key-methods-for-silent-screen-imaging/"><u>[Updated] 2024 Approved Key Methods for Silent Screen Imaging</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-in-photography-essential-pixlr-hacks/"><u>[Updated] Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-podcasters-guide-to-seamless-streaming-setup/"><u>2024 Approved The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-6-multilingual-video-decoders-for-2024/"><u>Best 6 Multilingual Video Decoders for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-bugs-expert-tips-for-launching-assassins-creed-mirage-despite-persistent-issues/"><u>Bypassing Bugs: Expert Tips for Launching Assassin's Creed Mirage Despite Persistent Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-rainbow-six-extraction-pc-installation-from-freezing-or-crashing/"><u>How to Stop Your Rainbow Six Extraction PC Installation From Freezing or Crashing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamlessly-integrating-airpods-into-your-macbook-air-experience/"><u>Seamlessly Integrating AirPods Into Your MacBook Air Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722960731876-update-your-nvidia-quadro-rtx-4000-with-the-newest-drivers-here/"><u>Update Your Nvidia Quadro RTX #4000 with the Newest Drivers Here!</u></a></li>
 </ul></div>
 

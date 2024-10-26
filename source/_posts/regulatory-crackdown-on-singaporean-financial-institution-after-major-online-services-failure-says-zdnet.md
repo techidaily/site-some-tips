@@ -1,7 +1,7 @@
 ---
 title: Regulatory Crackdown on Singaporean Financial Institution After Major Online Services Failure, Says ZDNet
-date: 2024-09-17 13:37:29
-updated: 2024-09-20 11:31:41
+date: 2024-10-22T16:52:57.619Z
+updated: 2024-10-26T17:24:40.873Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -56,6 +70,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>[New] 2024 Approved Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-through-gopro-and-time-lapse-synergy/"><u>[New] Navigating Through GoPro and Time-Lapse Synergy</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-channel-visibility-into-subscriber-stardom-on-youtube/"><u>[New] Transforming Channel Visibility Into Subscriber Stardom on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-new-era-of-high-def-in-depth-on-hps-z32-x-review/"><u>[Updated] A New Era of High-Def In Depth on HP’s Z32 X Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-online-forms-and-data-collection-effortlessly/"><u>Cookiebot Driven Success: Enhancing Online Forms & Data Collection Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-marketing-solutions/"><u>Cookiebot-Enabled Marketing Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-your-reliable-partner-for-enhanced-website-traffic-and-analytics/"><u>Cookiebot: Your Reliable Partner for Enhanced Website Traffic and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/die-top-vorteile-von-jobs-bei-abbyy-erfolgsgeschichte-aufsteigen/"><u>Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-digitize-documents-scan-and-convert-with-ocr-technology-perfect-app-for-iphone-users/"><u>Efficiently Digitize Documents: Scan & Convert with OCR Technology - Perfect App for iPhone Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-conversion-of-text-from-pdfjpg-to-digital-using-iphones-ocr-scanner/"><u>Effortless Conversion of Text From PDF/JPG to Digital Using iPhone's OCR Scanner</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-optimized-with-the-power-of-cookiebot/"><u>Enhanced Conversion Tracking: Optimized with the Power of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-traffic-via-cutting-edge-cookiebot-solutions/"><u>Enhanced Traffic via Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-p55t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel P55T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-game-masters-guide-to-4k-monitors/"><u>In 2024, Game Masters' Guide to 4K Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-edge-and-chrome-hiding-windows-bar/"><u>Rectifying Edge and Chrome Hiding Windows Bar</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-network-malfunctions-on-windows-117-a-step-by-step-guide/"><u>Solving Ethernet Network Malfunctions on Windows 11/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/striking-visuals-that-move-us-top-20-instagram-photos/"><u>Striking Visuals that Move Us Top 20 Instagram Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-mastering-video-trimming-techniques-with-adobe-after-effects/"><u>Ultimate Guide: Mastering Video Trimming Techniques with Adobe After Effects</u></a></li>
+</ul></div>
+

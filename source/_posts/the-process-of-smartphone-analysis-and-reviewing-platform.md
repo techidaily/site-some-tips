@@ -1,7 +1,7 @@
 ---
 title: The Process of Smartphone Analysis and Reviewing Platform
-date: 2024-10-17T22:32:21.115Z
-updated: 2024-10-20T19:41:52.239Z
+date: 2024-10-21T16:49:46.788Z
+updated: 2024-10-26T16:15:10.737Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ For hands-on testing, five aspects determine whether or not a phone gets recomme
 
 To be included in our [buying guides](https://www.zdnet.com/best-products/), the best smartphones must achieve above-average marks on all five criteria (with a reviewed score of over 3.5 out of 5), especially when compared to other devices priced similarly. Reviewers also consider the key differences between the latest phone models and their predecessors during the grading process.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design and ergonomics
 
 Kerry Wan/ZDNET
@@ -55,10 +62,10 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -71,13 +78,6 @@ Performance testing also includes putting phones through varying levels of graph
 
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Cameras
 
 Kerry Wan/ZDNET
@@ -89,10 +89,10 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Battery life and charging
@@ -104,10 +104,10 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Special features
@@ -156,20 +156,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-transcription-tech-zero-fee-for-the-user/"><u>[New] Transcription Tech, Zero Fee for the User</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-online-communities-catering-to-the-commercial-world/"><u>2024 Approved Top 6 Online Communities Catering to the Commercial World</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-creating-instagrammable-unboxing-highlights/"><u>2024 Approved Top Tips for Creating Instagrammable Unboxing Highlights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-pro-tiktok-editing-techniques/"><u>2024 Approved Ultimate Guide Pro TikTok Editing Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-uncover-top-8-sites-offering-free-3d-text-psd-images-and-files/"><u>2024 Approved Uncover Top 8 Sites Offering FREE 3D Text PSD Images and Files</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/analyzing-oneplus-9s-performance-metrics-and-shortcomings/"><u>Analyzing OnePlus 9'S Performance Metrics and Shortcomings</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967612249-get-the-latest-mbox-nano-driver-version-with-this-simple-downloading-tutorial/"><u>Get the Latest MBox Nano Driver Version with This Simple Downloading Tutorial!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/immediate-access-top-notch-eraser-app-for-ios-devices/"><u>Immediate Access: Top-Notch Eraser App for iOS Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-realme-10t-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Realme 10T 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-high-definition-with-dell-p2715q-reviewed/"><u>In 2024, Exploring High-Definition with Dell P2715Q Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-stock-photo-memes-and-realities/"><u>In 2024, The Ultimate Guide to Stock Photo Memes & Realities</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tech-marvels-top-picks-for-everyone/"><u>In 2024, Ultimate Tech Marvels Top Picks for Everyone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-tips-for-improving-laptop-keyboard-speed/"><u>Quick Troubleshooting Tips for Improving Laptop Keyboard Speed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/thrifty-filmmakers-action-camera-options-for-2024/"><u>Thrifty Filmmaker's Action Camera Options for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-command-and-conquer-triumphant-tales-of-the-best-7-total-wars/"><u>[New] In 2024, Command & Conquer Triumphant Tales of the Best 7 Total Wars</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-from-novice-to-expert-a-guide-for-effective-single-stream-livestreams/"><u>[Updated] 2024 Approved From Novice to Expert A Guide for Effective Single-Stream Livestreams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>[Updated] Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-post-production-with-after-effects-and-luts/"><u>2024 Approved Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-effortlessly-share-vimeo-video-on-instagram/"><u>How to Effortlessly Share Vimeo Video on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-understanding-and-using-instagrams-music-features/"><u>In 2024, The Essential Guide to Understanding and Using Instagram's Music Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-picks-for-excellent-free-srt-translation-tools/"><u>In 2024, Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-toolbar-usage-in-mspcm-for-windows-11/"><u>Mastering Toolbar Usage in MSPCM for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solve-your-usb-recognition-problems-in-windows-10-effective-solutions/"><u>Solve Your USB Recognition Problems in Windows 10 - Effective Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-axon-40-lite-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your ZTE Axon 40 Lite Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-efficiency-incorporating-zoom-into-your-gmail-routine-for-2024/"><u>Unlocking Efficiency Incorporating Zoom Into Your Gmail Routine for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unlocking-the-potential-of-gopros-burst-functionality-for-2024/"><u>Unlocking the Potential of GoPro's Burst Functionality for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1728479356307-aomei-backupper/"><u>バックアップファイルをAOMEI Backupperで分割する正しい手順</u></a></li>
 </ul></div>
 

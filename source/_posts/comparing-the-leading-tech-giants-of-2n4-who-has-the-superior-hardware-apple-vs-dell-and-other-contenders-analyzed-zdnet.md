@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Leading Tech Giants of 2N4: Who Has The Superior Hardware? Apple vs Dell and Other Contenders - Analyzed | ZDNet"
-date: 2024-10-18T17:58:06.249Z
-updated: 2024-10-20T18:04:30.599Z
+date: 2024-10-19T17:11:07.283Z
+updated: 2024-10-26T16:43:43.378Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Security and privacy implications
@@ -79,10 +79,10 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -109,6 +109,13 @@ The changes could also lead to increased innovation and competition in markets s
 
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Open standards and protocols and the increase of open-source software on Apple platforms
 
 With a requirement for sideloading and allowing third-party app stores and a need for providing more open access to APIs, the call for open standards and increased use of open-source software on Apple platforms may also gain momentum. This shift toward openness will enhance interoperability across devices and challenge Apple's long-standing paradigms of exclusivity and controlled ecosystems. 
@@ -117,13 +124,6 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Payment, wallet, and digital identity diversification:** In addition to new open transaction and digital identity platforms like OpenWallet, we might see further diversification in the digital wallet and payment systems market, reducing Apple's control over financial transactions with the predominance of Apple Pay on iOS devices, and potentially lowering transaction fees.
 * **Integration of open source applications:** Easier installation and use of open source software on iOS devices, broadening the range of available tools and apps.
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
 
@@ -136,10 +136,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,24 +178,19 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-expert-techniques-for-streamlined-google-podcasts/"><u>[Updated] In 2024, Expert Techniques for Streamlined Google Podcasts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-laughlineart-memogallery/"><u>[Updated] In 2024, LaughLineArt MemoGallery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-room-arrangement-for-immersive-vr-experience/"><u>[Updated] Room Arrangement for Immersive VR Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast/"><u>[Updated] The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>[Updated] Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-vector-editing-revolution-post-acid-pro-era/"><u>[Updated] Vector Editing Revolution Post-ACID Pro Era</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-days-for-launching-a-podcast/"><u>2024 Approved Ideal Days for Launching a Podcast</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-image-memory-with-precise-dates/"><u>Enhancing Image Memory with Precise Dates</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-superior-supplements-to-enhance-gopro/"><u>In 2024, Superior Supplements to Enhance GoPro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-imaging-embracing-quantum-hdr/"><u>In 2024, The Future of Imaging Embracing Quantum HDR</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/perfect-prints-every-time-advanced-print-settings-in-photoshop/"><u>Perfect Prints Every Time: Advanced Print Settings in Photoshop</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionizing-travel-a-dive-into-vr-tour-possibilities/"><u>Revolutionizing Travel A Dive Into VR Tour Possibilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-stop-fallout-3-game-crashes-on-windows-11-computers/"><u>Solutions to Stop Fallout 3 Game Crashes on Windows 11 Computers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-text-boosting-techniques-in-videos-for-2024/"><u>Top 10 Text Boosting Techniques in Videos for 2024</u></a></li>
-<li><a href="https://win-net.techidaily.com/usb-windows/"><u>USB接続デバイスとの自動同期にはどうすればいいか？ Windowsパソコン</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>[New] In 2024, Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enlightening-editing-paths-to-audience-appealing-descriptors/"><u>[New] In 2024, Enlightening Editing Paths to Audience-Appealing Descriptors</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-hot-40i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp3202410/"><u>获取高效MP3转换工具：2024年网上最值得信赖的10个推荐列表</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wowow-dvd/"><u>快適な視聴体験を保ちつつ、WOWOWはダビングしてお届け! DVD化ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221340487-m4a-flv-movavi/"><u>無條件免費 M4A 到 FLV 過渡 - 動漫實用工具Movavi</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/does-youtube-offer-frequent-payments-to-you-for-2024/"><u>Does YouTube Offer Frequent Payments to You for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/en-ligne-convertissez-rapidement-vos-videos-webm-en-mov-gratuitement-sur-le-site-movavi/"><u>En Ligne : Convertissez Rapidement Vos Vidéos WebM en MOV Gratuitement Sur Le Site Movavi!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x8b-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X8b Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-convertidor-online-de-mp3-a-mp4-libre-de-tarifas-conversion-sin-coste/"><u>Movavi Convertidor Online De MP3 a MP4 Libre De Tarifas - Conversión Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223315920-tiff-movavi/"><u>TIFFフォーマットから自由に変換! 無料オンラインツールで簡単な切り替え - Movaviプロのサポート</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo A78 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-video-converters-with-supported-vob-files-best-for-windows-and-macos/"><u>Top Audio-Video Converters with Supported VOB Files: Best for Windows and macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227593841-mp3m4v-movavi/"><u>앱에서 무료 MP3/M4V 변형: 모바일 라이브러리의 강력한 해결책 - Movavi</u></a></li>
 </ul></div>
 

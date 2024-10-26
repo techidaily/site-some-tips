@@ -1,7 +1,7 @@
 ---
 title: "Delta Airlines Surprises Fliers with Unimaginable Perks: A Breakdown - ZDNet"
-date: 2024-09-19 11:57:56
-updated: 2024-09-20 12:13:27
+date: 2024-10-23T16:55:28.534Z
+updated: 2024-10-26T16:53:55.038Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,11 +79,31 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-30plus-list-of-expertly-curated-cost-free-vfx-tools-for-creatives/"><u>[New] The Ultimate 30+ List of Expertly Curated, Cost-Free VFX Tools for Creatives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-workflow-harnessing-the-power-of-luts-in-adobe-suite/"><u>[New] Transform Your Workflow Harnessing the Power of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-camera-guide-2024s-best-on-screen-capture-devices/"><u>[Updated] Ultimate Camera Guide 2024'S Best On-Screen Capture Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[Updated] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-showdown-gopro-max-360-vs-hero-11-analysis/"><u>2024 Approved The Ultimate Showdown GoPro Max 360 VS Hero 11 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-and-tricks-for-effective-cd-handling-with-wmp/"><u>2024 Approved Tips & Tricks for Effective CD Handling with WMP</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-of-the-best-curated-list-of-spectacular-offline-ios-titles-for-2024/"><u>Best of the Best Curated List of Spectacular Offline iOS Titles for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-playstation-network-disruption-in-windows-os/"><u>Correcting PlayStation Network Disruption in Windows OS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/diy-guide-converting-tiktok-tracks-into-mobile-alarms/"><u>DIY Guide Converting TikTok Tracks Into Mobile Alarms</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11x-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11X 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-convergence-of-windows-and-wsl-with-win-11-upgrade/"><u>Ensuring Convergence of Windows & WSL with Win 11 Upgrade</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a25-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A25 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-castwatch-inspection/"><u>In 2024, CastWatch Inspection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-compilation-of-2023-writers-on-youtube/"><u>In 2024, The Ultimate Compilation of 2023’ Writers on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>In 2024, Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>In 2024, Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Google Pixel 7a has been deleted</u></a></li>
+</ul></div>
+

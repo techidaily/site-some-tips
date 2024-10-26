@@ -1,7 +1,7 @@
 ---
 title: "Exploring Apple's New AI Tech From WWDC: Will It Impress or Disappoint?"
-date: 2024-10-17T21:04:38.625Z
-updated: 2024-10-20T19:28:36.361Z
+date: 2024-10-19T18:49:48.576Z
+updated: 2024-10-26T19:19:20.597Z
 tags:
   - apple
 categories:
@@ -55,10 +55,10 @@ However, the iPad version of the Horizon client available on the Vision Pro is n
 If Apple can add support for multiple virtual displays, much like how I use my MacBook Pro now with several monitors, then that would benefit my workflow immensely.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Native Microsoft apps are fairly limited
@@ -70,10 +70,10 @@ Besides the Horizon client covering my Windows software needs, I also use Outloo
 In addition to the limited feature set, an issue with collaborating on Teams (or any video conferencing service) is Apple's zombie-like Personas. The digital scan reminds me of characters from older gaming consoles, and I will never use it in client meetings or when FaceTiming my wife, who can't take my Persona seriously.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Traveling with the Vision Pro
@@ -87,10 +87,16 @@ Matthew Miller/ZDNET
 I also felt cramped sitting in one spot and trying to navigate through multiple applications. On a train, let alone on a plane, I was barely able to move my body around to multitask on Vision OS. One feature I'd love to see is the ability to stack or quickly switch between several open apps. That would be ideal for more confined situations like this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Privacy and security are secretly fantastic
@@ -98,16 +104,10 @@ I also felt cramped sitting in one spot and trying to navigate through multiple 
 On the plus side, when I was sitting on the train with the Vision Pro on, I realized that I could work on all of my projects that have proprietary and sensitive information on big screens without worrying about the person next to me glancing over. The ability to have complete privacy and enhanced security, including the ability to set up eye scanning to unlock your Vision Pro, may be one of the most compelling reasons to use the headset for work. Sure, this argument applies to every other VR headset, but none come close to the audiovisual fidelity of the Vision Pro.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -144,16 +144,22 @@ All that is to say the [Apple Vision Pro](https://apple.sjv.io/c/159047/435031/7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-ultrafine-a-deep-dive-into-lgs-elite-4k-display-features/"><u>[New] UltraFine A Deep Dive Into LG's Elite 4K Display Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unraveling-humor-in-the-funnies-of-goofy/"><u>[New] Unraveling Humor in 'The Funnies of Goofy'</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>[Updated] Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-integration-with-bing-app-top-tips-for-android-smartphone-owners/"><u>AI Integration with Bing App: Top Tips for Android Smartphone Owners</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-14-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 14 Plus/iPad/iPod</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-streamer-gear-essential-livestream-tools-unveiled/"><u>In 2024, Prime Streamer Gear Essential Livestream Tools Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unravel-the-power-of-wmp-in-audio-transition-from-cds/"><u>In 2024, Unravel the Power of WMP in Audio Transition From Cds</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/mejores-aplicaciones-de-respaldo-de-mensajes-de-hotmail-compatible-con-sistemas-operativos-windows/"><u>Mejores Aplicaciones De Respaldo De Mensajes De Hotmail Compatible Con Sistemas Operativos Windows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-digital-dimension-state-of-the-art-vr-for-2024/"><u>The Digital Dimension State-of-the-Art VR for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-premium-desktop-displays-the-2024-selection/"><u>Ultimate Guide to Premium Desktop Displays - The 2024 Selection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-b-roll-in-video-production-effectively-for-2024/"><u>Utilizing B-Roll in Video Production Effectively for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-monetized-critique-videos-the-truth-unveiled/"><u>[New] Monetized Critique Videos The Truth Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-take-your-photography-to-new-heights-with-lightrooms-hdr-capabilities/"><u>[New] Take Your Photography to New Heights with Lightroom’s HDR Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-places-for-accessing-gratis-graphics/"><u>[New] Top 10 Places for Accessing Gratis Graphics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-nintendo-switch-leading-capture-card-selections/"><u>[Updated] In 2024, Nintendo Switch Leading Capture Card Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-photography-playbook-prime-angles-uncovered/"><u>[Updated] The Ultimate iPhone Photography Playbook Prime Angles Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-chuckles-and-pixels-suite/"><u>2024 Approved Ultimate Chuckles and Pixels Suite</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discovering-electronics-with-tom-comprehensive-hardware-guides-and-tips/"><u>Discovering Electronics with Tom: Comprehensive Hardware Guides & Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-fix-corrupted-registry-and-system-files-on-windows-systems/"><u>Expert Advice: Fix Corrupted Registry and System Files on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-battery-detected-fast-and-simple-steps-to-get-you-back-online/"><u>Fixing 'No Battery Detected': Fast & Simple Steps to Get You Back Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-focus-on-you-iphone-and-android-photo-trimmers/"><u>In 2024, Focus On You IPhone & Android Photo Trimmers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>In 2024, The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-pc-vr-headsets-2023-update/"><u>In 2024, Top 10 PC VR Headsets -2023 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/make-windows-emailcalendar-pop-infuse-it-with-pics/"><u>Make Windows Email/Calendar Pop: Infuse It With Pics</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-windows-11-search-box-malfunctions/"><u>Methods for Rectifying Windows 11 Search Box Malfunctions</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-more-pause-smooth-mice-in-win10/"><u>No More Pause: Smooth Mice in Win10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-packaging-a-marketing-approach-for-2024/"><u>Unraveling the Packaging A Marketing Approach for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-reverse-footage-in-final-cut-pro-a-step-by-step-guide/"><u>Updated In 2024, Reverse Footage in Final Cut Pro A Step-by-Step Guide</u></a></li>
 </ul></div>
 

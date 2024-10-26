@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Gifting: Donating Carbon Offsets During the Festive Period | ZDNet"
-date: 2024-09-19 10:26:54
-updated: 2024-09-20 12:27:31
+date: 2024-10-25T17:36:59.350Z
+updated: 2024-10-26T18:07:45.845Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-list-of-ten-soaring-youtube-creations-with-speed-and-purpose/"><u>[New] 2024 Approved A List of Ten Soaring YouTube Creations with Speed and Purpose</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>[New] The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-10-text-effects-to-elevate-your-clips/"><u>[New] The Ultimate List 10 Text Effects to Elevate Your Clips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-speeding-up-youtube-quick-video-rendering-and-transfer-tips/"><u>[Updated] Speeding Up YouTube Quick Video Rendering & Transfer Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ultimate-guide-selecting-8-exquisite-weddings-vids/"><u>[Updated] Ultimate Guide Selecting 8 Exquisite Weddings - Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-wanderlust-wonders-crafting-engaging-travel-content-for-your-audience-for-2024/"><u>[Updated] Wanderlust Wonders Crafting Engaging Travel Content for Your Audience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>2024 Approved The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10plus-online-photo-background-changers-to-remove-background-easily/"><u>2024 Approved Top 10+ Online Photo Background Changers to Remove Background Easily</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/effective-strategies-for-migrating-your-data-from-windows-10-or-11-to-a-new-hard-disk/"><u>Effective Strategies for Migrating Your Data From Windows 10 or 11 to a New Hard Disk</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/express-windows-file-audit-procedure/"><u>Express Windows File Audit Procedure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-insiders-guide-to-captivating-youtube-headlines/"><u>In 2024, The Insider's Guide to Captivating YouTube Headlines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tunes-terms-and-copyrights-on-instagram/"><u>In 2024, Tunes, Terms, and Copyrights on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>In 2024, Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://fox-http.techidaily.com/minimize-time-maximize-results-with-this-srt-to-txt-hack-for-2024/"><u>Minimize Time, Maximize Results with This SRT to TXT Hack for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-envelope-market-success-inside-out-for-2024/"><u>Strategy Envelope Market Success Inside Out for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-metaverses-funny-bone-generating-hitsome-online-jokes-for-2024/"><u>The Metaverse's Funny Bone Generating Hitsome Online Jokes for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-agni-2-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Agni 2 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unraveling-youtube-subtitles-srt-a-triad-of-steps-for-2024/"><u>Unraveling YouTube Subtitles (SRT) A Triad of Steps for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-windows-live-movie-maker-tutorial-adding-slow-motion-to-your-videos/"><u>Updated In 2024, Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos</u></a></li>
+</ul></div>
+

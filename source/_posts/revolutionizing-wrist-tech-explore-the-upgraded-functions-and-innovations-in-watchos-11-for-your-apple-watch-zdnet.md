@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Wrist Tech: Explore the Upgraded Functions and Innovations in WatchOS 11 for Your Apple Watch | ZDNET"
-date: 2024-10-14T16:23:42.930Z
-updated: 2024-10-20T17:10:33.298Z
+date: 2024-10-21T17:48:00.283Z
+updated: 2024-10-26T17:05:29.740Z
 tags:
   - apple
 categories:
@@ -86,6 +86,19 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -101,10 +114,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -117,6 +130,13 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -127,13 +147,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -153,10 +166,10 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -166,13 +179,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -218,20 +224,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-beyond-boundaries-how-to-validate-your-tiktok-video-rights/"><u>[New] 2024 Approved Beyond Boundaries How to Validate Your TikTok Video Rights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-analyzing-splitcams-place-among-best-recorders-for-2024/"><u>[New] Analyzing SplitCam's Place Among Best Recorders for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-potential-advanced-tiktok-visual-enhancements/"><u>[New] Unleashing Potential Advanced TikTok Visual Enhancements</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-srts-potential-in-subtitle-format-sub/"><u>[Updated] Unveiling SRT's Potential in Subtitle Format (SUB)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>2024 Approved The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-infinix-hot-40-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 40 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-zte-axon-40-lite-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on ZTE Axon 40 Lite?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-securing-cost-free-vlc-player-download-on-mac/"><u>In 2024, Mastering the Art of Securing, Cost-Free VLC Player Download on Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-revolutionary-modifications-elevate-your-computer-experience/"><u>In 2024, Revolutionary Modifications Elevate Your Computer Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-efficiency-boost-editing-on-magix-video-pro-x/"><u>In 2024, The Efficiency Boost Editing on Magix Video Pro X</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-online-platforms-for-youtube-media-growth/"><u>In 2024, Top Online Platforms for YouTube Media Growth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-a-matrix-compatible-daemon-addon-in-kodi/"><u>Step-by-Step Guide: Setting Up a Matrix-Compatible Daemon Addon in Kodi</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/top-choice-elite-videographer-tool-for-vimeo/"><u>Top Choice Elite Videographer Tool for Vimeo</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-creative-tactics-for-medical-ad-success-on-facebook/"><u>[New] Creative Tactics for Medical Ad Success on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-developers-guide-to-top-10-android-apps-for-facebook-video-downloading/"><u>[New] In 2024, Developer's Guide to Top 10 Android Apps for Facebook Video Downloading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[New] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-6-tech-for-subtitle-creation-in-video/"><u>[New] Ultimate 6 Tech for Subtitle Creation in Video</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-content-creation-free-tools-for-downloading-vids-online/"><u>[Updated] Unlocking Content Creation Free Tools for Downloading Vids Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-premium-free-srt-translation-websites-for-business-use/"><u>[Updated] Unveiling Premium Free SRT Translation Websites for Business Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-access-free-picturing-content-streams/"><u>2024 Approved Mastering Access Free Picturing Content Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-blueprint-adding-professional-effects-to-your-videos/"><u>2024 Approved The Complete Blueprint Adding Professional Effects to Your Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-remarkable-quests-of-yokus-island-express-an-insightful-review/"><u>Exploring the Remarkable Quests of Yoku’s Island Express: An Insightful Review</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 11 Pro 3 Ways To Unlock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-sharing-wisdom-the-art-of-insta-duplication/"><u>In 2024, Sharing Wisdom The Art of Insta Duplication</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-gt-5-pro-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme GT 5 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unmasking-the-giants-of-live-broadcast-twitch-vs-youtube/"><u>In 2024, Unmasking the Giants of Live Broadcast Twitch Vs YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwind-twitch-feeds-immediately/"><u>In 2024, Unwind Twitch Feeds Immediately</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-stay-connected-try-these-5-wi-fi-troubleshooting-tips/"><u>IPhone Won't Stay Connected? Try These 5 Wi-Fi Troubleshooting Tips!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ipad-air-protective-sleeves-comprehensive-review-by-tech-gurus/"><u>Top-Rated iPad Air Protective Sleeves : Comprehensive Review by Tech Gurus</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/understanding-ip-instagram-melody-rights/"><u>Understanding IP Instagram Melody Rights</u></a></li>
 </ul></div>
 
