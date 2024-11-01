@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Reports: Choosing Southwest Over United Labels You a Foolish Traveler"
-date: 2024-09-18 22:58:53
-updated: 2024-09-20 11:45:35
+date: 2024-10-24T20:02:55.612Z
+updated: 2024-10-31T21:42:10.930Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-firefox-screen-recorders-and-add-ons/"><u>[New] In 2024, Firefox Screen Recorders and Add-Ons</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-compelling-game-replays-a-detailed-guide-for-sony-playstation-4/"><u>[Updated] Crafting Compelling Game Replays A Detailed Guide for Sony PlayStation 4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>2024 Approved Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-zoom-potential-3-secrets-to-superior-video-changes/"><u>2024 Approved Unlock Zoom Potential 3 Secrets to Superior Video Changes</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-definitive-guide-to-solving-biomutants-pc-stability-and-eliminating-crashes-for-gamers/"><u>2024'S Definitive Guide to Solving Biomutant's PC Stability and Eliminating Crashes for Gamers.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bad-video-card-drivers-crash-minecraft-on-windows-solved/"><u>Bad Video Card Drivers Crash Minecraft on Windows [Solved]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/complete-screencast-process-methodical-instructional-video/"><u>Complete Screencast Process Methodical Instructional Video</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-cookiebot-power-for-superior-web-personalization/"><u>Harnessing Cookiebot Power for Superior Web Personalization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>In 2024, Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-dialogue-in-film-and-theatre/"><u>In 2024, The Art of Dialogue in Film and Theatre</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>In 2024, The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-audiencier-names-with-top-ai-tools/"><u>In 2024, Transforming Audiencier Names with Top AI Tools</u></a></li>
+<li><a href="https://win-hot.techidaily.com/step-by-step-tutorial-secure-and-fast-file-transfer-to-external-storage-in-windows-10/"><u>Step-by-Step Tutorial: Secure and Fast File Transfer to External Storage in Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-a78-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo A78 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-master-plugins-for-final-cut-pro-for-2024/"><u>Top 10 Master Plugins for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-free-unlicensed-pubg-screenshot-compilations-for-2024/"><u>Top 20 Free Unlicensed PUBG Screenshot Compilations for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-intellectual-property-rights-on-video-screen-captures-for-2024/"><u>Understanding Intellectual Property Rights on Video Screen Captures for 2024</u></a></li>
+</ul></div>
+

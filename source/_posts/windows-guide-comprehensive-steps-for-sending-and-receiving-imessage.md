@@ -1,7 +1,7 @@
 ---
 title: "Windows Guide: Comprehensive Steps for Sending & Receiving iMessage"
-date: 2024-10-21T16:30:33.297Z
-updated: 2024-10-26T18:34:34.673Z
+date: 2024-10-25T20:28:50.673Z
+updated: 2024-11-01T12:12:20.216Z
 tags:
   - apple
 categories:
@@ -44,13 +44,6 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 
 ## How to send and receive iMessages on Windows
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Use Microsoft Phone Link
 
 Before you can use Phone Link, you'll have to take care of a few items on your phone and your PC.
@@ -63,18 +56,18 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -85,13 +78,6 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -105,6 +91,13 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
@@ -116,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 You can also start a new conversation. To do this, select one of your displayed contacts and then compose and send your text. To chat with someone else, click the New Message icon and type the name or phone number of the recipient. Compose and send your message.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use Intel Unison
 
@@ -145,13 +145,6 @@ At the "Let's get started" screen in the Windows Unison app, click the icon for 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Go to the Messages screen
 
 At the Messages screen, click the icon for "Compose a new message." Choose the recipient from your list of contacts or type the name, email address, or phone number for someone not in your contact list.
@@ -159,10 +152,10 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -170,6 +163,13 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -207,24 +207,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-streamlining-video-sharing-between-twitter-and-tumblr/"><u>[New] 2024 Approved Streamlining Video Sharing Between Twitter and Tumblr</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-setting-up-your-tiktok-broadcast-on-a-desktop-for-2024/"><u>[Updated] Setting Up Your TikTok Broadcast on a Desktop for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-mastering-funimate/"><u>[Updated] The Art of Mastering Funimate</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-link-from-instas-photos-to-tiks-videos/"><u>[Updated] The Ultimate Link From Insta's Photos to Tik's Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-game-screens-for-ps5-and-xbox-series-x-revealed/"><u>[Updated] Top Game Screens for PS5 and Xbox Series X Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[Updated] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-secret-sauce-for-stellar-telegram-campaigns/"><u>2024 Approved The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/enhance-your-digital-marketing-strategies-using-cookiebot-solutions/"><u>Enhance Your Digital Marketing Strategies Using Cookiebot Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-specs-for-smooth-operation-of-big-sur/"><u>Essential Specs for Smooth Operation of Big Sur</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p55-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P55 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-calendar-events-iphone-15-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Retrieve Deleted Calendar Events iPhone 15 Plus? | Stellar</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/ideal-extras-for-improving-gopro-experience/"><u>Ideal Extras for Improving GoPro Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-best-brain-teasers-selecting-prime-trivia-channels/"><u>In 2024, The Best Brain Teasers - Selecting Prime Trivia Channels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-successful-individual-podcasts/"><u>In 2024, The Blueprint for Successful Individual Podcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-macos-big-sur-minimum-requirements/"><u>In 2024, Understanding MacOS Big Sur Minimum Requirements</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/photoscape-software-insights-a-comprehensive-review-of-this-no-cost-visual-editing-solution/"><u>PhotoScape Software Insights: A Comprehensive Review of This No-Cost Visual Editing Solution</u></a></li>
-<li><a href="https://win-web.techidaily.com/secure-your-data-with-simplicity-trustworthy-windows-365-cloud-based-pc-protection-systems/"><u>Secure Your Data with Simplicity: Trustworthy Windows 365 Cloud-Based PC Protection Systems</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-tutorial-to-perform-a-bitlocker-drive-encryption-restart-in-windows-11/"><u>Step-by-Step Tutorial to Perform a BitLocker Drive Encryption Restart in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-investigating-changes-over-time-in-windows-movie-maker/"><u>[New] Investigating Changes Over Time in Windows Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-quickest-windowed-image-analyzer/"><u>[New] Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-animation-styles-pack/"><u>[New] Ultimate Animation Styles Pack</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cyber-sovereigns-youtubes-number-one-tens/"><u>[Updated] 2024 Approved Cyber Sovereigns YouTube’s Number One Tens</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-tier-windows-10-screen-capture-programs-unveiled/"><u>[Updated] 2024 Approved Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-elevate-your-typography-with-affects-best-in-class-plug-ins/"><u>[Updated] Elevate Your Typography with Affects' Best-in-Class Plug-Ins</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-visionary-video-setups-a-filmmakers-guide-to-brilliance/"><u>[Updated] In 2024, Visionary Video Setups A Filmmaker's Guide to Brilliance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unravel-complex-video-editing-a-complete-android-guide/"><u>2024 Approved Unravel Complex Video Editing A Complete Android Guide</u></a></li>
+<li><a href="https://win-studio.techidaily.com/error-unable-to-locate-webpage-experiencing-a-missing-page-alert/"><u>Error: Unable to Locate Webpage – Experiencing a Missing Page Alert</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-8-cutting-edge-skins-perfect-for-your-laptop/"><u>In 2024, 8 Cutting-Edge Skins Perfect for Your Laptop</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-inner-comedy-with-gif-mastery/"><u>In 2024, Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-updated-discussion-treasures-for-listener-retention/"><u>In 2024, Updated Discussion Treasures for Listener Retention</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/wiederherstellung-von-onedrive-dateien-effiziente-methoden-erklart/"><u>Wiederherstellung Von OneDrive-Dateien: Effiziente Methoden Erklärt</u></a></li>
 </ul></div>
 

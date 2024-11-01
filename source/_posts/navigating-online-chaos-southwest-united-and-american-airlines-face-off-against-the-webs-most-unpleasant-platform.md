@@ -1,7 +1,7 @@
 ---
 title: "Navigating Online Chaos: Southwest, United & American Airlines Face Off Against the Web's Most Unpleasant Platform"
-date: 2024-09-17 18:25:42
-updated: 2024-09-20 12:24:10
+date: 2024-10-30T20:39:30.417Z
+updated: 2024-11-01T01:30:57.831Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -51,6 +58,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-tips-for-silent-screen-capture/"><u>[New] Top Tips for Silent Screen Capture</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx/"><u>[Updated] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-todays-drones-tomorrows-promise/"><u>[Updated] Unveiling Today's Drones Tomorrow's Promise</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2-ways-to-add-a-letterbox-for-facebook-videos-for-2024/"><u>2 Ways to Add a Letterbox for Facebook Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-precision-subtitle-tweaking-for-the-mac-pro-user/"><u>2024 Approved Precision Subtitle Tweaking for the Mac Pro User</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-shots-a-windows-11-guide/"><u>2024 Approved Streamline Your Shots A Windows 11 Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>2024 Approved Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fourth-of-july-special-offers-exclusive-discounts-on-smartphones-and-plans-techradar/"><u>Fourth of July Special Offers: Exclusive Discounts on Smartphones and Plans | TechRadar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-collection-of-film-scripts-by-genre/"><u>In 2024, The Ultimate Collection of Film Scripts by Genre</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mp3-conversion-made-simple-3-effective-techniques-for-podcast-files-for-2024/"><u>New MP3 Conversion Made Simple 3 Effective Techniques for Podcast Files for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mlining-creative-journey-uploading-imovie-videos-to-youtube/"><u>Streamlining Creative Journey Uploading iMovie Videos to YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-live-setting-picks-for-2024/"><u>Ultimate Live Setting Picks for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Wear OS Upgrade: Now with Google Wallet's Loyalty Program Integration Featuring Starbucks & CVS"
-date: 2024-09-18 23:57:44
-updated: 2024-09-20 12:56:38
+date: 2024-10-26T10:01:35.945Z
+updated: 2024-10-31T18:01:36.015Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,29 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +77,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +91,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-how-to-use-green-screen-for-streaming/"><u>[New] How to Use Green Screen for Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mobile-friendly-youtubing-with-no-high-subscriber-count/"><u>[New] Mobile-Friendly YouTubing with No High Subscriber Count</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-gimbals-seamless-video-on-smartphones-and-dslrs/"><u>[Updated] Innovative Gimbals Seamless Video on Smartphones & DSLRs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-drone-buying-roadmap-pre-purchase-essentials/"><u>[Updated] The Ultimate Drone Buying Roadmap Pre-Purchase Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-your-fcp-potential-with-these-10-plugs/"><u>[Updated] Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-perfect-snap-on-pexels/"><u>2024 Approved Capturing the Perfect Snap on Pexels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-zero-cost-digital-picture-upscaler/"><u>2024 Approved Top-Tier Zero-Cost Digital Picture Upscaler</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-techniques-for-mastering-srt-file-generation/"><u>2024 Approved Unveiling Top Techniques for Mastering SRT File Generation</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/best-solutions-resolving-wifi-connectivity-issues-post-ios-18-or-17-updates/"><u>Best Solutions: Resolving WiFi Connectivity Issues Post-iOS 18 or 17 Updates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/hero-11-and-max-360-comparing-the-bests-in-gopros-world-for-2024/"><u>Hero 11 and Max 360 Comparing the Bests in GoPro's World for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-hp-printer-drivers-step-by-step-instructions-for-safe-download/"><u>How to Update Your HP Printer Drivers – Step-by-Step Instructions for Safe Download</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-should-you-keep-previewing-fb-activity-visible-insights/"><u>In 2024, Should You Keep Previewing FB Activity Visible? Insights</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211191339-9781454953852-social-media-spellbook/"><u>Social Media Spellbook | Free Book</u></a></li>
+<li><a href="https://video-capture.techidaily.com/techniques-to-enhance-your-video-gaming-archive/"><u>Techniques to Enhance Your Video Gaming Archive</u></a></li>
+</ul></div>
+

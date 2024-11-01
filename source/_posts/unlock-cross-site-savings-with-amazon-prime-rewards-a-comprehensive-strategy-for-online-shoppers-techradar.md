@@ -1,7 +1,7 @@
 ---
 title: Unlock Cross-Site Savings with Amazon Prime Rewards - A Comprehensive Strategy for Online Shoppers | TechRadar
-date: 2024-09-19 21:21:12
-updated: 2024-09-20 11:51:50
+date: 2024-10-26T21:39:52.826Z
+updated: 2024-11-01T04:25:24.176Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -43,6 +57,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +71,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-streams-to-local-files-audio-guide-for-2024/"><u>[New] From YouTube Streams to Local Files Audio Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[New] Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[New] Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-portraying-paradoxes-effects-for-time-travel-films/"><u>[Updated] Portraying Paradoxes Effects for Time Travel Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-tips-how-to-get-fcp-without-money/"><u>2024 Approved Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>2024 Approved Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/building-a-successful-career-through-youtube-short-film-making/"><u>Building a Successful Career Through YouTube Short Film-Making</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-find-n3-phone-without-password-by-drfone-android/"><u>How To Unlock Oppo Find N3 Phone Without Password?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-y36-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo Y36 Phones with/without a PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>In 2024, The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience/"><u>In 2024, Through the Looking Glass Decoding the Secrets to a Superior Windows 11 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>In 2024, Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-guide-to-choosing-among-15-great-free-uninstallers/"><u>The Complete Guide to Choosing Among 15 Great Free Uninstallers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unblemished-visuals-a-buyers-ultimate-guide/"><u>Unblemished Visuals A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-speed-edit-photos-in-windows-11-for-2024/"><u>Unlocking Speed Edit Photos in Windows 11 for 2024</u></a></li>
+</ul></div>
+

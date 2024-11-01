@@ -1,7 +1,7 @@
 ---
 title: "In 2030: How Digital Wallet Technology Eliminates the Need for Physical Cards | ZDNet"
-date: 2024-09-18 13:17:27
-updated: 2024-09-20 11:17:19
+date: 2024-10-29T13:41:42.545Z
+updated: 2024-11-01T04:59:46.101Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -65,11 +72,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,25 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-leading-4k-gaming-pcs-top-ten-selection/"><u>[New] 2024 Approved Leading 4K Gaming PCs - Top Ten Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>[Updated] Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-best-7-ai-programs-to-excel-in-your-math-studies/"><u>Explore the Best 7 AI Programs to Excel in Your Math Studies</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-youtube-outro-kings-6-top-suggestions-for-2024/"><u>Free YouTube Outro Kings 6 TOP Suggestions for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-vs-bing-chat-which-one-will-you-choose/"><u>Google Bard Vs. Bing Chat – Which One Will You Choose?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-xs-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone XS Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>In 2024, The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-13-pro-max-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 13 Pro Max & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-effective-b-roll-application-for-2024/"><u>Strategies for Effective B-Roll Application for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-role-of-authenticity-in-client-generated-marketing-for-2024/"><u>The Role of Authenticity in Client-Generated Marketing for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unparalleled-8-webcams-elevate-your-livestream-experience-for-2024/"><u>Unparalleled 8 Webcams Elevate Your Livestream Experience for 2024</u></a></li>
+</ul></div>
+

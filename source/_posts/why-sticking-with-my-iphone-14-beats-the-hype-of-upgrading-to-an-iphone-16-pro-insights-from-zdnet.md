@@ -1,7 +1,7 @@
 ---
 title: Why Sticking with My iPhone 14 Beats the Hype of Upgrading to an iPhone 16 Pro - Insights From ZDNet
-date: 2024-10-22T17:13:24.729Z
-updated: 2024-10-26T17:37:15.202Z
+date: 2024-10-28T23:15:00.243Z
+updated: 2024-10-31T19:46:13.003Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,16 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -135,17 +129,24 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-toddler-tycoon-how-ryans-channel-earnings-shook-the-internet/"><u>[New] In 2024, Toddler Tycoon How Ryan's Channel Earnings Shook the Internet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-sound-transformation-app-for-valorant-the-best-free-choice/"><u>[Updated] Ultimate Sound Transformation App for Valorant The Best Free Choice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-superior-video-compression-in-av1/"><u>[Updated] Unveiling the Superior Video Compression in AV1</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-secrets-of-inshot-editing-excellence/"><u>2024 Approved Unraveling the Secrets of InShot Editing Excellence</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-techniques-to-launch-a-viral-solo-podcast/"><u>Essential Techniques to Launch a Viral Solo Podcast</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-audio-dilemma-sony-wh-1000-headphones-mic-malfunction-on-pcs-explained/"><u>Fixing the Audio Dilemma: Sony WH-1000 Headphones Mic Malfunction on PCs Explained</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-video-editing-with-device-filters/"><u>In 2024, Streamlining Your Video Editing with Device Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-compact-powerhouse-in-flight-dji-sparks-guide-to-aerial-selfies/"><u>In 2024, The Compact Powerhouse in Flight DJI Spark's Guide to Aerial Selfies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-video-vroom-guide-rotating-images-to-gain-insta-momentum/"><u>In 2024, The Video Vroom Guide Rotating Images to Gain Insta Momentum</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/unbiased-review-of-videopad-video-editor-worth-the-investment-or-not/"><u>Unbiased Review of Videopad Video Editor Worth the Investment or Not?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-ultimate-guide-to-text-tracking-software-2023-edition/"><u>Updated 2024 Approved Ultimate Guide to Text Tracking Software 2023 Edition</u></a></li>
-<li><a href="https://win-docs.techidaily.com/sovremennye-instrumenty-optimizacii-dlya-elektronnyh-platform-prodazh-proryvnye-resheniya-2024-goda/"><u>Современные Инструменты Оптимизации Для Электронных Платформ Продаж: Прорывные Решения 2024 Года</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rafting-stunning-youtubers-imagery-a-comprehensive-walkthrough-for-2024/"><u>[New] Crafting Stunning YouTubers' Imagery A Comprehensive Walkthrough for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unplugged-thrills-10-best-screen-free-gaming-on-android-devices/"><u>[Updated] In 2024, Unplugged Thrills 10 Best Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-video-visibility-barriers-in-social-networking/"><u>[Updated] Navigating Video Visibility Barriers in Social Networking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-5-mac-videography-tools-unleashed-in-sierra-os/"><u>[Updated] Top 5 Mac Videography Tools Unleashed in Sierra OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unrivaled-sonic-union-for-speakers/"><u>[Updated] Unrivaled Sonic Union for Speakers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>2024 Approved Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-to-buying-todays-best-360-cameras/"><u>2024 Approved Unveiling the Secrets to Buying Today's Best 360 Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-iphones-full-screen-memories/"><u>2024 Approved Utilizing iPhone's Full-Screen Memories</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-bw-16d1x-u-powerful-blu-ray-drive-review/"><u>Asus BW-16D1X-U Powerful Blu-Ray Drive Review</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-chat-upgrade-enhanced-messenger-instagram-communication-awaits/"><u>Facebook's Chat Upgrade: Enhanced Messenger, Instagram Communication Awaits</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-7-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 7 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ignite-dreams-the-best-movies-to-energize-your-soul/"><u>Ignite Dreams The Best Movies to Energize Your Soul</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-photo-backdrop-removal-in-picsart/"><u>In 2024, The Essential Guide to Photo Backdrop Removal in Picsart</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-stock-image-memes-real-life-narratives/"><u>In 2024, Top 10 Stock Image Memes Real Life Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-musical-talent-with-magix-studio/"><u>In 2024, Unleashing Musical Talent with Magix Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unmatched-portfolio-boosters-top-free-3d-texts/"><u>In 2024, Unmatched Portfolio Boosters - Top Free 3D Texts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-no-cost-high-reward-top-10-free-online-video-quality-enhancement-tools/"><u>New In 2024, No Cost, High Reward Top 10 Free Online Video Quality Enhancement Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-the-power-of-slow-motion-in-windows-live-movie-maker-updated-2023-for-2024/"><u>New Unlock the Power of Slow Motion in Windows Live Movie Maker (Updated 2023) for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-ultimate-college-laptop-choice-a-surprising-alternative-to-apple-and-lenovo-at-20-off-tech-reviews-by-zdnet/"><u>Unveiling the Ultimate College Laptop Choice – A Surprising Alternative to Apple and Lenovo at 20% Off | Tech Reviews by ZDNet</u></a></li>
 </ul></div>
 

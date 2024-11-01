@@ -1,7 +1,7 @@
 ---
 title: ZDNet.
-date: 2024-09-17 13:38:13
-updated: 2024-09-20 11:52:59
+date: 2024-10-31T10:41:09.060Z
+updated: 2024-10-31T18:49:46.194Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-9-listing-best-virtual-microphones-recorders-2023/"><u>[New] Ultimate 9 Listing Best Virtual Microphones Recorders 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[New] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-of-zoom-meetings/"><u>[New] Unlocking the Potential of Zoom Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-vrs-impact-on-digital-cinema/"><u>[New] Unraveling VR's Impact on Digital Cinema</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-beatniks-guide-to-music-enhanced-snapchats/"><u>[Updated] 2024 Approved Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-touch-ups-for-your-tiktok-media/"><u>[Updated] Professional Touch-Ups for Your TikTok Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-to-top-video-editors-for-webcams-for-2024/"><u>[Updated] Ultimate Guide to Top Video Editors for Webcams for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-web-conversion-solutions-for-direct-hassle-free-gif-to-video/"><u>Best Web Conversion Solutions For Direct, Hassle-Free GIF To Video</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a05s-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A05s Phone?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>In 2024, Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/voice-message-capture-and-storage-iphone-x2/"><u>Voice Message Capture & Storage iPhone X2</u></a></li>
+</ul></div>
+

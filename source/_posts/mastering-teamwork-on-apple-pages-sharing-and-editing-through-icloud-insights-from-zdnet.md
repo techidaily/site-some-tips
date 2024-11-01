@@ -1,7 +1,7 @@
 ---
 title: "Mastering Teamwork on Apple Pages: Sharing and Editing Through iCloud - Insights From ZDNet"
-date: 2024-10-25T16:48:10.389Z
-updated: 2024-10-26T18:29:21.597Z
+date: 2024-10-29T17:29:00.029Z
+updated: 2024-11-01T12:43:19.120Z
 tags:
   - apple
 categories:
@@ -27,6 +27,13 @@ I use Apple Pages when collaborating on fiction with my editor and publisher. No
 
 Let me show you how easy it is to use the Collaboration feature found in Apple Pages. Not only is the app free, but the feature is also built in (so you don't have to install any extra software). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Requirements
 
 The only things you'll need to make this work are a running instance of MacOS (which includes the iWork office suite), and an [iCloud](https://www.icloud.com/) account. Without an iCloud account, you cannot use the collaboration feature. So, before you continue, make sure you have an iCloud account and can log in to it.
@@ -34,15 +41,22 @@ The only things you'll need to make this work are a running instance of MacOS (w
 I'll be demonstrating on a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) running MacOS Monterey.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enable iCloud Collaboration
 
 Before you can collaborate on a Pages document, you must first enable iCloud Collaboration. To do that, follow these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
@@ -60,21 +74,7 @@ In the next window (**Figure 2**), click the check box for Pages and then click 
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Enable the Collaboration feature
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Open an Apple Pages document
 
@@ -85,10 +85,10 @@ The first thing you must do is open the Pages document that will be shared with 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Enable the Collaborate feature
@@ -157,18 +157,21 @@ And that's all there is to collaborating with Apple Pages. This is a great featu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-clear-video-borders-streamline-webcam-footage/"><u>[New] 2024 Approved Clear Video Borders Streamline Webcam Footage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-iphone-time-travel-mastering-prolonged-photo-captures-for-2024/"><u>[New] IPhone Time Travel Mastering Prolonged Photo Captures for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-summit-of-synergy-for-vr-sensations/"><u>[New] Summit of Synergy for VR Sensations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tips-for-a-pristine-image-canvas-background-technique/"><u>[New] Tips for a Pristine Image Canva's Background Technique</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-ringtone-reserves-retro-rhythms-online/"><u>2024 Approved Prime Ringtone Reserves Retro Rhythms Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-effective-metaverse-engagement-tactics/"><u>2024 Approved Unveiling Effective Metaverse Engagement Tactics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worlds-through-media-understanding-facebook-twitter-instagram-and-youtube-impact/"><u>Connecting Worlds Through Media: Understanding Facebook, Twitter, Instagram & YouTube Impact</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-7-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 7 without Apple ID?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/speedy-installation-guide-for-intel-irisplus-graphics-640-drivers-hassle-free-and-quick-setup-tips/"><u>Speedy Installation Guide for Intel Iris+ Graphics 640 Drivers – Hassle-Free and Quick Setup Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-vanguard-of-radio-theatre-composition-for-2024/"><u>The Vanguard of Radio-Theatre Composition for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-screen-changers-for-vivid-virtual-imagery-for-2024/"><u>Top Screen Changers for Vivid Virtual Imagery for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide-for-2024/"><u>Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-guide-to-premium-no-cost-online-recorders/"><u>[New] In 2024, Comprehensive Guide to Premium, No-Cost Online Recorders</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-spectacular-4k-tvs-nine-picks-for-exceptional-color-fidelity/"><u>[New] Spectacular 4K TVs Nine Picks for Exceptional Color Fidelity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>[New] Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-video-capture-on-hangouts/"><u>[Updated] Mastering Video Capture on Hangouts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-key-gear-for-broadcast-engineers-and-directors/"><u>2024 Approved Key Gear for Broadcast Engineers and Directors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-making-movies-magical-the-use-of-youtube-music-in-videos/"><u>2024 Approved Making Movies Magical The Use of YouTube Music in Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-altering-photographic-contrast/"><u>2024 Approved The Art of Altering Photographic Contrast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-viral-potential-with-ai-driven-video-titles/"><u>2024 Approved Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comprehensive-catalog-of-languages-spains-neighbors/"><u>Comprehensive Catalog of Languages: Spain's Neighbors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-nord-n30-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus Nord N30 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tune-into-visuals-embedding-music-in-powerpoint/"><u>In 2024, Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-integration-a-step-by-step-tutorial/"><u>Mastering ChatGPT Integration: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/superior-solutions-3d-models-in-animation-space-for-2024/"><u>Superior Solutions 3D Models in Animation Space for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-close-up-meetings-in-ms-teams-for-2024/"><u>The Art of Close-Up Meetings in MS Teams for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-civi-3-disney-100th-anniversary-edition-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Civi 3 Disney 100th Anniversary Edition Device</u></a></li>
 </ul></div>
 

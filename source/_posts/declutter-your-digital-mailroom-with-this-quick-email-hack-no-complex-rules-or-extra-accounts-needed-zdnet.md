@@ -1,7 +1,7 @@
 ---
 title: Declutter Your Digital Mailroom with This Quick Email Hack - No Complex Rules or Extra Accounts Needed | ZDNet
-date: 2024-10-20T16:11:59.553Z
-updated: 2024-10-26T16:31:57.800Z
+date: 2024-10-28T16:51:15.359Z
+updated: 2024-10-31T18:22:21.000Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Gmail
@@ -76,10 +76,10 @@ Although it's the world's most popular email service, Gmail's implementation of 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
@@ -93,10 +93,10 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to create an alias using your Apple ID
@@ -110,10 +110,16 @@ The one catch is that each alias uses an auto-generated name that can be less th
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other alias options
@@ -154,18 +160,24 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-capturing-content-with-confidence-winning-strategies-for-igtv-acquisition/"><u>[New] Capturing Content with Confidence Winning Strategies for IGTV Acquisition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-photoshop-for-beginners-top-editing-hacks-revealed/"><u>[New] Photoshop For Beginners Top Editing Hacks Revealed</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-sprint-to-quicker-vimeo-streams/"><u>[Updated] 2024 Approved Sprint to Quicker Vimeo Streams</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-visualizer-speedster-for-windows-10/"><u>[Updated] Ultimate Visualizer - Speedster for Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-sixers-comprehensive-4k-camera-guide/"><u>2024 Approved Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-product-placement/"><u>2024 Approved The Art of Product Placement</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comment-corriger-le-probleme-de-mise-a-jour-windows-11-version-22h2-non-affiche/"><u>Comment Corriger Le Problème De Mise À Jour Windows 11 Version 22H2 Non Affiché?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-corsair-icue-driver-download-supports-both-windows-11-and-10-systems/"><u>Latest Corsair iCUE Driver Download – Supports Both Windows 11 and 10 Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/low-end-pc-reach-high-with-best-obs-configuration-for-2024/"><u>Low-End PC Reach High with Best OBS Configuration for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach-for-2024/"><u>Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/techniques-for-swapping-video-content-in-android-for-2024/"><u>Techniques for Swapping Video Content in Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-8-apps-accelerating-slow-motion-footage-for-2024/"><u>Top 8 Apps Accelerating Slow Motion Footage for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[New] Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamlining-short-form-content-leading-edits-for-iosandroid/"><u>[New] In 2024, Streamlining Short-Form Content Leading Edits for iOS/Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked/"><u>[Updated] Speech Logging Made Easy on Mac The Top 5 Tools Tested & Ranked</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-easy-way-to-spruce-up-your-youtube-feedback-with-emojis/"><u>2024 Approved The Easy Way to Spruce Up Your YouTube Feedback with Emojis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-dominates-the-2023-everest-group-id-5-assessment-peaking-with-excellence/"><u>ABBYY Dominates the 2023 Everest Group ID-5 Assessment, Peaking with Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-chip-vonburg-as-their-new-cco/"><u>ABBYY Welcomes Chip VonBurg as Their New CCO</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-streamlining-user-experience-through-smart-marketing-automation/"><u>Cookiebot Driven Solutions: Streamlining User Experience Through Smart Marketing Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-marketing-unleashing-the-full-potential-of-your-digital-strategy/"><u>Cookiebot-Driven Marketing: Unleashing the Full Potential of Your Digital Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-solutions-enhance-your-sites-user-experience/"><u>Cookiebot-Enabled Solutions: Enhance Your Site's User Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/defleurage-dimages-des-astuces-simples-pour-un-resultat-impeccable/"><u>Défleurage D'Images: Des Astuces Simples Pour Un Résultat Impeccable</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-converting-videos-tofrom-quicktime-format-on-windows-and-mac-devices/"><u>Easy Guide: Converting Videos To/From QuickTime Format on Windows & Mac Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-leveraging-chatgpt-in-online-team-collaborations/"><u>Effective Strategies: Leveraging ChatGPT in Online Team Collaborations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effizientes-antragsmanagement-fur-helfer-durch-help-ev-mithilfe-von-abbyy-formreader-ein-leitfaden-zur-vereinfachung-der-mitgliedschaftseinwerbung/"><u>Effizientes Antragsmanagement Für Helfer Durch HELP E.V. Mithilfe Von ABBYY FormReader - Ein Leitfaden Zur Vereinfachung Der Mitgliedschaftseinwerbung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-web-experiences-with-our-cookiebot-enabled-tools-and-insights/"><u>Elevate Web Experiences with Our Cookiebot-Enabled Tools and Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-decades-best-anime-opening-songs-compiled/"><u>In 2024, A Decade's Best Anime Opening Songs Compiled</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/la-participation-dabbyy-a-la-conference-documation-2016-une-partenariat-strategique-avec-xerox-et-abildoc/"><u>La Participation D'ABBYY À La Conférence Documation 2016: Une Partenariat Stratégique Avec Xerox Et AbilDoc</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximizing-performance-in-policy-oversight-key-strategies-and-benefits-with-abbyy-automation-solutions/"><u>Maximizing Performance in Policy Oversight: Key Strategies and Benefits with ABBYY Automation Solutions</u></a></li>
 </ul></div>
 

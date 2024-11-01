@@ -1,7 +1,7 @@
 ---
 title: "Pros & Cons of Switching to the New iPhone 16: Insights From Leading Tech Experts at ZDNet"
-date: 2024-10-20T16:26:23.866Z
-updated: 2024-10-26T18:25:11.816Z
+date: 2024-10-28T13:04:33.360Z
+updated: 2024-11-01T12:39:05.594Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here are the top reasons why we are (or aren't) upgrading to the iPhone 16 in th
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The camera
@@ -53,13 +53,6 @@ The Camera Control uses [Apple's Visual Intelligence](https://www.zdnet.com/arti
 
 "I have the biggest one-sided beef in the world with the iPhone 14\. I can give you material for years. Primarily because the camera is the worst thing I ever experienced on an iPhone. Even the base iPhone 16 model looks way better," Ortiz says.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Trade-in deals and carrier offers
 
 I told you we're really all just like you. Some ZDNET tech experts are ready to jump to the new iPhone 16 thanks to great carrier and trade-in offers on the models and are even more enthusiastic if they're ready for an upgrade. 
@@ -71,6 +64,13 @@ ZDNET contributor Ed Bott is planning to upgrade his iPhone 12 Pro Max for a new
 And if you're looking to change carriers, like managing editor Alison DeNisco Rayome, some of the trade-in offers make it hard to resist. "I still have the 13, and the trade-in deals are making it worth it for me to upgrade to the 16 (plus we want to switch carriers, so even better)," she says. 
 
 Verizon and T-Mobile have [similar offers](https://www.zdnet.com/article/how-to-preorder-the-new-iphone-16-and-get-one-free/) right now, and they're pretty sweet. At T-Mobile, new and existing customers can get a free iPhone 16 Pro with a trade-in on the Go5G Next plan, or up to $1,000 off on any iPhone 16 model. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. For work
 
@@ -99,10 +99,10 @@ ZDNET's Jason Perlow is bumping up for similar reasons. "I am upgrading from my 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The Apple Intelligence features aren't perfect
@@ -124,10 +124,10 @@ As reviews editor Kyle Kucharski says, it's never a good idea to blindly update 
 Staff writer Maria Diaz thinks the same. "I have the iPhone 14 Pro Max and am still happy with it. It performs just as well as when I got it. I wish the camera were better (but the BlackMagic app helps a lot with this) and I would like the convenience of a USB-C port, but it's still working well enough that I don't feel compelled at all to get an iPhone 16\. I'm holding out for next year, at least," Diaz says. Kucharski is on the same page. "I still have the 12, and the bottom line: it still works fine," he says. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Expense and hassle
@@ -176,24 +176,22 @@ The [iPhone 16 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-transformation-mp4-plus-srt-success/"><u>[New] The Ultimate Transformation MP4 + SRT Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-live-streaming-360-video-to-youtube/"><u>[Updated] How to Live Streaming 360 Video to Youtube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-most-acclaimed-podcast-platforms-for-macbook-aficionados/"><u>[Updated] The Most Acclaimed Podcast Platforms for macBook Aficionados</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-nba-game-streaming-a-comprehensive-guide/"><u>2024 Approved Mastering NBA Game Streaming A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>2024 Approved The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-effect-overhaul-the-two-pronged-approach/"><u>2024 Approved TikTok Effect Overhaul The Two-Pronged Approach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-10-best-zero-cost-srt-conversion-software/"><u>2024 Approved Ultimate List of 10 Best Zero-Cost Srt Conversion Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/5-simple-methods-wirelessly-moving-data-from-iphone-to-your-computer/"><u>5 Simple Methods: Wirelessly Moving Data From iPhone to Your Computer</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cant-view-mov-movies-content-on-samsung-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enabling-and-disabling-network-discovery-on-your-windows-10-pc-a-step-by-step-guide/"><u>Enabling and Disabling Network Discovery on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-x50-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from X50</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-glitch-video-editors-for-desktop-and-online-use/"><u>In 2024, Discover the Best Glitch Video Editors for Desktop and Online Use</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-access-royalty-free-clip-art-tips/"><u>In 2024, Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-future-of-sound-design-magix-music-makers-latest-upgrade-for-2024/"><u>The Future of Sound Design Magix Music Maker's Latest Upgrade for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-cinema-teasers-compilation-for-2024/"><u>Top Cinema Teasers Compilation for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-stressful-moments-solutions-with-chatgpt/"><u>Transforming Stressful Moments: Solutions with ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-virtual-reality-on-pc-a-comprehensive-guide-for-psvr-users/"><u>Unlocking Virtual Reality on PC: A Comprehensive Guide for PSVR Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-collabcanvas-mosaic-magic-on-instagram-devices-for-2024/"><u>[New] CollabCanvas Mosaic Magic on Instagram Devices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-cropping-settings-in-digital-editors/"><u>[New] Understanding Cropping Settings in Digital Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-unusual-upward-turning-of-ig-video-images/"><u>[Updated] The Unusual Upward Turning of IG Video Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-podcast-choices-for-gpodc-users/"><u>2024 Approved Premier Podcast Choices for GPodC Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>2024 Approved The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-savvy-mastering-podcast-playback-on-iphones/"><u>2024 Approved The Sound Savvy Mastering Podcast Playback on iPhones</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cprmwindows11-2024/"><u>CPRM解除フリーソフトを使って、Windows11で最適化された音楽体験 - 2024年のオススメ</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-elite-selection-of-network-enclosures-proven-winners-of-2024/"><u>Explore the Elite Selection of Network Enclosures: Proven Winners of 2024!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-recover-disappearing-desktop-icons-on-your-windows-10-pc-a-step-by-step-guide/"><u>How to Recover Disappearing Desktop Icons on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>In 2024, Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://games-able.techidaily.com/opera-gx-versus-edge-the-quest-for-premier-gaming-browser/"><u>Opera GX Versus Edge: The Quest for Premier Gaming Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/photos-that-speak-volumes-starting-with-lunapics-tutorial-for-2024/"><u>Photos That Speak Volumes Starting with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-hand-tracking-encyclopedia-for-2024/"><u>The Complete Hand-Tracking Encyclopedia for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-skyward-voyage-of-gopro-karma-analysis-for-2024/"><u>The Skyward Voyage of GoPro Karma Analysis for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-correcting-fat-file-system-problems-in-windows-10/"><u>Troubleshooting Guide: Correcting FAT File System Problems in Windows 10</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-elite-lineup-expertly-curated-combinations-of-modems-with-routers-for-maximum-connectivity/"><u>Unveiling the Elite Lineup: Expertly Curated Combinations of Modems with Routers for Maximum Connectivity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/watching-social-media-videos-on-appletv-for-2024/"><u>Watching Social Media Videos on AppleTV for 2024</u></a></li>
 </ul></div>
 

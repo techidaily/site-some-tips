@@ -1,7 +1,7 @@
 ---
 title: "Slash Your Wardrobe Costs: The Ultimate Chrome Extension for Savvy Shoppers"
-date: 2024-09-19 20:49:40
-updated: 2024-09-20 12:11:10
+date: 2024-10-25T17:06:53.735Z
+updated: 2024-10-31T19:45:07.207Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -71,9 +85,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-3d-tools-for-animated-designers/"><u>[New] Superior 3D Tools for Animated Designers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-journey-around-the-world-on-youtube-including-you/"><u>[Updated] Journey Around the World on YouTube, Including You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-top-tier-photo-viewing-app/"><u>[Updated] Swift Top-Tier Photo Viewing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>[Updated] The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-transforming-twitter-vids-to-mp3-audios/"><u>2024 Approved Techniques for Transforming Twitter Vids to MP3 Audios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>2024 Approved The Ultimate VR Player Guide Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/4-heritages-francais-un-souhait-de-grace/"><u>4 Héritages Français: Un Souhait De Grâce</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-advanced-ai-forefronts-potential-versus-chatgpts-limits/"><u>Exploring Advanced AI: Forefront's Potential Versus ChatGPT's Limits</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Identify some outdated hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-mixing-linktree-and-tiktok-bios/"><u>In 2024, The Essential Guide to Mixing Linktree and TikTok Bios</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-11-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 11 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/section-4b-five-factfactors-about-nanotechnology-in-dental-materials/"><u>Section 4B: Five Fact.factors About Nanotechnology in Dental Materials</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-srt-to-subc-innovative-techniques-explored/"><u>The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+</ul></div>
+

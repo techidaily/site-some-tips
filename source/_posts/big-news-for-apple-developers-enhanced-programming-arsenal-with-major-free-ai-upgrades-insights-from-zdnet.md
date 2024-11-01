@@ -1,7 +1,7 @@
 ---
 title: "Big News for Apple Developers: Enhanced Programming Arsenal with Major Free AI Upgrades – Insights From ZDNet"
-date: 2024-10-24T18:45:54.929Z
-updated: 2024-10-26T16:51:29.984Z
+date: 2024-10-31T07:40:13.919Z
+updated: 2024-10-31T20:39:51.097Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,14 +133,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/1726224657063-x-plus-y-plus-z-(-21/"><u> [ X + Y + Z < 21 </u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-androids-top-game-lineup-for-disconnected-device-enthusiasts/"><u>[Updated] 2024 Approved Android's Top Game Lineup for Disconnected Device Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversion-libre-dun-fichier-aac-au-format-mp3-via-internet-avec-movavi/"><u>Conversion Libre D'un Fichier AAC Au Format MP3 via Internet Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/instantly-convert-your-pef-images-to-pngs-for-free-using-the-moveavi-tool/"><u>Instantly Convert Your PEF Images to PNGs for Free Using the Moveavi Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/master-your-wit-kapwing-meme-creator-guide/"><u>Master Your Wit Kapwing Meme Creator Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/mastering-driver-updates-for-razer-blade-17-a-guide-for-windows-11-10-8-and-7-users/"><u>Mastering Driver Updates for Razer Blade 17: A Guide for Windows 11, 10, 8 & 7 Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformation-de-fichiers-avi-en-aac-sans-frais-sur-le-site-web-movavi/"><u>Transformation De Fichiers AVI en AAC Sans Frais Sur Le Site Web Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unreposting-content-a-simple-fix-for-duplicates-on-tiktok/"><u>Unreposting Content: A Simple Fix for Duplicates on TikTok</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-animators-toolkit-windows-movie-maker-for-winning-projects/"><u>[New] The Animator's Toolkit Windows Movie Maker for Winning Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-swift-students-guide-to-bypassing-edgenuity-videos/"><u>[New] The Swift Student's Guide to Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-performance-probe-a-vll-app-overview/"><u>[Updated] In 2024, Performance Probe A VLL App Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-to-enthralling-unboxing-content-on-insta/"><u>[Updated] Unlock the Secrets to Enthralling Unboxing Content on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-expert-guide-to-navigating-win11-easily/"><u>2024 Approved The Expert Guide to Navigating Win11 Easily</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/backup-rapido-e-semplice-con-il-software-datadi-su-windows-server-2012-r2/"><u>Backup Rapido E Semplice Con Il Software DataDi Su Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-big-four-social-media-giants-facebook-twitter-instagram-and-youtube/"><u>Exploring the Big Four: Social Media Giants Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-4g-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 4G Bootloader Easily</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-aqtime-media-center-diverse-audio-video-options/"><u>In 2024, Aqtime Media Center Diverse Audio, Video Options</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-10-proplus-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 10 Pro+ 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-play-40c-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor Play 40C</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartphone-list-for-capturing-crystal-clear-video-for-2024/"><u>Ultimate Smartphone List for Capturing Crystal Clear Video for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers for 2024</u></a></li>
 </ul></div>
 

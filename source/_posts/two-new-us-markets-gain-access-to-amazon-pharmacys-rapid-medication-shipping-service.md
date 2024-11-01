@@ -1,7 +1,7 @@
 ---
 title: Two New US Markets Gain Access to Amazon Pharmacy's Rapid Medication Shipping Service
-date: 2024-09-19 21:46:26
-updated: 2024-09-20 10:59:45
+date: 2024-10-25T11:37:00.538Z
+updated: 2024-10-31T16:37:16.698Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -75,9 +89,29 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screen-recording-mastery-with-lenovo-gear-for-2024/"><u>[New] Screen Recording Mastery with Lenovo Gear for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-ensuring-unbiased-decision-making/"><u>[New] Techniques For Ensuring Unbiased Decision-Making</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>[New] The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[Updated] In 2024, Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[Updated] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-mystery-of-apples-new-ios-camera/"><u>[Updated] Unraveling the Mystery of Apple's New iOS Camera</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-boosting-instagram-video-speed-onlinemobile/"><u>2024 Approved Boosting Instagram Video Speed Online/Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-at-memes-app-version/"><u>2024 Approved The Best at Memes (App Version)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/best-free-mac-os-x-big-sur-mp3-player-apps-top-picks-and-downloads/"><u>Best Free Mac OS X Big Sur MP3 Player Apps: Top Picks & Downloads</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-the-meaning-and-price-of-grok-ai-through-elons-lens/"><u>Decoding the Meaning and Price of Grok AI Through Elon's Lens</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/edit-raw-images-using-free-cross-platform-application-darktable-for-os-x-and-linux-users/"><u>Edit RAW Images Using Free, Cross-Platform Application – Darktable for OS X and Linux Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-common-rust-visual-malfunction/"><u>How to Fix the Common Rust Visual Malfunction</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-asus-rog-phone-8-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Asus ROG Phone 8 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sage-streams-compiled-list-of-top-trivia-networks-2024-edition/"><u>Sage Streams Compiled List of Top Trivia Networks, 2024 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-mi-drone-4k-review-drones-vs-landscape-photography-for-2024/"><u>The Mi Drone 4K Review Drones vs Landscape Photography for 2024</u></a></li>
+</ul></div>
+

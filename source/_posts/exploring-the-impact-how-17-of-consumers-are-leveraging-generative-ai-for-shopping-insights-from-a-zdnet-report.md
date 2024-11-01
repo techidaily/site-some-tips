@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Impact: How 17%% of Consumers Are Leveraging Generative AI for Shopping - Insights From a ZDNet Report"
-date: 2024-09-18 10:17:19
-updated: 2024-09-20 11:54:33
+date: 2024-10-31T11:05:33.491Z
+updated: 2024-10-31T16:27:26.420Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -45,17 +52,38 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-adding-youtube-music-to-video/"><u>[New] Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-microcapture-video-logger-analysis-and-options/"><u>[Updated] 2024 Approved MicroCapture Video Logger Analysis & Options</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-premier-visionaries-in-multimedia-creation-for-2024/"><u>[Updated] Premier Visionaries in Multimedia Creation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-closer-look-approach-to-team-collaboration/"><u>[Updated] The Closer Look Approach to Team Collaboration</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>2024 Approved Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-key-to-making-youtube-videos-stand-out-on-instagram-stories/"><u>2024 Approved The Key to Making YouTube Videos Stand Out on Instagram Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>2024 Approved The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tweaking-sound-on-ps5ps4-games/"><u>2024 Approved Tweaking Sound on PS5/PS4 Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/free-film-fest-discover-all-you-need-to-know-about-crackles-offerings/"><u>Free Film Fest - Discover All You Need to Know About Crackle’s Offerings!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-game-ready-nvidia-drivers-for-your-windows-gaming-system/"><u>Get the Newest Game-Ready NVIDIA Drivers for Your Windows Gaming System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-magic-5-lite-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Magic 5 Lite? Try These Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-hdri-magic-compreranial-sdr-to-high-dynamic-range-upgrade/"><u>In 2024, Unlock HDRI Magic Compreranial SDR to High Dynamic Range Upgrade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-storytelling-potential-for-2024/"><u>Unlock Your Storytelling Potential for 2024</u></a></li>
+</ul></div>
+

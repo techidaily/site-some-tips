@@ -1,7 +1,7 @@
 ---
 title: "Rise of Non-Cash Payments: Predicting a $1.6 Trillion Market Led by Asia | ZDNet"
-date: 2024-09-18 16:50:18
-updated: 2024-09-20 12:18:25
+date: 2024-10-27T08:07:07.701Z
+updated: 2024-10-31T22:22:48.152Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +65,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,25 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-decoding-tiktoks-profile-picture-phenomenon/"><u>[New] In 2024, Decoding TikTok's Profile Picture Phenomenon</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-assessing-streaming-quality-vlc-versus-mx-for-2024/"><u>[Updated] Assessing Streaming Quality VLC versus MX for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-symphonic-syncopation-perfecting-audio-transitions/"><u>[Updated] Symphonic Syncopation Perfecting Audio Transitions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevating-your-gopro-videos-to-a-professional-standard/"><u>2024 Approved Elevating Your GoPro Videos to a Professional Standard</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-guide-to-stop-songs-from-auto-playing-on-your-apple-music-account/"><u>A Guide to Stop Songs From Auto-Playing On Your Apple Music Account</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-lunas-surprising-edge-in-the-streaming-game-arena-an-expert-review/"><u>Amazon Luna's Surprising Edge in the Streaming Game Arena – An Expert Review</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-yuva-3-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Lava Yuva 3 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-guide-to-iphone-voice-recording-techniques/"><u>In 2024, Essential Guide to iPhone Voice Recording Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-magic-behind-luts-crafting-captivating-photos-for-2024/"><u>The Magic Behind LUTs Crafting Captivating Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-twitch-loophole-reviving-forgotten-chats-for-2024/"><u>The Twitch Loophole Reviving Forgotten Chats for 2024</u></a></li>
+</ul></div>
+

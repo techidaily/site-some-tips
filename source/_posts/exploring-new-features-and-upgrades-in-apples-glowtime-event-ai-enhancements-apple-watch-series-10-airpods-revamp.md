@@ -1,7 +1,7 @@
 ---
 title: "Exploring New Features and Upgrades in Apple’s Glowtime Event: AI Enhancements, Apple Watch Series 10, AirPods Revamp"
-date: 2024-10-23T18:39:40.284Z
-updated: 2024-10-26T17:45:45.005Z
+date: 2024-10-27T10:47:31.148Z
+updated: 2024-10-31T23:51:53.520Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,16 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -95,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -139,14 +133,20 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-complete-analysis-hero4-black-system-for-2024/"><u>[New] Complete Analysis Hero4 Black System for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-assortment-of-gopro-modifications/"><u>[New] Ultimate Assortment of Gopro Modifications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>[New] Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/utube-video-ideas-for-sharing-your-personal-story/"><u>10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/20-most-popular-memes-on-reddit-and-twitter/"><u>20 Most Popular Memes on Reddit and Twitter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-quickest-way-to-entertain-kapwing-memes/"><u>2024 Approved The Quickest Way to Entertain - Kapwing Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-downloading-wm6/"><u>2024 Approved Ultimate Tutorial for Downloading WM6</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ate-the-world-of-tags-for-superior-content-performance/"><u>Navigate the World of Tags for Superior Content Performance</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/lueprint-for-successful-valorant-thumbnails-on-social-media-platforms-for-2024/"><u>The Blueprint for Successful Valorant Thumbnails on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-enhancing-snap-memories-with-android-and-mac-apps/"><u>[New] In 2024, Enhancing Snap Memories with Android and Mac Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pinnacle-10-battle-royale-experiences-for-2024/"><u>[New] Pinnacle 10 Battle Royale Experiences for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-mp3-streaming-simplified-youtube-upload-in-three-steps/"><u>[Updated] In 2024, MP3 Streaming Simplified YouTube Upload in Three Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>[Updated] Streamline Your Screen Experience PIP Mastery for Mac Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] Top Live Streaming Technologies for Broadcinas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-power-of-srt-in-broadcasting/"><u>[Updated] Unveiling the Power of SRT in Broadcasting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-smart-7-hd-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Smart 7 HD</u></a></li>
+<li><a href="https://article-posts.techidaily.com/digital-content-incorporation-for-todays-educator-for-2024/"><u>Digital Content Incorporation For Today's Educator for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/dishing-up-fun-the-ultimate-critique-of-the-hit-cooking-game-overcooked-2/"><u>Dishing Up Fun: The Ultimate Critique of the Hit Cooking Game, Overcooked! 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-note-30-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Note 30 Device</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/lg-360-degree-headset-review-next-gen-immersion/"><u>LG 360-Degree Headset Review - Next-Gen Immersion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion-for-2024/"><u>The Ultimate Handbook to Metaverse Promotion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Control Center Tweaks for iOS 18 Users – Tips & Tricks From ZDNet
-date: 2024-10-22T18:44:40.885Z
-updated: 2024-10-26T16:10:05.423Z
+date: 2024-10-30T06:38:55.707Z
+updated: 2024-11-01T10:27:03.921Z
 tags:
   - apple
 categories:
@@ -67,22 +67,15 @@ So, without further ado, let's get this app installed.
 
 That's it. Let's install!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open a terminal window
 
 The first thing to do is open your terminal window app. If your distribution has Snap support built into the GUI app store, you could search the store for iCloud Notes and install from there; otherwise, you'll need to do this from the command line.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Install iCloud Notes
@@ -96,10 +89,10 @@ When the installation finishes, you can close your terminal window.
 **Also: [Thinking about switching to Linux? 9 things you need to know](https://www.zdnet.com/article/thinking-about-switching-to-linux-9-things-you-need-to-know/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Logging into iCloud
@@ -107,10 +100,10 @@ When the installation finishes, you can close your terminal window.
 The next thing you'll need to do is log into your iCloud account. 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open iCloud Notes
@@ -120,6 +113,13 @@ From your desktop menu, open the iCloud Notes app. You should be presented with 
 The sign-in process for iCloud Notes is very simple.
 
 Screenshot by Jack Wallen/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Authenticate your login
 
@@ -169,22 +169,20 @@ So far I've been very pleased with this app. Although it doesn't include all of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unlocking-social-media-potential-stream-to-fb-via-obs/"><u>[New] 2024 Approved Unlocking Social Media Potential Stream to FB via OBS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-minimal-shake-cam-for-dynamic-shooting/"><u>[New] Minimal-Shake Cam for Dynamic Shooting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>[New] Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-6-comprehensive-metaverse-scenarios/"><u>[New] Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-6-crafted-urban-home-concepts-for-2024/"><u>[Updated] Optimal 6 Crafted Urban Home Concepts for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>[Updated] Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-see-someones-location-on-an-iphone/"><u>How to See Someone's Location on an iPhone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-a23-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mastering-meeting-media-converting-gotomeeting-files-g2m-into-various-video-formats-including-mp4-mov-and-wmv/"><u>Mastering Meeting Media: Converting GoToMeeting Files (G2M) Into Various Video Formats Including MP4, MOV, and WMV</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mic-errors-all-cleared-on-discord/"><u>Mic Errors: All Cleared on Discord</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide-for-2024/"><u>The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-enhancing-ar-with-lut-knowledge-for-2024/"><u>The Essential Guide to Enhancing AR with LUT Knowledge for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-pulse-of-the-population-vllo-analysis-for-2024/"><u>The Pulse of the Population VLLO Analysis for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-list-best-7-camcorders-for-waterproof-use-for-2024/"><u>The Ultimate List Best 7 Camcorders for Waterproof Use for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-top-5-drones-experts-choice-revealed-for-2024/"><u>Ultimate Top 5 Drones - Expert's Choice Revealed for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unraveling-the-complexities-of-firefox-split-screen-for-2024/"><u>Unraveling the Complexities of Firefox Split Screen for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>[New] 2024 Approved The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>[New] Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages/"><u>[Updated] 2024 Approved A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovate-your-intonation-ranking-the-best-audio-modification-apps-for-mobile/"><u>[Updated] 2024 Approved Innovate Your Intonation Ranking the Best Audio Modification Apps for Mobile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-hear-divine-voices-downloading-and-altering-ringtone-audio/"><u>[Updated] Hear Divine Voices Downloading & Altering Ringtone Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-affordable-360-degree-cameras/"><u>[Updated] Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[Updated] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>2024 Approved Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seeking-consistent-income-through-youtube/"><u>2024 Approved Seeking Consistent Income Through YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/expert-insights-into-iptv-stream-logging/"><u>Expert Insights Into IPTV Stream Logging</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>In 2024, Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprerancial-onestream-approach-to-online-streaming/"><u>In 2024, The Comprerancial OneStream Approach to Online Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>In 2024, Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
 </ul></div>
 

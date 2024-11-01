@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Exclusive How-To: Enabling iMessage for Windows Users"
-date: 2024-10-21T17:38:43.184Z
-updated: 2024-10-26T18:09:44.714Z
+date: 2024-10-25T01:46:08.317Z
+updated: 2024-10-31T20:45:47.413Z
 tags:
   - apple
 categories:
@@ -57,10 +57,10 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open Phone Link
@@ -68,6 +68,13 @@ Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings,
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -79,13 +86,6 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
@@ -93,10 +93,10 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
@@ -110,19 +110,6 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -152,6 +139,13 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -164,18 +158,18 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -213,21 +207,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premium-steadicam-options-for-high-quality-dslr-shoots/"><u>[New] 2024 Approved Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-depth-analysis-best-valheim-seeds-for-growth-for-2024/"><u>[New] In-Depth Analysis Best Valheim Seeds for Growth for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-gimp-ultimate-editing-course-review-for-2024/"><u>[Updated] GIMP Ultimate Editing Course Review for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-prime-additions-for-newbie-gopro-photographers-for-2024/"><u>[Updated] Prime Additions for Newbie GoPro Photographers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-steps-to-address-the-roblox-memory-warning-error-on-ios-devices/"><u>Comprehensive Steps to Address the Roblox Memory Warning Error on iOS Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-maximizing-your-designs-with-free-clip-art/"><u>In 2024, Maximizing Your Designs with FREE Clip Art</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-extensions-for-after-effects-magic/"><u>In 2024, Premium Extensions for After Effects Magic</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A54 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swiftly-assemble-a-stunning-google-image-mosaic-with-ease/"><u>In 2024, Swiftly Assemble a Stunning Google Image Mosaic with Ease</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/premier-5-iphones-for-podcast-aficionados-for-2024/"><u>Premier 5 iPhones for Podcast Aficionados for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/song-selection-guide-copyright-free-melodies-for-montages-for-2024/"><u>Song Selection Guide Copyright-Free Melodies for Montages for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-sci-fi-vr-adventures-new-realms-unveiled-for-2024/"><u>Top 10 Sci-Fi VR Adventures New Realms Unveiled for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-comprehensive-sync-protocol-for-iphone-to-snapchat-media/"><u>[New] Comprehensive Sync Protocol for iPhone to Snapchat Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-ios-cropping-enhancing-your-images/"><u>[New] The Ultimate Guide to iOS Cropping Enhancing Your Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-10-text-effects-to-elevate-your-clips/"><u>[New] The Ultimate List 10 Text Effects to Elevate Your Clips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-perfect-match-found-the-top-6-hdmi-21-monitors-reviewed/"><u>[Updated] Perfect Match Found The Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-blueprint-of-film-narrative/"><u>[Updated] The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-achieve-stardom-in-the-digital-world-by-growing-your-facebook-followers/"><u>2024 Approved Achieve Stardom in the Digital World by Growing Your Facebook Followers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-enjoy-your-content-youtube-shorts-are-shown-again/"><u>2024 Approved Enjoy Your Content – YouTube Shorts Are Shown Again</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>2024 Approved The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-20-non-copyrighted-pubg-image-gems/"><u>Best 20 Non-Copyrighted PUBG Image Gems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/connecting-to-the-airwaves-how-to-access-fm-radios-on-smartphones/"><u>Connecting to the Airwaves: How to Access FM Radios on Smartphones</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-logitech-g29-racing-wheel-drivers-for-latest-windows-os/"><u>Download the Logitech G29 Racing Wheel Drivers for Latest Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-places-to-access-westeros-themed-phone-sounds/"><u>In 2024, Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tunes-terms-and-copyrights-on-instagram/"><u>In 2024, Tunes, Terms, and Copyrights on Instagram</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-missed-calls-on-ios-devices/"><u>Resolving Issues with Missed Calls on iOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secrets-to-mass-downloading-videos-from-tiktok-for-2024/"><u>Secrets to Mass Downloading Videos From TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-of-iphone-1616-pro-sleeves-and-shields-in-202er-expert-reviews-and-comparisons-zdnet/"><u>Ultimate List of iPhone 16/16 Pro Sleeves and Shields in 202Er: Expert Reviews & Comparisons | ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-snapchats-high-value-content-for-2024/"><u>Understanding Snapchat's High-Value Content for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: October Prime Day Alerts with Amazon Alexa – Setting Up Notifications Made Easy
-date: 2024-09-19 14:56:44
-updated: 2024-09-20 10:35:14
+date: 2024-10-24T23:24:35.093Z
+updated: 2024-11-01T00:35:20.773Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-minds-on-trial-select-escapes-that-challenge-you/"><u>[New] In 2024, Minds on Trial Select Escapes That Challenge You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-simplified-access-how-to-dive-into-youtube-comment-threads/"><u>[New] In 2024, Simplified Access How to Dive Into YouTube Comment Threads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-top-ten-creative-av-media-maker-directory/"><u>[New] The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-best-mac-speech-loggers-our-curated-5-pick-list/"><u>[Updated] Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-cinematographer-secrets-for-exceptional-visuals/"><u>[Updated] Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-technology-advice-from-the-team-at-toms-equipment-hub/"><u>Advanced Technology Advice From the Team at Tom's Equipment Hub</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-oppo-reno-11-pro-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-visual-feast-delving-into-the-world-of-asuss-4k-uxga-screen/"><u>In 2024, A Visual Feast Delving Into the World of ASUS's 4K UXGA Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-axon-40-lite-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock ZTE Axon 40 Lite Phone without Google Account?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-free-screen-recording-in-win11/"><u>In 2024, Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolved-sony-bdp-s6700-unveiled-for-2024/"><u>The Evolved Sony BDP-S6700 Unveiled for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-secret-formula-for-expanding-your-instagram-presence/"><u>The Secret Formula for Expanding Your Instagram Presence</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleash-your-full-potential-with-the-fitbit-versa-3s-in-built-gps-and-diverse-health-app-suite-for-unparalleled-encouragement/"><u>Unleash Your Full Potential with the Fitbit Versa 3'S In-Built GPS & Diverse Health App Suite for Unparalleled Encouragement</u></a></li>
+</ul></div>
+

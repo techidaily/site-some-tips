@@ -1,7 +1,7 @@
 ---
 title: My iPhone's Journey Over the Past Three Years – A Visual Tribute by ZDNet
-date: 2024-10-20T18:25:47.101Z
-updated: 2024-10-26T18:05:36.930Z
+date: 2024-10-31T00:25:34.399Z
+updated: 2024-11-01T01:47:31.013Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ When I upgraded to the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-
 [ZDNET RECOMMENDS Tech21 FlexPro Tech21's FlexPro is one of the most advanced cases on the market, combining sustainability with amazing impact protection, boasting an impressive 20ft FlexShock multi-drop feature. View at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FHRDB2ZM%2FA%2Ftech21-flexpro-for-iphone-15-plus-magsafe-compatible&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tech 21 FlexPro features
@@ -89,16 +89,10 @@ This case can also take quite a beating. In the few months that I've owned the i
 For the record, I'm using a screen protector for added durability. I think this case is certainly one of the best I've tested in a long time, and the first in quite a while that I felt compelled to write about.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -137,22 +131,21 @@ My testing suggests cases don't get much better than the [Tech 21's FlexPro](htt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-natural-and-artificial-blending-lights-in-iphone-photos-for-2024/"><u>[New] Natural & Artificial Blending Lights in iPhone Photos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[New] Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-reel-to-perfection-selecting-the-best-video-editor-for-android/"><u>[Updated] Reel to Perfection Selecting the Best Video Editor for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-handbook-for-swapping-music-libraries/"><u>[Updated] The Ultimate Handbook for Swapping Music Libraries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-for-smoothing-out-quake-in-captured-movement/"><u>[Updated] Tips for Smoothing Out Quake in Captured Movement</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-5-budget-action-camcorders-in-full-hd-for-2024/"><u>[Updated] Top 5 Budget Action Camcorders in Full HD for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleashing-visual-treasures-a-pexels-search-guide/"><u>[Updated] Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-learning-snapseeds-power-tools/"><u>2024 Approved Unleash Creativity Learning Snapseed's Power Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-lava-blaze-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Lava Blaze 2</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-nokia-g42-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nokia G42 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unpacking-xmedia-suite-review-all-you-need-to-know/"><u>In 2024, Unpacking XMedia Suite Review All You Need to Know</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-the-new-iphone-15-pro-max-splash-proof/"><u>Is the New iPhone 15 Pro Max Splash-Proof?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-like-a-pro-with-telegram-web-for-2024/"><u>Navigating Like a Pro with Telegram Web for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimize-with-cookiebot-advanced-tracking-solutions-for-websites/"><u>Optimize with Cookiebot: Advanced Tracking Solutions for Websites</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/steps-to-preventing-pc-crashes-caused-by-the-gray-zone-warfare-problem/"><u>Steps to Preventing PC Crashes Caused by the Gray Zone Warfare Problem</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windowing-fine-tuning-win11-display/"><u>Windowing: Fine-Tuning Win11 Display</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[New] 2024 Approved A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>[New] Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-final-farewell-to-your-instagram-world-process-and-steps/"><u>[New] In 2024, A Final Farewell to Your Instagram World Process & Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-cheat-sheet-for-first-time-final-cut-users/"><u>[New] The Essential Cheat Sheet for First Time Final Cut Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-secret-to-love-in-video-editing-filmoras-best-aspects/"><u>[Updated] The Secret to Love in Video Editing Filmora's Best Aspects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[Updated] Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-photos-into-videos-an-experts-complete-tutorial-series/"><u>2024 Approved Transforming Photos Into Videos An Expert's Complete Tutorial Series</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-the-mysteries-of-quantum-hdr/"><u>2024 Approved Unraveling the Mysteries of Quantum HDR</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-overcome-battlefield-4s-launch-issues-on-pc/"><u>Fixes and Solutions: How to Overcome Battlefield 4'S Launch Issues on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-g2-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo G2 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Phone without Google Account?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-leading-slow-motions-camera-edition/"><u>In 2024, Leading Slow-Motions Camera Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-an-in-depth-look-at-vivocut-editing/"><u>In 2024, Unlocking Potential An In-Depth Look at VivoCut Editing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-powerpoint-recording-on-camera-for-professionals/"><u>Mastering PowerPoint Recording on Camera for Professionals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-presentation-creation-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentation Creation with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-are-device-drivers-solutions-to-fix-common-driver-issues-in-windows-os/"><u>What Are Device Drivers? Solutions to Fix Common Driver Issues in Windows OS</u></a></li>
 </ul></div>
 

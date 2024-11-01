@@ -1,7 +1,7 @@
 ---
 title: Amazon Overhauls Product Rating Display - A Step Backwards? | Tech News by ZDNet
-date: 2024-09-19 19:22:52
-updated: 2024-09-20 11:56:11
+date: 2024-10-30T11:55:17.246Z
+updated: 2024-10-31T20:03:17.549Z
 tags:
   - e-commerce
 categories:
@@ -28,6 +28,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 **Also: [The best early Amazon Prime Day 2024 deals](https://www.zdnet.com/article/best-early-amazon-prime-day-2024-deals/)**
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Who is eligible for a Prime Student membership? 
 
@@ -65,11 +72,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-alternative-to-obs-the-next-gen-stream-software/"><u>[New] 2024 Approved Alternative to OBS The Next-Gen Stream Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-ranked-alternatives-to-sporting-events-in-firstrow-views/"><u>[Updated] Ranked Alternatives to Sporting Events in Firstrow Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>2024 Approved The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>2024 Approved Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x8b-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X8b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-itop-screen-recorder-review-should-you-install-it/"><u>In 2024, ITop Screen Recorder Review Should You Install It?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-qanda-on-quantum-hdr-technology/"><u>In 2024, The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unleash-your-potential-skyrocketing-numbers-of-youtubers-subscribers/"><u>In 2024, Unleash Your Potential Skyrocketing Numbers of YouTubers' Subscribers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-razr-40-ultra-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Motorola Razr 40 Ultra Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/redefining-visual-storytelling-adding-and-altering-twitter-video-thumbnails-for-2024/"><u>Redefining Visual Storytelling Adding and Altering Twitter Video Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/reibungsloser-wechsel-zu-ssd-bei-asus-x505za-sicher-datenintegritat-and-fehlerfreies-booten-garantiert/"><u>Reibungsloser Wechsel Zu SSD Bei Asus X505ZA - Sicher Datenintegrität & Fehlerfreies Booten Garantiert</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-virtual-exploration-a-tactical-approach/"><u>The Art of Virtual Exploration A Tactical Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+</ul></div>
+

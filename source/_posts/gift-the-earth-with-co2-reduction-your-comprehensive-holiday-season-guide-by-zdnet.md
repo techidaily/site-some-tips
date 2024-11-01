@@ -1,7 +1,7 @@
 ---
 title: "Gift the Earth with CO2 Reduction: Your Comprehensive Holiday Season Guide by ZDNET"
-date: 2024-09-18 11:41:26
-updated: 2024-09-20 12:27:43
+date: 2024-10-30T04:57:32.459Z
+updated: 2024-10-31T19:44:12.734Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -45,17 +52,38 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-freedomfrexpressor-the-ultimate-2024-audio-extractor-guide/"><u>[New] FreedomFreXpressor The Ultimate 2024 Audio Extractor Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/everaging-youtube-for-dynamic-instagram-stories-for-2024/"><u>[New] Leveraging YouTube for Dynamic Instagram Stories for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-pioneering-photography-examination-with-counterparts/"><u>[New] Pioneering Photography Examination with Counterparts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-accompanying-visual-content-with-music/"><u>[New] The Art of Accompanying Visual Content with Music</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>[Updated] 2024 Approved Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-unboxing-adventure-boosting-customer-delight/"><u>[Updated] The Ultimate Unboxing Adventure Boosting Customer Delight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-mastering-virtual-worlds-with-top-tier-game-engines-2023/"><u>2024 Approved Mastering Virtual Worlds with Top-Tier Game Engines, 2023</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-techniques-for-outstanding-gopro-edits/"><u>2024 Approved Transform Your Footage Techniques for Outstanding GoPro Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-100-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor 100 Phone Screen?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-extra-memory-for-sony-a7c-model/"><u>Ideal Extra Memory for Sony A7C Model</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-creating-a-boot-disk-using-windows-pe-or-linux/"><u>Step-by-Step Guide: Creating a Boot Disk Using Windows PE or Linux</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-comprehensive-guide-t172386288058010/"><u>Tom's Tech Reviews: Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tricks-to-turn-off-youtube-videos-without-compromise-for-2024/"><u>Tricks to Turn Off YouTube Videos Without Compromise for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-workplace-presentations-fixing-powerpoints-print-problems-in-windows/"><u>Winning at Workplace Presentations: Fixing PowerPoint's Print Problems in Windows</u></a></li>
+</ul></div>
+

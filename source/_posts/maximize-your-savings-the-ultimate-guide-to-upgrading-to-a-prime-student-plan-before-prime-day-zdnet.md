@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Savings: The Ultimate Guide to Upgrading to a Prime Student Plan Before Prime Day | ZDNet"
-date: 2024-09-17 18:28:50
-updated: 2024-09-20 10:19:21
+date: 2024-10-26T12:36:44.049Z
+updated: 2024-11-01T03:59:45.894Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -45,11 +58,25 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -64,6 +91,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +138,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-exploring-vlogging-selecting-the-best-cameras-and-lenses/"><u>[New] 2024 Approved Exploring Vlogging Selecting the Best Cameras & Lenses</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-laughlenslab-pixelpunchers/"><u>[New] LaughLensLab PixelPunchers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-rise-of-remote-therapeutic-platforms/"><u>[New] The Rise of Remote Therapeutic Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-footage-a-step-by-step-guide-to-gopros-timelapse/"><u>[New] Transforming Footage A Step-by-Step Guide to GoPro's Timelapse</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-adobe-cloud-insights-and-best-non-adobe-choices/"><u>[Updated] Navigating Adobe Cloud, Insights & Best Non-Adobe Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zoom-features-on-windows-11-pcs/"><u>[Updated] Unlocking Zoom Features on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-tools-for-text-in-adobe-after-effects/"><u>2024 Approved Pro Tools For Text in Adobe After Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>2024 Approved The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://facebook.techidaily.com/comparative-insight-metaai-vs-ordinary-bot-systems/"><u>Comparative Insight: MetaAI vs Ordinary Bot Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-paso-a-paso-para-la-normalizacion-de-sonido-con-movavi/"><u>Guía Paso a Paso Para La Normalización De Sonido Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveil-clearer-visuals-essential-tips-for-zooming-on-snapchat/"><u>In 2024, Unveil Clearer Visuals Essential Tips for Zooming on Snapchat</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nintendo-game-and-watch-super-mario-bros-review/"><u>Nintendo Game & Watch: Super Mario Bros. Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pioneering-mobile-tech-androids-role-in-vr360-videos-update-2023-for-2024/"><u>Pioneering Mobile Tech Android's Role in VR/360 Videos (Update 2023) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-poco-x5-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Poco X5 has been deleted.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-x90s-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo X90S Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-best-video-software-vlc-against-mx-for-2024/"><u>Unveiling Best Video Software VLC Against MX for 2024</u></a></li>
+</ul></div>
+

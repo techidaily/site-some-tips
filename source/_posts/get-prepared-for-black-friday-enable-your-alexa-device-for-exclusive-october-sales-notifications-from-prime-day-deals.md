@@ -1,7 +1,7 @@
 ---
 title: "Get Prepared for Black Friday: Enable Your Alexa Device for Exclusive October Sales Notifications From Prime Day Deals"
-date: 2024-09-19 18:16:37
-updated: 2024-09-20 11:54:13
+date: 2024-10-29T13:20:27.946Z
+updated: 2024-11-01T09:57:57.195Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,27 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,6 +85,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -74,6 +101,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[New] A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitters-top-jokesters/"><u>[Updated] 2024 Approved Twitter's Top Jokesters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-your-step-by-step-adventure-in-metaverse-avatar-crafting/"><u>[Updated] 2024 Approved Your Step-by-Step Adventure in Metaverse Avatar Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-iphone-footage-filming-and-slowing-down-videos/"><u>[Updated] Transform Your iPhone Footage Filming and Slowing Down Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>[Updated] YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>2024 Approved The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/adapting-mp4-footage-easily-and-without-cost-tips-for-varied-screen-dimensions/"><u>Adapting MP4 Footage Easily and Without Cost: Tips for Varied Screen Dimensions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/boost-your-gaming-experience-tips-for-reaching-120fps-on-playstation-5/"><u>Boost Your Gaming Experience: Tips for Reaching 120Fps on PlayStation 5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cyber-snicker-generator/"><u>Cyber Snicker Generator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-lava-yuva-2-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Lava Yuva 2 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-fading-out-effectively-in-logic-pro-for-2024/"><u>Subtlety In Sound Fading Out Effectively in Logic Pro for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-ranked-list-the-5-leading-programs-for-swf-video-file-editing/"><u>Ultimate Ranked List: The 5 Leading Programs for SWF Video File Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery-for-2024/"><u>Unveiling the Secrets of YouTube to MP4/MPEG Mastery for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Why United Air Lines Views Southwest Travelers as Naive Choices – Insights From ZDNet
-date: 2024-09-18 11:55:35
-updated: 2024-09-20 12:19:55
+date: 2024-10-28T08:56:15.995Z
+updated: 2024-11-01T01:16:24.634Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/the-goofy-adventure-a-critical-appraisal-videotape-edition-for-2024/"><u>'The Goofy Adventure' - A Critical Appraisal Videotape Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-5-gaming-monitors-to-perfect-ps5-and-xbox-experience/"><u>[New] In 2024, Top 5 Gaming Monitors to Perfect PS5 and Xbox Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-androids-best-music-video-apps/"><u>[New] The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-creative-expressions-building-stories-from-photos-in-pixiz/"><u>[New] Unlock Creative Expressions Building Stories From Photos in Pixiz</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram-for-2024/"><u>[Updated] Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-reddit-presence-with-these-tactics/"><u>[Updated] Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-the-potential-of-iphone-photos-through-motion-blur/"><u>[Updated] Unleashing the Potential of iPhone Photos Through Motion Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-harmony-collector-android-based/"><u>[Updated] Unparalleled Harmony Collector, Android-Based</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-plating-palette-techniques-for-food-cinematography/"><u>2024 Approved The Plating Palette Techniques for Food Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-notch-drones-for-professionals-our-curated-list/"><u>2024 Approved Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-honor-x50-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/essential-gpu-temp-range-for-smooth-gameplay/"><u>Essential GPU Temp Range for Smooth Gameplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>In 2024, The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-the-art-of-updating-ralink-adapters-a-step-by-step-process-for-windows-users/"><u>Master the Art of Updating Ralink Adapters: A Step-by-Step Process for Windows Users</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ontwerpen-en-herstellen-van-hoe-diskettenpartitionen-in-windows-11-evenals-behandeling-beschadigde-arealen/"><u>Ontwerpen en Herstellen Van Hoe-Diskettenpartitionen in Windows 11, Evenals Behandeling Beschadigde Arealen</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-functionality-to-realtek-lan-drivers/"><u>Reinstating Functionality to Realtek LAN Drivers</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-on-activating-built-in-bios-recovery-feature-in-dell-computers/"><u>Step-by-Step Tutorial on Activating Built-In BIOS Recovery Feature in Dell Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/surviving-the-elements-the-efficiency-of-evs-during-extreme-weather-conditions/"><u>Surviving the Elements: The Efficiency of EVs During Extreme Weather Conditions</u></a></li>
+</ul></div>
+

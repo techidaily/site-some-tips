@@ -1,7 +1,7 @@
 ---
 title: "Top 12 Oddball Gadgets on Black Friday: Exclusive Octobers' Steal of the Season - Insights From ZDNet"
-date: 2024-09-17 15:40:20
-updated: 2024-09-20 11:59:12
+date: 2024-10-29T03:43:01.785Z
+updated: 2024-10-31T20:50:16.135Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-virtual-vs-augmented-unraveling-ar-mr-and-vr-distinctions/"><u>[New] In 2024, Virtual Vs. Augmented Unraveling AR, MR & VR Distinctions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>[New] Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-demystifying-creator-studio-a-practical-handbook/"><u>[Updated] Demystifying Creator Studio A Practical Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-the-art-of-background-music-for-video-unboxing/"><u>[Updated] Ultimate Guide The Art of Background Music for Video Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-advanced-splitting-with-non-xsplit-apps/"><u>2024 Approved Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/8-compelling-reasons-for-a-free-vs-paid-linkedin-comparison/"><u>8 Compelling Reasons for a Free Vs. Paid LinkedIn Comparison</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-team-up-glitch-80080300-on-w11-systems/"><u>Decoding the Mystery of Team Up Glitch #80080300 on W11 Systems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-winx-dvd-converter-effortless-dvd-to-mp4avi-conversion-for-mobile-devices-ios-and-android/"><u>Free WinX DVD Converter: Effortless DVD to MP4/AVI Conversion for Mobile Devices, iOS & Android</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-perfect-match-msi-z370-a-pro-chipset-and-graphics-card-software-bundles/"><u>Get the Perfect Match: MSI Z370-A PRO Chipset & Graphics Card Software Bundles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-microsoft-enhances-bing-with-advanced-ai-features-discover-the-future-of-web-searches/"><u>How Microsoft Enhances Bing with Advanced AI Features - Discover the Future of Web Searches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans-for-2024/"><u>Streaming Showdown The Ultimate Guide for XSplit and OBS Fans for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/the-ultimate-list-of-tools-for-producing-high-quality-educational-videos/"><u>The Ultimate List of Tools for Producing High-Quality Educational Videos</u></a></li>
+</ul></div>
+

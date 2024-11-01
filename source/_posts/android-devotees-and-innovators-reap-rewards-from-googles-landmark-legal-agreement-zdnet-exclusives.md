@@ -1,7 +1,7 @@
 ---
 title: Android Devotees and Innovators Reap Rewards From Google's Landmark Legal Agreement | ZDNet Exclusives
-date: 2024-09-18 14:39:52
-updated: 2024-09-20 12:51:12
+date: 2024-10-25T02:30:57.318Z
+updated: 2024-11-01T02:59:07.947Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +65,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-critical-look-at-outstanding-online-streams/"><u>[Updated] Critical Look at Outstanding Online Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-potential-with-best-in-class-pp-templates/"><u>[Updated] Unlimited Potential with Best-in-Class PP Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocked-gems-seeking-free-tiktok-picture-perfections/"><u>[Updated] Unlocked Gems Seeking Free TikTok Picture Perfections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-for-google-pixel-tunes/"><u>2024 Approved The Ultimate List for Google Pixel Tunes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dominating-viewers-spaces-channel-empire-rules/"><u>Dominating Viewers' Spaces Channel Empire Rules</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/easy-routines-for-screen-recording-in-gaming-for-2024/"><u>Easy Routines for Screen Recording in Gaming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-this-error-unlicensed-adobe-fix/"><u>Eliminate 'This' Error: Unlicensed Adobe Fix</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-samsung-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Samsung ?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slash-prices-on-cameras-best-value-list-of-top-6-under-100/"><u>In 2024, Slash Prices on Cameras Best Value List of Top 6 Under $100</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stylish-methodology-combining-gopro-imagery-into-360-video-tapestry/"><u>In 2024, Stylish Methodology Combining GoPro Imagery Into 360 Video Tapestry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-nine-game-streaming-haven-explored/"><u>In 2024, Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-full-potential-of-powerdirector-24/"><u>In 2024, Unveiling the Full Potential of PowerDirector '24</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-fix-from-raw-images-to-high-quality-youtube-thumbnails-for-2024/"><u>Quick Fix From Raw Images To High-Quality YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rhythmic-resonance-the-ultimate-site-list-for-downloads-for-2024/"><u>Rhythmic Resonance The Ultimate Site List for Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-foundations-of-vsco-photo-manipulation-for-2024/"><u>The Foundations of VSCO Photo Manipulation for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-top-android-video-editing-apps-for-chromebook-for-2024/"><u>Updated The Ultimate List Top Android Video Editing Apps for Chromebook for 2024</u></a></li>
+</ul></div>
+

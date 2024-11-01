@@ -1,7 +1,7 @@
 ---
 title: "Top Tips: Avoiding Widespread Scam Techniques on Social Media Platforms Featuring Temu Products - Insights From ZDNet"
-date: 2024-09-17 21:16:13
-updated: 2024-09-20 11:54:40
+date: 2024-10-30T12:56:17.658Z
+updated: 2024-10-31T19:06:29.921Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +64,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-chromebook-screen-capture-4-easy-techniques-for-2024/"><u>[New] Chromebook Screen Capture 4 Easy Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-drone-racing-mastery-basic-knowledge-and-quintessential-fpv-models/"><u>[New] Drone Racing Mastery Basic Knowledge & Quintessential FPV Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-podcast-rss-mastery/"><u>[Updated] Unveiling the Art of Podcast RSS Mastery</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-delving-into-the-realm-of-yis-action-video-potential/"><u>2024 Approved Delving Into the Realm of Yi's Action Video Potential</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-visuals-best-practices-for-impactful-ig-video-loops/"><u>2024 Approved Elevate Visuals Best Practices for Impactful IG Video Loops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/celebrating-10-years-mondlybutton-filters-journey/"><u>Celebrating 10 Years: MondlyButton Filters' Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dissecting-the-huawei-p10s-battery-life-and-efficiency/"><u>Dissecting the Huawei P10’s Battery Life & Efficiency</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-podcasts-starts-with-smart-name-generation/"><u>In 2024, The Future of Podcasts Starts with Smart Name Generation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-the-next-vision-pro-controller-taking-a-page-from-apples-playbook-discover-what-the-latest-patents-reveal-zdnet/"><u>Is the Next Vision Pro Controller Taking a Page From Apple's Playbook? Discover What the Latest Patents Reveal - ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity Bypassing Background in Photopea for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Stay Informed: How Amazon Now Alerts You About Product Recalls From Your Purchase History - Insights on ZDNet"
-date: 2024-09-19 20:16:15
-updated: 2024-09-20 12:12:20
+date: 2024-10-29T20:23:08.787Z
+updated: 2024-11-01T11:42:09.022Z
 tags:
   - e-commerce
 categories:
@@ -51,6 +51,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -65,15 +72,42 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-secret-to-social-success-innovative-square-videography-tactics/"><u>[New] 2024 Approved The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-streaming-made-simple-free-downloader-to-mp3s-now/"><u>[New] In 2024, Streaming Made Simple Free Downloader to MP3s Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-edge-master-the-top-5-camera-skills/"><u>[New] The Cinematic Edge Master the Top 5 Camera Skills</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-11-key-insights-into-superior-color-adjustment-techniques/"><u>[Updated] Explore the 11 Key Insights Into Superior Color Adjustment Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-starting-with-telegram-advertising-essential-steps-for-newbies/"><u>[Updated] Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[Updated] Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-and-video-streaming-from-android-to-iphone/"><u>2024 Approved Photo & Video Streaming From Android to iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-8-virtual-handhelds-overview/"><u>2024 Approved The Elite 8 Virtual Handhelds Overview</u></a></li>
+<li><a href="https://facebook.techidaily.com/exclusive-guide-to-chat-apps-not-facebooks-messenger/"><u>Exclusive Guide to Chat Apps, Not Facebook's Messenger</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-8-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 8 Plus and iPad?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-iphone-lens-enhancers-x8-series-selection/"><u>In 2024, Top iPhone Lens Enhancers X/8 Series Selection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-90-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor 90 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile-for-2024/"><u>Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile) for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/verstandliche-erklarungen-welche-auflosung-haben-dvds-und-warum/"><u>Verständliche Erklärungen: Welche Auflösung Haben DVDs Und Warum?</u></a></li>
+</ul></div>
+

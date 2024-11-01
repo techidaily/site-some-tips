@@ -1,7 +1,7 @@
 ---
 title: How Amazon Allegedly Misled Millions to Enroll in Prime Membership Revealed by FTC, According to ZDNet Analysis
-date: 2024-09-19 12:47:29
-updated: 2024-09-20 10:55:54
+date: 2024-10-28T10:12:38.605Z
+updated: 2024-11-01T01:18:08.030Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,11 +58,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +91,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-android-and-iphone-apps-for-free-photo-overlay-artistry/"><u>[New] Top Android & iPhone Apps for FREE Photo Overlay Artistry</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-tools-for-instant-time-lapse-videos/"><u>[Updated] Best Tools for Instant Time-Lapse Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweet-to-twitter-via-smartphone-no-retweeting-for-2024/"><u>[Updated] Direct Video Tweet to Twitter via Smartphone No Retweeting for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-easy-multimedia-management-with-mstream-tools/"><u>[Updated] In 2024, Easy Multimedia Management with MStream Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-integrating-b-footage-into-main-shots/"><u>[Updated] The Art of Integrating B-Footage Into Main Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-innovations-in-podcast-titling-with-ai-assistants/"><u>[Updated] Top Innovations in Podcast Titling with AI Assistants</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-liberating-tracks-with-pazeras-tools/"><u>2024 Approved The Ultimate Guide to Liberating Tracks with Pazera's Tools</u></a></li>
+<li><a href="https://win-info.techidaily.com/erstellen-sie-einfach-ein-automatisches-sicherungssystem-fur-windows-nicht-platziertes-speichermedium-drei-effiziente-methoden/"><u>Erstellen Sie Einfach Ein Automatisches Sicherungssystem Für Windows Nicht Platziertes Speichermedium - Drei Effiziente Methoden</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-x-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone X Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-these-innovative-5-iphone-apps-transforming-podcasts/"><u>In 2024, Explore These Innovative 5 iPhone Apps Transforming Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-seamless-tutorial-for-image-background-cleanup-on-canva/"><u>In 2024, The Seamless Tutorial for Image Background Cleanup on Canva</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-nsvfree-mp4/"><u>Movavi - インターネットからNSVファイルをFREE MP4に再編集</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-potential-our-picks-for-the-most-inspiring-films-for-2024/"><u>Unleash Potential Our Picks for the Most Inspiring Films for 2024</u></a></li>
+</ul></div>
+

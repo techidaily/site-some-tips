@@ -1,7 +1,7 @@
 ---
 title: "Smart Shopping Strategies for Amazon Prime Day: Avoid Overspending with These Easy Techniques | ZDNET Insights"
-date: 2024-09-17 14:57:37
-updated: 2024-09-20 11:40:31
+date: 2024-10-26T02:29:23.801Z
+updated: 2024-11-01T00:22:10.561Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,19 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +55,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -65,6 +85,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-essential-handbook-for-periscope-video-logging/"><u>[New] 2024 Approved The Essential Handbook for Periscope Video Logging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevating-your-style-with-youtubes-best-hauls/"><u>[New] In 2024, Elevating Your Style with YouTube's Best Hauls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-essential-tips-for-designing-engaging-fb-video-covers/"><u>[New] In 2024, Essential Tips for Designing Engaging FB Video Covers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/akeup-maverick-innovative-looks-and-techniques-unveiled/"><u>[New] Makeup Maverick Innovative Looks & Techniques Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-editing-excess-strategies-to-clean-up-oversized-tiktok-drafts/"><u>[Updated] Editing Excess Strategies to Clean Up Oversized TikTok Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mastering-pip-a-complete-overview-on-edge-browser/"><u>[Updated] Mastering PIP A Complete Overview on Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>[Updated] Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-assessment-of-the-portable-audew-pump-compressor-unmatched-durability-meets-convenience/"><u>Expert Assessment of the Portable Audew Pump Compressor: Unmatched Durability Meets Convenience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-perfect-presentation-cutting-out-image-backdrops-on-canva/"><u>In 2024, The Path to Perfect Presentation Cutting Out Image Backdrops on Canva</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/top-trends-in-instagram-hashtags-for-enhanced-reach-for-2024/"><u>Top Trends in #Instagram Hashtags for Enhanced Reach for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q-for-2024/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrade-to-the-latest-iphone-discover-top-anker-chargers-tailored-for-new-models-tech-insights/"><u>Upgrade to the Latest iPhone? Discover Top Anker Chargers Tailored for New Models | Tech Insights</u></a></li>
+</ul></div>
+

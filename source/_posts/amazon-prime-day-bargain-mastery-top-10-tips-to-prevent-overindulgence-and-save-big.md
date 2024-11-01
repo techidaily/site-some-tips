@@ -1,7 +1,7 @@
 ---
 title: "Amazon Prime Day Bargain Mastery: Top 10 Tips to Prevent Overindulgence and Save Big"
-date: 2024-09-17 19:18:24
-updated: 2024-09-20 11:44:43
+date: 2024-10-25T06:55:17.777Z
+updated: 2024-11-01T08:37:17.333Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-the-essential-guide-to-cinematic-instagram-videos-for-2024/"><u>[New] The Essential Guide to Cinematic Instagram Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-imgur-meme-generator/"><u>[Updated] Imgur Meme Generator</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-leading-9-movie-extractors-for-fb-for-2024/"><u>[Updated] Leading 9 Movie Extractors for FB for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-idevice-video-recording-guide/"><u>[Updated] Ultimate iDevice Video Recording Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-roundup-unleashing-the-best-5-online-title-makers/"><u>2024 Approved The Ultimate Roundup Unleashing the Best 5 Online Title Makers</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-setting-up-a-sports-channel-from-scratch-mac-style/"><u>In 2024, Setting up a Sports Channel From Scratch, Mac-Style</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-auto-hdr-techniques-in-modern-cameras/"><u>In 2024, Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-basics-of-digital-imagery-sizes/"><u>In 2024, Unveiling the Basics of Digital Imagery Sizes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/supreme-creation-studio-test-for-2024/"><u>Supreme Creation Studio Test for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-shadowing-in-1-minute-for-2024/"><u>Swift Shadowing in 1 Minute for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-potential-ai-driven-website-evolution/"><u>Unleashing Potential: AI-Driven Website Evolution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hand-tracker-potential-guide-for-2024/"><u>Unlock Hand Tracker Potential Guide for 2024</u></a></li>
+</ul></div>
+

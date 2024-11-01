@@ -1,7 +1,7 @@
 ---
 title: Essential AI Enhancements for iOS 18 That Would Bring It on Par With Android's Capabilities - Insights From ZDNet
-date: 2024-10-20T17:03:22.159Z
-updated: 2024-10-26T17:25:52.358Z
+date: 2024-10-26T19:10:54.548Z
+updated: 2024-10-31T18:59:40.874Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +68,10 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +83,10 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,20 +131,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-best-obs-settings-for-low-end-pc/"><u>[New] 2024 Approved Best OBS Settings for Low-End PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>[New] Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>[New] Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-gopros-full-potential/"><u>[New] Unlocking GoPro's Full Potential</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-loop-maker-assembly/"><u>[Updated] Loop Maker Assembly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-ms-edges-picture-in-picture-magic/"><u>[Updated] Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>[Updated] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6auy5pwi55qe5ykz5aqs562w55wl77ya5pya5paw6kej5rg65pa55qgi/"><u>高效的傳媒策略：最新解決方案</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-step-by-step-approach-to-professional-chromatic-control/"><u>In 2024, A Step by Step Approach to Professional Chromatic Control</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-directors-cut-trailers/"><u>In 2024, Prime Director's Cut Trailers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-streamlining-post-production-with-after-effects-and-luts/"><u>In 2024, Streamlining Post Production with After Effects and LUTs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-saving-web-radio-broadcasts/"><u>In 2024, The Essential Guide to Saving Web Radio Broadcasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/safe-and-seamless-conversion-wonderfox-tool-for-drm-free-ipad-transfers-from-dvd/"><u>Safe & Seamless Conversion: WonderFox Tool for DRM-Free iPad Transfers From DVD</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-connection-when-is-roblox-actually-down/"><u>Troubleshooting Your Connection: When Is Roblox Actually Down?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-unveils-the-best-flashlights-of-2024-professional-reviews-and-choices/"><u>ZDNet Unveils the Best Flashlights of 2024: Professional Reviews and Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-5-android-image-boosters/"><u>[New] The Finest 5 Android Image Boosters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-how-to-for-ifunnys-meme-app/"><u>[New] The Ultimate How-To for iFunny's Meme App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[Updated] The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-googles-ar-sticker-innovation/"><u>[Updated] Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-harnessing-snapchat-spotlight/"><u>2024 Approved The Ultimate Guide to Harnessing Snapchat Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-text-boosting-techniques-in-videos/"><u>2024 Approved Top 10 Text Boosting Techniques in Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/augmenting-creativity-with-the-best-ai-for-podcast-names/"><u>Augmenting Creativity with the Best AI for Podcast Names</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exclusive-advantages-of-electric-vehicle-ownership-access-to-parking-and-carpool-lanes/"><u>Exclusive Advantages of Electric Vehicle Ownership: Access to Parking & Carpool Lanes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-moto-g-stylus-5g-2023-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Moto G Stylus 5G (2023) FRP In 3 Different Ways</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-17-solutions-for-removing-picture-outlines/"><u>In 2024, Prime 17 Solutions for Removing Picture Outlines</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-softening-audio-fl-basics/"><u>In 2024, Softening Audio FL Basics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-moto-g73-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G73 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-top-8-digital-audio-workstations-daws-on-pc-compatible-with-windows-10-and-7-free-and-paid-options/"><u>In 2024, Top 8 Digital Audio Workstations (DAWs) on PC Compatible with Windows 10 & 7, Free and Paid Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-eye-candy-for-digital-performances/"><u>In 2024, Ultimate Eye Candy for Digital Performances</u></a></li>
+<li><a href="https://techtrends.techidaily.com/playing-minecraft-solo-a-guide-to-enjoying-the-game-without-an-internet-connection-on-windows-11/"><u>Playing Minecraft Solo: A Guide to Enjoying the Game Without an Internet Connection on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-vanguard-of-radio-theatre-composition-for-2024/"><u>The Vanguard of Radio-Theatre Composition for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-success-escaping-the-loop-of-fortnites-load-screen-glitches/"><u>Troubleshooting Success: Escaping the Loop of Fortnite's Load Screen Glitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide-for-2024/"><u>Unlock the Secrets of Movie Maker for Windows 11 with Our Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-finest-affordable-webm-players-on-market-for-2024/"><u>Unveiling the Finest Affordable WebM Players on Market for 2024</u></a></li>
 </ul></div>
 

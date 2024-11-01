@@ -1,7 +1,7 @@
 ---
 title: "Put an End to Unwanted SMS: Blocking Spam Messages on iPhone with Three Simple Methods - Insights From ZDNet"
-date: 2024-10-22T19:04:11.838Z
-updated: 2024-10-26T19:26:29.042Z
+date: 2024-10-27T04:24:31.692Z
+updated: 2024-11-01T04:18:20.324Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -54,6 +47,13 @@ Scroll down to find the Filter Unknown Messages option and turn it on. This opti
 Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
 
@@ -77,6 +77,13 @@ The message inbox will now default to show messages from people in your contact 
 
 Screenshot by Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I stop spam calls on iPhone?
@@ -95,10 +102,10 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How do I report junk messages on iPhone?
@@ -110,13 +117,6 @@ The tutorial above will let you live in ignorant bliss of whoever is trying to r
 
 iPhone messages from unknown senders display a text below them saying, "This sender is not in your contact list. Report Junk." This is where you can report the message.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I block a sender on my iPhone?
 
 If you keep getting messages from the same sender after reporting them, you can also block the sender altogether, which won't let them send you messages or call you. To block a specific number on your iPhone, follow these steps:
@@ -126,18 +126,18 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -175,22 +175,24 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fast-and-easy-gif-transformation-ultimate-list-of-no-download-services-for-2024/"><u>[New] Fast and Easy GIF Transformation Ultimate List of No-Download Services for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-urban-oasis-best-6-modern-mc-living-spaces/"><u>[New] In 2024, Urban Oasis Best 6 Modern MC Living Spaces</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-keeping-your-gopro-fogless-for-perfection/"><u>[Updated] In 2024, Keeping Your GoPro Fogless for Perfection</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-mastering-instavid-promotion-crafting-a-successful-marketing-gameplan-for-2024/"><u>[Updated] Mastering InstaVid Promotion Crafting a Successful Marketing Gameplan for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-orientation-overhaul-instagrams-video-rotation-secret/"><u>[Updated] Orientation Overhaul Instagram's Video Rotation Secret</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-pro-audio-software-win-edition-for-2024/"><u>[Updated] Pro Audio Software Win Edition for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/addressing-unsupported-codec-lack/"><u>Addressing Unsupported Codec Lack</u></a></li>
-<li><a href="https://some-tips.techidaily.com/bast-gratis-video-konverterer-i-windows-utvalna-20-alternativ-for-1187/"><u>Bäst Gratis Video-Konverterer I Windows - Utvalna 20 Alternativ För 11/8/7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/conversione-free-on-line-da-wmv-a-ts-tramite-il-software-di-movavi-prova-ora-gratuitamente/"><u>Conversione Free On-Line Da WMV a TS Tramite Il Software Di Movavi - Prova Ora Gratuitamente</u></a></li>
-<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargas-gratuitas-para-cambiar-archivos-de-video-desde-mp4-a-asf-sin-problemas-movavi/"><u>Descargas Gratuitas Para Cambiar Archivos De Vídeo Desde MP4 a ASF Sin Problemas - Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Moto G34 5G Device</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/lerntechniken-fur-den-einfachen-umgang-mit-der-installation-neuer-programme-unter-windows-11/"><u>Lerntechniken Für Den Einfachen Umgang Mit Der Installation Neuer Programme Unter Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/seamlessly-change-mka-audio-to-mp3-for-no-cost-online-with-moveavi/"><u>Seamlessly Change MKA Audio to MP3 for No Cost Online with MoveAVI</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformez-votre-video-flv-au-format-mp4-sans-frais-tutoriel-avant-premiere-avec-movavi/"><u>Transformez Votre Vidéo FLV Au Format MP4 Sans Frais - Tutoriel Avant-Première Avec Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/wat-is-een-mkv-file-en-de-procedure-om-het-openbaar-te-maken/"><u>Wat Is Een MKV-File en De Procedure Om Het Openbaar Te Maken?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-directing-tiktok-video-viewers-to-facebook-pages/"><u>[New] 2024 Approved Directing TikTok Video Viewers to Facebook Pages</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-media-production-magix-video-pro-x-insights/"><u>[New] 2024 Approved Mastering Media Production Magix Video Pro X Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-5-ways-to-transfer-files-to-your-computer/"><u>[New] 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[New] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-zoom-strategy-for-fb-live-success/"><u>[New] The Ultimate Zoom Strategy for FB Live Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-of-making-music-video-on-iphone/"><u>[New] Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>[New] Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-upside-down-visuals-investigating-insta-video-anomalies/"><u>[New] Upside Down Visuals Investigating Insta Video Anomalies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-techniques-for-subtitling-in-wmp/"><u>[Updated] Cutting Edge Techniques for Subtitling in WMP</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-bite-sized-video-knowledge-now/"><u>[Updated] In 2024, Bite-Sized Video Knowledge Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-premier-livestream-services-unveiled/"><u>[Updated] Top 10 Premier Livestream Services Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>2024 Approved The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-fb-live-streams-a-guide-for-roku-users/"><u>In 2024, Mastering FB Live Streams A Guide for Roku Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tap-into-the-rhythm-web-free-and-comprehensive/"><u>In 2024, Tap Into the Rhythm Web (FREE & Comprehensive)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-8-real-world-promotion-tools-for-videos/"><u>In 2024, The Ultimate Guide 8 Real-World Promotion Tools for Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nubia-z50s-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nubia Z50S Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-platforms-enhance-your-youtube-presence/"><u>In 2024, Top Platforms Enhance Your YouTube Presence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/masterful-gameplay-transmission-with-obs-studio/"><u>Masterful Gameplay Transmission with OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-through-print-settings-in-win11-quick-guide-max-48-chars/"><u>Power Through Print Settings in Win11 - Quick Guide (Max 48 Chars)</u></a></li>
 </ul></div>
 

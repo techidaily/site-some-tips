@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Tap-to-Pay: Create Digital Access Cards with Google Wallet Easily | TechSpot"
-date: 2024-09-18 13:10:40
-updated: 2024-09-20 12:36:43
+date: 2024-10-26T03:33:20.432Z
+updated: 2024-10-31T19:39:37.745Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -43,7 +50,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-of-the-best-unlimited-recorders-top12-for-2024/"><u>[New] Best of the Best Unlimited Recorders, #Top12 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-tech-gems-best-desktops-revealed/"><u>[New] Ultimate Tech Gems - Best Desktops Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-styling-secrets-with-a-diy-video-editing-guide/"><u>[New] Unlock Styling Secrets with a DIY Video Editing Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-jest-jamboree-utilizing-comic-tools-for-free/"><u>[Updated] In 2024, Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-traveling-lens-quieter-assistant-360/"><u>[Updated] Traveling Lens Quieter Assistant 360°</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/17-solutions-for-resolving-kernel-security-check-violations/"><u>17 Solutions for Resolving Kernel Security Check Violations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-to-create-personalized-whatsapp-alerts/"><u>2024 Approved Unlock the Power to Create Personalized WhatsApp Alerts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversione-dvd-a-divx-di-alta-qualita-senza-costi-riduce-le-dimensioni-e-mantieni-il-contenuto/"><u>Conversione DVD a DivX Di Alta Qualità Senza Costi: Riduce Le Dimensioni E Mantieni Il Contenuto</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-video-marketing-made-simple-free-toolkit-unlocks-potential-for-2024/"><u>FB Video Marketing Made Simple Free Toolkit Unlocks Potential for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-p55-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel P55 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>In 2024, Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-superior-websites-promoting-youtube-media/"><u>In 2024, Superior Websites Promoting YouTube Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>In 2024, Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>In 2024, Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/incremental-movie-moment/"><u>Incremental Movie Moment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-vlcs-full-potential-for-transforming-mp4-and-various-formats-for-2024/"><u>Unlocking VLC's Full Potential for Transforming MP4 & Various Formats for 2024</u></a></li>
+</ul></div>
+

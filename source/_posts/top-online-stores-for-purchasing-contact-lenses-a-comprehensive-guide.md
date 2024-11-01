@@ -1,7 +1,7 @@
 ---
 title: "Top Online Stores for Purchasing Contact Lenses: A Comprehensive Guide"
-date: 2024-09-19 18:28:58
-updated: 2024-09-20 10:12:38
+date: 2024-10-31T01:10:57.505Z
+updated: 2024-10-31T22:09:26.778Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>[New] The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-iphone-light-balancing/"><u>[New] The Ultimate Guide to iPhone Light Balancing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-chuckles-and-pixels-suite/"><u>[New] Ultimate Chuckles and Pixels Suite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-time-features-into-youtube-video-formats/"><u>2024 Approved Incorporating Time Features Into YouTube Video Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>2024 Approved Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-innovation-in-wearables-inside-look-at-the-fitbit-versa/"><u>Affordable Innovation in Wearables: Inside Look at the Fitbit Versa</u></a></li>
+<li><a href="https://win-great.techidaily.com/converting-your-alienthink-videos-guide-to-downloading-in-mp4-or-avi-formats/"><u>Converting Your AlienThink Videos: Guide to Downloading in MP4 or AVI Formats</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-resolve-errgfxd3dinit-issues-in-grand-theft-auto-v/"><u>How to Correctly Address and Resolve ERR_GFX_D3D_INIT Issues in Grand Theft Auto V</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>In 2024, How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-potential-in-media-production-via-xp/"><u>In 2024, Unleash Potential in Media Production via XP</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-collaboration-guide-to-find-partners-and-make-collab-videos/"><u>In 2024, YouTube Collaboration Guide to Find Partners and Make Collab Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-stock-of-magix-project-management-app-for-2024/"><u>Taking Stock of MAGIX Project Management App for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-transferring-tunes-between-platforms-for-2024/"><u>The Art of Transferring Tunes Between Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-movie-journey-for-inspiration-seekers-for-2024/"><u>The Ultimate Movie Journey for Inspiration Seekers for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-video-makers-with-music-for-android-iphone-and-ipad/"><u>Updated In 2024, The Ultimate List Video Makers with Music for Android, iPhone, and iPad</u></a></li>
+</ul></div>
+

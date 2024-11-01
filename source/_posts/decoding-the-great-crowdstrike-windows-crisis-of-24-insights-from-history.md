@@ -1,7 +1,7 @@
 ---
 title: Decoding the Great CrowdStrike-Windows Crisis of '24 - Insights From History
-date: 2024-10-25T18:31:58.004Z
-updated: 2024-10-26T18:05:25.925Z
+date: 2024-10-28T11:46:23.156Z
+updated: 2024-10-31T19:45:57.456Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,24 +181,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-bridging-fb-videos-to-home-screens-a-prospect/"><u>[New] 2024 Approved Bridging FB Videos to Home Screens A Prospect</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-minecraft-homestead-blueprint-6-10/"><u>[New] In 2024, Minecraft Homestead Blueprint #6-10</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-free-youtube-spotlight-with-two-key-approaches/"><u>[Updated] 2024 Approved Free YouTube Spotlight with Two Key Approaches</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-navigating-copyright-laws-when-turning-social-media-videos-into-gifs-for-educational-purposes-for-2024/"><u>[Updated] Navigating Copyright Laws When Turning Social Media Videos Into GIFS for Educational Purposes for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro-for-2024/"><u>[Updated] Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-erweitert-das-ipa-okosystem-durch-das-neue-globale-one-partner-programm-einbindung-und-zusammenarbeit-fur-verbesserte-prozessautomatisierung/"><u>ABBYY Erweitert Das IPA-Ökosystem Durch Das Neue, Globale One Partner Programm: Einbindung Und Zusammenarbeit Für Verbesserte Prozessautomatisierung</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-integration-launches-at-electionzcom-for-enhanced-data-processing/"><u>ABBYY Integration Launches at Electionz.com for Enhanced Data Processing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-maintains-top-spot-in-the-smart-automation-industry/"><u>ABBYY Maintains Top Spot in the Smart Automation Industry</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyys-technological-mastery-skyrocketing-profits-with-a-60-increase-endorsed-by-the-esteemed-idc-marketscape-analysis/"><u>ABBYY's Technological Mastery: Skyrocketing Profits with a 60% Increase, Endorsed by the Esteemed IDC MarketScape Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1724312832646-abbyy/"><u>ABBYYが清水智人氏を日本企業界の最前線指導者として紹介</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-traffic-management-with-cookiebot-technology/"><u>Automated Traffic Management with Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-with-cookiebot-streamlining-your-websites-data-collection/"><u>Automated with Cookiebot: Streamlining Your Website's Data Collection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boosting-website-personalization-using-advanced-cookiebot-solutions/"><u>Boosting Website Personalization Using Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-guide-to-visualizing-audio-brilliance/"><u>In 2024, The Ultimate Guide to Visualizing Audio Brilliance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-the-fitbit-inspire-hr-your-perfect-round-the-clock-fitness-companion/"><u>Review of the Fitbit Inspire HR: Your Perfect Round-the-Clock Fitness Companion</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/step-by-step-tutorial-safeguard-phone-numbers-and-emails-by-transferring-contacts-to-google-drive-latest-version/"><u>Step-by-Step Tutorial: Safeguard Phone Numbers and Emails by Transferring Contacts to Google Drive (Latest Version)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-significant-savings-with-abbyy-discover-the-story-of-a-6m-windfall-for-a-leading-finance-firm/"><u>Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-online-dailymotion-converter-easy-and-fast/"><u>Updated In 2024, Free Online Dailymotion Converter Easy and Fast</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-discarding-virtual-gatherings-on-fb-pcsmartphones/"><u>[New] Discarding Virtual Gatherings on FB, PC/Smartphones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/pice-up-viewers-innovative-cooking-channel-naming-tips/"><u>[New] Spice Up Viewers Innovative Cooking Channel Naming Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-vanguard-audio-visual-makers-virtual-showcase/"><u>[New] The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-oculus-gaming-guide-best-selling-choices/"><u>[New] Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-discovering-the-ultimate-10-free-youtube-artist-collaborators/"><u>[Updated] Discovering the Ultimate 10 Free YouTube Artist Collaborators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-gear-review-vr-treadmills-showdown/"><u>2024 Approved Tech Gear Review VR Treadmills Showdown</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/hushing-up-unwanted-noise-on-skype-for-2024/"><u>Hushing Up Unwanted Noise on Skype for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-smart-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Smart 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-nights-reign-black-vs-the-dawns-duty-silver-for-2024/"><u>The Night's Reign (Black) VS The Dawn’s Duty (Silver) for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-toolkit-for-creating-stunning-and-effective-snaps-for-2024/"><u>The Ultimate Toolkit for Creating Stunning & Effective Snaps for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Shopping Experience: Microsoft Unveils Three Innovative, Time & Cost Saving AI Tools | TechNews"
-date: 2024-09-19 14:22:28
-updated: 2024-09-20 11:14:54
+date: 2024-10-27T11:59:55.940Z
+updated: 2024-10-31T23:10:59.057Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -42,6 +49,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -57,6 +77,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -70,6 +103,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +144,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ace-the-challenge-leading-escape-room-contests/"><u>[New] Ace the Challenge Leading Escape Room Contests</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-lowering-the-quality-of-obs-streaming/"><u>[Updated] 2024 Approved Lowering the Quality of OBS Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-effortless-animated-addition-how-to-send-and-share-gifs-on-snapchat/"><u>[Updated] In 2024, Effortless Animated Addition How to Send and Share GIFs on Snapchat</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unleash-your-social-media-potential-with-insta-post-magic/"><u>[Updated] Unleash Your Social Media Potential with Insta Post Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-inside-out-top-tips-for-windows-11-pros/"><u>2024 Approved Inside Out Top Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/creer-des-fichiers-wav-a-partir-de-fichiers-caf-gratuits-online-conversion-avec-movavi/"><u>Créer Des Fichiers WAV À Partir De Fichiers CAF Gratuits - Online Conversion Avec Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008049130-cyberpunk-2077-wont-start-here-are-proven-fixes-to-get-you-gaming-in-no-time/"><u>Cyberpunk 2077 Won't Start? Here Are Proven Fixes To Get You Gaming In No Time!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-mastering-mobile-image-personalization-iphoneandroids-best-10-apps/"><u>In 2024, Mastering Mobile Image Personalization IPhone/Android's Best 10 Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-virtual-reality-making-spherical-videos-on-iphone/"><u>In 2024, Unleashing Virtual Reality Making Spherical Videos on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-immersive-journeys-vr-tours-explained/"><u>In 2024, Unlocking Immersive Journeys VR Tours Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-human-interface-recognition-for-2024/"><u>The Fundamentals of Human Interface Recognition for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/sh-creativity-with-youtube-list-mix-ups-for-2024/"><u>Unleash Creativity with YouTube List Mix-Ups for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+</ul></div>
+

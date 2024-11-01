@@ -1,7 +1,7 @@
 ---
 title: "Half the Population Desires AI Assistance for These Tasks: Insights From a ZDNet Study"
-date: 2024-09-19 22:39:14
-updated: 2024-09-20 12:17:36
+date: 2024-10-29T08:40:34.152Z
+updated: 2024-11-01T00:06:27.049Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,29 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -57,6 +77,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionizing-your-approach-to-iptv-viewership-saving-for-2024/"><u>[New] Revolutionizing Your Approach to IPTV Viewership Saving for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-list-best-video-cameras-s-musical-cinematography/"><u>[New] Ultimate List Best Video Cameras 'S Musical Cinematography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-av1-essentials-for-the-uninitiated/"><u>[Updated] AV1 Essentials For the Uninitiated</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mememolding-cutter/"><u>[Updated] MemeMolding Cutter</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-stunning-slideshow-for-social-sharing/"><u>[Updated] Stunning Slideshow for Social Sharing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[Updated] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-engagement-top-video-release-slots/"><u>2024 Approved Elevate Engagement Top Video Release Slots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-lgs-27in-widescreen-4k-display/"><u>2024 Approved The Ultimate Guide to LG's 27in Widescreen 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>2024 Approved Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-ricoh-mp-c3003-printer-software/"><u>Download the Latest Ricoh MP C3003 Printer Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enablingdisabling-secure-boot-and-tpm-in-virtualbox-for-enhanced-security/"><u>Enabling/Disabling Secure Boot and TPM in VirtualBox for Enhanced Security</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-crafting-srt-files-professionally/"><u>Essential Guide to Crafting SRT Files Professionally</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gigabyte-z370p-motherboard-ultimate-driver-download/"><u>Gigabyte Z370P Motherboard Ultimate Driver Download</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to Outlook | Dr.fone</u></a></li>
+</ul></div>
+

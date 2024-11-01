@@ -1,7 +1,7 @@
 ---
 title: "Guide to Purchasing E-Books on Amazon's Kindle: A Step-by-Step Tutorial"
-date: 2024-09-17 22:55:35
-updated: 2024-09-20 11:31:24
+date: 2024-10-26T07:26:57.571Z
+updated: 2024-10-31T22:15:28.747Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,15 +76,36 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-navigating-legalities-of-instagram-harmonies/"><u>[New] 2024 Approved Navigating Legalities of Instagram Harmonies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-quickly-snap-and-save-mac-desktop/"><u>[New] How to Quickly Snap & Save MAC Desktop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-creme-de-la-cream-of-online-tv-services/"><u>[New] The Crème De La Cream of Online TV Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-metaverse-mirth-making-manual-top-funny-imagery-and-techniques/"><u>[New] The Metaverse Mirth-Making Manual Top Funny Imagery & Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-undead-lore-weaver/"><u>[New] Undead Lore Weaver</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insider-guide-whatsapp-audio-talks/"><u>[Updated] The Insider Guide WhatsApp Audio Talks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-reducing-unsteady-shots/"><u>2024 Approved Tips for Reducing Unsteady Shots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/freeweb-cams-features-uncovered-in-detail-for-2024/"><u>FreeWeb Cam's Features Uncovered in Detail for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-faster-viewing-experience-for-instagram-videos/"><u>In 2024, Faster Viewing Experience for Instagram Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-quest-for-perfection-topiary-angles-in-mobile-photography/"><u>In 2024, The Quest for Perfection Topiary Angles in Mobile Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reason-behind-photo-booth-video-stalls-for-2024/"><u>Reason Behind Photo Booth Video Stalls for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-ios-n-dive-into-the-expected-release-date-free-of-cost-update-feature-overview-and-recent-updates/"><u>The Comprehensive Guide to iOS N: Dive Into the Expected Release Date, Free of Cost Update, Feature Overview, and Recent Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-tips-regaining-archived-reddit-posts-for-2024/"><u>Time-Saving Tips Regaining Archived Reddit Posts for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-explore-the-best-free-soundtrack-libraries-for-your-videos-and-films/"><u>Updated 2024 Approved Explore the Best-Free Soundtrack Libraries for Your Videos and Films</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Patent Details: The Similarities Between the New Vision Pro Controller and Apple's Iconic Stylus | Analysis on ZDNET"
-date: 2024-10-21T18:07:15.871Z
-updated: 2024-10-26T19:02:09.953Z
+date: 2024-10-24T23:34:15.975Z
+updated: 2024-10-31T17:21:00.424Z
 tags:
   - apple
 categories:
@@ -34,6 +34,13 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
 Apple Intelligence represents a significant leap in on-device AI capabilities, directly bringing advanced machine learning and natural language processing to our phones. Unlike typical iOS or MacOS feature upgrades, Apple Intelligence loads a downsized version of Apple's Foundation Models, [a home-grown large language model (LLM)](https://www.zdnet.com/article/apple-claims-its-on-device-ai-system-realm-substantially-outperforms-gpt-4/) with approximately 3 billion parameters. While impressive, this is tiny compared to models like [GPT-3.5 and GPT-4](https://www.zdnet.com/article/what-does-gpt-stand-for-understanding-gpt-3-5-gpt-4-and-more/), which boast hundreds of billions of parameters. Even Meta's open source Llama 3, which you can run on a desktop computer, has 8 billion parameters. 
@@ -59,10 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -81,13 +88,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +97,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -120,10 +120,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -166,20 +166,24 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>[New] Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-5-prime-apps-for-clandestine-story-viewers/"><u>[New] In 2024, The 5 Prime Apps for Clandestine Story Viewers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-designing-a-standout-youtube-video-intro-for-2024/"><u>[Updated] Step-by-Step Designing a Standout YouTube Video Intro for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/die-top-vorteile-von-jobs-bei-abbyy-erfolgsgeschichte-aufsteigen/"><u>Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/efficiently-digitize-documents-scan-and-convert-with-ocr-technology-perfect-app-for-iphone-users/"><u>Efficiently Digitize Documents: Scan & Convert with OCR Technology - Perfect App for iPhone Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/effortless-conversion-of-text-from-pdfjpg-to-digital-using-iphones-ocr-scanner/"><u>Effortless Conversion of Text From PDF/JPG to Digital Using iPhone's OCR Scanner</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-optimized-with-the-power-of-cookiebot/"><u>Enhanced Conversion Tracking: Optimized with the Power of Cookiebot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-traffic-via-cutting-edge-cookiebot-solutions/"><u>Enhanced Traffic via Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-dynamic-cookiebot-analytics/"><u>Enhanced User Engagement with Dynamic Cookiebot Analytics</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-elitebook-x360-gen9-1030-g2-latest-driver-download/"><u>HP EliteBook X360 Gen9 1030 G2 - Latest Driver Download</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-fix-for-iphone-video-length-and-scope-reduction/"><u>In 2024, Quick-Fix for iPhone Video Length & Scope Reduction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-top-8-drawing-apps-for-ipados/"><u>In 2024, Top 8 Drawing Apps for iPadOS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-package-presentation-transformative-openings-for-2024/"><u>Perfect Package Presentation Transformative Openings for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/1726029152602-dvd/"><u>ダビング可能なDVDを簡単に切り取れる無料アプリ３本記事</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-starting-with-a-bang-building-a-youtube-presence/"><u>[New] 2024 Approved Starting with a Bang Building a YouTube Presence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-custom-tunes-for-your-pixel-phone/"><u>[New] Unlocking Custom Tunes for Your Pixel Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-insights-on-optimal-fpv-drone-blades/"><u>[Updated] Expert Insights on Optimal FPV Drone Blades</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-through-podcast-land-iphoneipad-edition/"><u>[Updated] Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-transformation-of-windows-10-landscape/"><u>[Updated] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 8 Plus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-toolwiz-photosapp-insights-the-full-2023-perspective-on-photography-tools/"><u>In 2024, Toolwiz PhotosApp Insights - The Full 2023 Perspective on Photography Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>In 2024, Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/masterclass-uploading-without-complications-on-social-media-for-2024/"><u>Masterclass Uploading Without Complications on Social Media for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/professional-level-content-structure-with-expert-templates-for-2024/"><u>Professional-Level Content Structure with Expert Templates for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-non-functional-clownfish-sound-modulation-device/"><u>Step-by-Step Guide: Correcting Non-Functional Clownfish Sound Modulation Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-y36-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Y36</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-for-2024/"><u>Ultimate Guide to GoPro Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-gionee-f3-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Gionee F3 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

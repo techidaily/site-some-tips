@@ -1,7 +1,7 @@
 ---
 title: "Exploring Ultra-Thin Tech: How 0.08 Inches Redefine Portability in New iPad Models - Insights From an Apple Store Visit | ZDNet"
-date: 2024-10-23T18:18:20.308Z
-updated: 2024-10-26T18:40:53.202Z
+date: 2024-10-27T10:54:45.844Z
+updated: 2024-10-31T20:04:04.844Z
 tags:
   - apple
 categories:
@@ -65,10 +65,10 @@ Please remember, though, that Apple had [inserted thinness in my mind](https://w
 So as I picked them up, I was primed to believe in the thin new world.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Thinly-veiled confusion?
@@ -96,10 +96,10 @@ I couldn't resist, however, checking how much heavier it was than the 11-inch 10
 It's a fulsome 0.23 pounds heavier, yet curiously it's 0.08 pounds lighter than the new 13-inch iPad Air.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I was sold
@@ -152,20 +152,20 @@ They're great at laying it on thick, you know.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-top-3-techniques-converting-pin-videos-to-mp3s/"><u>[New] Top 3 Techniques Converting Pin Videos To MP3s</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-potential-of-windows-movie-maker-in-windows-8-environments/"><u>[Updated] Unlocking the Potential of Windows Movie Maker in Windows 8 Environments</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secret-to-a-streamlined-tiktok-bio-with-linktree/"><u>[Updated] Unlocking the Secret to a Streamlined TikTok Bio with Linktree</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-denied-learn-why-youre-banned-and-how-to-successfully-appeal-with-these-4-tactics/"><u>ChatGPT Denied? Learn Why You're Banned and How to Successfully Appeal with These 지정된 4 Tactics</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-a-malfunctioning-lenovo-keyboard-expert-tips-and-tricks/"><u>Diagnosing and Fixing a Malfunctioning Lenovo Keyboard: Expert Tips & Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-customize-your-samsung-televisions-web-surfing-tool-with-a-new-browser-app/"><u>How To Customize Your Samsung Television's Web Surfing Tool With a New Browser App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-defy-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Defy 2 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode without Computer?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-journey-to-picture-perfection-iphone-tips-for-stunning-skylines/"><u>In 2024, Journey to Picture Perfection IPhone Tips for Stunning Skylines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-experts-playbook-top-techniques-for-youtube-to-mpeg/"><u>In 2024, The Expert's Playbook Top Techniques for YouTube-to-MPEG</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/mastering-the-exchange-a-comprehensive-guide-to-fb-media-download/"><u>Mastering the Exchange A Comprehensive Guide to FB Media Download</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/pinnacle-motorsport-replicas-top-5-for-2024/"><u>Pinnacle Motorsport Replicas (Top 5) for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/ride-innovatively-pioneering-helmet-cams-for-the-adventurous-rider-23-edition-for-2024/"><u>Ride Innovatively – Pioneering Helmet Cams for the Adventurous Rider, '23 Edition for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-apex-sites-for-rich-3d-experiences-with-lustrous-text-art/"><u>[New] Apex Sites for Rich 3D Experiences with Lustrous Text Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-voice-manipulation-in-ps-console-titles/"><u>[New] The Art of Voice Manipulation in PS Console Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quiet-guide-to-livestreaming-yourself-on-instagram/"><u>[New] The Quiet Guide to Livestreaming Yourself on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[New] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nveiling-the-quintessential-five-strategic-moves-for-youtube-marketing-success/"><u>[New] Unveiling the Quintessential Five Strategic Moves for YouTube Marketing Success</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-quick-tunes-explore-video-music-characters/"><u>[Updated] Quick Tunes Explore Video Music Characters</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>[Updated] Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-snapedit-story-complete-video-editor-features/"><u>[Updated] SnapEdit Story – Complete Video Editor Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[Updated] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>2024 Approved Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/track-channel-growth-to-partner-status-aim-for-10000-views-for-2024/"><u>Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-syma-x8c-performance-breakdown/"><u>In 2024, Syma X8C Performance Breakdown</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/kostenloze-omzetting-van-rmvb-naar-wmv-online-efficient-met-movavi/"><u>Kostenloze Omzetting Van RMVB Naar WMV Online - Efficiënt Met Movavi</u></a></li>
 </ul></div>
 

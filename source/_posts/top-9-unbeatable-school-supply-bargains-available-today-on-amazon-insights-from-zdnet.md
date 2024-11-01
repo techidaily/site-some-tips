@@ -1,7 +1,7 @@
 ---
 title: Top 9 Unbeatable School Supply Bargains Available Today on Amazon - Insights From ZDNet
-date: 2024-09-19 21:54:47
-updated: 2024-09-20 11:56:25
+date: 2024-10-30T19:16:57.177Z
+updated: 2024-11-01T09:48:31.345Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -45,6 +59,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -56,6 +77,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unlock-the-potential-of-hero5-black-for-stunning-visuals/"><u>[New] Unlock the Potential of Hero5 Black for Stunning Visuals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-learn-the-basics-of-digital-distortion/"><u>2024 Approved Learn the Basics of Digital Distortion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-threefold-way-to-extract-and-save-youtubes-subtitles-srt/"><u>2024 Approved The Threefold Way to Extract and Save YouTube's Subtitles (SRT)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-best-4k-monitors/"><u>2024 Approved Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-when-your-persona-3-reloaded-title-doesnt-load-correctly/"><u>Effective Fixes When Your Persona 3 Reloaded Title Doesn't Load Correctly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expand-your-soundscape-simultaneously-connecting-multiple-bluetooth-audio-devices/"><u>Expand Your Soundscape: Simultaneously Connecting Multiple Bluetooth Audio Devices</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-uninterrupted-speed-with-d-link-powerline-2000-a-user-friendly-setup-guide/"><u>Experience Uninterrupted Speed with D-Link Powerline 2000: A User-Friendly Setup Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-into-it-the-next-level-conversation-ai/"><u>Get Into It: The Next-Level Conversation AI</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pioneering-the-future-of-drones-today-and-tomorrow/"><u>In 2024, Pioneering the Future of Drones Today & Tomorrow</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instantly-improve-sound-quality-with-new-drivers-on-hyperx-devices/"><u>Instantly Improve Sound Quality with New Drivers on HyperX Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/masterpieces-of-radio-scripting-artistry-for-2024/"><u>Masterpieces of Radio Scripting Artistry for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-a2-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo A2 Pattern Lock Screen Everything You Need to Know</u></a></li>
+</ul></div>
+

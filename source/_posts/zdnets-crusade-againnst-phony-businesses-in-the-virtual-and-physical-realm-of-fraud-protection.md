@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Crusade Againnst Phony Businesses in the Virtual & Physical Realm of Fraud Protection
-date: 2024-09-18 20:17:13
-updated: 2024-09-20 12:21:12
+date: 2024-10-30T18:19:25.305Z
+updated: 2024-10-31T22:41:19.060Z
 tags:
   - e-commerce
 categories:
@@ -51,6 +51,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -65,9 +72,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-10-igtv-talents-ready-to-take-off/"><u>[New] 2024 Approved 10 IGTV Talents Ready to Take Off</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-choice-of-steadicams-for-drone-video-shootings/"><u>[New] Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surge-in-tiktok-like-ratings-with-smart-unboxing/"><u>[New] Surge in TikTok Like Ratings with Smart Unboxing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-breakdown-xstudio-video-production-mastery/"><u>[New] The Ultimate Breakdown XStudio Video Production Mastery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-one-off-to-firm-follower-an-ethical-approach/"><u>[Updated] 2024 Approved From One-Off to Firm Follower An Ethical Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-lg-360-degree-headset-review-next-gen-immersion/"><u>[Updated] LG 360-Degree Headset Review - Next-Gen Immersion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-olympic-highlights-thrilling-runs-from-x-games/"><u>2024 Approved Olympic Highlights Thrilling Runs From X Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-sustainable-filmmaking-aids-at-no-charge/"><u>2024 Approved Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-a-unique-online-presence-youtube-edition-for-2024/"><u>Crafting a Unique Online Presence YouTube Edition for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-future-of-tiktok-master-video-trends-and-techniques-for-2024/"><u>The Future of TikTok - Master Video Trends and Techniques for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleashing-fun-kinemaster-reviewed-for-android-devices-for-2024/"><u>Unleashing Fun KineMaster Reviewed for Android Devices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Google Pixel Fold | Dr.fone</u></a></li>
+</ul></div>
+

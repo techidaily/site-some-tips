@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence (AI) in Diagnostics
-date: 2024-10-21T18:44:25.430Z
-updated: 2024-10-26T18:34:44.699Z
+date: 2024-10-25T09:52:49.481Z
+updated: 2024-11-01T07:44:27.163Z
 tags:
   - apple
 categories:
@@ -29,13 +29,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -84,16 +77,10 @@ Over in the Android world, its first phone was the HTC Dream, also marketed as t
 With the iPhone 3 and the App Store, along with the first Android phone, it's fair to say that 2008 was the first year of the modern smartphone era.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2010: Smartphones meet narcism, a match made in heaven
@@ -126,13 +113,6 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI and machine learning in today's smartphones
 
 If you think about the stages of photography, we had light and shadow, then we had fixed images stored using chemicals (the film stage), then we had magnetic media (still analog), and then the rise of digital cameras and smartphones. In each of those stages, the one common factor was that the camera was meant as a capture device. It didn't do any of the art.
@@ -148,6 +128,13 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 "But the conversation has moved to the different ways cameras like the iPhone can be used," he continued. "I think AI and machine learning features -- like the iPhone 15's scene, skin and sky segmentation and detection, periscope zoom lens, and Portrait Mode -- have opened up the possibilities of how smartphones can be used by everyone."
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Image quality
 
@@ -184,10 +171,10 @@ This technique pits a "generator" algorithm against a "discriminator" algorithm 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
@@ -211,6 +198,13 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -268,22 +262,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-discussing-the-merits-and-drawbacks-of-aurora-hdr-tech/"><u>[New] In 2024, Discussing the Merits and Drawbacks of Aurora HDR Tech</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-pro-mkv-reader-for-personal-computers/"><u>[New] Pro MKV Reader for Personal Computers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlining-360-degree-video-editing-workflow-in-premiere-pro/"><u>[Updated] Streamlining 360-Degree Video Editing Workflow in Premiere Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-strengthening-community-wellness-with-targeted-ads/"><u>[Updated] Strengthening Community Wellness with Targeted Ads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-techniques-succeeding-in-spotify-advertising/"><u>[Updated] Top Techniques Succeeding in Spotify Advertising</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>2024 Approved Compreran List Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos/"><u>2024 Approved The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tips-to-trim-down-lag-during-xbox-zoom-sessions/"><u>2024 Approved Tips to Trim Down Lag During Xbox-Zoom Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>2024 Approved Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone X without Passcode or Face ID</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-gaming-and-design-work-with-fresh-graphic-card-drivers-the-windows-11-way/"><u>Enhance Gaming and Design Work with Fresh Graphic Card Drivers: The Windows 11 Way</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Identify some outdated drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-lenovo-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Lenovo Phone?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-apple-podcasts-transferring/"><u>In 2024, The Essential Guide to Apple Podcasts Transferring</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/retro-playback-inverting-your-youtube-content-for-2024/"><u>Retro Playback Inverting Your YouTube Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-itunes-radio-downloading-blueprint-for-2024/"><u>The Complete iTunes Radio Downloading Blueprint for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-zero-5g-2023-turbo-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Zero 5G 2023 Turbo Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-star-citizen-crash-on-pc-directx-hurdle/"><u>[CORRECTED] Star Citizen Crash on PC - DirectX Hurdle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-premium-virtual-meetup-software-titles/"><u>[Updated] 2024 Approved Premium Virtual Meetup Software Titles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-clandestine-scrollers-of-fb-stories/"><u>[Updated] Clandestine Scrollers of Fb Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>2024 Approved The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-techniques-for-stunning-android-time-lapse-captures/"><u>2024 Approved Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-power-of-video-enhancement-sdr-to-dynamic-range-upconversion/"><u>2024 Approved Unveiling the Power of Video Enhancement SDR to Dynamic Range Upconversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accessible-gamers-soundtrack-without-restrictions-for-2024/"><u>Accessible Gamers' Soundtrack Without Restrictions for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/effortless-hue-harvesting-a-guide-to-powertoys-color-picker-tutorial-by-zdnet-experts/"><u>Effortless Hue Harvesting: A Guide to PowerToys Color Picker Tutorial by ZDNet Experts</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-for-using-firefoxs-popup-window/"><u>In 2024, The Ultimate Checklist for Using Firefox's Popup Window</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-your-macs-capabilities-in-big-sur/"><u>In 2024, Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-videos-potential-with-dynamic-titles/"><u>In 2024, Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-note-13-pro-5g-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi Note 13 Pro 5G, is it possible?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-vision-with-lunapics-tutorial-for-2024/"><u>Unlock Creative Vision with LunaPic's Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlock-the-secrets-achieving-facebooks-prestige-marker/"><u>Unlock the Secrets Achieving Facebook's Prestige Marker</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-past-cortana-activity-on-a-computer-system/"><u>Unlocking Past Cortana Activity on a Computer System</u></a></li>
 </ul></div>
 

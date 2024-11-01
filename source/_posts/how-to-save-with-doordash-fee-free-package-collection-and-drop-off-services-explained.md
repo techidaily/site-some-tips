@@ -1,7 +1,7 @@
 ---
 title: "How to Save with DoorDash: Fee-Free Package Collection and Drop-Off Services Explained"
-date: 2024-09-17 10:18:36
-updated: 2024-09-20 10:33:50
+date: 2024-10-30T13:12:48.569Z
+updated: 2024-11-01T13:15:42.366Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-crowned-titles-top-sierra-dvd-creation-software/"><u>[New] In 2024, Crowned Titles Top Sierra DVD Creation Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>[New] Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-first-choice-of-android-photo-editors/"><u>[Updated] First Choice of Android Photo Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-role-of-supplemental-imagery-in-storytelling/"><u>[Updated] The Role of Supplemental Imagery in Storytelling</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-complete-guide-to-preserving-ps4-gameplay-moments/"><u>2024 Approved The Complete Guide to Preserving PS4 Gameplay Moments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>2024 Approved Top Drone Propellers Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-videos-not-playing-with-my-oppo-reno-11-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to fix videos not playing with my Oppo Reno 11 5G?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-record-good-audio-without-a-microphone/"><u>How to Record Good Audio Without a Microphone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-vivo-y100-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Vivo Y100 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-honor-90-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Honor 90 by Name | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>In 2024, The Art of Plating on Camera Food Video Production Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-writing-impressive-podcast-summaries/"><u>In 2024, The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/real-time-broadcasting-discover-how-manycam-revolutionizes-virtual-webcams-and-online-streaming/"><u>Real-Time Broadcasting: Discover How ManyCam Revolutionizes Virtual Webcams and Online Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt-for-2024/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-to-avi-tutorial-plus-8-best-youtube-to-avi-converters-for-2024/"><u>YouTube to AVI Tutorial + 8 Best YouTube to AVI Converters for 2024</u></a></li>
+</ul></div>
+

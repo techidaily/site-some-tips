@@ -1,7 +1,7 @@
 ---
 title: OCA2 - Due to Mutations in the OCA2 Gene Encoding a Protein Called P Protein Involved in Melanosome Maturation and Transport.
-date: 2024-09-19 10:38:35
-updated: 2024-09-20 10:38:22
+date: 2024-10-25T19:26:58.217Z
+updated: 2024-11-01T08:43:20.678Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,6 +58,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -69,7 +83,21 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-turn-your-iphone-images-upside-down-with-precision/"><u>[New] Turn Your iPhone Images Upside Down with Precision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-understanding-how-asmr-can-benefit-your-life/"><u>[New] Understanding How ASMR Can Benefit Your Life</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/microsoft-wordexcel/"><u>「Microsoft Word/Excel ドキュメントが保存される場所を見つける方法」</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-stop-motion-mastery-best-apps-for-iphone-and-android/"><u>2024 Approved Stop Motion Mastery Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-video-upgrade-with-enhancer-22/"><u>2024 Approved The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-video-editing-on-windows-11-for-professionals/"><u>2024 Approved Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-the-cutting-edge-just-released-macbook-models/"><u>Explore the Cutting-Edge: Just Released MacBook Models</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eye-candy-roundup-the-best-and-worst-of-8k-tv-tech-for-2024/"><u>Eye Candy Roundup The Best and Worst of 8K TV Tech for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-for-building-compelling-canon-time-lapses/"><u>In 2024, The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy F54 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-k70e-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi K70E Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-battle-of-accessible-viewerships-google-vs-samsung-headsets-for-2024/"><u>The Battle of Accessible Viewerships Google Vs. Samsung Headsets for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/ultimate-vlogger-pre-introduction-tools-and-software-solutions/"><u>Ultimate Vlogger Pre-Introduction Tools and Software Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/your-go-to-list-of-best-free-game-apps-on-android/"><u>Your Go-To List of Best Free Game Apps on Android</u></a></li>
+</ul></div>
+

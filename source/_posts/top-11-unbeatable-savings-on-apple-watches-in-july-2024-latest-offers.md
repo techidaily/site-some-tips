@@ -1,7 +1,7 @@
 ---
 title: Top 11 Unbeatable Savings on Apple Watches in July 2024 - Latest Offers
-date: 2024-10-25T19:30:15.491Z
-updated: 2024-10-26T16:45:22.811Z
+date: 2024-10-28T08:54:26.428Z
+updated: 2024-11-01T01:19:04.189Z
 tags:
   - apple
 categories:
@@ -86,10 +86,10 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best refurbished Apple Watch deals of July 2024
@@ -98,35 +98,41 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How did we choose these deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we desire, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -143,6 +149,13 @@ Apple has a lengthy lineup of its flagship tech wearable, with several iteration
 ## Which Apple watches have the new double tap feature?
 
 Apple's newest releases, the Watch Series 9 and the Watch Ultra 2 both feature the new finger tap capability. Apple formally refers to this as the "double tap gesture," and with it users can easily control either watch with just one hand and without touching the display. Users can tap the index finger and thumb of their watch hand together twice to quickly perform many of the most common actions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the different Apple Watch bands available?
 
@@ -161,13 +174,6 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,22 +219,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-selecting-the-best-video-monitors-for-ps5/"><u>[New] Selecting the Best Video Monitors for PS5</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-unlock-optimal-performance-with-these-key-tricks/"><u>[Updated] 2024 Approved Unlock Optimal Performance with These Key Tricks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-essential-youtube-video-editing-techniques/"><u>[Updated] Essential YouTube Video Editing Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-filmoras-fcc-initiative-a-guide/"><u>[Updated] Navigating Filmora's FCC Initiative A Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-video-sources-and-uploading-on-instagram/"><u>2024 Approved Navigating Video Sources and Uploading on Instagram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-announces-scott-opitz-as-new-cmo-exciting-times-ahead/"><u>ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-finereader-et-ideticiel-accelere-le-tri-du-courrier-dans-les-communes-avec-larchivage-numerique/"><u>ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-finereader-fur-blinde-und-sehschwache-schulerinnen-uberwindet-lernbarrieren-mit-spracherkennungstechnologie/"><u>ABBYY FineReader Für Blinde Und Sehschwache SchülerInnen - Überwindet Lernbarrieren Mit Spracherkennungstechnologie</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-unveils-cutting-edge-digital-tools-to-streamline-legal-practices-during-the-2020-american-bar-association-technology-exhibition/"><u>ABBYY Unveils Cutting-Edge Digital Tools to Streamline Legal Practices During the 2020 American Bar Association Technology Exhibition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyys-latest-sdk-revolutionizes-receipt-digitization-with-cutting-edge-features/"><u>ABBYY's Latest SDK Revolutionizes Receipt Digitization with Cutting-Edge Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/adrian-jones-appointed-as-new-chief-revenue-officer-at-abbyy/"><u>Adrian Jones Appointed as New Chief Revenue Officer at ABBYY</u></a></li>
-<li><a href="https://some-tips.techidaily.com/advanced-analytics-driven-by-innovative-cookiebot-solutions/"><u>Advanced Analytics Driven by Innovative Cookiebot Solutions</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-samsung-galaxy-s23-ultra-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Samsung Galaxy S23 Ultra Location Settings | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/effiziente-prufung-und-analyse-von-fehlerarmen-einreichen-mit-abbyy-software-tools/"><u>Effiziente Prüfung Und Analyse Von Fehlerarmen Einreichen Mit ABBYY Software Tools</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-simplify-storytelling-transform-vimeo-into-captivating-gifs/"><u>In 2024, Simplify Storytelling Transform Vimeo Into Captivating GIFs</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-ranking-free-disk-level-data-synchronization-tools/"><u>Top-Ranking Free Disk-Level Data Synchronization Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-timeline-connector-for-alteryx-abbyy/"><u>ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド</u></a></li>
+<li><a href="https://techidaily.com/fixed-arch-bluetooth-mouse-not-working-after-windows-11-creators-update/"><u>[FIXED] Arch Bluetooth Mouse Not Working After Windows 11 Creators Update</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-determining-facebook-video-orientation-choices-ahead/"><u>[New] 2024 Approved Determining Facebook Video Orientation Choices Ahead</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-image-adaptation-techniques-for-iphone-users/"><u>[New] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-fb-expertise-guide-to-shooting-and-uploading-vr/"><u>[New] The FB Expertise Guide to Shooting & Uploading VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-8-3d-websites-with-stunning-gold-text-visuals/"><u>[New] Top 8 3D Websites with Stunning Gold Text Visuals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies/"><u>[New] Unifying Platforms The Art of Incorporating Linktree in TikTok Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-essential-tips-for-lut-production/"><u>[New] Unleash Creativity Essential Tips for LUT Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-offline-speech-to-text-transcription-apps/"><u>[Updated] Top Offline Speech-to-Text Transcription Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-decreasing-audio-intensity-in-logic-pro/"><u>2024 Approved The Art of Decreasing Audio Intensity in Logic Pro</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-study-reveals-key-factors-driving-public-abandonment-of-e-government-onboarding-processes/"><u>ABBYY Study Reveals Key Factors Driving Public Abandonment of E-Government Onboarding Processes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-galaxy-s23-tactical-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-se-2022-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone SE (2022) iCloud Activation Lock</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-p55t-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel P55T Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-videos-in-windows-movie-maker-for-2024/"><u>Streamline Your YouTube Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-mac-with-the-latest-macos-11-big-sur-overview-for-2024/"><u>Transform Your Mac with the Latest MacOS 11 Big Sur Overview for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transformez-vos-dvd-en-formats-mobiles-facilement-avec-le-convertisseur-gratuit-winx-dvd-mp4-avi/"><u>Transformez Vos DVD en Formats Mobiles Facilement Avec Le Convertisseur Gratuit WinX DVD (MP4, AVI)</u></a></li>
 </ul></div>
 

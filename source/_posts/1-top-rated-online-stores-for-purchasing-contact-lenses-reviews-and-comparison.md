@@ -1,7 +1,7 @@
 ---
 title: 1. Top Rated Online Stores for Purchasing Contact Lenses - Reviews & Comparison
-date: 2024-09-19 21:53:16
-updated: 2024-09-20 10:41:58
+date: 2024-10-30T11:11:23.934Z
+updated: 2024-10-31T16:34:06.470Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,29 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-giggles-and-grins-topical-humor-guides-for-everyone-for-2024/"><u>[Updated] Giggles and Grins Topical Humor Guides for Everyone for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-hd-live-stream-gear-list/"><u>2024 Approved Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/chargetechs-high-capacity-27000mah-power-bank-unveiled-in-depth-review-and-insights/"><u>ChargeTech's High-Capacity 27000mAh Power Bank Unveiled - In-Depth Review & Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hitman-trilogy-conclusion-reviewed-masterful-closure/"><u>Hitman Trilogy Conclusion Reviewed: Masterful Closure</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-130-music-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia 130 Music to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>In 2024, Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-in-ar-applying-lut-techniques/"><u>In 2024, Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mp4-to-flv-transformation-a-comprehensive-tutorial-for-windows-and-macos-users/"><u>MP4 to FLV Transformation: A Comprehensive Tutorial for Windows and macOS Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-level-drone-racing-techniques-and-quintessential-fpvs/"><u>Pro-Level Drone Racing Techniques & Quintessential FPVs</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-nvidia-control-panel-unresponsiveness-and-startup-failures/"><u>Step-by-Step Guide: Resolving NVIDIA Control Panel Unresponsiveness and Startup Failures</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2563553-9781780284293-ten-eternal-questions/"><u>Ten Eternal Questions | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-iphone-users-converting-standard-speed-to-slow-scenes-for-2024/"><u>Tips for iPhone Users Converting Standard Speed to Slow Scenes for 2024</u></a></li>
+</ul></div>
+

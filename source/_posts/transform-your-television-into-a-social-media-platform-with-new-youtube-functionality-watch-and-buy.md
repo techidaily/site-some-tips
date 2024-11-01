@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Television Into a Social Media Platform with New YouTube Functionality: Watch & Buy!"
-date: 2024-09-18 21:23:38
-updated: 2024-09-20 11:50:39
+date: 2024-10-30T00:10:29.929Z
+updated: 2024-11-01T00:20:28.788Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-rapid-video-capture-software-w-audible-commentaries/"><u>[New] 2024 Approved Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-fair-assessment-unveiling-recordcasts-capabilities/"><u>[Updated] A Fair Assessment Unveiling RecordCast's Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-humor-haven-the-ultimate-list-of-event-specific-jokes/"><u>[Updated] Humor Haven The Ultimate List of Event-Specific Jokes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-maximizing-insights-with-twitter-archive-analysis/"><u>[Updated] In 2024, Maximizing Insights with Twitter Archive Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-ai-tools-for-visual-storytelling/"><u>[Updated] Unmatched AI Tools for Visual Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-encompassing-vision/"><u>[Updated] Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-details-a-closer-look-at-your-roblox-world/"><u>2024 Approved Unraveling Details A Closer Look at Your Roblox World</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-install-your-hp-laserjet-5200-driver-on-windows-11-10-and-8-free-download/"><u>Effortlessly Install Your HP LaserJet 5200 Driver on Windows 11, 10 & 8 - Free Download!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-insights-choosing-the-best-platforms-for-watching-cricket-live/"><u>In 2024, Expert Insights Choosing the Best Platforms for Watching Cricket LIVE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-slideshow-speed-settings-for-mp4/"><u>In 2024, Streamline Your Slideshow Speed Settings for MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>In 2024, The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-social-sphere-instaplustiktok/"><u>Navigating the Social Sphere Insta+TikTok</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secure-your-snapshots-anywhere-anytime-the-ultimate-cloud-choices-for-2024/"><u>Secure Your Snapshots Anywhere, Anytime The Ultimate Cloud Choices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-image-editors-ultimate-toolkit-review-for-2024/"><u>The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-handbook-insta-to-tik-tok-connectivity/"><u>Ultimate Handbook Insta-to-Tik Tok Connectivity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer-for-2024/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-the-enigma-instagram-story-follower-secrets-revealed-for-2024/"><u>Unraveling the Enigma Instagram Story Follower Secrets Revealed for 2024</u></a></li>
+</ul></div>
+

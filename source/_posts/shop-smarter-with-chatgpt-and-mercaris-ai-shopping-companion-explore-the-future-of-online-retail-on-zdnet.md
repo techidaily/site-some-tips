@@ -1,7 +1,7 @@
 ---
 title: Shop Smarter with ChatGPT and Mercari’s AI Shopping Companion - Explore the Future of Online Retail on ZDNet
-date: 2024-09-18 16:55:39
-updated: 2024-09-20 12:40:22
+date: 2024-10-28T19:08:16.738Z
+updated: 2024-11-01T10:05:46.490Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -68,6 +89,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-full-picture-a-comprehensive-review-of-android-lightroom/"><u>[New] 2024 Approved The Full Picture A Comprehensive Review of Android Lightroom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-moments-tips-for-effective-logitech-cam-use/"><u>[New] In 2024, Capturing Moments Tips for Effective Logitech Cam Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>[New] The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-delving-into-asmrs-potential-upsides/"><u>[Updated] In 2024, Delving Into ASMR's Potential Upsides</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleashing-humor-the-kapwing-meme-builder-way/"><u>[Updated] Unleashing Humor The Kapwing Meme Builder Way</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-aes-best-text-presets/"><u>2024 Approved Unleashing Creativity with AE's Best Text Presets</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-gaming-options-to-keep-boredom-at-bay-a-list-of-the-top-10/"><u>Best Gaming Options to Keep Boredom at Bay: A List of the Top 10</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-through-windows-block-essential-5-step-solutions/"><u>Breaking Through Windows Block: Essential 5-Step Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-civi-3-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Civi 3? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-melody-in-motion-iphones-role-in-making-music-videos/"><u>In 2024, Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-samsungs-picture-editing-app/"><u>In 2024, The Ultimate Guide to Samsung's Picture Editing App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-and-solutions-for-common-vlc-issues-on-mac/"><u>In 2024, Top Tips & Solutions for Common VLC Issues on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-vibrance-grading-secrets-in-ps/"><u>In 2024, Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978265923-secure-and-fast-fetching-the-ultimate-guide-to-downloading-ft232r-drivers/"><u>Secure and Fast Fetching: The Ultimate Guide to Downloading FT232R Drivers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ath-to-vr-storytelling-editing-and-streaming-360-video-on-youtube-for-2024/"><u>The Path to VR Storytelling Editing and Streaming 360° Video on YouTube for 2024</u></a></li>
+</ul></div>
+

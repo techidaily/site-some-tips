@@ -1,7 +1,7 @@
 ---
 title: The Pricey Reality Behind Exclusive AI Tech in New iPhones, Leaving Older Devices Behind
-date: 2024-10-20T16:55:48.551Z
-updated: 2024-10-26T16:02:37.766Z
+date: 2024-10-26T01:47:11.466Z
+updated: 2024-11-01T10:39:44.930Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,16 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,22 +131,21 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-how-to-use-zoom-on-xbox-one/"><u>[New] How to Use Zoom on Xbox One</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-iphone-playlist-podcast-tips/"><u>[New] The Ultimate iPhone Playlist Podcast Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-time-saving-guide-seconds-to-clear-background-bg/"><u>[New] Time-Saving Guide Seconds to Clear Background Bg</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-uploading-subtitles-a-compreenas-guide-for-all-social-media-users/"><u>[New] Uploading Subtitles A Compreenas Guide for All Social Media Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-tips-to-make-your-podcast-teasers-stand-out/"><u>[Updated] Top 10 Tips to Make Your Podcast Teasers Stand Out</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tunes-apps-win-edition/"><u>[Updated] Top Tunes Apps Win Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gamers-rejoice-as-red-dead-redemption-2-pc-version-overcomes-crashing-glitches/"><u>Gamers Rejoice as Red Dead Redemption 2 PC Version Overcomes Crashing Glitches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-smart-8-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-intuitive-face-blurring-guide-on-piscart-tools/"><u>In 2024, Intuitive Face-Blurring Guide on PiscArt Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uncompromised-creativity-best-macos-big-sur-editing-tools-ranked/"><u>In 2024, Uncompromised Creativity Best macOS Big Sur Editing Tools Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-low-volume-settings-in-os-xwindows-for-2024/"><u>Mastering Low-Volume Settings in OS X/Windows for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/reviewing-fujitsus-ix1600-the-perfect-desktop-solution-for-all-your-document-needs/"><u>Reviewing Fujitsu's iX1600 - The Perfect Desktop Solution for All Your Document Needs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-zte-blade-a73-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your ZTE Blade A73 5G Phone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-2-strategies-fur-die-integration-von-sharepoint-und-onedrive-synchronisation-auch-automatisch/"><u>Top 2 Strategies Für Die Integration Von SharePoint Und OneDrive - Synchronisation Auch Automatisch</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-kitchen-with-chatgpt-top-7-strategies-for-aspiring-chefs/"><u>Transform Your Kitchen with ChatGPT - Top 7 Strategies for Aspiring Chefs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-androids-top-video-recording-options-5-excellent-picks/"><u>[New] In 2024, Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-azures-transcription-service/"><u>[Updated] Mastering Azure's Transcription Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-smooth-srt-exports-post-premiere/"><u>[Updated] Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailor-your-text-to-voice-top-5-cloud-services-for-chrome-os-sound-transformation/"><u>2024 Approved Tailor Your Text to Voice Top 5 Cloud Services for Chrome OS Sound Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-expertly-editing-images-at-home/"><u>2024 Approved The Essentials of Expertly Editing Images at Home</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/darkness-defender-vs-lights-liberator-black-vs-silver/"><u>Darkness' Defender vs Light's Liberator BLACK vs SILVER</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>In 2024, Tales That Echo Through Time Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/swift-and-steady-follower-filtering-the-leading-twitter-tools-list/"><u>Swift and Steady Follower Filtering The Leading Twitter Tools List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-virtuosos-journey-transforming-zoom-live-streams-on-youtube-for-2024/"><u>The Virtuoso's Journey Transforming Zoom Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-non-functional-speakers-on-your-pc-or-macbook/"><u>Troubleshooting and Repairing Non-Functional Speakers on Your PC or MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-iphone-photography-top-angles-for-stunning-images-for-2024/"><u>Unlock iPhone Photography Top Angles for Stunning Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-leading-10-free-subtitle-editors-for-srt-files-for-2024/"><u>Unveiling Leading 10 FREE Subtitle Editors for SRT Files for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-qualifies-to-utilize-nvidias-adaptable-ai-services-in-the-realm-of-machine-learning/"><u>Who Qualifies to Utilize NVIDIA's Adaptable AI Services in the Realm of Machine Learning?</u></a></li>
 </ul></div>
 

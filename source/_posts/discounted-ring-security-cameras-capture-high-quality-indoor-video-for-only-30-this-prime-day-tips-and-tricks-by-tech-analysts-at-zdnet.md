@@ -1,7 +1,7 @@
 ---
 title: "Discounted Ring Security Cameras: Capture High-Quality Indoor Video for Only $30 This Prime Day – Tips and Tricks by Tech Analysts at ZDNet"
-date: 2024-09-17 23:10:46
-updated: 2024-09-20 11:50:29
+date: 2024-10-31T03:32:24.943Z
+updated: 2024-11-01T01:17:01.447Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +64,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -78,6 +105,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +144,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-client-speeches-transforming-marketing-narratives/"><u>[New] Client Speeches Transforming Marketing Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-tiktok-experience-with-new-user-numbers/"><u>[New] Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevate-your-visual-storytelling-mastering-pixizs-video-capabilities/"><u>[Updated] 2024 Approved Elevate Your Visual Storytelling Mastering Pixiz's Video Capabilities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-fusing-frequencies-smoothly-with-logic-pro-x-methods/"><u>[Updated] 2024 Approved Fusing Frequencies Smoothly with Logic Pro X Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocket-your-youtube-traffic-with-effective-outros/"><u>[Updated] Skyrocket Your YouTube Traffic with Effective Outros</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-revealed-secrets-top-15-stabilizers-and-holders-for-gopro/"><u>2024 Approved Revealed Secrets Top 15 Stabilizers & Holders for GoPro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>Embedded Recorder Usage in Huawei's Mate Series and the P Lineup for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>In 2024, Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-audio-potential-pazeras-free-tool-review/"><u>In 2024, Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-platforms-modeling-animating-unite-for-2024/"><u>Leading Platforms Modeling, Animating Unite for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/monster-hunter-stories-2-wings-of-ruin-not-starting-fix-it-now/"><u>Monster Hunter Stories 2: Wings of Ruin Not Starting? Fix It Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-prime-picks-best-storytelling-channels-fans-for-2024/"><u>The Prime Picks Best Storytelling Channels Fans for 2024</u></a></li>
+</ul></div>
+

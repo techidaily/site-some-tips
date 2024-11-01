@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Bulky Batteries: Discover the Sleek, Speedy MagSafe Power Pack for a Faster Charging Experience | ZDNET"
-date: 2024-10-24T19:24:50.269Z
-updated: 2024-10-26T18:34:09.823Z
+date: 2024-10-28T23:40:09.996Z
+updated: 2024-11-01T01:00:25.086Z
 tags:
   - apple
 categories:
@@ -77,10 +77,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -96,10 +96,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -113,10 +113,16 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -130,10 +136,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,18 +176,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-crafting-professional-broadcasts-mastering-obs-plus-zoom-techniques-for-2024/"><u>[Updated] Crafting Professional Broadcasts Mastering OBS + Zoom Techniques for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-survey-spectrum-of-video-and-film-equipment/"><u>[Updated] In 2024, Survey Spectrum of Video and Film Equipment</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-your-content-companion-the-future-in-podcasts-or-youtube/"><u>2024 Approved Choosing Your Content Companion The Future in Podcasts or YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-comprehensive-guide-to-podcast-rss-feed-crafting/"><u>2024 Approved Comprehensive Guide to Podcast RSS Feed Crafting</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-cross-promotion-partnerships-with-brands-on-youtube/"><u>2024 Approved Cross-Promotion Partnerships with Brands on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/94-der-firmen-verlieren-potenzielle-kunden-wahrend-des-onboarding-prozesses-wie-kann-das-vermieden-werden/"><u>94% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyys-content-intelligence-revolutionizing-the-financial-sector-and-accounting-practices/"><u>ABBYY's Content Intelligence: Revolutionizing the Financial Sector and Accounting Practices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/alteryx-and-abbyy/"><u>Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される</u></a></li>
-<li><a href="https://some-tips.techidaily.com/boost-site-engagement-with-cookiebots-advanced-data-tracking-technology/"><u>Boost Site Engagement with Cookiebot's Advanced Data Tracking Technology</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-efficiency-with-these-5-amazing-non-rooted-android-clicker-apps/"><u>Boost Your Efficiency with These 5 Amazing Non-Rooted Android Clicker Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skills-for-photo-manipulation-mastery/"><u>In 2024, Skills for Photo Manipulation Mastery</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/new-horizons-registering-for-cutting-edge-plugin-updates/"><u>New Horizons: Registering for Cutting-Edge Plugin Updates</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capture-the-scene-without-breaking-the-bank-with-free-tools/"><u>[New] 2024 Approved Capture the Scene without Breaking the Bank with Free Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-a-world-of-movies-captions-in-windows-media-player/"><u>[New] Unlock a World of Movies Captions in Windows Media Player</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-powerhouse-q500-typhoon/"><u>[New] Unveiling the Powerhouse Q500 Typhoon</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-seamless-social-integration-share-from-twitch-to-fb/"><u>[Updated] Seamless Social Integration Share From Twitch to FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-windows-calling-software-8-winner-list-for-2024/"><u>[Updated] Top Windows Calling Software #8 Winner List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-potential-of-adobe-and-exploring-others/"><u>[Updated] Unlocking the Potential of Adobe & Exploring Others</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-four-effective-techniques-for-irreversible-file-deletion-on-your-pc/"><u>1. Four Effective Techniques for Irreversible File Deletion on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-14-dynamic-text-animation-samples/"><u>2024 Approved Unveiling 14 Dynamic Text Animation Samples</u></a></li>
+<li><a href="https://article-files.techidaily.com/adjusting-story-video-playback-rate-on-instagram/"><u>Adjusting Story Video Playback Rate on Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-non-responsive-ps4-headset-mic/"><u>Expert Tips for Resolving Non-Responsive PS4 Headset Mic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flight-pioneers-face-off-dji-vs-gopro/"><u>In 2024, Flight Pioneers Face Off DJI vs GoPro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultrawide-uhd-dilemranc-which-monitor-wins-for-2024/"><u>The Ultrawide-UHD Dilemranc Which Monitor Wins for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-must-have-features-in-drone-gimbals-for-2024/"><u>Top 10 Must-Have Features in Drone Gimbals for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Dissecting the Flaw in the Latest iPad Launch: Strategies for Apple to Rectify the Error | ZDNET"
-date: 2024-10-21T17:35:57.849Z
-updated: 2024-10-26T16:03:23.133Z
+date: 2024-10-25T20:45:17.579Z
+updated: 2024-11-01T03:24:54.193Z
 tags:
   - apple
 categories:
@@ -71,16 +71,10 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -100,10 +94,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -154,20 +148,19 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-essentials-navigating-whatsapp-call-functionality/"><u>[New] The Essentials Navigating WhatsApp Call Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[New] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-your-gaming-capture-console-gameplay-on-a-computer/"><u>[Updated] Perfect Your Gaming Capture Console Gameplay on a Computer</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-spin-cycle-in-the-ice-arena-of-22/"><u>[Updated] Spin Cycle in the Ice Arena of '22</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlined-playback-import-tunes-into-inshot/"><u>[Updated] Streamlined Playback Import Tunes Into InShot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-negative-narratives-of-virtual-reality-tech/"><u>[Updated] The Negative Narratives of Virtual Reality Tech</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-uniting-obs-and-zoom-a-compreehensive-video-guide-for-2024/"><u>[Updated] Uniting OBS and Zoom A Compreehensive Video Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximize-your-mobile-podcast-experience-on-iphone/"><u>2024 Approved Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>2024 Approved Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquer-time-lapse-with-your-canon-camera-for-2024/"><u>Conquer Time-Lapse with Your Canon Camera for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photographic-prowess-with-an-insight-into-lut-functionality-for-2024/"><u>Photographic Prowess with an Insight Into LUT Functionality for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/solutions-for-unregistered-games-on-steam-platform/"><u>Solutions for Unregistered Games on Steam Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-essential-gratuitous-lut-downloads-of-the-year-for-2024/"><u>Top 10 Essential, Gratuitous LUT Downloads of the Year for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveil-the-subject-background-removal-techniques-in-photopea-for-2024/"><u>Unveil the Subject Background Removal Techniques in Photopea for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-2-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze 2 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[New] Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-5-display-choices-for-ps5/"><u>[New] Ultimate 5 Display Choices For PS5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-key-to-engaging-audiences-instagram-video-descriptions/"><u>[Updated] The Key to Engaging Audiences Instagram Video Descriptions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-cinema-mastering-the-best-5-camera-tips/"><u>2024 Approved The Art of Cinema Mastering the Best 5 Camera Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-a59-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo A59 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dealing-with-copyright-infringement-notices-on-youtube/"><u>In 2024, Dealing with Copyright Infringement Notices on YouTube</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-zoom-from-novice-to-expert-configurator/"><u>In 2024, Navigating Zoom From Novice to Expert Configurator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-energy-kits-for-hero5-official-and-alternative-products/"><u>In 2024, Ultimate Energy Kits for Hero5 - Official & Alternative Products</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-types-and-methods-for-hand-detection-systems/"><u>In 2024, Unveiling Types and Methods for Hand Detection Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/introducing-the-robomaster-s1-by-dji-an-exhilarating-combination-of-aerial-drone-technology-coding-challenges-and-strategic-battles/"><u>Introducing the RoboMaster S1 by DJI: An Exhilarating Combination of Aerial Drone Technology, Coding Challenges, and Strategic Battles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/screenplay-central-user-feedback-summary-for-2024/"><u>Screenplay Central - User Feedback Summary for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-sound-swap-technology-the-top-free-option-for-valorant-gamers-for-2024/"><u>Superior Sound Swap Technology The Top Free Option for Valorant Gamers for 2024</u></a></li>
 </ul></div>
 

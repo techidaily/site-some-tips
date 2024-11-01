@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Alexa for Alerts on the Biggest Amazon Discounts: A Step-by-Step Guide"
-date: 2024-09-18 12:34:40
-updated: 2024-09-20 11:53:14
+date: 2024-10-27T19:43:53.040Z
+updated: 2024-10-31T23:29:33.068Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-refine-igtv-titles-and-descs/"><u>[Updated] 2024 Approved Step-by-Step Guide to Refine IGTV Titles & Descs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-collaborative-innovation-in-brand-and-media-synergy/"><u>[Updated] Collaborative Innovation in Brand and Media Synergy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[Updated] In 2024, Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-core-ideas-behind-mixed-reality/"><u>[Updated] In 2024, The Core Ideas Behind Mixed Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-techniques-for-taking-screen-shots-on-dell-pcs-and-laptops/"><u>Easy Techniques for Taking Screen Shots on Dell PCs and Laptops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-moto-g-stylus-5g-2023-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola Moto G Stylus 5G (2023) FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-secrets-of-your-lost-iphone-x/"><u>In 2024, Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/inexpensive-high-quality-cameras-for-2024/"><u>Inexpensive High-Quality Cameras for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-bert-a-guide-to-googles-advanced-nlp-technology-vs-gpt/"><u>Understanding BERT: A Guide to Google's Advanced NLP Technology Vs. GPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-professional-quality-images-with-pss-3d-lut-techniques-for-2024/"><u>Unlocking Professional Quality Images with PS's 3D LUT Techniques for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-adobe-premiere-pro-cs6-mac-version-absolutely-free/"><u>Updated Get Adobe Premiere Pro CS6 Mac Version - Absolutely Free</u></a></li>
+</ul></div>
+

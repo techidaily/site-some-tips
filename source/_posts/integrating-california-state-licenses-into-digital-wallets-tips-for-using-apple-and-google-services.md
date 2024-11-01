@@ -1,7 +1,7 @@
 ---
 title: Integrating California State Licenses Into Digital Wallets - Tips for Using Apple & Google Services
-date: 2024-10-25T16:35:48.106Z
-updated: 2024-10-26T18:45:10.332Z
+date: 2024-10-29T08:35:01.460Z
+updated: 2024-11-01T11:24:27.160Z
 tags:
   - apple
 categories:
@@ -36,6 +36,13 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,13 +62,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -77,13 +77,6 @@ With context on what is on your iPhone, iPad, or Mac and screen awareness, Siri 
 The voice assistant will also be able to perform hundreds of new actions across Apple and third-party apps, like opening articles from a Reading List or looking up a specific photo in your library. 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
 
@@ -121,13 +114,6 @@ In the Notes app, for example, a new tool called Image Wand will let you circle 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
 Apple
@@ -139,6 +125,13 @@ When users make a Siri request that the voice assistant determines would be bett
 **Also: [Apple finally gave us the iPad app we've waited 14 years for at WWDC 2024](https://www.zdnet.com/article/apple-finally-gave-us-the-ipad-app-weve-waited-14-years-for-at-wwdc-2024/)**
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
@@ -157,10 +150,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -177,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -218,22 +218,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-achieve-impact-innovative-imovie-techniques-for-youtube-startups-for-2024/"><u>[New] Achieve Impact Innovative iMovie Techniques for YouTube Startups for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] The Quickest Way to Entertain - Kapwing Memes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>[New] Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-frame-it-right-mastering-instagram-video-edges/"><u>[Updated] Frame It Right Mastering Instagram Video Edges</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premier-moba-experiences-on-your-android-device-for-2024/"><u>[Updated] Premier MOBA Experiences on Your Android Device for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-affordable-360-degree-cameras/"><u>[Updated] Top 10 Affordable 360 Degree Cameras</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[Updated] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-c67-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme C67 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-places-to-find-background-music-for-videos/"><u>2024 Approved Top Places to Find Background Music for Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/breaking-boundaries-with-metaverse-humor-a-guide-for-you-for-2024/"><u>Breaking Boundaries with Metaverse Humor A Guide for You for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/digital-splendor-on-youtube-the-hue-harmonization-way-for-2024/"><u>Digital Splendor on YouTube The Hue Harmonization Way for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/empowering-sap-bots-with-next-gen-content-cognition-technology-from-abbyy/"><u>Empowering SAP Bots with Next-Gen Content Cognition Technology From ABBYY</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-poco-m6-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Poco M6 5G Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-excitement-of-high-speed-photography-with-iphone/"><u>In 2024, Explore the Excitement of High-Speed Photography with iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>In 2024, Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-comprerancial-onestream-approach-to-online-streaming/"><u>In 2024, The Comprerancial OneStream Approach to Online Streaming</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-elite-video-cameras-for-2-point-zero-four-two/"><u>In 2024, Unveiling the Elite Video Cameras for 2 Point Zero Four Two</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-feathered-salsa-dancer/"><u>[New] Feathered Salsa Dancer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamsavvy-exploring-alternatives-to-dacast/"><u>[New] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-unseen-ui-techniques-for-newcomers/"><u>[New] Ultimate Unseen UI Techniques for Newcomers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-luts-role-in-image-color-alteration/"><u>[New] Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-fires-sound-alteration-tactics/"><u>[Updated] Free Fire's Sound Alteration Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-photo-edits-clearing-out-backgrounds/"><u>[Updated] The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-the-science-and-art-of-attention-grabbing-titles/"><u>2024 Approved Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>2024 Approved The Power of Networking Building Strong Relationships with Stakeholders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-the-skies-in-depth-mavic-pro-discussion/"><u>In 2024, Capturing the Skies - In-Depth Mavic Pro Discussion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-tips-for-mobile-content-capture/"><u>In 2024, Ultimate Tips for Mobile Content Capture</u></a></li>
+<li><a href="https://fox-search.techidaily.com/rapidly-transfer-your-gmail-contacts-to-icloud-using-these-simple-techniques/"><u>Rapidly Transfer Your Gmail Contacts to iCloud Using These Simple Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-teaching-mastering-lecture-capture-on-mac-systems-for-2024/"><u>Streamlined Teaching Mastering Lecture Capture on Mac Systems for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/synchronizing-melodies-with-inshot-clips-for-2024/"><u>Synchronizing Melodies with InShot Clips for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210659493-9781951879136-the-spiritual-design-wave-3/"><u>The SPIRITUAL DESIGN WAVE 3 | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-smoothing-iphone-pics-4-methods-for-2024/"><u>The Ultimate Guide to Smoothing iPhone Pics (4 Methods) for 2024</u></a></li>
 </ul></div>
 

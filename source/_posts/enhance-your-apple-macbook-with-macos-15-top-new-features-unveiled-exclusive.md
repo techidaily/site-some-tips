@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Apple MacBook with macOS 15: Top New Features Unveiled Exclusive"
-date: 2024-10-19T19:04:29.359Z
-updated: 2024-10-26T19:18:48.168Z
+date: 2024-10-28T07:47:40.082Z
+updated: 2024-11-01T00:39:54.627Z
 tags:
   - apple
 categories:
@@ -53,10 +53,10 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,10 +72,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -91,10 +91,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -109,13 +109,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -125,6 +118,13 @@ Safari will see a host of improvements powered by AI functionality, including an
 **Also: [ChatGPT privacy tips: Two important ways to limit the data you share with OpenAI](https://www.zdnet.com/article/chatgpt-privacy-tips-two-important-ways-to-limit-the-data-you-share-with-openai/)** 
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
 
@@ -170,19 +170,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-guide-to-top-frame-rates-in-slow-motion-video-production/"><u>[New] 2024 Approved Guide to Top Frame Rates in Slow-Motion Video Production</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-clones-playbook-secrets-to-mirror-success-on-the-tiktok-sphere/"><u>[New] 2024 Approved The Clone's Playbook Secrets to Mirror Success on the TikTok Sphere</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-a-step-by-step-guide-to-your-first-twitter-profile-for-2024/"><u>[New] A Step-by-Step Guide to Your First Twitter Profile for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974000793-download-the-latest-amd-general-purpose-inputoutput-gpio-drivers-instantly/"><u>Download the Latest AMD General-Purpose Input/Output (GPIO) Drivers Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratis-omzetten-voor-online-zeeuwsheid-beveiligde-tod-bestandbeherberging-met-movavi/"><u>Gratis Omzetten Voor Online Zeeuwsheid: Beveiligde TOD-Bestandbeherberging Met Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-lava-blaze-2-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Lava Blaze 2 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-comprehensive-ios-live-photo-handbook/"><u>In 2024, Comprehensive iOS Live Photo Handbook</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-experience-a-bundle-of-9-whole-film-christmas-treasures-for-free/"><u>In 2024, Experience a Bundle of 9 Whole-Film Christmas Treasures for Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/learn-to-trim-and-edit-footage-with-vlc-media-player-expert-advice/"><u>Learn to Trim and Edit Footage with VLC Media Player - Expert Advice</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-tiff-jpg-web/"><u>Movavi 제공 : TIFF 형식을 JPG로 자원 비용 없이 바꾸기 - Web 인터페이스 기법</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-chatbot-showdown-gpt-microsoft-bing-ai-google-bard/"><u>The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforma-tu-video-nsv-en-mpeg-sin-costo-con-la-herramienta-online-de-movavi/"><u>Transforma Tu Video NSV en MPEG Sin Costo Con La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726220731483-10/"><u>ベストマック動画変換ツール トップ10 - 無料で最適化された選び方</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>[New] In 2024, Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>[New] The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-understanding-fbs-rules-for-immediate-video-removal/"><u>[Updated] 2024 Approved Understanding FB’s Rules for Immediate Video Removal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tools-that-enhance-your-travel-videos/"><u>[Updated] Tools That Enhance Your Travel Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>[Updated] Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-best-practices-for-hash-tags-in-fb-marketing-campaigns/"><u>2024 Approved Best Practices for Hash Tags in FB Marketing Campaigns</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-cerebral-showcase-gk-video-challenge-network/"><u>2024 Approved Cerebral Showcase - GK Video Challenge Network</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-playtime-to-production-sims-4-video-capturing/"><u>2024 Approved From Playtime to Production Sims 4 Video Capturing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagrams-top-spot-in-minutes/"><u>2024 Approved Unlocking Instagram's Top Spot in Minutes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-hidden-truths-behind-vrs-advantages-and-limitations/"><u>2024 Approved Unveiling the Hidden Truths Behind VR's Advantages and Limitations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-tecno-pop-8-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Tecno Pop 8 Phone Hassle-Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streamline-learning-with-our-pick-of-6-premier-homework-assistance-apps-for-families/"><u>Streamline Learning with Our Pick of 6 Premier Homework Assistance Apps for Families</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-tiktok-experience-with-new-user-numbers-for-2024/"><u>Transform Your TikTok Experience with New User Numbers for 2024</u></a></li>
 </ul></div>
 

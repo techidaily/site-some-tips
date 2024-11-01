@@ -1,7 +1,7 @@
 ---
 title: "Top Phones Recommended by ZDNet Experts: Our Personal Favorites and Real-World Usage"
-date: 2024-10-19T18:56:07.947Z
-updated: 2024-10-26T19:17:08.933Z
+date: 2024-10-30T08:18:49.585Z
+updated: 2024-10-31T20:05:58.529Z
 tags:
   - apple
 categories:
@@ -95,13 +95,20 @@ Cons
 * Long battery life Strong performance The camera is very impressive
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone 12 Pro Max
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -112,13 +119,6 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -176,6 +176,19 @@ Show Expert Take Show less
 
 ## Ulefone Armor 9
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adrian Kingsley-Hughes
 
 **Adrian Kingsley-Hughes:** OK, I use my iPhone 11 Pro Max a lot, but the Ulefone Armor 9 is a tough, ruggedized Android smartphone with a built-in thermal camera. Not only can I recreate scenes from Predator in my garden, but that FLIR camera is great for diagnosing problems, from overheating components, high-resistance in vehicle wiring, and problems with plumbing systems. I've also dropped the phone so many times that I've lost count, and it still looks like new. It's a tank!
@@ -190,14 +203,14 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Google Pixel 2
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -212,6 +225,13 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -232,10 +252,10 @@ Cons
 ## iPhone XR
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
@@ -260,21 +280,7 @@ Show Expert Take Show less
 
 ###   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###   
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## iPhone X
 
@@ -296,6 +302,13 @@ Cons
 
 ## iPhone XS Max
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -314,13 +327,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 ## iPhone 6s Plus
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### David Gewirtz and Iliana Meir
 
 **David Gewirtz:** I am still using my iPhone 6s Plus from 2015\. For those keeping track, that's almost six years old. But it's the best phone I've ever used (with the Palm Treo running a close second). I haven't wanted to give it up because I use the headphone adapter while filming and to be sure I have a set of earbuds that never run out of battery power. Sure, the new iPhones seem nice, but I don't have a single complaint about this one, so why spend thousands of dollars when this thing hasn't failed me once?
@@ -333,6 +339,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Lumia 1520
 
 ### Mary Branscombe
@@ -344,13 +357,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 Show less 
 
 ## Samsung Galaxy Note 8
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Charles McLellan
 
@@ -392,17 +398,21 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-transforming-virtual-worlds-enhancing-spark-ar-with-custom-luts/"><u>[New] In 2024, Transforming Virtual Worlds Enhancing Spark AR with Custom LUTs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-epic-playlist-over-a-hundred-top-tier-titles/"><u>[Updated] 2024 Approved Epic Playlist Over a Hundred Top-Tier Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-hdr-enhancement-your-lightroom-journey/"><u>[Updated] The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-richer-textual-design-in-ae/"><u>2024 Approved The Path to Richer Textual Design in AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>2024 Approved Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capturing-creativity-the-ultimate-guide-to-roblox-videos-on-a-mac/"><u>Capturing Creativity The Ultimate Guide to Roblox Videos on a Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-diagnosing-and-correcting-the-criticalprocessdied-issue-in-windows/"><u>Expert Tips for Diagnosing and Correcting the 'CRITICAL_PROCESS_DIED' Issue in Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-pc-with-these-win-10-tricks/"><u>In 2024, Supercharge Your PC with These Win 10 Tricks</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/leading-lists-premium-bdr-software-on-windows-macos-for-2024/"><u>Leading Lists Premium BDR Software on Windows, macOS for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/stop-using-your-computers-dvd-drive-prevent-unnecessary-scratches-on-your-discs/"><u>Stop Using Your Computer's DVD Drive - Prevent Unnecessary Scratches on Your Discs!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-lenovo-tab-m10-fhdplus-2020-review-unveiling-the-budget-friendly-giant-of-tablets/"><u>The Lenovo Tab M10 FHD+ (2020) Review - Unveiling the Budget-Friendly Giant of Tablets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-tier-cameras-for-2024/"><u>The Ultimate List of Top-Tier Cameras for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[New] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-glare-free-guide-to-stellar-gopro-videos/"><u>[Updated] The Glare-Free Guide to Stellar GoPro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-rise-of-popular-images-a-deep-dive-into-meme-culture/"><u>[Updated] The Rise of Popular Images A Deep Dive Into Meme Culture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harnessing-google-photos-for-organized-memories/"><u>2024 Approved Harnessing Google Photos for Organized Memories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speaking-the-unspoken-writing-subtext-driven-dialogues/"><u>2024 Approved Speaking the Unspoken Writing Subtext-Driven Dialogues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-a-rising-number-of-youtubers-fans/"><u>2024 Approved Strategies for a Rising Number of Youtubers' Fans</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-of-editing-with-vita-a-complete-review/"><u>2024 Approved The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/guide-on-upgrading-from-stereo-to-51-surround-sound-setup/"><u>Guide on Upgrading From Stereo to 5.1 Surround Sound Setup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s21-fe-5g-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S21 FE 5G (2023) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-state-of-the-vr-industry/"><u>In 2024, State of the VR Industry</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixelprankspro-humorhexagonhub/"><u>PixelPranksPro HumorHexagonHub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-for-improving-your-interview-prowess-for-2024/"><u>Strategies for Improving Your Interview Prowess for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy-for-2024/"><u>The Essentials of Setting Up & Assessing FB Instream Ad Efficacy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-images-proven-pixlr-strategies-for-2024/"><u>Transform Your Images Proven Pixlr Strategies for 2024</u></a></li>
 </ul></div>
 

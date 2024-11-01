@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive List of Must-Know iPad Tricks & Configurations for Apple Beginners to Veterans | Expert Advice by ZDNET
-date: 2024-10-23T16:51:06.761Z
-updated: 2024-10-26T18:22:43.181Z
+date: 2024-10-25T12:13:34.268Z
+updated: 2024-11-01T12:47:41.768Z
 tags:
   - apple
 categories:
@@ -36,19 +36,6 @@ In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and 
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Configure your focus settings
 
 I kid you not: The Focus settings that Apple rolled out a few years ago might be some of my most-used settings of all time. For those unfamiliar, Focus modes are basically fancy Do Not Disturb profiles that can be enabled manually, automatically at a certain time of day, or even when you travel somewhere. They allow you to control which notifications you see, who can contact you, and more. It's helpful when you want certain notifications while at work and others while you're relaxing at home. 
@@ -80,10 +67,16 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -93,13 +86,6 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -111,18 +97,18 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -137,6 +123,13 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 **How to split**: Go to Settings > General > Keyboard and tap on "Split Keyboard." Then, when you open an app where the keyboard presents itself, touch and hold on the keyboard button in the bottom right corner and slide your finger to the split option. Your keyboard will then divide in half on either side of the screen. You can follow the same steps in reverse to turn it off.
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Make sure your screen is refreshing as fast as possible
 
@@ -153,6 +146,13 @@ Max Buondonno/ZDNET
 I've always felt like the Control Center is slightly underrated for all the stuff it can do. Not only does it give you quick access to your Wi-Fi and Bluetooth settings, but you can customize it to your heart's delight with all sorts of life-simplifying shortcuts, from easy access to Shazam to starting a screen recording with the touch of a button. It can become a life-changing feature if you use it the right way.
 
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
 
@@ -194,24 +194,16 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-sims-4-recording-techniques/"><u>[New] 2024 Approved Mastering Sims 4 Recording Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-elevating-visual-storytelling-expert-techniques-for-instagram-video-edits/"><u>[New] Elevating Visual Storytelling Expert Techniques for Instagram Video Edits</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-insights-on-maintaining-engagement-after-algorithm-shifts/"><u>[New] In 2024, Insights on Maintaining Engagement After Algorithm Shifts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-evaluation-of-hdr-quality-with-luminance/"><u>[New] The Evaluation of HDR Quality with Luminance</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>[New] Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-capture-your-discord-sessions-a-guide/"><u>[Updated] Capture Your Discord Sessions A Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capture-your-overwatch-saga-effortlessly/"><u>[Updated] In 2024, Capture Your Overwatch Saga Effortlessly</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-leading-the-way-in-personal-trail-tracking-drone-innovation-for-2024/"><u>[Updated] Leading the Way in Personal Trail-Tracking Drone Innovation for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-price-point-in-online-advertising/"><u>[Updated] The Price Point in Online Advertising</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-5-ios-podcast-apps-your-ultimate-listing/"><u>[Updated] Top 5 iOS Podcast Apps Your Ultimate Listing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-streamlined-sea-filmmaking-techniques/"><u>2024 Approved The Ultimate Guide to Streamlined Sea Filmmaking Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-note-30-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Note 30 Pro Phone?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-f54-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy F54 5G Through Google Earth?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-the-newest-geforce-rtx-3070-ti-drivers-optimized-for-win-11-8-and-7-operating-systems/"><u>Install the Newest GeForce RTX 3070 Ti Drivers - Optimized for Win 11, 8 & 7 Operating Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tips-for-turning-off-automatic-podcast-adds-on-spotify-for-2024/"><u>Tips for Turning Off Automatic Podcast Adds on Spotify for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/total-circles-capture-systems-for-2024/"><u>Total Circles Capture Systems for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/twilight-assessment-diverse-ideas-for-2024/"><u>Twilight Assessment Diverse Ideas for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-to-utilize-it-without-signing-up/"><u>Unlocking ChatGPT: Top 5 Strategies to Utilize It without Signing Up</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-spotifys-advertising-opportunities-a-roadmap-for-2024/"><u>Unlocking Spotify’s Advertising Opportunities A Roadmap for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-glimpse-into-the-digital-frontier-todays-vr/"><u>[Updated] In 2024, A Glimpse Into the Digital Frontier Today's VR</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290394280-dvd/"><u>無料のDVDコピーツールを使ってもうまくいかない時の対処法：エラー解決ガイド</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-embarks-on-a-revolutionary-journey-in-organizing-documents-by-type/"><u>ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-emerges-at-the-forefront-of-process-optimization-per-new-isg-provider-lens-insights/"><u>ABBYY Emerges at the Forefront of Process Optimization, per New ISG Provider Lens™ Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-unveils-new-collaborations-and-broadens-product-lineup-for-q4-2019-insights-from-abbyys-newsroom/"><u>ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-scott-opitz-as-new-head-of-technology-and-product-innovation/"><u>ABBYY Welcomes Scott Opitz as New Head of Technology and Product Innovation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-12-pro-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 12 Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-strategies-for-elevating-your-imac-performance-with-intel-upgrades/"><u>Essential Strategies for Elevating Your iMac Performance with Intel Upgrades</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/preserve-your-files-three-techniques-to-protect-and-transfer-data-within-windows-11-locally/"><u>Preserve Your Files: Three Techniques to Protect and Transfer Data Within Windows 11 Locally</u></a></li>
 </ul></div>
 

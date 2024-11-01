@@ -1,7 +1,7 @@
 ---
 title: Microsoft, Google Lead the Way in AI Innovation - Others Struggle to Keep Up | ZDNet
-date: 2024-09-17 19:45:42
-updated: 2024-09-20 12:16:12
+date: 2024-10-26T09:01:11.129Z
+updated: 2024-10-31T20:51:41.070Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,19 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-navigating-through-peak-fluid-gaming-titles/"><u>[New] 2024 Approved Navigating Through Peak Fluid Gaming Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-discover-the-evolution-of-video-technology-with-mycams-review/"><u>[Updated] Discover the Evolution of Video Technology with MyCam's Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-multiplatform-iptv-encoding-for-2024/"><u>[Updated] Multiplatform IPTV Encoding for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sunlit-shades-to-subdued-spectrum-in-photoshop/"><u>[Updated] Sunlit Shades to Subdued Spectrum in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-selective-image-softening-pcmobile/"><u>[Updated] Techniques for Selective Image Softening PC/Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-how-to-efficiently-record-internet-radio/"><u>[Updated] Unveiling the Secrets How To Efficiently Record Internet Radio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-photography-enhanced-by-top-luts-in-lightroom/"><u>2024 Approved Professional Photography Enhanced by Top LUTs in LightRoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tapping-into-the-funny-side-with-photos/"><u>2024 Approved Tapping Into the Funny Side with Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultra-stable-gimbals-for-mobile-and-professional-photography/"><u>2024 Approved Ultra-Stable Gimbals for Mobile & Professional Photography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-features-free-vs-premium-swf-converter-factory-and-pro/"><u>Comparing Features: Free vs Premium - SWF Converter Factory & Pro</u></a></li>
+<li><a href="https://win-net.techidaily.com/former-microsoft-leader-steve-ballmer-concedes-lack-of-bravery-in-bold-revelation-tech-news-by-zdnet/"><u>Former Microsoft Leader Steve Ballmer Concedes Lack of Bravery in Bold Revelation | Tech News by ZDNet</u></a></li>
+<li><a href="https://solve-news.techidaily.com/free-guide-downloading-english-subbed-anime-without-costs-or-risks/"><u>Free Guide: Downloading English-Subbed Anime without Costs or Risks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-six-secrets-to-holding-your-viewers-attention/"><u>In 2024, The Six Secrets to Holding Your Viewers' Attention</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-transform-your-photos-into-dynamic-time-lapses-the-gopro-way/"><u>In 2024, Transform Your Photos Into Dynamic Time-Lapses The GoPro Way</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-brand-with-smart-spotify-marketing/"><u>In 2024, Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290649360-windows-and-mac-ai-10/"><u>Windows & Mac 호환: 가장 좋은 무료 AI 비디오 인핸서 10단위!</u></a></li>
+</ul></div>
+

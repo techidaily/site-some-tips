@@ -1,7 +1,7 @@
 ---
 title: "Putting Apple’s Premium Phone Guard to the Test: Exceptional Durability and a One-of-a-Kind Safety Element Unveiled"
-date: 2024-10-24T16:16:41.747Z
-updated: 2024-10-26T19:03:22.166Z
+date: 2024-10-24T21:58:54.375Z
+updated: 2024-10-31T21:05:09.600Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -50,13 +50,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -75,16 +68,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -104,10 +91,10 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -127,6 +114,13 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -182,18 +176,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-commercial-side-of-casual-videography/"><u>[New] In 2024, The Commercial Side of Casual Videography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>[New] The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[Updated] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[Updated] Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-snapchats-prominent-personalities-highlight/"><u>2024 Approved Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/effortless-methods-to-retrieve-deleted-or-hidden-documents-from-your-desktop/"><u>Effortless Methods to Retrieve Deleted or Hidden Documents From Your Desktop</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-tips-on-choosing-the-best-youtube-to-avi-software-for-2024/"><u>Expert Tips on Choosing the Best YouTube-to-AVI Software for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a59-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A59 5G Fingerprint Lock</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>In 2024, The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-videodxgkrnlfatalerror-a-comprehensive-fix-for-windows-operating-systems/"><u>Overcoming Video_Dxgkrnl_Fatal_Error: A Comprehensive Fix for Windows Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-ps5-upgrades-game-changing-additions/"><u>Ultimate PS5 Upgrades: Game-Changing Additions</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-poco-f5-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco F5 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-are-paid-reviews-common-amongst-online-reviewers/"><u>[New] In 2024, Are Paid Reviews Common Amongst Online Reviewers?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-lives-10-cinematic-inspirations/"><u>[New] Transform Lives 10 Cinematic Inspirations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-creativity-with-top-title-methods/"><u>[New] Unlock Your Creativity with Top Title Methods</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-essential-youtube-for-asmr-enthusiasts/"><u>[Updated] Essential YouTube for ASMR Enthusiasts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-step-by-step-approach-to-snapchat-video-communication/"><u>[Updated] In 2024, A Step-By-Step Approach to Snapchat Video Communication</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-make-killer-youtube-channel-art/"><u>[Updated] In 2024, How to Make Killer YouTube Channel Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-accessory-hits-for-sj-series-drivers/"><u>[Updated] Top 10 Accessory Hits for SJ-Series Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-upload-apples-end-to-end-process-guide/"><u>2024 Approved Streamlining Upload Apple’s End-to-End Process Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 13 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incredibly-swift-blackouts-for-2024/"><u>Incredibly Swift Blackouts for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/jabra-finalizes-production-of-premium-elite-and-talk-enabled-wireless-headphones/"><u>Jabra Finalizes Production of Premium Elite and Talk-Enabled Wireless Headphones</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-final-cut-pro-x-compression-made-easy-a-beginners-handbook-for-2024/"><u>New Final Cut Pro X Compression Made Easy A Beginners Handbook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-find-the-perfect-power-source-for-drones-for-2024/"><u>Strategies to Find the Perfect Power Source for Drones for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-persistent-elex-ii-pc-crashes-expert-tips/"><u>Troubleshooting Guide for Persistent Elex II PC Crashes – Expert Tips</u></a></li>
 </ul></div>
 

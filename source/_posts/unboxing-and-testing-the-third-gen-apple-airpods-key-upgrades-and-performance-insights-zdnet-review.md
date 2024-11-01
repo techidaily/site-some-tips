@@ -1,7 +1,7 @@
 ---
 title: "Unboxing & Testing the Third-Gen Apple AirPods: Key Upgrades and Performance Insights | ZDNET Review"
-date: 2024-10-24T17:41:43.981Z
-updated: 2024-10-26T17:08:39.972Z
+date: 2024-10-31T13:23:18.196Z
+updated: 2024-10-31T18:46:00.355Z
 tags:
   - apple
 categories:
@@ -55,10 +55,16 @@ The stems each have a force sensor embedded. Squeezing either one will do things
 The charging case also looks more like the AirPods Pro case -- only smaller. There's a single indicator light on the front of the case to let you know when it's charging or in pairing mode. On the back of the case is a button that you'll use to reset the AirPods or pair them to a non-Apple device. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -76,10 +82,10 @@ For me, the AirPods fit and stayed in without any issues. I'm not a runner, but 
 My advice is to give these a try, even if the original AirPods gave you issues. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## More than improved sound quality and battery life
@@ -109,10 +115,10 @@ The new AirPods use the same H1 chip that Apple has used in previous AirPods, wh
 One missing feature that might be a deal-breaker for some is the lack of active-noise cancellation (ANC). That means the 3rd generation AirPods also lack a transparency mode to let in some environmental sounds. For those who don't consistently need or use ANC, it's likely to be a non-issue. But during the last few weeks, I've found myself wishing they had ANC. Whether it's blocking the background noise of my kids arguing over who gets the last piece of candy, or the _clickety-clack_ of my mechanical keyboard that randomly gets on my nerves, ANC has become a feature I don't want to go without. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -142,21 +148,24 @@ If you've been holding out on upgrading your AirPods for something better, the 3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-top-selections-for-speedy-facebook-video-transfers-and-streams/"><u>[New] Top Selections for Speedy Facebook Video Transfers and Streams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-the-safest-video-chat-apps-on-both-sides-of-the-market-for-2024/"><u>[Updated] Explore the Safest Video Chat Apps on Both Sides of the Market for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transformative-guide-gifs-becoming-stickers-on-discord-whatsapp-and-telegram/"><u>[Updated] Transformative Guide GIFs Becoming Stickers on Discord, WhatsApp & Telegram</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-utilizing-alternate-shots-to-elevate-film-quality/"><u>[Updated] Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-variants-of-moviemaker-pro-on-windows/"><u>[Updated] Variants of MovieMaker Pro on WIndows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonious-hits-free-download-zones-for-skype-tunes/"><u>2024 Approved Harmonious Hits Free Download Zones for Skype Tunes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-understanding-instagrams-video-restriction/"><u>2024 Approved Understanding Instagram's Video Restriction</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortless-guide-on-transferring-your-favorite-tunes-from-youtube-directly-onto-your-flash-drive/"><u>Effortless Guide on Transferring Your Favorite Tunes From YouTube Directly Onto Your Flash Drive</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-red-magic-9-pro-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-peek-into-insta-stories-unseen-by-others/"><u>In 2024, Peek Into Insta Stories Unseen by Others</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tips-for-obtaining-pristine-images-at-no-cost/"><u>In 2024, Top Tips for Obtaining Pristine Images at No Cost</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-glitches-the-top-10-tools/"><u>Mastering Windows Glitches: The Top 10 Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722963914831-realtek-rtl8188cu-wi-fi-drivers-compatible-with-windows-10-and-nativet-to-windows-7-download-now/"><u>Realtek RTL8188CU Wi-Fi Drivers: Compatible with Windows 10 & Nativet to Windows 7 - Download Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-in-game-audio-identity-for-a-unique-competitive-advantage-no-charge-for-2024/"><u>Transforming In-Game Audio Identity for a Unique Competitive Advantage (No Charge!) For 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/turning-tiktok-hits-into-mobile-ringtones-with-ease-for-2024/"><u>Turning TikTok Hits Into Mobile Ringtones with Ease for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-a05s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel A05s FRP Bypass</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-premium-selection-top-8-tripods-for-clear-4k-videos/"><u>[New] In 2024, Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-standout-cinematography-experts/"><u>[New] Unveiling Standout Cinematography Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-high-res-sky-scenes-with-mi-drone/"><u>[New] Unveiling the High-Res Sky Scenes with Mi Drone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-analyzing-magix-photo-management-system/"><u>[Updated] Analyzing MAGIX Photo Management System</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-fortune-awaits-in-marketing-unveil-the-full-set-of-our-50-free-youtube-ads/"><u>[Updated] In 2024, Fortune Awaits in Marketing! Unveil the Full Set of Our 50 Free YouTube Ads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-on-the-go-video-making-essentials-for-2024/"><u>[Updated] On-The-Go Video Making Essentials for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-revolutionizing-receiving-packages-boosting-joyful-openings/"><u>[Updated] Revolutionizing Receiving Packages Boosting Joyful Openings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailored-tips-for-maximizing-vlc-playback-potential/"><u>[Updated] Tailored Tips for Maximizing VLC Playback Potential</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-definitive-guide-to-post-production-perfection-on-instagram/"><u>[Updated] The Definitive Guide to Post-Production Perfection on Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-and-economical-selecting-the-top-free-webm-playback-options/"><u>In 2024, Optimal and Economical Selecting the Top Free WebM Playback Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-new-wave-of-coding-excellence-av1-vs-vp9-face-off/"><u>In 2024, The New Wave of Coding Excellence AV1 vs VP9 Face-Off</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-androids-most-innovative-music-videography-tools/"><u>In 2024, The Ultimate Selection of Android's Most Innovative Music Videography Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/macs-screenflow-insights-complete-coverage/"><u>Mac's ScreenFlow Insights - Complete Coverage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-double-edged-sword-of-virtual-reality-for-2024/"><u>The Double-Edged Sword of Virtual Reality for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-sierra-icloud-document-and-desktop-guide-for-2024/"><u>The Ultimate Sierra iCloud Document & Desktop Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-and-managing-video-layouts-in-zoom-for-windows-11-users-for-2024/"><u>Understanding and Managing Video Layouts in Zoom for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-tech-install-windows-10-v2004-and-conexant-drivers-for-optimal-pc-performance/"><u>Up-to-Date Tech: Install Windows 10 v2004 and Conexant Drivers for Optimal PC Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor 90 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

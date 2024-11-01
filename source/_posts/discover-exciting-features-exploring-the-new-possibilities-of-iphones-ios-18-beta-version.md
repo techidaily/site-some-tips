@@ -1,7 +1,7 @@
 ---
 title: "Discover Exciting Features: Exploring the New Possibilities of iPhone’s iOS 18 Beta Version"
-date: 2024-10-22T16:56:48.064Z
-updated: 2024-10-26T17:32:14.738Z
+date: 2024-10-31T13:57:30.311Z
+updated: 2024-11-01T13:33:38.689Z
 tags:
   - apple
 categories:
@@ -43,10 +43,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Try a different Home screen theme
@@ -56,10 +56,10 @@ Next, you can apply different themes to the Home screen. Press down on any empty
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Format your messages with special text effects
@@ -71,10 +71,10 @@ You can now apply bold, italics, underline, or strikethrough for the selected te
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Schedule a text
@@ -86,10 +86,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [The best iPhone models you can buy right now (and if you should wait for iPhone 16)](https://www.zdnet.com/article/best-iphone/)**
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lock down an app
@@ -128,22 +128,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-your-youtube-video-preservation/"><u>[Updated] Optimizing Your YouTube Video Preservation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-revolutionize-your-ig-feed-with-these-elite-grid-creation-apps-for-2024/"><u>[Updated] Revolutionize Your IG Feed with These Elite Grid Creation Apps for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726227204664-movavijpgpng/"><u>「Movaviで簡単！無料のJPGとPNG画像交換ツール」</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>2024 Approved Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-maiden-recording-appraisal-article/"><u>2024 Approved Maiden Recording Appraisal Article</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/2024441khz48khz/"><u>2024年のオーディオファイル高解像度化：44.1kHzから48kHzへの変換テクニック</u></a></li>
-<li><a href="https://some-tips.techidaily.com/como-convertir-facilmente-tus-videos-mp4-por-el-internet-sin-costo-paso-a-paso-con-movavi/"><u>Cómo Convertir Fácilmente Tus Vídeos MP4 Por El Internet Sin Costo, Paso a Paso Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/descargar-el-mejor-convertidor-wmv-a-wma-gratuito-en-linea-con-movavi/"><u>Descargar El Mejor Convertidor WMV a WMA Gratuito en Línea Con Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-8-torrent-sites-for-fan-favorite-tv-shows-exploring-with-movavi/"><u>Discover the Ultimate 8 Torrent Sites for Fan-Favorite TV Shows – Exploring with Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/firefox-picture-in-picture-explained-for-efficiency/"><u>Firefox Picture-in-Picture Explained for Efficiency</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-avi-to-wav-transformation-online-effortless-audio-converting-by-movavi/"><u>Free AVI to WAV Transformation Online - Effortless Audio Converting by Movavi!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/free-online-mp3-to-mpg-conversion-easy-and-fast-by-movavi/"><u>Free Online MP3-to-MPG Conversion - Easy and Fast by Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-12r-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 12R with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-new-wave-of-youtube-channel-titles-perfect-for-vloggers-limited-to-156-characters/"><u>In 2024, The New Wave of YouTube Channel Titles Perfect for Vloggers (Limited to 156 Characters)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mejora-la-compresion-de-videos-en-linea-y-sin-coste-trucos-para-mantener-la-alta-calidad-visual/"><u>Mejora La Compresión De Videos en Línea Y Sin Coste: Trucos Para Mantener La Alta Calidad Visual</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformar-arquivos-ogv-em-webm-livremente-online-com-o-movavi/"><u>Transformar Arquivos OGV Em WEBM Livremente Online Com O Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unveiling-german-sounds-an-alphabetic-tour-for-newcomers/"><u>Unveiling German Sounds: An Alphabetic Tour for Newcomers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-live-tune-streams-on-younow/"><u>[Updated] 2024 Approved Live Tune Streams on YouNow</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[Updated] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/directly-delivering-tiktok-videos-to-twitters-feed/"><u>Directly Delivering TikTok Videos to Twitter's Feed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-zte-blade-a73-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do ZTE Blade A73 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Phone without Google Account?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>In 2024, Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-authoritative-periscope-users-bible/"><u>In 2024, The Authoritative Periscope User's Bible</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-xcover-7-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy XCover 7? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-your-captions-the-top-10-precision-subtitle-editors-for-2024/"><u>Master Your Captions The Top 10 Precision Subtitle Editors for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/perfected-framing-for-fb-videos-implement-letterbox-and-dark-frame-for-2024/"><u>Perfected Framing for FB Videos Implement Letterbox & Dark Frame for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-convenience-the-miniaturized-apple-vision-pro-case-compared-to-traditional-versions/"><u>Revolutionizing Convenience – The Miniaturized Apple Vision Pro Case Compared to Traditional Versions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012367958-start-with-light-colors-and-gradually-build-up-to-darker-shades-as-needed/"><u>Start with Light Colors and Gradually Build up to Darker Shades as Needed.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-blueprint-for-obtaining-premium-visuals-for-free-for-2024/"><u>The Essential Blueprint for Obtaining Premium Visuals for Free for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-20-ae-templates-for-aspiring-designers-for-2024/"><u>Top 20 AE Templates for Aspiring Designers for 2024</u></a></li>
 </ul></div>
 

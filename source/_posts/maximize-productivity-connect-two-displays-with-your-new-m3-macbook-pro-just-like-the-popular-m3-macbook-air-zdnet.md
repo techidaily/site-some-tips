@@ -1,7 +1,7 @@
 ---
 title: "Maximize Productivity: Connect Two Displays with Your New M3 MacBook Pro, Just Like the Popular M3 MacBook Air | ZDNET"
-date: 2024-10-22T18:26:20.761Z
-updated: 2024-10-26T18:13:47.839Z
+date: 2024-10-28T20:25:48.024Z
+updated: 2024-11-01T10:02:10.639Z
 tags:
   - apple
 categories:
@@ -65,10 +65,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -84,10 +84,10 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -103,10 +103,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -130,10 +130,10 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Gaming
@@ -170,15 +170,21 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-permitted-practices-for-saving-youtube-videos-for-2024/"><u>[Updated] Permitted Practices for Saving YouTube Videos for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-camon-20mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Camon 20Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-taking-flight-iphone-hdr-techniques-for-professional-results/"><u>In 2024, Taking Flight IPhone HDR Techniques for Professional Results</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-techniques-to-mitigate-vr-disorientation/"><u>In 2024, Techniques to Mitigate VR Disorientation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>In 2024, Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-effective-virtual-meetings-with-zoom-win10/"><u>In 2024, Unveiling the Secrets to Effective Virtual Meetings with Zoom (Win10)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/scale-up-influence-crafting-content-that-resonates-for-2024/"><u>Scale Up Influence Crafting Content That Resonates for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/athway-to-pro-youtube-earnings-on-every-device-for-2024/"><u>The Pathway to Pro Youtube Earnings on Every Device for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformation-de-fichiers-png-vers-jpg-sans-frais-service-en-ligne-rapide-avec-movavi/"><u>Transformation De Fichiers PNG Vers JPG Sans Frais - Service en Ligne Rapide Avec Movavi</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/first-steps-in-high-quality-youtubing/"><u>Your First Steps in High-Quality YouTubing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>[New] 2024 Approved Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-depth-analysis-unveiling-the-best-5-racer-simulations-for-2024/"><u>[New] In-Depth Analysis Unveiling the Best 5 Racer Simulations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-time-lapse-wizardry-harnessing-gopros-potential/"><u>[New] Time-Lapse Wizardry Harnessing GoPro's Potential</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-understanding-hdr-techniques-in-modern-photoshoots-for-2024/"><u>[New] Understanding HDR Techniques in Modern Photoshoots for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-velvet-vaults-2022-olympic-skaters/"><u>[New] Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-audienranz-with-solo-visual-content/"><u>[Updated] 2024 Approved Engaging Audienranz with Solo Visual Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-spotify-how-to-exclude-recommended-podcasts/"><u>[Updated] Spotify How to Exclude Recommended Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncovering-non-google-ar-accessories-and-tools/"><u>[Updated] Uncovering Non-Google AR Accessories and Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-memory-management-via-mematic/"><u>2024 Approved Streamline Memory Management via Mematic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-macos-tutorials-for-editing-srt-files/"><u>2024 Approved Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>2024 Approved Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fresh-strategies-to-combat-constant-pauses-and-hiccups-in-minecraft-for-pc-expert-advice/"><u>Fresh Strategies to Combat Constant Pauses and Hiccups in Minecraft for PC - Expert Advice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-download-igtv-videos-on-windows-pcmac-5-ways/"><u>In 2024, How to Download IGTV Videos on Windows PC/Mac? [5 Ways]</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12-pro-4g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12 Pro 4G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-free-premiere-pro-2023-templates/"><u>In 2024, Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-periscopes-mystique-is-it-free-and-how-to-signup-in-2024/"><u>Unraveling Periscope's Mystique Is It Free and How to Signup, In 2024</u></a></li>
 </ul></div>
 

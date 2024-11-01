@@ -1,7 +1,7 @@
 ---
 title: "Navigating New Trends: The Rise of Generative AI Among 17%% of Shoppers, Revealed by ZDNET Analysis"
-date: 2024-09-19 16:24:39
-updated: 2024-09-20 12:22:32
+date: 2024-10-27T09:30:21.542Z
+updated: 2024-11-01T05:10:39.751Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +64,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-your-online-presence-with-expert-streaming-guide/"><u>[New] 2024 Approved Elevate Your Online Presence with Expert Streaming Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-affordable-asmr-recording-setup-excellence/"><u>[New] Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beginning-the-live-journey-on-instagram/"><u>[Updated] Beginning the Live Journey on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-daily-movie-data-demand-in-gigabytes/"><u>[Updated] In 2024, Daily Movie Data Demand in Gigabytes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-edition-the-finest-picture-fixers-for-2024/"><u>[Updated] Instagram Edition The Finest Picture Fixers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-smooth-and-efficient-photo-background-blurring/"><u>[Updated] Tips for Smooth and Efficient Photo Background Blurring</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-2024-general-facts-challenge-videos/"><u>[Updated] Top 2024 General Facts Challenge Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-submission-a-podcasters-guide/"><u>2024 Approved Streamlining Submission A Podcaster's Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-insight-advancements-in-home-video-recordings/"><u>2024 Approved The Ultimate Insight Advancements in Home Video Recordings</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>In 2024, The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-5-fantastic-free-online-video-editors-like-imovie-updated-2023/"><u>New 2024 Approved 5 Fantastic Free Online Video Editors Like iMovie (Updated 2023)</u></a></li>
+<li><a href="https://common-error.techidaily.com/recovering-windows-gone-astray-a-step-by-step-guide/"><u>Recovering Windows Gone Astray: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-file-sharing-with-these-3-methods-for-adding-outside-folders-to-your-google-drive/"><u>Streamline File Sharing with These 3 Methods for Adding Outside Folders to Your Google Drive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-noobs-manual-to-saving-streaming-radio-lines-for-2024/"><u>The Noob's Manual to Saving Streaming Radio Lines for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations-for-2024/"><u>The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforming-audio-to-text-on-slides-for-ppt-for-2024/"><u>Transforming Audio to Text on Slides for PPT for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro-for-2024/"><u>Unveil Your Creative Potential Comprehensive Guide to PowerDirector Pro for 2024</u></a></li>
+</ul></div>
+

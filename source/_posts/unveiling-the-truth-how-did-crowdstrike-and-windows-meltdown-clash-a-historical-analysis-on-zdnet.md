@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: How Did CrowdStrike and Windows Meltdown Clash ? A Historical Analysis on ZDNet"
-date: 2024-10-22T17:32:45.866Z
-updated: 2024-10-26T16:39:49.606Z
+date: 2024-10-29T19:13:58.041Z
+updated: 2024-10-31T17:37:02.844Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,16 +127,16 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,17 +187,21 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones-for-2024/"><u>[New] Effortless Guide to Share Your Videos as Shorts on Computers & Phones for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easy-guide-to-screenshots-and-recordings-with-macos/"><u>[Updated] In 2024, Easy Guide to Screenshots & Recordings with macOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>[Updated] Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-srt-download-blueprint-from-youtube/"><u>[Updated] The Ultimate SRT Download Blueprint From YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>[Updated] Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-vrchat-crashes-in-virtual-reality-8-crucial-fixes-for-gaming-smoothness-on-pc/"><u>Avoid VRChat Crashes in Virtual Reality: 8 Crucial Fixes for Gaming Smoothness on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bridging-language-barriers-windows-media-player-subtitle-guide/"><u>Bridging Language Barriers Windows Media Player Subtitle Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/come-trasformare-i-video-in-formato-webm-nella-versione-mp4-con-elevata-qualita-soluzioni-su-windows-11-e-mac/"><u>Come Trasformare I Video in Formato WebM Nella Versione MP4 Con Elevata Qualità: Soluzioni Su Windows 11 E Mac</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y78plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y78+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-capture-stunning-videos-on-iphone-8-pro-tips-for-quality-shootings/"><u>In 2024, Capture Stunning Videos on iPhone 8 Pro Tips for Quality Shootings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-creative-potential-animated-text-techniques-ig-stories/"><u>In 2024, Unlocking Creative Potential Animated Text Techniques IG Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-capturing-attention-top-6-videos-to-watch-for-2024/"><u>The Art of Capturing Attention Top 6 Videos to Watch for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-methods-for-chronological-disruption-in-acting/"><u>[New] Innovative Methods for Chronological Disruption in Acting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-ebb-and-flow-of-trending-tweets-for-2024/"><u>[New] The Ebb and Flow of Trending Tweets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>[New] Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevating-online-presence-how-to-flawlessly-transmit-upside-down-videos-on-youtube/"><u>[Updated] 2024 Approved Elevating Online Presence How to Flawlessly Transmit Upside-Down Videos on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-iphone-stellar-images/"><u>[Updated] Unlocking the Secrets to iPhone Stellar Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-slug-lines-in-seo-and-content-marketing/"><u>2024 Approved The Power of Slug Lines in SEO and Content Marketing</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/complete-tutorial-migrating-windows-7-system-and-files-to-a-fresh-machine-with-ease/"><u>Complete Tutorial: Migrating Windows 7 System & Files to a Fresh Machine with Ease</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/first-time-audio-enthusiast-discover-agptek-model-a01t/"><u>First-Time Audio Enthusiast? Discover AGPTEK Model A01T</u></a></li>
+<li><a href="https://win-web3.techidaily.com/guia-facil-de-rescate-de-archivos-en-disco-d-recuperacion-sin-complicaciones/"><u>Guía Fácil De Rescate De Archivos en Disco D: Recuperación Sin Complicaciones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>In 2024, The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-pip-feature-in-youtube-app-for-iphones-for-2024/"><u>Mastering PIP Feature in YouTube App for iPhones for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-validity-of-vibration-reduction-in-adobes-world/"><u>The Validity of Vibration Reduction in Adobe's World</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-youtube-spots-for-video-marketing-success-for-2024/"><u>Top YouTube Spots for Video Marketing Success for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-every-moment-top-ideas-for-enriching-life-through-podcasts-for-2024/"><u>Transform Every Moment Top Ideas for Enriching Life Through Podcasts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers-for-2024/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers for 2024</u></a></li>
 </ul></div>
 

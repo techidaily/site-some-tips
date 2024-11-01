@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Ultimate Selection of Creative and Practical Gifts Perfect for IT Professionals (12 Picks)
-date: 2024-09-19 14:11:31
-updated: 2024-09-20 10:13:57
+date: 2024-10-25T03:04:19.175Z
+updated: 2024-11-01T10:23:42.176Z
 tags:
   - e-commerce
 categories:
@@ -45,6 +45,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
@@ -56,6 +63,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -69,11 +83,25 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-no-charge-fb-visual-storyteller-pro-software/"><u>[New] 2024 Approved No-Charge FB Visual Storyteller Pro Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>[New] In 2024, Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surfings-new-era-top-cam-tech/"><u>[New] Surfing's New Era - Top Cam Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-incorporating-cards-and-annotations-in-youtube-content/"><u>[Updated] Incorporating Cards and Annotations in YouTube Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-uav-picks-to-elevate-gopro-cinematography/"><u>2024 Approved Superior UAV Picks to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>2024 Approved The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-non-verbal-communication-in-interviewing/"><u>2024 Approved The Role of Non-Verbal Communication in Interviewing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-selection-choosing-excellent-free-srt-translators/"><u>2024 Approved Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-vegaspro-2019-a-comprehensive-analysis/"><u>2024 Approved VegasPro 2019 A Comprehensive Analysis</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-poco-c51-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Poco C51 Phones? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unraveling-the-secrets-of-exceptional-green-screen-filming/"><u>In 2024, Unraveling the Secrets of Exceptional Green Screen Filming</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-baseline-for-windows-11-terminal/"><u>Reinstating Baseline for Windows 11 Terminal</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/secretive-story-viewing-tactics-for-android-iphone-and-pc-for-2024/"><u>Secretive Story Viewing Tactics for Android, iPhone & PC for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-5-iphone-x87-photoshoot-background-swappers-for-2024/"><u>Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers for 2024</u></a></li>
+</ul></div>
+

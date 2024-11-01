@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Personalized Settings of iOS 18: A Guide to Tailoring Your iPhone's Control Center - Insights"
-date: 2024-10-23T17:46:12.240Z
-updated: 2024-10-26T18:41:33.369Z
+date: 2024-10-26T05:15:32.178Z
+updated: 2024-10-31T19:07:38.148Z
 tags:
   - apple
 categories:
@@ -31,10 +31,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -42,6 +42,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -51,18 +58,24 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -71,16 +84,10 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -90,13 +97,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -140,17 +140,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-actionable-solutions-for-converting-xml-ssa-ttml-etc-to-srt/"><u>[New] In 2024, Actionable Solutions for Converting XML, SSA, TTML, Etc., To SRT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unleash-creative-fb-ad-videos-access-free-video-tools-now/"><u>[New] In 2024, Unleash Creative FB Ad Videos - Access FREE Video Tools Now</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-the-process-for-achieving-facebooks-trusted-marker-for-2024/"><u>[New] Unveiling the Process for Achieving Facebook's Trusted Marker for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality/"><u>[Updated] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-perfected-collage-making-blueprint/"><u>2024 Approved The Perfected Collage-Making Blueprint</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>2024 Approved Top 5 Ultra-HD Screens Mastering Hue and Shade</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effective-techniques-for-displaying-file-sizes-in-folders/"><u>Effective Techniques for Displaying File Sizes in Folders</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo Y27 4G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>In 2024, Uncomplicated Process Altering Clown Fish Voices in WinOS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-film-crafting-with-kinemaster-tools-for-2024/"><u>The Art of Film Crafting with Kinemaster Tools for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/universal-video-editor-suite-with-high-definition-support-compatible-with-iphones-blackberrys-and-nokia-phones/"><u>Universal Video Editor Suite with High Definition Support Compatible with iPhones, BlackBerrys, and Nokia Phones</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-unveiling-the-facts-dispelling-common-misconceptions-about-daw-software/"><u>Updated In 2024, Unveiling the Facts Dispelling Common Misconceptions About DAW Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>[Updated] In 2024, Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-7-superior-video-players-on-mac/"><u>[Updated] Ultimate Guide to 7 Superior Video Players on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-scheduling-zoom-conferences-for-android-users/"><u>2024 Approved Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>2024 Approved Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
+<li><a href="https://extra-information.techidaily.com/eliminate-youtubes-automatic-preplay-buffer/"><u>Eliminate YouTube's Automatic Preplay Buffer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-types-and-methods-of-touchless-technology-for-2024/"><u>Exploring Types and Methods of Touchless Technology for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-z50s-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Z50S Pro Is Unlocked</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-enhancing-meetings-screen-capture-with-webcam/"><u>In 2024, Enhancing Meetings Screen Capture with Webcam</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-photos-repository-hubs/"><u>In 2024, Superior Photos Repository Hubs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-generation-of-social-video-periscopes-counterparts/"><u>In 2024, The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transformative-talk-20-words-to-bolster-marketing-success/"><u>In 2024, Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-10-hidden-powers-of-photoshop-newbies/"><u>In 2024, Unveiling 10 Hidden Powers of Photoshop Newbies</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-15-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 15 Properly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-monitoring-and-tracking-your-internet-data-consumption/"><u>Step-by-Step Guide: Monitoring and Tracking Your Internet Data Consumption</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-steam-service-unavailable-errors/"><u>Troubleshooting Steam Service Unavailable Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-aerial-precision-mavic-pro-analysis-for-2024/"><u>Unveiling Aerial Precision - Mavic Pro Analysis for 2024</u></a></li>
 </ul></div>
 

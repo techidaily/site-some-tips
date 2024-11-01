@@ -1,7 +1,7 @@
 ---
 title: Why Can't You Customize Your iPhone Like Android? Apple Stays Firm on Restrictions in Europe | Featured on ZDNET
-date: 2024-10-24T18:25:23.462Z
-updated: 2024-10-26T17:16:20.646Z
+date: 2024-10-26T05:27:38.932Z
+updated: 2024-11-01T10:58:36.578Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +62,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +87,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,17 +135,22 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less/"><u>[New] 2024 Approved Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-prime-panzoid-layout-libraries/"><u>[New] In 2024, Prime Panzoid Layout Libraries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[New] Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>[New] The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-upward-perspectives-capturing-landscapes-from-your-phone/"><u>[New] Upward Perspectives Capturing Landscapes From Your Phone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[Updated] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stability-in-the-click-quashing-jitter/"><u>2024 Approved Stability in the Click Quashing Jitter</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-assessing-streaming-quality-vlc-versus-mx/"><u>In 2024, Assessing Streaming Quality VLC versus MX</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-note-30-vip-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Note 30 VIP to Protect Your Individual Information</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>In 2024, Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/resolving-hdr-hevc-4k-videos-a-step-by-step-guide-to-eliminate-frames-drops/"><u>Resolving HDR HEVC 4K Videos: A Step-by-Step Guide to Eliminate Frames Drops</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/title-design-made-easy-a-final-cut-pro-x-tutorial-for-2024/"><u>Title Design Made Easy A Final Cut Pro X Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/con-and-logo-havens-a-guide-to-6-unique-online-resources/"><u>[New] Icon & Logo Havens A Guide to 6 Unique Online Resources</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-secrets-of-speed-instant-background-cleanse-techniques/"><u>[Updated] Secrets of Speed Instant Background Cleanse Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-in-frame-multimedia-experience-on-mac/"><u>[Updated] The Ultimate Guide to In-Frame Multimedia Experience on Mac</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-iphone-photography-excellence-follow-the-top-10-rules/"><u>2024 Approved IPhone Photography Excellence Follow the Top 10 Rules</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-workflow-youtube-to-mpeg-essentials/"><u>2024 Approved Streamline Your Video Workflow YouTube-to-MPEG Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-pinnacle-of-iphone-photography-finding-ultimate-angles/"><u>2024 Approved The Pinnacle of iPhone Photography Finding Ultimate Angles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-video-quality-with-apple-music-addition/"><u>2024 Approved Unlock Video Quality with Apple Music Addition</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/elevating-video-quality-how-to-master-slow-motion-filming-in-tiktok/"><u>Elevating Video Quality How to Master Slow Motion Filming in TikTok</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-preventing-malfunctions-during-total-war-troy-gaming-sessions-on-desktop-systems/"><u>Expert Advice on Preventing Malfunctions During 'Total War: Troy' Gaming Sessions on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-your-obs-mic-issues-expert-tips-and-tricks/"><u>How To Repair Your OBS Mic Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>In 2024, Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>New TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
+<li><a href="https://os-tips.techidaily.com/no-backup-no-problem-mastering-the-art-of-retrieving-deleted-iphone-contact-details-easily/"><u>No Backup? No Problem! Mastering the Art of Retrieving Deleted iPhone Contact Details Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-experts-manual-for-fusing-linktree-and-tiktok-biographies-for-2024/"><u>The Expert's Manual for Fusing Linktree and TikTok Biographies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset-for-2024/"><u>Venturing Virtuality A Review of LG's 360 Headset for 2024</u></a></li>
 </ul></div>
 

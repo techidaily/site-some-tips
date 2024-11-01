@@ -1,7 +1,7 @@
 ---
 title: "Decline of Paytm Venture: A Look Into Warren Buffet's Sole India Stake | Business Insider"
-date: 2024-09-19 15:28:21
-updated: 2024-09-20 10:55:41
+date: 2024-10-24T23:47:37.652Z
+updated: 2024-11-01T14:00:16.523Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-comic-strip-editor/"><u>[New] Ultimate Comic Strip Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unseen-battles-umbraheroes-black-versus-luminaryheroes-silver/"><u>[New] Unseen Battles Umbraheroes (Black) Versus Luminaryheroes (Silver)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-video-descriptions-the-key-to-threefold-success/"><u>[Updated] 2024 Approved Instagram Video Descriptions - The Key to Threefold Success</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-buy-youtube-views-everything-you-need-to-know/"><u>[Updated] How to Buy YouTube Views - Everything You Need To Know</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-high-definition-gameplay-capture-mastery/"><u>[Updated] In 2024, High-Definition Gameplay Capture Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-best-fast-photo-viewer-for-windows-10/"><u>[Updated] Top Best Fast Photo Viewer for Windows 10?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-photographs-into-stunning-collaborative-art/"><u>[Updated] Transforming Photographs Into Stunning Collaborative Art</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-venn-of-virtuality-metaverse-and-multiverse-analysis/"><u>2024 Approved The Venn of Virtuality Metaverse & Multiverse Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-photos-using-adobes-power/"><u>2024 Approved Transform Your Photos Using Adobe's Power</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upgrade-clips-adding-effects-to-videos-pcmobile/"><u>2024 Approved Upgrade Clips Adding Effects to Videos (PC/Mobile)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guidance-download-tamil-music-as-ringtone-and-how-to-cut-a-song-as-ringtone-for-2024/"><u>Guidance Download Tamil Music As Ringtone And How To Cut A Song As Ringtone for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-your-escape-from-tarkov-connection-issue/"><u>How to Repair Your Escape From Tarkov Connection Issue</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-yuva-2-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Yuva 2 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-android-song-curator/"><u>In 2024, Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-spotlight-tactics-a-3-step-guide-for-2024/"><u>Instagram Spotlight Tactics A 3-Step Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-12-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on 12 Pro+ 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tips-for-iphones-hdr-images-for-2024/"><u>Ultimate Tips for iPhone's HDR Images for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/wisdom-without-walls-commemorating-a-decade-of-1500-free-lessons/"><u>Wisdom Without Walls: Commemorating a Decade of 1500 Free Lessons</u></a></li>
+</ul></div>
+

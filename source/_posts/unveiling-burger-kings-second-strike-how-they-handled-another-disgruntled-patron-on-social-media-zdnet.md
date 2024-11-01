@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Burger King's Second Strike: How They Handled Another Disgruntled Patron on Social Media | ZDNet"
-date: 2024-09-19 17:44:41
-updated: 2024-09-20 10:15:55
+date: 2024-10-29T10:59:07.989Z
+updated: 2024-10-31T16:20:58.390Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-frostbite-fame-highlights-of-cold-climates-games/"><u>[New] 2024 Approved Frostbite Fame Highlights of Cold Climates Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-twisting-tales-a-guide-to-angled-photography-that-captivates-audiences-on-digital-platforms/"><u>[New] 2024 Approved Twisting Tales A Guide to Angled Photography that Captivates Audiences on Digital Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-applications-for-image-driven-video-creation/"><u>[New] Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-window-calls-top-8-standout-titles-for-2024/"><u>[Updated] Premium Window Calls Top 8 Standout Titles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-exclusive-guide-to-best-4k-screens-for-mac-devotees/"><u>[Updated] The Exclusive Guide to Best 4K Screens for Mac Devotees</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-transformations-in-vegaspro-19/"><u>[Updated] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-mp4/"><u>「🌟今年ダイナミックなDVD MP4コンバーターリスト！無料で変換テクニック公開✨」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-fourfold-path-to-blurring-iphone-images/"><u>2024 Approved The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-7-sound-output-with-updated-drivers/"><u>Boost Windows 7 Sound Output with Updated Drivers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-oppo-reno-11-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Oppo Reno 11 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>In 2024, Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>In 2024, Unlocking Smooth Ocean Footage Proven Film-Maker's Methods</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-checklist-8-key-points-for-smart-desktop-shopping/"><u>The Ultimate Checklist: 8 Key Points for Smart Desktop Shopping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-platforms-for-amplifying-youtube-content-for-2024/"><u>Top Platforms for Amplifying YouTube Content for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-xs-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone XS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-percussive-purge-mastering-the-art-of-drum-free-music-online/"><u>Updated Percussive Purge Mastering the Art of Drum-Free Music Online</u></a></li>
+</ul></div>
+

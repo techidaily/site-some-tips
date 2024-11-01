@@ -1,7 +1,7 @@
 ---
 title: "Cross-Border Funds Made Easier: Singapore Collaborates with India on Enhanced Transfer Protocols | Tech News"
-date: 2024-09-17 12:19:22
-updated: 2024-09-20 12:24:31
+date: 2024-10-28T09:01:08.327Z
+updated: 2024-11-01T02:44:00.819Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -42,6 +49,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -68,6 +89,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +138,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[New] Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>[New] The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>[New] Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfecting-your-dialogue-a-google-meet-strategy-for-2024/"><u>[Updated] Perfecting Your Dialogue A Google Meet Strategy for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-5-book-video-promotions-ever-made/"><u>[Updated] The Best 5 Book Video Promotions Ever Made</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-kid-friendly-drone-models-for-first-flights/"><u>[Updated] Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>[Updated] Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-iphone-15-pro-max-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the iPhone 15 Pro Max iCloud Lock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/cutting-edge-tools-for-instagrams-most-trendy-reels/"><u>Cutting-Edge Tools for Instagram's Most Trendy Reels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-inject-personality-into-snaps-on-snapchat-through-voice-customization/"><u>In 2024, Inject Personality Into Snaps on Snapchat Through Voice Customization</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-streamers-selection-most-popular-livestream-software-and-devices/"><u>In 2024, Streamer's Selection Most Popular Livestream Software and Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-professional-graphics-custom-templates-on-the-house/"><u>In 2024, Unlock Professional Graphics - Custom Templates on the House</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125962-9781609257828-the-practical-psychic/"><u>The Practical Psychic | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unlock-ultimate-clarity-choosing-the-perfect-4k-screen-for-2024/"><u>Unlock Ultimate Clarity Choosing the Perfect 4K Screen for 2024</u></a></li>
+</ul></div>
+

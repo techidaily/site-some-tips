@@ -1,7 +1,7 @@
 ---
 title: "Tech Showdown: Samsung Galaxy S22 vs iPhone 13 by the Numbers | In-Depth Comparison on ZDNET"
-date: 2024-09-19 20:34:56
-updated: 2024-09-20 12:12:14
+date: 2024-10-29T22:23:23.501Z
+updated: 2024-11-01T05:07:20.805Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-navigating-the-rules-of-youtube-video-documentation/"><u>[New] 2024 Approved Navigating the Rules of YouTube Video Documentation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-8-visual-augmentations-for-live-cams/"><u>[New] Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-steps-for-seamlessly-clearing-youtube-feedback/"><u>[Updated] In 2024, Essential Steps for Seamlessly Clearing YouTube Feedback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>[Updated] Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-iphone-hdr-mastery/"><u>[Updated] The Ultimate Guide to iPhone HDR Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-8-preferred-mp3-grabbers-android/"><u>[Updated] Ultimate Selection 8 Preferred MP3 Grabbers (Android)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/essential-strategies-for-professional-grade-video-editing-for-2024/"><u>Essential Strategies for Professional-Grade Video Editing for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-2022-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE (2022)?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>In 2024, Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-googles-ar-sticker-innovation/"><u>In 2024, Understanding Google's AR Sticker Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-asmrs-secrets-for-optimal-wellness/"><u>In 2024, Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-power-of-pause-time-mastering-art-of-slow-motion-videos-using-photos-apps-and-websites/"><u>In 2024, Unlocking the Power of Pause Time Mastering Art of Slow Motion Videos Using Photos Apps and Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-production-choosing-the-top-webcam-for-podcasts/"><u>In 2024, Unparalleled Production Choosing the Top Webcam for Podcasts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-s17-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo S17 Black and White | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-tips-for-snapping-clear-shots-of-your-desktop-or-browser-window/"><u>Quick Tips for Snapping Clear Shots of Your Desktop or Browser Window</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/revitalize-your-hdtv-in-depth-strategies-for-spotless-flat-screen-maintenebuilding/"><u>Revitalize Your HDTV: In-Depth Strategies for Spotless Flat Screen Maintenebuilding</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2080-latest-graphics-card-driver-update-for-windows-1178-systems/"><u>RTX 2080 Latest Graphics Card Driver Update for WIndows 11/7/8 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-windows-7-techniques-against-uac-intrusions/"><u>Securing Windows: 7 Techniques Against UAC Intrusions</u></a></li>
+</ul></div>
+

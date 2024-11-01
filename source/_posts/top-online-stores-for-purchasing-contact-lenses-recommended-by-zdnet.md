@@ -1,7 +1,7 @@
 ---
 title: Top Online Stores for Purchasing Contact Lenses - Recommended by ZDNet
-date: 2024-09-19 11:27:54
-updated: 2024-09-20 12:58:25
+date: 2024-10-27T19:07:43.313Z
+updated: 2024-11-01T03:35:55.881Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -50,6 +57,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -71,9 +85,23 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-trending-threads-triumph-top-twitters-for-2024/"><u>[New] Trending Threads Triumph Top Twitters for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-superior-suggestions-elite-iphone-ringtones-developers/"><u>[Updated] Superior Suggestions Elite iPhone Ringtones Developers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-inshot-cuts-for-professional-edge/"><u>2024 Approved Streamlining Inshot Cuts for Professional Edge</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-strategies-for-accessing-nfl-games-online/"><u>2024 Approved Top 10 Strategies for Accessing NFL Games Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-where-to-pull-off-ringtone-files/"><u>2024 Approved Ultimate List Where To Pull Off Ringtone Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-functionality-of-unmanned-aerial-vehicles-explored/"><u>In 2024, The Functionality of Unmanned Aerial Vehicles Explored</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-the-windows-host-process-and-rundll32-stop-errors/"><u>Resolving Issues with the Windows Host Process and Rundll32 Stop Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-cutting-out-issues-with-your-logitech-g930-speakers/"><u>Step-by-Step Solution for 'Cutting Out' Issues with Your Logitech G930 Speakers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-art-of-cocktails-with-ai-assessing-chatgpts-skill-level/"><u>The Art of Cocktails with AI: Assessing ChatGPT's Skill Level</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-the-best-yts-premier-unboxing-sites-for-2024/"><u>The Best of the Best YT's Premier Unboxing Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-tutorial-on-using-snapchat-spotlight-for-2024/"><u>The Essential Tutorial on Using Snapchat Spotlight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/this-device-cannot-start-code-10-error-solved/"><u>This Device Cannot Start Code 10 Error [Solved]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-compress-videos-online-for-free-10-best-web-based-solutions/"><u>Updated Compress Videos Online for Free 10 Best Web-Based Solutions</u></a></li>
+</ul></div>
+

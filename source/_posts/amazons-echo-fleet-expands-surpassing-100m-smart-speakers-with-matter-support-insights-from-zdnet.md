@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Echo Fleet Expands: Surpassing 100M Smart Speakers with Matter Support - Insights From ZDNet"
-date: 2024-09-18 20:17:48
-updated: 2024-09-20 10:57:35
+date: 2024-10-30T22:38:47.746Z
+updated: 2024-11-01T01:02:48.151Z
 tags:
   - e-commerce
 categories:
@@ -43,7 +43,21 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -56,6 +70,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +101,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-behind-stock-image-memes-stories-that-stood-the-test/"><u>[Updated] 2024 Approved Behind Stock Image Memes Stories That Stood the Test</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-timeless-family-adventures-on-screen-this-season/"><u>[Updated] Top 10 Timeless Family Adventures on Screen This Season</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-images-into-engaging-animation-projects/"><u>[Updated] Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailoring-web-clarity-with-advanced-zoom-tools/"><u>2024 Approved Tailoring Web Clarity with Advanced Zoom Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-top-video-enhancements-in-obs-studio-edits/"><u>2024 Approved Top Video Enhancements in OBS Studio Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/3-ways-to-record-discord-live-stream-for-2024/"><u>3 Ways to Record Discord Live Stream for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhance-gaming-sessions-the-ultimate-tutorial-for-connecting-discord-and-ps5/"><u>Enhance Gaming Sessions: The Ultimate Tutorial for Connecting Discord and PS5</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-lava-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Lava</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-cd-conversion-and-burning-with-wmp/"><u>In 2024, The Complete Guide to CD Conversion & Burning with WMP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-pro-essentials-accessible-for-all-editors/"><u>In 2024, The Premier Pro Essentials - Accessible for All Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-digital-destinations-for-text-overlays/"><u>In 2024, Ultimate Digital Destinations for Text Overlays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-pip-techniques-for-professional-apple-users/"><u>In 2024, Unlocking PIP Techniques for Professional Apple Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tune-tracker-and-manager-android-companion-for-2024/"><u>Top Tune Tracker & Manager, Android Companion for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveil-the-secrets-find-anyone-youre-searching-for-with-these-tricks-on-facebook/"><u>Unveil the Secrets: Find Anyone You're Searching For with These Tricks on Facebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-x50-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor X50? | Dr.fone</u></a></li>
+</ul></div>
+

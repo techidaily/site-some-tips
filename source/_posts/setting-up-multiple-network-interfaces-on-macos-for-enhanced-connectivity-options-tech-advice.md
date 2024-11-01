@@ -1,7 +1,7 @@
 ---
 title: Setting Up Multiple Network Interfaces on macOS for Enhanced Connectivity Options | Tech Advice
-date: 2024-10-23T17:30:26.124Z
-updated: 2024-10-26T18:14:41.333Z
+date: 2024-10-27T23:12:22.906Z
+updated: 2024-11-01T08:55:42.153Z
 tags:
   - apple
 categories:
@@ -32,6 +32,13 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -44,6 +51,13 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -53,6 +67,13 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -84,13 +105,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -118,13 +132,6 @@ What's particularly nice about Pocket is that it runs on not only my couch-side 
 Part of my morning flow is posting to the social networks. Unfortunately, this has changed. It used to be that whenever I found an article that was interesting in my Pocket collection, I tapped the Share icon in Pocket and then selected [Buffer](http://bufferapp.com). Buffer then took the article, scheduled it, and posted it to Twitter, Facebook, and LinkedIn. Two clicks and I used to be able shared something interesting.
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Featured reviews
 
@@ -178,10 +185,10 @@ I just think of those users like more of my students. If any questions show up i
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Featured
@@ -224,10 +231,10 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -235,13 +242,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -286,24 +286,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-capture-selfie-snap-shots-with-vintage-iphone-x-for-2024/"><u>[New] Capture Selfie Snap Shots with Vintage iPhone X for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-brighter-boundaries-three-strategies-for-instagram-spotlight/"><u>[New] In 2024, Brighter Boundaries Three Strategies for Instagram Spotlight</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-artisans-approach-to-preserving-ps3-gameplay-moments/"><u>[Updated] 2024 Approved The Artisan's Approach to Preserving PS3 Gameplay Moments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-fine-tuning-fade-effects-in-music-software/"><u>[Updated] In 2024, Fine-Tuning Fade Effects in Music Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-pivotal-ideas-in-tech-driven-story-weaving/"><u>[Updated] Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-camera-hunt-essential-choices-for-new-enthusiasts/"><u>2024 Approved Camera Hunt Essential Choices for New Enthusiasts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-video-content-with-these-expertly-curated-online-subtitles-editors/"><u>2024 Approved Enhance Video Content with These Expertly Curated Online Subtitles Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-your-marketing-strategy-using-cookiebot-solutions/"><u>Enhance Your Marketing Strategy Using Cookiebot Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-conversion-tracking-with-the-latest-cookiebot-integration/"><u>Enhanced Conversion Tracking with the Latest Cookiebot Integration</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-with-advanced-web-tracking-technology-experience-seamless-user-targeting/"><u>Enhanced with Advanced Web Tracking Technology: Experience Seamless User Targeting</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-online-engagement-with-our-cookiebot-seo-solutions/"><u>Experience Enhanced Online Engagement with Our Cookiebot SEO Solutions!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/harnessing-the-power-of-cookiebot-elevate-your-website-experience/"><u>Harnessing the Power of Cookiebot: Elevate Your Website Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS Without Passcode Easily</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/innovative-ways-to-enhance-your-websites-visibility-mastering-page-optimization/"><u>Innovative Ways to Enhance Your Website's Visibility: Mastering Page Optimization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-power-boosting-traffic-and-engagement/"><u>Optimize with Cookiebot Power: Boosting Traffic and Engagement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/previsions-pour-lessor-de-la-main-doeuvre-numerique-dans-les-entreprises-plus-de-50-daugmentation-en-2021-etude-detaillee-par-abbyy/"><u>Prévisions Pour L'essor De La Main-D'oeuvre Numérique Dans Les Entreprises (Plus De 50% D'augmentation en 2021) – Étude Détaillée Par ABBYY</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/vcr-video-vault-extensive-reviews-and-summary/"><u>VCR Video Vault Extensive Reviews & Summary</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-get-fb-videos-down-as-mp4-swiftly-and-simply/"><u>[New] Get FB Videos Down as MP4 – Swiftly & Simply</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-revolutionary-wearable-camera-tech/"><u>[New] In 2024, Revolutionary Wearable Camera Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-method-windows-clown-fish-audio-tweaker/"><u>[New] Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-impact-of-weather-on-syma-x8c-performance/"><u>[New] The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[New] Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-overcoming-obstacles-to-display-videos-prominently-for-2024/"><u>[Updated] Overcoming Obstacles to Display Videos Prominently for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streaming-showdown-is-streamlabs-or-obs-your-best-choice-for-2024/"><u>[Updated] Streaming Showdown Is Streamlabs or OBS Your Best Choice for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted/"><u>[Updated] The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unearthing-the-potential-of-htc-vive-for-immersive-gaming/"><u>[Updated] Unearthing the Potential of HTC Vive for Immersive Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-5-book-video-promotions-ever-made/"><u>2024 Approved The Best 5 Book Video Promotions Ever Made</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-ios-podcast-acquisition/"><u>2024 Approved The Essential Guide to iOS Podcast Acquisition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-note-30i-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Note 30i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fashion-and-fitness-collide-in-amazfit-gts-evaluation-a-comprehensive-analysis/"><u>Fashion and Fitness Collide in Amazfit GTS Evaluation – A Comprehensive Analysis</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973941949-get-your-csr-bluetooth-chip-drivers-here/"><u>Get Your CSR Bluetooth Chip Drivers Here!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977087213-quick-install-get-your-official-samsung-m2070fw-printer-drivers-now/"><u>Quick Install: Get Your Official Samsung M2070FW Printer Drivers Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-troubleshooting-expedite-ndis-fixes/"><u>Windows Troubleshooting: Expedite NDIS Fixes</u></a></li>
 </ul></div>
 

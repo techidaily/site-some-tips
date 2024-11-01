@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Apple Experience with WatchOS 11'S Latest Upgrade - Features Explored by ZDNet
-date: 2024-10-23T18:00:49.516Z
-updated: 2024-10-26T19:33:05.846Z
+date: 2024-10-27T18:19:37.949Z
+updated: 2024-11-01T01:10:49.952Z
 tags:
   - apple
 categories:
@@ -42,13 +42,6 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Low Power Mode when you can
 
 I don't recommend using Low Power Mode all day since it limits the functionality of your Apple Watch, but in a pinch, it can squeeze out a lot more juice than you think. If you drop down to 40 percent by 2 p.m., your watch will last the remainder of the day without issue by using the feature.
@@ -64,13 +57,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -90,11 +76,25 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -103,13 +103,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -120,16 +113,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -137,6 +124,13 @@ Adrian Kingsley-Hughes/ZDNET
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -179,17 +173,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-leveraging-full-motion-video-on-iphones/"><u>[New] Leveraging Full Motion Video on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-science-behind-time-warp-visuals/"><u>[New] The Science Behind Time Warp Visuals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-broadcast-battle-which-platform-wins/"><u>[Updated] Broadcast Battle Which Platform Wins?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>[Updated] The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-selection-childrens-drone-choices/"><u>[Updated] Ultimate Selection Children's Drone Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-cutting-edge-youtube-video-editing-techniques-premiere-pro/"><u>In 2024, Cutting Edge YouTube Video Editing Techniques - Premiere Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/lenovo-easy-camera-not-working-on-windows-10-solved/"><u>Lenovo Easy Camera Not Working on Windows 10 [Solved]</u></a></li>
-<li><a href="https://extra-information.techidaily.com/screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-crafting-impressive-android-time-lapses-2enas-for-2024/"><u>The Ultimate Guide to Crafting Impressive Android Time-Lapses (2Enas) for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-diminishing-volume-fl-masterclass/"><u>[New] 2024 Approved Diminishing Volume FL Masterclass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[New] Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-make-every-moment-count-with-these-15-engaging-activities-while-listening-to-talk-shows/"><u>[Updated] In 2024, Make Every Moment Count with These 15 Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-navigate-and-thrive-with-product-sponsors-on-youtube/"><u>[Updated] Strategies to Navigate and Thrive with Product Sponsors on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-9-premier-video-translators-for-accurate-global-communication/"><u>[Updated] Ultimate Guide 9 Premier Video Translators for Accurate Global Communication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-perfect-portrait-retouching-conceal-dont-deceive/"><u>2024 Approved Perfect Portrait Retouching Conceal, Don't Deceive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategic-steps-for-a-million-viewing-video-masterpiece/"><u>2024 Approved Strategic Steps for a Million-Viewing Video Masterpiece</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>2024 Approved Unleashing the Power of Voice MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-insights-how-to-communicate-effectively-with-viewers/"><u>2024 Approved Unlocking Insights How to Communicate Effectively with Viewers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-valorant-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop Valorant From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratis-migrateeren-van-mpeg-2-naar-avi-professioneel-videokonvertor-online/"><u>Gratis Migrateeren Van MPEG-2 Naar Avi: Professioneel Videokonvertor Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-improving-your-interview-prowess/"><u>In 2024, Strategies for Improving Your Interview Prowess</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/prime-routines-for-mobile-game-screening-for-2024/"><u>Prime Routines for Mobile Game Screening for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-no-match-issue-a-step-by-step-guide-for-your-bumble-experience/"><u>Solving the 'No Match' Issue: A Step-by-Step Guide for Your Bumble Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-film-grading-with-cg-centrals-look-up-tables-for-2024/"><u>Streamlining Film Grading with CG Central's Look-Up Tables for 2024</u></a></li>
 </ul></div>
 

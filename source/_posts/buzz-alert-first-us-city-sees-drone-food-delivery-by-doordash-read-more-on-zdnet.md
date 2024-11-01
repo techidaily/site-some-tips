@@ -1,7 +1,7 @@
 ---
 title: "Buzz Alert: First U.S. City Sees Drone Food Delivery by DoorDash - Read More on ZDNet!"
-date: 2024-09-19 12:31:42
-updated: 2024-09-20 12:41:40
+date: 2024-10-29T23:42:35.930Z
+updated: 2024-11-01T12:59:34.178Z
 tags:
   - e-commerce
 categories:
@@ -29,6 +29,13 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
@@ -51,6 +58,13 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
@@ -69,6 +83,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
 
 ## Do I get access to Prime Day sales with Prime Student? 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unrivaled-vr-sets-for-aerial-adventures/"><u>[New] Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-record-and-edit-video-using-the-adobe-connect/"><u>[Updated] How to Record and Edit Video Using the Adobe Connect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-meme-magnate-monetization-pewdiepies-payday/"><u>[Updated] Meme Magnate Monetization PewDiePie’s Payday</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>[Updated] The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-live-streams-rokus-path-to-fb-live/"><u>2024 Approved Unlocking Live Streams Roku's Path to FB LIVE</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/echo-show-gen-4-analysis-enhanced-features-and-improved-functionality/"><u>Echo Show (Gen 4) Analysis: Enhanced Features & Improved Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-atheros-driver-software-for-windows-systems-here/"><u>Get the Latest Atheros Driver Software for Windows Systems Here</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/guide-to-correct-age-information-for-tiktok-users-for-2024/"><u>Guide to Correct Age Information for TikTok Users for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevating-video-branding-the-art-and-science-of-youtube-image-designs/"><u>In 2024, Elevating Video Branding The Art and Science of Youtube Image Designs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>In 2024, The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v27e-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V27e IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-top-5-virtual-title-designers/"><u>In 2024, Unlocking the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sprint-through-slow-videos-best-8-android-choices/"><u>Sprint Through Slow Videos Best 8 Android Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transcendence-in-music-mixing-crossfade-unveiled/"><u>Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trim-videos-with-flair-in-windows-11-photo-apps-for-2024/"><u>Trim Videos with Flair in Windows 11 Photo Apps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-constant-freezing-of-itunes-on-windows-1er-with-a-linked-ios-device/"><u>Troubleshooting Constant Freezing of iTunes on Windows 1Er with a Linked iOS Device</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 1. Explore Augmented Reality Glasses Shopping with Amazon and Snap's Innovative Partnership - ZDNet
-date: 2024-09-18 17:19:26
-updated: 2024-09-20 12:58:50
+date: 2024-10-30T22:26:09.944Z
+updated: 2024-10-31T20:26:33.647Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -70,6 +91,19 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +138,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-leading-corporate-cloud-vault-selection/"><u>[New] 2024 Approved Leading Corporate Cloud Vault Selection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-logic-pro-method-to-gradually-reduce-audio-levels/"><u>[New] Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-invisible-viewers-of-fb-episodes/"><u>[Updated] In 2024, Invisible Viewers of Fb Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>[Updated] The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-smooth-imports-in-windows-10-os/"><u>[Updated] Unlocking the Secrets to Smooth Imports in Windows 10 OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-maximizing-your-youtube-earnings-with-smart-tactics/"><u>2024 Approved Maximizing Your YouTube Earnings with Smart Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>2024 Approved The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-journey-full-phantom-4-features-explored/"><u>2024 Approved The Ultimate Drone Journey Full Phantom 4 Features Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-podcast-scriptwriting-with-10plus-free-examples/"><u>2024 Approved The Ultimate Guide to Podcast Scriptwriting (With 10+ Free Examples)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c110-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C110 Face Lock?</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/guide-complete-pour-la-mise-en-place-de-lautomatisation-one-way-avec-qsync-sous-les-systemes-dexploitation-windows/"><u>Guide Complète Pour La Mise en Place De L'Automatisation One-Way Avec Qsync Sous Les Systèmes D’Exploitation Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-defy-2-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola Defy 2 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>In 2024, The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-10plus-lut-samples-some-at-zero-cost/"><u>In 2024, Unlock Image Potential 10+ LUT Samples, Some at Zero Cost</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-xs-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone XS Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-fixes-when-your-sound-volume-stops-responding/"><u>Troubleshooting Windows 10: Fixes When Your Sound Volume Stops Responding</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-scriptsmiths-network-for-2024/"><u>Ultimate Scriptsmiths Network for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-advanced-tracking-capabilities-using-cookiebot-technology/"><u>Unlock Advanced Tracking Capabilities Using Cookiebot Technology</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-you-should-get-an-apple-watch-6-persuasive-arguments-by-industry-expert-featured/"><u>Why You Should Get an Apple Watch: 6 Persuasive Arguments by Industry Expert, Featured</u></a></li>
+</ul></div>
+

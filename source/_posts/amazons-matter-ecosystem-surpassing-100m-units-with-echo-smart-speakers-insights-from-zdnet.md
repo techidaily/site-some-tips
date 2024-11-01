@@ -1,7 +1,7 @@
 ---
 title: "Amazon's Matter-Ecosystem: Surpassing 100M Units with Echo Smart Speakers - Insights From ZDNet"
-date: 2024-09-18 14:24:18
-updated: 2024-09-20 10:43:16
+date: 2024-10-29T00:40:20.556Z
+updated: 2024-11-01T03:48:47.487Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -43,6 +50,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -50,6 +64,13 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Sign in to your existing Amazon Prime account
 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-recording-techniques-for-stellar-voice-over-audio/"><u>[New] Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-intellects-ultimate-guide-to-premium-gk-quiz-sites/"><u>[Updated] In 2024, Intellect's Ultimate Guide to Premium GK Quiz Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reel-in-rave-6-top-rated-music-video-apps-for-android/"><u>[Updated] Reel in Rave 6 Top-Rated Music Video Apps for Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ifunny-meme-journey-downloading-made-easy/"><u>[Updated] The iFunny Meme Journey Downloading Made Easy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect/"><u>[Updated] Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smooth-operation-seamless-addition-of-linktree-to-tiktok-bios/"><u>2024 Approved Smooth Operation Seamless Addition of Linktree to TikTok Bios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-replaying-twitch-live-streams/"><u>2024 Approved The Art of Replaying Twitch Live Streams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-users-manual-to-mac-dvd-burning/"><u>2024 Approved The Complete User's Manual to Mac DVD Burning</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-zoomers-guide-to-enhancing-call-quality-with-filters/"><u>2024 Approved The Zoomer's Guide to Enhancing Call Quality with Filters</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 4G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-optimal-series-prime-webcam-support-accessories/"><u>In 2024, Optimal Series Prime Webcam Support Accessories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>In 2024, Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tactics-for-flawless-solo-streaming-experiences/"><u>In 2024, Top Tactics for Flawless Solo Streaming Experiences</u></a></li>
+</ul></div>
+

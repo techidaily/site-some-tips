@@ -1,7 +1,7 @@
 ---
 title: "Temu and Consumer Trust: How Its Basic Security Measures Could Deter Buyers | ZDNet"
-date: 2024-09-18 14:31:53
-updated: 2024-09-20 12:52:56
+date: 2024-10-26T10:31:17.580Z
+updated: 2024-10-31T16:07:50.410Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +79,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-a-step-by-step-guide-to-professionalizing-your-personal-brand-on-fb-stories/"><u>[New] 2024 Approved A Step-by-Step Guide to Professionalizing Your Personal Brand on FB Stories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>[New] Capturing Clarity Best Practices for iPhone Photo Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-conversion-selecting-the-top-10-free-tools/"><u>[New] Streamline Conversion Selecting the Top 10 Free Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-with-these-14-exceptional-text-animations/"><u>[New] Unleash Creativity with These 14 Exceptional Text Animations</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-steps-to-record-your-macbooks-display/"><u>[Updated] In 2024, Essential Steps to Record Your MacBook's Display</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transforming-your-videography-from-monochrome-to-high-dynamic-range-masterpieces/"><u>[Updated] Transforming Your Videography From Monochrome to High-Dynamic Range Masterpieces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-world-in-a-whole-view-video-edition/"><u>2024 Approved Unveiling the World in a Whole View Video Edition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y55s-5g-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y55s 5G (2023) Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach Integrating Typefaces in AE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-user-friendly-budget-optimizing-passport-photo-creators/"><u>In 2024, Top 10 User-Friendly, Budget-Optimizing Passport Photo Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-visual-and-auditory-impact-in-windows-10-photos-app-for-2024/"><u>Maximize Visual & Auditory Impact in Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-gta-5-not-starting-expert-tips-and-tricks/"><u>Overcoming GTA 5 Not Starting - Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-quest-for-superior-video-playback-software-for-2024/"><u>The Quest for Superior Video Playback Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-key-strategies-for-acquiring-youtube-srt-files-for-2024/"><u>Three Key Strategies for Acquiring YouTube SRT Files for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-choice-in-tablets-a-comprehensive-review-of-the-apple-ipad-air-with-m2-chip-why-it-stands-out/"><u>Top Choice in Tablets: A Comprehensive Review of the Apple iPad Air with M2 Chip - Why It Stands Out!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-idevice-video-recording-guide-for-2024/"><u>Ultimate iDevice Video Recording Guide for 2024</u></a></li>
+</ul></div>
+

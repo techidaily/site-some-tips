@@ -1,7 +1,7 @@
 ---
 title: Apple's 'Let Loose' Presentation - A Comprehensive Overview of Revolutionary Tablets Featuring the M4 iPad Pro and Updated 13-Inch iPad Air with Improved Apple Pencil, as Covered by ZDNET
-date: 2024-10-19T19:20:40.755Z
-updated: 2024-10-26T17:14:24.218Z
+date: 2024-10-29T23:58:03.946Z
+updated: 2024-11-01T04:15:36.292Z
 tags:
   - apple
 categories:
@@ -47,19 +47,6 @@ These AirPods can be separated into entry-level and mid-tier categories, with th
 
 Screenshot by Kayla Solino/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. You love your AirPods (2nd generation) but want some upgrades
 
 If you like the simplicity of the second-generation AirPods but think it's time for an upgrade, the entry-level AirPods 4 are for you. Like the second-generation AirPods, the [entry-level AirPods 4](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) don't have active noise cancellation or Transparency Mode. However, they debut with spatial audio, making music, movie-watching, and mobile gaming more immersive.
@@ -67,6 +54,13 @@ If you like the simplicity of the second-generation AirPods but think it's time 
 **Also: [I used my iPhone 15 Pro without a case for a year. Here's how it looks today](https://www.zdnet.com/article/i-used-my-iphone-15-pro-without-a-case-for-a-year-heres-how-it-looks-today/)**
 
 Regarding upgrades, the AirPods 4's charging case delivers six more hours of battery life than the second-generation AirPods. Additionally, the AirPods 4's charging case supports USB-C charging and has an IP54 dust and water resistance rating. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. You want the most affordable option
 
@@ -79,10 +73,10 @@ The entry-level AirPods are cheaper than the AirPods 4 mid-tier model and the Ai
 Screenshot by Kayla Solino/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. The AirPods Pro 2 have too many features you'll never use
@@ -94,10 +88,10 @@ The AirPods Pro 2 are Apple's most advanced earbuds, offering an array of audio 
 The AirPods 4 with active noise cancellation have noise-canceling and transparency modes, spatial audio with dynamic head tracking, and an IP54 water and dust resistance rating. The charging case is USB-C and wireless charging compatible. However, the mid-tier AirPods 4 have one less hours of continuous playback than the AirPods 3.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want the "just right" AirPods
@@ -111,10 +105,10 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 [Preorder the AirPods 4 with active noise cancellation View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-airpods%2Fairpods-4%2Fwith-active-noise-cancellation&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -151,24 +145,24 @@ You can think of the AirPods 4 with noise cancellation as the "Goldilocks" AirPo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-gopro-hero4-black-vs-drift-ghost-s/"><u>[Updated] GoPro Hero4 Black VS Drift Ghost-S</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-performance-and-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Performance and User Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebot-the-ultimate-powering-tool-for-your-digital-marketing-success/"><u>Cookiebot: The Ultimate Powering Tool for Your Digital Marketing Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cookiebots-innovative-technology-drives-digital-marketing-success-and-engagement-optimization/"><u>Cookiebot's Innovative Technology Drives Digital Marketing Success and Engagement Optimization</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-new-magicard-rio-pro-driver-compatible-with-windows-10-81-and-7/"><u>Download the New Magicard Rio Pro Driver: Compatible with Windows 10, 8.1 & 7</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhance-user-experience-and-conversions-through-cookiebot-driven-optimization/"><u>Enhance User Experience & Conversions Through Cookiebot-Driven Optimization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-conversion-rates-via-cutting-edge-cookiebot-analytics-tools/"><u>Enhanced Conversion Rates via Cutting-Edge Cookiebot Analytics Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-securely-wipe-personal-info-from-your-iphone-or-ipad-anywhere/"><u>Guide: Securely Wipe Personal Info From Your iPhone or iPad Anywhere</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y27-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y27 5Gwith/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/1716809739141-in-2024-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>In 2024, How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-and-update-the-canon-lide-120-scanner-software-for-optimal-performance/"><u>Install and Update the Canon LIDE 120 Scanner Software for Optimal Performance</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/reviving-your-iphone-six-proven-techniques-to-resurrect-the-dead-screen/"><u>Reviving Your iPhone: Six Proven Techniques to Resurrect the Dead Screen</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-poco-m6-pro-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unveil-the-power-of-storytelling-in-your-facebook-bio-for-2024/"><u>Unveil the Power of Storytelling in Your Facebook Bio for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-superior-text-styling-methods/"><u>[New] In 2024, Superior Text Styling Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] The Power of Quantum HDR in Visual Arts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-jokecrafters-generate-smiles-app/"><u>[Updated] JokeCrafters Generate Smiles (App)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-collection-of-10-inspirational-movies/"><u>[Updated] The Ultimate Collection of 10 Inspirational Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-top-5-iphone-podcast-software/"><u>[Updated] The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-zero-cost-image-amplifier-desktopmobile-edition/"><u>[Updated] Top Zero-Cost Image Amplifier Desktop/Mobile Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-tune-makers-for-iphone-users/"><u>2024 Approved Superior Tune Makers for iPhone Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-mac-exclusive-free-drawing-platforms/"><u>2024 Approved Top 10 Mac-Exclusive Free Drawing Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-captivating-puzzle-quests-akin-to-the-room-and-myst-for-your-apple-device/"><u>Discover Captivating Puzzle Quests Akin to 'The Room' & 'Myst' For Your Apple Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/edit-your-way-to-perfection-with-android/"><u>Edit Your Way to Perfection with Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1715860438761-in-2024-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>In 2024, Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10).</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-xs-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone XS Max Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tamil-ringtone-downloads-essential-websites-and-tricks/"><u>In 2024, Top Tamil Ringtone Downloads Essential Websites and Tricks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>In 2024, Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-your-finances-an-introductory-tutorial-on-using-excel-for-monetary-planning/"><u>Mastering Your Finances: An Introductory Tutorial on Using Excel for Monetary Planning</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-subtitle-installation-in-wmp-easily-for-2024/"><u>Navigate Subtitle Installation in WMP Easily for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-solutions-for-users-facing-pacifica-drive-launch-problems/"><u>Quick Solutions for Users Facing Pacifica Drive Launch Problems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-finest-hd-screenshot-and-recording-software-for-2024/"><u>The Finest HD Screenshot and Recording Software for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-voice-windows-10-audio-basics-for-2024/"><u>Unleashing Voice Windows 10 Audio Basics for 2024</u></a></li>
 </ul></div>
 

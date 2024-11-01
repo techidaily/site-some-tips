@@ -1,7 +1,7 @@
 ---
 title: "Sign Up for Amazon's New Pay-By-Touch Option Via Call: The Convenient Path to Shopping Easy | eCommerce News"
-date: 2024-09-17 19:40:15
-updated: 2024-09-20 10:12:15
+date: 2024-10-26T00:59:53.964Z
+updated: 2024-11-01T11:50:58.964Z
 tags:
   - e-commerce
 categories:
@@ -57,6 +57,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -71,13 +78,34 @@ If you want to join Prime Student and don't have an account, you will need to si
 
 ## FAQs  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,30 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-the-emoticon-experts-guide-to-capturing-and-preserving-twitters-gif-images/"><u>[New] 2024 Approved The Emoticon Expert’s Guide to Capturing and Preserving Twitter's GIF Images</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beating-the-heat-substitutes-for-xsplit-for-2024/"><u>[New] Beating the Heat Substitutes for XSplit for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-swift-tweeting-solutions-with-video-conversion/"><u>[New] Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hidden-techniques-for-private-anonymous-instagram-live-participation/"><u>[Updated] The Hidden Techniques for Private, Anonymous Instagram Live Participation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-4-sites-for-free-skype-tones/"><u>2024 Approved Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comparing-malwarebytes-is-the-premium-edition-worth-the-extra-cost-over-free/"><u>Comparing Malwarebytes: Is the Premium Edition Worth the Extra Cost Over Free?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y27-4g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y27 4G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/features-face-off-decoding-the-distinctions-between-iphone-15-pro-and-pro-max-models/"><u>Features Face-Off: Decoding the Distinctions Between iPhone 15 Pro & Pro Max Models</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-the-affordable-20-anker-power-bank-overcomes-common-issues-with-portable-chargers-insights/"><u>How the Affordable $20 Anker Power Bank Overcomes Common Issues with Portable Chargers | Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-xiaomi-redmi-note-12t-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Xiaomi Redmi Note 12T Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c12-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C12 Lock Screen Password</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-selecting-android-and-ios-clocks-for-weddings/"><u>In 2024, The Ultimate Guide to Selecting Android and iOS Clocks for Weddings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-newbies-guide-to-understanding-core-filming-techniques-for-2024/"><u>The Newbie's Guide to Understanding Core Filming Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-closure-in-cyberspace-quest-for-2024/"><u>Unmatched Closure in Cyberspace Quest for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/venture-into-virtual-reality-with-top-mobile-headsets-for-2024/"><u>Venture Into Virtual Reality with Top Mobile Headsets for 2024</u></a></li>
+</ul></div>
+

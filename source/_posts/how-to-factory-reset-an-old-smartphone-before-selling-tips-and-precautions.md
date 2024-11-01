@@ -1,7 +1,7 @@
 ---
 title: How to Factory Reset an Old Smartphone Before Selling - Tips & Precautions
-date: 2024-09-19 20:44:31
-updated: 2024-09-20 10:47:49
+date: 2024-10-27T23:41:30.789Z
+updated: 2024-10-31T21:22:43.229Z
 tags:
   - e-commerce
 categories:
@@ -32,6 +32,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -69,11 +76,32 @@ Screenshot by Sabrina Ortiz/ZDNET
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-straightforward-approach-to-mastering-simple-hdr-techniques/"><u>[New] In 2024, Straightforward Approach to Mastering Simple HDR Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mobile-mastery-high-shots-with-your-smartphone/"><u>[Updated] Mobile Mastery High Shots with Your Smartphone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-edge-boost-your-tiktok-impact/"><u>[Updated] The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-radiowave-plays/"><u>[Updated] Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>2024 Approved Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-uavs-the-basics-of-drone-operations/"><u>2024 Approved Unveiling UAVs The Basics of Drone Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-showdown-how-does-mistral-ais-le-chat-measure-up-to-chatgpt/"><u>Chatbot Showdown: How Does Mistral AI's Le Chat Measure Up to ChatGPT?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-insight-visionpro-x-review-the-2023-edition-explored-for-2024/"><u>Complete Insight VisionPro X Review – The 2023 Edition Explored for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-your-experience-with-youtube-tv/"><u>In 2024, Maximizing Your Experience with YouTube TV</u></a></li>
+<li><a href="https://some-tips.techidaily.com/symphonic-selection-ideal-websites-for-ringtones-for-2024/"><u>Symphonic Selection Ideal Websites for Ringtones for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-evolution-of-setting-in-video-games-a-focused-look-at-ubisofts-watch-dogs-legion/"><u>The Evolution of Setting in Video Games: A Focused Look at Ubisoft's Watch Dogs: Legion</u></a></li>
+</ul></div>
+

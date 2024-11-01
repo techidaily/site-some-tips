@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Amazon Alexa: Get Alerts for Exclusive October Prime Day Savings - Tips From ZDNet"
-date: 2024-09-18 22:53:54
-updated: 2024-09-20 11:40:16
+date: 2024-10-25T10:35:50.004Z
+updated: 2024-11-01T11:52:39.276Z
 tags:
   - e-commerce
 categories:
@@ -51,11 +51,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -78,6 +99,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +132,28 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-dive-deep-into-vivacut-editor-review-and-tutorial-for-2024/"><u>[New] Dive Deep Into VivaCut Editor Review & Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/potlight-secrets-perfecting-vlogger-lights-for-2024/"><u>[New] Spotlight Secrets Perfecting Vlogger Lights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-strategies-maximizing-efficiency-in-windows-10/"><u>[New] Top Strategies Maximizing Efficiency in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-androids-best-music-video-apps/"><u>[Updated] The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tips-for-applying-luts-in-film-color-grading/"><u>[Updated] Tips for Applying LUTs in Film Color Grading</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-tips-for-unlocking-youtube-video-comments/"><u>[Updated] Tips for Unlocking YouTube Video Comments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-x-ology-vintage-iphone-xx-photography-for-2024/"><u>[Updated] X-Ology Vintage iPhone Xx Photography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-video-guide-to-hairstyles/"><u>2024 Approved Ultimate Video Guide to Hairstyles</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-co-creating-video-marketing-with-brand-participants/"><u>In 2024, Co-Creating Video Marketing with Brand Participants</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-navigating-copyright-concerns-in-screencasting-youtube-videos/"><u>In 2024, Navigating Copyright Concerns in Screencasting YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-inter-service-playlist-shuffling-with-ease-for-2024/"><u>Navigating Inter-Service Playlist Shuffling with Ease for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/smart-choices-affordable-white-motherboards/"><u>Smart Choices: Affordable White Motherboards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use-for-2024/"><u>The Artisan's Approach to Gathering Stock Visuals for Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-dynamic-image-backdrops-viewer-for-2024/"><u>Top 10 Dynamic Image Backdrops Viewer for 2024</u></a></li>
+</ul></div>
+

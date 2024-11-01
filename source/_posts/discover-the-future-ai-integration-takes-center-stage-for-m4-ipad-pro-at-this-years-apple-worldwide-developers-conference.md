@@ -1,7 +1,7 @@
 ---
 title: "Discover the Future: AI Integration Takes Center Stage for M4 iPad Pro at This Year’s Apple Worldwide Developers Conference"
-date: 2024-10-22T18:48:03.843Z
-updated: 2024-10-26T17:36:06.221Z
+date: 2024-10-26T08:32:50.746Z
+updated: 2024-11-01T00:47:50.424Z
 tags:
   - apple
 categories:
@@ -60,6 +60,13 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -69,10 +76,10 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,13 +100,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -114,13 +114,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -132,10 +125,10 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -165,6 +158,13 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,20 +218,17 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>[New] In 2024, Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-twisting-tales-in-photography-the-ultimate-guide-to-angled-spins-on-digital-platforms/"><u>[New] In 2024, Twisting Tales in Photography The Ultimate Guide to Angled Spins on Digital Platforms</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nnovative-discussion-themes-for-vloggers/"><u>[New] Innovative Discussion Themes for Vloggers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>[New] The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unexplored-instagram-tricks-for-enhanced-engagement-for-2024/"><u>[New] Unexplored Instagram Tricks for Enhanced Engagement for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-effortless-voice-memo-recording-on-your-iphone/"><u>[Updated] Effortless Voice Memo Recording on Your iPhone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-decoding-the-full-scope-of-obs-screen-recorder/"><u>[Updated] In 2024, Decoding the Full Scope of OBS Screen Recorder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-picks-amplifying-vhs-pictures-via-computer-software/"><u>[Updated] Top Picks Amplifying VHS Pictures via Computer Software</u></a></li>
-<li><a href="https://fox-http.techidaily.com/discreet-audio-modulation-strategies-with-audacity/"><u>Discreet Audio Modulation Strategies with Audacity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/te-your-edits-a-selection-of-top-9-free-software-choices/"><u>Elevate Your Edits A Selection of Top 9 Free Software Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>In 2024, Unveiling Windows 11 A Compreayer to Master Video Editing Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac-for-2024/"><u>The Ultimate Guide to Leveraging Preview Capabilities on a Mac for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-action-camera-selection-under-100-for-2024/"><u>Ultimate Action Camera Selection Under $100 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-dac-should-it-be-part-of-your-audio-setup/"><u>Understanding DAC: Should It Be Part of Your Audio Setup?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-magix-clip-studio-for-2024/"><u>Unveiling the Power of MAGIX Clip Studio for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-best-vr-equipment-enhancing-flight-control/"><u>[New] 2024 Approved Best VR Equipment Enhancing Flight Control</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-detailed-review-of-the-sony-fdr-x1000-action-camera-for-2024/"><u>[New] Detailed Review of the Sony FDR-X1000 Action Camera for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-on-screen-the-top-15-in-stop-motion-cinema/"><u>[Updated] Excellence on Screen The Top 15 in Stop Motion Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>2024 Approved Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>2024 Approved The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-90-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor 90 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-angle-alchemists-guide-to-transforming-your-videos-youtube-edition/"><u>In 2024, The Angle Alchemist's Guide to Transforming Your Videos (YouTube Edition)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-video-streams-across-networks-using-vlc-for-2024/"><u>Navigating Video Streams Across Networks Using VLC for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/oculus-expense-for-facebook-users-to-regain-access-post-hack/"><u>Oculus Expense for Facebook Users to Regain Access Post-Hack</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/swift-and-reliable-acquire-the-latest-pioneer-dj-ddj-sx2-controller-driver-today/"><u>Swift and Reliable: Acquire the Latest Pioneer DJ DDJ-SX2 Controller Driver Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-the-power-of-online-livestreams-with-us-today-for-2024/"><u>Unleash the Power of Online Livestreams with Us Today for 2024</u></a></li>
 </ul></div>
 

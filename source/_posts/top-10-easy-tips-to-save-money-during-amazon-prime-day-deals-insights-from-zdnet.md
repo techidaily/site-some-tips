@@ -1,7 +1,7 @@
 ---
 title: Top 10 Easy Tips to Save Money During Amazon Prime Day Deals - Insights From ZDNet
-date: 2024-09-18 13:39:10
-updated: 2024-09-20 12:25:27
+date: 2024-10-27T00:20:43.883Z
+updated: 2024-11-01T12:40:57.107Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -51,11 +58,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-io-scanner-insiders-handbook/"><u>[New] In 2024, The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>[New] Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[New] Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[Updated] The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>[Updated] The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-uncover-the-secrets-of-your-off-facebook-life-with-us/"><u>[Updated] Uncover the Secrets of Your Off-Facebook Life with Us</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>[Updated] Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>2024 Approved The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpod-setup-on-hp-laptops-the-ultimate-walkthrough/"><u>AirPod Setup on HP Laptops - The Ultimate Walkthrough</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bridging-the-gap-between-android-and-windows-webcams/"><u>Bridging the Gap Between Android and Windows Webcams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/check-your-youtube-channels-for-accurate-monetization-practices/"><u>Check Your YouTube Channels for Accurate Monetization Practices</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-solving-the-mystery-of-a-malfunctioning-wacom-drawing-tablet/"><u>Expert Guide: Solving the Mystery of a Malfunctioning Wacom Drawing Tablet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-gentle-volume-declines-in-premiere-pro-videos/"><u>In 2024, Crafting Gentle Volume Declines in Premiere Pro Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>In 2024, The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tackling-the-top-6-car-ai-snags-head-on-your-step-by-step-guide/"><u>Tackling the Top 6 Car AI Snags Head On: Your Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-poco-c65-by-drfone-android/"><u>Three Ways to Sim Unlock Poco C65</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-interfaces-unveiled-the-podcasters-must-have-list-for-2024/"><u>Top Audio Interfaces Unveiled The Podcaster's Must-Have List for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-windows-10-tips-for-maximum-productivity/"><u>Top Windows 10 Tips For Maximum Productivity</u></a></li>
+</ul></div>
+

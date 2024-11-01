@@ -1,7 +1,7 @@
 ---
 title: "Southwest Airline's New Request: Could Leave Passengers In Stitches - ZDNet"
-date: 2024-09-18 18:46:35
-updated: 2024-09-20 12:48:19
+date: 2024-10-27T17:55:31.189Z
+updated: 2024-11-01T00:44:02.178Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,19 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -45,17 +58,44 @@ If you're a student with an existing Amazon Prime account but without the Prime 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Visit the Prime Student Page
 
 Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1), where you will be presented with options to start your free six-month trial. You can then select the option that works best for you, either verifying your age or student status. Then, click on the big yellow button that reads, "Try Prime Student." 
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +144,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-direct-match-twitchs-battle-against-youtubes-dominance/"><u>[New] In 2024, Direct Match Twitch's Battle Against YouTube's Dominance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-battery-selection-guide-for-uavs/"><u>[New] The Ultimate Battery Selection Guide for UAVs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-exploring-no-cost-cam-screens-reviews-and-high-alternatives/"><u>[Updated] 2024 Approved Exploring No-Cost Cam Screens Reviews & High Alternatives</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-perfecting-your-tiktok-content-utilizing-templates-to-enhance-videos/"><u>2024 Approved Perfecting Your TikTok Content Utilizing Templates to Enhance Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>2024 Approved Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/camera-for-videos-mirrorless-vs-dslr-showdown-for-2024/"><u>Best Camera for Videos Mirrorless Vs. DSLR Showdown for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722973214798-fire-suppression-systems-are-designed-based-on-a-thorough-risk-assessment-of-the-protected-space/"><u>Fire Suppression Systems Are Designed Based on a Thorough Risk Assessment of the Protected Space</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-quick-start-to-clear-background-filming/"><u>In 2024, Quick Start to Clear Background Filming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-syncing-strategy-post-videos-between-platforms/"><u>In 2024, Social Syncing Strategy Post Videos Between Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-most-massive-lifting-machines-in-the-sky/"><u>In 2024, The Most Massive Lifting Machines in the Sky</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-livestream-networks-you-need-to-watch/"><u>In 2024, The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-perfected-framing-implementing-letterboxing-on-social-media/"><u>Tips for Perfected Framing Implementing Letterboxing on Social Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tying-the-story-together-expert-techniques-for-inshots-seamless-segments-for-2024/"><u>Tying the Story Together Expert Techniques for Inshot's Seamless Segments for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Stay Connected Effortlessly: Sending Messages From Your Apple Watch"
-date: 2024-10-21T16:20:13.635Z
-updated: 2024-10-26T16:34:36.191Z
+date: 2024-10-25T09:49:39.425Z
+updated: 2024-11-01T00:54:46.949Z
 tags:
   - apple
 categories:
@@ -40,13 +40,6 @@ Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
 From the Wallet app, tap on the + (plus) sign at the top right of your screen to add a card. Then, choose the type of card you're adding; if it's a payment method, select Debit or Credit Card. The other options are for Transit Cards and [Driver's License](https://www.zdnet.com/article/how-to-add-your-drivers-license-to-the-apple-wallet-app/) or [State ID](https://www.zdnet.com/article/apple-adds-drivers-licenses-state-ids-to-apple-wallet/), and are limited to a few states within the US.
@@ -77,6 +70,13 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -100,10 +100,10 @@ Apple
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -121,23 +121,9 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -149,6 +135,13 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -158,10 +151,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
@@ -177,6 +170,13 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,22 +212,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-choosing-your-stage-obs-or-twitch-pro-for-2024/"><u>[New] Choosing Your Stage OBS or Twitch Pro for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlock-the-art-of-recording-all-your-hulu-content-for-2024/"><u>[New] Unlock the Art of Recording All Your Hulu Content for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/2024s-leading-stylus-tablets-ranking-in-depth-analysis-and-expert-evaluation/"><u>2024'S Leading Stylus Tablets Ranking: In-Depth Analysis and Expert Evaluation</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-comparison-7-zip-vs-winrar-vs-winzip-determining-the-best-archive-tool/"><u>Comprehensive Comparison: 7-Zip vs WinRAR vs WinZip - Determining the Best Archive Tool</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gratuit-online-avi-files-naar-wma-omzetten-korting-movavi/"><u>Gratuit Online AVI-Files Naar WMA Omzetten - Korting Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y27s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y27s to iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>In 2024, Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-100-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor 100 Phones with/without a PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/m2ts-para-mkv-conversao-online-gratuita-com-a-ferramenta-de-software-movavi/"><u>M2TS Para MKV: Conversão Online Gratuita Com a Ferramenta De Software Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-oferece-uma-ferramenta-de-conversao-gratuita-flac-to-ogg-online-faca-o-upgrade/"><u>Movavi Oferece Uma Ferramenta De Conversão Gratuita FLAC to OGG Online - Faça O Upgrade!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavi-product-distribution-and-returns-policy-comprehensive-guide/"><u>Movavi Product Distribution & Returns Policy - Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-gratuite-jpg-to-tiff-conversie-met-movavi-beste-praktiken-ervaren/"><u>Online Gratuite JPG-to-TIFF-Conversie Met Movavi - Beste Praktiken Ervaren!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-13-ecran-screen-capture-sensors-pour-tous-les-appareils-selection-de-movavi/"><u>Top 13 Écran Screen Capture Sensors Pour Tous Les Appareils | Sélection De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transcoding-made-easy-convert-ogv-videos-to-wmv-for-free-using-movavis-web-service/"><u>Transcoding Made Easy: Convert OGV Videos to WMV for Free Using Movavi's Web Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>[New] Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-top-5-low-weight-action-recorders-list/"><u>[Updated] Ultimate Top 5 Low-Weight Action Recorders List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-screensnatchers-guide-to-beautifully-free-bgs-on-tiktok/"><u>2024 Approved ScreenSnatchers' Guide to Beautifully Free BGs on TikTok</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-error-0x8007000d-on-pcs/"><u>Deciphering and Remedying 'Error 0X8007000D' On PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superior-vector-file-polishing/"><u>In 2024, Superior Vector File Polishing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>In 2024, The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k24-troubleshooting-overcoming-error-code-727e66ac-expert-tips-and-solutions/"><u>NBA 2K24 Troubleshooting: Overcoming Error Code 727E66ac - Expert Tips & Solutions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-list-of-free-bgm-music-streaming-sites-updated/"><u>New In 2024, The Ultimate List of Free BGM Music Streaming Sites, Updated</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/stream-it-record-it-facebook-live-tips-and-tricks/"><u>Stream It, Record It Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-art-of-crafting-captivating-facebook-stories/"><u>The Art of Crafting Captivating Facebook Stories</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-green-screen-whats-the-best-software-for-you-for-2024/"><u>Updated Mac Green Screen Whats the Best Software for You for 2024</u></a></li>
 </ul></div>
 

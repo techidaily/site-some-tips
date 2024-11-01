@@ -1,7 +1,7 @@
 ---
 title: Need a Last-Minute Gift? Shop at These On-Time Delivery Stores! | ZDNET
-date: 2024-09-18 23:39:12
-updated: 2024-09-20 10:42:43
+date: 2024-10-29T00:53:05.745Z
+updated: 2024-11-01T05:45:18.428Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -44,6 +58,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -70,6 +91,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-abbreviated-film-dialogue-scheme/"><u>[New] Abbreviated Film Dialogue Scheme</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-virtual-reality-with-top-bike-simulators/"><u>[New] Mastering Virtual Reality with Top Bike Simulators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-footage-a-comprehensive-guide-to-gopros-color-adjustment/"><u>[New] Tailoring Your Footage A Comprehensive Guide to GoPro's Color Adjustment</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-no-budget-big-fun-youtube-vids-as-tweets-gifs/"><u>[Updated] 2024 Approved No Budget, Big Fun YouTube Vids as Tweets' GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-untangling-box-mystery-ideas-to-boost-joy/"><u>[Updated] Untangling Box Mystery Ideas to Boost Joy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-camera-prospectus-ranking-the-top-5-superior-motion-cameras/"><u>2024 Approved Camera Prospectus Ranking the Top 5 Superior Motion Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlined-savings-for-cloud-storage-costs-analysis/"><u>2024 Approved Streamlined Savings for Cloud Storage Costs Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-asmrs-health-perks/"><u>2024 Approved Understanding ASMR's Health Perks</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-work-related-prospects-with-savvy-facebook-techniques/"><u>Boosting Work-Related Prospects with Savvy Facebook Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-streamline-your-social-media-find-facebook-watched-videos-easily/"><u>In 2024, Streamline Your Social Media Find Facebook Watched Videos Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-8-ultimate-4k-blu-ray-playback-units-reviewed/"><u>In 2024, Top 8 Ultimate 4K Blu-Ray Playback Units Reviewed</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/issue-resolved-itunes-failed-iphone-backup-successfully-completed/"><u>Issue Resolved: ITunes Failed iPhone Backup Successfully Completed</u></a></li>
+</ul></div>
+

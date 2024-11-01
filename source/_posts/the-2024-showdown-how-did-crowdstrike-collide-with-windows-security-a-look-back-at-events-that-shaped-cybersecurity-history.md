@@ -1,7 +1,7 @@
 ---
 title: "The 2024 Showdown: How Did CrowdStrike Collide With Windows Security? A Look Back at Events That Shaped Cybersecurity History"
-date: 2024-10-19T17:59:45.602Z
-updated: 2024-10-26T19:29:14.718Z
+date: 2024-10-30T07:10:14.701Z
+updated: 2024-11-01T04:08:11.732Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,22 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-inshot-evaluation-how-it-stacks-up-in-editing-arena/"><u>[New] In 2024, InShot Evaluation How It Stacks Up in Editing Arena?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-turn-zip-into-srt-a-step-by-step-conversion-process/"><u>[New] Turn ZIP Into SRT A Step-by-Step Conversion Process</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-quality-quest-deciphering-the-superior-video-format/"><u>2024 Approved Quality Quest Deciphering the Superior Video Format</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-best-sites-for-downloading-youtube-template-videos/"><u>2024 Approved Top 10 Best Sites for Downloading YouTube Template Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-metaverse-content-creators-and-their-hilarity/"><u>2024 Approved Top Metaverse Content Creators & Their Hilarity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-rotation-video-setup/"><u>2024 Approved Ultimate Rotation Video Setup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-htc-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from HTC .</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-distort-pic-using-different-tools/"><u>How to Distort Pic Using Different Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-g310-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia G310 Pattern Lock Screen</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-beginners-blueprint-mastering-telegram-web/"><u>In 2024, The Beginner's Blueprint Mastering Telegram Web</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-video-broadcaster-alternatives/"><u>In 2024, The Complete Guide to Video Broadcaster Alternatives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-iphones-full-podcast-potential/"><u>In 2024, Unlocking iPhone's Full Podcast Potential</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-sony-w800-durability-and-budget-fit/"><u>In-Depth Analysis: Sony W800 Durability & Budget Fit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nostalgic-film-techniques-for-contemporary-projects-using-vhs/"><u>Nostalgic Film Techniques for Contemporary Projects Using VHS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-power-of-creativity-magix-video-pro-x-demystified-for-2024/"><u>The Power of Creativity Magix Video Pro X Demystified for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-incremental-volume-reduction-in-pro-video-editing/"><u>[New] Techniques for Incremental Volume Reduction in Pro Video Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-selecting-podcasts-for-iphone-devices/"><u>[New] The Art of Selecting Podcasts for iPhone Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-filmmakers-ally-expert-advice-for-video-creation-in-windows-10/"><u>[New] The Filmmaker's Ally Expert Advice for Video Creation in Windows 10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortlessly-replay-videos-on-iphone/"><u>[Updated] 2024 Approved Effortlessly Replay Videos on iPhone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-digital-footprint-crafting-compelling-shorts-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Digital Footprint Crafting Compelling Shorts Thumbnails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-slug-lines-for-content-engagement/"><u>[Updated] Leveraging Slug Lines for Content Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-finding-no-cost-image-frame-films/"><u>[Updated] Techniques for Finding No-Cost Image Frame Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>2024 Approved Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oneplus-nord-ce-3-lite-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus Nord CE 3 Lite 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-g22-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia G22 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-diving-deep-into-whatsapps-vocal-messaging-experience/"><u>In 2024, Diving Deep Into WhatsApp's Vocal Messaging Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016832569-noise-loss-on-astro-a50-here-are-quick-remedies/"><u>Noise Loss on Astro A50? Here Are Quick Remedies!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-blur-apps-for-clearer-phone-images/"><u>The Ultimate Blur Apps for Clearer Phone Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-combining-zoom-and-fb-live-for-2024/"><u>The Ultimate Guide to Combining ZOOM & FB Live for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/twister-timber-titmice-for-2024/"><u>Twister Timber Titmice for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unpurchasing Your Apple Vision Pro? Follow These Simple Steps!
-date: 2024-10-19T18:21:22.321Z
-updated: 2024-10-26T18:23:32.515Z
+date: 2024-10-30T06:03:33.706Z
+updated: 2024-10-31T20:37:43.845Z
 tags:
   - apple
 categories:
@@ -54,9 +54,29 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##   
 
@@ -68,16 +88,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##   
 
@@ -98,10 +118,10 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -124,13 +144,6 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -140,19 +153,6 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -193,24 +193,14 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-drone-design-changes-experiment-for-free-subscribe-for-paid-access/"><u>[New] 2024 Approved Drone Design Changes - Experiment for Free, Subscribe for Paid Access</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-compreenasional-path-to-post-perfection-instagram-video-upload-from-pcmac/"><u>[New] In 2024, The Compreenasional Path to Post-Perfection Instagram Video Upload From PC/Mac</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-shake-up-your-streams-xplit-alternatives-explored/"><u>[New] Shake Up Your Streams Xplit-Alternatives Explored</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-creative-entrepreneurs-handbook-in-design/"><u>[New] The Creative Entrepreneur's Handbook in Design</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instacapture-the-ultimate-download-toolkit-unveiled-for-2024/"><u>[Updated] InstaCapture The Ultimate Download Toolkit Unveiled for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-challenge-away-from-grand-theft-for-2024/"><u>[Updated] The Ultimate Challenge Away From Grand Theft for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secret-seeing-popular-youtube-reactions/"><u>[Updated] Unveiling the Secret Seeing Popular YouTube Reactions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-hubs-for-finding-googles-ad-sponsors-on-video/"><u>2024 Approved Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-drone-photographers-stabilization-companion/"><u>2024 Approved The Drone Photographer's Stabilization Companion</u></a></li>
-<li><a href="https://blog-min.techidaily.com/experience-cinematic-excellence-top-10-best-3d-movies-available-on-bluray-and-streaming-for-a-premier-at-home-viewing-experience/"><u>Experience Cinematic Excellence: Top 10 Best 3D Movies Available on Bluray & Streaming for a Premier At-Home Viewing Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-effortlessly-converted-gif-to-professional-videos-online/"><u>In 2024, Top 5 Effortlessly Converted GIF to Professional Videos Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-6-online-background-cleansers-for-pristine-photo-edits/"><u>In 2024, Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-dji-mavic-3-a-new-era-in-drone-cinematography/"><u>In Depth Analysis of the DJI Mavic 3 - A New Era in Drone Cinematography</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-depth-examination-hero4-black-innovation-for-2024/"><u>In-Depth Examination Hero4 Black Innovation for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-detailed-guide-on-video-speech-to-text-conversion/"><u>New In 2024, Detailed Guide on Video Speech to Text Conversion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-intelligence-unveiling-apples-latest-ai-advancements-and-their-capabilities-insights/"><u>Revolutionizing Intelligence: Unveiling Apple's Latest AI Advancements and Their Capabilities - Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-clean-image-borders-on-canva-for-2024/"><u>The Ultimate Guide to Clean Image Borders on Canva for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-selection-economical-hd-action-recordings-for-2024/"><u>Ultimate Selection Economical HD Action Recordings for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveil-top-8-sites-providing-free-download-of-3d-text-psdfiles-for-2024/"><u>Unveil Top 8 Sites Providing Free Download of 3D Text PSDFiles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-for-engaging-type-animations/"><u>[New] Ultimate Choice for Engaging Type Animations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-elite-set-of-android-photoshoppers/"><u>[Updated] The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>2024 Approved Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-affordable-vector-art-websites/"><u>2024 Approved Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-the-ultimate-portability-test-drive-the-latest-ampace-andes-1500-power-station/"><u>Experience the Ultimate Portability: Test Drive the Latest Ampace Andes 1500 Power Station</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-the-use-of-custom-gifs-in-your-instagram-stories/"><u>In 2024, Mastering the Use of Custom GIFs in Your Instagram Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-take-control-of-your-tiktok-videos-learn-numeric-editing-techniques/"><u>In 2024, Take Control of Your TikTok Videos Learn Numeric Editing Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/sweet-snack-snapshot-review-deep-insight-for-2024/"><u>Sweet Snack Snapshot Review Deep Insight for 2024</u></a></li>
+<li><a href="https://win-studio.techidaily.com/two-methods-for-transferring-files-from-one-ssd-to-another/"><u>Two Methods for Transferring Files From One SSD to Another</u></a></li>
 </ul></div>
 

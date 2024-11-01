@@ -1,7 +1,7 @@
 ---
 title: Accelerated Prescription Shipping Now Available From Amazon Pharmacy in New Metro Areas Across America
-date: 2024-09-19 11:18:55
-updated: 2024-09-20 11:39:21
+date: 2024-10-25T20:30:47.667Z
+updated: 2024-11-01T07:05:13.302Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,9 +79,23 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs  
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-create-metaverse-avatar-with-ease-an-ultimate-guide/"><u>[New] How to Create Metaverse Avatar with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-seamless-journey-of-filming-and-editing-haul-videos/"><u>[New] The Seamless Journey of Filming and Editing Haul Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-roadmap-to-understanding-view-counts-and-money-made-for-2024/"><u>[New] The Ultimate Roadmap to Understanding View Counts & Money Made for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-expert-techniques-for-opening-srt-on-computers-for-2024/"><u>[Updated] Expert Techniques for Opening SRT on Computers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-pinnacle-7-action-shooter-games/"><u>[Updated] Pinnacle 7 Action Shooter Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtly-lowering-volume-alives-guide/"><u>[Updated] Subtly Lowering Volume Alive’s Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>2024 Approved Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-connecting-in-real-time-advanced-tips-for-streaming-screens-via-fb/"><u>In 2024, Connecting in Real Time Advanced Tips for Streaming Screens via Fb</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-secrets-to-adding-seconds-to-youtube-clips/"><u>In 2024, Unveiling Secrets to Adding Seconds to YouTube Clips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-time-to-retire-the-turing-test-five-modern-evaluation-methods-for-artifice-intelligence/"><u>Is It Time to Retire the Turing Test? Five Modern Evaluation Methods for Artifice Intelligence</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-discover-the-top-4k-video-editing-platforms-for-professionals/"><u>New In 2024, Discover the Top 4K Video Editing Platforms for Professionals</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-audio-driver-management-download-and-update-made-easy/"><u>Seamless Audio Driver Management: Download and Update Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-in-focus-premium-360-degree-professionals-cameras-2023-for-2024/"><u>The Future in Focus Premium 360-Degree Professionals' Cameras, 2023 for 2024</u></a></li>
+</ul></div>
+

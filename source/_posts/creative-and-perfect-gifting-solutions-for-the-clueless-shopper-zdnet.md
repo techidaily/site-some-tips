@@ -1,7 +1,7 @@
 ---
 title: Creative and Perfect Gifting Solutions for the Clueless Shopper | ZDNet
-date: 2024-10-22T17:54:26.064Z
-updated: 2024-10-26T18:08:04.002Z
+date: 2024-10-27T20:14:42.706Z
+updated: 2024-10-31T20:50:13.280Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,16 +94,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -154,16 +148,21 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/levate-your-content-writability-with-these-best-fonts/"><u>[New] Elevate Your Content' Writability with These Best Fonts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-explore-the-10-most-inspiring-youtube-makeup-vloggers-ever/"><u>[Updated] Explore the 10 Most Inspiring YouTube Makeup Vloggers Ever</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-connecting-consciously-with-content-craftsmen-of-your-realm/"><u>2024 Approved Connecting Consciously with Content Craftsmen of Your Realm</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-honorable-highlights-elite-endorsements-for-snapping-alert-songs/"><u>2024 Approved Honorable Highlights Elite Endorsements for Snapping Alert Songs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/gifjpeg-movavi/"><u>線上免費改變格式的GIF成JPEG - 透過Movavi進行簡易編譯</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/comment-configurer-un-disc-de-debut-pour-windows-preinstallation-edition-windows-pe-a-partir-de-linux/"><u>Comment Configurer Un Disc De Début Pour Windows Preinstallation Edition (Windows PE) À Partir De Linux</u></a></li>
-<li><a href="https://some-tips.techidaily.com/guida-esclusiva-alla-sovraimpressione-di-due-video-tutto-quello-che-devi-sapere-nel-2024/"><u>Guida Esclusiva Alla Sovraimpressione Di Due Video: Tutto Quello Che Devi Sapere Nel 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>In 2024, Capturing Moments Like Never Before Toolwiz App's 2023 Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/obs-security-overview-how-to-ensure-privacy-while-using-online-screen-recorder-movievi/"><u>OBS Security Overview: How to Ensure Privacy While Using Online Screen Recorder | Movievi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-14-most-effective-slideshow-creators-for-windows-11-premium-presentation-tools-of-2024/"><u>Top 14 Most Effective Slideshow Creators for Windows 11 - Premium Presentation Tools of 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webaviogv-movavi/"><u>Web上で無料でAVIからOGVへの変換方法 - MOVAVI</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-seamless-username-switching-in-google-meet-settings/"><u>[New] 2024 Approved Seamless Username Switching in Google Meet Settings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astery-of-gamers-channel-graphics-with-template-use/"><u>[New] Mastery of Gamers' Channel Graphics with Template Use</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essential-update-on-whats-new-with-facebook/"><u>[New] The Essential Update on What's New with Facebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>[New] The Pro's Choice A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nleashing-creative-potential-with-these-6-youtube-graphic-sources-for-2024/"><u>[New] Unleashing Creative Potential with These 6 YouTube Graphic Sources for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategies-for-broadcasting-social-media-happenings/"><u>[Updated] 2024 Approved Strategies for Broadcasting Social Media Happenings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-harnessing-the-power-of-zooms-video-filter-options-for-2024/"><u>[Updated] Harnessing the Power of Zoom's Video Filter Options for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-striding-forward-a-comprehensive-review-of-vr-walkers/"><u>[Updated] Striding Forward A Comprehensive Review of VR Walkers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-android-games-funimate-pro-apk-deep-dive/"><u>[Updated] Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-syma-x5c-exposed-perfect-pick-for-novice-aerial-enthusiasts/"><u>2024 Approved Syma X5C Exposed Perfect Pick for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-guide-to-online-image-editing-and-cropping/"><u>2024 Approved The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>2024 Approved Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-lava-storm-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Lava Storm 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-to-prepare-your-zoom-room/"><u>In 2024, The Ultimate Checklist to Prepare Your Zoom Room</u></a></li>
+<li><a href="https://techtrends.techidaily.com/whats-next-for-samsung-exploring-potential-leaks-about-the-galaxy-s25s-features-and-market-arrival/"><u>What's Next for Samsung? Exploring Potential Leaks About the Galaxy S25's Features and Market Arrival</u></a></li>
 </ul></div>
 

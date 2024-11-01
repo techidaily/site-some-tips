@@ -1,7 +1,7 @@
 ---
 title: "Alibaba's Bold Playbook Unveiled: Independent Cloud Venture Creation and Simultaneous Public Offerings of Two Subsidiaries"
-date: 2024-09-17 19:21:18
-updated: 2024-09-20 10:19:54
+date: 2024-10-26T21:23:20.545Z
+updated: 2024-10-31T16:39:43.442Z
 tags:
   - e-commerce
 categories:
@@ -51,11 +51,31 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +84,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -78,6 +105,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 ## How long does Prime Student last? 
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I have to cancel my current account to get Prime Student? 
 
@@ -104,11 +138,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>[New] 2024 Approved In-Depth Analysis Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nto-the-depths-of-screen-capture-a-youtube-perspective-for-idevices/"><u>[New] Into the Depths of Screen Capture A YouTube Perspective for iDevices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-next-level-recording-discover-budget-friendly-choices/"><u>[Updated] In 2024, Next-Level Recording Discover Budget-Friendly Choices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-m1-macbook-showdown-light-vs-powerhouse/"><u>[Updated] In 2024, The Ultimate M1 MacBook Showdown Light vs Powerhouse</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-11-simple-and-durable-kid-camera-options-for-splash-filming/"><u>[Updated] In 2024, Top 11 Simple & Durable Kid Camera Options for Splash Filming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-movie-storage-space-needs-over-24-hours/"><u>[Updated] Understanding Movie Storage Space Needs Over 24 Hours</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-transcribe-speech-to-text-in-microsoft-word-learn-it-here/"><u>2024 Approved How to Transcribe Speech to Text in Microsoft Word Learn It Here</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>2024 Approved Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-utorrent-speeds-quick-troubleshooting-guide/"><u>Boost Your uTorrent Speeds - Quick Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ial-intelligence-insights-from-zdnet/"><u>Ial Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-instructions-for-coding-smarter-using-the-codegpt-plugin-in-visual-studio-ide/"><u>In-Depth Instructions for Coding Smarter Using the CodeGPT Plugin in Visual Studio IDE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-asmrs-potential-benefits-for-you-for-2024/"><u>Understanding ASMR's Potential Benefits for You for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-no-cost-solutions-the-best-free-online-video-merger-options-for-2024/"><u>Updated No-Cost Solutions The Best Free Online Video Merger Options for 2024</u></a></li>
+</ul></div>
+

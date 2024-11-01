@@ -1,7 +1,7 @@
 ---
 title: "Shooting Pro-Level Vids Made Easy: Apple Integrates Final Cut Into iPhones - A Revolution in Mobile Filmmaking | TechCrunch"
-date: 2024-10-25T18:54:31.666Z
-updated: 2024-10-26T17:20:40.224Z
+date: 2024-10-28T12:07:14.528Z
+updated: 2024-10-31T21:02:41.517Z
 tags:
   - apple
 categories:
@@ -30,13 +30,6 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. On-device AI puts the 'smart' in smartphone
 
 The new Samsung Galaxy S24 series features a live translation feature, powered by on-device AI.
@@ -50,6 +43,19 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -68,10 +74,10 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -91,10 +97,16 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -116,10 +128,10 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -176,16 +188,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-video-color-correction-for-youtube-beauty/"><u>[New] 2024 Approved Video Color Correction for YouTube Beauty</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ehind-the-camera-glory-spotlight-on-top-10-female-youtubers-for-2024/"><u>[New] Behind-the-Camera Glory Spotlight on Top 10 Female YouTubers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-updated-discussion-treasures-for-listener-retention/"><u>[New] Updated Discussion Treasures for Listener Retention</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-smooth-srt-exports-post-premiere/"><u>[Updated] Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-popular-virtual-reality-peripherals/"><u>2024 Approved Top 10 Popular Virtual Reality Peripherals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-cutting-edge-templates-unlocking-your-videos-potential/"><u>In 2024, Cutting-Edge Templates Unlocking Your Video's Potential</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-redmi-a2plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Redmi A2+ To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mp4-and-webm-extraction-from-social-media-streams-for-2024/"><u>MP4 & WebM Extraction From Social Media Streams for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/syncing-images-android-iphone-file-transfer-guide-for-2024/"><u>Syncing Images Android-iPhone File Transfer Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ultimate-online-seminar-creation-assistant/"><u>Ultimate Online Seminar Creation Assistant</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-b-roll-for-enhanced-storytelling-for-2024/"><u>Utilizing B-Roll for Enhanced Storytelling for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-display-selection-top-tier-4k-panels-for-videographers-for-2024/"><u>[New] Ultimate Display Selection Top-Tier 4K Panels for Videographers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unblemished-visuals-a-buyers-ultimate-guide/"><u>[New] Unblemished Visuals A Buyer's Ultimate Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-superlative-sky-lifters-top-10-drone-picks/"><u>[Updated] In 2024, Superlative Sky Lifters Top 10 Drone Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtle-shift-top-8-choices-for-transforming-sub-into-easy-to-use-srt/"><u>[Updated] Subtle Shift Top 8 Choices for Transforming SUB Into Easy-to-Use SRT</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-the-potential-of-youtube-live-in-depth-insights-into-wirecast-streaming-for-2024/"><u>[Updated] Unleashing the Potential of YouTube Live In-Depth Insights Into WireCast Streaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-complexities-of-firefox-split-screen/"><u>[Updated] Unraveling the Complexities of Firefox Split Screen</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhancing-interaction-with-external-fb-appswebsites/"><u>Enhancing Interaction with External FB Apps/Websites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-find-x7-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo Find X7 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/simple-steps-how-to-reset-your-iphones-system-date-with-ease/"><u>Simple Steps: How to Reset Your iPhone's System Date with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-ios-cropping-enhancing-your-images-for-2024/"><u>The Ultimate Guide to iOS Cropping Enhancing Your Images for 2024</u></a></li>
 </ul></div>
 

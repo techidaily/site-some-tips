@@ -1,7 +1,7 @@
 ---
 title: "Connecting with Loved Ones: Using Your Apple Watch to Stay Updated"
-date: 2024-10-24T18:30:53.366Z
-updated: 2024-10-26T19:07:11.791Z
+date: 2024-10-29T01:15:38.792Z
+updated: 2024-11-01T06:19:23.948Z
 tags:
   - apple
 categories:
@@ -41,16 +41,10 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Send the default Check In through the Messages app
@@ -60,10 +54,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -88,13 +82,6 @@ When the timer is up to indicate that you should have reached your destination, 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Change the time for a Check In
 
 If you don't want to share the default details with a Check In, you can easily change them. After starting or resuming a conversation in Messages with your trusted contact, tap the + icon and select Check In. At the Check In screen, tap Edit. The next screen displays several settings that you can modify.
@@ -111,6 +98,13 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -119,18 +113,18 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -168,17 +162,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-conquering-subreddit-mastering-the-art-of-public-discussion/"><u>[New] Conquering Subreddit Mastering the Art of Public Discussion</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-new-territory-strategies-for-youtube-keyword-research/"><u>2024 Approved Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyys-recent-advancements-in-text-recognition-what-you-need-to-know/"><u>ABBYY's Recent Advancements in Text Recognition: What You Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-data-collection-with-cookiebot-for-smarter-personalization-and-analytics/"><u>Automated Data Collection with Cookiebot for Smarter Personalization & Analytics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/automated-data-collection-with-cookiebot-your-key-to-enhanced-seo/"><u>Automated Data Collection with Cookiebot: Your Key to Enhanced SEO</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-users-guide-mastering-whatsapp-on-your-apple-device/"><u>Mac Users' Guide: Mastering WhatsApp on Your Apple Device</u></a></li>
-<li><a href="https://network-issues.techidaily.com/navigate-through-sims-solid-walls/"><u>Navigate Through Sims' Solid Walls</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-ultimate-list-best-trivia-shows-for-general-knowledge-24/"><u>The Ultimate List - Best Trivia Shows for General Knowledge, '24</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-portable-audio-choices-decoded/"><u>Top Portable Audio Choices Decoded</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-send-unforgettable-invites-with-these-best-video-apps-for-ios-and-android/"><u>Updated In 2024, Send Unforgettable Invites with These Best Video Apps for iOS & Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/webinar-insights-mastering-the-art-of-customer-delight-through-effective-business-processes/"><u>Webinar Insights: Mastering the Art of Customer Delight Through Effective Business Processes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-strategies-for-harvesting-fb-status-video-archives-for-2024/"><u>[New] Strategies for Harvesting FB Status Video Archives for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-harnessing-free-visual-content-creatively/"><u>[New] Tips for Harnessing Free Visual Content Creatively</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-instagram-hashtags-you-need-to-start-using-today-for-2024/"><u>[New] Top 10 Instagram Hashtags You Need to Start Using Today for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-which-streaming-application-leads-the-race-wirecast-or-obs/"><u>[Updated] 2024 Approved Which Streaming Application Leads the Race, Wirecast or OBS?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats-for-2024/"><u>[Updated] Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pinterest-content-powered-free-high-speed-download-apps-reviewed/"><u>[Updated] Pinterest Content Powered Free, High-Speed Download Apps Reviewed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-sky-high-adventures-the-gopro-karma-experience-for-2024/"><u>[Updated] Sky-High Adventures The GoPro Karma Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-strategies-for-accessing-nfl-games-online/"><u>[Updated] Top 10 Strategies for Accessing NFL Games Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-premier-list-all-time-great-general-knowledge-shows-24/"><u>2024 Approved The Premier List All-Time Great General Knowledge Shows '24</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-advanced-camera-settings/"><u>2024 Approved Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/wisdom-top-10-recruiting-video-guide/"><u>Hire Wisdom Top 10 Recruiting Video Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-e13mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto E13Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>In 2024, The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
 </ul></div>
 

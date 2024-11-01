@@ -1,7 +1,7 @@
 ---
 title: Unlocking Potential for the Vision Pro - Apple's Critical Path Forward Explored by ZDNet
-date: 2024-10-20T18:02:44.986Z
-updated: 2024-10-26T17:30:28.881Z
+date: 2024-10-31T00:29:32.709Z
+updated: 2024-10-31T17:36:27.327Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -69,6 +69,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -77,13 +84,6 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -91,6 +91,13 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -105,6 +112,13 @@ Once unlocked, hold your iPhone near the payment terminal to use Apple Pay.
 Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -121,16 +135,16 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -150,13 +164,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -170,13 +177,6 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 3. Choose Previous Cards to add any payment cards previously linked to your iPhone and you'll be prompted to enter the security code for each, or
 4. Tap on Debit or Credit Card to add a new one, or
 5. Select Transit Card to add an eligible transportation payment card.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
 
@@ -212,22 +212,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-in-depth-review-the-full-story-of-theta-s-technology/"><u>[New] 2024 Approved In-Depth Review The Full Story of Theta S Technology</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>[New] Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>[New] Unlock Vivid Visuals Windows HD+ Guide to HDR Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-startup-zoom-navigating-participant-groups/"><u>[Updated] Startup Zoom Navigating Participant Groups</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-thrifty-computer-solutions-through-perfect-obs-arrangement/"><u>[Updated] Thrifty Computer Solutions Through Perfect OBS Arrangement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transferring-tactics-swiftly-send-files-to-devices/"><u>[Updated] Transferring Tactics Swiftly Send Files to Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-your-audio-potential-pazeras-free-tool-review/"><u>[Updated] Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unmatched-mac-streaming-discover-the-1-5-tools/"><u>2024 Approved Unmatched Mac Streaming Discover the #1-5 Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-7-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 7 Plus - 4 Easy Ways</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/game-on-with-the-best-a-comprehensive-review-of-nvidia-shield-tv-pro-as-a-gamers-dream-streamer/"><u>Game On with the Best? A Comprehensive Review of Nvidia Shield TV Pro as a Gamer’s Dream Streamer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-x9b-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor X9b Phone Pattern Lock</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>In 2024, Top 30 Metaverse Gems DIY Meme Ideas Unleashed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>In 2024, Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-virtualdub-alternatives-for-windows-mac-and-linux/"><u>New In 2024, The Best Virtualdub Alternatives for Windows, Mac, and Linux</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-choice-top-mp4-players-unveiled-for-2024/"><u>Ultimate Choice Top MP4 Players Unveiled for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002130773-wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-secret-to-obtaining-fcp-for-free/"><u>[New] The Secret to Obtaining FCP for Free</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-imageimprint-tips-for-insta-size-customization/"><u>[Updated] In 2024, ImageImprint Tips for Insta Size Customization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-smile-sourcebook-event-specific-memetic-delights/"><u>[Updated] Smile Sourcebook Event-Specific Memetic Delights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-seamless-video-communication-in-whatsapp-web-for-laptops-and-desktops/"><u>2024 Approved Seamless Video Communication in WhatsApp Web for Laptops and Desktops</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-80s-effects-compendium-for-professional-editors/"><u>2024 Approved Top 80S Effects Compendium for Professional Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>2024 Approved Unearthed 30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-enterprise-overview-key-services-unique-propositions-and-edge-in-industry/"><u>ChatGPT Enterprise Overview: Key Services, Unique Propositions & Edge in Industry</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>In 2024, TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleash-your-video-potential-with-free-enhancers-for-2024/"><u>Unleash Your Video Potential with Free Enhancers for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-se-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone SE</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection-for-2024/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-youtube-video-comments-for-2024/"><u>Unlocking the Secrets of YouTube Video Comments for 2024</u></a></li>
 </ul></div>
 

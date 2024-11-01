@@ -1,7 +1,7 @@
 ---
 title: Top 3 Strategies for Processing Credit Card Payments in Your Small Business - Insights From ZDNet
-date: 2024-09-18 12:51:43
-updated: 2024-09-20 10:34:17
+date: 2024-10-27T00:49:36.742Z
+updated: 2024-11-01T09:23:55.516Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -57,6 +71,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +85,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-top-picks-for-sky-hdr-images-online-compilation-for-2024/"><u>[New] Top Picks for Sky HDR Images Online Compilation for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-understanding-m1-technology/"><u>[Updated] Behind The Scenes Understanding M1 Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-of-serenity-windowsmac-adjustments/"><u>2024 Approved The Sound of Serenity Windows/Mac Adjustments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>2024 Approved Unleash Power in Valorant The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-drfone-by-drfone-ios/"><u>Disabled iPhone 6 How to Unlock a Disabled iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nubia-z50-ultra-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nubia Z50 Ultra Fingerprint Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-an-engaging-and-insightful-interview-experience/"><u>In 2024, Crafting an Engaging and Insightful Interview Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-harness-high-quality-artwork-at-no-cost/"><u>In 2024, How to Harness High-Quality Artwork at No Cost</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-soundtracks-into-professional-podcasts/"><u>In 2024, Transforming Soundtracks Into Professional Podcasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-silent-issues-effective-solutions-for-your-acer-laptops-audio-problem/"><u>Resolving Silent Issues: Effective Solutions for Your Acer Laptop's Audio Problem</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-mobile-video-editors-for-ios-and-android-for-2024/"><u>Top-Rated Mobile Video Editors for iOS & Android for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-mystery-whos-on-the-other-side-of-your-screen-in-the-digital-realm-understanding-the-deceased-internet-hypothesis/"><u>Unveiling the Mystery: Who's on the Other Side of Your Screen in the Digital Realm – Understanding the Deceased Internet Hypothesis</u></a></li>
+</ul></div>
+

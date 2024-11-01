@@ -1,7 +1,7 @@
 ---
 title: "Warren Buffett Retreats From India: The Decline of Paytm Revealed - Insights on ZDNet"
-date: 2024-09-18 11:43:11
-updated: 2024-09-20 11:38:11
+date: 2024-10-29T22:14:41.773Z
+updated: 2024-10-31T20:19:53.343Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -42,6 +56,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -56,6 +77,13 @@ Screenshot by Sabrina Ortiz/ZDNET
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -104,11 +132,24 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-maximizing-impact-with-reddit-essential-tips-revealed/"><u>[New] 2024 Approved Maximizing Impact with Reddit - Essential Tips Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-master-the-art-of-photo-display-with-best-frames/"><u>[New] Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>[New] The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unravel-iphone-tricks-for-repetitive-videos/"><u>[New] Unravel iPhone Tricks for Repetitive Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/artists-essential-tools-top-tier-canvas-tablets-of-the-new-era/"><u>Artist's Essential Tools: Top-Tier Canvas Tablets of the New Era</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-5-artificial-intelligence-chatbots-that-serve-as-virtual-therapists-for-psychological-support/"><u>Best 5 Artificial Intelligence Chatbots That Serve as Virtual Therapists for Psychological Support</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>In 2024, Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-cpu-performance-leaders-of-2024-comprehensive-rating-guide/"><u>Top CPU Performance Leaders of 2024: Comprehensive Rating Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-to-the-future-with-tcls-expanded-selection-of-19-innovative-q-and-s-series-smart-televisions/"><u>Upgrade to the Future with TCL’s Expanded Selection of 19 Innovative Q & S Series Smart Televisions</u></a></li>
+</ul></div>
+

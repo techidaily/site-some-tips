@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Expert Assessment of the New Microsoft Surface Pro 8 - Is It Ideal for Enterprise Use?
-date: 2024-10-22T18:44:26.569Z
-updated: 2024-10-26T17:25:35.173Z
+date: 2024-10-25T22:40:18.862Z
+updated: 2024-11-01T01:26:00.424Z
 tags:
   - apple
 categories:
@@ -48,6 +48,13 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -69,13 +76,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -100,6 +100,19 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -126,13 +139,6 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -142,13 +148,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -161,6 +160,13 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 **Also:** [**Want a touchscreen MacBook? This portable monitor makes it possible**](https://www.zdnet.com/home-and-office/smart-office/want-a-touchscreen-macbook-this-portable-monitor-makes-it-possible/)
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom line
 
@@ -175,10 +181,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -220,17 +226,22 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-downloading-the-latest-hits-top-youtube-playlist-savers-for-pc/"><u>[Updated] Downloading the Latest Hits Top YouTube Playlist Savers for PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-dji-x20-drone-vision-wear-review/"><u>[Updated] The DJI X20 Drone Vision Wear Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-photo-dynamics-mastering-adobe-illustrator-blurs/"><u>[Updated] Unleash Photo Dynamics Mastering Adobe Illustrator Blurs</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728504987151-404/"><u>404誤承解:ウェブサイト上のページ不在について</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-strategies-for-correcting-mss32dll-not-detected-issues/"><u>Effective Strategies for Correcting 'mss32.dll' Not Detected Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-success-starts-on-screen-10-must-see-films/"><u>In 2024, The Path to Success Starts on Screen 10 Must-See Films</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android/"><u>In 2024, Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-professional-iphoneipad-podcast-production-for-2024/"><u>The Ultimate Guide to Professional iPhone/iPad Podcast Production for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-pp-playbook-for-silent-scene-transitions-for-2024/"><u>The Ultimate PP Playbook for Silent Scene Transitions for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ditors-for-youtube-writers-and-creators-all-free-in-2024/"><u>Top Editors for YouTube' Writers and Creators - All Free, In 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-perfecting-audio-levels-in-film-and-streaming-content/"><u>Updated Perfecting Audio Levels in Film and Streaming Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hue-harmony-translating-theory-into-artistry/"><u>[New] Hue Harmony Translating Theory Into Artistry</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>[New] In 2024, Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unlock-business-potentials-with-these-leading-15-facebook-market-analyzers/"><u>[New] In 2024, Unlock Business Potentials With These Leading 15 Facebook Market Analyzers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>[New] Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essential-iphone-handbook-for-gif-enthusiasts/"><u>[New] The Essential iPhone Handbook for GIF Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-selections-pro-webcam-stabilizers/"><u>[Updated] Superior Selections Pro Webcam Stabilizers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-power-of-perception-iconic-podcast-design-tips/"><u>[Updated] The Power of Perception Iconic Podcast Design Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-illustrator-guide-to-dynamic-text-art/"><u>2024 Approved The Illustrator Guide to Dynamic Text Art</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-xiaomi-redmi-k70e-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-timing-translation-from-20mb-to-seconds-measurement/"><u>In 2024, Timing Translation From 20Mb to Seconds Measurement</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-k70-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi K70 for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scene-stealers-archive-responses-await/"><u>Scene Stealers Archive Responses Await</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-fast-loading-facebook-videos-for-2024/"><u>The Art of Fast-Loading Facebook Videos for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-pros-and-cons-of-the-groundbreaking-lenovo-thinkpad-x1-fold/"><u>The Pros and Cons of the Groundbreaking Lenovo Thinkpad X1 Fold</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-vivo-g2-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Vivo G2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-slomo-videography-app-review-update-for-2024/"><u>Ultimate Guide to SloMo Videography App Review Update for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-door-to-seamless-zoom-sessions-for-2024/"><u>Unlocking the Door to Seamless Zoom Sessions for 2024</u></a></li>
 </ul></div>
 

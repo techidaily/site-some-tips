@@ -1,7 +1,7 @@
 ---
 title: Dyson Unveils Cutting-Edge OnTrac Headphones to Compete With the Dominant AirPods Max | ZDNET
-date: 2024-10-24T17:43:04.610Z
-updated: 2024-10-26T19:05:38.714Z
+date: 2024-10-27T01:44:49.838Z
+updated: 2024-10-31T23:01:14.394Z
 tags:
   - apple
 categories:
@@ -61,10 +61,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -93,6 +93,13 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +115,10 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -124,13 +131,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -141,6 +141,13 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -158,13 +165,6 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -218,21 +218,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-app-insights-with-az-recorders-for-2024/"><u>[New] Comprehensive App Insights with AZ Recorders for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-comparing-the-leading-tunefab-screen-recorders/"><u>[New] In 2024, Comparing the Leading Tunefab Screen Recorders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[New] Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>[New] Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-quintessential-collection-of-anime-intros/"><u>[New] The Quintessential Collection of Anime Intros</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-typical-podcasters-income/"><u>[New] Unveiling the Typical Podcaster's Income</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screenflow-mastery-for-mac-users-a-critical-look/"><u>[Updated] 2024 Approved ScreenFlow Mastery for Mac Users – A Critical Look</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-pedagogy-through-vr-innovation/"><u>[Updated] Transforming Pedagogy Through VR Innovation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-8-free-screen-recorder-for-android/"><u>2024 Approved Top 8 Free Screen Recorder for Android</u></a></li>
-<li><a href="https://article-tips.techidaily.com/deciphering-the-common-thought-on-vllo/"><u>Deciphering the Common Thought on VLLO</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-site-performance-through-cookiebot-integration-a-game-changing-approach-to-analytics-and-retargeting/"><u>Enhanced Site Performance Through Cookiebot Integration: A Game-Changing Approach to Analytics and Retargeting</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-spark-go-2023mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Spark Go (2023)Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>In 2024, Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-hands-on-gear-in-the-vr-world/"><u>In 2024, Unparalleled Hands-On Gear in the VR World</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-ac1st16dll-file-not-found-issues/"><u>Ultimate Guide: Resolving 'Ac1st16.dll' File Not Found Issues</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-regular-to-revolutionary-how-to-convert-videos-for-vr/"><u>Updated In 2024, Regular to Revolutionary How to Convert Videos for VR</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-pro-android-image-correction-apps/"><u>[New] 2024 Approved Pro Android Image Correction Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-skydrives-frugal-option-minimal-price-maximum-space/"><u>[New] 2024 Approved Skydrive's Frugal Option Minimal Price, Maximum Space</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-mac-mastering-screen-recording-via-shortcuts/"><u>[New] In 2024, Quick Mac Mastering Screen Recording via Shortcuts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-why-are-instavids-tilted-upside-down-in-2024/"><u>[New] Why Are InstaVids Tilted Upside Down, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-from-rgb-to-srgb-in-graphic-media/"><u>[Updated] The Evolution From RGB to Srgb in Graphic Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/10-effective-methods-for-converting-your-dvds-into-mp4-format-on-any-system-windows-mac-or-linux/"><u>10 Effective Methods for Converting Your DVDs Into MP4 Format on Any System: Windows, Mac, or Linux</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-black-battery-setups-for-gopro-hero5-genuine-and-imitators/"><u>2024 Approved Ultimate Black Battery Setups for GoPro Hero5 – Genuine & Imitators</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-f25-pro-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo F25 Pro 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-realme-gt-5-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Realme GT 5 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>In 2024, Supercharge Your Video Subtitling Explore Leading Internet Tools Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>In 2024, Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-creative-potential-in-filmmaking-with-filmora-answers/"><u>In 2024, Unlock Creative Potential in Filmmaking with Filmora Answers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-f25-pro-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo F25 Pro 5G Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-document-creation-with-microsoft-word-speech-recognition-for-2024/"><u>Streamline Document Creation with Microsoft Word Speech Recognition for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-video-transformation-with-top-8-apps-for-2024/"><u>Swift Video Transformation with Top 8 Apps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/write-faster-write-better-leveraging-chatgpts-power-to-enhance-your-novel-crafting/"><u>Write Faster, Write Better: Leveraging ChatGPT's Power to Enhance Your Novel Crafting</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial for Configuring the Easy Digital Downloads Plugin with WordPress
-date: 2024-09-18 21:22:32
-updated: 2024-09-20 11:17:38
+date: 2024-10-26T11:31:46.716Z
+updated: 2024-11-01T07:44:33.709Z
 tags:
   - e-commerce
 categories:
@@ -29,9 +29,23 @@ Lucky for you, Amazon Prime's student membership can help you save. With [Amazon
 
 For example, the membership gets users access to Prime Video, Amazon Music Prime, Prime Gaming, Grubhub+, a 3-month Calm subscription, one month of Course Hero free, two months of Kindle Unlimited, savings on rental textbooks, and the usual Prime member perks such as exclusive deals access, including Amazon Prime Day sales, and free two-day, one-day, and even same-day shipping. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who is eligible for a Prime Student membership? 
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How much does Prime Student cost?
 
@@ -42,6 +56,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 **Also:** [**How to make money on Amazon by sharing your favorite products**](https://www.zdnet.com/article/how-to-make-money-on-amazon-by-sharing-your-favorite-products/)
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to switch to a Prime Student membership from an existing Prime account 
 
@@ -79,6 +100,13 @@ Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/arti
 
 Your membership lasts until you either stop being a student or turn 25, depending on the subscription tier you select. The free trial you get as soon as you enroll as a Prime Student expires after six months. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Do I have to cancel my current account to get Prime Student? 
 
 No, you do not have to cancel or deactivate your account. Just [use this link](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Famazonprime%3FprimeCampaignId%3DstudentWlpPrimeRedir%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1)to transfer your account. Your current benefits, however, may change. For example, if you currently have a 20% discount on home appliances, that may be revoked in place of the other perks. 
@@ -104,11 +132,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-thrifty-aetherspace-vault-massive-files-affordably/"><u>[New] 2024 Approved Thrifty Aetherspace Vault Massive Files Affordably</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-beyond-imagination-vrs-present-future-prospects/"><u>[New] In 2024, Beyond Imagination VR's Present, Future Prospects</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>[New] MacBook Air's Hidden Potential Expertise in Screen Capturing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>[New] Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-downloading-and-enjoying-ifunny-memes/"><u>[New] The Complete Guide to Downloading and Enjoying iFunny Memes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-canvas-beats-the-art-of-cropping-and-editing-video-sound-for-2024/"><u>[Updated] Canvas Beats The Art of Cropping and Editing Video Sound for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-revolutionizing-podcast-branding-with-ai-naming-generators/"><u>[Updated] In 2024, Revolutionizing Podcast Branding with AI Naming Generators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-standard-edition-review-of-djis-drone-model-3/"><u>[Updated] The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-live-soundscape-websites/"><u>[Updated] Ultimate Live Soundscape Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-the-metaverse-an-analysis-of-6-complex-instances/"><u>[Updated] Unraveling the Metaverse An Analysis of 6 Complex Instances</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-online-seminar-tagline-creator/"><u>2024 Approved Expert Online Seminar Tagline Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-subtle-shadows-perfectly-blurred-iphone-photos-explained/"><u>2024 Approved Subtle Shadows Perfectly Blurred iPhone Photos Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/eus-ai-strategy-and-chatgpt-repercussions/"><u>EU's AI Strategy and ChatGPT Repercussions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-tutorial-from-gif-art-to-sticky-fun-on-social-media/"><u>In 2024, The Essential Tutorial From GIF Art to Sticky Fun on Social Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-practices-to-personalize-snapchat-video-playback-for-2024/"><u>Top Practices to Personalize Snapchat Video Playback for 2024</u></a></li>
+</ul></div>
+

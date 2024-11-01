@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Apple Technology: Deciding Between M1 & M2 iPad Pros – Which Suits You Better? | Tech Advice by ZDNet"
-date: 2024-10-25T17:30:18.447Z
-updated: 2024-10-26T18:10:13.912Z
+date: 2024-10-31T02:23:02.337Z
+updated: 2024-11-01T13:19:55.058Z
 tags:
   - apple
 categories:
@@ -55,22 +55,21 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 5 (2022) if...
 
 Image: Apple
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
 
@@ -79,10 +78,10 @@ The saying you can't teach an old dog new tricks doesn't really apply to the iPa
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
@@ -92,19 +91,6 @@ Camera performance isn't typically the key selling point for tablets, let alone 
 **Also: [iPad (2022) vs. iPad Air (2022): How different are the two?](https://www.zdnet.com/article/ipad-2022-vs-ipad-air-2022/)**
 
 While the 12MP rear camera remains untouched, the front now houses a 12MP ultra-wide camera. With a wider field of view than the previous generation's 7MP FaceTime HD lens, the new iPad can take advantage of Center Stage, Apple's webcam feature that tracks and follows your face as you move around. This is particularly useful for presentations and FaceTime calls with friends and family.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. You thrive on 5G
 
@@ -124,11 +110,25 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $291 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08P6TVN58%2Fref%3Dasc%5Fdf%5FB08P6TVN581727521200000%3Fcreative%3D395261%26creativeASIN%3DB08P6TVN58%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C68253542-add4-4b9e-b5ab-759eee5437fd%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
@@ -176,20 +176,19 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-desktopiosandroid-zoom-with-a-virtual-board/"><u>[New] 2024 Approved Mastering Desktop/iOS/Android Zoom with a Virtual Board</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfecting-altered-text-aesthetics-in-visual-media/"><u>[New] 2024 Approved Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pro-tips-for-capturing-stunning-close-up-footage/"><u>[Updated] In 2024, Pro Tips for Capturing Stunning Close-Up Footage</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[Updated] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-smooth-video-flow-from-your-photobooth-app/"><u>2024 Approved Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-updated-discussion-treasures-for-listener-retention/"><u>2024 Approved Updated Discussion Treasures for Listener Retention</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-battle-between-ipad-mini-and-ipad-air-performance-design-and-more/"><u>Decoding the Battle Between iPad Mini and iPad Air – Performance, Design, and More</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhancing-your-youtube-content-with-right-camera-gear-for-2024/"><u>Enhancing Your YouTube Content with Right Camera Gear for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tech-savvy-approach-to-downloading-apods-content/"><u>In 2024, Tech-Savvy Approach to Downloading APods Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-trendsetting-sky-docks-for-android-users/"><u>In 2024, Trendsetting Sky Docks for Android Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-twilight-assessment-diverse-ideas/"><u>In 2024, Twilight Assessment Diverse Ideas</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamlined-method-free-youtube-file-access-for-2024/"><u>Streamlined Method Free YouTube File Access for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-meme-template-toolkit-for-2024/"><u>The Essential Meme Template Toolkit for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/top-3-deadly-errors-in-email-promotions-steer-clear-with-expert-advice-from-massmail/"><u>Top 3 Deadly Errors in Email Promotions - Steer Clear with Expert Advice From Massmail</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unveiling-vr-the-creation-gap-for-2024/"><u>Unveiling VR The Creation Gap for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-can-you-respect-intellectual-property-while-screenrecording-youtube-for-2024/"><u>[New] Can You Respect Intellectual Property While ScreenRecording YouTube for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-examination-the-future-of-photography-with-aurora-hdr/"><u>[New] Comprehensive Examination The Future of Photography with Aurora HDR?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enlightening-editing-paths-to-audience-appealing-descriptors-for-2024/"><u>[Updated] Enlightening Editing Paths to Audience-Appealing Descriptors for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[Updated] The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocked-treasures-art-without-intellectual-property-restrictions/"><u>[Updated] Unlocked Treasures Art Without Intellectual Property Restrictions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-iphone-hdr-photo-perfection/"><u>2024 Approved The Art of iPhone HDR Photo Perfection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>In 2024, The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-timeless-melodies-from-iconic-animes/"><u>In 2024, Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-effective-chatgpt-prompt-crafting/"><u>Mastering the Art of Effective ChatGPT Prompt Crafting</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011200421-overcome-the-roblox-error-277-on-windows-expert-tips-for-2n24/"><u>Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-top-11-youtube-downloaders-latest-version/"><u>The Ultimate List of Top 11 YouTube Downloaders - Latest Version</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-snapchat-highlights-for-2024/"><u>Unlocking the Potential of Snapchat Highlights for 2024</u></a></li>
 </ul></div>
 
