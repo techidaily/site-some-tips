@@ -1,7 +1,7 @@
 ---
 title: "Perfectly Thoughtful Gifts for Craft Lovers This Holiday Season: Expert Reviews & Selections | ZDNET"
-date: 2024-09-19 15:11:50
-updated: 2024-09-20 10:43:18
+date: 2024-10-30T23:18:56.701Z
+updated: 2024-11-06T21:41:03.108Z
 tags:
   - e-commerce
 categories:
@@ -33,6 +33,13 @@ For example, the membership gets users access to Prime Video, Amazon Music Prime
 
 You're eligible if you meet one of these two criteria: You must be a student currently enrolled at a college or university or you must be between 18 and 24 years old. Whichever option you use -- student status or age -- Amazon will require you to verify your information with proof such as a .edu or school-linked email address or an ID, so make sure you have the credentials to back up your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How much does Prime Student cost?
 
 Prime Student users start with a [free six-month trial](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAmazon-Student%2Fb%3Fie%3DUTF8%26node%3D668781011%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C3990756c-b593-4d0c-b6d4-b9d6808211c6%7Cdtp&dtb=1) that you can cancel at any time. So, even if you aren't interested in a long-term membership, you could time your trial so that it overlaps with a massive sale like Prime Day and cancel before the membership fee kicks in.
@@ -44,6 +51,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
 ## How to switch to a Prime Student membership from an existing Prime account 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Visit the Prime Student Page
 
@@ -65,6 +79,13 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,33 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-5-ways-to-transfer-files-to-your-computer/"><u>[New] 5 Ways To Transfer Files To Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-insiders-guide-to-slow-motion-with-photos-and-web-tools/"><u>[New] The Insider's Guide to Slow Motion with Photos & Web Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-syma-x8c-user-guide-insights/"><u>[New] The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-zoom-strategy-for-fb-live-success/"><u>[New] The Ultimate Zoom Strategy for FB Live Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-of-making-music-video-on-iphone/"><u>[New] Tips of Making Music Video on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-glossary-for-googles-voice-to-text-feature/"><u>[New] Ultimate Glossary for Google's Voice-to-Text Feature</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discord-text-formatting-how-to-change-text-style-in-discord-in-2024/"><u>[Updated] Discord Text Formatting How to Change Text Style in Discord, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-capturing-attention-how-to-edit-and-crop-videography-for-instagram-success/"><u>[Updated] In 2024, Capturing Attention How to Edit & Crop Videography for Instagram Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-premier-livestream-services-unveiled/"><u>[Updated] Top 10 Premier Livestream Services Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-podcast-title-selection-strategies-and-examples/"><u>2024 Approved The Essential Guide to Podcast Title Selection Strategies & Examples</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-fast-windows-photo-displayer/"><u>In 2024, Prime Fast Windows Photo Displayer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-quantum-hdr-101-a-complete-breakdown/"><u>In 2024, Quantum HDR 101 A Complete Breakdown</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/opening-orchestra-the-ultimate-list-of-harmonious-hubs-for-auditory-appetizers-for-2024/"><u>Opening Orchestra The Ultimate List of Harmonious Hubs for Auditory Appetizers for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/practically-always-on-power-saving-mastering-smartphone-efficiency/"><u>Practically Always on Power Saving: Mastering Smartphone Efficiency</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolving-compatibility-how-to-fix-ralink-rt3290-wi-fi-card-problems-on-windows-10-8-and-7/"><u>Resolving Compatibility: How to Fix Ralink RT3290 Wi-Fi Card Problems on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-airpods-connectivity-problems-in-11-steps/"><u>Troubleshoot and Repair AirPods' Connectivity Problems in 11 Steps</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-samsung-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Samsung fingerprint</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>Updated 2024 Approved The Ultimate List of Live Chat Apps for Shopify</u></a></li>
+</ul></div>
+

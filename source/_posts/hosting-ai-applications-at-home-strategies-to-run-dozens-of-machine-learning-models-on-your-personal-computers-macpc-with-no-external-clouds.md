@@ -1,7 +1,7 @@
 ---
 title: "Hosting AI Applications at Home: Strategies to Run Dozens of Machine Learning Models on Your Personal Computers (Mac/PC) with No External Clouds"
-date: 2024-09-19 22:52:47
-updated: 2024-09-20 11:19:10
+date: 2024-11-05T02:43:48.524Z
+updated: 2024-11-06T20:32:13.851Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +131,19 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>[New] In 2024, A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-impressive-hdr-portraits-explained/"><u>[New] The Art of Impressive HDR Portraits Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-capturing-crisp-sound-a-guide-to-superior-audio-recording/"><u>[Updated] In 2024, Capturing Crisp Sound A Guide to Superior Audio Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-when-should-you-share-your-insta-story/"><u>[Updated] In 2024, When Should You Share Your Insta Story?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revitalize-your-visuals-expertly-curated-list-of-the-best-10-editors/"><u>[Updated] Revitalize Your Visuals Expertly Curated List of the Best 10 Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-hue-harmonizer-tool/"><u>[Updated] Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-art-of-fiction-creation/"><u>[Updated] Understanding the Art of Fiction Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>2024 Approved The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-free-screen-recording-in-win11/"><u>2024 Approved Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-using-srt-audio-on-windows-and-macos-devices/"><u>2024 Approved Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-top-8-proven-techniques-to-amplify-content/"><u>In 2024, Top 8 Proven Techniques to Amplify Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-lenovo-screenshots-in-minutes-for-2024/"><u>Mastering Lenovo Screenshots in Minutes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/newcomers-elite-entryway-list-for-zooids-for-2024/"><u>Newcomers’ Elite Entryway List for Zooids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-memory-management-via-mematic-for-2024/"><u>Streamline Memory Management via Mematic for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superheroes-clash-black-vs-silver/"><u>Superheroes Clash BLACK vs SILVER</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-extracting-youtube-written-captions-a-threefold-approach-for-success-for-2024/"><u>The Art of Extracting YouTube' Written Captions A Threefold Approach for Success for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/the-competitive-edge-of-abbyy-recognition-server-seamless-patent-discovery-and-clarity-boosts-efficiency-at-rws/"><u>The Competitive Edge of ABBYY Recognition Server: Seamless Patent Discovery and Clarity Boosts Efficiency at RWS</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth: How Did CrowdStrike and Windows Meltdown Clash ? A Historical Analysis"
-date: 2024-10-26T00:55:12.238Z
-updated: 2024-10-31T17:38:07.713Z
+date: 2024-11-02T07:07:21.768Z
+updated: 2024-11-07T06:10:43.125Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,17 +181,20 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-top-free-tools-for-flawless-srt-conversion/"><u>[New] Top Free Tools for Flawless SRT Conversion</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-a-lister-secrets-unveiling-the-fastest-way-to-fame-with-our-expert-guide/"><u>[Updated] 2024 Approved Insta A-Lister Secrets Unveiling the Fastest Way to Fame with Our Expert Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-the-secrets-to-crafting-perfect-slug-lines/"><u>[Updated] In 2024, Unveiling the Secrets to Crafting Perfect Slug Lines</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/"><u>[Updated] Top Tunes Where to Secure Soundscapes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-updated-conversation-guide-for-podcast-enthusiasts/"><u>[Updated] Updated Conversation Guide for Podcast Enthusiasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-pinnacle-of-personal-data-holdings/"><u>2024 Approved The Pinnacle of Personal Data Holdings</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-repairing-non-detectable-usb-hardware-on-windows-system/"><u>Diagnosing and Repairing Non-Detectable USB Hardware on Windows System</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-windows-10s-file-explorer-with-ease-helpful-hints-inside/"><u>Navigating Windows 10'S File Explorer with Ease – Helpful Hints Inside!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-clips-to-masterpiece-pro-tips-for-home-movie-editing/"><u>New In 2024, From Clips to Masterpiece Pro Tips for Home Movie Editing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-harmony-remedying-issues-within-the-landscape-of-new-world/"><u>Restoring Audio Harmony: Remedying Issues Within the Landscape of New World</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-excellent-monitors-for-photo-professionals-for-2024/"><u>The Ultimate Guide to Excellent Monitors for Photo Professionals for 2024</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-google-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Google</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-content-with-effective-video-seo/"><u>[New] 2024 Approved Elevate Your Content with Effective Video SEO</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-identity-protection-blur-image-edges/"><u>[New] Instant Identity Protection Blur Image Edges</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-visual-storytelling-with-your-canon-timelapse-toolkit/"><u>[New] Unlocking Visual Storytelling with Your Canon Timelapse Toolkit</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-seo-mastery-balancing-titles-and-tags/"><u>[New] YouTube SEO Mastery Balancing Titles and Tags</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategizing-visibility-for-podcasts-through-design/"><u>[Updated] Strategizing Visibility for Podcasts Through Design</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-iphone-selfie-devices-ranked-8/"><u>[Updated] The Best Iphone Selfie Devices Ranked (#8)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-10-movie-gems-to-spark-inspiration/"><u>2024 Approved Ultimate List 10 Movie Gems to Spark Inspiration</u></a></li>
+<li><a href="https://win-community.techidaily.com/1728482662949-windows-11/"><u>搬家技術：從一台電腦的驅動器移動到另一台 Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tips-for-audio-crossfades-in-premiere-pro/"><u>Essential Tips for Audio Crossfades in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://discover-help.techidaily.com/les-logiciels-les-plus-performants-pour-laugmentation-de-videos-avec-ia-une-selection-exclusive-des-meilleurs/"><u>Les Logiciels Les Plus Performants Pour L'augmentation De Vidéos Avec IA : Une Sélection Exclusive Des Meilleurs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files/"><u>New 2024 Approved Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/secrets-of-single-stream-success-online-broadcast-tips-and-tricks-for-2024/"><u>Secrets of Single-Stream Success Online Broadcast Tips and Tricks for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-key-to-accumulating-a-huge-collection-of-tiktok-videos-for-2024/"><u>The Key to Accumulating a Huge Collection of TikTok Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-motorola-moto-g24-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G24 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

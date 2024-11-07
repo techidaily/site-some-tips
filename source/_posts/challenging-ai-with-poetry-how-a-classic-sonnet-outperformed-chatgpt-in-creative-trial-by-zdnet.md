@@ -1,7 +1,7 @@
 ---
 title: "Challenging AI with Poetry: How a Classic Sonnet Outperformed ChatGPT in Creative Trial by ZDNet"
-date: 2024-09-19 17:13:54
-updated: 2024-09-20 10:23:58
+date: 2024-11-03T01:01:26.780Z
+updated: 2024-11-06T16:29:46.901Z
 tags:
   - developer
 categories:
@@ -104,11 +104,31 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching-for-2024/"><u>[New] Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-perfect-blend-of-efficiency-and-artistry-in-apple-photography-apps/"><u>[New] The Perfect Blend of Efficiency and Artistry in Apple Photography Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-guide-to-effective-lut-implementation/"><u>[Updated] The Editor's Guide to Effective LUT Implementation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-android-toolset-for-3d-video-players/"><u>[Updated] Ultimate Android Toolset for 3D Video Players</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-basics-sleek-tablet-support-reviewed-the-ultimate-travel-companion/"><u>Amazon Basics' Sleek Tablet Support Reviewed: The Ultimate Travel Companion!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/complete-screen-recorder-in-depth-az-reviewing-for-2024/"><u>Complete Screen Recorder - In-Depth AZ Reviewing for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Pattern Lock Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-xr-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone XR Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-social-media-sphere-speaking-up-to-fans/"><u>In 2024, The Social Media Sphere Speaking Up to Fans</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-depicting-realism-in-docuscripts-for-2024/"><u>Techniques for Depicting Realism in Docuscripts for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

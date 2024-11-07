@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: How iOS 18.1 Brings Advanced Apple Intelligence to iPhones | Explore New Developer Beta Updates on ZDNET"
-date: 2024-09-18 17:42:19
-updated: 2024-09-20 10:12:14
+date: 2024-10-30T22:45:31.650Z
+updated: 2024-11-06T23:35:23.102Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-roguelikes-roots-and-their-rebirth-as-roguiles/"><u>[Updated] Roguelikes' Roots & Their Rebirth as Roguiles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-iphone-light-balancing/"><u>[Updated] The Ultimate Guide to iPhone Light Balancing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-converting-any-tiktok-sound-into-phone-alerts/"><u>2024 Approved The Ultimate Guide Converting Any TikTok Sound Into Phone Alerts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unravel-the-secrets-of-crafting-engaging-snapchat-boomerangs/"><u>2024 Approved Unravel the Secrets of Crafting Engaging Snapchat Boomerangs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-the-power-of-social-proof-tips-to-amplify-brand-visibility/"><u>In 2024, Unleashing the Power of Social Proof Tips to Amplify Brand Visibility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-freeze-frames-in-photobooth-recordings/"><u>In 2024, Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-michael-kors-access-gen-e-mkgo-the-perfect-blend-of-luxury-and-practicality/"><u>In Depth Review of Michael Kors' Access Gen E MKGO: The Perfect Blend of Luxury and Practicality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-connecting-apple-devices-mac-to-tv-with-airplay/"><u>Mastering the Art of Connecting Apple Devices: Mac to TV with AirPlay</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-vn-video-editor-pro-vs-the-competition-how-does-it-stack-up-in-2024/"><u>New VN Video Editor Pro Vs. The Competition How Does It Stack Up, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/no-more-interruptions-a-step-by-step-guide-on-eliminating-youtube-commercials/"><u>No More Interruptions: A Step-by-Step Guide on Eliminating YouTube Commercials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/roblox-troubleshooting-guide-effortless-solutions-for-pc-users-facing-code-277-errors/"><u>Roblox Troubleshooting Guide: Effortless Solutions for PC Users Facing Code 277 Errors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hp-dreamcolor-z32x-review-a-quest-for-perfection-for-2024/"><u>The HP DreamColor Z32X Review A Quest for Perfection for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001140722-this-title-promises-immediate-assistance-top-fixes-and-suggests-current-solutions-relevant-to-the-year-202ebxg-addressing-a-common-issue-players-may-face/"><u>This Title Promises Immediate Assistance (Top Fixes) and Suggests Current Solutions Relevant to the Year 202Ebxg, Addressing a Common Issue Players May Face</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-for-accurate-age-input-in-tiktok-profiles-for-2024/"><u>Tips for Accurate Age Input in TikTok Profiles for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-online-seminar-creation-assistant-for-2024/"><u>Ultimate Online Seminar Creation Assistant for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-on-pairing-a-bluetooth-speaker-to-a-laptop-or-desktop/"><u>Ultimate Tutorial on Pairing a Bluetooth Speaker to a Laptop or Desktop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-periscope-mastery-for-2024/"><u>Unlocking the Secrets of Periscope Mastery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10-for-2024/"><u>Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10 for 2024</u></a></li>
+</ul></div>
+

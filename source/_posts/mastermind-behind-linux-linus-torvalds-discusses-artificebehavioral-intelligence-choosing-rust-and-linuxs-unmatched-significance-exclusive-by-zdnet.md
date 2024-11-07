@@ -1,7 +1,7 @@
 ---
 title: Mastermind Behind Linux - Linus Torvalds Discusses Artificebehavioral Intelligence, Choosing Rust, and Linux's Unmatched Significance | Exclusive by ZDNET
-date: 2024-09-19 11:20:37
-updated: 2024-09-20 11:44:53
+date: 2024-10-31T16:11:58.849Z
+updated: 2024-11-06T21:58:29.705Z
 tags:
   - developer
 categories:
@@ -104,11 +104,40 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>[Updated] In 2024, Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-of-youtube-video-comments/"><u>[Updated] Unlocking the Secrets of YouTube Video Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[Updated] Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>2024 Approved 7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>2024 Approved Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-experts-list-of-top-vector-stock-portals/"><u>2024 Approved The Expert's List of Top Vector Stock Portals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-recorders-bible-for-clear-conversations/"><u>2024 Approved The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compilation-of-the-best-10-image-sharing-sites/"><u>A Compilation of the Best 10 Image Sharing Sites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/boost-your-fluency-effective-strategies-for-learning-languages-using-chatgpts-dialogue-features/"><u>Boost Your Fluency: Effective Strategies for Learning Languages Using ChatGPT’s Dialogue Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-4-powerful-ai-story-generators-to-test/"><u>Discover 4 Powerful AI Story Generators to Test</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-charting-the-course-to-digital-stardom-launch-your-chanel-today/"><u>In 2024, Charting the Course to Digital Stardom Launch Your Chanel Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-strategies-softwares-versus-hardware-harmony/"><u>In 2024, Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>In 2024, Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-chat-interruptions-how-to-tell-if-theres-a-global-discoord-down-event-or-just-your-connection-woes/"><u>Navigating Chat Interruptions: How to Tell if There's a Global Discoord Down Event or Just Your Connection Woes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tailoring-visual-quality-choose-aspect-ratios-wisely-for-2024/"><u>Tailoring Visual Quality Choose Aspect Ratios Wisely for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-negative-narratives-of-virtual-reality-tech-for-2024/"><u>The Negative Narratives of Virtual Reality Tech for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-editors-guide-to-top-10-fcp-plug-ins-for-2024/"><u>The Ultimate Editor's Guide to Top 10 FCP Plug-Ins for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-method-for-cancelling-subscriptions-in-steam/"><u>The Ultimate Method for Cancelling Subscriptions in Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-resolving-windows-11s-elusive-manager-tool/"><u>Top Strategies for Resolving Windows 11'S Elusive Manager Tool</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

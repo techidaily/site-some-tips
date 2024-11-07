@@ -1,7 +1,7 @@
 ---
 title: "Apple's $2 Billion Finesheet by European Union for Monopolistic Practices in the App Store Ecosystem: What You Need to Know News"
-date: 2024-10-28T20:52:17.209Z
-updated: 2024-11-01T14:02:25.164Z
+date: 2024-10-31T03:57:21.185Z
+updated: 2024-11-06T21:30:39.718Z
 tags:
   - apple
 categories:
@@ -45,16 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -64,6 +64,13 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -71,13 +78,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -101,6 +101,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -108,13 +115,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -125,10 +125,10 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -165,24 +165,24 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-iphone-and-android-enthusiasts-guide-to-custom-whatsapp-sounds/"><u>[Updated] 2024 Approved IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-gain-instagram-reel-fame-emulate-top-tiktok-trends-and-insights/"><u>[Updated] Gain Instagram Reel Fame Emulate Top TikTok Trends & Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavimxfwmv/"><u>如何使用Movavi将MXF免费转换为WMV格式：在线快速、高效转换服务</u></a></li>
-<li><a href="https://some-tips.techidaily.com/cambiar-archivos-de-video-de-quicktime-qt-a-avi-sin-costo-alguno-servicio-en-linea-rapido-con-movavi/"><u>Cambiar Archivos De Video De QuickTime (QT) a AVI Sin Costo Alguno - Servicio en Línea Rápido Con Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-tips-and-solutions-addressing-and-resolving-pc-crash-issues-in-overwatch-2/"><u>Comprehensive Tips & Solutions: Addressing and Resolving PC Crash Issues in Overwatch 2</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convert-videos-free-mkv-to-mov-format-with-movavis-web-service/"><u>Convert Videos FREE - MKV to MOV Format with Movavi's Web Service</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-your-tunes-in-mp3m4r-by-changing-aif-files-for-free-with-our-easy-online-tool/"><u>Get Your Tunes in MP3/M4R by Changing AIF Files for Free with Our Easy Online Tool!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-oppo-find-x7-ultra-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Oppo Find X7 Ultra Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/la-formule-facile-pour-conserver-vos-videos-de-tiktok-sous-toutes-formes-et-sur-tous-les-appareils/"><u>La Formule Facile Pour Conserver Vos Vidéos De TikTok Sous Toutes Formes Et Sur Tous Les Appareils !</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-transformation-from-m4a-to-mkv-without-costs-discover-the-power-of-movavi/"><u>Online Transformation From M4A to MKV without Costs: Discover the Power of Movavi</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/snicker-sphere-top-grade-no-charge-memes/"><u>Snicker Sphere Top-Grade, No-Charge Memes</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/mlining-monetization-strategies-on-youtube/"><u>Streamlining Monetization Strategies on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-real-story-exploring-recordcast-features/"><u>The Real Story Exploring RecordCast Features</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-11-must-have-windows-and-macos-applications-and-tools-insights-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications and Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-4-methods-to-create-a-screen-recording-on-your-iphone-11-a-comprehensive-guide/"><u>Top 4 Methods to Create a Screen Recording on Your iPhone 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformar-archivo-mxf-a-formato-mp4-gratis-en-linea-con-convertidor-de-movavi/"><u>Transformar Archivo MXF a Formato MP4 Gratis en Línea Con Convertidor De Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-top-5-low-weight-action-recorders-list-for-2024/"><u>Ultimate Top 5 Low-Weight Action Recorders List for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/web-opus-ogg-movavi/"><u>Web에서 무료 OPUS OGG 제공 모드 – Movavi용 사전 처리 기술</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-key-to-staying-put-mastering-6-viewer-friendly-genres-for-2024/"><u>[New] The Key to Staying Put Mastering 6 Viewer-Friendly Genres for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-love-ballads-ideal-tunes-for-a-heartfelt-proposal/"><u>[New] Ultimate Love Ballads Ideal Tunes for a Heartfelt Proposal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-insiders-guide-to-uploading-with-google/"><u>[Updated] The Insider’s Guide to Uploading with Google</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-utilizing-luts-for-professional-color-grading/"><u>[Updated] Utilizing LUTs for Professional Color Grading</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-knockout-kings-vs-viewership-titans/"><u>2024 Approved Knockout Kings Vs. Viewership Titans</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-quick-guide-integrating-titles-into-videos-within-windows-photos/"><u>2024 Approved Quick Guide Integrating Titles Into Videos Within Windows Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-360-live-streaming-cameras-for-youtube-and-facebook/"><u>2024 Approved Top 360 Live Streaming Cameras for YouTube and Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-complexity-easy-video-edits-on-windows-10-for-everyone/"><u>Avoid Complexity Easy Video Edits on Windows 10 for Everyone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-avi-video-joiners-top-10-free-solutions-for-merging-avi-files-for-2024/"><u>Best AVI Video Joiners Top 10 Free Solutions for Merging AVI Files for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-images-the-secret-to-subtracting-backdrops-in-photopea-for-2024/"><u>Enhancing Images The Secret to Subtracting Backdrops in Photopea for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhancing-iphoneandroid-video-clarity-on-facebook/"><u>In 2024, Enhancing iPhone/Android Video Clarity on Facebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-redmi-k70-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi Redmi K70 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategic-steps-for-incorporating-srt-files-into-googleplus-campaigns/"><u>In 2024, Strategic Steps for Incorporating SRT Files Into Google+ Campaigns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-through-a-photographers-eye-our-best-10-lenses-list/"><u>In 2024, Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-vision-into-reality-essential-movies-maker-skills-on-windows-8/"><u>In 2024, Transform Your Vision Into Reality Essential Movies Maker Skills on Windows 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/sculpting-unique-fb-ad-visuals-for-2024/"><u>Sculpting Unique FB Ad Visuals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-potential-current-vr-innovations-for-2024/"><u>Unleashing Potential Current VR Innovations for 2024</u></a></li>
 </ul></div>
 

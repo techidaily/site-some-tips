@@ -1,7 +1,7 @@
 ---
 title: "Conflict Between AI Progression and Agile Methodologies: Insights From Recent Research | ZDNet"
-date: 2024-09-17 17:35:58
-updated: 2024-09-20 10:23:37
+date: 2024-10-30T20:44:50.546Z
+updated: 2024-11-07T06:52:21.646Z
 tags:
   - developer
 categories:
@@ -104,11 +104,38 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-subtle-techniques-make-unwanted-backgrounds-disappear-in-videos/"><u>[New] Subtle Techniques Make Unwanted Backgrounds Disappear in Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-vr-selection-top-8-must-have-titles/"><u>[New] Ultimate VR Selection Top 8 Must-Have Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>[New] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterful-approaches-to-applying-digital-video-effects-online-for-2024/"><u>[Updated] Masterful Approaches to Applying Digital Video Effects Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-windows-10-sound-capabilities/"><u>[Updated] Unlocking Windows 10 Sound Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphones-guide-to-great-night-images/"><u>2024 Approved The Essential iPhones Guide to Great Night Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-resolve-cannot-open-files-in-windows-system/"><u>How to Resolve 'Cannot Open' Files in Windows System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-asus-rog-phone-7-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Asus ROG Phone 7 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/orm-picker-optimal-content-on-youtube-or-tiktok/"><u>Platform Picker Optimal Content on Youtube or TikTok?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/top-alternative-software-a-syncthing-pour-les-utilisateurs-de-windows/"><u>Top Alternative Software À Syncthing Pour Les Utilisateurs De Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-top-text-styling-portals-for-creatives-for-2024/"><u>Unveiling the Top Text Styling Portals for Creatives for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

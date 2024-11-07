@@ -1,7 +1,7 @@
 ---
 title: "Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights"
-date: 2024-10-29T08:31:04.618Z
-updated: 2024-11-01T09:24:40.105Z
+date: 2024-11-01T22:14:39.672Z
+updated: 2024-11-06T23:44:06.848Z
 tags:
   - apple
 categories:
@@ -57,13 +57,6 @@ Don't buy these devices:
 * **Mac Studio**: The M2-powered Mac Studio is no longer the beast it was, and given that it's over a year old and running on previous-generation silicon, I suggest giving it a miss and getting a [MacBook Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fmacbook-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead.
 * **Apple TV**: Last updated in October 2022, this device is due for a refresh, possibly alongside the iPhone, so unless you desperately need a new one, wait a few months.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **The 'Nice' list**
 
 ### **Apple iPhone 16**
@@ -73,6 +66,13 @@ iPhone 16
 Jason Hiner/ZDNET
 
 From a Camera Control button, an Action button, and the new [A18 chipset](https://www.zdnet.com/article/why-apples-new-a18-chipsets-make-the-iphone-16-models-worth-upgrading-to/), the [iPhone 16](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) has been built from the ground up to handle AI workloads. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Apple Watch Series 10**
 
@@ -97,10 +97,10 @@ Along with the updated processor, this MacBook Air can also power two external m
 With prices for the [13-inch M3 MacBook Air starting at $1,099](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-8-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and the [15-inch version starting at $200 more](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F15-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-8gb-memory-256gb&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), these systems represent some serious processing power for an extremely competitive price (especially when you consider these are Apple laptops). 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple Vision Pro**
@@ -118,10 +118,10 @@ It's hard to bet against Apple, but a futuristic set of goggles with a starting 
 [Apple Vision Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-vision&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Apple 14-inch and 16-inch MacBook Pro**
@@ -139,6 +139,13 @@ This lineup of MacBooks has the entire lineup of M3 chips -- from the powerful M
 
 [2023 M3-powered MacBook Pro View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Apple's 24-inch iMac**
 
 Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everything-apple-announced-at-its-october-scary-fast-event-m3-macbook-pro-24-inch-imac-more/), and while it has the same 24-inch, 4.5K Retina display, it received the M3 chip upgrade. Here are the highlights:
@@ -153,13 +160,6 @@ Apple [refreshed the iMac in October 2023](https://www.zdnet.com/article/everyth
 **Also: [Apple's M3 iMac disappoints 27-inch display devotees, but does anyone really need that?](https://www.zdnet.com/article/apples-m3-imac-disappoints-27-inch-display-devotees-but-does-anyone-really-need-that/)**
 
 [Apple iMac 24-inch View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fimac&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2nd-gen AirPods Pro (now with USB-C)**
 
@@ -222,16 +222,21 @@ Well-made, robust, and with a replaceable battery, these will make misplaced key
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>[New] 2024 Approved Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-definitive-guide-to-premium-vr-players-oculus-focus/"><u>[New] In 2024, The Definitive Guide to Premium VR Players - Oculus Focus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strategies-for-apple-listed-podcast-success/"><u>[New] Strategies for Apple-Listed Podcast Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-turbocharging-fb-media-speed-techniques-revealed/"><u>[New] Turbocharging FB Media Speed Techniques Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>[New] Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-guide-to-insta-influence-mastery/"><u>[Updated] 2024 Approved Quick Guide to Insta-Influence Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-comprehensiveness-of-obs-as-a-recorder-for-2024/"><u>[Updated] Unveiling the Comprehensiveness of OBS as a Recorder for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-expert-insights-on-optimal-fpv-drone-blades/"><u>2024 Approved Expert Insights on Optimal FPV Drone Blades</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-navigating-free-art-online-a-guide-and-top-sites/"><u>In 2024, Navigating Free Art Online A Guide & Top Sites</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>In 2024, The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-the-persistent-problem-of-airpods-unplugging-from-your-iphone-6-steps/"><u>Resolving the Persistent Problem of AirPods Unplugging From Your iPhone (6 Steps)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-on-demand-acting-rights-form/"><u>[New] 2024 Approved On-Demand Acting Rights Form</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-decoding-video-compression-excellence-av1-vs-vp9/"><u>2024 Approved Decoding Video Compression Excellence AV1 vs VP9</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-ppt-presentations-with-verbal-narration-guide/"><u>2024 Approved PPT Presentations with Verbal Narration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avimpeg-mpeg/"><u>線上免費移除障礙：AVI到MPEG MPEG換算工具 - 摩華維轉換器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-da-aiff-a-flac-su-internet-guida-completa-di-movavi/"><u>Conversione Gratuita Da AIFF a FLAC Su Internet: Guida Completa Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-di-file-audio-ad-mp3-con-aif-aiutato-da-intelligenza-artificiale-metodo-affidabile-e-facile-di-movavi/"><u>Conversione Libera Di File Audio Ad MP3 Con AIF Aiutato Da Intelligenza Artificiale - Metodo Affidabile E Facile Di Movavi</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-androids-facetime-essentials-explained/"><u>In 2024, Android's FaceTime Essentials Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-p55-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel P55 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/lens-strategy-for-stellar-video-creations-for-2024/"><u>Lens Strategy for Stellar Video Creations for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passer-dun-gif-a-3gp-facilement-et-sans-frais-la-methode-movavi-pour-les-videastes-en-ligne/"><u>Passer D'un GIF À 3GP Facilement Et Sans Frais : La Méthode Movavi Pour Les Vidéastes en Ligne</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-invisible-forummers-handbook/"><u>The Invisible Forummer's Handbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-virtual-reality-mishaps-and-prevention-tips/"><u>Top 5 Virtual Reality Mishaps & Prevention Tips</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-8-linux-friendly-video-cutters/"><u>Top 8 Linux-Friendly Video Cutters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/topo-12-herramientas-de-animacion-libres-y-gratuitas-para-disenadores-en-2024/"><u>Topo 12 Herramientas De Animación Libres Y Gratuitas Para Diseñadores en 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaiv/"><u>모비 페이지에서 영상 클로닝을 위해 MOVAIV 솔루션: 무료, 쉽거리는 오븐화 - 동영상</u></a></li>
+<li><a href="https://some-tips.techidaily.com/8-windows/"><u>이상한 조각 마우스로 영역 캡처 : 8개의 무료 Windows 화면 캡쳐 프로그램을 선보여주세요!</u></a></li>
 </ul></div>
 

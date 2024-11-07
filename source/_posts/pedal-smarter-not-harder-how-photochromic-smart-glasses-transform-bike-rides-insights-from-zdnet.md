@@ -1,7 +1,7 @@
 ---
 title: "Pedal Smarter, Not Harder: How Photochromic Smart Glasses Transform Bike Rides | Insights From ZDNET"
-date: 2024-10-28T04:53:55.253Z
-updated: 2024-11-01T14:06:32.956Z
+date: 2024-11-02T16:48:37.382Z
+updated: 2024-11-06T23:50:40.028Z
 tags:
   - apple
 categories:
@@ -75,10 +75,10 @@ Matthew Miller/ZDNET
 The battery provides up to 12 hours of data and the glasses are dust- and water-resistant, which means I can wear them all year long here in Puget Sound. I always wear glasses while biking, but rarely use them while running, and yet I have worn these for every run since they arrived. I am definitely buying my own pair to help me achieve my goals.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -117,19 +117,19 @@ The Engo 2 also ensure that I will continue to be a Strava Premium subscriber. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-ultra-30-camera-a-detailed-examination-by-garmin/"><u>[New] 2024 Approved The Ultra 30 Camera - A Detailed Examination by Garmin</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-vlc-features-in-mac-os/"><u>[New] The Ultimate Guide to VLC Features in Mac OS</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-swift-skills-sharpen-your-windows-images/"><u>[Updated] Swift Skills Sharpen Your Windows Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-instagram-image-addition-playbook/"><u>[Updated] The Instagram Image Addition Playbook</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-tomtom-gopro-challenger-review-2023-update-for-2024/"><u>[Updated] TomTom GoPro Challenger Review – 2023 Update for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-crafting-your-own-insta-tones/"><u>2024 Approved Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-affordable-asmr-experience-awaits/"><u>2024 Approved The Ultimate Affordable ASMR Experience Awaits</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-virtual-reality-iphone-edition-for-2024/"><u>Capturing Virtual Reality IPhone Edition for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-poco-f5-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Poco F5 Pro 5G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-guide-instal-subtitles-on-mediaplayer/"><u>In 2024, Step-by-Step Guide Instal Subtitles on MediaPlayer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-drone-vr-integration-guide/"><u>In 2024, Ultimate Drone-VR Integration Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-k11x-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo K11x Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/selecting-sacred-melodies-a-christian-ringtones-compendium-for-2024/"><u>Selecting Sacred Melodies A Christian Ringtones Compendium for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-mastering-final-cut-the-ultimate-guide/"><u>[New] Mastering Final Cut The Ultimate Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-music-and-motion-imovie-edition/"><u>[New] Music & Motion IMovie Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-from-basic-to-breathtaking-transforming-your-discord-avatar-for-2024/"><u>[Updated] From Basic to Breathtaking Transforming Your Discord Avatar for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>[Updated] Supercharge Image Editing 10 Must-Know Pixlr Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-eight-master-your-photos-with-grid-masters/"><u>2024 Approved The Elite Eight Master Your Photos with Grid Masters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-glimpse-into-tomorrow-unveiling-apples-vision-of-household-robotic-assistance/"><u>A Glimpse Into Tomorrow: Unveiling Apple's Vision of Household Robotic Assistance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-to-the-amazonbasics-6-sheet-shredder-quality-and-cost-analysis/"><u>Comprehensive Guide to the AmazonBasics 6-Sheet Shredder: Quality and Cost Analysis</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-z-flip-5-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy Z Flip 5 Phone Screen?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-poco-x6-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Poco X6 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>In 2024, Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>In 2024, Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint-for-2024/"><u>Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-11-glitches-solutions-guide/"><u>Unraveling WINDOWS 11 Glitches: Solutions Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
 

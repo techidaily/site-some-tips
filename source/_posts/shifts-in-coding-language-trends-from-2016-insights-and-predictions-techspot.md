@@ -1,7 +1,7 @@
 ---
 title: "Shifts in Coding Language Trends From 2016: Insights & Predictions | TechSpot"
-date: 2024-09-18 22:16:29
-updated: 2024-09-20 11:19:12
+date: 2024-11-06T07:25:56.838Z
+updated: 2024-11-06T22:12:17.832Z
 tags:
   - developer
 categories:
@@ -81,6 +81,19 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +106,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +122,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[New] 2024 Approved Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-excellence-in-camera-technology-top-15/"><u>[New] 2024 Approved Excellence in Camera Technology – Top 15</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-from-scenes-to-screenings-filming-across-os-ecosystems/"><u>[New] From Scenes to Screenings Filming Across OS Ecosystems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-fixing-the-facial-flaws-in-iphone-xs-security-feature/"><u>[New] In 2024, Fixing the Facial Flaws in iPhone X's Security Feature</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-mastering-the-art-of-locating-fb-lately-seen-videos-for-2024/"><u>[New] Mastering the Art of Locating Fb Lately Seen Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[New] The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-depth-explanation-implementing-cc-license-types/"><u>[Updated] In-Depth Explanation Implementing CC License Types</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-freeze-your-pc-display-effortlessly/"><u>2024 Approved Freeze Your PC Display Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-practice-of-progressive-audio-suppression-in-fl-studio/"><u>2024 Approved The Practice of Progressive Audio Suppression in FL Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-key-differences-in-panoramic-and-vr-cinematography/"><u>2024 Approved Understanding Key Differences in Panoramic and VR Cinematography</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/examining-chatgpt-for-honesty-how-to-tell-if-its-lying-or-telling-you-the-truth/"><u>Examining ChatGPT for Honesty – How to Tell if It's Lying or Telling You the Truth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-storage-with-these-30-great-android-video-compressors/"><u>In 2024, Streamline Your Storage with These 30 Great Android Video Compressors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-users-manual-to-mac-dvd-burning/"><u>In 2024, The Complete User's Manual to Mac DVD Burning</u></a></li>
+</ul></div>
+

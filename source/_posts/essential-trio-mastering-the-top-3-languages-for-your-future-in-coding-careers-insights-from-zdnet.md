@@ -1,7 +1,7 @@
 ---
 title: "Essential Trio: Mastering the Top 3 Languages for Your Future in Coding Careers - Insights From ZDNet"
-date: 2024-09-18 21:54:23
-updated: 2024-09-20 12:59:25
+date: 2024-11-01T17:11:19.476Z
+updated: 2024-11-07T01:48:52.396Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-12-tycoon-masterpieces-for-unparalleled-gaming-bliss/"><u>[New] 2024 Approved Top 12 Tycoon Masterpieces for Unparalleled Gaming Bliss</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-is-splitcam-the-pinnacle-of-recording-capabilities/"><u>[New] In 2024, Is SplitCam The Pinnacle of Recording Capabilities?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-ai-photo-cutting-master/"><u>[New] Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-segments-crossfade-logic-pro-steps/"><u>[New] The Key to Smooth Segments Crossfade Logic Pro Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-srt-journey-from-novice-to-expert/"><u>[New] The SRT Journey From Novice to Expert</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-safely-archive-chats-and-calls-from-whatsapp-for-2024/"><u>[Updated] How to Safely Archive Chats and Calls From WhatsApp for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[Updated] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visionary-storytelling-for-video-viewers-growth-for-2024/"><u>[Updated] Visionary Storytelling for Video Viewers' Growth for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-podcast-descriptions-strategies-and-case-studies/"><u>2024 Approved Masterful Podcast Descriptions Strategies and Case Studies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-smooth-video-flow-from-your-photobooth-app/"><u>2024 Approved Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719373707174-check-physical-connections-make-sure-cables-are-firmly-connected-if-you-have-external-monitors-or-projectors-with-separate-brightness-controls/"><u>Check Physical Connections: Make Sure Cables Are Firmly Connected if You Have External Monitors or Projectors with Separate Brightness Controls.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/full-review-of-camstudios-screen-capture-features/"><u>Full Review of CamStudio's Screen Capture Features</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/improve-online-interactions-leverage-innovative-visitor-tracking-systems/"><u>Improve Online Interactions: Leverage Innovative Visitor Tracking Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-try-the-top-free-voice-modifier-for-an-edge-in-valorant/"><u>In 2024, Try the Top Free Voice Modifier for an Edge in Valorant</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-itel-p55-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Itel P55 5G FRP Bypass</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-channels-to-zero-cost-image-frames/"><u>In 2024, Unveiling Channels to Zero-Cost Image Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-meme-template-toolkit-for-2024/"><u>The Essential Meme Template Toolkit for 2024</u></a></li>
+</ul></div>
+

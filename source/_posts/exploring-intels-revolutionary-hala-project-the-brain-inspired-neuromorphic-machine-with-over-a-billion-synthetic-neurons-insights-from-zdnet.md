@@ -1,7 +1,7 @@
 ---
 title: "Exploring Intel's Revolutionary HALA Project: The Brain-Inspired Neuromorphic Machine with Over a Billion Synthetic Neurons - Insights From ZDNet"
-date: 2024-09-19 16:10:12
-updated: 2024-09-20 11:13:29
+date: 2024-11-03T02:54:14.764Z
+updated: 2024-11-06T16:31:53.103Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +86,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-make-slow-motion-videos-on-instagram-reels/"><u>[New] 2024 Approved How to Make Slow Motion Videos on Instagram Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[New] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[New] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-step-by-step-guide-to-building-a-profitable-channel/"><u>[New] Your Step-by-Step Guide to Building a Profitable Channel</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unveil-your-gaming-prowess-with-perfect-screen-shots-pc/"><u>[Updated] In 2024, Unveil Your Gaming Prowess with Perfect Screen Shots (PC)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-quick-recovery-of-twitch-broadcasts/"><u>[Updated] The Quick Recovery of Twitch Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[Updated] The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-assessing-screen-recorder-excellence-in-action/"><u>2024 Approved Assessing Screen Recorder Excellence in Action</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-getting-your-dell-camera-up-and-running-in-windows/"><u>Expert Tips: Getting Your Dell Camera Up and Running in Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-free-screen-recorders-on-windows-10/"><u>In 2024, Top 5 Free Screen Recorders on Windows 10</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximizing-engagement-how-to-pick-perfect-youtube-collaborators/"><u>Maximizing Engagement How to Pick Perfect YouTube Collaborators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-tomorrows-career-landscape-the-sevenfold-impact-of-generative-ai-on-global-labor/"><u>Navigating Tomorrow's Career Landscape: The Sevenfold Impact of Generative AI on Global Labor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-basics-of-electronic-story-craftsmanship-for-2024/"><u>The Basics of Electronic Story Craftsmanship for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-huawei-nova-y91-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Huawei Nova Y91 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

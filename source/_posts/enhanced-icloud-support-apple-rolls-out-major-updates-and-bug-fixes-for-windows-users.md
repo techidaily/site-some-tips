@@ -1,7 +1,7 @@
 ---
 title: "Enhanced iCloud Support: Apple Rolls Out Major Updates and Bug Fixes for Windows Users"
-date: 2024-10-24T18:05:53.370Z
-updated: 2024-10-31T22:26:02.284Z
+date: 2024-11-02T19:45:48.585Z
+updated: 2024-11-06T18:19:09.924Z
 tags:
   - apple
 categories:
@@ -115,10 +115,10 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Featured
@@ -130,6 +130,13 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -137,6 +144,19 @@ Before you'll have the option to turn on Universal Control, you need to update t
 On a Mac, open **System Preferences**, then select **Software Update**. 
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your iPad
 
@@ -146,13 +166,6 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to set up Universal Control on your Mac
 
 Screenshot by Jason Cipriani/ZDNet
@@ -160,13 +173,6 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -183,10 +189,10 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -247,22 +253,14 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[New] Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-macs-best-mkv-player-vendors/"><u>[Updated] 2024 Approved Mac's Best MKV Player Vendors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-enhancing-images-the-secret-to-subtracting-backdrops-in-photopea/"><u>2024 Approved Enhancing Images The Secret to Subtracting Backdrops in Photopea</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>2024 Approved Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tech-tips-how-to-get-fcp-without-money/"><u>2024 Approved Tech Tips How to Get FCP Without Money</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-techniques-for-gradual-mix-adjustments-in-pro-tools/"><u>2024 Approved Techniques for Gradual Mix Adjustments in Pro Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-details-a-closer-look-at-your-roblox-world/"><u>2024 Approved Unraveling Details A Closer Look at Your Roblox World</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 activation lock without Apple ID</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-htc-u23-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track HTC U23 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>In 2024, The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience/"><u>In 2024, Through the Looking Glass Decoding the Secrets to a Superior Windows 11 Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-upgrade-your-video-presentations-zooming-through-filter-techniques/"><u>In 2024, Upgrade Your Video Presentations Zooming Through Filter Techniques</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/intensive-assessment-the-ultimate-guide-to-bublcam-360-for-2024/"><u>Intensive Assessment The Ultimate Guide to Bublcam 360 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-insights-exploring-recent-updates-on-pricing-availability-specs-and-more/"><u>PSVR 2 Insights: Exploring Recent Updates On Pricing, Availability, Specs & More</u></a></li>
-<li><a href="https://driver-install.techidaily.com/rx-5500xt-driver-update-make-it-swift/"><u>RX 5500XT Driver Update: Make It Swift</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-speed-edit-photos-in-windows-11-for-2024/"><u>Unlocking Speed Edit Photos in Windows 11 for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/updated-guide-solving-microsoft-windows-minecraft-crash-issues-related-to-graphic-driver-problems/"><u>Updated Guide: Solving Microsoft Windows Minecraft Crash Issues Related to Graphic Driver Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-tech-tutorial-record-on-hangouts/"><u>[New] 2024 Approved Tech Tutorial Record on Hangouts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-solo-sounder-snafu-remedy-plan-for-2024/"><u>[New] Solo Sounder Snafu Remedy Plan for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>[New] Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unraveling-vrs-impact-on-digital-cinema/"><u>[New] Unraveling VR's Impact on Digital Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-choice-of-steadicams-for-drone-video-shootings/"><u>2024 Approved Superior Choice of Steadicams for Drone Video Shootings</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/accidentally-downgraded-to-home-ed-restore-your-windows-pro-features-with-this-quick-fix-tech-tips-for-professionals/"><u>Accidentally Downgraded to Home Ed: Restore Your Windows Pro Features with This Quick Fix | Tech Tips for Professionals</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-g310-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on G310</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g04-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G04 Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
 </ul></div>
 

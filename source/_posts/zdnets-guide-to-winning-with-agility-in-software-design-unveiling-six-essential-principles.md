@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Guide to Winning with Agility in Software Design: Unveiling Six Essential Principles"
-date: 2024-09-18 20:22:32
-updated: 2024-09-20 11:44:14
+date: 2024-11-02T23:44:08.894Z
+updated: 2024-11-06T22:54:19.148Z
 tags:
   - developer
 categories:
@@ -104,11 +104,34 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-novelty-the-leading-five-new-features-unraveled/"><u>[New] Facebook's Novelty The Leading Five New Features Unraveled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quickest-way-to-entertain-kapwing-memes/"><u>[New] The Quickest Way to Entertain - Kapwing Memes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-automatic-transcription-in-google-docs/"><u>[New] Unveiling the Secrets of Automatic Transcription in Google Docs</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>[Updated] 2024 Approved Next-Gen Cinema at Home Best 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>[Updated] In 2024, The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-affordable-360-degree-cameras/"><u>[Updated] Top 10 Affordable 360 Degree Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>[Updated] Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-13-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 13 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>In 2024, Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-comprerancial-onestream-approach-to-online-streaming/"><u>In 2024, The Comprerancial OneStream Approach to Online Streaming</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/srt-innovations-the-future-explained-today/"><u>SRT Innovations The Future Explained Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-leveraging-openais-advanced-api-capabilities/"><u>The Ultimate Guide to Leveraging OpenAI's Advanced API Capabilities</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-future-with-iphone-15-dont-miss-out-on-apples-latest-innovations-technews/"><u>Unlock the Future with iPhone 15 – Don't Miss Out on Apple’s Latest Innovations! | TechNews</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

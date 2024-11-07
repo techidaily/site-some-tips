@@ -1,7 +1,7 @@
 ---
 title: "Bring Back the Arcade Magic: Running Doom on Raspberry Pi Pico Demystified"
-date: 2024-09-18 12:25:55
-updated: 2024-09-20 12:32:34
+date: 2024-11-03T18:51:26.044Z
+updated: 2024-11-06T21:03:44.486Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -103,6 +110,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +124,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-4-fastest-lenovo-record-methods/"><u>[New] 2024 Approved The 4 Fastest Lenovo Record Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-engage-inspire-convert-strategizing-for-impactful-instavideo-content/"><u>[New] Engage, Inspire, Convert Strategizing for Impactful InstaVideo Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-download-whatsapp-ringtone-and-customize-it-on-ios-and-android/"><u>[New] How To Download WhatsApp Ringtone And Customize It On iOS And Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-percussion-prospector-find-and-test-free-software/"><u>[New] The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-shoppers-list-select-box-personalization-sites/"><u>[New] Ultimate Shopper's List Select Box Personalization Sites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simplified-techniques-for-capturing-vimeo-content-for-2024/"><u>[Updated] Simplified Techniques for Capturing Vimeo Content for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-platforms-to-download-and-listen-to-dj-music/"><u>2024 Approved Platforms to Download and Listen to DJ Music</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-sourcing-a-list-cinematography-experts/"><u>2024 Approved Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-oneplus-s-8t-cutting-edge-speed-dragged-down-by-camcorder-issues/"><u>Comprehensive Review of OnePlus S 8T: Cutting-Edge Speed Dragged Down by Camcorder Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-proven-strategies-for-effective-phone-note-taking/"><u>In 2024, Proven Strategies for Effective Phone Note-Taking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>In 2024, Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-techniques-for-fabulous-photo-collage-artistry/"><u>In 2024, Techniques for Fabulous Photo Collage Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-viewers-experience-with-top-mac-streamers/"><u>In 2024, Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/restore-your-ringback-tones-a-comprehensive-guide-for-a-quiet-iphone/"><u>Restore Your Ringback Tones: A Comprehensive Guide for a Quiet iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-kinemaster-blueprint-for-flawless-green-screen-techniques-for-2024/"><u>The Complete Kinemaster Blueprint for Flawless Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformative-power-in-healthcare-through-vr-for-2024/"><u>Transformative Power in Healthcare Through VR for 2024</u></a></li>
+</ul></div>
+

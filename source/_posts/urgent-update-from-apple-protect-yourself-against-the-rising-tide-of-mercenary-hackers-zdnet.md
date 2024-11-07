@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update From Apple: Protect Yourself Against the Rising Tide of Mercenary Hackers | ZDNET"
-date: 2024-10-28T03:35:02.517Z
-updated: 2024-11-01T11:45:14.804Z
+date: 2024-11-03T06:03:21.850Z
+updated: 2024-11-06T20:42:35.725Z
 tags:
   - apple
 categories:
@@ -72,10 +72,16 @@ Sideloading could circumvent iOS's privacy controls, allowing apps to access and
 But there is a potential positive side. Allowing sideloading could ensure that Apple's privacy and security practices are not used anti-competitively. This could help maintain genuine user protection, which is crucial to maintaining user trust and safeguarding the platform's integrity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App Store changes
@@ -103,10 +109,10 @@ The changes could also lead to increased innovation and competition in markets s
 Adjustments to Apple's revenue practices could ensure fairer conditions for developers, leading to a more open and flexible ecosystem. Overall, the changes have the potential to fundamentally alter the economics of the app market, leading to a more competitive and innovative industry.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open standards and protocols and the increase of open-source software on Apple platforms
@@ -119,10 +125,10 @@ With a requirement for sideloading and allowing third-party app stores and a nee
 * **Access to open-source app repositories:** Users might be able to download apps from open-source repositories, offering a wider selection of apps and potentially fostering a community-driven app development ecosystem on Apple devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regulatory and industry-wide impact
@@ -136,10 +142,10 @@ Apple, of course, is not giving up the fight. Its response to the DOJ lawsuit, i
 As Apple navigates these legal and market challenges, it must maintain its hallmark of a secure, user-friendly environment while potentially opening up access to more apps and services. This lawsuit's implications are profound, and it will be interesting to see how it unfolds and affects the tech industry in the coming years.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Previous coverage
@@ -178,17 +184,16 @@ As Apple navigates these legal and market challenges, it must maintain its hallm
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-techniques-for-capturing-the-perfect-verbal-note/"><u>[New] 2024 Approved Techniques for Capturing the Perfect Verbal Note</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-superior-visual-treatment-applying-filters-to-videos/"><u>[New] Superior Visual Treatment Applying Filters to Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-key-to-social-media-dominance-learning-the-craft-of-self-replication-on-tiktok-for-2024/"><u>[New] The Key to Social Media Dominance Learning the Craft of Self-Replication on TikTok for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/capturing-desktop-activity-a-guide-to-screen-recording-with-audio-on-windows-systems/"><u>Capturing Desktop Activity: A Guide to Screen Recording With Audio on Windows Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/combine-multiple-videos-into-one-with-our-no-cost-online-video-editor/"><u>Combine Multiple Videos Into One with Our No-Cost Online Video Editor</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-k70e-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi K70E? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2003-files-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2003 files free</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/master-the-switch-linking-instagram-with-facebook-for-2024/"><u>Master the Switch Linking Instagram with Facebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-gif-to-webm-upgrade-convert-your-animations-cost-free-using-top-seo-optimized-solutions/"><u>Online GIF to WebM Upgrade: Convert Your Animations Cost-Free Using Top SEO-Optimized Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-insider-guide-whatsapp-audio-talks-for-2024/"><u>The Insider Guide WhatsApp Audio Talks for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/trasforma-i-file-rmvb-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma I File RMVB in MP4 Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-securely-downloading-youtube-audios-3-easy-and-reliable-methods/"><u>[New] In 2024, Securely Downloading YouTube Audios 3 Easy & Reliable Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-smart-solutions-for-gathering-visual-assets/"><u>[New] In 2024, Smart Solutions for Gathering Visual Assets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-skyborne-duo-faceoff-dji-mavic-pro-and-gopro-karma/"><u>[New] The Skyborne Duo Faceoff DJI Mavic Pro & GoPro Karma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>[New] Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transformative-techniques-for-capturing-on-iphone/"><u>[Updated] Transformative Techniques for Capturing on iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>2024 Approved The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-kinemasters-zoom-features-for-professional-results/"><u>In 2024, Navigating Kinemaster's Zoom Features for Professional Results</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>In 2024, The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/must-have-windows-11-video-editing-apps-list/"><u>Must-Have Windows 11 Video Editing Apps List</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015877178-overcoming-sound-challenges-expert-advice-to-get-your-logitee-g733-mic-working-again/"><u>Overcoming Sound Challenges: Expert Advice to Get Your Logitee G733 Mic Working Again</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-exploring-tools-to-integrate-special-mask-effects-into-your-content-read-the-following-article-to-master-some-tools-experts-in-mask-tracking-for-202/"><u>Updated Exploring Tools to Integrate Special Mask Effects Into Your Content. Read the Following Article to Master some Tools Experts in Mask Tracking for 2024</u></a></li>
 </ul></div>
 

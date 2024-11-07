@@ -1,7 +1,7 @@
 ---
 title: "Indonesian E-Commerce Boom: TikTok's Massive $1.5 Billion Investment Revealed by ZDNet"
-date: 2024-09-19 13:11:56
-updated: 2024-09-20 12:27:17
+date: 2024-10-30T21:19:09.489Z
+updated: 2024-11-07T02:01:48.103Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,13 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +64,13 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -64,6 +78,13 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +95,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +132,27 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-leap-into-a-bigger-view-the-new-full-screen-fb-video-trend/"><u>[Updated] In 2024, Leap Into a Bigger View The New Full-Screen FB Video Trend</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-compilation-4-websites-for-ringtone-hunt/"><u>[Updated] The Ultimate Compilation 4 Websites for Ringtone Hunt</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-using-telegram-web-effectively/"><u>2024 Approved The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-tips-for-stable-server-connections-in-rainbow-six-siege/"><u>Expert Tips for Stable Server Connections in Rainbow Six Siege</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-15-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 15 and iPad</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-itel-p55t-by-drfone-android/"><u>In 2024, How to Bypass FRP from Itel P55T?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-of-powerful-titles/"><u>In 2024, Unveiling the Secrets of Powerful Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-inshot-the-best-video-editing-app-our-in-depth-review-for-2024/"><u>Is InShot the Best Video Editing App? Our In-Depth Review for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/mastering-gaming-snaps-top-5-windows-11-tactics/"><u>Mastering Gaming Snaps Top 5 Windows 11 Tactics</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-guide-how-to-transform-your-m4r-ringtones-into-mp3-audio/"><u>Quick Guide: How to Transform Your M4R Ringtones Into MP3 Audio</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-methodical-path-to-discovering-hidden-youtube-footage/"><u>The Methodical Path to Discovering Hidden YouTube Footage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-of-your-podcast-covers-now-for-2024/"><u>Unlock the Potential of Your Podcast Covers Now for 2024</u></a></li>
+</ul></div>
+

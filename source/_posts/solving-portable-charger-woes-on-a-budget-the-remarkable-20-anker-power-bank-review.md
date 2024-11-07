@@ -1,7 +1,7 @@
 ---
 title: "Solving Portable Charger Woes on a Budget: The Remarkable $20 Anker Power Bank Review"
-date: 2024-10-27T01:56:57.881Z
-updated: 2024-10-31T16:39:05.832Z
+date: 2024-10-31T05:51:35.370Z
+updated: 2024-11-06T23:36:12.027Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 Lipstick-sized charger
 
@@ -64,10 +71,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -79,10 +86,16 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
@@ -98,22 +111,21 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C19c7ff24-001c-4a22-80e9-32404376b69b%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -149,19 +161,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-securely-archive-calls-on-facebook-messenger/"><u>[New] 2024 Approved How to Securely Archive Calls on Facebook Messenger</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-masterclass-in-youtube-video-previews-and-trailers/"><u>[New] 2024 Approved Masterclass in YouTube Video Previews and Trailers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-realms-unite-or-compare-metaverse-vs-omniverse-explored/"><u>[New] Realms Unite or Compare? Metaverse Vs. Omniverse Explored</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-10-tricks-for-turning-youtube-watchlists-around-for-2024/"><u>[Updated] 10 Tricks for Turning YouTube Watchlists Around for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-complete-manual-for-background-banishment-in-figma/"><u>2024 Approved The Complete Manual for Background Banishment in Figma</u></a></li>
-<li><a href="https://some-tips.techidaily.com/entendiendo-los-archivos-mov-una-guia-completa-para-abrir-y-utilizar-este-formato/"><u>Entendiendo Los Archivos .MOV: Una Guía Completa Para Abrir Y Utilizar Este Formato</u></a></li>
-<li><a href="https://some-tips.techidaily.com/invest-i-movavi-multimedia-forstehjelpen-for-dvs-med-media/"><u>Invest I Movavi Multimedia - Førstehjelpen for Dvs Med Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/italy-outlaws-chatgpt-immediate-repercussions-discussed/"><u>Italy Outlaws ChatGPT: Immediate Repercussions Discussed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/les-meilleures-utilitaires-libres-de-trace-en-2024-classement-de-movavi/"><u>Les Meilleures Utilitaires Libres De Tracé en 2024 : Classement De Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-vrijetijdspositie-ga-gratis-door-de-konverteren-van-opus-naar-flac-met-movavi/"><u>Online Vrijetijdspositie - Ga Gratis Door De Konverteren Van OPUS Naar FLAC Met Movavi</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-sharpness-control-on-photos-with-pcmobile-for-2024/"><u>Perfect Sharpness Control on Photos with PC/Mobile for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/troubleshooting-fixing-unplayable-amr-audio-files-across-macos-windows-and-mobile-devices/"><u>Troubleshooting: Fixing Unplayable AMR Audio Files Across macOS, Windows & Mobile Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721480789639-whatsapp-camera-woes-learn-how-to-adjust-zoom-settings-properly/"><u>WhatsApp Camera Woes? Learn How to Adjust Zoom Settings Properly!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726225800438-ogv-mp4-movavi/"><u>オンラインで自由に利用可能な OGV から MP4 へのフリー変換ツール - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-producing-high-quality-hdr-photographs-with-lightroom/"><u>[New] Tips for Producing High-Quality HDR Photographs with Lightroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-pages-for-stylish-shiny-3d-type-creations/"><u>[New] Top Pages for Stylish, Shiny 3D Type Creations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-shareable-humorous-content/"><u>[Updated] The Essence of Shareable Humorous Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-future-of-flight-hubsans-revolutionary-h501s-explored/"><u>[Updated] The Future of Flight - Hubsan's Revolutionary H501S Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-underrated-downsides-of-vr/"><u>[Updated] Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-tiktok-age-authentication/"><u>2024 Approved Quick Tips TikTok Age Authentication</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-tal-episodes-as-mp3-two-effective-techniques/"><u>Download TAL Episodes as MP3: Two Effective Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exploring-alternatives-the-10-best-non-vimeo-video-tools/"><u>Exploring Alternatives The 10 Best Non-Vimeo Video Tools</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-mssfmtdll-not-found-problem-tips-and-solutions/"><u>How To Fix 'mssfmt.dll Not Found' Problem: Tips and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upload-like-a-pro-the-ultimate-guide-to-photo-videos-and-online-success/"><u>In 2024, Upload Like a Pro The Ultimate Guide to Photo Videos and Online Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-the-ascent-playability-techniques-to-combat-stuttering-and-boost-frames-per-second-fps/"><u>Maximizing The Ascent Playability: Techniques to Combat Stuttering & Boost Frames Per Second (FPS)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125183563-navigating-hardware-with-tom-expert-insights-on-cutting-edge-technology-today/"><u>Navigating Hardware with Tom: Expert Insights on Cutting-Edge Technology Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-how-to-find-and-download-hp-spectre-x360s-compatible-windows-drivers/"><u>Step-by-Step: How to Find and Download HP Spectre X360's Compatible Windows Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-comprehensive-selection-of-top-10-free-srt-changers-for-2024/"><u>The Comprehensive Selection of Top 10 FREE SRT Changers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-11-8-7-macos-dvd-7/"><u>Windows 11, 8, 7 및 macOS 상대적인 익명성: 자동화된 DVD 리팩터링에 관한 7가지 획기온전한 해결사일</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/your-guide-to-cost-free-android-screenshots-for-2024/"><u>Your Guide to Cost-Free Android Screenshots for 2024</u></a></li>
 </ul></div>
 

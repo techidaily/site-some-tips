@@ -1,7 +1,7 @@
 ---
 title: Apple to Revolutionize Wearable Tech with Cameras in Future AirPods by 2026? Find Out More Here on ZDNet
-date: 2024-10-24T23:22:33.272Z
-updated: 2024-11-01T03:35:08.050Z
+date: 2024-11-05T01:27:29.392Z
+updated: 2024-11-06T19:23:56.820Z
 tags:
   - apple
 categories:
@@ -71,31 +71,29 @@ Apple partner and supplier Foxconn will be making the IR camera with a goal of 1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engaging-everyone-quickly-which-platform-triumphs-for-shorter-videos/"><u>[New] 2024 Approved Engaging Everyone Quickly Which Platform Triumphs for Shorter Videos?</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-creating-convincing-news-final-buzzes/"><u>[Updated] Creating Convincing News Final Buzzes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-nokia-c210-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Nokia C210</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-lava-yuva-3-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Lava Yuva 3 Pro FRP?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-oneplus-ace-3-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked OnePlus Ace 3 Phone?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-analysis-of-vsdcs-features-and-its-best-software-rival/"><u>In-Depth Analysis of VSDC's Features and Its Best Software Rival</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instantaneously-crafting-creative-collage-imagery-for-fb/"><u>Instantaneously Crafting Creative Collage Imagery for FB</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/kostenlose-backup-tools-fur-externe-festplatten-in-windows-111087-sichern-sie-ihre-daten-automatisch/"><u>Kostenlose Backup-Tools Für Externe Festplatten in Windows 11/10/8/7 – Sichern Sie Ihre Daten Automatisch!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/retail-launch-akasas-innovative-13-inch-fanless-nuc-13-pro-computing-system/"><u>Retail Launch: Akasa's Innovative 13-Inch Fanless NUC 13 Pro Computing System</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tech-news-recap-what-to-expect-from-the-latest-phone-launches-by-google-and-samsung-this-week/"><u>Tech News Recap: What to Expect From the Latest Phone Launches by Google and Samsung This Week</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-advantages-of-choosing-a-smartphone-with-e-ink-technology-a-personal-perspective/"><u>The Advantages of Choosing a Smartphone with E-Ink Technology: A Personal Perspective</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-concept-of-ai-singularity-explained-reality-check/"><u>The Concept of AI Singularity Explained: Reality Check.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-hidden-costs-of-mining-bitcoin-on-your-personal-computer/"><u>The Hidden Costs of Mining Bitcoin on Your Personal Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-top-10-reading-list-chosen-by-our-community/"><u>The Ultimate Top 10 Reading List, Chosen by Our Community</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-reasons-artificial-intelligence-assistants-havent-won-me-over-insights-and-perspectives/"><u>Top 5 Reasons Artificial Intelligence Assistants Haven't Won Me Over: Insights and Perspectives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-tech-tips-easy-solutions-for-the-most-frequent-tv-malfunctions/"><u>Top Tech Tips: Easy Solutions for the Most Frequent TV Malfunctions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-ai-art-with-simple-tweaks-unlock-potential-using-these-essential-8-midjourney-commands/"><u>Transforming AI Art with Simple Tweaks: Unlock Potential Using These Essential 8 Midjourney Commands</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transition-time-embracing-perplexity-the-innovative-ai-driven-search-platform/"><u>Transition Time: Embracing Perplexity, the Innovative AI-Driven Search Platform</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-power-of-ai-with-windows-copilot-enable-and-harness-microsofts-intelligent-assistant-efficiently/"><u>Unlocking the Power of AI with Windows Copilot - Enable & Harness Microsoft’s Intelligent Assistant Efficiently</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-launching-a-vlog-essential-equipmentapps/"><u>[New] Launching a Vlog Essential Equipment/Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-leading-transformation-software-spectrashift-series/"><u>[New] Leading Transformation Software SpectraShift Series</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-obs-screen-recorder-review/"><u>[New] OBS Screen Recorder Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-funniest-memes-download-now/"><u>[New] The Funniest Memes, Download Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-navigating-360-degree-video-adjustments-using-premiere-pro/"><u>[Updated] Navigating 360-Degree Video Adjustments Using Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[Updated] Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-deciphering-instagrams-video-snippet-size/"><u>2024 Approved Deciphering Instagram's Video Snippet Size</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-raw-to-refined-the-essential-guide-to-podcast-editing-with-garageband/"><u>2024 Approved From Raw to Refined The Essential Guide to Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-how-to-transfer-playlists-between-music-services-a-detailed-guidance/"><u>2024 Approved How to Transfer Playlists Between Music Services – A Detailed Guidance</u></a></li>
+<li><a href="https://tools.techidaily.com/5kplayer/dlna/"><u>5KPlayer - DLNA</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210182283-9781636762852-beyond-lifes-moments/"><u>Beyond Life's Moments | Free Book</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-jackery-powerbar-charger-case-assessment-with-integrated-ac-socket/"><u>Comprehensive Jackery PowerBar Charger Case Assessment with Integrated AC Socket</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860070034-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>In 2024, Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-pc-sound-control/"><u>In 2024, Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-it-possible-for-cyberthieves-to-exploit-chatgpt-for-financial-frauds-and-computer-intrusions/"><u>Is It Possible for Cyberthieves to Exploit ChatGPT for Financial Frauds and Computer Intrusions?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-pcs-hd-color-videography-for-2024/"><u>Ultimate Guide PC's HD Color Videography for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unforgettable-visions-the-top-15-stop-motion-film-classics-for-2024/"><u>Unforgettable Visions The Top 15 Stop-Motion Film Classics for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

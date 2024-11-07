@@ -1,7 +1,7 @@
 ---
 title: "The Road to Standardizing Open Source AI Is Paved with Disagreements: The Latest Developments Explained | ZDNET"
-date: 2024-09-18 13:32:23
-updated: 2024-09-20 11:19:24
+date: 2024-10-31T00:57:04.130Z
+updated: 2024-11-07T04:37:53.675Z
 tags:
   - developer
 categories:
@@ -104,11 +104,36 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[New] Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ideo-venue-selection-finding-the-right-platform-for-2024/"><u>[New] Video Venue Selection Finding the Right Platform for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diy-gif-creation-extracting-motion-from-youtube-videos-for-2024/"><u>[Updated] DIY GIF Creation Extracting Motion From YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-soundwaves-moving-playlists-across-networks/"><u>[Updated] Streamline Your Soundwaves Moving Playlists Across Networks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-funimate-guidebook/"><u>[Updated] The Essential Funimate Guidebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>[Updated] Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-applying-vhs-filters-on-computers/"><u>2024 Approved Ultimate Guide to Applying VHS Filters on Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-flawless-inshot-edit-transitions/"><u>In 2024, The Art of Flawless Inshot Edit Transitions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/moving-from-movie-plus-web-audio-files-swiftly-convert-m4b-to-m4a-formats-for-free-with-our-online-tools/"><u>Moving From MOVIE + WEB Audio Files - Swiftly Convert M4B to M4A Formats for Free with Our Online Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-review-why-samsungs-galaxy-note-9-dominates-big-screen-phone-category/"><u>Top Review: Why Samsung's Galaxy Note 9 Dominates Big-Screen Phone Category</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-solo-earbuds/"><u>Troubleshooting Solo Earbuds</u></a></li>
+<li><a href="https://techidaily.com/ultimate-tutorial-on-resetting-your-pc-to-factory-settings-in-windows-11-a-step-by-step-approach/"><u>Ultimate Tutorial on Resetting Your PC to Factory Settings in Windows 11 – A Step by Step Approach</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/voice-translation-revolution-oculus-quest-and-mondly-unite/"><u>Voice Translation Revolution: Oculus Quest and Mondly Unite</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

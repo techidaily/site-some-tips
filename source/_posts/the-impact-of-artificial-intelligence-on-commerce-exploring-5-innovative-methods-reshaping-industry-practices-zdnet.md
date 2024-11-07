@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Artificial Intelligence on Commerce: Exploring 5 Innovative Methods Reshaping Industry Practices | ZDNet"
-date: 2024-09-17 14:14:53
-updated: 2024-09-20 12:27:40
+date: 2024-11-01T01:17:33.728Z
+updated: 2024-11-06T23:34:01.990Z
 tags:
   - e-commerce
 categories:
@@ -43,6 +43,19 @@ After the trial period, the membership will cost [$69 per year](https://buy.geni
 
 If you're a student with an existing Amazon Prime account but without the Prime Student perks, here's how to switch your existing Prime subscription to one more tailored to a student's lifestyle and price point. 
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to switch to a Prime Student membership from an existing Prime account 
 
 ## 1\. Visit the Prime Student Page
@@ -57,6 +70,19 @@ On the mobile app or web browser, log in to your existing Amazon account using t
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fill out your credentials
 
 Depending on the option you choose, after signing in, you'll be asked to submit proof of your credentials. For example, since I am not a college student but fall within the age limit, I chose the "Verify with Age" option. As a result, I was asked to verify my age with a photo of a valid ID such as a passport or driver's license. 
@@ -65,11 +91,25 @@ If you choose the "Verify with Student Status" option, you'll be asked to fill o
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
 If you want to join Prime Student and don't have an account, you will need to sign up for an Amazon account, as seen in step 2 above. Then, you can follow all of the same steps. 
 
 ## FAQs  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I get access to Prime Day sales with Prime Student? 
 
@@ -104,11 +144,31 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-10-best-digital-wallpaper-change-software/"><u>[New] 10 Best Digital Wallpaper Change Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-high-definition-wonders-with-the-nikon-d500/"><u>[New] 2024 Approved High Definition Wonders with the Nikon D500</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-intro-creation-made-simple-free-templates/"><u>[New] Intro Creation Made Simple - Free Templates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sync-audio-to-powerpoint-presentations/"><u>[New] Sync Audio to PowerPoint Presentations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-to-combat-unsteady-shot-dynamics/"><u>[New] Techniques to Combat Unsteady Shot Dynamics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[New] Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-pc-edition-of-image-overlay-mastery/"><u>[New] Ultimate PC Edition of Image Overlay Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-internet-based-image-trimming/"><u>[Updated] The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-total-horizon-capture-versus-focused-dimensionality/"><u>2024 Approved Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ensuring-data-safety-how-to-use-file-history-for-version-control-in-windows/"><u>Ensuring Data Safety: How to Use File History for Version Control in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-camcorder-tech-for-shooting-sports/"><u>In 2024, Best Camcorder Tech for Shooting Sports</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshopping-magic-deformation-tips/"><u>In 2024, Photoshopping Magic Deformation Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>In 2024, Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-when-your-computer-wont-read-your-usb-flash-drive/"><u>Simple Fixes for When Your Computer Won't Read Your USB Flash Drive</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-medias-cost-to-america-excessive-damage/"><u>Social Media's Cost to America: Excessive Damage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-premium-video-translation-tools-for-2024/"><u>Top 6 Premium Video Translation Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-esd-format-to-compatible-windows-isos/"><u>Transforming ESD Format to Compatible Windows ISOs</u></a></li>
+</ul></div>
+

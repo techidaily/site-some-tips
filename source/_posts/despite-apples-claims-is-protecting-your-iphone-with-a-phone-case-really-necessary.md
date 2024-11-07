@@ -1,7 +1,7 @@
 ---
 title: Despite Apple's Claims, Is Protecting Your iPhone with a Phone Case Really Necessary?
-date: 2024-10-26T20:42:25.827Z
-updated: 2024-11-01T07:36:48.800Z
+date: 2024-11-03T21:50:08.014Z
+updated: 2024-11-06T17:23:45.899Z
 tags:
   - apple
 categories:
@@ -71,10 +71,10 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The role of TikTok?
@@ -94,16 +94,10 @@ It's even odder that Apple would release an ad that makes the company come acros
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
@@ -154,18 +148,21 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-strategic-setup-youtube-gaming-banners-made-easy/"><u>[New] In 2024, Strategic Setup YouTube Gaming Banners Made Easy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-revolutionaries-building-virtual-realms/"><u>[New] Revolutionaries Building Virtual Realms</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-reel-entertainment-top-20-youtube-film-sources/"><u>[Updated] 2024 Approved Reel Entertainment Top 20 YouTube Film Sources</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-streamlining-post-production-with-luts-in-ae/"><u>[Updated] In 2024, Streamlining Post-Production with LUTs in AE</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls-in-2024/"><u>[Updated] The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls, In 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>[Updated] Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-professional-video-finishing-touches-device-based-filters/"><u>2024 Approved Professional Video Finishing Touches Device-Based Filters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-color-in-photography-top-11-tutorials/"><u>In 2024, The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-success-with-effective-video-praise-techniques/"><u>In 2024, Unlocking Success with Effective Video Praise Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/solving-audio-codec-unsupported-on-your-samsung-television-a-step-by-step-guide/"><u>Solving 'Audio Codec Unsupported' On Your Samsung Television: A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vanguard-initialization-fixed-tips-and-solutions-for-valorant-gamers-experiencing-issues/"><u>Vanguard Initialization Fixed - Tips and Solutions for Valorant Gamers Experiencing Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-navigating-pexels-tips-for-discovering-striking-images/"><u>[New] 2024 Approved Navigating Pexels Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-and-science-of-broadcasting-in-real-time/"><u>[New] The Art and Science of Broadcasting in Real Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unpacking-the-dji-phantom-3-standard-features/"><u>[New] Unpacking the DJI Phantom 3 Standard Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-enhancements-in-windows-11-unveiled/"><u>[Updated] 2024 Approved The Enhancements in Windows 11 Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cut-down-on-hassle-with-easy-ipad-recording-methods/"><u>[Updated] Cut Down On Hassle With Easy iPad Recording Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-wizardry-techniques-for-massive-reach/"><u>[Updated] Instagram Video Wizardry Techniques for Massive Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-magic-behind-the-lens-iphone-xs-groundbreayer-camera-tech/"><u>[Updated] The Magic Behind the Lens IPhone X's Groundbreayer Camera Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-from-monochrome-moments-to-multicolor-movies/"><u>2024 Approved From Monochrome Moments to Multicolor Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-of-quick-pace-audio-apps/"><u>2024 Approved Ultimate List of Quick-Pace Audio Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tech-gems-best-desktops-revealed/"><u>2024 Approved Ultimate Tech Gems - Best Desktops Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-fundamentals-unpacked-for-novices-categories-and-software/"><u>2024 Approved Vector Fundamentals Unpacked for Novices, Categories & Software</u></a></li>
+<li><a href="https://win11.techidaily.com/epic-launcher-stability-guide-for-windows/"><u>Epic Launcher Stability Guide for Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-honor-x50iplus-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor X50i+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-photographic-edge-cutting-edge-editing-strategies/"><u>In 2024, The Photographic Edge Cutting-Edge Editing Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-spotifys-ad-landscape-a-comprehensive-guide-for-2024/"><u>Mastering Spotify's Ad Landscape A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-note-50-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Note 50</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling Codenotary's SBOM Solution for Enhanced Kubernetes Security - Explore on ZDNet
-date: 2024-09-18 12:21:50
-updated: 2024-09-20 12:53:51
+date: 2024-10-31T21:44:31.089Z
+updated: 2024-11-07T00:35:14.177Z
 tags:
   - developer
 categories:
@@ -104,11 +104,32 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-best-match-image-taking-and-music-merging-technology/"><u>[New] In 2024, Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-image-editors-ultimate-toolkit-review/"><u>[New] The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlock-your-potential-best-video-editing-hacks/"><u>[New] Unlock Your Potential Best Video Editing Hacks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-streamlining-media-edits-storyremix-and-windows-11-photos-integration/"><u>[Updated] 2024 Approved Streamlining Media Edits StoryRemix & Windows 11 Photos Integration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-stunning-photos-with-color-correction/"><u>2024 Approved Craft Stunning Photos with Color Correction</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>In 2024, The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/mypics-access-adding-old-timey-games-on-win-11/"><u>MyPics Access: Adding Old-Timey Games on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/re-enabling-razer-device-discovery-on-win1011/"><u>Re-Enabling Razer Device Discovery on Win10/11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tackling-the-mystery-of-missing-shorts-video-images/"><u>Tackling the Mystery of Missing Shorts Video Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-insiders-guide-to-excellence-in-zoom-webinars-for-2024/"><u>The Insider’s Guide to Excellence in Zoom Webinars for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

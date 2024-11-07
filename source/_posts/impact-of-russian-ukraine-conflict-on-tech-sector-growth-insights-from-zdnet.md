@@ -1,7 +1,7 @@
 ---
 title: Impact of Russian-Ukraine Conflict on Tech Sector Growth | Insights From ZDNet
-date: 2024-09-17 20:45:22
-updated: 2024-09-20 12:36:49
+date: 2024-11-04T17:12:17.488Z
+updated: 2024-11-06T19:31:03.274Z
 tags:
   - developer
 categories:
@@ -104,11 +104,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-import-photos-and-videos-into-windows-10/"><u>[New] The Ultimate Guide to Import Photos & Videos Into Windows 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leveraging-youtube-top-5-digital-strategies-for-brand-success/"><u>[Updated] Leveraging YouTube Top 5 Digital Strategies for Brand Success</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premium-devices-for-claymation-films-for-2024/"><u>[Updated] Premium Devices for Claymation Films for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tap-out-of-tiktok-clutter-editing-guide-for-massive-drafts/"><u>[Updated] Tap Out of TikTok Clutter Editing Guide for Massive Drafts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44k544k44oh44kj44oz44kw5yuv55s744oa44km44oz44ot44o844oj5oml6acg44ks44kk44oj44cn/"><u>「スタディング動画ダウンロード手順ガイド」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-key-to-crisp-clear-cinematography/"><u>2024 Approved The Key to Crisp, Clear Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-path-to-richer-textual-design-in-ae/"><u>2024 Approved The Path to Richer Textual Design in AE</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-5-budget-friendly-pinterest-video-grabs/"><u>2024 Approved Top 5 Budget-Friendly Pinterest Video Grabs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supercharge-your-pc-with-these-win-10-tricks/"><u>In 2024, Supercharge Your PC with These Win 10 Tricks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-cut-trim-and-edit-avi-videos-with-the-best-tools-windows-mac-android-iphone-online-for-2024/"><u>New Cut, Trim, and Edit AVI Videos with the Best Tools Windows, MAC, Android, iPhone, Online for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-battlefield-2042-performance-hiccups-enhancing-your-pcs-fps-and-fluidity/"><u>Overcome Battlefield 2042 Performance Hiccups: Enhancing Your PC's FPS and Fluidity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-highlights-of-day-one-at-ces-2023-a-look-into-the-future-of-technology-gadgetflow/"><u>Unveiling the Highlights of Day One at CES 2023: A Look Into the Future of Technology | GadgetFlow</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Adjusting the Compass: Forecasted Changes in the Data Science & AI Sector | ZDNet"
-date: 2024-09-18 10:16:10
-updated: 2024-09-20 10:41:18
+date: 2024-10-31T06:57:08.269Z
+updated: 2024-11-07T08:24:01.751Z
 tags:
   - developer
 categories:
@@ -104,11 +104,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-specs-hp-envy-27s-4k-capabilities/"><u>[New] Unveiling the Specs HP Envy 27'S 4K Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-reclaim-review-the-ultimate-screen-recorder-for-2024/"><u>[Updated] Innovative 'Reclaim' Review – The Ultimate Screen Recorder for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-tagging-for-content-visibility-for-2024/"><u>[Updated] Mastering YouTube Tagging for Content Visibility for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/cozy-game-magic-the-allure-explored/"><u>Cozy Game Magic: The Allure Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/experience-next-gen-performance-from-lenovos-international-yoga-ai-mini-desktop-37l-capacity-innovative-intel-cpus-and-classic-thinkcentre-design-elegance.m108/"><u>Experience Next-Gen Performance From Lenovo's International Yoga AI Mini Desktop: 3.7L Capacity, Innovative Intel CPUs, and Classic ThinkCentre Design Elegance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-modern-techniques-for-gesture-interpretation/"><u>In 2024, Unveiling Modern Techniques for Gesture Interpretation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 13 mini?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-tips-why-wont-my-powerdvd-play-a-dvd/"><u>Troubleshooting Tips: Why Won’t My PowerDVD Play a DVD?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncovering-other-powerful-video-players-beyond-vlc-for-2024/"><u>Uncovering Other Powerful Video Players Beyond VLC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-av1-technology-for-2024/"><u>Unlocking the Potential of AV1 Technology for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-10-free-video-editing-software-for-web/"><u>Updated 2024 Approved Top 10 Free Video Editing Software for Web</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-fortnite-lag-and-frozen-screens-on-your-pc-update-top-fixes/"><u>Winning the Battle Against Fortnite Lag & Frozen Screens on Your PC (Update: Top Fixes )</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

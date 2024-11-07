@@ -1,7 +1,7 @@
 ---
 title: "Solving the Hassles of Portable Charging: How a Simple $20 Anker Battery Made All the Difference - ZDNet's Review"
-date: 2024-10-29T09:50:19.104Z
-updated: 2024-11-01T11:35:04.449Z
+date: 2024-11-03T04:54:20.592Z
+updated: 2024-11-06T17:40:42.910Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ To Android users and new (or incoming) iPhone users who are looking to add a USB
 See, I have quibbles with many portable chargers. Those include forgetting a wire, not knowing where to hold the charger while it's charging my phone, and feeling like it takes forever to increase the battery percentage at all. This charger addresses all of the issues and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -71,10 +71,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Impressive charging power for its size
@@ -84,6 +84,13 @@ The 22.5W Power Bank packs 5,000mAh capacity, which is enough to charge an [iPho
 **Also:** [**My everyday Anker power bank has a genius feature that makes it irreplaceable**](https://www.zdnet.com/article/my-everyday-anker-power-bank-has-a-genius-feature-that-makes-it-irreplaceable/)
 
 Although it might not seem like a tremendous boost, remember that this portable charger is meant to get you out of a pinch. If your phone died on you while you were out, getting a quarter of your battery back in under 30 minutes would be a lifesaver. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Charging the power bank is hassle-free
 
@@ -98,28 +105,15 @@ Sabrina Ortiz/ZDNET
 The charger comes in five colors: blue, black, white, green, and pink, matching every iPhone 15 color besides the yellow, which the white could be paired with instead.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
 
 If you are searching for a new portable charger for your new iPhone or just because you are due for an upgrade, the [Anker Nano 22.5W Power Bank](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C6XK77HJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C37c4dac4-f8a9-439d-9f02-8f3ff2a8f40d%7Cdtp&dtb=1) is a good choice because it won't break the bank and will get the job done. The fun color options, effectiveness, size, and low price point even make it a good choice for gifting.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -155,19 +149,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-embracing-metaverse-characters-a-guide-to-seamless-avatars/"><u>[New] Embracing Metaverse Characters A Guide to Seamless Avatars</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-masterful-viewing-for-artists-best-monitor-guide/"><u>[Updated] Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/amo/"><u>/Amo</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-eliminate-fake-insta-buddies-rapid-no-cost-guide/"><u>2024 Approved Eliminate Fake Insta Buddies Rapid, No-Cost Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/7-best-adblock-apps-for-android/"><u>7 Best AdBlock Apps for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convertir-jpeg-a-png-de-forma-gratuita-en-linea-con-herramientas-de-conversion-rapidas/"><u>Convertir JPEG a PNG De Forma Gratuita en Línea Con Herramientas De Conversión Rápidas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/get-the-latest-version-of-obs-studio-supporting-windows-macos-and-ubuntu-systems/"><u>Get the Latest Version of OBS Studio – Supporting Windows, macOS, and Ubuntu Systems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-non-functional-speakers-on-your-windows-10-pc-expert-tips/"><u>How to Fix Non-Functional Speakers on Your Windows 10 PC - Expert Tips</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-moto-g73-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Moto G73 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>In 2024, Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/mastering-speed-easy-steps-to-create-top-notch-slow-motion-on-android/"><u>Mastering Speed Easy Steps to Create Top-Notch Slow Motion on Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-crafting-visual-narratives-with-the-leading-frames/"><u>[New] 2024 Approved Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-list-of-superior-live-streaming-services/"><u>[New] The Ultimate List of Superior Live Streaming Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[New] Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-to-establishing-an-online-review-community-for-toys/"><u>2024 Approved The Blueprint to Establishing an Online Review Community for Toys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-prolonging-gopros-energy-stamina/"><u>2024 Approved Tips for Prolonging GoPro's Energy Stamina</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-integrating-b-roll-effectively-without-distraction/"><u>In 2024, Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>In 2024, Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-tutorial-for-wm6-setup/"><u>In 2024, Ultimate Tutorial for WM6 Setup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/your-comments-pop-with-emojis-in-youtube/"><u>Make Your Comments Pop with Emojis in YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-update-of-asus-wireless-adapter-drivers-for-seamless-compatibility-with-win10-8-and-7-fixed/"><u>Mastering the Update of ASUS Wireless Adapter Drivers for Seamless Compatibility with Win10, 8 & 7 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-steam-store-access-hurdle-expert-advice-on-restoring-functionality/"><u>Overcoming the Steam Store Access Hurdle: Expert Advice on Restoring Functionality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>Podcast Scriptwriting Made Easy Techniques and Illustrative Templates</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reliving-pixelated-nostalgia-lessons-and-fun-from-an-iphone-powered-emulation-adventure/"><u>Reliving Pixelated Nostalgia: Lessons and Fun From an iPhone-Powered Emulation Adventure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/step-by-step-creating-personalized-whatsapp-soundtracks/"><u>Step-by-Step Creating Personalized WhatsApp Soundtracks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-modern-shoppers-guide-to-360-degree-imaging-tech-for-2024/"><u>The Modern Shopper's Guide to 360-Degree Imaging Tech for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tips-for-obtaining-pristine-images-at-no-cost-for-2024/"><u>Top Tips for Obtaining Pristine Images at No Cost for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unleash-the-power-of-your-devices-for-effective-fb-streaming/"><u>Unleash the Power of Your Devices for Effective FB Streaming</u></a></li>
 </ul></div>
 

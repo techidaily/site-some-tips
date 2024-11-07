@@ -1,7 +1,7 @@
 ---
 title: Enterprise IT Embraces 'Ops' Approach with Renewed Vigor as Complications Arise - Insights From ZDNet
-date: 2024-09-17 14:57:16
-updated: 2024-09-20 10:40:35
+date: 2024-11-02T07:03:34.091Z
+updated: 2024-11-07T04:59:56.260Z
 tags:
   - developer
 categories:
@@ -104,11 +104,36 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-bright-ideas-maximizing-iphone-camera-exposure-for-2024/"><u>[New] Bright Ideas Maximizing iPhone Camera Exposure for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-assortment-of-gopro-modifications/"><u>[New] Ultimate Assortment of Gopro Modifications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-social-media-stardom-essential-strategies-for-instagram-fame/"><u>[New] Unlocking Social Media Stardom Essential Strategies for Instagram Fame</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>[Updated] Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exclusive-recording-gadgets-for-windows-10-gamers/"><u>2024 Approved Exclusive Recording Gadgets for Windows 10 Gamers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-tech-tips-for-perfect-video-captures/"><u>2024 Approved Tech Tips for Perfect Video Captures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-manual-on-motion-detection-techniques/"><u>2024 Approved The Essential Manual on Motion Detection Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-for-downloading-wm6/"><u>2024 Approved Ultimate Tutorial for Downloading WM6</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/asean-countries-sign-agreement-to-streamline-international-transactions-zdnet/"><u>ASEAN Countries Sign Agreement to Streamline International Transactions - ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-caller-id-changers-and-their-enchanting-alternatives/"><u>In 2024, Best Caller ID Changers & Their Enchanting Alternatives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pro-photography-on-iphone-essential-apps-compilation-for-2024/"><u>Pro Photography on iPhone Essential Apps Compilation for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ule-smarter-the-art-of-youtube-content-timing/"><u>Schedule Smarter The Art of YouTube Content Timing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-bulk-tiktok-media-extraction-for-2024/"><u>Unlocking the Potential of Bulk TikTok Media Extraction for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

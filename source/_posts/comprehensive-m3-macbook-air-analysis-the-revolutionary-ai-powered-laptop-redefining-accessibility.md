@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive M3 MacBook Air Analysis: The Revolutionary AI-Powered Laptop Redefining Accessibility"
-date: 2024-10-25T21:17:09.503Z
-updated: 2024-11-01T09:18:12.476Z
+date: 2024-11-02T05:44:58.277Z
+updated: 2024-11-07T05:50:00.218Z
 tags:
   - apple
 categories:
@@ -67,18 +67,24 @@ The ability to run two external monitors with the lid closed is one of the M3 Ma
 
 Jason Hiner/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How I tested the M3 MacBook Air
 
 In terms of qualitative testing, I wrote this article on the M3 MacBook Air and used my daily work applications -- Slack, Microsoft Outlook, Google Drive, and ZDNET's CMS. I also used Adobe Lightroom for processing photos, including AI features. I fired up YouTube in Safari to play the song Eclipse from the Dune 2 soundtrack as a way to test the audio quality of the built-in speakers. I also played the 2021 Dune movie in 4K from my library in the Apple TV Plus app to test the display quality of the M3 MacBook Air. I expect there will be a lot more AI testing to do after WWDC 2024 in June when Apple is likely to unveil its generative AI tools.
 
 For quantitive testing, I followed the same routine I used in my [review of the MacBook Pro with M3 Max](https://www.zdnet.com/article/macbook-pro-m3-max-review/). I used Cinebench to benchmark the M3 MacBook Air against other popular Macs I've tested over the past couple years. I also used Adobe Lightroom's AI-powered "Denoise" feature as a real-world test because it's a feature I use constantly when processing product photos and so any time savings there can result in tangible productivity gains. As you can see in the charts below, the M3 MacBook Air performed very well in the Cinebench benchmarks, compared to it M2 predecessor. But, it only scored marginally better than the M2 model in my real-world Lightroom test. I'd like to do more tests with other AI workflows and update this review over time, especially after WWDC 2024.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### AI test: Adobe Lightroom Denoise (lower is better)
 
@@ -109,10 +115,10 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Cinebench CPU/GPU benchmark (higher is better)
@@ -143,6 +149,19 @@ For quantitive testing, I followed the same routine I used in my [review of the 
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What are the best features of M3 MacBook Air?
 
 **Features and form factor make it a light "pro" laptop:** The thin, light, and compact design of the M3 MacBook Air makes it a great ultraportable laptop that is easy to carry and slip into virtually any bag or backpack. And with the fact that the M3 chip now packs more power than ever makes this a machine that is as powerful as the fastest pro laptops from just a couple of years ago. Case in point, take a look at the benchmark scores above of the M3 MacBook Air compared to the MacBook Pro with M1 Pro. It essentially matches or exceeds most of the numbers of that MacBook Pro, which was an absolute performance beast in recent years.
@@ -158,10 +177,10 @@ Jason Hiner/ZDNET
 **Neural engine to power through AI tasks:** According to Apple's internal tests, the neural engine in the M3 MacBook Air offers a 60% improvement in performance over the previous generation M2 MacBook Air. As you can see in my real-world AI test above using the Denoise feature in Adobe Lightroom, I didn't see that kind of lift. Nevertheless, it's possible the Adobe software isn't optimized for M3 yet. And the overall benchmark improvements provide encouragement that this machine could be ready for more. A big test will be when Apple releases its own generative AI features later this year. It feels like this product is anticipating that, and could already be optimized for it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -189,13 +208,6 @@ That keeps mainstream Mac laptops at a more approachable price and allows the Ma
 Up close with the M3 MacBook Air 15-inch in Midnight.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -243,17 +255,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-mastery-over-disabling-personalized-podcast-suggestions-on-spotify/"><u>[New] 2024 Approved Mastery over Disabling Personalized Podcast Suggestions on Spotify</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-portable-battery-packs-to-keep-recording-longer/"><u>[New] Portable Battery Packs to Keep Recording Longer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dominate-youtube-with-effective-content-strategies/"><u>[Updated] 2024 Approved Dominate YouTube with Effective Content Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-video-editing-with-device-filters/"><u>[Updated] Streamlining Your Video Editing with Device Filters</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-spots-for-classic-ringtone-downloads/"><u>[Updated] Top Spots for Classic Ringtone Downloads</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/android-brightening-essentials-stepwise-demystification/"><u>Android Brightening Essentials - Stepwise Demystification</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-showdown-unveiling-the-contrasts-between-ipad-pro-and-macbook-pro/"><u>Apple Showdown: Unveiling the Contrasts Between IPad Pro & MacBook Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-cutting-edge-technology-with-tom-the-ultimate-guide-to-modern-pc-hardware/"><u>Exploring Cutting-Edge Technology with Tom - The Ultimate Guide to Modern PC Hardware</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-complete-walkthrough-to-refresh-ati-radeon-drivers-for-a-smooth-windows-experience/"><u>The Complete Walkthrough to Refresh ATI Radeon Drivers for a Smooth Windows Experience</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tips-for-creating-highly-sharable-insta-unpacked-content-for-2024/"><u>Top Tips for Creating Highly Sharable Insta Unpacked Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-resource-list-open-source-imagery-sanctuary-for-2024/"><u>Ultimate Resource List Open-Source Imagery Sanctuary for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973942573-update-and-install-epson-l3n-50-driver-on-windows-10-8-and-7-direct-links-here/"><u>Update and Install Epson L3n-50 Driver on Windows 10, 8 & 7 - Direct Links Here!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultra-30-review-the-virb-action-cam-for-adventurers/"><u>[New] Ultra 30 Review – The VIRB Action Cam for Adventurers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[Updated] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-best-apps-to-master-sound-transformation/"><u>[Updated] Unveiling the Best Apps to Master Sound Transformation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>2024 Approved Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-shining-up-your-android-videos-effortlessly/"><u>2024 Approved Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>2024 Approved Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-meme-design-masterpieces/"><u>2024 Approved Ultimate List Meme Design Masterpieces</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/full-index-of-bsod-error-messages-a-step-by-step-resolution-handbook/"><u>Full Index of BSOD Error Messages: A Step-by-Step Resolution Handbook</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-step-by-step-obs-integration-for-youtube-and-twitch-viewers/"><u>In 2024, Step-by-Step OBS Integration for YouTube & Twitch Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-iphone-photomosaic-creation-collage/"><u>In 2024, The Definitive Guide to iPhone Photomosaic Creation (Collage)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/re-hidden-shorts-just-visible-ones-for-2024/"><u>No More Hidden Shorts, Just Visible Ones for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/proven-techniques-to-safely-load-tunes-on-portable-storage-device/"><u>Proven Techniques to Safely Load Tunes on Portable Storage Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/rejuvenate-vintage-computers-with-atlasos/"><u>Rejuvenate Vintage Computers with ATLASOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshoot-and-solve-logitech-c615-driver-complications-in-no-time/"><u>Troubleshoot and Solve Logitech C615 Driver Complications in No Time</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/twitter-visual-content-proportions/"><u>Twitter Visual Content Proportions</u></a></li>
 </ul></div>
 

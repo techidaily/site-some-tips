@@ -1,7 +1,7 @@
 ---
 title: "Alexa and Prime Day Savings: How to Get Prepared for October Sales & Win Big on Deals!"
-date: 2024-09-19 21:47:49
-updated: 2024-09-20 11:48:43
+date: 2024-11-05T20:49:17.531Z
+updated: 2024-11-06T20:42:52.829Z
 tags:
   - e-commerce
 categories:
@@ -51,11 +51,25 @@ Your first step is visiting the [Prime Student page](https://buy.geni.us/Proxy.a
 
 Screenshot by Sabrina Ortiz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Sign in to your existing Amazon Prime account
 
 On the mobile app or web browser, log in to your existing Amazon account using the same email you registered with. You don't need to cancel this existing account to sign up. If you don't have an account, you can click on the "Create your Amazon account" button to go through the quick and simple process of creating an account.
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Fill out your credentials
 
@@ -64,6 +78,19 @@ Depending on the option you choose, after signing in, you'll be asked to submit 
 If you choose the "Verify with Student Status" option, you'll be asked to fill out a sign-up form and either use your .edu email address or submit proof of enrollment such as your student ID, your transcript, etc. 
 
 Screenshot by Sabrina Ortiz/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to join Prime Student if you don't have an existing Amazon or Prime account  
 
@@ -74,6 +101,13 @@ If you want to join Prime Student and don't have an account, you will need to si
 ## Do I get access to Prime Day sales with Prime Student? 
 
 Yes. Since [Amazon's Prime Days is an exclusive sale](https://www.zdnet.com/article/amazon-prime-day-2024-everything-you-need-to-know-june-27/) for _all_ Prime members, Prime Students can benefit from the deals. And if you want to test the perks of Prime before fully committing, now might be a good time to take advantage of the six-month free trial. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How long does Prime Student last? 
 
@@ -104,11 +138,26 @@ No, you do not have to cancel or deactivate your account. Just [use this link](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rime-7-cameras-elevating-virtual-event-coverage-and-vlogging-for-2024/"><u>[New] Prime 7 Cameras Elevating Virtual Event Coverage and Vlogging for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-to-integrate-b-roll-footage-seamlessly/"><u>[New] Strategies to Integrate B-Roll Footage Seamlessly</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-guide-hitting-the-slopes-with-excellent-cams-for-2024/"><u>[New] Ultimate Guide Hitting the Slopes with Excellent Cams for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-clearing-up-tips-for-preventing-gopro-haze/"><u>[Updated] Clearing Up Tips for Preventing GoPro Haze</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-top-notch-visuals-a-cost-free-approach/"><u>[Updated] Unlocking Top-Notch Visuals A Cost-Free Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-chromatic-enhancement/"><u>2024 Approved The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-most-innovative-metaverse-visors-and-wearables/"><u>2024 Approved Unveiling the Most Innovative Metaverse Visors & Wearables</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-essential-techniques-zoom-and-fb-live-streaming/"><u>In 2024, Essential Techniques ZOOM & FB Live Streaming</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-choice-8-best-converters-from-sub-to-srt/"><u>In 2024, Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-dramatic-audio-experiences/"><u>In 2024, Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://discover-best.techidaily.com/windows-1011-mp35/"><u>Windows 10/11対応、無料 MP3オーディオレベル変更ツールを探している方へ！【おすすめの5つ】</u></a></li>
+</ul></div>
+

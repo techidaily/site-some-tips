@@ -1,7 +1,7 @@
 ---
 title: "Evolution of Development: Insights From Atlassian's Agnes Ro - An Expert Analysis on Changing Dev Roles"
-date: 2024-09-19 16:38:26
-updated: 2024-09-20 10:43:18
+date: 2024-11-05T22:34:24.366Z
+updated: 2024-11-07T02:05:16.606Z
 tags:
   - developer
 categories:
@@ -104,11 +104,38 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-social-media-savvy-crafting-your-best-self-with-top-tips-for-bios/"><u>[Updated] In 2024, Social Media Savvy Crafting Your Best Self with Top Tips for Bios</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-20-top-anime-song-starters/"><u>[Updated] Vanguard 20 Top Anime Song Starters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools/"><u>2024 Approved Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>2024 Approved Kickstart Creative Video Editing with Xp Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supercharge-your-screens-with-video-enhancer-v22/"><u>2024 Approved Supercharge Your Screens with Video Enhancer (V2.2)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-photo-edits-clearing-out-backgrounds/"><u>2024 Approved The Art of Photo Edits Clearing Out Backgrounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-innovations-for-text-visualization/"><u>2024 Approved Top 10 Innovations for Text Visualization</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unleashing-potential-a-step-by-step-approach-to-youtube-links/"><u>2024 Approved Unleashing Potential A Step-by-Step Approach to YouTube Links</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>2024 Approved Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-screen-projection-not-working-window-glitch/"><u>Addressing Screen Projection Not Working Window Glitch</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor 100 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-5-audio-experiences-on-iphones/"><u>In 2024, Top 5 Audio Experiences on iPhones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-your-photos-on-instagram-green-screen/"><u>In 2024, Transforming Your Photos on Instagram Green Screen</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-y28-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo Y28 5G FRP Without Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-success-in-podcasts-with-seo-know-how-for-2024/"><u>Unlocking Success in Podcasts with SEO Know-How for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-smartphone-friendly-vr-headgear-for-2024/"><u>Unveiling the Best Smartphone-Friendly VR Headgear for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Essential Steps: Locating Your Misplaced AirPods & Preventing Future Losses - Insights"
-date: 2024-10-30T23:31:46.995Z
-updated: 2024-10-31T21:54:20.418Z
+date: 2024-10-30T18:43:50.080Z
+updated: 2024-11-07T02:52:20.259Z
 tags:
   - apple
 categories:
@@ -44,6 +44,13 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -53,6 +60,13 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -74,6 +88,13 @@ The boy
 
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best smartwatches Apple, Samsung, and others battle for your wrist.  Read now](https://www.zdnet.com/article/best-smartwatch/)
@@ -83,13 +104,6 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -106,6 +120,13 @@ The nice part about this is I can easily do this while drinking coffee. I can ge
 By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one or two cups of coffee, and I have a pretty solid feel for both what's going on in my own various domains as well as what's going on in the rest of the world. It's a very good, very quick way to come up to speed while waking up.
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Pocket-read-post-archive cycle
 
@@ -134,19 +155,6 @@ I'm relatively holistic about my morning reading process. I do it until I'm bore
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Connecting and scheduling
 
 Assuming there's nothing on fire that I've had to handle first thing, at some point during the morning, I'll switch from reading to communicating. I'll switch out of Pocket and into Gmail and work my way through my email. 
@@ -169,13 +177,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -189,6 +190,13 @@ Help Scout also has great team features, but I'm a programming army of one.
 I just think of those users like more of my students. If any questions show up in my inbox, I go into the ticketing system and answer questions. I'm not assigning users letter grades, but otherwise the process is pretty much the same. 
 
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Featured
 
@@ -229,31 +237,11 @@ I've set up a bunch of Notion pages and all the items that "should be on the lis
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -298,18 +286,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-easy-links-for-seamless-connections-between-spotify-and-discord/"><u>[New] 2024 Approved Easy Links for Seamless Connections Between Spotify & Discord</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-from-gaming-to-goals-celebrating-the-top-10-ladies-on-youtube/"><u>[New] 2024 Approved From Gaming to Goals Celebrating the Top 10 Ladies on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-streaming-social-feeds-on-your-smart-tv-whats-next/"><u>[New] In 2024, Streaming Social Feeds on Your Smart TV What's Next?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-innovative-5-websites-eclipsing-twitter/"><u>[New] Innovative 5 Websites Eclipsing Twitter</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unrivaled-vr-sets-for-aerial-adventures/"><u>[New] Unrivaled VR Sets for Aerial Adventures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-effective-use-of-zoom-on-your-chrome-based-device/"><u>2024 Approved Effective Use of Zoom on Your Chrome-Based Device</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-with-hp-print-on-w7-resolved/"><u>Connectivity Woes with HP Print on W7 Resolved</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ensuring-safety-while-printing-in-3d-5-common-risks-and-their-solutions/"><u>Ensuring Safety While Printing in 3D: 5 Common Risks and Their Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-fix-fluid-found-in-iphone-charger-port-solutions-unveiled-apple-device-experts/"><u>How To Fix 'Fluid Found In iPhone Charger Port': Solutions Unveiled - Apple Device Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>In 2024, The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-top-5-virtual-title-designers/"><u>In 2024, Unlocking the Top 5 Virtual Title Designers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/instant-access-get-your-samsung-m2070fw-drivers-now/"><u>Instant Access: Get Your Samsung M2070FW Drivers Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-steps-to-convert-video-tweets-to-mp3-soundtracks/"><u>[New] Steps to Convert Video Tweets to MP3 Soundtracks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[Updated] 2024 Approved From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-explore-oceans-anew-top-camcorders-for-divers-and-snorkelers/"><u>[Updated] Explore Oceans Anew - Top Camcorders for Divers & Snorkelers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-evaluation-of-fb-video-shapes/"><u>[Updated] In 2024, Evaluation of FB Video Shapes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-to-motion-blur-from-theory-to-practice-in-ps/"><u>[Updated] The Essential Guide to Motion Blur From Theory to Practice in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-images-into-textbooks-photo-text-editor-hacks/"><u>[Updated] Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-digital-detailing-at-your-command/"><u>2024 Approved Digital Detailing at Your Command</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>2024 Approved Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-replay-magic-stream-control-secrets/"><u>2024 Approved Twitch Replay Magic Stream Control Secrets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-pre-windows-10-era-to-windows-11-now-for-2024/"><u>From Pre-Windows 10 Era To Windows 11 Now for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-windows-10-photoviewing-suite/"><u>In 2024, Prime Windows 10 Photoviewing Suite</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/infographic-analysis-the-hottest-2023-trends-for-2024/"><u>Infographic Analysis The Hottest 2023 Trends for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/memetic-magic-unlock-with-kapwing-creator/"><u>Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sync-shutter-speed-blur-artistry-in-photoshop-for-2024/"><u>Sync Shutter Speed Blur Artistry in Photoshop for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-mobile-and-web-photo-booster-at-no-cost-for-2024/"><u>Ultimate Mobile & Web Photo Booster at No Cost for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxvideo-artificial-intelligence-boost-video-quality-and-image-effects-with-our-comprehensive-editing-recording-and-transformation-suite/"><u>WinxVideo Artificial Intelligence: Boost Video Quality and Image Effects with Our Comprehensive Editing, Recording, and Transformation Suite</u></a></li>
 </ul></div>
 

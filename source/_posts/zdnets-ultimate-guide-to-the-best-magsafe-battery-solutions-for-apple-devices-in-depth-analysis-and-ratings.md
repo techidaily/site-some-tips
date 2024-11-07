@@ -1,7 +1,7 @@
 ---
 title: "ZDNET's Ultimate Guide to the Best MagSafe Battery Solutions for Apple Devices : In-Depth Analysis and Ratings"
-date: 2024-10-29T07:17:07.629Z
-updated: 2024-11-01T09:38:26.664Z
+date: 2024-10-31T18:43:55.815Z
+updated: 2024-11-06T16:14:34.503Z
 tags:
   - apple
 categories:
@@ -50,6 +50,13 @@ Cons
 * Fun colors only sold by Apple
 * Not the sleekest option
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Belkin Boostcharge Pro Qi2 Magnetic Power Bank 5k
 
 ### Best MagSafe battery pack overall
@@ -89,13 +96,6 @@ Cons
 
 ## Baseus 10,000mAh magnetic portable charger
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Best large capacity MagSafe battery pack
 
 Not all wireless battery power packs are created equally. Take this Baseus 10,000mAh magnetic power bank, for example. Most battery power packs can only supplement a little battery boost, but not this one. With this power bank, you can get up to two recharges on an iPhone and charge two different devices simultaneously. 
@@ -127,13 +127,6 @@ Pros
 Cons 
 * Not compatible with iPhone 12 or 13 mini
 * More of a trickle charge
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Anker 622 Magnetic Battery
 
@@ -170,13 +163,26 @@ Cons
 * Gets a bit toastier while charging than some competitors
 * On the more expensive end
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Casely Power Pod
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Best MagSafe battery pack for style and function
@@ -250,10 +256,10 @@ Cons
 * Does not sit flush against phone depending on the case
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HyperJuice Magnetic Wireless Battery Pack
@@ -272,6 +278,13 @@ Customers said they enjoyed the Hyper battery's practical charging rate and reli
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is the best MagSafe battery pack?
 
 My pick for the best MagSafe battery pack is the Belkin BoostCharge Pro Qi2 battery pack for its upgraded design, great charging abilities, and added stand feature. Here's how our tested picks stack up. 
@@ -286,6 +299,13 @@ My pick for the best MagSafe battery pack is the Belkin BoostCharge Pro Qi2 batt
 | Hyper Magnetic Wireless Battery Pack             | $50       | 5,000mAh     |
 
 \*MSRP price at the time of writing. Please note that prices may vary based on retailer and available promotions, sales, or discounts.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which MagSafe battery pack is right for you?
 
@@ -318,15 +338,28 @@ If we think another product is worth your money, we'll update this list or write
 
 Plus, we are routinely scouring the web for new products that are worthy of testing, and following news on product rollouts and upgrades, and sourcing the best deals. We know buying anything in the current economy is not just for your whims, and that's why this list, as well as our other advice, is tailored to your needs, wants, and your budget and why our picks are expert-tested and expert-vetted. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is a MagSafe battery pack?
 
 The MagSafe Battery Pack allows for on-the-go, wireless charging that is easy and reliable since it attaches to the back of your iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is MagSafe charging better for your battery?
@@ -337,13 +370,6 @@ MagSafe charging is great for when you need your phone to charge while you are o
 
 A removable battery pack makes it easy to charge when you need it and ditch the battery when you don't. If you find yourself constantly looking for an outlet while carrying a wall adapter and cable, then a battery pack would be a good fit. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why did Apple discontinue its MagSafe battery pack?
 
 Apple's own MagSafe battery pack was discontinued following the release of the latest iPhone 15 lineup in 2023\. Though Apple frequently updates its products, the discontinuation doesn't come as a surprise considering the iPhone 15 models all feature USB-C connectivity while the original MagSafe battery pack was equipped with Apple's lightning capabilities.
@@ -351,13 +377,6 @@ Apple's own MagSafe battery pack was discontinued following the release of the l
 ## Why bother with MagSafe?
 
 MagSafe capabilities can enhance your user experience and your iPhone's functionality. Besides creating simpler, more efficient wireless charging, MagSafe technology opens the door for various accessories such as wallets, car vent clips and mounts, fitness mounts, power banks, grips and key ring accessories, and more to widen the iPhone experience and make your life as efficient as possible.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Should I get a power bank or a MagSafe battery pack?
 
@@ -378,13 +397,6 @@ If you've recently bought a MagSafe battery pack for your iPhone, you shouldn't 
 Although we've gone hands-on with the products on our list, there are tons of other options available on the market. Here are a few alternatives that we've tested which offer compact size, extra features, and strong magnetic grips. 
 
 [Best MagSafe battery pack for patterns and prints Burga MagSafe Power Bank If you love a pop of fun on your tech gear, Burga's MagSafe power bank certainly packs a punch. Similar to Casely's Power Pod, Burga's battery pack is available in a multitude of prints and designs, and it performs similarly, too. It is on the chunkier side, and I didn't like that it wasn't as portable as other options on this list, but it's certainly a great pack for at-home use or if you just don't care too much about the added bulk. View at Us.burga](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fburga.sjv.io%2Fc%2F159047%2F1270603%2F15631%3F%26sharedid%3Dzdnet%26partnerpropertyid%3D1980086%26u%3Dhttps%253A%252F%252Fus.burga.com%252Fcollections%252Fmagnetic-power-banks%26subId1%3Dzd-%255F%255FCOM%255FCLICK%255FID%255F%255F-dtp)[Best MagSafe wallet and battery pack combo mophie Snap+ Juice Pack Wallet This mophie MagSafe battery boasts a Snap+ magnetic hold for greater stability and features a card slot that can hold up to 3 cards. I liked its multi-functions and stable charging, which brought my iPhone 14 Pro from 53% to 82% in an hour. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fmophie-snap-Juice-Wallet-Black%2Fdp%2FB09Z37B9C1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C077f5a89-853c-414f-b988-d7f285835434%7Cdtp&dtb=1)[Best portable non-Magsafe charger Anker Nano Power Bank Anker's extra-portable Nano power bank features a foldable USB-C connector for easy, on-the-go boosting of your battery, without the MagSafe hassle. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAnker-Foldable-Connector-Portable-Charger%2Fdp%2FB0C6XLDLJZ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C077f5a89-853c-414f-b988-d7f285835434%7Cdtp&dtb=1)[Best heavy duty MagSafe battery pack Belkin Magnetic Portable Wireless Charger 10k Belkin's 10k magnetic wireless charger can boost your phone with 10,000mAh of extra battery power. It would be perfect for extended travel or emergency situations like power outages. View at Belkin](https://belkin.evyy.net/c/159047/214281/3736?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.belkin.com%2Fmagnetic-portable-wireless-charger-10k%2FP-BPD001.html&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best luxury-feel MagSafe battery pack Moft Snap MagSafe Battery Pack The Moft MagSafe battery pack is elevated, sleek, and offers a 3,400mAh power boost. I was really impressed with the affordable-luxury feel of all the accessories, although it offers less juice than other packs on this list. View at Moft](https://shareasale.com/r.cfm?b=1391923&u=4338022&m=90301&afftrack=techidaily&urllink=https%3A%2F%2Fturtlebeacheu.sjv.io%2F1r0r59)[Best iPhone battery pack and case combo mophie Juice Pack for iPhone 15 Series Relaunched at CES 2024, the mophie juice pack for iPhone is back. This pack ensures an added 50% of battery life to your iPhone, is activated by an easy push button and is already affixed to your phone in a case fashion. This battery pack is perfect if you'd prefer a streamlined system for your phone, or just for special events or occasions where you might need a boost. View at Zagg](https://www.dpbolvw.net/click-9041660-15733660?url=https%3A%2F%2Fwww.zagg.com%2Fmophie%2Fjuice-pack%2F&sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)[Best foldable MagSafe battery pack Anker MagGo Qi2 Battery Pack Revealed at CES 2024, Anker's MagGo Qi2 battery pack provides 6,600mAh of battery power in a convenient, foldable design which doubles as a phone stand. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FAnker-Certified-Ultra-Fast-MagSafe-Compatible-Adjustable%2Fdp%2FB0C9DNYKMJ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C077f5a89-853c-414f-b988-d7f285835434%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## More MagSafe battery packs to consider:
 
@@ -432,24 +444,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/orrow-without-cost-images-from-leading-youtubers-archives/"><u>[New] Borrow Without Cost Images From Leading YouTubers' Archives</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-excellent-apps-to-keep-your-data-on-the-go-androids-cloud-keeper-list-for-2024/"><u>[New] Excellent Apps to Keep Your Data on the Go - Android's Cloud Keeper List for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-elite-selection-of-10-websites-offering-free-photos/"><u>[New] The Elite Selection of 10 Websites Offering FREE Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-finest-10-online-spots-to-download-pristine-photos/"><u>[New] The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-the-new-frontier-of-jaunt-vr-experiences/"><u>[New] The New Frontier of Jaunt VR Experiences</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>[New] Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-audiovisual-alchemy-transforming-powerpoint-into-engagement/"><u>[Updated] Audiovisual Alchemy Transforming PowerPoint Into Engagement</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guiding-you-through-youtubes-security-settings-for-2024/"><u>[Updated] Guiding You Through YouTube's Security Settings for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-role-of-supplemental-imagery-in-storytelling/"><u>[Updated] The Role of Supplemental Imagery in Storytelling</u></a></li>
-<li><a href="https://win-blog.techidaily.com/swfgif-movavi/"><u>無料で手軽なSWF画像をGIF形式に直します! 〜Movaviの簡単プロセス〜</u></a></li>
-<li><a href="https://tools.techidaily.com/apowersoft/phone-mirror/"><u>ApowerMirror</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/application-error-winapi-dependency-missing/"><u>Application Error: WinAPI Dependency Missing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-access-premium-level-video-templates-for-free/"><u>In 2024, Access Premium-Level Video Templates for Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>In 2024, The Art of Plating on Camera Food Video Production Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-secrets-of-writing-impressive-podcast-summaries/"><u>In 2024, The Secrets of Writing Impressive Podcast Summaries</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-converting-speech-to-text-with-google-docs-for-2024/"><u>Mastering the Art of Converting Speech to Text with Google Docs for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt-for-2024/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-the-mystery-of-facebooks-hidden-activities-for-2024/"><u>Unlocking the Mystery of Facebook's Hidden Activities for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-10-best-mobile-idle-games/"><u>[New] In 2024, 10 Best Mobile Idle Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-total-command-mastery-powerdirector-review-and-guide/"><u>[New] Total Command Mastery PowerDirector Review & Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-premium-text-tools-for-ae/"><u>2024 Approved The Ultimate Guide to Selecting Premium Text Tools for AE</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/converting-movies-to-playable-dvds-on-windows-1110-and-macos/"><u>Converting Movies to Playable DVDs on Windows 11/10 & macOS</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/decrease-excessive-display-on-win-10-pc/"><u>Decrease Excessive Display on WIN 10 PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discovering-power-in-sleekness-detailed-examination-of-the-microsoft-surface-laptop-4-experience/"><u>Discovering Power in Sleekness: Detailed Examination of the Microsoft Surface Laptop 4 Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-catchy-headline-creator/"><u>In 2024, Prime Catchy Headline Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-11-windows-11-secrets-unveiled/"><u>In 2024, Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-sound-connection-a-podcasters-guide/"><u>In 2024, Ultimate Sound Connection A Podcaster's Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-secrets-to-polished-photo-edits-in-canva-for-2024/"><u>The Secrets to Polished Photo Edits in Canva for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-triple-threat-of-metas-social-supremacy/"><u>The Triple Threat of Meta's Social Supremacy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-xs-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone XS? 5 Tips You Must Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-failed-feature-updates-in-windows-10-v1803-now-solved/"><u>Winning the Battle Against Failed Feature Updates in Windows 10 v1803 - Now Solved</u></a></li>
 </ul></div>
 

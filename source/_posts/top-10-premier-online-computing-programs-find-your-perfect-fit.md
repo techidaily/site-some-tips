@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Premier Online Computing Programs : Find Your Perfect Fit!"
-date: 2024-09-18 22:27:12
-updated: 2024-09-20 11:40:53
+date: 2024-11-04T00:29:13.312Z
+updated: 2024-11-06T16:00:11.063Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-navigating-the-path-to-prominence-9-proven-strategies-for-instagram-stars/"><u>[New] In 2024, Navigating the Path to Prominence 9 Proven Strategies for Instagram Stars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-essential-guide-to-earning-money-on-youtube-shorts-quickly/"><u>[New] In 2024, The Essential Guide to Earning Money on YouTube Shorts Quickly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-soundbank-freeness-central-for-2024/"><u>[Updated] FB Soundbank Freeness Central for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-virtual-warriors-journey-7-intense-fps-games-for-2024/"><u>[Updated] Virtual Warriors’ Journey - 7 Intense FPS Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-digital-marketing-success/"><u>Cookiebot-Driven Digital Marketing Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-website-optimization-solutions/"><u>Cookiebot-Enabled Website Optimization Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/customized-marketing-with-automated-cookiebot-solutions/"><u>Customized Marketing with Automated Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-how-abbyys-lance-vantage-2-is-revolutionizing-digital-change-with-its-innovative-ai-driven-marketplace/"><u>Discover How ABBYY's Lance Vantage 2 Is Revolutionizing Digital Change with Its Innovative AI-Driven Marketplace</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-site-visibility-with-cookiebots-advanced-seo-tools/"><u>Enhance Your Site Visibility with Cookiebot's Advanced SEO Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-by-cookiebot-solutions-boosting-website-analytics-and-seo-success/"><u>Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-microsoft-sharepoint-through-advanced-ocr-discover-the-power-of-abbyys-innovative-tools/"><u>Enhancing Microsoft SharePoint Through Advanced OCR: Discover the Power of ABBYY's Innovative Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-site-traffic-with-the-power-of-cookiebot-technology/"><u>Enhancing Site Traffic with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-guide-to-implementing-filters-in-media/"><u>In 2024, Essential Guide to Implementing Filters in Media</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-show-your-mood-in-your-digital-media-content-but-dont-know-how-to-there-are-many-moody-luts-available-that-highlight-your-m/"><u>New 2024 Approved Do You Want to Show Your Mood in Your Digital Media Content but Dont Know How To? There Are Many Moody LUTs Available that Highlight Your Mood in Your Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/supercharge-your-account-top-10-instagram-must-haves/"><u>Supercharge Your Account Top 10 Instagram Must-Haves</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007876154-trouble-with-treys-heres-how-to-thaw-out-call-of-duty-black-ops-cold-war/"><u>Trouble with Treys? Here's How to Thaw Out Call of Duty Black Ops Cold War</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+</ul></div>
+

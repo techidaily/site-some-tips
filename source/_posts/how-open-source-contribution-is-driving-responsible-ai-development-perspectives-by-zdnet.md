@@ -1,7 +1,7 @@
 ---
 title: How Open-Source Contribution Is Driving Responsible AI Development - Perspectives by ZDNET
-date: 2024-09-19 16:44:49
-updated: 2024-09-20 10:12:59
+date: 2024-11-02T20:14:08.421Z
+updated: 2024-11-07T00:58:51.694Z
 tags:
   - developer
 categories:
@@ -104,11 +104,37 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-building-captivating-visual-puzzles-a-mosaic-journey/"><u>[New] 2024 Approved Building Captivating Visual Puzzles A Mosaic Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-iphone-snaps-into-stunning-hdr-photos/"><u>[New] Transform Your iPhone Snaps Into Stunning HDR Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>[Updated] 2024 Approved KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhance-online-interaction-embracing-closer-views/"><u>[Updated] Enhance Online Interaction Embracing Closer Views</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>2024 Approved The Strength of Details Why HDR Triumphs Over SDR</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-spectrum-of-style-the-finest-photo-frame-software/"><u>A Spectrum of Style The Finest Photo Frame Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/informal-lingo-unveiled-definitions-of-everyday-terms/"><u>Informal Lingo Unveiled: Definitions of Everyday Terms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-common-problems-with-instagram-story-uploads/"><u>Solving Common Problems with Instagram Story Uploads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-30-online-music-venues-for-2024/"><u>Top 30 Online Music Venues for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-with-ease-mastering-the-art-of-photo-text-editing-for-2024/"><u>Unleash Creativity with Ease Mastering the Art of Photo Text Editing for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

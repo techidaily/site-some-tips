@@ -1,7 +1,7 @@
 ---
 title: Switzerland's Fédéral Gouvernement Mandates Open-Source Release of Official Applications - ZDNet
-date: 2024-09-17 11:36:25
-updated: 2024-09-20 12:57:38
+date: 2024-11-03T17:00:07.174Z
+updated: 2024-11-07T04:36:32.196Z
 tags:
   - developer
 categories:
@@ -104,11 +104,40 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-top-25-mobile-editors-for-dji-filmmaking/"><u>[New] The Top 25 Mobile Editors for DJi Filmmaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-can-i-share-youtube-videos-on-facebook/"><u>[Updated] 2024 Approved How Can I Share YouTube Videos on Facebook?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-pcmaclaptop-easy-obs-setup-for-fb-livestreaming/"><u>[Updated] 2024 Approved PC/Mac/Laptop Easy OBS Setup for FB Livestreaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-craft-comical-caricatures-using-giphys-kit/"><u>[Updated] Craft Comical Caricatures Using Giphy's Kit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-industry-standards-in-digital-media-capture-for-2024/"><u>[Updated] Industry Standards in Digital Media Capture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-keywords-in-the-realm-of-virtual-reality/"><u>[Updated] Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-strategies-for-iphones-and-freeipodcasts-download-techniques/"><u>2024 Approved Swift Strategies for iPhones and FreeiPodcasts Download Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-unlocking-a-new-vocal-identity-in-free-fire-gaming/"><u>2024 Approved The Ultimate Guide to Unlocking a New Vocal Identity in Free Fire Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unique-voice-customization-for-chrome-os-5-top-cloud-audio-editors-reviewed/"><u>2024 Approved Unique Voice Customization for Chrome OS 5 Top Cloud Audio Editors Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-crypto-potential-the-ultimate-list-of-nft-engines/"><u>2024 Approved Unlocking Crypto Potential The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/building-a-successful-brand-presence-through-spotify-advertising-for-2024/"><u>Building a Successful Brand Presence Through Spotify Advertising for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a14-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A14 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-hot-40-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Hot 40 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/memorize-mastery-galaxy-phone-gameplay-archive-for-2024/"><u>Memorize Mastery Galaxy Phone Gameplay Archive for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-must-try-reaction-video-apps-for-maximum-engagement/"><u>New Must-Try Reaction Video Apps for Maximum Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-amplifying-your-minecraft-scene-for-2024/"><u>The Art of Amplifying Your Minecraft Scene for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-c0000022-crash-in-windows-os/"><u>Troubleshooting C0000022 Crash in Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-the-power-of-online-livestreams-with-us-today-for-2024/"><u>Unleash the Power of Online Livestreams with Us Today for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

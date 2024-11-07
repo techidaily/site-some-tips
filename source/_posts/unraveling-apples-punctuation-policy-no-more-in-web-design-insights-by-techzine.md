@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Apple's Punctuation Policy: No More '!' In Web Design | Insights by TechZine"
-date: 2024-10-25T19:13:13.776Z
-updated: 2024-11-01T13:24:22.813Z
+date: 2024-11-04T18:48:04.457Z
+updated: 2024-11-06T22:27:37.045Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. Identify your key moments
 
 Let's say you're a developer who has an existing app for the iPad. Let's say you want to bring said iPad app into VisionOS. The iPad app, by its nature, is flat and rectangular. But VisionOS allows users to see all around. Is there anything in your app that clearly lends itself to VRification? 
@@ -63,10 +70,10 @@ Apple uses its Photos app as an example. A key moment for Apple's Photos app mig
 In a writing app, VRification might involve going from a typical windowed user interface for most writing to a focus mode that shuts out the outside world and lets your users concentrate, by providing a calming background and perhaps some calming music. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  3\. Adjust UI elements to accommodate the new environment
@@ -78,10 +85,10 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  4\. Utilize grid systems where appropriate
@@ -101,10 +108,10 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -112,19 +119,6 @@ And while you're at it, allow your users to control the sound, setting its volum
 Apple recommends always rendering a ground plane so users feel grounded. If you're putting someone inside a theatre, provide key details (like a stage, lighting, and curtains), but don't get carried away trying to reproduce the cola stains in the carpet or that unique crackle that comes from walking over scraps of petrified popcorn. If you're rendering an outdoor landscape, show slowly moving clouds but keep things subtle. 
 
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
 
@@ -173,20 +167,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtubian-beginnings-unveiled-building-a-business-and-bringing-big-bucks/"><u>[New] 2024 Approved Youtubian Beginnings Unveiled Building a Business and Bringing Big Bucks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-achieve-visual-harmony-optimal-sizing-for-instagram-videos/"><u>[New] Achieve Visual Harmony Optimal Sizing for Instagram Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-dynamic-endings-creating-smooth-video-transitions/"><u>[New] Dynamic Endings Creating Smooth Video Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tips-and-tricks-to-avoid-photo-crashes-on-windows-11/"><u>[Updated] Tips & Tricks to Avoid Photo Crashes on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-swift-access-to-youtube-srt-files-three-key-points/"><u>2024 Approved Swift Access to YouTube SRT Files Three Key Points</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-iphone-user-manual-for-water-imagery/"><u>2024 Approved The Ultimate iPhone User Manual for Water Imagery</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nokia-c32-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Nokia C32</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/enhancing-sap-bot-capabilities-with-advanced-content-cognition-the-synergy-of-abbyy-and-sap/"><u>Enhancing SAP Bot Capabilities with Advanced Content Cognition: The Synergy of ABBYY and SAP</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-14-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 14 Plus</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-sunny-side-up-videography-for-android/"><u>In 2024, Sunny Side-Up Videography for Android</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-linguistic-leaders-list-of-top-33-apps-that-turn-videos-into-text/"><u>In 2024, The Linguistic Leaders' List of Top 33 Apps That Turn Videos Into Text</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-facetunes-potential-photo-editing-like-never-before/"><u>In 2024, Unveiling Facetune's Potential Photo Editing Like Never Before</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quicksnapper-simple-recording-on-windows-10-for-2024/"><u>[New] QuickSnapper Simple Recording on Windows 10 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-excellence-text-integration-basics/"><u>[Updated] Instagram Video Excellence Text Integration Basics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-filming-availability-pledge-downloading-rights/"><u>2024 Approved Filming Availability Pledge Downloading Rights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essentials-of-video-format-transformation-using-vlc/"><u>2024 Approved The Essentials of Video Format Transformation Using VLC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-luxury-on-your-wrist-the-beantech-bitwatch-s1-plus-reviewed/"><u>Affordable Luxury on Your Wrist? The Beantech Bitwatch S1 Plus Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buy-top-rated-cross-platform-video-editing-software-for-pc-and-mac/"><u>Buy Top-Rated Cross-Platform Video Editing Software for PC & MAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comment-transformer-facilement-un-tta-en-format-flac-pour-gratuit-methodes-et-conseils-utilisant-movavi/"><u>Comment Transformer Facilement Un TTA en Format FLAC Pour Gratuit - Méthodes Et Conseils Utilisant Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-voice-and-video-capture-on-a-mac-discover-movavis-top-techniques/"><u>Effortless Voice & Video Capture on a Mac - Discover Movavi's Top Techniques!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-guide-on-mastering-image-editing-the-art-of-making-backgrounds-disappear-using-7-proven-methods-movavi/"><u>Expert Guide on Mastering Image Editing: The Art of Making Backgrounds Disappear Using 7 Proven Methods - Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ps1-games-in-win-ultimate-duckstation-hacks/"><u>Mastering PS1 Games in WIN: Ultimate Duckstation Hacks</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-do-you-wish-to-create-high-quality-videos-and-experience-effective-videos-with-editing-no-problem-at-all-because-the-keyboard-shortcut/"><u>Updated 2024 Approved Do You Wish to Create High-Quality Videos and Experience Effective Videos with Editing? No Problem at All because the Keyboard Shortcuts Listed Here Will Assist You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-and-aiff-online-movavi/"><u>WMA & AIFF 형식을 제공하는 무료 Online 스위칭 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/raw-bmp-online-conversion/"><u>이메일 및 화면에 자신의 RAW BMP 이미지를 쉽게 바인드: 무료 Online Conversion - 모바이비</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of Interaction: How to Experience Apple's Spatial Personalities on Vision Pro | ZDNET Insights"
-date: 2024-10-26T16:09:06.558Z
-updated: 2024-10-31T23:35:42.783Z
+date: 2024-11-05T22:23:00.781Z
+updated: 2024-11-06T21:48:29.824Z
 tags:
   - apple
 categories:
@@ -35,13 +35,6 @@ While we weren't expecting the company to unveil a slew of [flashy generative AI
 Apple was expected to focus on incorporating AI into its apps to simplify users' daily tasks, categorizing such AI features under the name "Apple Intelligence." We didn't miss the wordplay.
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What does Apple Intelligence do?
 
@@ -78,19 +71,6 @@ The voice assistant will also be able to perform hundreds of new actions across 
 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What's new in Apple's photo editing & search?
 
 Apple
@@ -103,6 +83,13 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -114,13 +101,6 @@ The same feature can help users make major edits to text, such as changing the t
 **Also:** [**You can finally schedule messages on the iPhone. Here's what to know**](https://www.zdnet.com/article/you-can-finally-schedule-messages-on-the-iphone-heres-how/)
 
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is Image Playground?
 
@@ -146,6 +126,13 @@ When users make a Siri request that the voice assistant determines would be bett
 
 Apple says its ChatGPT integration has privacy protections in place, with obscured IP addresses and no request storage by OpenAI. ChatGPT on iPhone, iPad, and Mac will be free to use, provided the device is compatible with the latest operating system. [Paying ChatGPT users](https://www.zdnet.com/article/chatgpt-vs-chatgpt-plus-is-a-paid-subscription-still-worth-it/) will get access to additional Plus features.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Will Apple Intelligence be processed on-device or in the cloud?
 
 Apple
@@ -163,10 +150,10 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -183,6 +170,13 @@ The company is striving to keep the AI features secure through several mechanism
 * **Independent code review:** With Private Cloud Compute, Apple explained that the code is available for independent experts to inspect and verify it meets privacy standards.
 * **Data encryption:** Apple encrypts all data sent to and from its servers as another layer of security.
 * **Ability to opt out:** Perhaps most importantly, users can opt-in for Apple Intelligence features, which will be introduced as beta versions as Apple works to improve its AI capabilities over time.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What are the technical requirements for Apple Intelligence?
 
@@ -224,22 +218,24 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-excellent-top-5-apps-for-iphone-auditory-delight/"><u>[New] Excellent Top 5 Apps for iPhone Auditory Delight</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-pulse-of-printed-words-2-methods-of-bouncing-text/"><u>[New] The Pulse of Printed Words 2 Methods of Bouncing Text</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>[New] The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-streamlined-sea-filmmaking-techniques/"><u>[New] The Ultimate Guide to Streamlined Sea Filmmaking Techniques</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[New] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-your-content-5-efficient-ways-to-manipulate-vimeo-videos/"><u>[Updated] In 2024, Streamline Your Content 5 Efficient Ways to Manipulate Vimeo Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-10-strategies-for-impactful-spotify-ads/"><u>[Updated] In 2024, Top 10 Strategies for Impactful Spotify Ads</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-fastest-way-to-scan-windows-files/"><u>[Updated] The Fastest Way to Scan Windows Files</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-insta-trends-staying-ahead-with-innovative-video-content/"><u>2024 Approved Insta-Trends Staying Ahead with Innovative Video Content</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-synergy-of-software-high-quality-text-plugins-reviewed/"><u>2024 Approved Synergy of Software High-Quality Text Plugins Reviewed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-x50i-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor X50i to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>In 2024, Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laughter-in-the-clouds-iphone/"><u>Laughter in the Clouds (iPhone)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/practical-ways-to-archive-online-discussions-for-2024/"><u>Practical Ways to Archive Online Discussions for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/rectified-instagram-reel-bug/"><u>Rectified: Instagram Reel Bug</u></a></li>
-<li><a href="https://some-tips.techidaily.com/total-capture-trio-setup-for-2024/"><u>Total Capture Trio Setup for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-efficient-ways-to-integrate-movies-into-your-youtube-catalog/"><u>[New] 2024 Approved Efficient Ways to Integrate Movies Into Your YouTube Catalog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aacmovavi/"><u>「オンラインでアクセシブルなAAC音声ファイルを無料で簡単に変換：Movaviの方法」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-360-vision-showdown-samsung-and-lg-camera-face-off/"><u>2024 Approved 360 Vision Showdown Samsung & LG Camera Face Off</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-13-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 13</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4mkvavimp3/"><u>無限 MP4/MKV/AVI直接轉為MP3 - 移馳自由版音訊格式切換器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227008786-pgmtiff-movavi/"><u>自由版移動網站：直接將PGM格式改為TIFF - Movavi提供解決方案</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/black-friday-blowout-save-80-on-sense-home-energy-monitoring-systems-exclusive-deals/"><u>Black Friday Blowout: Save $80 on Sense Home Energy Monitoring Systems - Exclusive Deals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-wav-files-to-au-format-free-online-movavi-converter/"><u>Convert WAV Files to AU Format Free Online - Movavi Converter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-correct-missing-or-not-found-s-sleay32dll-errors/"><u>Expert Tips to Correct 'Missing or Not Found' S sleay32.dll Errors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/frontiers-unleashed-a-review-of-the-best-7-grand-strategy-games-for-2024/"><u>Frontiers Unleashed A Review of the Best 7 Grand Strategy Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-achteraf-het-beste-de-top-10-mp4-to-mp3-converters-voor-gemakkelijk-uitspraak/"><u>Het Achteraf Het Beste: De Top 10 MP4-to-MP3 Converters Voor Gemakkelijk Uitspraak</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-swiftly-address-iphone-photography-blur/"><u>In 2024, Swiftly Address iPhone Photography Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221674084-movavimp4/"><u>MovaviのウェブテレビMP4フリー変換サービス - 快適な配信</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-photo-viewer-apps-para-usar-en-windows-10/"><u>Top Rated Photo Viewer Apps Para Usar en Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-de-asf-a-un-codec-mpeg-sin-coste-con-el-mejor-convertidor-en-linea-soluciones-rapidas-y-faciles/"><u>Transforma Tu Vídeo De ASF a Un Códec MPEG Sin Coste Con El Mejor Convertidor en Línea: Soluciones Rápidas Y Fáciles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-nef-a-foto-jpeg-directamente-en-la-web-servicio-gratis-de-conversion-por-movavi/"><u>Transformar Archivo NEF a Foto JPEG Directamente en La Web - Servicio Gratis De Conversión Por Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone Models Set to Upgrade to the New Apple iOS 18: A Complete List with Exceptions"
-date: 2024-09-19 16:17:54
-updated: 2024-09-20 10:34:19
+date: 2024-11-02T18:03:25.239Z
+updated: 2024-11-06T23:16:38.557Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +86,19 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-diy-guide-to-custom-instagram-tones-for-2024/"><u>[New] DIY Guide to Custom Instagram Tones for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-demystifying-instagrams-videography-restrictions/"><u>[New] In 2024, Demystifying Instagram's Videography Restrictions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-luts-simplified-your-guide-to-better-photos/"><u>[New] LUTs Simplified Your Guide to Better Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-metaverse-frontier-gear-guide-select-8-headsets/"><u>[New] Metaverse Frontier Gear Guide Select 8 Headsets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-evolution-of-live-streaming-with-periscope/"><u>[New] The Evolution of Live Streaming with Periscope</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>[New] Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>[New] Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-beginners-guide-to-premium-gopro-accessories-for-2024/"><u>[Updated] Beginner’s Guide to Premium GoPro Accessories for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-drone-enthusiasts-compendium-of-must-haves/"><u>[Updated] The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thwarting-video-stops-in-photobooth-recordings/"><u>[Updated] Thwarting Video Stops in Photobooth Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tune-into-visuals-embedding-music-in-powerpoint/"><u>[Updated] Tune Into Visuals Embedding Music in PowerPoint</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-no-loss-video-shrinking-tools-available-for-android-users/"><u>Best No-Loss Video Shrinking Tools Available for Android Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-new-rock-bottom-deal-apples-mac-mini-fitted-with-m2-chip-for-just-479-tech-insights-from-zdnet/"><u>Discover the New Rock-Bottom Deal: Apple's Mac Mini Fitted with M2 Chip for Just $479 | Tech Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-15-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 15 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-p60-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Huawei P60 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/protect-privacy-10-best-free-face-blurring-apps-for-images-and-footage-for-2024/"><u>Protect Privacy 10 Best Free Face Blurring Apps for Images and Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-tutorial-on-precise-audioshifting-for-2024/"><u>Ultimate Tutorial on Precise Audioshifting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-crypto-potential-the-ultimate-list-of-nft-engines-for-2024/"><u>Unlocking Crypto Potential The Ultimate List of NFT Engines for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138581723-9781452540634-you-are-beautiful/"><u>You Are Beautiful | Free Book</u></a></li>
+</ul></div>
+
