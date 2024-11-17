@@ -1,7 +1,7 @@
 ---
 title: Enhancing Clinical Insights with Generative AI and Medical Records Integration
-date: 2024-09-17 18:53:29
-updated: 2024-09-20 11:50:35
+date: 2024-11-11T21:35:30.865Z
+updated: 2024-11-17T00:37:19.257Z
 tags:
   - developer
 categories:
@@ -81,6 +81,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,19 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +137,19 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +195,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-reducing-excessive-encoding-obs-broadcast/"><u>[Updated] 2024 Approved Reducing Excessive Encoding (OBS Broadcast)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-professional-video-intros-no-cost/"><u>[Updated] In 2024, Professional Video Intros, No Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-of-virtuality-best-metaverse-headsets-ranked/"><u>2024 Approved Future of Virtuality Best Metaverse Headsets Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebots-innovative-technology-drives-digital-marketing-success-and-engagement-optimization/"><u>Cookiebot's Innovative Technology Drives Digital Marketing Success and Engagement Optimization</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-innovation-at-the-apple-iphone-worldwide-rollout-ceremony/"><u>Discovering Innovation at the Apple iPhone Worldwide Rollout Ceremony</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y27s-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y27s Device SIM</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-engagement-with-our-cookiebot-integration-services/"><u>Enhance User Engagement with Our Cookiebot Integration Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-experience-and-conversions-through-cookiebot-driven-optimization/"><u>Enhance User Experience & Conversions Through Cookiebot-Driven Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-conversion-rates-via-cutting-edge-cookiebot-analytics-tools/"><u>Enhanced Conversion Rates via Cutting-Edge Cookiebot Analytics Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-advanced-cookiebot-technology/"><u>Enhanced User Experience with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-driver-safety-and-productivity-learn-about-mobile-gps-tools-in-car-task-management-and-avoiding-distractions-on-the-road-tips-from-abbyy-experts.m13/"><u>Enhancing Driver Safety & Productivity: Learn About Mobile GPS Tools, In-Car Task Management, and Avoiding Distractions on the Road | Tips From ABBYY Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhancing-medical-efficiency-streamlining-referrals-and-boosting-patient-outcomes/"><u>Enhancing Medical Efficiency: Streamlining Referrals and Boosting Patient Outcomes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-strong-roots-key-steps-towards-achieving-innovative-change-in-ap-operations/"><u>Establishing Strong Roots: Key Steps Towards Achieving Innovative Change in AP Operations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-xr-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone XR & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/interactive-social-media-is-facebook-at-the-forefront/"><u>Interactive Social Media: Is Facebook at the Forefront?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lift-screen-limitations-in-windows-11-with-these-methods/"><u>Lift Screen Limitations in Windows 11 with These Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x50-gts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Honor X50 GTs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
+

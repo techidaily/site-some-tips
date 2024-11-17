@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Network Virtuoso Radia Perlman: The Architect of Functional LANs Recognized in New 'Unsung Tech Legends' Segment by ZDNet"
-date: 2024-09-17 20:24:29
-updated: 2024-09-20 11:58:15
+date: 2024-11-13T07:28:12.250Z
+updated: 2024-11-17T00:27:51.728Z
 tags:
   - developer
 categories:
@@ -104,11 +104,35 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-sierras-icloud-drive-essentials-for-seamless-workflows/"><u>[Updated] Sierra’s iCloud Drive Essentials for Seamless Workflows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audience-attraction-in-a-minute-comparing-youtubes-shorts-and-tiktoks/"><u>Audience Attraction in a Minute Comparing YouTubes Shorts and TikToks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/data-dominance-5-picks-for-efficient-gpt-3-data-handling/"><u>Data Dominance: 5 Picks for Efficient GPT-3 Data Handling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-omzetting-mp3-files-online-professioneel-werkstattdoek-van-movavi/"><u>Gratis Omzetting MP3-Files Online - Professioneel Werkstattdoek Van Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-online-konverter-voc-naar-wmv-mit-movavi-geavanceerd-video-conversieprogramma/"><u>Gratis Online Konverter VOC Naar WMV Mit Movavi - Geavanceerd Video Conversieprogramma</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-expert-techniques-pour-une-segmentation-video-impeccable/"><u>Guide Expert: Techniques Pour Une Segmentation Vidéo Impeccable</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/kostenlose-hochleistungs-transcodierung-umwandlung-von-h2n4-in-h265-mit-minimalen-grosse-und-unverandertem-bildstandard/"><u>Kostenlose Hochleistungs-Transcodierung: Umwandlung Von H.2n4 in H.265 Mit Minimalen Größe Und Unverändertem Bildstandard</u></a></li>
+<li><a href="https://facebook.techidaily.com/metaai-revolutionizing-conversational-intelligence/"><u>MetaAI: Revolutionizing Conversational Intelligence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-circuitry-with-tom-your-ultimate-hardware-guide/"><u>Navigating the Circuitry with Tom - Your Ultimate Hardware Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-melhores-12-programas-de-videochamada-para-pcs-no-ano-de-202/"><u>Os Melhores 12 Programas De Videochamada Para PCs No Ano De 202</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-lameencdll-dll-error-challenges-within-audacitys-lame-mp3-process/"><u>Overcoming lame_enc.dll DLL Error Challenges Within Audacity's Lame MP3 Process</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-programas-mais-populares-de-gravador-de-dvd-para-sistemas-windows-10-8-e-7-versoes-gratuitas/"><u>Top 6 Programas Mais Populares De Gravador De DVD Para Sistemas Windows 10, 8 E 7 - Versões Gratuitas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-videokomprimere-gratis-online-beste-video-kompresser/"><u>Top Rated Videokomprimere Gratis Online - Beste Video Kompresser</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/virtual-escapades-explained-the-core-principles-for-2024/"><u>Virtual Escapades Explained The Core Principles for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

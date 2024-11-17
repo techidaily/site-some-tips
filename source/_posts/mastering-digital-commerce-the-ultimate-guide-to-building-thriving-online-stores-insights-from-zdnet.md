@@ -1,7 +1,7 @@
 ---
 title: "Mastering Digital Commerce : The Ultimate Guide to Building Thriving Online Stores | Insights From ZDNET"
-date: 2024-09-19 19:38:40
-updated: 2024-09-20 12:42:38
+date: 2024-11-16T03:06:18.102Z
+updated: 2024-11-16T16:53:44.025Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +107,19 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-blizzard-of-champions-highlighting-snowboard-cross-excellence-22-olympics-for-2024/"><u>[New] Blizzard of Champions Highlighting Snowboard Cross Excellence, '22 Olympics for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-insta-turn-techniques-flipping-your-photos-and-gaining-followers/"><u>[Updated] In 2024, Insta-Turn Techniques Flipping Your Photos and Gaining Followers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-investigating-spotlighted-comments-online/"><u>2024 Approved Investigating Spotlighted Comments Online</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/5pit5aac5yplusn5o6m5zyw5lplusu5asn5zuplus5yop5peg5rov5lil6l296zeu6aky/"><u>易如反掌地修复图像无法下载问题</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-and-revive-a-users-handbook-to-successfully-rebooting-a-macbook-pro/"><u>Fix & Revive: A User's Handbook to Successfully Rebooting a MacBook Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-abbyy-and-uipath-are-pioneering-automation-insights-from-the-future-of-finance-summit/"><u>How ABBYY and UiPath Are Pioneering Automation: Insights From the Future of Finance Summit</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-rpa-is-dominating-the-thoughts-of-top-executives-insights-from-abbyy/"><u>How RPA Is Dominating the Thoughts of Top Executives: Insights From ABBYY</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-lens-magic-perfecting-close-up-and-macro-shots-for-2024/"><u>IPhone Lens Magic Perfecting Close-Up and Macro Shots for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebot-technology-for-superior-user-tracking-on-your-website/"><u>Leverage Cookiebot Technology for Superior User Tracking on Your Website</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-cookiebots-powerful-tracking-solutions-for-superior-user-insights/"><u>Leverage Cookiebot's Powerful Tracking Solutions for Superior User Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-mobile-ocr-for-streamlined-customer-onboarding-processes/"><u>Leverage Mobile OCR for Streamlined Customer Onboarding Processes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-optimized-site-personalization-and-analytics/"><u>Leveraging Cookiebot Technology for Optimized Site Personalization and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-website-performance-and-tracking/"><u>Optimize with Cookiebot: Elevate Website Performance & Tracking</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-madden-nfl-21-pc-instability-issues/"><u>Troubleshooting Guide: Fixing Madden NFL 21 PC Instability Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-infinity-siege-game-crashes-on-windowsmac/"><u>Troubleshooting Guide: Resolving Infinity Siege Game Crashes on Windows/Mac</u></a></li>
+</ul></div>
+

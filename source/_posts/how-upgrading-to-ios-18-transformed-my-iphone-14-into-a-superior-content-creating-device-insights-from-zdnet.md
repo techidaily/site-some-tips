@@ -1,7 +1,7 @@
 ---
 title: "How Upgrading to iOS 18 Transformed My iPhone 14 Into a Superior Content-Creating Device: Insights From ZDNet"
-date: 2024-11-06T01:41:14.324Z
-updated: 2024-11-07T04:25:05.382Z
+date: 2024-11-12T09:16:45.415Z
+updated: 2024-11-17T09:25:06.844Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +56,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +81,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,16 +129,16 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>[New] The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-kid-safe-toy-quadcopters-unveiled/"><u>[New] Top Kid-Safe Toy Quadcopters Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-potential-of-text-with-photo-shading-psx/"><u>[Updated] Unlock the Potential of Text with Photo Shading PSX</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-selfie-to-world-stage-mastering-the-art-of-instagram-captions/"><u>2024 Approved Selfie to World Stage Mastering the Art of Instagram Captions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide/"><u>2024 Approved Unlock the Secrets of Movie Maker for Windows 11 with Our Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-90-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 90 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-windows-10-sound-capabilities/"><u>In 2024, Unlocking Windows 10 Sound Capabilities</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/microsoft-exchange-zero-day-vulnerability-patch-details-revealed/"><u>Microsoft Exchange Zero-Day Vulnerability Patch Details Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-original-windows-settings-after-restart/"><u>Reclaim Original Windows Settings After Restart</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-10-wedding-clock-apps-for-android-and-ios-to-keep-your-day-on-track-for-2024/"><u>Top 10 Wedding Clock Apps for Android & iOS to Keep Your Day on Track for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gifpng-movavi-web/"><u>무료 구성 GIF/PNG 변환기를 찾는다! Movavi와 함께 Web용 이미지 마이크업</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-of-pause-time-creating-spectacularly-long-lasting-movies-with-photos-and-web-services/"><u>[Updated] Unveiling the Magic of Pause Time Creating Spectacularly Long Lasting Movies with Photos & Web Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-iphones-artistic-capabilities-capturing-movement-blur/"><u>2024 Approved Master iPhone's Artistic Capabilities Capturing Movement Blur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-recorders-bible-for-clear-conversations/"><u>2024 Approved The Ultimate Recorder's Bible for Clear Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-an-easy-to-understand-explanation/"><u>Demystifying AI: An Easy-to-Understand Explanation</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-virtual-frontier-the-top-6-metaverse-advantages/"><u>Facebook's Virtual Frontier: The Top 6 Metaverse Advantages</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-non-detected-end-usb-devices-troubleshooting-steps-for-windows-users/"><u>Fixing Non-Detected End USB Devices - Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-itel-s23-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Itel S23 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-e13-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto E13 for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-turning-xmlssattml-files-into-srt-formats-strategies-and-techniques/"><u>In 2024, Turning XML/SSA/TTML Files Into SRT Formats Strategies and Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-image-potential-with-editors-essentials/"><u>In 2024, Unlock Image Potential with Editor's Essentials</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager in Windows 7</u></a></li>
 </ul></div>
 

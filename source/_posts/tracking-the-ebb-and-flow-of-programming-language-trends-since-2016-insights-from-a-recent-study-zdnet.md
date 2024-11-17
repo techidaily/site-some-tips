@@ -1,7 +1,7 @@
 ---
 title: "Tracking the Ebb and Flow of Programming Language Trends Since 2016: Insights From a Recent Study - ZDNet"
-date: 2024-09-18 22:12:51
-updated: 2024-09-20 12:54:14
+date: 2024-11-13T08:07:10.144Z
+updated: 2024-11-17T02:52:24.252Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,19 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-hilarious-hub-highest-rated-free-meme-archives/"><u>[New] 2024 Approved Hilarious Hub Highest-Rated Free Meme Archives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-virtually-vivacious-top-humorous-memes-for-the-metaverse-enthusiasts/"><u>[New] In 2024, Virtually Vivacious Top Humorous Memes for the Metaverse Enthusiasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-inshot-tips-import-music-into-videos-effortlessly/"><u>[Updated] InShot Tips Import Music Into Videos Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-visuals-ranking-the-prime-12-video-players/"><u>2024 Approved Perfecting Visuals Ranking the Prime 12 Video Players</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-innovative-features-in-apples-latest-update-to-logic-pro-ai-powered-band-members-enhancing-music-production-for-tablet-and-desktop-users-insights-f160/"><u>Discover Innovative Features in Apple's Latest Update to Logic Pro: AI-Powered 'Band Members' Enhancing Music Production for Tablet and Desktop Users | Insights From ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-substitutes-for-capcut-top-15-apps-and-online-solutions-for-your-editing-needs-on-windows-and-mac/"><u>Discover the Best Substitutes for CAPcut: Top 15 Apps and Online Solutions for Your Editing Needs on Windows and Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-ogg-to-ogv-verzamelen-professioneel-online-konvertor-movavi/"><u>Gratis OGG-to-OGV Verzamelen: Professioneel Online Konvertor - Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-boost-your-profile-by-engaging-in-productive-xtwitter-conversations/"><u>How To Boost Your Profile By Engaging In Productive X/Twitter Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-top-4-techniques-pour-capturer-lecran-de-votre-iphone-11-guide-complet/"><u>Les Top 4 Techniques Pour Capturer L’Écran De Votre iPhone 11 : Guide Complet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-video-trimming-and-editing-with-precision-learn-how-from-movavi/"><u>Mastering the Art of Video Trimming and Editing with Precision - Learn How From Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/moveavi-mp3-wav/"><u>Moveavi에서 제공하는 MP3, WAV 비용 없이 구문 변환 도구 - 원격 사용</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-iphone-mic-wont-work-a-guide/"><u>Quick Fixes for When Your iPhone Mic Won't Work - A Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/silent-screen-capture-solved-with-movavi-no-sound-issues/"><u>Silent Screen Capture Solved with Movavi - No Sound Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/stop-the-mute-add-sound-to-tweeted-clips-for-2024/"><u>Stop the Mute Add Sound to Tweeted Clips for 2024</u></a></li>
+</ul></div>
+

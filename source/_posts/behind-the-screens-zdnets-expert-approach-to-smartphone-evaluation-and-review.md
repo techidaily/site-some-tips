@@ -1,7 +1,7 @@
 ---
 title: "Behind the Screens: ZDNet's Expert Approach to Smartphone Evaluation and Review"
-date: 2024-11-05T18:37:38.070Z
-updated: 2024-11-07T06:34:43.445Z
+date: 2024-11-12T08:16:28.955Z
+updated: 2024-11-17T03:53:38.352Z
 tags:
   - apple
 categories:
@@ -38,6 +38,13 @@ Within the embargoed time frame, ZDNET reviewers can test the latest features (i
 
 While ZDNET primarily covers smartphone releases in the US market, we also evaluate international handsets to understand the competitive landscape better and have a frame of reference when making recommendations to international readers. We also attend trade shows, including [CES](https://www.zdnet.com/collection/ces-2024-whats-next-in-tech/) and [Mobile World Congress](https://www.zdnet.com/collection/mwc-2024/), to connect with industry experts and analysts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What makes a phone ZDNET recommended?
 
 For hands-on testing, five aspects determine whether or not a phone gets recommended : design, performance, cameras, battery life, and special features. The importance of each aspect will vary across users; some will value camera quality over battery life, and others just want a phone that's unique and different. Generally, the order of importance is cameras, battery life, design, performance, and then special features.
@@ -55,10 +62,10 @@ But also, how does the phone feel when it's tucked in your tight jeans or lightw
 To truly test the real-world experience of using the latest iPhones and Androids, ZDNET reviewers often don't accessorize the handsets with silicone or rubberized cases; instead, we browse, take pictures, and roam around with them as is. Phones get brownie points if they're rated IP68, the industry standard for water and dust resistance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Performance
@@ -72,10 +79,10 @@ Performance testing also includes putting phones through varying levels of graph
 Of course, reviewers also consider the price of the tested devices, adjusting their standards and expectations accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Cameras
@@ -88,13 +95,6 @@ Arguably the most valuable aspect of today's smartphones, built-in cameras have 
 
 Having a larger sample size to reference and compare with images from other phone models gives us the most accurate assessment of what phone camera is best at preserving details, colors, contrast, and more. Whether we're evaluating the latest [Samsung Galaxy phones](https://www.zdnet.com/article/best-samsung-phone/) to each other or with the [latest iPhone](https://www.zdnet.com/article/best-iphone/), ZDNET reviewers can typically be found with more than one device in their pockets, both for comparison reasons and because we're simply tech geeks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Battery life and charging
 
 Kerry Wan/ZDNET
@@ -104,10 +104,10 @@ It's also important for us to evaluate how long phones last under light, moderat
 On average, phones can score from three hours of SOT to upwards of nine hours of SOT, with the value resetting after 24 hours or when the phone is fully recharged. However, remember that a high SOT value is not always correlated to top-tier battery life; being able to play a Netflix video at full brightness for four hours straight is more impressive, endurance-wise, than leaving a text document on the screen for nine hours. Therefore, when speaking to the battery life of phones, we also describe it in a more practical sense -- mentioning if a device can last one full day of usage, more or less.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Special features
@@ -156,21 +156,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exploring-vidmas-screen-recording-functionality/"><u>[New] 2024 Approved Exploring Vidma’s Screen Recording Functionality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>[New] The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-superior-frame-rate-in-languid-videos/"><u>[Updated] Superior Frame Rate in Languid Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-artisans-guide-to-backdrop-free-image-perfection-with-photopea/"><u>[Updated] The Artisan's Guide to Backdrop-Free Image Perfection with Photopea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-ultimate-iphone-strategies-for-flawless-audio-downloads/"><u>[Updated] Ultimate iPhone Strategies for Flawless Audio Downloads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-improve-teleconference-experience-fixing-zoom-sound/"><u>2024 Approved Improve Teleconference Experience Fixing Zoom Sound</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-screenshots-of-success-decoding-post-viewer-demographics/"><u>2024 Approved Screenshots of Success Decoding Post Viewer Demographics</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-blueprint-to-youtube-wealth-smart-strategies-for-facebook-video-marketing/"><u>2024 Approved The Blueprint to YouTube Wealth Smart Strategies for Facebook Video Marketing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-online-platforms-for-youtube-media-growth/"><u>2024 Approved Top Online Platforms for YouTube Media Growth</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-snapchats-prominent-personalities-highlight/"><u>2024 Approved Utilizing Snapchat's Prominent Personalities Highlight</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/die-fuhrenden-ersatzlosungen-fur-norton-goback-auf-windows-die-bessere-optionen-finden/"><u>Die Führenden Ersatzlösungen Für Norton GoBack Auf Windows - Die Bessere Optionen Finden!</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>In 2024, The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/magnify-memories-unaltered-resolution-for-2024/"><u>Magnify Memories Unaltered Resolution for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streaming-quality-comparison-obs-or-fraps-in-2024/"><u>Streaming Quality Comparison OBS or Fraps, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-enlarge-or-shrink-videos-without-compromising-quality-free-and-watermark-free/"><u>Ultimate Guide: Enlarge or Shrink Videos Without Compromising Quality - Free & Watermark-Free</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/alculator-projected-profits-from-youtube-for-2024/"><u>[New] Calculator Projected Profits From YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>[New] The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-clearer-sounds-a-video-editing-guide/"><u>[Updated] Unveiling Clearer Sounds A Video Editing Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-figmas-bg-elimination-mastery/"><u>[Updated] Unveiling Figma's BG Elimination Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-best-monitors-for-xbox-series-x/"><u>In 2024, The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-data-collection-the-cookiebot-way/"><u>Revolutionize Data Collection - The Cookiebot Way</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-the-troublesome-minecraft-crossbow-error-ultimate-fix-strategies-for-gamers/"><u>Tackling the Troublesome Minecraft Crossbow Error - Ultimate Fix Strategies for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-integrity-of-format-with-ffmpegs-audio-recapture-methods-for-2024/"><u>The Integrity of Format with FFmpeg's Audio Recapture Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-android-photo-tech-tips-and-apps-guide-for-2024/"><u>Top Android Photo-Tech Tips & Apps Guide for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unparalleled-narratives-yt-channels-worth-watching-in-23-for-2024/"><u>Unparalleled Narratives YT Channels Worth Watching in '23 for 2024</u></a></li>
 </ul></div>
 

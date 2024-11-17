@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for Disorganized Linux/Open-Source Guides - Expert Strategies Revealed | ZDNet
-date: 2024-09-17 18:33:26
-updated: 2024-09-20 12:54:48
+date: 2024-11-11T12:06:58.708Z
+updated: 2024-11-17T12:12:27.334Z
 tags:
   - developer
 categories:
@@ -93,6 +93,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +110,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +124,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-using-srt-audio-on-windows-and-macos-devices/"><u>[New] Using SRT Audio on Windows & macOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-learning-photography-on-the-go-the-lunapic-approach/"><u>2024 Approved Learning Photography on the Go The LunaPic Approach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>2024 Approved The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-40-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aerial-artistry-mastering-the-craft-of-drone-video-editing/"><u>Aerial Artistry Mastering the Craft of Drone Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-handling-winhttpdll-file-missing-errors-on-your-windows-pc/"><u>Expert Tips on Handling Winhttp.dll File Missing Errors on Your Windows PC</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/navigating-live-stream-providers-with-10-top-insights-for-2024/"><u>Navigating Live Stream Providers with 10 Top Insights for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-overcoming-the-unable-to-launch-problem-with-mass-effect-legendary-edition/"><u>Solution Guide: Overcoming the 'Unable to Launch' Problem with Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-civi-3-disney-100th-anniversary-edition-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi Civi 3 Disney 100th Anniversary Edition Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-premier-rankings-best-general-knowledge-shows-for-2024/"><u>The Premier Rankings Best General Knowledge Shows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-zoom-meetings-for-2024/"><u>Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-magix-samplitude-vs-competitors-unveiling-the-top-music-producer/"><u>Updated MAGIX Samplitude Vs. Competitors Unveiling the Top Music Producer</u></a></li>
+</ul></div>
+

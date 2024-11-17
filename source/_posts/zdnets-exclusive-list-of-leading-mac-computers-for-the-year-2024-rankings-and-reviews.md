@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Exclusive List of Leading Mac Computers for the Year 2024: Rankings and Reviews"
-date: 2024-11-05T06:56:21.882Z
-updated: 2024-11-06T18:17:15.094Z
+date: 2024-11-14T11:14:41.188Z
+updated: 2024-11-16T19:15:57.894Z
 tags:
   - apple
 categories:
@@ -26,6 +26,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7abd244f-d52a-46ac-ac3f-9bfd7b5660c6%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The best small tablets of 2024
 
 Show less 
@@ -40,19 +47,6 @@ Pros
 Cons 
 * Cellular connectivity is additional cost
 * Expensive
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
 
@@ -87,20 +81,14 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Best budget small tablet
 
@@ -132,14 +120,14 @@ Cons
 * Expensive
 * Some complaints of lag
 
-## Boox Tab Mini C
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Boox Tab Mini C
 
 ### Best small tablet for note-taking
 
@@ -170,6 +158,13 @@ Cons
 
 ## Amazon Kindle 11th generation
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Best small tablet for reading
 
 The upgraded 11th-generation Kindle offers 16GB of storage instead of 8GB, 300ppi instead of 167ppi, six weeks of battery life instead of four weeks, and charging via USB-C instead of micro-USB. 
@@ -199,10 +194,10 @@ Cons
 * Performance could be better
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
@@ -220,16 +215,16 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best small tablet?
@@ -265,13 +260,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -283,6 +271,13 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is the smallest tablet screen size?
 
@@ -307,13 +302,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -361,22 +349,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-narrative-nuance-in-voiceovers-mastering-the-art-of-storytelling-on-ppts/"><u>[New] 2024 Approved Narrative Nuance in Voiceovers Mastering the Art of Storytelling on PPTs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficient-roblox-gaming-save-techniques-on-macs/"><u>[Updated] 2024 Approved Efficient Roblox Gaming Save Techniques on Macs</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-iphone-guide-to-water-reflected-imagery/"><u>[Updated] The Ultimate iPhone Guide to Water-Reflected Imagery</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/1726029834731-iso/"><u>「無料プログラムを使って、ISOファイルが映るテレビスクリーンへの手順解説」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>2024 Approved Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-vegaspro-2019-update-changes-and-impacts/"><u>2024 Approved VegasPro 2019 Update Changes & Impacts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 2023 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-analyzing-online-video-discussions/"><u>In 2024, Analyzing Online Video Discussions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-130-music-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia 130 Music</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-secure-hassle-free-passport-images-top-10-choices/"><u>In 2024, Secure, Hassle-Free Passport Images - Top 10 Choices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-channel-lockdowns-device-specific-tips/"><u>Mastering YouTube Channel Lockdowns Device-Specific Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-success-implementing-green-screen-innovations-for-2024/"><u>Streaming Success Implementing Green Screen Innovations for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-humor-personalize-with-kinemaster-for-2024/"><u>Tailoring Humor Personalize with KineMaster for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/techniques-for-smooth-audio-transitions-for-2024/"><u>Techniques for Smooth Audio Transitions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-compreayer-guide-to-iphone-hdr-mastery-for-2024/"><u>The Compreayer Guide to iPhone HDR Mastery for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices-for-2024/"><u>The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-advanced-ai-search-solutions-and-applications/"><u>The Ultimate Guide to Advanced AI Search Solutions and Applications</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-experts-picks-best-free-video-tools-for-pc-and-mac/"><u>[New] 2024 Approved Expert's Picks Best Free Video Tools for PC & Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-pages-made-simple-top-8-tools-for-free-and-online-use/"><u>[New] FB Pages Made Simple Top 8 Tools for Free & Online Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unite-chords-and-visuals-on-powerpoint/"><u>[New] Unite Chords and Visuals on PowerPoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-optimizing-large-scale-video-migrations-from-iphone-to-mac-systems/"><u>[Updated] Optimizing Large-Scale Video Migrations From iPhone to Mac Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-navigating-the-world-of-advanced-lut-design/"><u>2024 Approved Navigating the World of Advanced LUT Design</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-scrutiny-of-cutmatic-editor/"><u>Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-infinix-hot-40-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Hot 40 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi K70</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques/"><u>In 2024, Joining the Metaverse Comedy Club Top 20+ Memes & Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-dark-side-of-digital-escapism/"><u>In 2024, The Dark Side of Digital Escapism</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-meizu-21-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Meizu 21 Pro Device</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-10-c-ssd/"><u>Windows 10 Cドライブを高速処理で移行! SSD向けクローニングツール</u></a></li>
 </ul></div>
 

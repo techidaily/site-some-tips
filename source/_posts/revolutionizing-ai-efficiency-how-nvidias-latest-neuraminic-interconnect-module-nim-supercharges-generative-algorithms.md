@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing AI Efficiency: How Nvidia's Latest Neuraminic Interconnect Module (NIM) Supercharges Generative Algorithms"
-date: 2024-09-19 14:27:27
-updated: 2024-09-20 11:48:35
+date: 2024-11-15T02:17:28.985Z
+updated: 2024-11-17T13:01:39.109Z
 tags:
   - developer
 categories:
@@ -40,6 +40,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-elite-systems-essential-streaming-software-guide/"><u>[New] In 2024, Elite Systems Essential Streaming Software Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simple-strategies-for-saving-video-calls/"><u>[New] Simple Strategies for Saving Video Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cutting-edge-techniques-for-audience-engagement-on-twitch-for-2024/"><u>[Updated] Cutting-Edge Techniques for Audience Engagement on Twitch for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-how-to-seamlessly-blend-apples-siri-into-your-tiktok-content/"><u>[Updated] In 2024, How to Seamlessly Blend Apple's Siri Into Your TikTok Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/effortless-video-capture-using-screencastify-app/"><u>Effortless Video Capture Using Screencastify App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-using-the-latest-cookiebot-features/"><u>Enhanced Performance Using the Latest Cookiebot Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-performance-via-automated-trackers/"><u>Enhanced Performance via Automated Trackers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-experience-with-dynamic-content-powered-by-cookiebot/"><u>Enhanced User Experience with Dynamic Content: Powered by Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-trustworthiness-through-identification-verification-in-the-digital-era-of-banking/"><u>Establishing Trustworthiness Through Identification Verification in the Digital Era of Banking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evolution-of-abbyy-embracing-a-new-identity-with-an-emphasis-on-organizational-growth-and-personnel-empowerment/"><u>Evolution of ABBYY: Embracing a New Identity with an Emphasis on Organizational Growth and Personnel Empowerment</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/examining-the-economics-pewdiepies-annual-income-for-2024/"><u>Examining the Economics PewDiePie's Annual Income for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/future-leaders-expect-more-process-clarity-and-innovative-tech-reveals-abbyy-research-on-wfh-adaptations/"><u>Future Leaders Expect More Process Clarity and Innovative Tech, Reveals ABBYY Research on WFH Adaptations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-8-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 8 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/myth-busters-guide-to-the-worlds-leading-ai-chatbot-misconceptions/"><u>Myth-Buster's Guide to the World's Leading AI Chatbot Misconceptions</u></a></li>
+</ul></div>
+

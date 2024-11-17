@@ -1,7 +1,7 @@
 ---
 title: Talkative - Chatty
-date: 2024-09-19 17:20:45
-updated: 2024-09-20 10:50:23
+date: 2024-11-14T08:59:54.230Z
+updated: 2024-11-17T00:43:01.379Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-speech-to-text-powered-by-microsoft-word-your-pathway-to-efficient-workflow-management/"><u>[Updated] 2024 Approved Speech to Text Powered by Microsoft Word Your Pathway to Efficient Workflow Management</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-become-a-gif-whisperer-crafting-images-from-vimeo-videos-for-2024/"><u>[Updated] Become a GIF Whisperer Crafting Images From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-maximizing-creativity-find-your-next-project-on-these-top-12-photo-websites/"><u>[Updated] In 2024, Maximizing Creativity - Find Your Next Project on These Top 12 Photo Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[Updated] Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-8-virtual-handhelds-overview/"><u>2024 Approved The Elite 8 Virtual Handhelds Overview</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-warehouse-in-the-sky-top-pricing-on-demand/"><u>2024 Approved Warehouse in the Sky Top Pricing on Demand</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ranking-the-ultimate-10-free-online-subtitle-makers-srt/"><u>In 2024, Ranking the Ultimate 10 Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-most-massive-lifting-machines-in-the-sky/"><u>In 2024, The Most Massive Lifting Machines in the Sky</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-iphone-lens-enhancers-x8-series-selection/"><u>In 2024, Top iPhone Lens Enhancers X/8 Series Selection</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-by-step-from-twitter-videosyoutube-songs-to-scribbled-mp3-files-for-2024/"><u>Step-by-Step From Twitter Videos/YouTube Songs to Scribbled MP3 Files for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-7-sites-showcasing-latest-film-previews/"><u>Top 7 Sites Showcasing Latest Film Previews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile-for-2024/"><u>Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile) for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211010443-9781088233146-zdorovaya-aktivnaya-zhizn-v-lyubom-vozraste-pyat-kursov/"><u>Здоровая Активная Жизнь в Любом Возрасте: Пять курсов | Free Book</u></a></li>
+</ul></div>
+

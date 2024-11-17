@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses the Power of Rust in Linux Development & Personal Gadget Insights | TechCrunch
-date: 2024-09-18 16:11:20
-updated: 2024-09-20 10:33:38
+date: 2024-11-16T09:53:19.219Z
+updated: 2024-11-17T13:19:25.503Z
 tags:
   - developer
 categories:
@@ -104,11 +104,38 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ecoding-youtubes-algorithm-behind-prominent-comments/"><u>[New] Decoding YouTube's Algorithm Behind Prominent Comments</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-android-gallery-upload-on-iphone-device/"><u>[Updated] 2024 Approved Android Gallery Upload on iPhone Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[Updated] 2024 Approved In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-adjusting-youtubes-viewership-limits-for-content/"><u>[Updated] Adjusting YouTube's Viewership Limits for Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-meme-magnate-monetization-pewdiepies-payday/"><u>[Updated] Meme Magnate Monetization PewDiePie’s Payday</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>[Updated] The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-sound-architects-guide-to-memo-mastery/"><u>2024 Approved The Sound Architect's Guide to Memo Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-from-standard-sdr-to-high-end-hdr/"><u>2024 Approved Unleashing Potential From Standard SDR to High-End HDR</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/beat-the-blank-screen-overcoming-top-vlogging-anxieties/"><u>Beat the Blank Screen Overcoming Top Vlogging Anxieties</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-redragon-usb-mic-up-and-running-on-windows-computers/"><u>Getting Your Redragon USB Mic Up & Running on Windows Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-top-5-virtual-title-designers/"><u>In 2024, Unlocking the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-8-visual-augmentations-for-live-cams/"><u>In 2024, Unparalleled 8 Visual Augmentations for Live Cams</u></a></li>
+<li><a href="https://some-tips.techidaily.com/srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use-for-2024/"><u>Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-editing-videos-on-snapchat-tutorials-and-tricks/"><u>Ultimate Guide: Editing Videos on Snapchat - Tutorials & Tricks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-potential-of-the-garmin-forerunner-245-a-fitness-enthusiasts-review/"><u>Uncovering the Potential of the Garmin Forerunner 245 - A Fitness Enthusiast's Review</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

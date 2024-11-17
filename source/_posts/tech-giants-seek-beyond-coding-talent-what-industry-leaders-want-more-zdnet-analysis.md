@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Seek Beyond Coding Talent: What Industry Leaders Want More | ZDNet Analysis"
-date: 2024-09-17 23:40:41
-updated: 2024-09-20 12:17:25
+date: 2024-11-10T20:57:25.225Z
+updated: 2024-11-16T23:14:00.526Z
 tags:
   - developer
 categories:
@@ -40,6 +40,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-essential-guide-to-the-top-10-streamers-for-2024/"><u>[New] Essential Guide to the Top 10 Streamers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-power-up-with-the-ultimate-exercise-soundtrack-guide/"><u>[New] Power Up with the Ultimate Exercise Soundtrack Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-techniques-for-perfect-chroma-key-compositing/"><u>[New] Techniques for Perfect Chroma Key Compositing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-gt-10-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix GT 10 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-erweitert-das-ipa-okosystem-durch-das-neue-globale-one-partner-programm-einbindung-und-zusammenarbeit-fur-verbesserte-prozessautomatisierung/"><u>ABBYY Erweitert Das IPA-Ökosystem Durch Das Neue, Globale One Partner Programm: Einbindung Und Zusammenarbeit Für Verbesserte Prozessautomatisierung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-integration-launches-at-electionzcom-for-enhanced-data-processing/"><u>ABBYY Integration Launches at Electionz.com for Enhanced Data Processing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-maintains-top-spot-in-the-smart-automation-industry/"><u>ABBYY Maintains Top Spot in the Smart Automation Industry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-technological-mastery-skyrocketing-profits-with-a-60-increase-endorsed-by-the-esteemed-idc-marketscape-analysis/"><u>ABBYY's Technological Mastery: Skyrocketing Profits with a 60% Increase, Endorsed by the Esteemed IDC MarketScape Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-management-with-cookiebot-technology/"><u>Automated Traffic Management with Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-with-cookiebot-streamlining-your-websites-data-collection/"><u>Automated with Cookiebot: Streamlining Your Website's Data Collection</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-website-personalization-using-advanced-cookiebot-solutions/"><u>Boosting Website Personalization Using Advanced Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-data-collection-solutions/"><u>Cookiebot-Driven Data Collection Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-marketing-success-strategies/"><u>Cookiebot-Driven Marketing Success Strategies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-nokia-c22-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Nokia C22</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-6s-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 6s? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-70-lite-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor 70 Lite 5G Easily?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-why-the-google-pixelbook-go-stands-out-in-the-premium-chromebook-market/"><u>In-Depth Look: Why the Google Pixelbook Go Stands Out in the Premium Chromebook Market</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-smooth-play-7-powerful-tweaks-to-prevent-nba-nba-2k23-pc-glitches/"><u>Master Smooth Play: 7 Powerful Tweaks to Prevent NBA Nba 2K23 PC Glitches</u></a></li>
+</ul></div>
+

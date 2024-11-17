@@ -1,7 +1,7 @@
 ---
 title: "Future at the Edge: How AI Agents Will Revolutionize Our Jobs for Good | Exclusive ZDNET Analysis"
-date: 2024-09-17 23:19:52
-updated: 2024-09-20 12:13:58
+date: 2024-11-16T06:58:11.844Z
+updated: 2024-11-17T08:45:53.619Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-leading-virtual-realities-iphone-and-android-guide/"><u>[New] The Leading Virtual Realities IPhone & Android Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[New] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-naming-excellence-tips-and-strategies-for-2024/"><u>[Updated] Channel Naming Excellence Tips & Strategies for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-cross-platform-content-transfer-youtube-meets-facebook-for-2024/"><u>[Updated] Cross-Platform Content Transfer YouTube Meets Facebook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-10-prime-online-stores-for-curious-gift-boxes/"><u>[Updated] Explore 10 Prime Online Stores for Curious Gift Boxes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevate-your-channel-ranking-with-these-11-seo-secrets/"><u>2024 Approved Elevate Your Channel Ranking with These 11 SEO Secrets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-twitters-video-converters/"><u>2024 Approved The Essential Guide to Twitters Video Converters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721389813844-chatgpt-takes-the-ios-stage/"><u>ChatGPT Takes the iOS Stage!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-check-on-dji-mavic-pro-vision-headset-for-2024/"><u>Comprehensive Check on DJi Mavic Pro Vision Headset for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-prime-steadicam-devices-for-excellence-in-filmmaking-aviation/"><u>In 2024, Prime Steadicam Devices for Excellence in Filmmaking Aviation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-the-essentials-of-burst-in-action-shots/"><u>In 2024, Understanding the Essentials of Burst in Action Shots</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/knorr-bremse-ag/"><u>Knorr-Bremse AG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-webcam-experience-top-18-tools-for-video-capture-for-2024/"><u>Streamline Your Webcam Experience Top 18 Tools for Video Capture for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-mac-videography-tools-unleashed-in-sierra-os-for-2024/"><u>Top 5 Mac Videography Tools Unleashed in Sierra OS for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-kinemaster-potential-how-to-engage-and-top-alternatives-compared-for-2024/"><u>Unlocking KineMaster Potential How To Engage and Top Alternatives Compared for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-secrets-to-craft-impeccable-timelapse-shots-with-gopro-for-2024/"><u>Unveiling Secrets to Craft Impeccable Timelapse Shots with GoPro for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How Apple's Recent Advancements in Artificeal Intelligence Signify a Hopeful Resurgence with Areas to Develop
-date: 2024-11-02T19:47:57.756Z
-updated: 2024-11-06T19:05:15.716Z
+date: 2024-11-11T01:23:54.102Z
+updated: 2024-11-17T07:50:31.753Z
 tags:
   - apple
 categories:
@@ -53,16 +53,10 @@ In terms of AI infrastructure, Apple also introduced its [Foundation Models](htt
 **Room for Improvement:** Apple fell short in AI infrastructure leadership by not announcing AI-accelerated server appliances at the edge, which would allow less capable devices, like the base iPhone 15 and earlier iOS 18-supported models, to use Apple Intelligence's more advanced features. While the hybrid AI model with on-device and PCC is a step in the right direction, AI-accelerated edge network devices were not mentioned to enhance performance and reduce latency. Apple is typically not transparent about deploying resources in its data centers, so it may plan to deploy these appliances at the edge without disclosing specifics. While the short list of Responsible AI Principles that the company [has documented here](https://machinelearning.apple.com/research/introducing-apple-foundation-models) is a good start, an AI [ethical disclosure](https://www.adobe.com/content/dam/cc/en/ai-ethics/pdfs/Adobe-AI-Ethics-Principles.pdf) statement [along the lines of what Adobe is doing](https://www.adobe.com/ai/overview/ethics.html) would further bolster trust and transparency.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Embracing third-party AI providers
@@ -74,10 +68,16 @@ Apple has dipped its toes into [ChatGPT](https://www.zdnet.com/article/what-is-c
 **Room for improvement:** While Apple's intention to be LLM-agnostic is a positive sign for the company's AI strategy, I had hoped for a broader embrace of third-party platforms, particularly health, finance, and education, with AI integration. However, this shift will have to come with developers embracing the new [SiriKit, App Intents, Core ML, Create ML, and other APIs](https://www.zdnet.com/article/apple-coders-rejoice-your-programming-tools-just-got-a-big-free-ai-boost/). Deeper integration with specialized AI providers could significantly enhance Apple Intelligence's functionality and versatility.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Smart notifications and writing tools
@@ -108,6 +108,13 @@ Apple Intelligence also performs actions within apps on behalf of the user. It c
 
 **Room for improvement:** While Apple has made significant progress, future updates could further enhance Siri's capabilities, automate more complex tasks, and provide deeper personalization across the Apple ecosystem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI capabilities across Apple products
 
 Lastly, enhancing AI capabilities across all Apple products, including Siri, Apple Music, Apple News, Health, Fitness+, TV, and HomeKit, was a major recommendation. While Apple's AI features are integrated across devices, the specific enhancements for services like Apple Music and HomeKit were limited, at least as addressed in the WWDC keynote.
@@ -117,10 +124,10 @@ Lastly, enhancing AI capabilities across all Apple products, including Siri, App
 **Room for improvement:** We also haven't heard anything about [HomePod](https://www.zdnet.com/home-and-office/home-entertainment/homepod-vs-homepod-mini-which-one-of-apples-smart-speakers-is-right-for-you/) or Apple TV with Apple Intelligence, although neither of these products has the computational power to perform on-device generative AI. Similarly, there were no mentions of new AI capabilities in [WatchOS](https://www.zdnet.com/article/every-apple-watch-model-that-will-support-watchos-11-and-which-ones-wont/). While these devices might be able to use some of the cloud capabilities of Apple Intelligence, this was not brought up in the keynote. Additionally, with its M2 chip, the [Vision Pro](https://www.zdnet.com/article/apple-vision-pro-faq-price-features-hands-on-insights-and-everything-you-need-to-know/) is powerful enough to handle Apple Intelligence on-device features. Still, the keynote did not discuss what would be coming to that device specifically.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The developer story
@@ -146,13 +153,6 @@ Finally, the new Translation API will be unveiled. It will help developers build
 **Also: [Apple unveils an on-device AI image generator for iPhone, iPad, and Mac](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/)**
 
 By equipping developers with these resources, Apple is ensuring that the potential of Apple Intelligence can be fully realized across its ecosystem, driving innovation and enhancing user experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Did Apple go far enough with AI improvements?
 
@@ -194,17 +194,22 @@ Addressing the remaining gaps could enhance Apple's competitive position in the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>[New] Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-breaking-down-instagrams-timeframe-per-video/"><u>[New] In 2024, Breaking Down Instagram's Timeframe Per-Video</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-free-webinar-recorders-manual-for-2024/"><u>[New] The Free Webinar Recorder's Manual for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>[New] The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-15-color-grading-plugins-for-action-cam-video/"><u>[New] Ultimate 15 Color Grading Plugins for Action Cam Video</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-maximizing-your-camera-masterful-android-time-lapse-videography/"><u>[Updated] In 2024, Maximizing Your Camera Masterful Android Time-Lapse Videography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-free-clip-art-licenses/"><u>2024 Approved The Ultimate Guide to Free Clip Art Licenses</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tutorials-for-downgrading-macos-sierra-to-el-capitan/"><u>2024 Approved Tutorials for Downgrading MacOS Sierra To El Capitan</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/behind-the-wheel-exploring-the-power-and-precision-of-galaxys-miniaturized-ford-f-1-remote-control-masterpiece/"><u>Behind the Wheel: Exploring the Power and Precision of Galaxy's Miniaturized Ford F-1# Remote Control Masterpiece</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-nubia-z50s-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Nubia Z50S Pro Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-for-gopro-professionals/"><u>In 2024, The Ultimate Guide for GoPro Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-the-secrets-to-stunning-and-shareable-tiktok-videos/"><u>In 2024, Unlock the Secrets to Stunning and Shareable TikTok Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-optimally-utilize-a-creative-commons-license/"><u>[New] In 2024, How to Optimally Utilize a Creative Commons License</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-the-potential-of-livestreaming-on-ios-and-android/"><u>[New] In 2024, Unlock the Potential of Livestreaming on iOS and Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-reach-the-top-10-highlight-strategies-unveiled/"><u>[Updated] Enhance Reach The Top 10 Highlight Strategies Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-gaze-field-vr-device-overview/"><u>[Updated] Total Gaze Field VR Device Overview</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-losungen-fur-riesige-ordner-in-windows-entpacken-mit-diesen-vier-strategien/"><u>1. Lösungen Für Riesige Ordner in Windows - Entpacken Mit Diesen Vier Strategien</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-drone-accessory-guide-10-must-haves-revealed/"><u>2024 Approved The Ultimate Drone Accessory Guide - 10 Must-Haves Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-ar-a-modern-illusionists-toolkit/"><u>2024 Approved Unveiling AR A Modern Illusionist's Toolkit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/constructing-the-ideal-setup-for-advanced-4k-video-production-for-2024/"><u>Constructing the Ideal Setup for Advanced 4K Video Production for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/control-your-smart-devices-with-ease-using-the-google-home-app-across-multiple-platforms-including-pc/"><u>Control Your Smart Devices with Ease: Using the Google Home App Across Multiple Platforms Including PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-studio-techniques-decoded-xvideostudio-edition/"><u>In 2024, Studio Techniques Decoded XVideoStudio Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-instagram-stardom-unleash-your-potential-with-9-key-strategies/"><u>In 2024, The Ultimate Guide to Instagram Stardom - Unleash Your Potential with 9 Key Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unified-imagery-the-ultimate-blend-strategy/"><u>In 2024, Unified Imagery The Ultimate Blend Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/making-friends-online-xbox-sx-edition/"><u>Making Friends Online: Xbox S/X Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-3d-typographic-sites-for-2024/"><u>Ultimate List of 3D Typographic Sites for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unforgettable-visions-the-top-15-stop-motion-film-classics-for-2024/"><u>Unforgettable Visions The Top 15 Stop-Motion Film Classics for 2024</u></a></li>
 </ul></div>
 

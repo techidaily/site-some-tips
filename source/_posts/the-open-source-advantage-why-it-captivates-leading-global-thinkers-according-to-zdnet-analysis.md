@@ -1,7 +1,7 @@
 ---
 title: "The Open-Source Advantage: Why It Captivates Leading Global Thinkers, According to ZDNet Analysis"
-date: 2024-09-19 14:21:52
-updated: 2024-09-20 11:39:58
+date: 2024-11-14T06:19:19.977Z
+updated: 2024-11-17T00:51:38.289Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -103,6 +110,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +124,19 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-integrating-apple-tunes-with-visual-media/"><u>[New] 2024 Approved Integrating Apple Tunes with Visual Media</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-visualize-success-with-these-three-insta-video-caption-approaches/"><u>[New] In 2024, Visualize Success with These Three Insta Video Caption Approaches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-virtual-frontier-googles-cardboard-meets-samsung-gear/"><u>[Updated] Exploring the Virtual Frontier Google's Cardboard Meets Samsung Gear</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-ios-psp-emulators-our-top-5-selections/"><u>[Updated] In 2024, Best iOS PSP Emulators Our Top 5 Selections</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-instagram-video-editing-tips-with-fcpx/"><u>[Updated] Mastering Instagram Video Editing Tips with FCPX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webmmp4-movavi/"><u>自由搜尋線上從WEBM到MP4格式切換 - 採用Movavi解答方案</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/bose-g435-no-audio-dilemma-quick-fixes-for-immediate-sound-recovery/"><u>Bose G435 No Audio Dilemma: Quick Fixes for Immediate Sound Recovery</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-resoudre-les-problemes-de-fonctionnement-avec-lapplication-microsoft-windows-methodes-optimales/"><u>Comment Résoudre Les Problèmes De Fonctionnement Avec L'Application Microsoft Windows: Méthodes Optimales</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descubriendo-el-concepto-del-codec-explicacion-y-significado-detallado/"><u>Descubriendo El Concepto Del Códec: Explicación Y Significado Detallado</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elevate-photography-crafting-exceptional-time-lapses-with-black-hero5/"><u>Elevate Photography Crafting Exceptional Time-Lapses with Black Hero5</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-and-repairing-the-elusive-wmvcoredll-file-expert-advice/"><u>Finding and Repairing the Elusive wmvcore.dll File - Expert Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formato-de-archivo-m4a-a-partir-de-wav-gratuito-y-sin-conexion-usando-movavi/"><u>Formato De Archivo M4A a Partir De WAV Gratuito Y Sin Conexión Usando Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gif-to-png-online-konvertor-professioneel-werkvormige-opschreven-movavi/"><u>Gratuit GIF-to-PNG Online Konvertor: Professioneel Werkvormige Opschreven - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-convertitore-online-caf-programma-di-masterizzazione-fatto-in-casa-da-movavi/"><u>Gratuito Convertitore OnLine Caf – Programma Di Masterizzazione Fatto in Casa Da Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/melhor-editor-de-fotos-para-apple-mac-introducao-ao-melodious-magix-photo-director/"><u>Melhor Editor De Fotos Para Apple MAc: Introdução Ao Melodious Magix Photo Director</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mka-flac-on-line/"><u>MKA FLAC 오디오 파일을 원근금지적으로 변환하는 방법: On-Line 가이드</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227676149-mp4-mov/"><u>MP4 형식으로 MOV 비디오를 원활하게 전환하기 위한 단계별 가이드</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-11-brain-games-engaging-trivia-channels/"><u>Top 11 Brain Games Engaging Trivia Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m4b-and-flac-movavi/"><u>オンラインでの M4B & FLAC ファイル変換サービス - 完全無料提供: Movavi</u></a></li>
+</ul></div>
+

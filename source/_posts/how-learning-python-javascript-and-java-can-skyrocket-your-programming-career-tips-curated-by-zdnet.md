@@ -1,7 +1,7 @@
 ---
 title: How Learning Python, JavaScript & Java Can Skyrocket Your Programming Career - Tips Curated by ZDNet
-date: 2024-09-19 20:40:18
-updated: 2024-09-20 12:45:44
+date: 2024-11-13T23:49:29.722Z
+updated: 2024-11-16T22:27:34.397Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +107,19 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/deal-watchlist-for-asmr-fans-for-2024/"><u>[New] Ideal Watchlist for ASMR Fans for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-huawei-p10-performance-metrics/"><u>[New] The Ultimate Guide to Huawei P10 Performance Metrics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-iphone-x-compatible-backdrop-change-tools/"><u>[New] Top 5 iPhone X-Compatible Backdrop Change Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-titles-best-ai-powered-podcast-name-makers/"><u>[New] Transforming Titles Best AI-Powered Podcast Name Makers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-insiders-10-list-top-terraria-upgrades-for-2024/"><u>[Updated] Insider's 10 List Top Terraria Upgrades for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-reflect-and-record-capture-your-window-world-for-2024/"><u>[Updated] Reflect & Record Capture Your Window World for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-finest-selection-of-economical-free-lut-tools/"><u>[Updated] Unveiling the Finest Selection of Economical, Free LUT Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-hd-live-stream-gear-list/"><u>2024 Approved Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-incentivizing-engagement-for-a-robust-subscription-base/"><u>In 2024, Incentivizing Engagement for a Robust Subscription Base</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-10-best-blurred-background-tools/"><u>In 2024, The 10 Best Blurred Background Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-twilight-crusaders-the-darkened-knight-vs-the-shining-one/"><u>In 2024, Twilight Crusaders The Darkened Knight vs the Shining One</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-potential-in-ar-applying-lut-techniques/"><u>In 2024, Unleashing Potential in AR Applying LUT Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/studio-techniques-decoded-xvideostudio-edition-for-2024/"><u>Studio Techniques Decoded XVideoStudio Edition for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/switch-trends-and-talk-gamings-pivot-point/"><u>Switch Trends & Talk - Gaming's Pivot Point</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-flickering-now-stable-and-secure/"><u>Win11 Flickering - Now Stable and Secure</u></a></li>
+</ul></div>
+

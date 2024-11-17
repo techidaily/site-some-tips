@@ -1,7 +1,7 @@
 ---
 title: "Navigating iOS Updates: Discover iPhone Compatibility with iOS Nvite-Latest Version, and Understand the Limits"
-date: 2024-09-18 17:28:36
-updated: 2024-09-20 12:46:15
+date: 2024-11-12T08:59:50.040Z
+updated: 2024-11-16T17:42:33.894Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-effortless-techniques-to-craft-professional-time-lapses-on-galaxy-for-2024/"><u>[New] Effortless Techniques to Craft Professional Time-Lapses on Galaxy for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-guide-to-iphone-screen-capturing/"><u>[New] Step-by-Step Guide to Iphone Screen Capturing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-delve-into-deliberate-speed-creating-slow-motion-videos-from-photos-online-for-2024/"><u>[Updated] Delve Into Deliberate Speed Creating Slow Motion Videos From Photos Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[Updated] Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turn-your-iphone-vids-clockwise/"><u>[Updated] Turn Your iPhone Vids Clockwise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-high-def-dynamics-yi-hero-camera-review/"><u>[Updated] Unveiling High-Def Dynamics Yi Hero Camera Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tips-for-reducing-unsteady-shots/"><u>2024 Approved Tips for Reducing Unsteady Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-rated-budget-friendly-asmr-gear-for-superior-sound-quality/"><u>2024 Approved Top-Rated Budget-Friendly ASMR Gear for Superior Sound Quality</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hp-stream-11-basic-computing-in-a-compact-package/"><u>HP Stream 11: Basic Computing in a Compact Package</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-spark-10-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-metaverse-vr-gear-list-top-8-choices/"><u>In 2024, Ultimate Metaverse VR Gear List Top 8 Choices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/new-release-download-updated-canon-pixma-ts3322-driver-for-smooth-printing/"><u>New Release: Download Updated Canon PIXMA TS3322 Driver for Smooth Printing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-blueprint-for-smooth-obs-to-fb-live-transitions/"><u>The Blueprint for Smooth OBS-to-FB Live Transitions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranked-e-learning-presentation-palette-for-2024/"><u>Top-Ranked E-Learning Presentation Palette for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+</ul></div>
+

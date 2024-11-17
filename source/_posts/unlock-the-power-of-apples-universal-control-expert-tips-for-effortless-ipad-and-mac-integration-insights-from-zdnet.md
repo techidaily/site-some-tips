@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Power of Apple's Universal Control: Expert Tips for Effortless iPad & Mac Integration | Insights From ZDNET"
-date: 2024-11-06T00:29:55.377Z
-updated: 2024-11-07T07:12:13.302Z
+date: 2024-11-13T10:14:05.286Z
+updated: 2024-11-17T07:35:21.128Z
 tags:
   - apple
 categories:
@@ -24,35 +24,22 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 
 ## Here's how to back up your iPhone with iCloud
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Go to settings and tap on your name at the top
 
 Image: Maria Diaz / ZDNet
 
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Tap on iCloud
 
 Image: Maria Diaz / ZDNet
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Go to iCloud Backup
 
@@ -68,22 +55,29 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 
 ## Here's how to back up your iPhone on a Mac
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Connect your iPhone to the computer
 
 Image: Maria Diaz / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Open Finder to find your iPhone in Locations
 
 Image: Maria Diaz / ZDNet
 
 Gone are the days when iTunes was the go-to to get data out of your iPhone. Open **Finder** to view your iPhone in **Locations,** and there will be a snapshot of the current storage information, current iOS and any updates, and backup options.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Select Back up to this Mac and click on Back Up Now
 
@@ -92,13 +86,6 @@ Image: Maria Diaz / ZDNet
 Be sure to select **Back up all of the data on your iPhone to this Mac** before clicking on **Back Up Now**.
 
 Creating a backup could take a few minutes or a couple of hours, depending on how much data you have to back up. Mine took a little over an hour, but I hadn't backed up my iPhone in over a year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How much does iCloud cost?
 
@@ -114,6 +101,13 @@ Here are the [different plans iCloud offers](https://apple.sjv.io/c/159047/43503
 ## Is it better to back up iPhone on a computer or iCloud?
 
 Both options have their pros and cons, but I personally prefer a cloud service backup. I like having my photos and videos easily accessible through an app on my phone without occupying storage space. This beats having to get into a computer to find an old photo every time I want one. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Do I need to back up iPhone apps?
 
@@ -155,22 +149,22 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-ultrawide-vs-uhd-4k-monitor-showdown-top-picks/"><u>[New] UltraWide VS UHD 4K Monitor Showdown Top Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-animoji-secrets-on-iphone-x-a-step-by-step-guide/"><u>[New] Unlock Animoji Secrets on iPhone X - A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-launching-success-streamline-your-first-youtube-business-channels-for-2024/"><u>[Updated] Launching Success Streamline Your First YouTube Business Channels for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-essential-manual-for-srt-conversion-techniques/"><u>[Updated] The Essential Manual for SRT Conversion Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-4k-hdtv-monitors-for-gameplay-excellence/"><u>2024 Approved Best 4K HDTV Monitors for Gameplay Excellence</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-implementing-podcast-seo/"><u>2024 Approved The Ultimate Guide to Implementing Podcast SEO</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-premium-priced-no-cost-graphic-websites/"><u>2024 Approved Unveiling Premium-Priced, No-Cost Graphic Websites</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-12-mini-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 12 mini? How to Fix it?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-15-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 15 when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-future-without-vlc-media-player-insights/"><u>In 2024, The Future Without VLC - Media Player Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/inside-the-secrets-of-quantum-hdr-photography-for-2024/"><u>Inside the Secrets of Quantum HDR Photography for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-pro-17-laptop-assessment-the-ultimate-mobile-gaming-machine/"><u>Razer Blade Pro 17 Laptop Assessment: The Ultimate Mobile Gaming Machine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/survival-tips-from-ai-can-chatgpt-help-you-escape-the-wild/"><u>Survival Tips From AI: Can ChatGPT Help You Escape the Wild?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-full-scale-of-precision-a-review-of-asus-pa32us-capabilities-for-2024/"><u>The Full Scale of Precision A Review of Asus PA32U's Capabilities for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-new-era-of-conversational-agents-bard-vs-bing-chatbot/"><u>The New Era of Conversational Agents: Bard Vs. Bing Chatbot</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-evolved-2023-samsung-bd-j5900-a-deep-dive/"><u>[New] The Evolved 2023 Samsung BD-J5900 A Deep Dive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-best-screens-for-playstation-5-gamers/"><u>[New] TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-storytelling-into-cinematic-art/"><u>[New] Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-intuitive-guide-how-to-capture-on-vimeo/"><u>[Updated] Intuitive Guide How to Capture on Vimeo</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premiere-pros-art-of-audio-transitioning-for-2024/"><u>[Updated] Premiere Pro’s Art of Audio Transitioning for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-soundsmiths-scripture-on-crossfading-in-logic/"><u>2024 Approved The Soundsmith's Scripture on Crossfading in Logic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unwrapping-utopia-creating-magical-unboxing-moments/"><u>2024 Approved Unwrapping Utopia Creating Magical Unboxing Moments</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-edge-40-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Edge 40 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-nailing-the-perfect-shot-expert-tips-for-android-time-lapse-videography/"><u>In 2024, Nailing the Perfect Shot Expert Tips for Android Time-Lapse Videography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-12-screen-capture-tools-unlimited-recording/"><u>In 2024, Ultimate 12 Screen Capture Tools (Unlimited Recording)</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-and-link-old-games-to-windows-photos/"><u>Navigate and Link Old Games to Windows Photos</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/recupero-senza-costi-di-dati-sulla-memoria-sd-di-panasonic-avc-cam/"><u>Recupero Senza Costi Di Dati Sulla Memoria SD Di Panasonic AVC-CAM</u></a></li>
+<li><a href="https://fox-where.techidaily.com/securisez-vos-fichiers-avec-un-mot-de-passe-sous-windows-10-and-11-methodes-completement-expliquees/"><u>Sécurisez Vos Fichiers Avec Un Mot De Passe Sous Windows 10 & 11 : Méthodes Completement Expliquées</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-viewing-experience-how-to-use-floating-window-on-netflix-for-2024/"><u>Streamline Your Viewing Experience How To Use Floating Window on Netflix for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unheard-voices-on-youtube-livestream-success-beyond-1000-supporters-for-2024/"><u>Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-enterprise-offers-innovations-and-unique-selling-points/"><u>Unlocking the Potential of ChatGPT Enterprise: Offers, Innovations, and Unique Selling Points</u></a></li>
 </ul></div>
 

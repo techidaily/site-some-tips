@@ -1,7 +1,7 @@
 ---
 title: Advancing Towards a Consensus on Open Source AI Standards, Yet Dissent Lingers Amongst Experts | ZDNet
-date: 2024-09-19 12:52:22
-updated: 2024-09-20 11:40:18
+date: 2024-11-10T02:03:17.656Z
+updated: 2024-11-17T07:07:55.482Z
 tags:
   - developer
 categories:
@@ -104,11 +104,40 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-tips-for-effective-ppt-sharing-via-google-meet/"><u>[New] 2024 Approved Tips for Effective PPT Sharing via Google Meet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pigments-and-perceptions-mastering-image-colorization/"><u>[New] Pigments & Perceptions Mastering Image Colorization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-power-of-perception-iconic-podcast-design-tips/"><u>[New] The Power of Perception Iconic Podcast Design Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-path-to-stunning-hdr-portraits/"><u>[New] The Ultimate Path to Stunning HDR Portraits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[New] Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>[Updated] Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-zooms-potential-learn-how-to-use-video-filters/"><u>[Updated] Unlocking Zoom's Potential Learn How to Use Video Filters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-guide-to-video-editing-in-windows-8-movie-maker/"><u>2024 Approved The Complete Guide to Video Editing in Windows 8 Movie Maker</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>2024 Approved Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-most-effective-iphone-gps-apps-ranked/"><u>Discover the Most Effective iPhone GPS Apps Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-speech-to-text-processing-in-powerpoint/"><u>In 2024, Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-camon-20-premier-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Camon 20 Premier 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-apps-upgrade-your-mobile-movies-instantly/"><u>In 2024, Top Apps Upgrade Your Mobile Movies Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcome-launching-challenges-expert-advice-for-finals/"><u>Step-by-Step Guide to Overcome Launching Challenges: Expert Advice for Finals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-transformation-unveiling-what-google-hangouts-was-all-about/"><u>The Rise and Transformation: Unveiling What Google Hangouts Was All About</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-ultimate-top-10-pick-best-music-player-apps-compatible-with-windows-11/"><u>The Ultimate Top 10 Pick: Best Music Player Apps Compatible with Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-your-videos-with-the-right-dimension-proportions-for-2024/"><u>Transform Your Videos with the Right Dimension Proportions for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-advapi32dll-file-missing-error/"><u>Troubleshooting Guide: Resolving 'Advapi32.dll' File Missing Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme 11 Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Turmoil: The Risks to Ukraine's and Global IT Markets Due to Russia’s Invasion | Analyzed by ZDNET"
-date: 2024-09-19 14:54:15
-updated: 2024-09-20 11:14:59
+date: 2024-11-14T11:45:43.894Z
+updated: 2024-11-16T23:28:26.502Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-youtubes-potential-title-and-tag-best-practices/"><u>[New] 2024 Approved Unlocking YouTube's Potential Title and Tag Best Practices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-revolutionizing-video-views-conquering-youtube-millions/"><u>[New] In 2024, Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-streaming-showdown-choose-between-obs-and-shadowgl-for-2024/"><u>[Updated] Screen Streaming Showdown Choose Between OBS & ShadowGL for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-top-8-collaborative-video-collage-android-apps-freepremium/"><u>[Updated] Unveiling Top 8 Collaborative Video Collage Android Apps (Free/Premium)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-unveils-new-collaborations-and-broadens-product-lineup-for-q4-2019-insights-from-abbyys-newsroom/"><u>ABBYY Unveils New Collaborations and Broadens Product Lineup for Q4, 2019 - Insights From ABBYY's Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-welcomes-scott-opitz-as-new-head-of-technology-and-product-innovation/"><u>ABBYY Welcomes Scott Opitz as New Head of Technology and Product Innovation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-banking-innovation-how-idc-enables-the-future-of-finance-with-cutting-edge-automation/"><u>Advancing Banking Innovation: How IDC Enables the Future of Finance with Cutting-Edge Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-solutions-empower-your-online-presence-with-cookiebot/"><u>Automated Marketing Solutions: Empower Your Online Presence with Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-marketing-with-customized-user-tracking/"><u>Automated Marketing with Customized User Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-traffic-boost-with-the-help-of-cookiebot/"><u>Automated Traffic Boost with the Help of Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-business-efficiency-integrating-abbyys-smart-content-into-sap-bot-solutions/"><u>Boosting Business Efficiency: Integrating ABBYY's Smart Content Into SAP Bot Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/cmd-fur-datenrettung-nutzen-tipps-und-tricks-zur-wiederherstellung-ihrer-dateien/"><u>CMD Für Datenrettung Nutzen - Tipps Und Tricks Zur Wiederherstellung Ihrer Dateien</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-analytics-and-tracking-solutions/"><u>Cookiebot-Driven Analytics and Tracking Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-sony-xperia-10-v-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Sony Xperia 10 V to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-c12-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia C12 Pro Phone Screen?</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
+<li><a href="https://driver-error.techidaily.com/seamless-sound-in-the-windows-11-world/"><u>Seamless Sound in the Windows 11 World</u></a></li>
+</ul></div>
+

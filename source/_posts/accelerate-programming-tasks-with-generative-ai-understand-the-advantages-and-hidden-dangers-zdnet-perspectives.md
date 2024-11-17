@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Programming Tasks with Generative AI: Understand the Advantages & Hidden Dangers | ZDNET Perspectives"
-date: 2024-09-17 15:34:39
-updated: 2024-09-20 11:15:44
+date: 2024-11-10T20:12:19.192Z
+updated: 2024-11-17T07:16:01.443Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,6 +74,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +95,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-securely-shutting-down-your-instagram-presence-forever/"><u>[Updated] 2024 Approved Securely Shutting Down Your Instagram Presence Forever</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-roadmap-to-engaging-youtube-trailers-through-filmora/"><u>[Updated] In 2024, The Roadmap to Engaging YouTube Trailers Through Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-adding-snapchat-to-your-mac-for-2024/"><u>[Updated] Step-by-Step Adding Snapchat to Your Mac for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-art-of-memetics-a-9gag-creators-manual/"><u>2024 Approved Mastering the Art of Memetics A 9GAG Creator's Manual</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-printer-canon-mx870-to-work-with-win-versions/"><u>Configure Printer: Canon MX870 to Work with Win Versions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/easy-steps-transforming-your-old-vhs-tapes-into-digital-files-with-top-conversion-tools/"><u>Easy Steps: Transforming Your Old VHS Tapes Into Digital Files with Top Conversion Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-ferramenta-segura-e-facil-de-uso-para-converte-las-do-formato-bmp-para-png-sem-custo/"><u>Movavi: Ferramenta Segura E Fácil De Uso Para Convertê-Las Do Formato BMP Para PNG Sem Custo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-13-free-dvd-conversion-tools-compatible-with-windows-and-macos/"><u>Top 13 Free DVD Conversion Tools Compatible with Windows and macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-avi-a-laide-de-wmv-gratuite-sur-internet-movavi/"><u>Transcode AVI À L'aide De WMV Gratuite Sur Internet - Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-most-effective-methods-for-your-hp-laptop-recordings/"><u>Unveiling the Most Effective Methods for Your HP Laptop Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wmv-mkv-wmvmkv/"><u>WMV 및 MKV를 원격용 WMV/MKV 형식으로 구동 가능한 무료 전환기</u></a></li>
+</ul></div>
+

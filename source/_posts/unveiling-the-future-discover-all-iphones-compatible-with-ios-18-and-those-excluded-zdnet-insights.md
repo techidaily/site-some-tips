@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future: Discover All iPhones Compatible with iOS 18 and Those Excluded | ZDNET Insights"
-date: 2024-09-19 17:23:51
-updated: 2024-09-20 10:52:24
+date: 2024-11-16T13:30:07.677Z
+updated: 2024-11-17T07:54:47.869Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +70,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +93,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-archive-aesthetics-merge-infinite-gratis-storage-with-elite-subscriptions-for-2024/"><u>[New] Archive Aesthetics Merge Infinite, Gratis Storage with Elite Subscriptions for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-a-visual-guide-to-building-believable-characters-in-virtual-space/"><u>[New] In 2024, A Visual Guide to Building Believable Characters in Virtual Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>[New] Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-ai-tools-for-visual-storytelling/"><u>[Updated] Unmatched AI Tools for Visual Storytelling</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-encompassing-vision/"><u>[Updated] Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-details-a-closer-look-at-your-roblox-world/"><u>2024 Approved Unraveling Details A Closer Look at Your Roblox World</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/blue-screen-of-death-overcome-error-code-0x00000116-in-a-flash/"><u>Blue Screen of Death: Overcome Error Code 0X00000116 in a Flash</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-your-website-engagement-using-cookiebots-innovative-solutions/"><u>Elevate Your Website Engagement Using Cookiebot's Innovative Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-your-slideshow-speed-settings-for-mp4/"><u>In 2024, Streamline Your Slideshow Speed Settings for MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>In 2024, The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/offline-viewing-simple-steps-to-downloading-your-favorite-films-series-tunes/"><u>Offline Viewing: Simple Steps to Downloading Your Favorite Films, Series, Tunes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-overwatch-glitches-fixing-the-persistent-screen-lock-up-issue/"><u>Overcoming Overwatch Glitches: Fixing the Persistent Screen Lock-Up Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-image-editors-ultimate-toolkit-review-for-2024/"><u>The Image Editor's Ultimate Toolkit Review for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/todays-steering-group-at-facebook/"><u>Today’s Steering Group at Facebook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-free-4k-video-converters-for-windows-and-mac/"><u>Updated The Ultimate List Free 4K Video Converters for Windows and Mac</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Work Life: The Rise of AI Agents as Tomorrow's Game-Changer - Insights by ZDNet"
-date: 2024-09-19 13:12:55
-updated: 2024-09-20 12:19:30
+date: 2024-11-10T07:37:17.990Z
+updated: 2024-11-16T22:54:59.415Z
 tags:
   - developer
 categories:
@@ -41,11 +41,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +113,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-complete-users-manual-to-youtube-editing-via-finalcut-pro/"><u>[New] 2024 Approved The Complete User's Manual to YouTube Editing via FinalCut Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-iphones-how-to-grab-podcast-episodes/"><u>[New] The Definitive Guide to iPhones How to Grab Podcast Episodes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-path-to-effective-marketing-best-practices-for-health-promos/"><u>[New] The Path to Effective Marketing Best Practices for Health Promos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-smartphone-to-vr-makeover-tutorial/"><u>[New] The Ultimate Smartphone-to-VR Makeover Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleashing-creativity-in-iphone-videography-8-best-practices/"><u>[New] Unleashing Creativity in iPhone Videography 8 Best Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-years-finest-photo-framers-and-organizers-compilation/"><u>[Updated] The Year's Finest Photo Framers & Organizers Compilation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>2024 Approved OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tier-eyeball-enticer-author/"><u>2024 Approved Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correctly-address-stop-work-order-for-windows-host-process-using-rundll32/"><u>Easy Steps to Correctly Address Stop Work Order for Windows Host Process Using Rundll32</u></a></li>
+<li><a href="https://media-tips.techidaily.com/elevate-your-listening-experience-switch-to-youtube-premium-now/"><u>Elevate Your Listening Experience: Switch to YouTube Premium Now!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/follower-drones-reviewed-best-of-the-best/"><u>Follower Drones Reviewed Best of the Best</u></a></li>
+<li><a href="https://some-tips.techidaily.com/perfecting-onscreen-image-clarity-and-detail-for-2024/"><u>Perfecting Onscreen Image Clarity and Detail for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/poll-power-play-best-election-strategy-games-for-2024/"><u>Poll Power Play Best Election Strategy Games for 2024</u></a></li>
+</ul></div>
+

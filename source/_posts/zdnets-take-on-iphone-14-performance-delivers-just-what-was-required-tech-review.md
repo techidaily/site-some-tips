@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Take on iPhone 14 Performance - Delivers Just What Was Required | Tech Review
-date: 2024-11-02T22:11:26.006Z
-updated: 2024-11-07T01:00:34.741Z
+date: 2024-11-16T02:04:56.453Z
+updated: 2024-11-16T21:36:38.114Z
 tags:
   - apple
 categories:
@@ -61,10 +61,16 @@ How and why did I come to those conclusions? Let's dig in.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Familiar design, with one exception
@@ -84,19 +90,6 @@ As for the colors, you can get the iPhone 14 in Midnight, Starlight, Blue, Purpl
 The side of the iPhone no longer has a SIM card slot. 
 
 Jason Cipriani/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance and battery life
 
@@ -123,10 +116,10 @@ I'm intrigued to see what battery life is like on the [iPhone 14 Plus](https://w
 Jason Cipriani/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Camera upgrades
@@ -147,6 +140,13 @@ Jason Cipriani/ZDNET
 
 The above photo hasn't been edited other than cropping the image in order to publish it. All of the color and saturation settings have remained untouched. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Safety first
 
 You can expect more features to be enabled on the iPhone 14 in future. The new [Emergency SOS via Satellite](https://www.zdnet.com/article/how-the-apple-iphone-14-connects-to-satellites-during-emergencies/) feature, for example, isn't available yet. That's supposed to go live in November and will remain a free service for the next two years. Pricing after that isn't yet known. [Garmin offers a similar service](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.garmin.com/en-US/p/837461) on stand-alone devices with price plans starting at $15 a month, but I imagine Apple will figure out a way to bundle it into its [Apple One](https://www.zdnet.com/article/verizons-new-unlimited-plan-comes-with-a-built-in-apple-one-subscription/) plans. 
@@ -158,10 +158,10 @@ The new emergency communication feature comes alongside a dedicated [crash detec
 **Also:** [**The iPhone 14 Pro packs a lot more innovation for the same price as last year**](https://www.zdnet.com/article/iphone-14-pro-packs-a-lot-more-innovation-for-the-same-price-as-last-year/)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -200,22 +200,17 @@ As I said at the top, the iPhone 14 is a great phone, and for someone who is com
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again-for-2024/"><u>[New] [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ow-to-make-a-memorable-impact-with-youtubes-minis-for-2024/"><u>[New] How to Make a Memorable Impact with Youtube's Minis for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-pros-picks-5-best-low-frame-rate-recorders/"><u>[New] Pros' Picks 5 Best Low Frame Rate Recorders</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-strengthening-your-presence-networking-techniques-for-youtubers/"><u>[New] Strengthening Your Presence Networking Techniques for YouTubers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-social-media-whizs-playbook-analyzing-user-behavior-with-insta-insights/"><u>[Updated] 2024 Approved The Social Media Whiz's Playbook Analyzing User Behavior with Insta Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pivotal-ideas-in-tech-driven-story-weaving/"><u>[Updated] In 2024, Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-title-transformations-beyond-standard-styles/"><u>2024 Approved Title Transformations Beyond Standard Styles</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-honor-90-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Honor 90 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/complete-guide-to-downloading-and-updating-hp-officejet-pro-6970-windows-drivers/"><u>Complete Guide to Downloading & Updating HP OfficeJet Pro 6970 Windows Drivers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-capabilities-of-midlands-lxt500vp3-feature-packed-but-leaves-room-for-improvement/"><u>Exploring the Capabilities of Midland's LXT500VP3 - Feature-Packed, But Leaves Room for Improvement</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>In 2024, The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-selection-of-omnidirectional-recording-devices/"><u>In 2024, Ultimate Selection of Omnidirectional Recording Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-best-vr-game-engines-of-2023/"><u>In 2024, Unveiling the Best VR Game Engines of 2023</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-stations-beyond-ustream-reviews-for-2024/"><u>Streaming Stations Beyond Ustream Reviews for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-portable-audio-choices-decoded-for-2024/"><u>Top Portable Audio Choices Decoded for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-webcam-and-cam-tech-on-the-windows-11-market-for-2024/"><u>Top Webcam & Cam Tech on the Windows 11 Market for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-swappiness-in-linux-systems-a-comprehensive-guide/"><u>Understanding Swappiness in Linux Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-video-splitting-wins-ranking-recorder-titans/"><u>[New] 2024 Approved Video Splitting Wins Ranking Recorder Titans?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-interpreting-the-purpose-behind-a-facebooks-blue-video-icon/"><u>[New] Interpreting the Purpose Behind a Facebook's Blue Video Icon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-animators-toolkit-windows-movie-maker-for-winning-projects/"><u>[New] The Animator's Toolkit Windows Movie Maker for Winning Projects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-photos-with-expert-color-techniques/"><u>[New] Transform Photos with Expert Color Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unlock-content-potential-with-the-right-vimeo-membership-choice/"><u>[Updated] In 2024, Unlock Content Potential with the Right Vimeo Membership Choice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-unbiased-and-structured-interviews/"><u>[Updated] Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-photopea-guide-to-clean-image-canvases/"><u>2024 Approved Photopea Guide to Clean Image Canvases</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-note-30-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Note 30 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-much-could-you-make-on-youtube-snippets-in-2024/"><u>How Much Could You Make on YouTube Snippets, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-modern-computers-with-expertise-from-toms-hardware-review/"><u>Mastering Modern Computers with Expertise From Tom's Hardware Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-path-to-larger-video-presentation-in-youtube-for-2024/"><u>The Path to Larger Video Presentation in YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Multitasking Tips for Podcast Lovers for 2024</u></a></li>
 </ul></div>
 

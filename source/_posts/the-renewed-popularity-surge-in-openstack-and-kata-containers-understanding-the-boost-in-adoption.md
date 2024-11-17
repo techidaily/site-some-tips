@@ -1,7 +1,7 @@
 ---
 title: "The Renewed Popularity Surge in OpenStack & Kata Containers: Understanding the Boost in Adoption"
-date: 2024-09-17 23:11:21
-updated: 2024-09-20 10:47:15
+date: 2024-11-13T11:37:56.270Z
+updated: 2024-11-16T16:22:35.847Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +86,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-passport-selfie-maker-top-quality-instant-access-for-desktoponline-use/"><u>[New] 2024 Approved Passport Selfie Maker – Top Quality, Instant Access for Desktop/Online Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-visuals-a-complete-guide-to-video-enhancer-22/"><u>[New] Transforming Visuals A Complete Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-earning-cash-online-with-no-skills-needed/"><u>[Updated] The Ultimate Guide to Earning Cash Online with No Skills Needed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveil-image-by-removing-surroundings/"><u>[Updated] Unveil Image by Removing Surroundings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-choice-of-steadicams-for-drone-shooting/"><u>2024 Approved Ultimate Choice of Steadicams for Drone Shooting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows/"><u>2024 Approved Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/accelerating-your-pcs-pace-after-the-latest-windows-enhancement/"><u>Accelerating Your PC's Pace After the Latest Windows Enhancement</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/free-winx-media-converter-convert-dvds-to-mp4-on-windows-10-without-cost/"><u>Free WinX Media Converter: Convert DVDs to MP4 on Windows 10 without Cost</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/moglichkeiten-fotos-wiederherzustellen-die-in-den-papierkorb-eingefugt-wurden-softwarielosungen-optional/"><u>Möglichkeiten, Fotos Wiederherzustellen, Die in Den Papierkorb Eingefügt Wurden - Softwarielösungen Optional</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-you-rely-on-bing-chat-or-gpt-3-as-a-freelancer-9-essentials/"><u>Should You Rely on Bing Chat or GPT-3 as a Freelancer? 9 Essentials</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/iques-and-strategies-for-swift-removal-of-comments-for-2024/"><u>Techniques and Strategies for Swift Removal of Comments for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-best-of-ice-artistry-2022-edition-for-2024/"><u>The Best of Ice Artistry 2022 Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-free-to-do-approach-for-text-and-video-combination-for-2024/"><u>The Free-to-Do Approach for Text & Video Combination for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-mac-software-for-mkv-files-for-2024/"><u>Top 5 Mac Software for MKV Files for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/unlock-your-dvd-guide-to-bypassing-region-restrictions-in-the-usa/"><u>Unlock Your DVD: Guide to Bypassing Region Restrictions in the USA</u></a></li>
+</ul></div>
+

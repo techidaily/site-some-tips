@@ -1,7 +1,7 @@
 ---
 title: "How Mozilla Lost Its Edge: An Insightful Exploration Into the Diminishing Popularity of Firefox | Commentary From ZDNet"
-date: 2024-09-19 14:41:26
-updated: 2024-09-20 11:39:40
+date: 2024-11-14T17:12:39.669Z
+updated: 2024-11-16T23:26:47.870Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,19 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -73,6 +93,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +107,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +189,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-mastery-of-text-effects-best-practices-in-ae/"><u>[New] Mastery of Text Effects Best Practices in AE</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-nostalgia-edition-revisiting-goofy-film/"><u>[Updated] 2024 Approved The Nostalgia Edition Revisiting Goofy Film</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-editors-edge-boost-your-tiktok-impact/"><u>[Updated] The Editor's Edge Boost Your TikTok Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-key-to-accumulating-a-huge-collection-of-tiktok-videos/"><u>[Updated] The Key to Accumulating a Huge Collection of TikTok Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-radiowave-plays/"><u>[Updated] Ultimate Guide to Radiowave Plays</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-shooting-spectacular-igtv-videos-with-your-phone-or-dslr/"><u>2024 Approved Shooting Spectacular IGTV Videos with Your Phone or DSLR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>2024 Approved Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-nights-reign-black-vs-the-dawns-duty-silver/"><u>2024 Approved The Night's Reign (Black) VS The Dawn’s Duty (Silver)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unraveling-iphone-photo-blur-techniques-4-ways-explored/"><u>2024 Approved Unraveling iPhone Photo Blur Techniques - 4 Ways Explored</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/movavi-2024-90/"><u>使用促销码获取Movavi 2024年度打折票 - 现在只需原价的90%!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-efficiency-5-best-apps-to-create-animated-clock-screen-savers-on-pcs/"><u>Accelerate Efficiency: 5 Best Apps to Create Animated Clock Screen Savers on PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/crackling-speaker-issue-in-windows-operating-systems-117-a-comprehensive-fix/"><u>Crackling Speaker Issue in Windows Operating Systems 11/7: A Comprehensive Fix</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/seamless-protection-with-arlos-video-doorbell-alarm-solution/"><u>Seamless Protection with Arlo's Video Doorbell Alarm Solution</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-social-media-facebook-twitter-instagram-youtube-unveiled/"><u>The Powerhouses of Social Media: Facebook, Twitter, Instagram, YouTube Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-screencapture-guide-for-laptop-techies-for-2024/"><u>The Ultimate ScreenCapture Guide for Laptop Techies for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+</ul></div>
+

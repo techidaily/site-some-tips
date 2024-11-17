@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down Barriers: Intel AI Leader Wei Li Advocates for Widespread Access to Supercomputing Technology."
-date: 2024-09-18 11:20:51
-updated: 2024-09-20 11:59:27
+date: 2024-11-16T12:25:36.890Z
+updated: 2024-11-17T05:48:51.254Z
 tags:
   - developer
 categories:
@@ -104,11 +104,30 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/etting-up-personalized-video-shots-on-youtube-for-2024/"><u>[New] Setting Up Personalized Video Shots on YouTube for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1716068651984-updated-2024-approved-premium-12-video-capture-apps-no-time-limit/"><u>[Updated] 2024 Approved Premium 12 Video Capture Apps, No Time Limit!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-become-an-instagram-influencer-easily/"><u>[Updated] In 2024, How to Become an Instagram Influencer Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-watch-ultra-2-rumors-upcoming-features-release-dates-and-what-to-expect-in-terms-of-price-points/"><u>Apple Watch Ultra 2 Rumors: Upcoming Features, Release Dates and What to Expect in Terms of Price Points</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avi-online-movavi/"><u>AVI 플랫 형식으로 무료 변환 - Online 문제 해결: Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-votre-animation-gif-en-video-m4v-pour-rien-effortless-video-converter/"><u>Convertissez Votre Animation GIF en Vidéo M4V Pour Rien - Effortless Video Converter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-social-presence-with-customized-instagram-voices-for-2024/"><u>Elevate Your Social Presence with Customized Instagram Voices for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226976704-mp3-wma/"><u>무료 MP3, WMA 제공 - 최고의 오디오 변환 도구로 다양한 오디오 파일을 전환하기</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726219618013-webmmkv-movavi/"><u>무료 변환 서비스를 활용하여 Webm/Mkv 프로젝트를 개선합시다: Movavi의 방법</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

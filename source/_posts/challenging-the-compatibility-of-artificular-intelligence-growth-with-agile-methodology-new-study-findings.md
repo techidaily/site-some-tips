@@ -1,7 +1,7 @@
 ---
 title: Challenging the Compatibility of Artificular Intelligence Growth with Agile Methodology | New Study Findings
-date: 2024-09-18 12:13:12
-updated: 2024-09-20 11:33:58
+date: 2024-11-14T04:21:15.600Z
+updated: 2024-11-17T02:04:14.334Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-insta-ode-selecting-song-lyrics-and-beats-for-vids/"><u>[New] 2024 Approved The Insta-Ode Selecting Song Lyrics and Beats for Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools/"><u>[New] Voice Reinvention with Technology Rankings of 7 Innovative Audio Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/20-must-haves-free-copyright-compliant-relaxation-tracks/"><u>20 Must-Haves Free, Copyright-Compliant Relaxation Tracks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-choosing-the-top-10-affordable-image-converters-online/"><u>2024 Approved Choosing the Top 10 Affordable Image Converters Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-notable-20-free-non-exclusive-pubg-screenshots/"><u>2024 Approved Notable 20 Free, Non-Exclusive PUBG Screenshots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/3070-enjoy-a-sweet-deal-with-immediate-savings-at-220-off-tech-news/"><u>3070 - Enjoy a Sweet Deal with Immediate Savings at $220 Off! | Tech News</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-marketing-solutions-drive-growth-through-advanced-analytics-and-personalization/"><u>Cookiebot-Enhanced Marketing Solutions: Drive Growth Through Advanced Analytics & Personalization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enhanced-user-experience-tailored-and-tracked/"><u>Cookiebot-Enhanced User Experience: Tailored and Tracked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-backbone-of-your-sites-personalization-strategy/"><u>Cookiebot: The Backbone of Your Site's Personalization Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/costains-abteilungsstrategie-fur-digitale-transformationen-die-rolle-von-abbyy-technologien-in-der-finanzverwaltung/"><u>Costain's Abteilungsstrategie Für Digitale Transformationen – Die Rolle Von ABBYY-Technologien in Der Finanzverwaltung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/digitale-transformation-zum-profitieren-vom-unternehmensarchiv-zur-effizienten-dokumentverwaltung/"><u>Digitale Transformation Zum Profitieren! Vom Unternehmensarchiv Zur Effizienten Dokumentverwaltung.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/e-book-techniques-pour-detruire-les-obstacles-a-la-registration-clientelle-mobile/"><u>E-Book: Techniques Pour Détruire Les Obstacles À La Régistration Clientelle Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-user-experience-through-advanced-tracking-technology-like-cookiebot/"><u>Enhance User Experience Through Advanced Tracking Technology Like Cookiebot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-site-with-automated-visitor-tracking-the-secrets-in-the-bots/"><u>Enhance Your Site with Automated Visitor Tracking - The Secret's in the Bots!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhanced-user-engagement-with-advanced-cookiebot-technology/"><u>Enhanced User Engagement with Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-8-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 8? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-90-lite-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor 90 Lite</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 15 Pro?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+</ul></div>
+

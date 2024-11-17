@@ -1,7 +1,7 @@
 ---
 title: "Navigating Quantum Resistance: How the Linux Foundation's Alliance Is Shaping Future Encryption"
-date: 2024-09-19 12:41:40
-updated: 2024-09-20 11:45:27
+date: 2024-11-11T04:10:44.946Z
+updated: 2024-11-16T19:14:25.803Z
 tags:
   - developer
 categories:
@@ -41,6 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,6 +80,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +100,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gear-up-for-greatness-choosing-webcams-for-youtube-excellence/"><u>[New] In 2024, Gear Up for Greatness Choosing Webcams for YouTube Excellence</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-video-size-strategy-for-maximum-engagement-for-2024/"><u>[New] Insta Video Size Strategy for Maximum Engagement for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-fb-video-marketing-with-novel-strategies/"><u>[Updated] Elevate Your FB Video Marketing with Novel Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/5-effektive-massnahmen-zur-optimierung-von-papierbasierten-ablaufen-durch-intelligente-automatisierung-losungen-mit-abbyy/"><u>5 Effektive Maßnahmen Zur Optimierung Von Papierbasierten Abläufen Durch Intelligente Automatisierung – Lösungen Mit ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/94-der-firmen-verlieren-potenzielle-kunden-wahrend-des-onboarding-prozesses-wie-kann-das-vermieden-werden/"><u>94% Der Firmen Verlieren Potenzielle Kunden Während Des Onboarding-Prozesses - Wie Kann Das Vermieden Werden?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-in-class-karaoke-instruments-ranked-for-ultimate-singing-experience/"><u>Best-in-Class Karaoke Instruments Ranked for Ultimate Singing Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/caixun-4k-ultra-hd-smart-tv-75-inch-review-affordable-quality-unveiled/"><u>Caixun 4K Ultra HD Smart TV - 75 Inch Review: Affordable Quality Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diversify-your-skills-using-chatgpt-excel-in-board-games-and-generate-stunning-images-with-ease/"><u>Diversify Your Skills Using ChatGPT: Excel in Board Games and Generate Stunning Images with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/evaluating-the-mohu-blade-antenna-exceptional-aesthetics-with-strong-indoor-digital-reception-capability/"><u>Evaluating the Mohu Blade Antenna: Exceptional Aesthetics with Strong Indoor Digital Reception Capability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellence-in-action-recording-tech/"><u>In 2024, Excellence in Action Recording Tech</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-lava-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Lava to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-frame-rate-mastery-through-controller-tweaks/"><u>In 2024, Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-depth-analysis-of-the-huawei-p30-pro-top-reasons-it-remains-my-favorite/"><u>In-Depth Analysis of the Huawei P30 Pro - Top Reasons It Remains My Favorite</u></a></li>
+<li><a href="https://some-tips.techidaily.com/master-class-review-on-byb-e430-the-superior-swing-arm-led-illumination-solution/"><u>Master Class Review on BYB E430: The Superior Swing Arm LED Illumination Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/precision-portions-with-petsafe-an-insiders-look-at-their-automatic-feeder-for-health-conscious-pet-owners/"><u>Precision Portions with PetSafe: An Insider's Look at Their Automatic Feeder for Health-Conscious Pet Owners</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/suspicious-activity-on-your-email-identifying-a-possible-hack-and-resolving-it-in-four-simple-steps/"><u>Suspicious Activity on Your Email: Identifying a Possible Hack and Resolving It in Four Simple Steps</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-non-operation-on-windows-7-post-sleep/"><u>USB Printer Non-Operation on Windows 7 Post Sleep</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-evergreen-most-watched-video-catalog/"><u>YouTube's Evergreen Most-Watched Video Catalog</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724312968539-abbyy-timeline/"><u>デジタル化時代の革命: ABBYY Timelineで強化されたプロセスデジタルツイン</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: IPhone 16 and iPhone 15 as Apple's Foundational Model
-date: 2024-11-01T22:48:27.390Z
-updated: 2024-11-07T00:28:42.337Z
+date: 2024-11-10T21:18:06.805Z
+updated: 2024-11-17T01:22:47.008Z
 tags:
   - apple
 categories:
@@ -45,16 +45,22 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -63,6 +69,19 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -90,29 +109,9 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -123,10 +122,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -136,6 +135,19 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417990%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417990.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -171,19 +183,21 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-differences-between-ig-reels-vs-stories/"><u>[New] In 2024, Unveiling the Differences Between IG Reels Vs Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-tech-tips-how-to-get-fcp-without-money/"><u>[New] Tech Tips How to Get FCP Without Money</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>[New] The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-top-10-4k-screens/"><u>[New] The Ultimate Guide to #Top 10 4K Screens</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>[New] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-capture-and-transfer-igtv-videos-on-handheld-tech/"><u>[Updated] 2024 Approved Capture and Transfer IGTV Videos on Handheld Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-animated-text-tips-free-inclusion-techniques/"><u>[Updated] Animated Text Tips Free Inclusion Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-top-4-sites-for-free-skype-tones/"><u>[Updated] Top 4 Sites for Free Skype Tones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-filmora-its-10-most-attractive-features/"><u>[Updated] Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lgs-smart-tv-leap-discovering-the-bp550-update/"><u>2024 Approved LG's Smart TV Leap Discovering the BP550 Update</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-teaching-through-media-pro-video-editing-hacks/"><u>In 2024, Teaching Through Media Pro Video Editing Hacks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insightful-approaches-to-tackling-robloxs-error-262/"><u>Insightful Approaches to Tackling Roblox's Error 262</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-future-is-here-speculations-on-tesla-robotaxi-features-price-point-and-arrival-date-explored/"><u>The Future Is Here: Speculations on Tesla Robotaxi Features, Price Point & Arrival Date Explored</u></a></li>
-<li><a href="https://win-unique.techidaily.com/windows-backup-issues-resolved-fixing-exclusive-lock-errors/"><u>Windows Backup Issues Resolved: Fixing Exclusive Lock Errors</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-demystifying-the-apple-m1-prodigy-for-2024/"><u>[Updated] Demystifying the Apple M1 Prodigy for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transition-your-tunes-transferring-collections-between-services/"><u>[Updated] Transition Your Tunes Transferring Collections Between Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>[Updated] Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-how-to-activate-windows-11-written-for-high-dynamic-range-auto-hdr/"><u>2024 Approved Unveiling How to Activate Windows 11' Written for High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/filmforge-editors-review-complete-overview-for-2024/"><u>FilmForge Editor's Review – Complete Overview for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/global-industrys-biggest-uav-lifters-the-ultimate-list-for-2024/"><u>Global Industry's Biggest UAV Lifters The Ultimate List for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/habitat-fragmentation-is-a-key-factor-influencing-the-dynamics-of-metapopulations/"><u>Habitat Fragmentation Is a Key Factor Influencing the Dynamics of Metapopulations.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/immersive-experience-keepers-fb-live-2023/"><u>Immersive Experience Keepers FB Live 2023</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-cutting-edge-youtube-video-editing-techniques-premiere-pro/"><u>In 2024, Cutting Edge YouTube Video Editing Techniques - Premiere Pro</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-9-proplus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 9 Pro+ FRP Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-resizing-imagery-on-iphone-without-hassle/"><u>In 2024, Resizing Imagery on iPhone Without Hassle</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-storytelling-spanning-eight-movie-types/"><u>In 2024, Supreme Storytelling Spanning Eight Movie Types</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-images-on-the-fly-the-best-overlay-apps-for-android-and-iphone/"><u>In 2024, Transform Images on the Fly – The Best Overlay Apps for Android & iPhone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-culture-in-croatia/"><u>Linguistic Culture in Croatia</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-smartphone-selection-for-superior-video-recording-for-2024/"><u>Ultimate Smartphone Selection for Superior Video Recording for 2024</u></a></li>
 </ul></div>
 

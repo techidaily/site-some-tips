@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovations Revealed: IPad Pro (M4), Upgraded 13-Inch iPad Air, and the Improved Apple Pencil Pro Coverage | Insights From ZDNET"
-date: 2024-11-05T00:44:33.401Z
-updated: 2024-11-07T04:21:35.915Z
+date: 2024-11-10T07:24:37.148Z
+updated: 2024-11-16T18:29:32.152Z
 tags:
   - apple
 categories:
@@ -49,10 +49,10 @@ The event provides developers with access to experts, along with highlights of n
 "We're so excited to connect with developers from around the world for an extraordinary week of technology and community at WWDC24," Susan Prescott, Apple's VP of Worldwide Developer Relations, said in a news release. "WWDC is all about sharing new ideas and providing our amazing developers with innovative tools and resources to help them make something even more wonderful." 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. You'll be hearing AI (or Apple Intelligence) a lot
@@ -72,10 +72,10 @@ Apple has also allegedly been seeking a partner for outside help, possibly teami
 More recently, rumors have suggested that some new AI features will include more intelligent and helpful searches in Safari, AI-generated emojis based on conversations in Messages, and an AI-powered [photo editing app](https://www.zdnet.com/article/apple-photos-app-is-getting-an-ai-powered-editing-feature-to-wipe-out-photobombers/) similar to Google's Magic Eraser. It's worth noting that such features are believed to only function on the more recent Apple products, including the iPhone 15 Pro with its A17 Pro chip and M-series iPads and MacBooks.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Don't forget the other acronym: RCS
@@ -89,10 +89,10 @@ To the surprise of many, except for the European Commission, Apple [announced la
 The decision to bring RCS to the iPhone came after mounting pressure from the European Union's Digital Markets Act (DMA), which stressed cross-platform compatibility. While a more [recent statement from Google](https://www.zdnet.com/article/google-seems-to-have-leaked-apples-timeframe-for-bringing-rcs-to-the-iphone/) suggested that Apple would integrate RCS later this fall, highlighting the transition at WWDC could potentially help Apple's defense against the [DOJ's antitrust lawsuit](https://x.com/getpeid/status/1798369533889302576), filed in March. Regardless of when and how Apple chooses to announce the new feature, it'll be big news for both iOS and Android users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. MacOS 15, iPadOS 18, WatchOS 11, VisionOS 2, tvOS 18
@@ -133,15 +133,18 @@ As for [VisionOS](https://www.zdnet.com/article/10-things-id-like-to-see-in-visi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-and-exploring-your-own-music-selection-zone-on-youtube-for-2024/"><u>[Updated] Finding and Exploring Your Own Music Selection Zone on Youtube for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-travel-video-setup-must-have-items-checklist/"><u>[Updated] Travel Video Setup Must-Have Items Checklist</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-samsungs-photography-toolkit/"><u>2024 Approved Exploring Samsung's Photography Toolkit</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-tecno-spark-20c-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Tecno Spark 20C Quickly | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-xs-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>In 2024, Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-2019-game-changer-in-vegaspro-for-2024/"><u>The 2019 Game-Changer in VegasPro for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-how-to-for-incorporating-media-onto-your-youtube-shelves-for-2024/"><u>The Complete How-To for Incorporating Media Onto Your YouTube Shelves for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-f15-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy F15 5G Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-chroma-control-made-simple-with-these-11-expert-tips/"><u>[New] Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-30-windows-10-utilities-you-cant-ignore/"><u>[New] Top 30 Windows 10 Utilities You Can't Ignore</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-srt-into-subc-top-3-actionable-steps/"><u>[New] Transforming SRT Into SUBC Top 3 Actionable Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-studio-magic-comprehensive-xreview/"><u>[New] Unveiling Studio Magic Comprehensive XReview</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-free-gift-guide-all-about-our-50-unique-youtube-ads-for-you-for-2024/"><u>[Updated] Free Gift Guide All About Our 50 Unique YouTube Ads for You for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-tweeting-solutions-with-video-conversion/"><u>2024 Approved Swift Tweeting Solutions with Video Conversion</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/announcement-macos-15-sequoia-launch-date-and-latest-updates-unveiled/"><u>Announcement: MacOS 15 'Sequoia' - Launch Date & Latest Updates Unveiled</u></a></li>
+<li><a href="https://games-able.techidaily.com/finding-value-in-graphic-performance/"><u>Finding Value in Graphic Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-20-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 20 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>In 2024, Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-pick-kids-preferred-drones/"><u>Perfect Pick Kids' Preferred Drones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-huawei-nova-y71-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Huawei Nova Y71? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-troubleshooting-windows-media-player-why-cant-it-read-asf-files/"><u>Solutions for Troubleshooting Windows Media Player: Why Can't It Read ASF Files?</u></a></li>
 </ul></div>
 

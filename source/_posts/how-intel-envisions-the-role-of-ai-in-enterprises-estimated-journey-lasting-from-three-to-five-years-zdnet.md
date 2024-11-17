@@ -1,7 +1,7 @@
 ---
 title: How Intel Envisions the Role of AI in Enterprises, Estimated Journey Lasting From Three to Five Years | ZDNet
-date: 2024-09-18 11:26:17
-updated: 2024-09-20 12:27:30
+date: 2024-11-09T20:21:21.382Z
+updated: 2024-11-16T22:19:23.941Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -66,6 +73,19 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -103,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-videos-with-these-proven-seo-tools-for-more-clicks/"><u>[New] In 2024, Elevate Your Videos with These Proven SEO Tools for More Clicks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-close-up-views-on-web-conferencing/"><u>[New] In 2024, Mastering Close-Up Views on Web Conferencing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tutorial-on-stopping-automatic-youtube-video-prefaces/"><u>[New] Tutorial on Stopping Automatic YouTube Video Prefaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-text-tips-enhancing-image-descriptions-for-pcmac-users/"><u>[Updated] Text Tips Enhancing Image Descriptions for PC/Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-videos-with-simple-inshot-techniques/"><u>[Updated] Transform Your Videos with Simple Inshot Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-art-of-vrecorder-integration-simple-download-and-use-tutorials/"><u>2024 Approved The Art of VRecorder Integration Simple Download & Use Tutorials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-sensor-based-hands-monitoring/"><u>2024 Approved The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-infinix-note-30-vip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-potential-with-android-camera-apps/"><u>In 2024, Unlocking Potential with Android Camera Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210966122-9781088229477-naema-la-bruja/"><u>Naema, La Bruja | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-for-creating-an-oculus-quest-quest-2-profile/"><u>Step-by-Step Tutorial for Creating an Oculus Quest / Quest 2 Profile</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/strategic-health-planning-leveraging-chatgpt-for-personalized-wellbeing-targets/"><u>Strategic Health Planning: Leveraging ChatGPT for Personalized Wellbeing Targets</u></a></li>
+</ul></div>
+

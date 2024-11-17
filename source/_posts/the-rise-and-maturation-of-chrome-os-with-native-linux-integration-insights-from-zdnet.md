@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Maturation of Chrome OS with Native Linux Integration: Insights From ZDNet"
-date: 2024-09-18 12:40:47
-updated: 2024-09-20 10:29:45
+date: 2024-11-12T03:22:58.962Z
+updated: 2024-11-16T18:58:09.313Z
 tags:
   - developer
 categories:
@@ -47,6 +47,19 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +86,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +100,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +150,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +189,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-words-in-the-digital-realms-lexicon/"><u>[Updated] Essential Words in the Digital Realm's Lexicon</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hero5-black-vs-hero5-the-duel-for-durability/"><u>[Updated] Hero5 Black vs Hero5, The Duel for Durability</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-video-transcoding-tools-for-ubuntu-users-top-8-picks/"><u>Best Video Transcoding Tools for Ubuntu Users: Top 8 Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-avi-files-to-m4a-format-for-free-with-movavis-online-software/"><u>Convert AVI Files to M4A Format for Free with Movavi's Online Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-a-formato-swf-online-e-libero-di-usare-movavi/"><u>Converti File MP4 a Formato SWF OnLine E Libero Di Usare - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-online-libre-para-cambiar-de-gif-a-png/"><u>Descargar Convertidor Online Libre Para Cambiar De GIF a PNG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-videography-advice-for-aspiring-business-owners-test-and-learn-now/"><u>Essential Videography Advice for Aspiring Business Owners - Test and Learn Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-no-cost-media-transformation-easily-convert-m4ampeg-to-m4v-formats/"><u>Movavi's No-Cost Media Transformation: Easily Convert M4A/MPEG to M4V Formats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/sony-dsc-w800-a-solid-investment-in-performance-and-value/"><u>Sony DSC-W800: A Solid Investment in Performance & Value</u></a></li>
+<li><a href="https://fox-access.techidaily.com/step-by-step-windows-10-audio-capture/"><u>Step-by-Step Windows 10 Audio Capture</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-is-here-with-teslas-driverless-taxi-unveiling-details-on-pricing-release-date-and-tech-specs/"><u>The Future Is Here with Tesla's Driverless Taxi - Unveiling Details on Pricing, Release Date & Tech Specs.</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oneplus-nord-n30-se-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My OnePlus Nord N30 SE Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Transforming Living Rooms: How Google Elevates Over 600M Devices Into Intelligent Home Hubs"
-date: 2024-09-17 17:29:58
-updated: 2024-09-20 11:48:59
+date: 2024-11-16T04:15:56.926Z
+updated: 2024-11-17T08:42:05.427Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +79,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,19 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-basics-of-earning-on-youtube-a-beginners-guide/"><u>[New] 2024 Approved The Basics of Earning on YouTube A Beginner’s Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling-for-2024/"><u>[Updated] Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-hidden-details-the-ultimate-guide-to-minecraft-zooming/"><u>[Updated] Unlock Hidden Details The Ultimate Guide to Minecraft Zooming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-inside-out-top-tips-for-windows-11-pros/"><u>2024 Approved Inside Out Top Tips for Windows 11 Pros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-secondary-shots-a-filmmakers-blueprint/"><u>2024 Approved Integrating Secondary Shots A Filmmaker's Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-walkthrough-for-android-audio-personalization/"><u>2024 Approved The Complete Walkthrough for Android Audio Personalization</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/effortless-visual-content-creation-for-instagram-users/"><u>Effortless Visual Content Creation for Instagram Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-address-the-inability-of-your-computer-to-allocate-necessary-resources-effectively/"><u>How to Address the Inability of Your Computer to Allocate Necessary Resources Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-forego-youtube-previews-to-enjoy-live-videos/"><u>In 2024, Forego YouTube Previews to Enjoy Live Videos</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g22-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G22 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>In 2024, Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-eight-video-recording-apps-reviewed-for-2024/"><u>Top Eight Video Recording Apps Reviewed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-v30-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme V30 Users</u></a></li>
+</ul></div>
+

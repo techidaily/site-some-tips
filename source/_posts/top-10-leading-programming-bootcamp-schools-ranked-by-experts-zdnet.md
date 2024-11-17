@@ -1,7 +1,7 @@
 ---
 title: Top 10 Leading Programming Bootcamp Schools - Ranked by Experts | ZDNet
-date: 2024-09-17 19:21:11
-updated: 2024-09-20 10:46:43
+date: 2024-11-11T03:57:57.702Z
+updated: 2024-11-16T20:16:30.149Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +70,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +101,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +183,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-enhancing-video-discoverability-with-effective-titles-and-tags/"><u>[Updated] Enhancing Video Discoverability with Effective Titles & Tags</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-glee-and-gags-the-classic-vhs-of-a-goofy-adventure/"><u>[Updated] In 2024, 'Glee and Gags' - The Classic VHS of A Goofy Adventure</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-oculus-rift-adventures-for-gamers/"><u>2024 Approved Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2v-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2V in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-screen-space-removing-windows-overscan-effects/"><u>Maximizing Screen Space: Removing Windows Overscan Effects</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-audio-to-video-transcoder-easily-convert-mp3-files-into-mov-format-at-no-cost/"><u>Online Audio to Video Transcoder: Easily Convert MP3 Files Into MOV Format at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-reproductores-de-pantalla-para-sistemas-operativos-basados-en-linux-opciones-elegidas-por-expertos-en-2024/"><u>Top 12 Reproductores De Pantalla Para Sistemas Operativos Basados en Linux - Opciones Elegidas Por Expertos en 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-formato-m2p-directamente-en-mpeg-sin-costo-con-el-programa-en-linea-de-conversion-de-video-gratis/"><u>Transforma Tu Formato M2P Directamente en MPEG Sin Costo Con El Programa en Línea De Conversión De Video - Gratis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-il-tuo-audio-aiff-in-formato-wma-gratuito-online-usando-movavi/"><u>Trasforma Il Tuo Audio AIFF in Formato WMA Gratuito Online Usando Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncover-hidden-gems-expert-tips-on-snagging-awesome-geeky-items-at-thrift-stores/"><u>Uncover Hidden Gems: Expert Tips on Snagging Awesome Geeky Items at Thrift Stores</u></a></li>
+</ul></div>
+

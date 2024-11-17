@@ -1,7 +1,7 @@
 ---
 title: Linux Kernel at Forefront
-date: 2024-09-18 11:43:32
-updated: 2024-09-20 10:16:47
+date: 2024-11-16T01:33:42.871Z
+updated: 2024-11-16T18:11:31.902Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>[New] 2024 Approved How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-frugal-flight-assemblies-budget-friendly-drones-ranking/"><u>[Updated] 2024 Approved Frugal Flight Assemblies Budget-Friendly Drones Ranking</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-windows-film-and-multimedia-production-applications-guide-for-2024/"><u>[Updated] Top Windows Film & Multimedia Production Applications Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4wav/"><u>「もっと楽に - MP4からWAVへのお手頃価格なオンライン変換サービス」</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-tech-stream-cam-gear-reviewed-for-youtube-and-facebook-use/"><u>2024 Approved Top Tech Stream Cam Gear Reviewed for YouTube & Facebook Use</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221505272-mp4/"><u>分享影片轉換技術: 用極速、超純粹方法，改裝任何影片成MP4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp3202410/"><u>获取高效MP3转换工具：2024年网上最值得信赖的10个推荐列表</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-visionary-leap-to-4k-the-eizo-coloredge-monitor-review-for-2024/"><u>A Visionary Leap to 4K The EIZO ColorEdge Monitor Review for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-gratuite-apng-vers-gif-sur-le-web-utilisez-movavi/"><u>Conversion Gratuite APNG Vers GIF Sur Le Web - Utilisez Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converte-tecas-vob-para-formatos-acessiveis-o-utilitario-on-line-gratis-da-movavi/"><u>Convertê Tecas VOB Para Formatos Acessíveis: O Utilitário On-Line Grátis Da Movavi</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dells-game-changing-battery-boost-introducing-snapdragon-x-chips-in-the-xps-13-plus-lineup/"><u>Dell's Game-Changing Battery Boost: Introducing Snapdragon X Chips in the XPS 13 Plus Lineup</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/las-5-editoras-de-formatos-mov-totalmente-gratuitas-guia-completa-para-su-seleccion-en-2024/"><u>Las 5 Editoras De Formatos MOV Totalmente Gratuitas: Guía Completa Para Su Selección en 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223412963-mp4avi-movavi/"><u>MP4到AVI的免費線上變換 – Movavi高效工具解答</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-10-principais-programas-de-edicao-gratuita-de-pdf-no-windows-comparativo-detalhado/"><u>Os 10 Principais Programas De Edição Gratuita De PDF No Windows: Comparativo Detalhado!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/timed-success-organizing-video-conferences-via-slackplusfilmora/"><u>Timed Success Organizing Video Conferences via Slack+Filmora</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-linux-based-screencasting-tools-highly-reviewed/"><u>Top 12 Linux-Based Screencasting Tools - Highly Reviewed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-windows-compatible-daws-a-guide-to-the-best-free-and-paid-options-for-2024/"><u>Updated The Ultimate List of Windows-Compatible DAWs A Guide to the Best Free & Paid Options for 2024</u></a></li>
+</ul></div>
+

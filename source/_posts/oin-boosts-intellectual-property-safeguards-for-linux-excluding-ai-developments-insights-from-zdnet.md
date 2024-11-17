@@ -1,7 +1,7 @@
 ---
 title: OIN Boosts Intellectual Property Safeguards for Linux, Excluding AI Developments - Insights From ZDNet
-date: 2024-09-17 22:22:58
-updated: 2024-09-20 10:24:48
+date: 2024-11-11T00:55:16.152Z
+updated: 2024-11-17T11:33:18.764Z
 tags:
   - developer
 categories:
@@ -81,6 +81,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +110,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +124,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>[New] Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-masterful-instagram-reel-editors-the-ultimate-top-10-list/"><u>[New] Masterful Instagram Reel Editors The Ultimate Top 10 List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tailored-approach-boosting-fans-via-page-ranking/"><u>[New] Tailored Approach Boosting Fans via Page Ranking</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-joke-tastic-iphones-today/"><u>[Updated] Joke-Tastic iPhones Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supercharge-image-editing-10-must-know-pixlr-strategies/"><u>[Updated] Supercharge Image Editing 10 Must-Know Pixlr Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-gopro-hero5-a-comprehensive-footage-study/"><u>2024 Approved GoPro Hero5 A Comprehensive Footage Study</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-elite-eight-master-your-photos-with-grid-masters/"><u>2024 Approved The Elite Eight Master Your Photos with Grid Masters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tales-best-yt-storytellers-for-23/"><u>2024 Approved Top Tales Best YT Storytellers for '23</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>In 2024, Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-perfection-manycam-features-and-virtual-webcam-solutions/"><u>Live Streaming Perfection: ManyCam Features and Virtual Webcam Solutions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-m4a-editor-downloads-top-5-options/"><u>New In 2024, Free M4A Editor Downloads Top 5 Options</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint-for-2024/"><u>Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Research Highlights Compatibility Issues Between AI Evolution & Agile Methodologies - Insights From ZDNet
-date: 2024-09-17 10:36:26
-updated: 2024-09-20 10:51:28
+date: 2024-11-15T13:20:41.364Z
+updated: 2024-11-17T12:05:35.225Z
 tags:
   - developer
 categories:
@@ -104,11 +104,32 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-best-practices-for-securely-pushing-ios-photos-to-snapchat/"><u>[Updated] 2024 Approved Best Practices for Securely Pushing iOS Photos to Snapchat</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtle-soundplayback/"><u>[Updated] The Art of Subtle Soundplayback</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-meizu-21-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Meizu 21 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>In 2024, The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-logitech-g602-driver-version-compatible-with-windows-free-download/"><u>Latest Logitech G602 Driver Version Compatible with Windows - Free Download</u></a></li>
+<li><a href="https://article-files.techidaily.com/sdr-to-hd-now-hdr-the-next-leap-in-editing-workflows/"><u>SDR to HD, Now HDR The Next Leap in Editing Workflows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers-for-2024/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-quickest-quarter-mile-sochi-22/"><u>The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-tales-youtubes-best-narrative-channels-this-year-for-2024/"><u>The Top Tales YouTube’s Best Narrative Channels This Year for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-invisible-social-signals-in-online-media-for-2024/"><u>Understanding Invisible Social Signals in Online Media for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/watermarking-masters-the-leading-tools-reviewed/"><u>Watermarking Masters The Leading Tools Reviewed</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

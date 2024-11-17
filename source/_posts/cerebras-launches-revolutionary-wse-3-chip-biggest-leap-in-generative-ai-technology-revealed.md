@@ -1,7 +1,7 @@
 ---
 title: "Cerebras Launches Revolutionary WSE-#3 Chip: Biggest Leap in Generative AI Technology Revealed"
-date: 2024-09-19 10:32:13
-updated: 2024-09-20 10:45:55
+date: 2024-11-15T17:33:17.303Z
+updated: 2024-11-16T16:44:16.868Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +86,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-video-chatcall-on-snapchat-with-3-steps/"><u>[New] In 2024, How to Video Chat/Call on Snapchat with 3 Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-visualize-better-incorporating-borders-in-insta-videos/"><u>[Updated] 2024 Approved Visualize Better Incorporating Borders in Insta-Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-android-and-lightroom-review-a-full-examination/"><u>[Updated] Android & Lightroom Review A Full Examination</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-influencing-amplifying-instagram-post-reach/"><u>2024 Approved The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambia-tu-foto-de-archivo-jpeg-sin-costo-a-un-encantador-gif-usando-nuestro-superior-y-facil-convertidor-web/"><u>Cambia Tu Foto De Archivo JPEG Sin Costo a Un Encantador GIF Usando Nuestro Superior Y Fácil Convertidor Web</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-convertir-tu-musica-en-linea-de-wma-a-mkv-sin-costo-alguno-usando-el-potente-software-movavi/"><u>Cómo Convertir Tu Música en Línea De WMA a MKV Sin Costo Alguno Usando El Potente Software Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-gratuitement-des-fichiers-raw-en-videos-avi-sur-le-web-avec-movavi/"><u>Convertissez Gratuitement Des Fichiers RAW en Vidéos AVI Sur Le Web Avec Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-free-hd-video-transcoder-tool-easily-convert-videos-to-mp4-and-extract-audio-as-mp3/"><u>Download Free HD Video Transcoder Tool – Easily Convert Videos to MP4 and Extract Audio as MP3</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhance-your-live-stream-quality-with-optimal-lighting-insiders-guide-as-featured-on-zdnet/"><u>Enhance Your Live Stream Quality with Optimal Lighting: Insider's Guide as Featured on ZDNET</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-convertisseur-en-ligne-movavi-des-fichiers-mxf-en-animations-gif-rapides-et-faciles/"><u>Gratuit Convertisseur en Ligne Movavi : Des Fichiers MXF en Animations GIF Rapides Et Faciles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-gebaseerd-3gp-toeeinden-in-animated-gifs-onlinereputatie-zeer-goed/"><u>Gratuit Gebaseerd 3GP-Toeëinden in Animated GIFs - Onlinereputatie Zeer Goed!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-converseren-van-m4a-naar-wmv-met-movavi/"><u>Gratuit Online - Converseren Van M4A Naar WMV Met Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/learn-to-film-great-content-on-your-mac-for-youtube-beginners/"><u>Learn to Film Great Content on Your Mac for YouTube Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/reglissez-vos-fichiers-mp4-gratuitement-en-wmv-via-loption-en-ligne-de-movavi/"><u>Réglissez Vos Fichiers MP4 Gratuitement en WMV via L'option en Ligne De Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209544140-9781547555154-revelacoes-a-baron-a-deschauer/"><u>Revelações a Baron A. Deschauer | Free Book</u></a></li>
+</ul></div>
+

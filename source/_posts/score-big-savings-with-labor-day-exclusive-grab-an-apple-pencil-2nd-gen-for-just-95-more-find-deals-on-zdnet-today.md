@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings with Labor Day Exclusive: Grab an Apple Pencil 2Nd Gen for Just $95 More - Find Deals on ZDNET Today!"
-date: 2024-11-01T19:22:10.563Z
-updated: 2024-11-07T03:32:47.159Z
+date: 2024-11-14T05:32:15.911Z
+updated: 2024-11-17T03:26:19.953Z
 tags:
   - apple
 categories:
@@ -29,10 +29,10 @@ Matthew Miller/ZDNET
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Why is this deal ZDNET recommended?
@@ -96,10 +96,10 @@ Finally, as much as I enjoy the Apple Watch Ultra 2 for its long battery life, b
 I now frequently use the Reflect and Breathe utilities, which have slowly but surely reduced my stress, proving to be a welcome addition to my Apple Watch use. (Of course, you only need an [Apple Watch](https://www.zdnet.com/article/best-apple-watch/) running on watchOS 10 to use the Mindfulness app. I just like using it on the larger display of the Ultra!)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -113,10 +113,10 @@ If you don't have an Apple Watch Ultra but are interested in buying one, the Ult
 For me, the Boost Flashlight is a welcome addition, as well as the faster processor supporting Siri on board. Apple's move to carbon-free products is also a nice move for the environment and is something we can all support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -153,21 +153,21 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-record-screen-with-adobe-captive/"><u>[New] In 2024, How To Record Screen With Adobe Captive</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-art-of-mac-mixer-synchronization/"><u>[New] The Art of Mac-Mixer Synchronization</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-power-of-quantum-hdr-in-visual-arts/"><u>[New] The Power of Quantum HDR in Visual Arts</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-exclusive-review-10-best-free-video-meeting-apps-iosandroid-for-2024/"><u>[Updated] Exclusive Review 10 Best Free Video Meeting Apps iOS/Android for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-fine-tune-video-playback-pace-in-instagram-stories/"><u>[Updated] In 2024, Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-mp3-mastery-guide-top-10-video-to-audio-picks/"><u>[Updated] MP3 Mastery Guide Top 10 Video-to-Audio Picks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-sizzling-skills-7-keys-for-scrumptious-video-cooking/"><u>[Updated] Sizzling Skills 7 Keys for Scrumptious Video Cooking</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-collection-of-10-inspirational-movies/"><u>[Updated] The Ultimate Collection of 10 Inspirational Movies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-top-5-iphone-podcast-software/"><u>[Updated] The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-triumph-through-film-the-top-10-motivating-titles/"><u>[Updated] Triumph Through Film The Top 10 Motivating Titles</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-superior-tune-makers-for-iphone-users/"><u>2024 Approved Superior Tune Makers for iPhone Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://article-posts.techidaily.com/disabling-automated-podcast-recommendations-on-spotify/"><u>Disabling Automated Podcast Recommendations on Spotify</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/download-gratis-il-migliore-decodeur-dvd-compatibile-con-tutti-i-dvd-domestici/"><u>Download Gratis Il Migliore Decodeur DVD Compatibile Con Tutti I DVD Domestici</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tamil-ringtone-downloads-essential-websites-and-tricks/"><u>In 2024, Top Tamil Ringtone Downloads Essential Websites and Tricks</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-tech-secrets-in-depth-articles-and-expert-opinions-from-toms-hardware/"><u>Unveiling Tech Secrets: In-Depth Articles & Expert Opinions From Tom's Hardware</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-diminishing-excessive-encoding-obs/"><u>[New] 2024 Approved Diminishing Excessive Encoding (OBS)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-time-plan-and-record-slack-plus-filmora-meetings/"><u>[New] 2024 Approved Mastering Time Plan & Record Slack + Filmora Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-playlist-puzzle-assembling-songs-in-new-spaces/"><u>[New] The Playlist Puzzle Assembling Songs in New Spaces</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-leading-audio-editing-software-in-shaping-your-vtuber-image/"><u>[Updated] Leading Audio Editing Software in Shaping Your VTuber Image</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-transformation-of-windows-10-landscape/"><u>[Updated] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ringtone-heaven-game-of-thrones-audio-collection/"><u>2024 Approved Ringtone Heaven Game of Thrones Audio Collection</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/comprehensive-review-of-lg-bp350-display-technology-and-capabilities-for-2024/"><u>Comprehensive Review of LG BP350 Display Technology and Capabilities for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-animation-set-for-typography/"><u>In 2024, Top-Ranked Animation Set for Typography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-potential-of-ios-albums-ordering-and-cloud-syncing-essentials/"><u>In 2024, Unlocking the Potential of iOS Albums Ordering & Cloud Syncing Essentials</u></a></li>
+<li><a href="https://win-webster.techidaily.com/practical-methods-to-pair-your-mac-with-a-samsung-smart-television/"><u>Practical Methods to Pair Your Mac with a Samsung Smart Television</u></a></li>
+<li><a href="https://fox-access.techidaily.com/seamlessly-shift-focus-with-picart-clear-borders-for-2024/"><u>Seamlessly Shift Focus with PicArt Clear Borders for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-for-2024/"><u>Ultimate Guide to GoPro Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-creative-potential-with-10-best-backdrop-modification-software-for-2024/"><u>Unlock Creative Potential with 10 Best Backdrop Modification Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-digital-secrets-with-tom-a-deep-dive-into-hardware-tech/"><u>Unveiling Digital Secrets with Tom: A Deep Dive Into Hardware Tech</u></a></li>
 </ul></div>
 

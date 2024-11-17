@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils Latest AI Innovations, Excluding Two Major Breakthroughs: When Will They Arrive? | TechZN"
-date: 2024-09-18 16:23:34
-updated: 2024-09-20 10:40:29
+date: 2024-11-12T14:25:28.778Z
+updated: 2024-11-17T12:08:57.174Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[New] Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-handbook-audio-notes-101/"><u>[New] The Ultimate Handbook Audio Notes 101</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transforming-education-with-instructional-videos/"><u>[New] Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-seamless-linktree-addition-in-your-tiktok-profile/"><u>[New] Unlocking Seamless Linktree Addition in Your TikTok Profile</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ultimate-guide-to-fixing-crusader-kings-iii-pc-gameplay-interruptions/"><u>[SOLVED] Ultimate Guide to Fixing Crusader Kings III PC Gameplay Interruptions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-video-calls-synchronizing-zoom-and-gmail-for-better-communication/"><u>[Updated] Streamlined Video Calls Synchronizing Zoom & Gmail for Better Communication</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creative-energy-video-creation-tips-on-the-latest-windows-10-edition/"><u>[Updated] Unleash Creative Energy Video Creation Tips on the Latest Windows 10 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unseen-underpinnings-of-user-interface-craftsmanship/"><u>[Updated] Unseen Underpinnings of User Interface Craftsmanship</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transitioning-away-from-newest-sierra-version-back-to-1010/"><u>2024 Approved Transitioning Away From Newest Sierra Version Back to 10.10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/broadcast-your-games-with-professional-skill-for-2024/"><u>Broadcast Your Games with Professional Skill for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gaming-at-its-peak-platform-9-insights/"><u>Gaming at Its Peak Platform #9 Insights</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-leading-mp3-encoders-windows-and-mac-edition-rankings/"><u>In 2024, Leading MP3 Encoders Windows & Mac Edition Rankings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stream-your-favorite-shows-with-these-top-free-options-instead-of-netflix/"><u>Stream Your Favorite Shows with These Top Free Options Instead of Netflix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-fast-solutions-for-troubleshooting-non-responsive-widgets-on-ios-devices/"><u>Top 10 Fast Solutions for Troubleshooting Non-Responsive Widgets on iOS Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S18e | Dr.fone</u></a></li>
+</ul></div>
+

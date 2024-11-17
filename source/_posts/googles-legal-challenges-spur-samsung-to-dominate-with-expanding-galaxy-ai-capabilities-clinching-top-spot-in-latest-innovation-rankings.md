@@ -1,7 +1,7 @@
 ---
 title: Google's Legal Challenges Spur Samsung to Dominate with Expanding Galaxy AI Capabilities, Clinching Top Spot in Latest Innovation Rankings
-date: 2024-11-04T18:32:06.493Z
-updated: 2024-11-07T04:56:18.593Z
+date: 2024-11-16T07:25:49.080Z
+updated: 2024-11-16T20:01:26.182Z
 tags:
   - apple
 categories:
@@ -71,25 +71,27 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-high-quality-webcam-videos-with-best-editors/"><u>[New] 2024 Approved High-Quality Webcam Videos with Best Editors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-how-vr-movie-might-change-the-world/"><u>[New] How VR Movie Might Change the World</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-cost-effective-recording-devices-the-ultimate-list-for-2024/"><u>[Updated] Cost-Effective Recording Devices The Ultimate List for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-50plus-best-text-effects-for-videographers/"><u>[Updated] In 2024, 50+ Best Text Effects for Videographers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-optimizing-unused-scenes-a-filmmakers-approach/"><u>2024 Approved Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-core-language-of-cutting-edge-vr-experiences/"><u>2024 Approved The Core Language of Cutting-Edge VR Experiences</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/automatic-photo-transfer-seamlessly-sharing-images-from-your-iphone-to-ipad/"><u>Automatic Photo Transfer: Seamlessly Sharing Images From Your iPhone to iPad</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-potion-powered-pronunciation-can-voice-changer-apps-be-real-magic-search-for-other-ways/"><u>In 2024, Potion-Powered Pronunciation Can Voice Changer Apps Be Real Magic? Search for Other Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-stability-issues-stop-final-fantasy-xv-from-crashing-on-your-computer/"><u>Resolving Stability Issues: Stop Final Fantasy XV From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solutions-for-when-your-steam-store-wont-load-correctly/"><u>Solutions for When Your Steam Store Won't Load Correctly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210627730-9781398824270-the-occult-magic-witchcraft/"><u>The Occult, Magic & Witchcraft | Free Book</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-techniques-for-harmonious-crossfades-in-tracks-for-2024/"><u>Unveiling Techniques for Harmonious Crossfades in Tracks for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/econd-screen-craftsman-for-2024/"><u>[New] Second-Screen Craftsman for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-your-sound-potential-a-modern-look-at-pazeras-techniques/"><u>[New] Unlocking Your Sound Potential A Modern Look at Pazera's Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-6-comprehensive-metaverse-scenarios/"><u>[New] Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-and-save-streaming-audio-with-ease/"><u>[Updated] In 2024, How to Record and Save Streaming Audio with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-script-architect-space/"><u>[Updated] Superior Script Architect Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>[Updated] The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>[Updated] Turning Talk Into Top-Tier Podcasts Writing & Samples Included</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-a60s-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel A60s Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722961314504-free-windows-8-amd-radeon-hd-video-card-driver-software-downloads-available-now/"><u>FREE Windows 8 AMD Radeon HD Video Card Driver Software Downloads Available Now!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/isolated-viewers-to-shared-experiences-online-for-2024/"><u>From Isolated Viewers to Shared Experiences Online for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-multi-app-playlists-synchronization-secrets/"><u>In 2024, Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/revolutionary-speed-leading-mac-h264-graphics-card-with-superior-hardware-compression-technology/"><u>Revolutionary Speed: Leading Mac H.264 Graphics Card with Superior Hardware Compression Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-enhancing-ar-with-lut-knowledge-for-2024/"><u>The Essential Guide to Enhancing AR with LUT Knowledge for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-resource-50plus-no-fee-visual-effects-websites-reviewed-for-2024/"><u>The Ultimate Resource 50+ No-Fee Visual Effects Websites Reviewed for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

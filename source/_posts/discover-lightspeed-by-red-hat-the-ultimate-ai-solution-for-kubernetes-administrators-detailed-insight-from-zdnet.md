@@ -1,7 +1,7 @@
 ---
 title: "Discover Lightspeed by Red Hat: The Ultimate AI Solution for Kubernetes Administrators - Detailed Insight From ZDNet"
-date: 2024-09-18 10:18:25
-updated: 2024-09-20 11:33:29
+date: 2024-11-14T22:55:21.727Z
+updated: 2024-11-16T20:50:25.873Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -72,6 +79,19 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +131,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-navigating-new-design-horizons-the-leading-10-vector-apps/"><u>[New] In 2024, Navigating New Design Horizons The Leading 10 Vector Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-kinemaster-usage-plus-best-online-platforms-for-editors/"><u>[New] Mastering the Art of KineMaster Usage + Best Online Platforms for Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>[New] Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-mastering-video-content-defeating-10-vlogging-hurdles/"><u>[Updated] In 2024, Mastering Video Content Defeating 10 Vlogging Hurdles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-role-of-supplemental-imagery-in-storytelling/"><u>[Updated] The Role of Supplemental Imagery in Storytelling</u></a></li>
+<li><a href="https://win-community.techidaily.com/44cm44oh44k444k44or44kr44oh44op44gn5rai5y6744gv44km44gf5yaz55yf44ks5pwr44gg77ya44k744kr44oz44oj44kq44ox44k344on44oz44oz44k544oi44oh44k944od44oj44cn/"><u>「デジタルカメラで消去された写真を救う：セカンドオプションベストメソッド」</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/complete-guide-retrieving-deleted-or-concealed-information-from-an-external-storage-device/"><u>Complete Guide: Retrieving Deleted or Concealed Information From an External Storage Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22-for-2024/"><u>From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-huawei-p60-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Huawei P60 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photographys-new-frontier-illustration-and-motion-blurring-techniques/"><u>In 2024, Photography's New Frontier Illustration and Motion Blurring Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-plating-on-camera-food-video-production-guide/"><u>In 2024, The Art of Plating on Camera Food Video Production Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-compatibility-woes-for-samsung-print-devices-in-the-windows-environment-resolved/"><u>Resolving Compatibility Woes for Samsung Print Devices in the Windows Environment [RESOLVED]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/time-saving-techniques-from-complicated-srt-to-simplified-txt-for-2024/"><u>Time-Saving Techniques From Complicated SRT to Simplified TXT for 2024</u></a></li>
+</ul></div>
+

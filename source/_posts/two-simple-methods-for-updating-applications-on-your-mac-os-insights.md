@@ -1,7 +1,7 @@
 ---
 title: Two Simple Methods for Updating Applications on Your Mac OS - Insights
-date: 2024-11-01T08:43:06.679Z
-updated: 2024-11-06T16:23:34.380Z
+date: 2024-11-11T05:32:26.354Z
+updated: 2024-11-17T03:07:34.182Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Let me show you both approaches.
 **What you'll need:** The only things you'll need are an Apple device (a MacBook or iMac) and a valid user account on the machine. That's it. Let's get to the updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the App Store
@@ -59,6 +59,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your apps
 
 When the App Store opens, you can either update the apps individually (by clicking the Update button associated with the app in question) or update them all at once (by clicking Update All). During the update process, you might be prompted to close an app (or even a related app) if it's blocking the update from continuing. Should that be the case, close the app in question, return to the App Store, and click Continue from the pop-up warning.
@@ -69,27 +76,33 @@ Screenshot by Jack Wallen/ZDNET
 
 Once the update is completed, close the App Store and you're done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to update MacOS apps from the command line
 
 This is a bit more complicated, for two reasons: first, you have to find out what apps are available for updating, and, second -- as with Linux -- the app names are case-sensitive.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Open the Terminal app
 
 To run commands, you must first open the terminal app, which can be done from the Launchpad. Click the Launchpad icon in your Dock and then type _terminal_. Click the launcher to open the Terminal app.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check for available updates
 
@@ -102,13 +115,6 @@ You will be prompted for your sudo password (which is your MacOS user password).
 **Also: [How to update every Apple device (iPhone, iPad, Apple Watch, Mac, more)](https://www.zdnet.com/article/how-to-update-every-apple-device/)**
 
 The -l option stands for _list_. This will print out any available app updates and, if required, it will inform you if a restart is needed to complete any recent OS updates. If you see such a warning, make sure to do the reboot to complete the process.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Update the apps
 
@@ -152,20 +158,20 @@ This is about as simple a method as you'll find to help keep your MacOS machines
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/urchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs/"><u>[New] __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs.</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-mastering-audio-for-digital-unboxing-scenes/"><u>[New] Mastering Audio for Digital Unboxing Scenes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-photo-magic-weaving-text-into-your-imagery-journey/"><u>[New] Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-quest-for-optimal-video-viewing-vlcs-stand-against-mpc/"><u>[New] The Quest for Optimal Video Viewing VLC's Stand Against MPC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-mp4-uploader-for-fb/"><u>[New] Ultimate MP4 Uploader for FB</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-digital-aids-to-supercharge-your-video-subtitles-accuracy/"><u>[Updated] Top Digital Aids to Supercharge Your Video Subtitles' Accuracy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-complete-srt-reference-manual/"><u>2024 Approved The Complete SRT Reference Manual</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-streams-best-4k-video-downloaders-summarized/"><u>2024 Approved Transform Your Streams Best 4K Video Downloaders Summarized</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-path-to-smooth-transitions-in-inshot-editing/"><u>In 2024, The Path to Smooth Transitions in Inshot Editing</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728479471838-samsung/"><u>Samsung 資料夾移行時產生了什麼問題？深入探究克隆過程中的反應問題</u></a></li>
-<li><a href="https://win11.techidaily.com/spinning-visuals-easy-6-tips-to-flip-image-on-your-pc/"><u>Spinning Visuals Easy: 6 Tips to Flip Image on Your PC</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-audio-integration-tunes-for-your-microsoft-slides-for-2024/"><u>The Art of Audio Integration Tunes for Your Microsoft Slides for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-merging-excel-columns-seamlessly/"><u>Ultimate Guide: Merging Excel Columns Seamlessly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/vlogging-vs-micro-video-which-outperforms-for-2024-youtubes-shorts-or-tiktoks/"><u>Vlogging Vs. Micro-Video Which Outperforms for 2024 YouTubes Shorts or TikToks?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-11-driver-exception-pool-error-fixes-comprehensive-troubleshooting-techniques/"><u>Windows 11 Driver Exception Pool Error Fixes: Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-adjusting-obs-encoding-settings-for-2024/"><u>[New] Adjusting OBS Encoding Settings for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-youtube-videos-appeal-3-ways-to-incorporate-neon-borders/"><u>[New] In 2024, Boost YouTube Videos' Appeal - 3 Ways to Incorporate Neon Borders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-apples-podcast-submission-requirements-clearly/"><u>[New] Navigating Apple's Podcast Submission Requirements Clearly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-media-transformation-from-xml-to-srt/"><u>[Updated] Streamlining Media Transformation From XML to SRT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-potential-effective-pip-use-on-microsoft-edge-browser/"><u>[Updated] Unleash the Potential Effective PIP Use on Microsoft Edge Browser</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-chromatic-enhancement/"><u>2024 Approved The Art of Chromatic Enhancement</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/get-the-best-of-audio-and-video-quality-your-ultimate-guide-to-downloading-vlc-media-player-now/"><u>Get the Best of Audio & Video Quality: Your Ultimate Guide to Downloading VLC Media Player Now!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-11-pro-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-subtlety-garagebands-audio-softening/"><u>In 2024, The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-streamlining-color-grading-with-luts-in-adobe/"><u>In 2024, Tips and Tricks for Streamlining Color Grading with LUTs in Adobe</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-dramatic-audio-experiences/"><u>In 2024, Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199715260-overcoming-crucial-system-integrity-faults-in-windows-11-now-solved/"><u>Overcoming Crucial System Integrity Faults in Windows 11 - Now Solved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-easy-way-to-craft-your-digital-self-in-virtual-worlds-for-2024/"><u>The Easy Way to Craft Your Digital Self in Virtual Worlds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tactics-for-flawless-solo-streaming-experiences-for-2024/"><u>Top Tactics for Flawless Solo Streaming Experiences for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-epson-wf-n3620-printer-drivers-available-now-compatible-with-windows-10-8-and-7/"><u>Updated Epson WF-N3620 Printer Drivers Available Now: Compatible with Windows 10, 8 & 7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating AI's Future: The Positive Impact of Open Source Innovation - Insights From ZDNet"
-date: 2024-09-17 20:33:36
-updated: 2024-09-20 10:34:13
+date: 2024-11-12T08:18:27.230Z
+updated: 2024-11-17T09:10:29.464Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +74,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-solutions-advanced-mobile-recording-on-android-for-2024/"><u>[New] Innovative Solutions Advanced Mobile Recording on Android for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-ultimate-guide-to-earning-on-snapchat-for-2024/"><u>[Updated] The Ultimate Guide to Earning on Snapchat for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-potential-ps4-recording-techniques-in-obs-for-2024/"><u>[Updated] Unlocking the Potential PS4 Recording Techniques in OBS for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-making-your-instagram-story-pop-with-youtube-vids/"><u>2024 Approved Making Your Instagram Story Pop with YouTube Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228084954-apeoggmovavi/"><u>簡便省事的線上無成本解決方案，升級APE到OGG格式：以Movavi 為主要工具進行音頻轉換</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-online-e-gratuita-di-immagini-mpeg-a-gif-usando-movavi-facile-da-seguire/"><u>Conversione Online E Gratuita Di Immagini MPEG a GIF Usando Movavi - Facile Da Seguire</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-movavi-slideshow-maker-gratis-version-202/"><u>Download Movavi Slideshow Maker Gratis Version 202</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficient-weg-hijven-van-hintergrondgerais-in-beeld-en-geluidsopnamen-twee-fascineerde-methodes/"><u>Efficiënt Weg Hijven Van Hintergrondgerais in Beeld- en Geluidsopnamen - Twee Fascineerde Methodes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nokia-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nokia .</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-electronics-analysis-by-tom-your-guide-to-top-tech-picks/"><u>In-Depth Electronics Analysis by Tom – Your Guide to Top Tech Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/key-steps-for-a-detailed-look-at-your-windows-10-history/"><u>Key Steps for a Detailed Look at Your Windows 10 History</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-windows-registry-a-deep-dive-into-its-integration-with-revo-uninstaller-tools/"><u>Mastering the Windows Registry - A Deep Dive Into Its Integration with Revo Uninstaller Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/os-15-melhores-conceitos-geniais-para-colagens-artisticas-descubra-as-tecnicas-mais-populares-com-a-guia-de-movevi/"><u>Os 15 Melhores Conceitos Geniais Para Colagens Artísticas: Descubra as Técnicas Mais Populares Com a Guia De Movevi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-free-legal-websites-for-downloading-pc-games-discover-the-best/"><u>Top Free Legal Websites for Downloading PC Games - Discover the Best</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-de-asf-a-un-codec-mpeg-sin-coste-con-el-mejor-convertidor-en-linea-soluciones-rapidas-y-faciles/"><u>Transforma Tu Vídeo De ASF a Un Códec MPEG Sin Coste Con El Mejor Convertidor en Línea: Soluciones Rápidas Y Fáciles</u></a></li>
+</ul></div>
+

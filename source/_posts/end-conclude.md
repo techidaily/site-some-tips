@@ -1,7 +1,7 @@
 ---
 title: End - Conclude
-date: 2024-09-19 22:54:52
-updated: 2024-09-20 12:38:23
+date: 2024-11-12T19:19:11.965Z
+updated: 2024-11-17T11:34:46.060Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +70,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-vocalizing-your-tiktok-content/"><u>[New] 2024 Approved The Ultimate Guide to Vocalizing Your TikTok Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-aim-for-picture-perfect-facebooks-hd-streaming-for-2024/"><u>[New] Aim for Picture-Perfect Facebook's HD Streaming for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eading-spots-for-advertising-on-youtube-videos/"><u>[New] Leading Spots for Advertising on YouTube Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aster-your-youtube-identity-with-cool-titles/"><u>[New] Master Your YouTube Identity with Cool Titles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-proven-methods-for-twitter-brand-awareness-for-2024/"><u>[New] Proven Methods for Twitter Brand Awareness for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-to-mix-unveiling-two-dji-devices-with-20-luts-complimentary/"><u>[Updated] Free to Mix - Unveiling Two DJI Devices with 20 LUTS Complimentary</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-photo-and-video-size-adjustment-guide/"><u>[Updated] Instagram Photo and Video Size Adjustment Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m4a3gp-movavi/"><u>線上免費轉換M4A音頻至3GP格式：如何利用 Movavi 方便簡單的解決方案</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-jpeg-a-png-de-forma-gratuita-en-linea-con-herramientas-de-conversion-rapidas/"><u>Convertir JPEG a PNG De Forma Gratuita en Línea Con Herramientas De Conversión Rápidas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-14-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi 14 Pro? Try These Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-conversion-transforming-voc-files-into-wmv-format-with-movavi/"><u>Free Conversion: Transforming VOC Files Into WMV Format with Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/get-the-latest-version-of-obs-studio-supporting-windows-macos-and-ubuntu-systems/"><u>Get the Latest Version of OBS Studio – Supporting Windows, macOS, and Ubuntu Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-video-m4v-a-formato-3g2-online-movavi/"><u>Gratuito Conversor De Vídeo M4V a Formato 3G2 Online - Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transferer-mp3-a-un-format-iphone-aac-sans-frais-guide-complet-sur-line/"><u>Transférer MP3 À Un Format IPhone AAC Sans Frais : Guide Complet Sur Line</u></a></li>
+</ul></div>
+

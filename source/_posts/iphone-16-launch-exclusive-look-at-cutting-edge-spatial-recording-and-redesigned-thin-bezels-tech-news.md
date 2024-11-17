@@ -1,7 +1,7 @@
 ---
 title: "IPhone 16 Launch: Exclusive Look at Cutting-Edge Spatial Recording and Redesigned Thin Bezels | Tech News"
-date: 2024-10-30T17:25:17.734Z
-updated: 2024-11-06T22:38:25.242Z
+date: 2024-11-12T19:20:13.709Z
+updated: 2024-11-16T17:00:19.378Z
 tags:
   - apple
 categories:
@@ -72,6 +72,13 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -132,27 +139,7 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## iPhone 12
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Chris Matyszczyk
 
@@ -171,13 +158,6 @@ Cons
 * Fast performance New camera features Strong battery life
 
 ## iPhone 11 Pro
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -204,13 +184,6 @@ Cons
 * Strong battery life Good performance More affordable
 
 ## Google Pixel 2
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -269,25 +242,19 @@ Show Expert Take Show less
 ###   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## iPhone X
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Robin Harris
@@ -295,6 +262,13 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###   
 
@@ -308,6 +282,13 @@ Cons
 
 ## iPhone XS Max
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -315,6 +296,13 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 **Next phone or dream phone?** My upgrade cycle is based purely on when my contract runs out (outright cost in Australia is insane), so I guess my next device will be in the 13 range later this year (RIP bank account). 
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## iPhone 7 Plus
 
@@ -325,6 +313,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -348,13 +343,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Note 8
 
 ### Charles McLellan
@@ -366,10 +354,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###   
@@ -404,16 +392,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-breakthrough-tactics-for-improved-voice-identity-in-pubg/"><u>[New] Breakthrough Tactics for Improved Voice Identity in PUBG</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-file-sync-up-the-5-fundamental-ways-for-your-computer-upload/"><u>[Updated] In 2024, File Sync-Up The 5 Fundamental Ways for Your Computer Upload</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>[Updated] Streamline Your Screen Experience PIP Mastery for Mac Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] Top Live Streaming Technologies for Broadcinas</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-picart-strategies-for-stunning-image-purification/"><u>2024 Approved PicArt Strategies for Stunning Image Purification</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-breakdown-exploring-lgs-widescreen-uhd-display-for-2024/"><u>Comprehensive Breakdown Exploring LG's Widescreen UHD Display for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/introduction-to-moving-visual-content-for-2024/"><u>Introduction to Moving Visual Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-evolution-of-hd-tech-a-look-at-hp-envy-27-for-2024/"><u>The Evolution of HD Tech - A Look at HP Envy 27 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-fix-is-in-how-to-ensure-your-fifa-21-launches-without-glitches/"><u>The Fix Is In! How to Ensure Your FIFA 21 Launches Without Glitches</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-handbook-to-metaverse-promotion-for-2024/"><u>The Ultimate Handbook to Metaverse Promotion for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transcending-visual-limits-with-hdr-technology-for-2024/"><u>Transcending Visual Limits with HDR Technology for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quick-mac-screen-capture-tips-and-shortcuts-guide-for-2024/"><u>[New] Quick Mac Screen Capture Tips and Shortcuts Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-future-of-display-technology-with-eizos-high-res-monitor/"><u>[New] The Future of Display Technology with EIZO's High-Res Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-videos-for-free-leading-enhancement-pages/"><u>[New] Transform Videos for Free Leading Enhancement Pages</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-viewer-engagement-explore-12-successful-youtube-strategies/"><u>[Updated] Unleashing Viewer Engagement - Explore 12 Successful YouTube Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vanguard-designs-evaluation-studio-25-examined-current-year/"><u>[Updated] Vanguard Designs Evaluation Studio 25 Examined, Current Year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-these-top-7-gpt-4-powered-applications-function/"><u>How Do These Top 7 GPT-4 Powered Applications Function?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-live-broadcast-gaming-applications/"><u>In 2024, Top 10 Live Broadcast Gaming Applications</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-hot-40-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Hot 40 Pro Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-fading-out-effectively-in-logic-pro-for-2024/"><u>Subtlety In Sound Fading Out Effectively in Logic Pro for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-gaming-headsets-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated Gaming Headsets - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-digital-collage-creator-8x-for-2024/"><u>Ultimate Digital Collage Creator 8X for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-watermark-your-videos-for-free-best-software-options/"><u>Updated 2024 Approved Watermark Your Videos for Free Best Software Options</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1726220094632-aviaac-movavi/"><u>오피스에서 AVI/AAC 파일을 무료로 바꾸는 방법 - Movavi</u></a></li>
 </ul></div>
 

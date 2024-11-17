@@ -1,7 +1,7 @@
 ---
 title: "Master DevOps Skills Without Breaking the Bank: Linux Foundation's Special Offer Unveiled | Discover by ZDNET"
-date: 2024-09-19 13:38:23
-updated: 2024-09-20 10:18:42
+date: 2024-11-14T19:32:26.646Z
+updated: 2024-11-16T19:10:21.257Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-guide-ps4-recording-via-obs-studio/"><u>[New] Comprehensive Guide PS4 Recording via OBS Studio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-quality-recordings-the-1-to-18-camera-list/"><u>[New] Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-premier-top-ten-creative-av-media-maker-directory/"><u>[New] The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>[Updated] 2024 Approved Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-cinematographer-secrets-for-exceptional-visuals/"><u>[Updated] Top Cinematographer Secrets for Exceptional Visuals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-the-world-of-drone-races-and-top-fpv-choices/"><u>2024 Approved Navigating the World of Drone Races & Top FPV Choices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-livestreams-with-eco-friendly-screen-effects/"><u>2024 Approved Transform Your Livestreams with Eco-Friendly Screen Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-tutorial-on-retrieving-files-via-icloud-backup-system/"><u>Complete Tutorial on Retrieving Files via iCloud Backup System</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-the-issue-of-nier-automata-crashing-in-windows-games/"><u>Expert Advice: Resolving the Issue of Nier: Automata Crashing in Windows Games</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-upgrading-to-ios-18-safe-for-all-ipads-understanding-potential-risks-and-compatibility-issues-zdnet-guide/"><u>Is Upgrading to iOS 18 Safe for All iPads? Understanding Potential Risks and Compatibility Issues | ZDNET Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-watermark-no-problem-7-best-video-merger-software/"><u>New In 2024, No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-photo-collages-with-picshot-for-2024/"><u>The Evolution of Photo Collages with Picshot for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolved-sony-bdp-s6700-unveiled-for-2024/"><u>The Evolved Sony BDP-S6700 Unveiled for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-creating-iso-images-from-dvd-with-user-friendly-applications/"><u>Ultimate Guide: Creating ISO Images From DVD with User-Friendly Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-collective-views-on-vllo-for-2024/"><u>Understanding Collective Views on VLLO for 2024</u></a></li>
+</ul></div>
+

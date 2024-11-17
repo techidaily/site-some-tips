@@ -1,7 +1,7 @@
 ---
 title: How Artificial Intelligence Is Key to Dominating Cyber Defense Strategies | ZDNet
-date: 2024-09-18 16:42:15
-updated: 2024-09-20 10:14:18
+date: 2024-11-14T16:41:24.570Z
+updated: 2024-11-17T07:21:50.990Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-spur-the-playback-of-vimeo-media/"><u>[New] In 2024, Spur the Playback of Vimeo Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-review-of-ispring-recording-tech/"><u>[New] In 2024, The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-combining-linktree-and-tiktok-biographies/"><u>[New] The Key to Combining Linktree and TikTok Biographies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-total-command-mastery-powerdirector-review-and-guide/"><u>[New] Total Command Mastery PowerDirector Review & Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>[Updated] Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-newest-compatible-cameras-to-match-samsung-gear-360/"><u>2024 Approved Newest Compatible Cameras to Match Samsung Gear 360</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-premium-text-tools-for-ae/"><u>2024 Approved The Ultimate Guide to Selecting Premium Text Tools for AE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-functionality-reprogramming-fn-keys-on-modern-windows-pcs/"><u>Enhance Functionality: Reprogramming FN Keys on Modern Windows PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-latest-innovations-comprehensive-overview-of-new-software-updates-revealed-at-wwdc-detailed-report-by-techradar/"><u>Exploring Apple's Latest Innovations: Comprehensive Overview of New Software Updates Revealed at WWDC – Detailed Report by TechRadar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-def-camera-the-top-audio-mics-guide/"><u>In 2024, High-Def Camera The Top Audio Mics Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-prime-catchy-headline-creator/"><u>In 2024, Prime Catchy Headline Creator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-14-motion-graphics-showcasing-text/"><u>In 2024, Unique 14 Motion Graphics Showcasing Text</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/inside-toms-hardware-realm-unveiling-top-gadgets/"><u>Inside Tom's Hardware Realm: Unveiling Top Gadgets</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-ways-to-speed-up-your-iphones-battery-charging-rate-proven-strategies/"><u>Quick Ways to Speed Up Your iPhone's Battery Charging Rate - Proven Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-clients-and-servers-facing-vpn-error-800-hurdle/"><u>Step-by-Step Solution for Clients & Servers Facing VPN Error 800 Hurdle</u></a></li>
+</ul></div>
+

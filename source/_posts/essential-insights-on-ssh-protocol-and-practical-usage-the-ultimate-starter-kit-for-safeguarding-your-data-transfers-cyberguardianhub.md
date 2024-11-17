@@ -1,7 +1,7 @@
 ---
 title: "Essential Insights on SSH Protocol and Practical Usage: The Ultimate Starter Kit for Safeguarding Your Data Transfers | CyberGuardianHub"
-date: 2024-09-18 10:33:18
-updated: 2024-09-20 12:26:35
+date: 2024-11-10T02:22:42.579Z
+updated: 2024-11-16T19:08:27.833Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +70,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +101,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-exclusive-experiences-top-15plus-virtual-reality-tales-on-cardboard/"><u>[New] 2024 Approved Exclusive Experiences Top 15+ Virtual Reality Tales on Cardboard</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-restful-reelings-audiovisual-storytelling/"><u>[New] Restful Reelings Audiovisual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-where-to-download-high-quality-background-music/"><u>[Updated] Expert Advice Where to Download High-Quality Background Music</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-youtube-thumbnail-size-you-should-knowthe-ultimate-guide/"><u>2024 Approved Best YouTube Thumbnail Size You Should Know [The Ultimate Guide]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adjusting-your-ubuntu-desktop-relocating-the-dock-side-panel/"><u>Adjusting Your Ubuntu Desktop: Relocating the Dock Side Panel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-latest-features-of-the-16-gen-9-lenovo-legion-pro-7i-gaming-laptop-reviewed/"><u>Exploring the Latest Features of the 16 Gen 9 Lenovo Legion Pro 7I Gaming Laptop Reviewed!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fixing-issues-with-your-windows-start-menu-a-comprehensive-guide/"><u>Fixing Issues with Your Windows Start Menu: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-blueprint-to-climbing-your-way-up-in-youtube-ranks/"><u>In 2024, The Blueprint to Climbing Your Way Up in YouTube Ranks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-t2-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo T2 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/making-the-most-of-onedrive-with-windows-11-why-microsoft-encourages-integration/"><u>Making the Most of OneDrive with Windows 11: Why Microsoft Encourages Integration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/resizing-icons-effortlessly-in-windows-10-a-step-by-step-guide/"><u>Resizing Icons Effortlessly in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-invisible-scrutiny-unlocking-ig-selfie-verification-secrets-for-2024/"><u>The Invisible Scrutiny Unlocking IG Selfie Verification Secrets for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-perplexity-your-ultimate-investment-in-an-exclusive-ai-chatbot/"><u>Unveiling Perplexity: Your Ultimate Investment in an Exclusive AI Chatbot</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia C32? | Dr.fone</u></a></li>
+</ul></div>
+

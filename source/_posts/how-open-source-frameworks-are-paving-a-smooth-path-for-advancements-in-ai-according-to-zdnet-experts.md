@@ -1,7 +1,7 @@
 ---
 title: How Open-Source Frameworks Are Paving a Smooth Path for Advancements in AI, According to ZDNet Experts
-date: 2024-09-17 15:22:51
-updated: 2024-09-20 12:20:47
+date: 2024-11-10T19:18:10.454Z
+updated: 2024-11-16T23:01:39.754Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -81,6 +95,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/1726224657063-x-plus-y-plus-z-(-21/"><u> [ X + Y + Z < 21 </u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eciphering-the-must-haves-for-an-enhanced-youtube-experience-for-2024/"><u>[New] Deciphering the Must-Haves for an Enhanced YouTube Experience for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-ring-sound-repeat-a-comprehensible-guide-to-personalization-on-android-devices/"><u>[New] In 2024, Ring, Sound, Repeat A Comprehensible Guide to Personalization on Android Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-clearer-visions-advanced-techniques-for-zooming-photos-and-videos/"><u>[Updated] Clearer Visions Advanced Techniques for Zooming Photos & Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevate-your-content-11-steps-to-amplify-fb-video-performance-for-2024/"><u>[Updated] Elevate Your Content 11 Steps to Amplify FB Video Performance for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-professional-guide-to-youtube-screen-capturing/"><u>[Updated] In 2024, Professional Guide to YouTube Screen Capturing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-your-rmvb-videos-to-avi-format-for-free-using-movavis-services/"><u>Convert Your RMVB Videos to AVI Format for Free Using Movavi's Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-gratuita-para-transformar-tu-memoria-ram-en-videos-mp4-usando-movavi/"><u>Guía Gratuita Para Transformar Tu Memoria RAM en Vídeos MP4 Usando Movavi</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-copy-a-gpt-partition-on-windows-10-to-ssdmbr-storage-devices-efficiently/"><u>How to Copy a GPT Partition on Windows 10 to SSD/MBR Storage Devices Efficiently</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210340033-9781940837086-mantra/"><u>Mantra | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-opus/"><u>Movavi 오픈소스를 쉽고 무료로 OPUS 형식으로 변환: 비용과 시간을 모두 절침하는 전문가 기법</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-selection-for-mac-and-windows-no-cost-4k-players-for-2024/"><u>Premium Selection for Mac & Windows No-Cost 4K Players for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/resolving-common-instagram-video-glitches-for-2024/"><u>Resolving Common Instagram Video Glitches for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformation-de-fichiers-avi-en-aac-sans-frais-sur-le-site-web-movavi/"><u>Transformation De Fichiers AVI en AAC Sans Frais Sur Le Site Web Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-i-tuoi-file-mka-a-formato-aac-gratuitamente-con-movavi/"><u>Trasforma I Tuoi File MKA a Formato AAC Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-vanguard-ai-musicians-discovering-the-quintessential-sound-makers/"><u>Updated Vanguard AI Musicians Discovering the Quintessential Sound Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/verslindende-videoformaten-voor-youtube-expertise-van-movavi-verhelpt-het-beste-formatscoaching/"><u>Verslindende Videoformaten Voor YouTube - Expertise Van Movavi Verhelpt Het Beste Formatscoaching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225113213-mpg-wav-movavi/"><u>오피스 상대적 MPG WAV 갱신: Movavi 자체</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aifc-to-jpgpng-movavi/"><u>オンラインAIFC to JPG・PNG変換無料サービス: Movaviの簡単ガイド</u></a></li>
+</ul></div>
+

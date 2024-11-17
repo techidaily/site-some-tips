@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Software Projects with These 6 Agile Tactics: A Guide to Effective Design Processes by ZDNet Experts"
-date: 2024-09-19 17:52:48
-updated: 2024-09-20 11:56:47
+date: 2024-11-11T06:17:41.737Z
+updated: 2024-11-17T12:41:48.736Z
 tags:
   - developer
 categories:
@@ -57,6 +57,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +80,31 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +156,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +195,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-online-beat-detectors-you-should-try-now-online-and-free/"><u>[New] 2024 Approved Online Beat Detectors You Should Try Now [Online & Free]</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios-for-2024/"><u>[New] How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-bandicam-key-takeaways-and-tips/"><u>[New] In 2024, Mastering Bandicam - Key Takeaways and Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[New] Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-embellish-photographic-canvas-with-outer-glow-effect/"><u>[Updated] 2024 Approved Embellish Photographic Canvas With Outer Glow Effect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-subtlety-garagebands-audio-softening/"><u>[Updated] The Art of Subtlety Garageband's Audio Softening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-first-steps-to-creating-a-successful-online-stream/"><u>[Updated] The First Steps to Creating a Successful Online Stream</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-free-viewer-cam-parties-for-2024/"><u>[Updated] Ultimate Free Viewer Cam Parties for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-top-5-free-windows-screen-recorders/"><u>2024 Approved Comprehensive Guide to Top 5 Free Windows Screen Recorders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-swift-remedies-for-iphone-unfocused-shots/"><u>2024 Approved Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-drone-propellers-selecting-prime-quadcopter-engines/"><u>2024 Approved Top Drone Propellers Selecting Prime Quadcopter Engines</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-scripts-across-eight-film-categories/"><u>2024 Approved Top Scripts Across Eight Film Categories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>2024 Approved Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-in-depth-investigation-are-you-best-off-with-inshot-app/"><u>In 2024, In-Depth Investigation Are You Best Off with InShot App?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-blueprint-for-lifelong-memories-storing-vintage-photos-digitally/"><u>In 2024, The Blueprint for Lifelong Memories Storing Vintage Photos Digitally</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/slash-prices-by-40-secure-your-anker-power-generator-before-the-next-big-freeze-insights-for-homeowners/"><u>Slash Prices by 40%: Secure Your Anker Power Generator Before the Next Big Freeze - Insights for Homeowners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-easy-way-to-snap-spectacular-slow-mo-on-android-for-2024/"><u>The Easy Way to Snap Spectacular Slow Mo on Android for 2024</u></a></li>
+</ul></div>
+

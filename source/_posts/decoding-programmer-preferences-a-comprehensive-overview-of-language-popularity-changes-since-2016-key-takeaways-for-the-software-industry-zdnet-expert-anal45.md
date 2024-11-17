@@ -1,7 +1,7 @@
 ---
 title: "Decoding Programmer Preferences: A Comprehensive Overview of Language Popularity Changes Since 2016 - Key Takeaways for the Software Industry | ZDNET Expert Analysis"
-date: 2024-09-19 22:14:29
-updated: 2024-09-20 10:48:25
+date: 2024-11-12T01:03:27.511Z
+updated: 2024-11-17T03:27:55.821Z
 tags:
   - developer
 categories:
@@ -41,11 +41,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +101,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-portraying-paradoxes-with-teleportation-cgi/"><u>[New] 2024 Approved Portraying Paradoxes with Teleportation CGI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-creating-a-spherical-experience-best-practices-for-panoramic-film-9-essentials/"><u>[New] Creating a Spherical Experience Best Practices for Panoramic Film (9 Essentials)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-encompassing-views-vs-enhanced-visual-depth-for-2024/"><u>[New] Encompassing Views vs Enhanced Visual Depth for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transform-your-macbook-writable-screen-with-these-wallpapers/"><u>[Updated] In 2024, Transform Your MacBook' Writable Screen with These Wallpapers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-next-level-broadcast-software-beyond-streamlabs/"><u>[Updated] Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-reddits-golden-threads-a-commendable-collection-top-10/"><u>[Updated] Reddit's Golden Threads A Commendable Collection (Top 10)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-record-assistant-az-audits-and-substitutes-for-2024/"><u>[Updated] Ultimate Record Assistant - AZ Audits & Substitutes for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/1728478315420-acronis-true-image/"><u>Acronis True Image 啟動磁碟複製錯誤修正</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplifying-energy-supply-changes-butagaz-teams-up-with-abbyys-cutting-edge-tech-solutions/"><u>Simplifying Energy Supply Changes – Butagaz Teams Up with ABBYY's Cutting-Edge Tech Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/steering-innovation-meet-ulf-persson-ceo-of-abbyy/"><u>Steering Innovation - Meet Ulf Persson, CEO of ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-order-management-how-dot-foods-empowers-sales-team-with-automated-po-systems/"><u>Streamlining Order Management: How Dot Foods Empowers Sales Team with Automated PO Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipath-go-marketplace-launches-new-abbyy-icc-solution-powerful-ocr-integration/"><u>UiPath Go! Marketplace Launches New ABBYY ICC Solution: Powerful OCR Integration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-on-real-time-olympic-coverage-in-2e/"><u>Ultimate Tutorial on Real-Time Olympic Coverage in 2E</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-anatomy-of-a-web-page-essentials-for-optimization/"><u>Understanding the Anatomy of a Web Page: Essentials for Optimization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-insights-with-updated-data-management-protocols/"><u>Unlocking Insights with Updated Data Management Protocols</u></a></li>
+</ul></div>
+

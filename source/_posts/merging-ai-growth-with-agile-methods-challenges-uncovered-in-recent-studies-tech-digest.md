@@ -1,7 +1,7 @@
 ---
 title: Merging AI Growth with Agile Methods Challenges Uncovered in Recent Studies | Tech Digest
-date: 2024-09-19 12:43:48
-updated: 2024-09-20 10:44:38
+date: 2024-11-14T21:57:00.393Z
+updated: 2024-11-17T02:42:54.914Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-yoga-enthusiasts-go-to-guide-on-youtube/"><u>[New] 2024 Approved Yoga Enthusiasts' Go-To Guide on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-understanding-and-utilizing-phantoms-time-dilation-for-2024/"><u>[New] Understanding and Utilizing Phantom’s Time-Dilation for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[Updated] In 2024, Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dj-beats-unleashed-high-fidelity-templates-downloaded-easily/"><u>2024 Approved DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comparando-a-eficiencia-de-extracao-7-zip-winrar-e-winzip-explicados/"><u>Comparando a Eficiência De Extração: 7-Zip, WinRAR E WinZip Explicados</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-e-importar-archivos-de-3gpp-a-formato-mp3-sin-costo-conversion-en-la-web/"><u>Descargar E Importar Archivos De 3GPP a Formato MP3 Sin Costo - Conversión en La Web</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dive-into-hands-on-experience-with-msi-pro-mp161-e2-your-portable-monitor-guide/"><u>Dive Into Hands-On Experience with MSI PRO MP161 E2: Your Portable Monitor Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficient-methods-for-nvidia-screen-recording/"><u>Efficient Methods for NVIDIA Screen Recording</u></a></li>
+<li><a href="https://review-topics.techidaily.com/expert-analysis-of-the-govee-gaming-led-light-bar-essential-addition-for-serious-players/"><u>Expert Analysis of the Govee Gaming LED Light Bar - Essential Addition for Serious Players</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grandi-ringraziamenti-per-il-tuo-supporto-e-collaborazione-continua/"><u>Grandi Ringraziamenti per Il Tuo Supporto E Collaborazione Continua!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-omhefken-van-mka-naar-wav-format-movavi/"><u>Gratuit Online Omhefken Van MKA Naar WAV-Format - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-facil-de-reproducir-archivos-mp4-en-sistemas-operativos-windows-10-8-y-7/"><u>Guía Fácil De Reproducir Archivos MP4 en Sistemas Operativos Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-multilingual-communication-with-chatgpt-as-your-go-to-translator/"><u>Mastering Multilingual Communication with ChatGPT as Your Go-To Translator</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-zoom-beszelgetesek-bevezetesenek-szuksegtelen-gyakorlati-tizenletenek-tanacsa/"><u>Movavi Zoom Beszélgetések Bevezetésének Szükségtelen Gyakorlati Tizenlétének Tanácsa</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>Prime Picks Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformer-un-fichier-aiff-en-format-wmv-gratuitement-facile-et-rapide-avec-movavi/"><u>Transformer Un Fichier AIFF en Format WMV Gratuitement - Facile Et Rapide Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mkvflv-movavi/"><u>원통스 가용성: 무료 MKV/FLV 교체 - Movavi</u></a></li>
+</ul></div>
+

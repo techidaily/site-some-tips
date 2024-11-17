@@ -1,7 +1,7 @@
 ---
 title: "The iPhone 15 Unveiled: Expert Endorsement for Tech Savvies & Veterans | ZDNET Insights"
-date: 2024-11-01T17:58:25.018Z
-updated: 2024-11-07T08:42:02.387Z
+date: 2024-11-12T14:46:03.557Z
+updated: 2024-11-17T07:01:22.370Z
 tags:
   - apple
 categories:
@@ -46,10 +46,10 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -142,10 +142,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What I'd like to see in the next model
@@ -161,10 +161,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -172,10 +178,10 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternatives to consider
@@ -212,18 +218,16 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-peek-into-past-posts-panel/"><u>[New] Peek Into Past Posts Panel</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-mac-best-screen-capture-applications-reviewed/"><u>[Updated] 2024 Approved Mastering Mac Best Screen Capture Applications Reviewed</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>[Updated] 2024 Approved Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-pulse-of-the-population-vllo-analysis/"><u>[Updated] The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-comprehensive-analysis-whatsapps-vocal-communication/"><u>A Comprehensive Analysis WhatsApp’s Vocal Communication</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/precision-photography-dampening-disarray/"><u>Precision Photography Dampening Disarray</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211965095-recover-lost-taskbar-icons-in-windows-10-with-these-easy-troubleshooting-tips/"><u>Recover Lost Taskbar Icons in Windows 10 with These Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-syma-x8c-user-guide-insights-for-2024/"><u>The Syma X8C User Guide Insights for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-5-premium-usb-c-charging-adapters-for-laptops-expert-reviews-and-comparisons/"><u>Top 5 Premium USB-C Charging Adapters for Laptops - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transformative-guide-avian-video-avi-to-graphic-image-gif-in-filmora-for-2024/"><u>Transformative Guide Avian Video (AVI) to Graphic Image (GIF) in Filmora for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-frames-per-second-for-slow-clips-for-2024/"><u>Ultimate Frames Per Second for Slow Clips for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ustream-live-and-comparable-platforms-for-2024/"><u>Ustream Live & Comparable Platforms for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mov-saving-strategies-the-six-must-know-tactics-for-windows-11-users-for-2024/"><u>[New] .MOV Saving Strategies - The Six Must-Know Tactics for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategic-placement-sites-for-video-marketing/"><u>[New] Strategic Placement Sites for Video Marketing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-the-latest-in-lgs-ultra-clear-monitoring/"><u>[Updated] The Complete Guide to the Latest in LG’s Ultra-Clear Monitoring</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-thorough-breakdown-the-dji-inspire-1-features/"><u>[Updated] Thorough Breakdown The DJI Inspire 1 Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-the-bottom-ranks-understanding-impactful-factors-for-2024/"><u>Avoiding the Bottom Ranks Understanding Impactful Factors for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-poco-c51-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Poco C51 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pristine-story-conception-in-eight-genre-divisions/"><u>In 2024, Pristine Story Conception in Eight Genre Divisions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-high-quality-photography-lenses/"><u>In 2024, Top 10 High-Quality Photography Lenses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mega-discount-on-high-performance-gaming-pcs-up-to-57-savings-on-gigabyte-aero-16-techsavvy/"><u>Mega Discount on High-Performance Gaming PCs - Up to 57% Savings on Gigabyte Aero 16 | TechSavvy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-image-quality-a-newbies-comprehensible-guide-for-2024/"><u>Unveiling Image Quality A Newbie's Comprehensible Guide for 2024</u></a></li>
 </ul></div>
 

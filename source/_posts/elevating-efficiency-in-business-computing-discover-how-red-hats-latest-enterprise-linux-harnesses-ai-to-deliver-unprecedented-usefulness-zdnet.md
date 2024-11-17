@@ -1,7 +1,7 @@
 ---
 title: "Elevating Efficiency in Business Computing: Discover How Red Hat's Latest Enterprise Linux Harnesses AI to Deliver Unprecedented Usefulness | ZDNet"
-date: 2024-09-18 14:29:39
-updated: 2024-09-20 10:59:57
+date: 2024-11-14T16:08:02.585Z
+updated: 2024-11-17T04:49:53.611Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -80,6 +101,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-pinpointing-youtube-comments/"><u>[New] 2024 Approved Pinpointing YouTube Comments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-cutting-edge-8-innovative-open-source-video-meeting-systems/"><u>[New] In 2024, The Cutting Edge 8 Innovative Open Source Video Meeting Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-comprehensive-guide-to-screencasting-techniques-for-2024/"><u>[New] The Comprehensive Guide to Screencasting Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-snapchats-spotlight-mechanics/"><u>[New] Unlocking Snapchat's Spotlight Mechanics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-visual-vintner-techniques-for-flavorful-films/"><u>[Updated] The Visual Vintner Techniques for Flavorful Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>2024 Approved Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-nvidia-geforce-gtx-nvidia-460-graphics-card-drivers-for-windows-systems/"><u>Easy Installation of NVIDIA GeForce GTX nVidia 460 Graphics Card Drivers for Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-ios-auditory-pleasures/"><u>In 2024, The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/no-cost-video-trimming-10-best-online-editors-reviewed/"><u>No-Cost Video Trimming 10 Best Online Editors Reviewed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-rankings-decoded-is-pickups-editorivity-leading-android/"><u>Top Rankings Decoded Is PickUp's Editorivity Leading Android?</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-three-methods-for-preserving-your-gaming-progress-the-ultimate-guide-to-pc-game-save-backups/"><u>Top Three Methods for Preserving Your Gaming Progress: The Ultimate Guide to PC Game Save Backups</u></a></li>
+</ul></div>
+

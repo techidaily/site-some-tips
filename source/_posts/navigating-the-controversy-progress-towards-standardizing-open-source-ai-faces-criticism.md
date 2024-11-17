@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Controversy: Progress Towards Standardizing Open Source AI Faces Criticism"
-date: 2024-09-18 13:40:47
-updated: 2024-09-20 10:29:54
+date: 2024-11-10T07:32:06.120Z
+updated: 2024-11-17T14:23:53.691Z
 tags:
   - developer
 categories:
@@ -104,11 +104,40 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-maximum-mobile-mastery-highlights-covers-on-iosandroid/"><u>[New] In 2024, Maximum Mobile Mastery Highlights Covers on iOS/Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essence-of-color-in-photography-top-11-tutorials/"><u>[New] The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-become-a-viral-sensation-maximizing-your-youtube-reach/"><u>[Updated] In 2024, Become a Viral Sensation Maximizing Your YouTube Reach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-prime-video-cameras-that-will-elevate-your-twitch-channel/"><u>[Updated] In 2024, Prime Video Cameras That Will Elevate Your Twitch Channel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-pictorial-twists-and-turns/"><u>[Updated] The Art of Pictorial Twists and Turns</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-negative-narratives-of-virtual-reality-tech/"><u>[Updated] The Negative Narratives of Virtual Reality Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-stylish-profiles-easy-downloads/"><u>2024 Approved Stylish Profiles, Easy Downloads!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-blueprint-of-film-narrative/"><u>2024 Approved The Blueprint of Film Narrative</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-images-into-textbooks-photo-text-editor-hacks/"><u>2024 Approved Transform Images Into Textbooks Photo Text Editor Hacks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/frame-your-story-a-guide-to-insta-video-bordering/"><u>Frame Your Story A Guide to Insta Video Bordering</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-6-digital-backdrop-eradicators-boosting-image-clarity/"><u>In 2024, Ultimate 6 Digital Backdrop Eradicators Boosting Image Clarity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-your-pc-build-expert-tips-and-reviews-by-toms-gear-guide/"><u>Mastering Your PC Build: Expert Tips and Reviews by Tom's Gear Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-x100-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo X100</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/six-winning-strategies-to-recording-and-saving-mov-on-windows-11/"><u>Six Winning Strategies to Recording and Saving .mov on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swiftly-restore-working-airdrop-between-apple-gadgets-and-macs-for-2024/"><u>Swiftly Restore Working AirDrop Between Apple Gadgets & Macs for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-fb-image-exposure-settings/"><u>Tailoring FB Image Exposure Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-alchemy-transforming-raw-to-radiant-pictures-for-2024/"><u>The Editor's Alchemy Transforming Raw to Radiant Pictures for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-photography-at-your-fingertips-with-samsung-for-2024/"><u>The Future of Photography at Your Fingertips with Samsung for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-havit-5-multi-fan-cooler-ultimate-reviews-for-stellar-gamers/"><u>The HAVIT 5 Multi-Fan Cooler: Ultimate Reviews for Stellar Gamers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

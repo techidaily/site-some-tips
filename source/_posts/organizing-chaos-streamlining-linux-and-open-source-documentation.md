@@ -1,7 +1,7 @@
 ---
 title: "Organizing Chaos: Streamlining Linux & Open Source Documentation"
-date: 2024-09-17 16:37:32
-updated: 2024-09-20 11:56:59
+date: 2024-11-11T11:13:19.929Z
+updated: 2024-11-17T08:10:33.276Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-navigating-the-monetization-maze-on-youtube/"><u>[New] 2024 Approved Navigating the Monetization Maze on Youtube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-compact-mp3-skype-archive-on-the-cheap/"><u>[New] In 2024, Compact MP3 Skype Archive on the Cheap</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-interface-intensity/"><u>[New] Innovative Interface Intensity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-systematic-upgrade-procedures-for-macos-sierra-users/"><u>[New] Systematic Upgrade Procedures for macOS Sierra Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-best-monitors-for-xbox-series-x/"><u>[New] The Best Monitors for Xbox Series X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[New] The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-architects-crafting-fantasy-realms-for-marvel-for-2024/"><u>[Updated] Architects Crafting Fantasy Realms for Marvel for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enlighten-your-images-mastering-iphone-photography-lighting/"><u>[Updated] Enlighten Your Images Mastering iPhone Photography Lighting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-macbook-mixer-dynamic-perfect-streams-in-5-steps/"><u>2024 Approved The MacBook-Mixer Dynamic Perfect Streams in 5 Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12plus-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 12+ 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-13-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 13 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-dominating-spotifys-advertising-space/"><u>In 2024, Strategies for Dominating Spotify's Advertising Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-script-craftsmanship-on-the-big-screen/"><u>In 2024, Supreme Script Craftsmanship on the Big Screen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-creativity-time-lapse-on-samsung/"><u>In 2024, Unleashing Creativity Time-Lapse on Samsung</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solve-your-pcs-football-manager-2021-crash-problems-with-ease-a-complete-tutorial/"><u>Solve Your PC's Football Manager 2021 Crash Problems with Ease - A Complete Tutorial</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-journey-to-perfection-identifying-growth-points-in-google-stadia/"><u>The Journey to Perfection: Identifying Growth Points in Google Stadia</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-path-to-picsart-proficiency-for-2024/"><u>The Ultimate Path to PicsArt Proficiency for 2024</u></a></li>
+</ul></div>
+

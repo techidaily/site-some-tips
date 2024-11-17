@@ -1,7 +1,7 @@
 ---
 title: Navigating the Complexities of Establishing Open Source AI Standards – Challenges & Controversies Revealed | ZDNet
-date: 2024-09-19 13:59:18
-updated: 2024-09-20 10:26:10
+date: 2024-11-15T02:04:43.954Z
+updated: 2024-11-17T13:33:59.468Z
 tags:
   - developer
 categories:
@@ -104,11 +104,34 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[Updated] 2024 Approved Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-explore-extravagance-best-terrafirma-mapping-for-2024/"><u>[Updated] Explore Extravagance Best Terrafirma Mapping for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-free-endless-archive-of-instagram-highlights/"><u>[Updated] FREE Endless Archive of Instagram Highlights</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-brand-your-youtube-channel-to-get-more-subscribers-for-2024/"><u>[Updated] How to Brand Your YouTube Channel to Get More Subscribers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-animations-to-gif-format-at-no-cost-using-an-online-tool-movavis-solution/"><u>Convert SWF Animations to GIF Format at No Cost Using an Online Tool: Movavi's Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-archivo-swf-a-formato-de-video-mpeg-online-sin-coste/"><u>Convertir Archivo SWF a Formato De Video MPEG Online Sin Coste</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-imovie-for-free-on-windows-no-cost-video-editing-software-for-pc-users/"><u>Download iMovie for Free on Windows: No-Cost Video Editing Software for PC Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-g54-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola G54 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-product-distribution-and-returns-policy-comprehensive-guide/"><u>Movavi Product Distribution & Returns Policy - Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-fraktoppsett-og-tilbakevendende-vilje-mastering-your-pension-rights/"><u>Movavis Fraktoppsett Og Tilbakevendende Vilje - Mastering Your Pension Rights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passaggio-rapido-e-gratuito-da-webm-a-mp4-il-processo-di-conversione-facile-con-onlineconvmp4/"><u>Passaggio Rapido E Gratuito Da WebM a MP4: Il Processo Di Conversione Facile Con OnlineConvMP4</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/premier-remote-video-enhancement-services/"><u>Premier Remote Video Enhancement Services</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-picks-from-booktik-your-next-great-adventure-awaits/"><u>Top Picks From #Booktik Your Next Great Adventure Awaits</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

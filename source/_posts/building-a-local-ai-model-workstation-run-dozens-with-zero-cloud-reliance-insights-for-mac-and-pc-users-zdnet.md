@@ -1,7 +1,7 @@
 ---
 title: "Building a Local AI Model Workstation: Run Dozens with Zero Cloud Reliance - Insights for Mac and PC Users | ZDNET"
-date: 2024-09-19 22:30:44
-updated: 2024-09-20 10:47:28
+date: 2024-11-09T21:53:15.352Z
+updated: 2024-11-16T16:27:50.251Z
 tags:
   - developer
 categories:
@@ -46,6 +46,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +100,19 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +131,19 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +155,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +195,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-elevate-ps2-gameplay-on-ios-devices/"><u>[New] 2024 Approved Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-dynamic-mac-screen-and-audio-capture-tool-for-2024/"><u>[New] Dynamic Mac Screen and Audio Capture Tool for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pngjpeg-movavi/"><u>免費網站移動PNG成JPEG - 用Movavi進行無損格式轉換</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wepbjpeg-movavi/"><u>無償で簡単WepbJpegファイルを移行 - Movaviのガイド</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-virtual-race-titles-reviewed-for-2024/"><u>Best Virtual Race Titles Reviewed for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blend-into-black-premiere-pro-trick-for-2024/"><u>Blend Into Black Premiere Pro Trick for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-tecno-spark-10-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Tecno Spark 10 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/converti-file-mp4-in-formato-m4v-free-su-internet-con-movavi/"><u>Converti File MP4 in Formato M4V Free Su Internet Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effective-strategies-for-earning-revenue-from-your-online-videos/"><u>Effective Strategies for Earning Revenue From Your Online Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-mp4-vers-jpeg-en-ligne-convertisseur-video-rapide/"><u>Gratuit MP4 Vers JPEG en Ligne - Convertisseur Vidéo Rapide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lenovo-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lenovo</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-language-learning-with-chatgpts-premium-features/"><u>Optimize Your Language Learning with ChatGPT's Premium Features</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-and-easy-chrome-browser-tricks-for-effective-website-blocking/"><u>Quick & Easy Chrome Browser Tricks for Effective Website Blocking</u></a></li>
+</ul></div>
+

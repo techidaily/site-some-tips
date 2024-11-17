@@ -1,7 +1,7 @@
 ---
 title: Meta's Ambitious Multilingual Project Encounters Challenges with Greek, Armenian, and Oromo Languages - Insights From ZDNet
-date: 2024-09-17 16:24:49
-updated: 2024-09-20 11:33:24
+date: 2024-11-10T13:42:52.343Z
+updated: 2024-11-17T14:09:57.072Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +86,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-live-in-action-2023-edition/"><u>[New] 2024 Approved Facebook Live in Action 2023 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-sound-streaming-showdown-which-is-the-better-choice-podcast-or-youtube/"><u>[Updated] In 2024, Sound Streaming Showdown Which Is the Better Choice, Podcast or YouTube?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aacmovavi/"><u>「オンラインでアクセシブルなAAC音声ファイルを無料で簡単に変換：Movaviの方法」</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4mkvavimp3/"><u>無限 MP4/MKV/AVI直接轉為MP3 - 移馳自由版音訊格式切換器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227008786-pgmtiff-movavi/"><u>自由版移動網站：直接將PGM格式改為TIFF - Movavi提供解決方案</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ographing-climactic-crescendos-for-2024/"><u>Choreographing Climactic Crescendos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-wav-files-to-au-format-free-online-movavi-converter/"><u>Convert WAV Files to AU Format Free Online - Movavi Converter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/easy-peasy-strategies-for-breathtaking-insta-groups/"><u>Easy-Peasy Strategies for Breathtaking Insta Groups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-achteraf-het-beste-de-top-10-mp4-to-mp3-converters-voor-gemakkelijk-uitspraak/"><u>Het Achteraf Het Beste: De Top 10 MP4-to-MP3 Converters Voor Gemakkelijk Uitspraak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-xs-max-from-backup-when-itunes-backup-is-corrupt-or-not-compatible-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone XS Max from Backup when iTunes Backup is Corrupt or not compatible | Stellar</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221674084-movavimp4/"><u>MovaviのウェブテレビMP4フリー変換サービス - 快適な配信</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-graphics-driver22-hurdle/"><u>Overcoming Graphics DRIVER#22 Hurdle</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/seagate-gratuite-top-applications-de-duplication-de-disques-dur-pour-windows-11-10-8-et-7/"><u>Seagate Gratuite: Top Applications De Duplication De Disques Dur Pour Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-photo-viewer-apps-para-usar-en-windows-10/"><u>Top Rated Photo Viewer Apps Para Usar en Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-apple-watch-screensaver-a-comprehensive-guide/"><u>Top-Rated Apple Watch Screensaver: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-nef-a-foto-jpeg-directamente-en-la-web-servicio-gratis-de-conversion-por-movavi/"><u>Transformar Archivo NEF a Foto JPEG Directamente en La Web - Servicio Gratis De Conversión Por Movavi</u></a></li>
+</ul></div>
+

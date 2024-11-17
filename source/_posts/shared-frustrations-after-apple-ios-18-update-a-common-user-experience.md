@@ -1,7 +1,7 @@
 ---
 title: Shared Frustrations After Apple iOS 18 Update - A Common User Experience
-date: 2024-10-31T21:34:02.962Z
-updated: 2024-11-06T20:41:54.778Z
+date: 2024-11-12T02:01:31.996Z
+updated: 2024-11-17T01:40:34.024Z
 tags:
   - apple
 categories:
@@ -53,16 +53,10 @@ That way, they're not suddenly dropped into a whole new world, but they can slow
 **Also: [Two breakthroughs made 2023 tech's most innovative year in over a decade](https://www.zdnet.com/article/two-breakthroughs-made-2023-techs-most-innovative-year-in-over-a-decade/)**
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  2\. Identify your key moments
@@ -83,24 +77,24 @@ Some UI elements translate directly from iPadOS to VisionOS, but others aren't a
 
 One area to pay particular attention to is when you use hover effects. When you hover over a button in a flat UI, you just need to see some highlighting. But when you hover over -- or in front of -- something in VR space, you've got the entire room to work in. So pay attention to how things look and feel, and try to avoid inducing vertigo by rapidly moving objects and buttons. 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  4\. Utilize grid systems where appropriate
 
 Apple says that apps designed with the [iPadOS grid system](https://developer.apple.com/design/human-interface-guidelines/designing-for-ios) will translate very nicely to the Vision Pro. The grid works well for designing windows. Point sizes translate well from the iPad to Vision Pro. 
 
 But as you deal with more 3D-centric objects, grid systems break down. Once you're moving in 3D space, be careful about where you place your controls. For example, it can be somewhat confusing if you have nearby controls for a faraway object. 
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Incorporate sound design strategically
 
@@ -113,10 +107,10 @@ To that end, even if you're building a non-entertainment app that would normally
 And while you're at it, allow your users to control the sound, setting its volume and even turning it off. Give the sound cues that may be helpful, but give users control over how those cues are applied. Here's [a great resource from Apple on sound design](https://developer.apple.com/wwdc23/10271). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  6\. Focus on key details, but don't overwhelm
@@ -126,10 +120,10 @@ Apple recommends always rendering a ground plane so users feel grounded. If you'
 Of course, if you're putting people into a game where the whole idea is to overwhelm them, then go for it. But Apple is much more interested in using VR and AR as an augmented tool, rather than purely as a gaming platform. And in that context, it's probably wise to avoid making your customers barf up their lunches inside their $3,500+ head-mounted [uncanny valley](https://en.wikipedia.org/wiki/Uncanny%5Fvalley)in a can. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  7\. Use the VisionOS simulator
@@ -179,15 +173,16 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-costless-conundrum-of-final-cut-pro-access/"><u>[New] 2024 Approved The Costless Conundrum of Final Cut Pro Access</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-picks-professional-ringtone-designer-guide/"><u>[New] Top Picks Professional Ringtone Designer Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-obsudios-analysis-selecting-the-ideal-recording-software/"><u>[Updated] Obsudio's Analysis Selecting the Ideal Recording Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-reflex-toolbox-bundle/"><u>[Updated] Reflex Toolbox Bundle</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723005070450-errgfxstate-problem-on-redd2-heres-your-comprehensive-fix-guide/"><u>ERR_GFX_STATE Problem on REDD2? Here's Your Comprehensive Fix Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-total-motion-analysis-2023/"><u>In 2024, Total Motion Analysis 2023</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-art-of-slow-motion-utilizing-online-platforms-and-photos/"><u>In 2024, Unveiling the Art of Slow Motion Utilizing Online Platforms & Photos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-korean-for-in-depth-squid-game-insights/"><u>Learn Korean for In-Depth Squid Game Insights</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-reversing-video-in-final-cut-pro/"><u>New 2024 Approved The Ultimate Guide to Reversing Video in Final Cut Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-realms-intersecting-delving-into-vr-augmented-and-mixed-immersion/"><u>[New] 2024 Approved Realms Intersecting Delving Into VR, Augmented & Mixed Immersion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-video-creation-simplified-key-elements-of-using-aiseesofts-tech/"><u>[New] In 2024, Video Creation Simplified Key Elements of Using Aiseesoft's Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[New] Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-easy-way-to-craft-your-digital-self-in-virtual-worlds/"><u>[New] The Easy Way to Craft Your Digital Self in Virtual Worlds</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-can-instagrams-video-selfies-be-trusted/"><u>[Updated] In 2024, Can Instagram's Video Selfies Be Trusted?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-flip-to-flash-with-android/"><u>[Updated] Transform Your Flip to Flash with Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>[Updated] Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>In 2024, Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-camera-showcase-2024-edition/"><u>Next-Gen Camera Showcase - 2024 Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/srt-conversion-essentials-ttml-xml-ssa-and-beyond-for-2024/"><u>SRT Conversion Essentials TTML, XML, SSA, and Beyond for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-intersection-of-business-and-immersive-vr-technology-for-2024/"><u>The Intersection of Business and Immersive VR Technology for 2024</u></a></li>
 </ul></div>
 

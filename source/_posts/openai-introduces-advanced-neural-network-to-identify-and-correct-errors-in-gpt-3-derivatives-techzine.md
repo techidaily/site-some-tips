@@ -1,7 +1,7 @@
 ---
 title: OpenAI Introduces Advanced Neural Network to Identify & Correct Errors in GPT-3 Derivatives | TechZine
-date: 2024-09-19 14:49:20
-updated: 2024-09-20 10:50:59
+date: 2024-11-12T11:10:42.240Z
+updated: 2024-11-17T06:06:08.401Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-become-a-gif-whisperer-crafting-images-from-vimeo-videos/"><u>[New] 2024 Approved Become a GIF Whisperer Crafting Images From Vimeo Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-masterful-sound-setup-ultimate-tips-and-gear-list/"><u>[New] In 2024, Masterful Sound Setup Ultimate Tips & Gear List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-macpc-vmix-bridge-software/"><u>[New] MacPC VMix Bridge Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/assive-subscriber-jump-for-a-sensible-5-investment-for-2024/"><u>[New] Massive Subscriber Jump for a Sensible $5 Investment for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-key-disparities-in-360-degree-and-vr-videos-for-2024/"><u>[New] The Key Disparities in 360-Degree & VR Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unveiling-techniques-for-3d-text-transformation-in-ps/"><u>[Updated] In 2024, Unveiling Techniques for 3D Text Transformation in PS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-compelling-vlog-dialogue-crafting/"><u>[Updated] The Art of Compelling Vlog Dialogue Crafting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-creativity-turning-gifs-into-charming-stickers-for-discord-whatsapp-and-telegram/"><u>[Updated] Unleash Creativity Turning GIFs Into Charming Stickers for Discord, WhatsApp & Telegram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-the-power-of-subtitling-an-online-tool-compendium/"><u>[Updated] Unleash the Power of Subtitling An Online Tool Compendium</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits/"><u>2024 Approved Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-s5e-is-an-outstanding-choice-for-android-enthusiasts/"><u>Comprehensive Review: Why the Samsung Galaxy Tab S5e Is an Outstanding Choice for Android Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oad-free-sound-effects-for-youtubers/"><u>Download Free Sound Effects for YouTubers!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-professional-360-degree-cameras-2023-update/"><u>In 2024, Top 10 Professional 360 Degree Cameras -2023 Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-optimal-cloud-space-solutions/"><u>In 2024, Top Picks for Optimal Cloud Space Solutions</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/is-it-possible-to-transfer-files-using-airdrop-without-enabling-bluetooth/"><u>Is It Possible to Transfer Files Using AirDrop without Enabling Bluetooth?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/meizu-data-recovery-recover-lost-data-from-meizu-21-by-fonelab-android-recover-data/"><u>Meizu Data Recovery – recover lost data from Meizu 21</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-steam-fallout-76-server-connection-issues-on-pc-a-comprehensive-guide/"><u>Resolving Steam Fallout 76 Server Connection Issues on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-guide-to-integrating-music-and-editing-in-canva-vids-for-2024/"><u>The Guide to Integrating Music & Editing in Canva Vids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-joy-of-journeys-end-innovative-box-revelations-for-2024/"><u>The Joy of Journey's End Innovative Box Revelations for 2024</u></a></li>
+</ul></div>
+

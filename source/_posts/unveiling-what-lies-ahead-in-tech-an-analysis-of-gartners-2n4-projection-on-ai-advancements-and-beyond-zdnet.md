@@ -1,7 +1,7 @@
 ---
 title: "Unveiling What Lies Ahead in Tech: An Analysis of Gartner's 2N4 Projection on AI Advancements and Beyond | ZDNET"
-date: 2024-09-18 22:20:29
-updated: 2024-09-20 11:19:15
+date: 2024-11-13T12:10:04.210Z
+updated: 2024-11-16T17:49:43.721Z
 tags:
   - developer
 categories:
@@ -57,6 +57,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +79,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +113,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +137,19 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +195,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-duality-of-delivery-engaging-audiences-through-alternative-perspectives-for-reaction-videos/"><u>[New] In 2024, Duality of Delivery Engaging Audiences Through Alternative Perspectives for Reaction Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-beneath-the-surface-assessing-huawei-p10-writability-features/"><u>[Updated] In 2024, Beneath the Surface Assessing Huawei P10' Writability Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-architects-of-unique-virtual-environments/"><u>2024 Approved Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-iphone-14-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From iPhone 14 Plus? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://some-tips.techidaily.com/audacitys-guide-to-complimentary-audio-file-upgrade-from-au-to-high-quality-flac-streaming/"><u>Audacity's Guide to Complimentary Audio File Upgrade From AU to High-Quality FLAC Streaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprendre-les-conditions-du-contrat-de-license-dutilisation-finale-avec-la-logiciel-movavi/"><u>Comprendre Les Conditions Du Contrat De License D'Utilisation Finale Avec La Logiciel Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-libre-dun-fichier-aac-au-format-mp3-via-internet-avec-movavi/"><u>Conversion Libre D'un Fichier AAC Au Format MP3 via Internet Avec Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-tech-terms-the-clear-difference-between-ar-vr-mr-and-xr/"><u>Decoding Tech Terms: The Clear Difference Between AR, VR, MR & XR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-convertidor-de-audio-libre-gratuito-para-archivo-aiff-a-mp3-con-movavi/"><u>Descargar Convertidor De Audio Libre Gratuito Para Archivo AIFF a MP3 Con Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-next-level-gaming-with-the-xbox-series-x-your-comprehensive-review-for-a-powerful-4k-adventure/"><u>Experience Next-Level Gaming with the Xbox Series X - Your Comprehensive Review for a Powerful 4K Adventure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/formateo-libre-de-archivos-aac-a-aiff-por-movavi-metodo-facil-y-sin-coste/"><u>Formateo Libre De Archivos AAC a AIFF Por Movavi: Método Fácil Y Sin Coste</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guia-paso-a-paso-para-convertir-videos-flv-en-formatos-de-audio-mp3-gratuitamente-mediante-movavi/"><u>Guía Paso a Paso Para Convertir Videos FLV en Formatos De Audio MP3 Gratuitamente Mediante Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-gionee-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Gionee Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instantly-convert-your-pef-images-to-pngs-for-free-using-the-moveavi-tool/"><u>Instantly Convert Your PEF Images to PNGs for Free Using the Moveavi Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-convertitore-video-gratuito-per-mod-ottenere-il-tuo-ora/"><u>Movavi Convertitore Video Gratuito per Mod: Ottenere Il Tuo Ora!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tailoring-eye-catching-instagram-highlight-summaries/"><u>Tailoring Eye-Catching Instagram Highlight Summaries</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-m34-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy M34 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-free-photo-editing-apps-for-macos-your-complete-guide/"><u>Top Free Photo Editing Apps for macOS : Your Complete Guide</u></a></li>
+</ul></div>
+

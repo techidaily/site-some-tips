@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Uncertainty: Overcoming Inconsistent Results & Reliability Issues with Artificial Intelligence Today"
-date: 2024-09-18 19:12:27
-updated: 2024-09-20 12:11:22
+date: 2024-11-12T09:15:02.826Z
+updated: 2024-11-17T14:53:26.828Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-plan-to-grow-your-subscriber-base/"><u>[New] 2024 Approved The Ultimate Plan to Grow Your Subscriber Base</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-trim-and-cut-vimeo-videos-for-2024/"><u>[New] How to Trim and Cut Vimeo Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ideal-soundscapes-for-editing-films-and-vids/"><u>[New] Ideal Soundscapes for Editing Films & Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-distortion-made-easy/"><u>2024 Approved Image Distortion Made Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-renouvele-son-image-visuelle-et-logo/"><u>ABBYY Renouvele Son Image Visuelle Et Logo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/rectify-laptop-monitor-horizontal-line-distortion-quickly/"><u>Rectify Laptop Monitor Horizontal Line Distortion Quickly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-deleted-inbox-items-a-comprehensive-guide-to-recovering-missed-e-mails-in-microsoft-outlook/"><u>Reviving Deleted Inbox Items – A Comprehensive Guide to Recovering Missed E-Mails in Microsoft Outlook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-marketing-analytics-with-our-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your Marketing Analytics with Our Cutting-Edge Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/seamless-integration-abbyy-connects-with-automation-anywhere/"><u>Seamless Integration: ABBYY Connects with Automation Anywhere</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-endless-possibilities-the-future-of-document-capture-solutions-insights-from-abbyy/"><u>Unleashing Endless Possibilities: The Future of Document Capture Solutions - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/web-page-essentials-unlocking-effective-strategies-for-search-engines/"><u>Web Page Essentials: Unlocking Effective Strategies for Search Engines</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-studio-editor-transform-your-videos-with-ease/"><u>YouTube Studio Editor Transform Your Videos with Ease</u></a></li>
+</ul></div>
+

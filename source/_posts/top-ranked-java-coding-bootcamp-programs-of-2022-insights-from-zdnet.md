@@ -1,7 +1,7 @@
 ---
 title: Top-Ranked Java Coding Bootcamp Programs of 2022 - Insights From ZDNet
-date: 2024-09-17 10:48:15
-updated: 2024-09-20 11:15:42
+date: 2024-11-15T13:48:36.386Z
+updated: 2024-11-16T20:33:28.243Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +87,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-toptiktok-eats-10-famous-feast-fads/"><u>[New] 2024 Approved TopTiktok Eats 10 Famous Feast Fads</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-greatest-7-web-based-recording-tools-2023/"><u>[New] Greatest 7 Web-Based Recording Tools 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-securely-downloading-youtube-audios-3-easy-and-reliable-methods/"><u>[New] In 2024, Securely Downloading YouTube Audios 3 Easy & Reliable Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-revolutionaries-building-virtual-realms/"><u>[New] Revolutionaries Building Virtual Realms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[Updated] The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-criteria-for-choosing-a-premier-streamer-network/"><u>[Updated] Top 10 Criteria for Choosing a Premier Streamer Network</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-use-filters-on-instagram-for-2024/"><u>How to Use Filters on Instagram for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-best-websites-to-access-text-styling-resources/"><u>In 2024, Best Websites to Access Text Styling Resources</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essence-of-color-in-photography-top-11-tutorials/"><u>In 2024, The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-success-with-effective-video-praise-techniques/"><u>In 2024, Unlocking Success with Effective Video Praise Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-se-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone SE Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-11-proplus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-itunes-podcast-upload-for-2024/"><u>The Complete Guide to iTunes Podcast Upload for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-12-free-streaming-sites-for-movie-enthusiasts/"><u>Top 12 Free Streaming Sites for Movie Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/ultimate-drone-vr-integration-guide-for-2024/"><u>Ultimate Drone-VR Integration Guide for 2024</u></a></li>
+</ul></div>
+

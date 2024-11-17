@@ -1,7 +1,7 @@
 ---
 title: Rising Popularity of Operational Excellence in Tech Firms Brings Opportunities and Challenges - Insights From ZDNet
-date: 2024-09-18 21:20:49
-updated: 2024-09-20 12:42:11
+date: 2024-11-10T11:14:21.830Z
+updated: 2024-11-16T19:02:14.421Z
 tags:
   - developer
 categories:
@@ -104,11 +104,34 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-spark-interest-drive-engagement-top-30-video-ideas/"><u>[New] Spark Interest, Drive Engagement Top 30 Video Ideas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-economical-pc-graphics-saving-apps/"><u>[Updated] 2024 Approved Economical PC Graphics Saving Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-novices-nexus-grasping-frame-rates-and-aspect-ratios/"><u>[Updated] 2024 Approved Novice's Nexus Grasping Frame Rates and Aspect Ratios</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-quick-paced-fortnite-visual-artistry/"><u>[Updated] 2024 Approved Quick-Paced Fortnite Visual Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-sourcing-a-list-cinematography-experts/"><u>[Updated] Strategies for Sourcing A-List Cinematography Experts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-melody-meets-discovering-crossfade-magic/"><u>2024 Approved The Melody Meets Discovering Crossfade Magic</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-batch-files-into-executable-formats-on-pcs/"><u>Converting Batch Files Into Executable Formats on PCs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-13-ultra-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does 13 Ultra has native MOV support?</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-costless-conundrum-of-final-cut-pro-access/"><u>In 2024, The Costless Conundrum of Final Cut Pro Access</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tips-and-tricks-for-gopro-get-the-most-from-your-gopro/"><u>In 2024, Tips and Tricks for GoPro Get the Most From Your GoPro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-top-16-free-video-players-for-2024/"><u>Ultimate Guide to Top 16 Free Video Players for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/which-tablet-models-from-apple-come-with-built-in-location-services/"><u>Which Tablet Models From Apple Come With Built-In Location Services?</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Advancing Towards Consensus in Open-Source AI Standards Faces Opposition
-date: 2024-09-18 14:10:30
-updated: 2024-09-20 11:11:22
+date: 2024-11-13T14:30:05.108Z
+updated: 2024-11-16T19:26:09.418Z
 tags:
   - developer
 categories:
@@ -104,11 +104,34 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-comparing-picku-vs-androids-leading-photo-editor-for-2024/"><u>[New] Comparing PickU Vs. Android's Leading Photo Editor for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-video-mastery-challenge-vlc-meets-the-test-against-mx/"><u>[Updated] Video Mastery Challenge VLC Meets the Test Against MX</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavimxfwmv/"><u>如何使用Movavi将MXF免费转换为WMV格式：在线快速、高效转换服务</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/assessing-if-sns-hdr-deserves-your-investment-time-for-2024/"><u>Assessing If SNS HDR Deserves Your Investment Time for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/audacitys-annotated-guide-for-amplifying-transitions-for-2024/"><u>Audacity's Annotated Guide for Amplifying Transitions for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cambia-file-raw-a-formato-jpg-gratuitamente-su-internet-usando-il-servizio-di-conversione-di-movavi/"><u>Cambia File RAW a Formato JPG Gratuitamente Su Internet Usando Il Servizio Di Conversione Di Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oneplus-11-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus 11 5G Fingerprint Lock</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-excellent-apps-to-record-in-high-definition/"><u>In 2024, Excellent Apps to Record in High Definition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-transformation-from-m4a-to-mkv-without-costs-discover-the-power-of-movavi/"><u>Online Transformation From M4A to MKV without Costs: Discover the Power of Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-the-problem-of-windows-not-detecting-proxies/"><u>Solving the Problem of Windows Not Detecting Proxies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-methods-to-create-a-screen-recording-on-your-iphone-11-a-comprehensive-guide/"><u>Top 4 Methods to Create a Screen Recording on Your iPhone 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivo-mxf-a-formato-mp4-gratis-en-linea-con-convertidor-de-movavi/"><u>Transformar Archivo MXF a Formato MP4 Gratis en Línea Con Convertidor De Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

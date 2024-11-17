@@ -1,7 +1,7 @@
 ---
 title: As Artificial Intelligence Proliferates, So Does Its Risk Landscape, Academic Experts Caution | ZDNet
-date: 2024-09-19 18:20:57
-updated: 2024-09-20 12:58:34
+date: 2024-11-10T01:02:05.054Z
+updated: 2024-11-17T12:04:28.317Z
 tags:
   - developer
 categories:
@@ -104,11 +104,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-path-to-digital-fame-on-youtube-begins-here/"><u>[New] 2024 Approved The Path to Digital Fame on YouTube Begins Here</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-tv-deactivation-tips-for-2024/"><u>[New] Instagram TV Deactivation Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-typographic-tools-in-adobe-after-effects/"><u>[New] Typographic Tools in Adobe After Effects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/anguard-maker-guild-sights-sonics-and-memories-for-2024/"><u>[New] Vanguard Maker Guild Sights, Sonics & Memories for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-integrating-technology-effective-school-vid-eds/"><u>[Updated] 2024 Approved Integrating Technology Effective School Vid Eds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-creative-use-of-secondary-camera-work-for-2024/"><u>[Updated] Creative Use of Secondary Camera Work for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-windows-podcasting-solutions/"><u>[Updated] Superior Windows Podcasting Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-power-of-luminance-in-hdr-landscapes/"><u>[Updated] Unveiling the Power of Luminance in HDR Landscapes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-the-agile-and-budget-friendly-propella-7s-40-top-performance-on-a-shoestring/"><u>Experience the Agile and Budget-Friendly Propella 7S 4.0 – Top Performance on a Shoestring!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/hololens-breakthrough-by-microsoft-a-3d-reality-revolution/"><u>HoloLens Breakthrough by Microsoft – A 3D Reality Revolution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-dispel-geforce-now-error-xc0f1103f-in-win11/"><u>How to Dispel GeForce Now Error Xc0f1103f in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-time-travel-tech-how-to-reverse-ios-video/"><u>In 2024, Time Travel Tech How to Reverse iOS Video</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Empower Your Business with Oracle’s Latest AI-Powered Data Analytics & Management Tools | ZDNet
-date: 2024-09-17 23:22:49
-updated: 2024-09-20 11:46:59
+date: 2024-11-13T08:21:40.718Z
+updated: 2024-11-17T11:34:54.691Z
 tags:
   - developer
 categories:
@@ -40,6 +40,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup/"><u>[New] In 2024, Steps to Eliminate the OBS Blank Screens in Gaming Setup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-video-content-with-perfect-youtube-titles/"><u>[New] Optimizing Video Content with Perfect YouTube Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-expertutive-guide-to-enhanced-video-chapter-management-on-youtube/"><u>[Updated] The Expert'utive Guide to Enhanced Video Chapter Management on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-right-time-to-invest-in-your-next-4k-lens/"><u>[Updated] The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-crafting-irresistible-titles/"><u>[Updated] The Ultimate Guide to Crafting Irresistible Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>[Updated] Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-twitter-video-streams-download-and-convert-to-mp3/"><u>[Updated] Twitter Video Streams Download & Convert to MP3</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-world-of-haptic-navigation-systems/"><u>[Updated] Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>2024 Approved Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/erleichterung-beim-wiedereinrichten-eines-facebook-kontos-keine-e-mail-erforderlich/"><u>Erleichterung Beim Wiedereinrichten Eines Facebook Kontos - Keine E-Mail Erforderlich</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-t2-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo T2 5G Is Unlocked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc/"><u>In 2024, Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-stop-infinite-loads-in-anthem-game/"><u>Step-by-Step Solution to Stop Infinite Loads in Anthem Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis-for-2024/"><u>The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transformez-vos-clips-a-laide-de-winxvideo-ai-montage-enregistrement-and-amelioration-par-intelligence-artificielle/"><u>Transformez Vos Clips À L'aide De Winxvideo AI – Montage, Enregistrement & Amélioration Par Intelligence Artificielle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-the-vdvu-disk-to-digital-conversion-issue/"><u>Troubleshooting Tips: Fixing the vDVU Disk-to-Digital Conversion Issue</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-facebooks-potential-with-top-video-strategies/"><u>Unlocking Facebook's Potential with Top Video Strategies</u></a></li>
+</ul></div>
+

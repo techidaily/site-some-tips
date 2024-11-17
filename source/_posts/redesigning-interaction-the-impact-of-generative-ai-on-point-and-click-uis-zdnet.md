@@ -1,7 +1,7 @@
 ---
 title: "Redesigning Interaction: The Impact of Generative AI on Point-and-Click UIs | ZDNet"
-date: 2024-09-17 21:23:23
-updated: 2024-09-20 11:34:29
+date: 2024-11-10T03:47:24.690Z
+updated: 2024-11-17T05:23:54.802Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-maximizing-learning-through-recording-classroom-discourse-on-mac/"><u>[New] 2024 Approved Maximizing Learning Through Recording Classroom Discourse on Mac</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-innovative-strategies-for-sharing-on-instagram-stories/"><u>[Updated] In 2024, Innovative Strategies for Sharing on Instagram Stories</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-entrepreneurial-roadmap-for-starting-an-online-product-critique-site/"><u>[Updated] In 2024, The Entrepreneurial Roadmap for Starting an Online Product Critique Site</u></a></li>
+<li><a href="https://some-tips.techidaily.com/17-faneres-diktatwr-istoselides-lhpshs-gratis-me-mobabh-kwdikopoieitai/"><u>17 Φανερές Δικτάτωρ Ιστοσελίδες Λήψης - Gratis Με Μόβαβη Κωδικοποιείται</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-ranking-the-most-rapidly-expanding-youtube-talks-of-inspiration/"><u>2024 Approved Ranking the Most Rapidly Expanding YouTube Talks of Inspiration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/29-visionary-metaverse-projects-elucidating-potentialities/"><u>29 Visionary Metaverse Projects Elucidating Potentialities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-ogg-movavi/"><u>無料のオンライン MOV to OGG コンバータ - Movavi で使いやすく改良</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-archivos-vob-a-mkv-online-gratuito-con-movavi/"><u>Convertir Archivos VOB a MKV Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-for-converting-wav-files-into-mp4-format-by-movavi/"><u>Free Online Tool for Converting WAV Files Into MP4 Format by Movavi</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-12-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 12</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-step-by-step-creating-fade-inout-sequences-for-dynamic-audio/"><u>New 2024 Approved Step-by-Step Creating Fade In/Out Sequences for Dynamic Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasformare-immagini-webp-in-gif-a-bordo-servizio-di-conversione-on-line-gratuito-da-movavi/"><u>Trasformare Immagini Webp in Gif a Bordo: Servizio Di Conversione On-Line Gratuito Da Movavi</u></a></li>
+</ul></div>
+

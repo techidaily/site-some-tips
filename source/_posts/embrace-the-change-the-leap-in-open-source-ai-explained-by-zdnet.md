@@ -1,7 +1,7 @@
 ---
 title: "Embrace the Change: The Leap in Open-Source AI Explained by ZDNet"
-date: 2024-09-17 22:43:47
-updated: 2024-09-20 11:24:22
+date: 2024-11-14T00:37:06.447Z
+updated: 2024-11-16T18:51:06.685Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +87,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -93,6 +107,19 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-secure-approach-verifying-your-youtube-login-details/"><u>[New] 2024 Approved Secure Approach Verifying Your YouTube Login Details</u></a></li>
+<li><a href="https://some-tips.techidaily.com/achieve-superior-outcomes-mastering-dall-e-2-in-5-steps/"><u>Achieve Superior Outcomes: Mastering DALL-E 2 in 5 Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancements-in-ai-communication-exploring-the-improved-conversational-capabilities-of-chatgpts-gpt-4/"><u>Advancements in AI Communication: Exploring the Improved Conversational Capabilities of ChatGPT's GPT-4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai-powered-youtubes-new-feature-quick-video-previews-and-summaries/"><u>AI Powered YouTube's New Feature: Quick Video Previews & Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-linux-skills-with-tips-from-chatgpt-a-personal-experience/"><u>Boost Your Linux Skills with Tips From ChatGPT - A Personal Experience</u></a></li>
+<li><a href="https://win-latest.techidaily.com/comprendre-la-sauvegarde-et-le-reparation-dun-serveur-windows-2012-une-guide-utilisant-wbadmin/"><u>Comprendre La Sauvegarde Et Le Réparation D'un Serveur Windows 2012: Une Guide Utilisant WbAdmin</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-cutting-edge-results-with-our-latest-ai-enhanced-google-search/"><u>Discover Cutting-Edge Results with Our Latest AI-Enhanced Google Search</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dynamic-directionality-prime-phone-friendly-tripods-for-2024/"><u>Dynamic Directionality Prime Phone-Friendly Tripods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/electric-vehicle-charging-issues-unraveling-the-top-8-causes-of-connection-failures/"><u>Electric Vehicle Charging Issues: Unraveling the Top 8 Causes of Connection Failures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertly-blending-tracks-using-audacity-crossfade-tools/"><u>Expertly Blending Tracks Using Audacity Crossfade Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-conversion-change-mp3-files-to-3gp3g2-format-with-ease/"><u>Free Online Conversion: Change MP3 Files to 3GP/3G2 Format with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gpu-unresponsive-screen-offline-2020/"><u>GPU Unresponsive: Screen Offline [2020]</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-list-of-cartoon-video-makers-for-beginners/"><u>New 2024 Approved The Ultimate List of Cartoon Video Makers for Beginners</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-functionality-of-invalid-payment-methods/"><u>Re-Establishing Functionality of Invalid Payment Methods</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-drone-picks-unveiling-the-ultimate-flyers-of-2024/"><u>Top Drone Picks: Unveiling the Ultimate Flyers of 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-wacom-digitizer-drivers-missing-issue-in-windows-10/"><u>Troubleshooting Wacom Digitizer Drivers Missing Issue in Windows 10</u></a></li>
+</ul></div>
+

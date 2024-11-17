@@ -1,7 +1,7 @@
 ---
 title: "Enterprise GenAI Leaps Forward: Microsoft Azure Introduces Model Services & Improved RAG Solutions"
-date: 2024-09-17 21:57:39
-updated: 2024-09-20 12:47:35
+date: 2024-11-11T13:45:53.466Z
+updated: 2024-11-17T05:02:50.867Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -73,6 +87,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +101,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +183,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-accelerated-fortnite-visualization-steps/"><u>[New] 2024 Approved Accelerated Fortnite Visualization Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-microsoft-outlook-launch-errors/"><u>Diagnosing and Repairing Microsoft Outlook Launch Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726029029927-dvdpc/"><u>DVDからPCへのデータ移行手順</u></a></li>
+<li><a href="https://some-tips.techidaily.com/harness-the-power-of-cookiebot-for-optimized-website-traffic/"><u>Harness the Power of Cookiebot for Optimized Website Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/healthcare-organizations-trust-abbyys-powerful-ocr-technology-for-automated-classification-of-critical-documents-latest-update-from-abbyy-newsroom/"><u>Healthcare Organizations Trust ABBYY's Powerful OCR Technology for Automated Classification of Critical Documents - Latest Update From ABBYY Newsroom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-psa-securitys-transition-to-paperless-ap-revolutionizes-corporate-efficiency/"><u>How PSA Security's Transition to Paperless AP Revolutionizes Corporate Efficiency</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-camon-20-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Camon 20 Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-power-streamlining-eucon-workflows-with-smart-ocr-solutions/"><u>Leveraging ABBYY's Power: Streamlining Eucon Workflows with Smart OCR Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-efficient-user-tracking-and-conversion-optimization/"><u>Leveraging Cookiebot Technology for Efficient User Tracking and Conversion Optimization</u></a></li>
+</ul></div>
+

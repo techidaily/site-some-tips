@@ -1,7 +1,7 @@
 ---
 title: Moving Forward with Open Source AI Standards – Controversy Arises as Consensus Looms [ZDNet]
-date: 2024-09-18 20:39:59
-updated: 2024-09-20 11:30:52
+date: 2024-11-12T21:09:12.531Z
+updated: 2024-11-17T08:33:27.711Z
 tags:
   - developer
 categories:
@@ -104,11 +104,41 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-roadmap-to-selecting-top-tier-visual-storytellers/"><u>[New] The Roadmap to Selecting Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[Updated] Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>2024 Approved The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-realme-c33-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Realme C33 2023 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/avimp4movmkv/"><u>AVIファイルの容易な変換：MP4、MOV、MKVへの転送ガイド</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/breaking-out-of-the-repairing-disk-errors-loop-in-windows-operating-systems-versions-11-10-8-and-expert-solutions/"><u>Breaking Out of the ‘Repairing Disk Errors’ Loop in Windows Operating Systems (Versions 11, 10, 8 & ^) - Expert Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/high-speed-home-ethernet-or-poorly-crafted-device-discover-the-tp-link-av2000s-true-nature/"><u>High-Speed Home Ethernet or Poorly Crafted Device? Discover the TP-Link AV2000's True Nature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-spectrum-visual-creativity-with-vsco/"><u>In 2024, Full Spectrum Visual Creativity with VSCO</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-prime-dialogue-draft-directory/"><u>In 2024, Prime Dialogue Draft Directory</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/meet-the-laptop-of-choice-for-many-a-crowd-favorite-with-excellent-performance-backed-by-quality-hardware-discover-at-zdnet/"><u>Meet the Laptop of Choice for Many: A Crowd Favorite with Excellent Performance Backed By Quality Hardware | Discover at ZDNET</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-social-media-landscape-with-facebook-twitter-instagram-and-youtube/"><u>Navigating the Social Media Landscape with Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-magic-behind-luts-crafting-captivating-photos-for-2024/"><u>The Magic Behind LUTs Crafting Captivating Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-twitch-loophole-reviving-forgotten-chats-for-2024/"><u>The Twitch Loophole Reviving Forgotten Chats for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

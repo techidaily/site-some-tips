@@ -1,7 +1,7 @@
 ---
 title: Is Generative AI Increasing Workloads Despite Promising Automation? Insights From ZDNet
-date: 2024-09-18 16:36:49
-updated: 2024-09-20 11:45:49
+date: 2024-11-10T11:18:14.298Z
+updated: 2024-11-17T02:21:59.320Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-capture-and-convert-your-instagram-feeds-top-15-free-exporters-for-windows-and-macos-users-for-2024/"><u>[New] Capture and Convert Your Instagram Feeds Top 15 Free Exporters For Windows & macOS Users for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-sharing-subtitle-files-socially/"><u>[New] The Complete Guide to Sharing Subtitle Files Socially</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-discovering-the-syma-x5c-the-premier-drone-for-rookies/"><u>[Updated] In 2024, Discovering the Syma X5C The Premier Drone for Rookies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-download-snapchat-ringtones-websites/"><u>[Updated] Top 10 Download Snapchat Ringtones Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-selections-premium-webcam-platforms/"><u>[Updated] Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-enhance-your-gopro-footage-top-5-sd-cards-hero-8-7/"><u>In 2024, Enhance Your GoPro Footage Top 5 SD Cards (Hero 8, 7)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-x100-pro-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo X100 Pro for Streaming | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-video-beats-into-ringtones-must-visit-sites-explored/"><u>In 2024, Transform Video Beats Into Ringtones Must-Visit Sites Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-art-of-sideways-iphone-photography/"><u>In 2024, Unveiling the Art of Sideways iPhone Photography</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-list-the-best-10-apps-for-live-racing-and-rugby-streaming/"><u>Leading List The Best 10 Apps for Live Racing & Rugby Streaming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-resurrecting-an-unresponsive-roku-tv-set/"><u>Troubleshooting Tips for Resurrecting an Unresponsive Roku TV Set</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-c53-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme C53 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions-for-2024/"><u>Unlock Hidden Potential, Boost Productivity Essential Activities During Podcast Sessions for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-windows-10-webcam-recording-made-easy-top-10-software-picks/"><u>Updated 2024 Approved Windows 10 Webcam Recording Made Easy Top 10 Software Picks</u></a></li>
+</ul></div>
+

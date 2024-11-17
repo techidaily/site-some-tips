@@ -1,7 +1,7 @@
 ---
 title: "Intel Predicts Integration of Artificial Intelligence Into Business: Projected Timeline Spanning Three to Five Years | ZDNet"
-date: 2024-09-18 14:40:23
-updated: 2024-09-20 12:53:22
+date: 2024-11-16T10:38:46.120Z
+updated: 2024-11-17T09:17:43.471Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +95,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/approved-elevate-streams-using-youtubes-av1-settings/"><u>2024 Approved Elevate Streams Using YouTube's AV1 Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-12-mp4-media-players-compatible-with-windows-11-8-7-and-macos-top-picks/"><u>Best 12 MP4 Media Players Compatible with Windows 11, 8, 7 & macOS: Top Picks!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-nubia-red-magic-9-pro-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Nubia Red Magic 9 Pro.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuita-conversione-di-file-mod-a-mp3-con-movavi-online/"><u>Gratuita Conversione Di File MOD a MP3 Con Movavi Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-streamline-your-content-with-these-4-instagram-looping-hacks/"><u>In 2024, Streamline Your Content with These 4 Instagram Looping Hacks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaviogvmp3/"><u>Movaviを使用して無料OGV音源から高速MP3変換ツール –オンライン</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-definitive-guide-for-shoppers-in-the-era-of-virtual-reality/"><u>The Definitive Guide for Shoppers in the Era of Virtual Reality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformez-votre-fichier-aac-en-format-mp4-facilement-gratuit-avec-movavi/"><u>Transformez Votre Fichier AAC en Format MP4 Facilement - Gratuit Avec Movavi</u></a></li>
+<li><a href="https://win-community.techidaily.com/two-methods-quick-installation-of-windows-10-onto-a-fresh-ssd-including-and-excluding-an-optical-disc/"><u>Two Methods: Quick Installation of Windows 10 Onto a Fresh SSD, Including and Excluding an Optical Disc</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268186627-unleash-website-potential-with-advanced-cookiebot-tracking-solutions/"><u>Unleash Website Potential with Advanced Cookiebot Tracking Solutions.</u></a></li>
+</ul></div>
+

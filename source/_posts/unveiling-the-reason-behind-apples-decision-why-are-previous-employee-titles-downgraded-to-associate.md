@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Reason Behind Apple's Decision: Why Are Previous Employee Titles Downgraded to 'Associate'?"
-date: 2024-09-18 15:46:22
-updated: 2024-09-20 10:55:37
+date: 2024-11-09T17:48:18.883Z
+updated: 2024-11-17T07:05:13.567Z
 tags:
   - developer
 categories:
@@ -57,6 +57,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +85,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +113,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-snaptweet-transporter-swiftly-grab-social-media-vids/"><u>[New] SnapTweet Transporter Swiftly Grab Social Media Vids</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-copyright-landscape-decoded-a-complete-analysis/"><u>[New] YouTube's Copyright Landscape Decoded A Complete Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-security-victory-making-your-fb-available-again-for-2024/"><u>[Updated] Security Victory Making Your FB Available Again for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-hd-viewing-top-10-android-video-apps/"><u>2024 Approved Seamless HD Viewing Top 10 Android Video Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-youtube-revenue-essential-view-count-milestones/"><u>2024 Approved Unlocking YouTube Revenue Essential View Count Milestones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-elevates-global-finance-management-for-renault-argentina/"><u>ABBYY Elevates Global Finance Management for Renault Argentina</u></a></li>
+<li><a href="https://some-tips.techidaily.com/additional-provisions-for-effective-data-management-strategy-a-comprehensive-guide/"><u>Additional Provisions for Effective Data Management Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-site-personalization-via-ai-based-analytics-developed-using-coqui-bot/"><u>Advanced Site Personalization via AI-Based Analytics – Developed Using Coqui Bot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/automated-with-cookiebot-enhancing-website-personalization-and-tracking/"><u>Automated with Cookiebot: Enhancing Website Personalization and Tracking</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/complete-guide-to-shifting-your-mobile-contacts-onto-your-macbook-or-imac-effortlessly/"><u>Complete Guide to Shifting Your Mobile Contacts Onto Your MacBook or iMac Effortlessly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ters-launchpad-7-funny-video-frameworks-for-comedians-for-2024/"><u>Laughter's Launchpad 7 Funny Video Frameworks for Comedians for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maciphoneipadipodanddvd/"><u>MacからiPhone/iPad/iPodにリッピング&再生方法：DVD,動画ファイルコピー手順</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-enhance-your-sites-personalization/"><u>Optimized with Cookiebot Technology: Enhance Your Site's Personalization</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revitalize-your-video-chats-a-tutorial-to-refresh-webcam-drivers-in-windows-11/"><u>Revitalize Your Video Chats: A Tutorial to Refresh Webcam Drivers in WINDOWS 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionarer-ansatz-des-abbyy-sdks-zur-verbesserung-der-mobilgerate-onboarding-erfahrungen/"><u>Revolutionärer Ansatz Des ABBYY-SDKs Zur Verbesserung Der Mobilgeräte-Onboarding-Erfahrungen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/selecting-abbyy-vantage-the-reason-behind-sidetrades-choice-for-enhanced-payment-solutions/"><u>Selecting ABBYY Vantage: The Reason Behind Sidetrade's Choice for Enhanced Payment Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-influence-of-ai-on-economic-progress-insights-from-abbyy-experts/"><u>Unveiling the Influence of AI on Economic Progress: Insights From ABBYY Experts</u></a></li>
+</ul></div>
+

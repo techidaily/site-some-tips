@@ -1,7 +1,7 @@
 ---
 title: The End of Apple's Apple Pay Later? Exploring a Potential New Financial Service by Apple in Development
-date: 2024-10-31T00:43:22.723Z
-updated: 2024-11-07T04:32:13.136Z
+date: 2024-11-14T06:09:54.131Z
+updated: 2024-11-17T09:49:46.128Z
 tags:
   - apple
 categories:
@@ -41,10 +41,10 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -70,10 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
@@ -118,15 +118,22 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What is NFC?
 
@@ -142,13 +149,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Apple Cash?
 
 [Apple Cash](https://www.zdnet.com/article/how-to-use-apple-cash-family-to-help-kids-develop-good-money-habits/) is a digital card in your Apple Wallet that you can use to send or receive money through the Messages app. Similar to [Venmo](https://www.zdnet.com/article/paypal-vs-venmo/) or [Cash App](https://www.zdnet.com/finance/what-is-cash-app-and-how-does-it-work-a-comprehensive-guide/), you can use Apple Cash to send a friend money to reimburse them for a meal, for example, and that friend can check out with their accumulated Apple Cash at merchants that support Apple Pay.
@@ -158,16 +158,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use Apple Pay on your Apple Watch
@@ -218,22 +212,22 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-understanding-vr-headsets-an-overview/"><u>[New] Understanding VR Headsets An Overview</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-key-techniques-for-capturing-youtube-streaming-content-for-2024/"><u>[Updated] Key Techniques for Capturing YouTube Streaming Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[Updated] The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-leading-virtual-realities-iphone-and-android-guide-for-2024/"><u>[Updated] The Leading Virtual Realities IPhone & Android Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-free-animation-digitalphysical-realms/"><u>[Updated] Unlocking Free Animation Digital/Physical Realms</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved The Art of Virtual Environments in Cinema</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/your-viewing-muscles-handling-multiple-youtube-videos/"><u>Flex Your Viewing Muscles Handling Multiple YouTube Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-best-grids-built-by-the-top-tools-compiled-here/"><u>In 2024, Instagram's Best Grids Built by the Top Tools Compiled Here</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-summit-elite-production-space-25/"><u>In 2024, Summit Elite Production Space 25</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-understanding-invisible-social-signals-in-online-media/"><u>In 2024, Understanding Invisible Social Signals in Online Media</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-voice-transformation-handbook-ranking-the-leading-11-speech-alteration-software-for-mobile-platforms-no-cost/"><u>New In 2024, The Ultimate Voice Transformation Handbook Ranking the Leading 11 Speech Alteration Software for Mobile Platforms, No Cost</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranked-gaming-systems-in-22024/"><u>Top-Ranked Gaming Systems in 2#2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ultimate-choice-top-mp4-players-unveiled-for-2024/"><u>Ultimate Choice Top MP4 Players Unveiled for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uniting-your-soundtrack-sets-from-different-spaces-for-2024/"><u>Uniting Your Soundtrack Sets From Different Spaces for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlimited-audio-processing-at-zero-cost-for-2024/"><u>Unlimited Audio Processing at Zero Cost for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/1726220968485-mp4/"><u>アニメーションムービーMP4ファイルを自由差し上げする方法 – 動画ヴァーヴィ</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-high-frame-rate-filming-with-yi/"><u>[New] Exploring High Frame Rate Filming with YI</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streaming-screenshots-share-without-twitting-for-2024/"><u>[New] Streaming Screenshots Share Without Twitting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-tips-how-to-get-fcp-without-money/"><u>[New] Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-echo-chamber-of-creativity-crafting-compelling-podcast-stories/"><u>[New] The Echo Chamber of Creativity Crafting Compelling Podcast Stories</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>[New] The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-top-10-4k-screens/"><u>[New] The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhance-youtube-views-leveraging-outro-content-partnerships/"><u>[Updated] In 2024, Enhance YouTube Views Leveraging Outro Content Partnerships</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>[Updated] Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-supreme-audiovisual-hints-pack/"><u>[Updated] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-sns-hdrs-strengths-and-comparative-software/"><u>[Updated] Unveiling SNS HDR's Strengths & Comparative Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-audio-visual-transcription-tool/"><u>2024 Approved Audio Visual Transcription Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>2024 Approved Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/compatible-dvd-formats-what-can-your-player-play/"><u>Compatible DVD Formats: What Can Your Player Play?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-apex-legends-resolving-game-engine-glitches/"><u>Fixing Apex Legends: Resolving Game Engine Glitches</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>In 2024, The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-ultimate-list-top-2024-recommendations-for-quality-17-inch-laptops/"><u>The Ultimate List: Top 2024 Recommendations for Quality 17-Inch Laptops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10plus-driver-setup-manual-ie/"><u>Windows 10+ Driver Setup Manual - IE</u></a></li>
 </ul></div>
 

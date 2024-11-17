@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Elite Full-Stack Developer Training: Premier Bootcamp Options & Insider Knowledge"
-date: 2024-09-17 13:46:13
-updated: 2024-09-20 10:48:15
+date: 2024-11-16T08:29:41.014Z
+updated: 2024-11-16T16:09:59.945Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -57,6 +71,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +87,19 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -155,11 +189,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-earn-big-on-youtube-shorts-tips-for-profitable-content-creation-for-2024/"><u>[New] Earn Big on YouTube Shorts Tips for Profitable Content Creation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-device-editors-for-app-development-art/"><u>[New] Leading Device Editors for App Development Art</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ghostly-witness-to-fb-vignettes/"><u>[Updated] 2024 Approved Ghostly Witness to Fb Vignettes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimize-your-video-library-youtubes-to-dailymotion-directly/"><u>[Updated] 2024 Approved Optimize Your Video Library YouTubes to Dailymotion Directly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tiktok-and-twittersphere-crossover-the-viral-vids/"><u>[Updated] 2024 Approved TikTok and Twittersphere Crossover The Viral Vids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223228617-ape-m4a-movavi/"><u>APE M4A 파일을 원격으로 무료로 변환: Movavi의 가이드</u></a></li>
+<li><a href="https://some-tips.techidaily.com/buy-top-rated-cross-platform-video-editing-software-for-pc-and-mac/"><u>Buy Top-Rated Cross-Platform Video Editing Software for PC & MAC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comment-transformer-facilement-un-tta-en-format-flac-pour-gratuit-methodes-et-conseils-utilisant-movavi/"><u>Comment Transformer Facilement Un TTA en Format FLAC Pour Gratuit - Méthodes Et Conseils Utilisant Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-voice-and-video-capture-on-a-mac-discover-movavis-top-techniques/"><u>Effortless Voice & Video Capture on a Mac - Discover Movavi's Top Techniques!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-guide-on-mastering-image-editing-the-art-of-making-backgrounds-disappear-using-7-proven-methods-movavi/"><u>Expert Guide on Mastering Image Editing: The Art of Making Backgrounds Disappear Using 7 Proven Methods - Movavi</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-take-your-videos-to-the-next-level-3-creative-transition-ideas-in-fcp/"><u>New 2024 Approved Take Your Videos to the Next Level 3 Creative Transition Ideas in FCP</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/raw-bmp-online-conversion/"><u>이메일 및 화면에 자신의 RAW BMP 이미지를 쉽게 바인드: 무료 Online Conversion - 모바이비</u></a></li>
+</ul></div>
+

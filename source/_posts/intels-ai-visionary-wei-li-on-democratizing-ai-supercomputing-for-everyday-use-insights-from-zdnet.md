@@ -1,7 +1,7 @@
 ---
 title: Intel's AI Visionary, Wei Li, on Democratizing AI Supercomputing for Everyday Use - Insights From ZDNet
-date: 2024-09-19 17:56:45
-updated: 2024-09-20 11:51:20
+date: 2024-11-09T20:01:34.261Z
+updated: 2024-11-16T18:06:55.784Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +87,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ideal-selfie-sticks-for-iphone-users/"><u>[New] 2024 Approved Ideal Selfie Sticks for iPhone Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-impactful-youtube-channel-logo-tips/"><u>[Updated] 2024 Approved Crafting Impactful YouTube Channel Logo Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphone-photo-perfection-implement-these-10-composition-tenets/"><u>2024 Approved IPhone Photo Perfection Implement These 10 Composition Tenets</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beyond-borders-beyond-barriers-the-top-4-motivations-to-study-a-new-language-in-your-forties/"><u>Beyond Borders, Beyond Barriers: The Top 4 Motivations to Study a New Language in Your Forties</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-boosting-user-engagement-and-analytics/"><u>Cookiebot-Driven Personalization: Boosting User Engagement and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-site-optimization-elevate-your-seo-game/"><u>Cookiebot-Driven Site Optimization: Elevate Your SEO Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-sites-enhance-user-experience-and-track-visitors-effectively/"><u>Cookiebot-Enabled Sites: Enhance User Experience & Track Visitors Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-user-tracking-and-analytics/"><u>Cookiebot-Enabled User Tracking & Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhancing-user-experience-with-smart-tracking-solutions/"><u>Cookiebot-Enabled: Enhancing User Experience with Smart Tracking Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-secrets-of-tech-wonders-toms-inside-scoop-on-hardware-innovations/"><u>Unveiling Secrets of Tech Wonders: Tom's Inside Scoop on Hardware Innovations</u></a></li>
+</ul></div>
+

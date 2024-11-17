@@ -1,7 +1,7 @@
 ---
 title: July's Ultimate Apple Bargains! Score Great Prices on iPhones, Watches, and iPads with Our ZDNet Deal Guide 2024
-date: 2024-11-02T05:01:38.316Z
-updated: 2024-11-07T06:32:21.091Z
+date: 2024-11-12T04:11:29.678Z
+updated: 2024-11-16T23:33:45.127Z
 tags:
   - apple
 categories:
@@ -85,6 +85,13 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C4af485c0-bcb6-479c-b4c0-6afdf62b29c7%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
@@ -92,10 +99,10 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How did we choose these deals?
@@ -105,10 +112,10 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is the best Apple watch?
@@ -121,13 +128,6 @@ Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
 If you're buying your first Apple Watch or upgrading from a Series 6 or earlier, ZDNET recommends buying the Series 9 this year because it features a big upgrade in accuracy for tracking your health and fitness. 
@@ -135,13 +135,6 @@ If you're buying your first Apple Watch or upgrading from a Series 6 or earlier,
 However, if you want to get in at the lowest price or you're buying a watch for a kid or an elderly family member (for the fall detection and heart rate monitoring, for example) then we'd recommend getting last year's Apple Watch [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) over the [Apple Watch SE](https://www.zdnet.com/article/apple-watch-se-2022-vs-apple-watch-se-2020-should-you-upgrade/) because it has more (and better) health sensors and it also has emergency crash detection for accidents.
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the newest Apple Watch?
 
@@ -168,6 +161,13 @@ Similarly to turning in an older cell-phone to receive monetary credit towards p
 When participating in a trade-in offer, you are providing your previously used item to the retailer in exchange for a predetermined amount of cash back that can be directly applied to your next item purchase of the same product. Eligible trade-in items and the cash back offered for each product is decided by each individual retailer and is often determined by factors such as age, condition, and functionality of the item being presented for trade-in. Apple recently decided to even bump up the amount they offer for trade-ins as well, too. 
 
 **Also:** [**Apple is paying more for your used Apple watches**](https://www.zdnet.com/article/apple-is-now-paying-more-for-your-used-apple-watches-and-ipads/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When will these deals expire?
 
@@ -213,24 +213,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-finding-the-affordable-cloud-storage-of-2024/"><u>[New] Finding the Affordable Cloud Storage of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-image-integration-software-for-visual-enthusiasts/"><u>[New] Innovative Image Integration Software for Visual Enthusiasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-ranking-top-8-budget-friendly-srt-apps/"><u>[New] The Ultimate Ranking Top 8 Budget-Friendly SRT Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-resource-compendium-for-optimizing-on-screen-captioning/"><u>[New] The Ultimate Resource Compendium for Optimizing On-Screen Captioning</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximizing-youtube-clicks-with-imagery/"><u>[Updated] 2024 Approved Maximizing YouTube Clicks with Imagery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-novices-guide-to-photo-perfection-in-snapseed/"><u>[Updated] The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transforming-standard-calls-into-visual-masterpieces-with-zoom/"><u>[Updated] Transforming Standard Calls Into Visual Masterpieces with Zoom</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-uhd-precision-converter-clearer-sharper-visuals/"><u>[Updated] UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>2024 Approved Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/evaluating-snappy-driver-installer-update-a-closer-look-at-version-113-features/"><u>Evaluating Snappy Driver Installer Update: A Closer Look at Version 1.13 Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fading-frequencies-the-gentle-way-with-garageband/"><u>Fading Frequencies The Gentle Way with Garageband</u></a></li>
-<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-closer-look-ffmpeg-for-pristine-audio-extraction/"><u>In 2024, A Closer Look FFmpeg for Pristine Audio Extraction</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-trip-diary-to-hype-inducing-haul-the-editors-playbook/"><u>In 2024, From Trip Diary to Hype-Inducing Haul The Editor's Playbook</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-pinnacle-of-mac-livestream-software-1-5-guide/"><u>In 2024, The Pinnacle of Mac Livestream Software - #1-5 Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h-265-hevc-video-on-galaxy-s24-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Galaxy S24</u></a></li>
-<li><a href="https://some-tips.techidaily.com/soaring-high-with-q500s-4k-vision-for-2024/"><u>Soaring High with Q500's 4K Vision for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-subtitled-success-the-top-8-software-that-swiftly-converts-sub-to-srt-on-pcmacosx-for-2024/"><u>[New] Subtitled Success! The Top 8 Software That Swiftly Converts SUB to SRT on PC/MacOSX for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-uncovering-your-just-watched-list-on-facebook-for-2024/"><u>[New] Uncovering Your Just-Watched List on Facebook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-creating-an-impactful-film-short-summary/"><u>[Updated] Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-art-of-capturing-flawless-ootd-tiktoks-on-a-mac/"><u>[Updated] In 2024, The Art of Capturing Flawless OOTD TikToks on a Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-moving-shots-a-handbook-for-hero5-time-lapse-photography/"><u>[Updated] Master the Art of Moving Shots A Handbook for Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-orchestrate-your-pixels-with-offline-harmony/"><u>[Updated] Orchestrate Your Pixels With Offline Harmony</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-fisheye-lens-in-360-imagery/"><u>[Updated] The Art of Fisheye Lens in 360 Imagery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tiktok-mastery-the-art-of-editing-your-number/"><u>[Updated] TikTok Mastery The Art of Editing Your Number</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-supreme-4k-display-selection-the-best-of-ten/"><u>2024 Approved Supreme 4K Display Selection The Best of Ten</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition/"><u>2024 Approved The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-ultimate-collection-of-42-premium-free-video-compression-tools/"><u>2024 Approved Unveiling the Ultimate Collection of 42 Premium Free Video Compression Tools</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-radeon-hd-4800-driver-upgrades/"><u>Accelerate Radeon HD 4800 Driver Upgrades</u></a></li>
+<li><a href="https://facebook.techidaily.com/delay-in-implementation-of-whatsapps-updated-privacy-terms/"><u>Delay in Implementation of WhatsApp's Updated Privacy Terms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-freefire-hashtags-to-skyrocket-video-views-on-youtube/"><u>Essential FreeFire Hashtags to Skyrocket Video Views on YouTube</u></a></li>
 </ul></div>
 

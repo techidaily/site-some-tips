@@ -1,7 +1,7 @@
 ---
 title: Boost Your Company's Appeal with Low-Code Tech Solutions - Insights From ZDNet
-date: 2024-09-17 15:41:11
-updated: 2024-09-20 11:38:28
+date: 2024-11-13T17:52:51.242Z
+updated: 2024-11-17T06:38:35.625Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -72,6 +86,19 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-examining-the-security-of-using-subforsup-for-youtube-fan-boost/"><u>[New] In 2024, Examining the Security of Using Subforsup for YouTube Fan Boost</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ignite-passion-a-selection-of-10-invigorating-films/"><u>[New] In 2024, Ignite Passion A Selection of 10 Invigorating Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tackling-fuzzy-visuals-on-online-video-platforms/"><u>[New] Tackling Fuzzy Visuals on Online Video Platforms</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-cutting-edge-crossfading-steps-for-logic-pro-users/"><u>[Updated] In 2024, Cutting-Edge Crossfading Steps for Logic Pro Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-6-platforms-facilitating-enterprise-social-synergy/"><u>[Updated] Top 6 Platforms Facilitating Enterprise-Social Synergy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-old-vhs-with-new-online-techniques/"><u>[Updated] Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>2024 Approved The Ultimate Mobile Cinema Showcase Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-troubleshooting-youtube-fixing-warped-video-frames/"><u>2024 Approved Troubleshooting YouTube Fixing Warped Video Frames</u></a></li>
+<li><a href="https://facebook.techidaily.com/differentiating-fact-from-fiction-in-jokes-at-facebook/"><u>Differentiating Fact From Fiction in Jokes at Facebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamline-caption-insertion-photos-app-tutorials-for-win-11/"><u>In 2024, Streamline Caption Insertion Photos App Tutorials for WIN 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-professional-ringtone-designer-guide/"><u>In 2024, Top Picks Professional Ringtone Designer Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tiktok-wallpaper-templates-uncovered/"><u>In 2024, Top TikTok Wallpaper Templates Uncovered</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 14 Pro Max</u></a></li>
+<li><a href="https://fox-info.techidaily.com/photo-booth-woes-why-videos-halt-for-2024/"><u>Photo Booth Woes Why Videos Halt for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/sale-alert-secure-your-discounted-8tb-samsung-t5-nvme-ssd-from-amazon-post-prime-day-up-to-36-off/"><u>Sale Alert! Secure Your Discounted 8TB Samsung T5 NVMe SSD From Amazon Post-Prime Day - Up to 36% Off!</u></a></li>
+<li><a href="https://common-error.techidaily.com/task-manager-not-responding-fixed/"><u>Task Manager Not Responding [Fixed]</u></a></li>
+</ul></div>
+

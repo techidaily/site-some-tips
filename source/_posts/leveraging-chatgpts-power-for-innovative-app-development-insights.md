@@ -1,7 +1,7 @@
 ---
 title: Leveraging ChatGPT's Power for Innovative App Development Insights
-date: 2024-09-17 13:25:30
-updated: 2024-09-20 10:16:33
+date: 2024-11-12T22:08:46.603Z
+updated: 2024-11-17T00:39:22.149Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/2024-approved-supreme-seminar-strategist-summit/"><u>2024 Approved Supreme Seminar Strategist Summit</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-7-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 7 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138544997-9781401941109-archetypes/"><u>Archetypes | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-with-a-smooth-run-of-wrc-1n-pc-now-solved/"><u>Enhance Your Gaming Experience with a Smooth Run of WRC 1N PC - Now Solved</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-agni-2-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Lava Agni 2 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-video-editor-comparing-inshots-features/"><u>In 2024, Top Video Editor Comparing InShot's Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-for-crafting-top-charting-youtube-titles/"><u>In 2024, Ultimate Guide for Crafting Top-Charting YouTube Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-guide-to-the-best-10-cost-free-photo-hosters/"><u>In 2024, Ultimate Guide to the Best 10 Cost-Free Photo Hosters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results/"><u>New 2024 Approved Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-snaps-a-step-by-step-guide-to-restoring-your-deactivated-snapchat/"><u>Revive Your Snaps: A Step-by-Step Guide to Restoring Your Deactivated Snapchat</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-ingenious-insights-a-comprehensive-diy-guide-to-using-your-software-toolkit-wisely/"><u>Stellar's Ingenious Insights: A Comprehensive DIY Guide to Using Your Software Toolkit Wisely</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tactics-overcoming-call-of-duty-warzone-screen-issues-top-fixes-to-try/"><u>Troubleshooting Tactics: Overcoming Call of Duty Warzone Screen Issues – Top Fixes to Try</u></a></li>
+</ul></div>
+

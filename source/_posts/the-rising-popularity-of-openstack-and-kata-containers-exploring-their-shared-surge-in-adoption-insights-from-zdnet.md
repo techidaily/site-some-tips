@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity of OpenStack & Kata Containers: Exploring Their Shared Surge in Adoption - Insights From ZDNet"
-date: 2024-09-17 23:27:17
-updated: 2024-09-20 11:26:51
+date: 2024-11-15T13:55:44.830Z
+updated: 2024-11-16T16:52:00.349Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +79,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-mastering-final-cut-the-ultimate-guide/"><u>[New] Mastering Final Cut The Ultimate Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms/"><u>[New] The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-tips-for-procuring-high-quality-background-imagery/"><u>[New] Top Tips for Procuring High-Quality Background Imagery</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unintended-tiktok-update-how-to-recover/"><u>[New] Unintended TikTok Update – How to Recover?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-the-potential-in-your-podcasts-xml-structure/"><u>[New] Unlocking the Potential in Your Podcast's XML Structure</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-gopro-hero5-captured-life-review/"><u>[Updated] 2024 Approved GoPro Hero5 Captured Life Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-free-stopwatches-without-a-price-tag/"><u>[Updated] Ultimate Free Stopwatches Without a Price Tag</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/drones-to-dream-innovative-editing-approaches/"><u>Drones to Dream Innovative Editing Approaches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-the-not-launching-error-in-hogwarts-legacy-updated-tips-for-202cu/"><u>Expert Advice: Resolving the 'Not Launching' Error in Hogwarts Legacy (Updated Tips for 202Cu)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-chatgpt-for-poetic-book-projects/"><u>Harnessing the Power of ChatGPT for Poetic Book Projects</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722888827110-how-to-get-netflix-up-and-running-again-on-your-lg-hdtv/"><u>How To Get Netflix Up and Running Again on Your LG HDTV</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-m6-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco M6 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>In 2024, Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>In 2024, The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-tutorial-how-to-restore-data-following-a-partial-disk-formatting/"><u>Step-by-Step Tutorial: How to Restore Data Following a Partial Disk Formatting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/sweet-slumber-scenes-video-critique-for-2024/"><u>Sweet Slumber Scenes Video Critique for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-to-becoming-an-exceptional-interviewer-for-2024/"><u>Unlocking The Secrets To Becoming An Exceptional Interviewer for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/video-editor-selection-guide-understanding-filmora-and-democracy-creator-for-2024/"><u>Video Editor Selection Guide Understanding Filmora and Democracy Creator for 2024</u></a></li>
+</ul></div>
+

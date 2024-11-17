@@ -1,7 +1,7 @@
 ---
 title: Laugh - Giggle
-date: 2024-09-19 20:52:18
-updated: 2024-09-20 11:59:32
+date: 2024-11-14T09:13:34.025Z
+updated: 2024-11-17T02:24:31.112Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +86,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-innovations-for-crafting-striking-fb-video-ads/"><u>[New] In 2024, Innovations for Crafting Striking FB Video Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-imaging-why-hdr-sets-the-standard-over-sdr/"><u>[New] Superior Imaging Why HDR Sets the Standard Over SDR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-display-decoded-benqs-bl2711u-and-its-professional-impact/"><u>[New] The Ultimate Display Decoded BenQ’s BL2711U and Its Professional Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-unleash-creativity-with-free-text-visualizers-online/"><u>[New] Top Picks Unleash Creativity with Free Text Visualizers Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-3d-to-immersive-understanding-virtual-realitys-evolution/"><u>2024 Approved From 3D to Immersive Understanding Virtual Reality's Evolution</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/direct-connection-navigating-desktop-display-integration-on-facebook-for-2024/"><u>Direct Connection Navigating Desktop Display Integration on Facebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-mobile-videography-6-pioneering-apps-beyond-periscope/"><u>In 2024, The Future of Mobile Videography 6 Pioneering Apps Beyond Periscope</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unlock-the-power-of-freeze-frames-tips-and-tricks-for-video-editors/"><u>In 2024, Unlock the Power of Freeze Frames Tips and Tricks for Video Editors</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-wax-101-learn-how-to-edit-videos-with-this-free-video-editor/"><u>New Wax 101 Learn How to Edit Videos with This Free Video Editor</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/standardized-youtube-images-made-accessible-3-easy-ways-to-download/"><u>Standardized YouTube Images Made Accessible 3 Easy Ways to Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-noobs-manual-to-saving-streaming-radio-lines-for-2024/"><u>The Noob's Manual to Saving Streaming Radio Lines for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic5-ultimate-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic5 Ultimate</u></a></li>
+</ul></div>
+

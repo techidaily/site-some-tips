@@ -1,7 +1,7 @@
 ---
 title: "Transforming Teams with Intelligence: How Microsoft's Innovative AI Copilot Could Reshape Workflow and Achievements | Perspectives by ZDNet"
-date: 2024-09-17 22:43:29
-updated: 2024-09-20 12:31:37
+date: 2024-11-12T01:26:08.739Z
+updated: 2024-11-17T05:45:45.161Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-swift-tactics-for-slideshow-storage-for-2024/"><u>[New] Swift Tactics for Slideshow Storage for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-mea/"><u>[Updated] Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unveiling-samsungs-picture-editor-features-and-drawbacks/"><u>[Updated] In 2024, Unveiling Samsung's Picture Editor Features & Drawbacks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-reveling-in-the-highs-of-nature-with-garmins-ultra-30-for-2024/"><u>[Updated] Reveling in the Highs of Nature with Garmin's Ultra 30 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-announces-scott-opitz-as-new-cmo-exciting-times-ahead/"><u>ABBYY Announces Scott Opitz as New CMO: Exciting Times Ahead</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-finereader-et-ideticiel-accelere-le-tri-du-courrier-dans-les-communes-avec-larchivage-numerique/"><u>ABBYY FineReader Et IDéticiel Accélère Le Tri Du Courrier Dans Les Communes Avec L'Archivage Numérique</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-finereader-fur-blinde-und-sehschwache-schulerinnen-uberwindet-lernbarrieren-mit-spracherkennungstechnologie/"><u>ABBYY FineReader Für Blinde Und Sehschwache SchülerInnen - Überwindet Lernbarrieren Mit Spracherkennungstechnologie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-unveils-cutting-edge-digital-tools-to-streamline-legal-practices-during-the-2020-american-bar-association-technology-exhibition/"><u>ABBYY Unveils Cutting-Edge Digital Tools to Streamline Legal Practices During the 2020 American Bar Association Technology Exhibition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-latest-sdk-revolutionizes-receipt-digitization-with-cutting-edge-features/"><u>ABBYY's Latest SDK Revolutionizes Receipt Digitization with Cutting-Edge Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/adrian-jones-appointed-as-new-chief-revenue-officer-at-abbyy/"><u>Adrian Jones Appointed as New Chief Revenue Officer at ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advanced-analytics-driven-by-innovative-cookiebot-solutions/"><u>Advanced Analytics Driven by Innovative Cookiebot Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-site-with-cookiebot-technology-a-comprehensive-tracking-solution/"><u>Boost Your Site with Cookiebot Technology - A Comprehensive Tracking Solution</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-jabra-talk-45-clarity-and-battery-stamina/"><u>Comprehensive Review of Jabra Talk 45: Clarity and Battery Stamina</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-meizu-21-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Meizu 21 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c22-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C22 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-to-the-freshest-samsung-m2070-driver-software-with-ease/"><u>Upgrade to the Freshest Samsung M2070 Driver Software with Ease</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-card-error-43-sorted-out/"><u>Video Card Error 43 Sorted Out</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-timeline-connector-for-alteryx-abbyy/"><u>ビジネス分析を強化するABBYY Timeline Connector for Alteryx® - ABBYYブログでの完全ガイド</u></a></li>
+</ul></div>
+

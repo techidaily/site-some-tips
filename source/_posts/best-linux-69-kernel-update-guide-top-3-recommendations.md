@@ -1,7 +1,7 @@
 ---
 title: "Best Linux 6.9 Kernel Update Guide: TOP 3 Recommendations"
-date: 2024-09-17 20:27:27
-updated: 2024-09-20 11:21:19
+date: 2024-11-14T22:38:47.937Z
+updated: 2024-11-17T03:47:34.145Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-artistic-eye-with-toolwiz-an-in-depth-look-at-the-photosapp-2023-edition/"><u>[New] The Artistic Eye with Toolwiz An In-Depth Look at the PhotosApp, 2023 Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-ultimate-obs-studio-guide-to-facebook-live-broadcasts/"><u>[Updated] 2024 Approved The Ultimate OBS Studio Guide to Facebook Live Broadcasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-edit-text-in-image-photo-text-editor-online-and-app/"><u>[Updated] In 2024, How to Edit Text in Image? [Photo Text Editor Online and App]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>[Updated] Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-mighty-flyers-best-drones-for-maximum-load/"><u>2024 Approved The Mighty Flyers Best Drones for Maximum Load</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-transforming-industries-via-vr/"><u>2024 Approved Transforming Industries via VR</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-prodigy-strategies-for-enthusiasts-in-seo/"><u>2024 Approved Unveiling Prodigy Strategies for Enthusiasts in SEO</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-bypass-or-reset-your-login-pin-on-windows-10-easily/"><u>How to Bypass or Reset Your Login PIN on Windows 10 Easily</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>In 2024, From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-chromes-picture-in-picture-feature/"><u>In 2024, The Ultimate Guide to Chrome's Picture In Picture Feature</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-ultimate-lens-selection-tips-for-vloggers-and-editors/"><u>In 2024, Ultimate Lens Selection Tips for Vloggers & Editors</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/securite-movavi-comprendre-lefficacite-du-site-web-et-des-applications-dans-la-prevention-des-risques-informatiques/"><u>Sécurité Movavi : Comprendre L'efficacité Du Site Web Et Des Applications Dans La Prévention Des Risques Informatiques.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-role-of-authenticity-in-client-generated-marketing-for-2024/"><u>The Role of Authenticity in Client-Generated Marketing for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-high-definition-showdown-comparing-8k-tvs/"><u>The Ultimate High-Definition Showdown Comparing 8K TVs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unparalleled-8-webcams-elevate-your-livestream-experience-for-2024/"><u>Unparalleled 8 Webcams Elevate Your Livestream Experience for 2024</u></a></li>
+</ul></div>
+

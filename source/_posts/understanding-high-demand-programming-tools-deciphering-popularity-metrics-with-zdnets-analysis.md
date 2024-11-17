@@ -1,7 +1,7 @@
 ---
 title: "Understanding High-Demand Programming Tools: Deciphering Popularity Metrics with ZDNet's Analysis"
-date: 2024-09-18 11:56:36
-updated: 2024-09-20 10:43:33
+date: 2024-11-09T22:24:52.636Z
+updated: 2024-11-16T22:40:25.220Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +125,19 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-missing-codec-0xc00d5212-error-on-window-1110/"><u>[FIXED] Missing Codec 0Xc00d5212 Error on Window 11/10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-ascending-with-aerial-artistry-9-top-editors-for-diverse-levels/"><u>[New] Ascending with Aerial Artistry 9 Top Editors For Diverse Levels</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-countdown-creation-in-obs-step-by-step-guide/"><u>[New] In 2024, Countdown Creation in OBS Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-communication-the-art-of-using-zoom-in-win11/"><u>[New] Streamlining Communication The Art of Using Zoom in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-haul-video-guide-from-camera-to-final-cut/"><u>[New] The Ultimate Haul Video Guide From Camera to Final Cut</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-video-grabber-software-in-windows-11/"><u>[Updated] In 2024, Mastering Video Grabber Software in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-impact-of-music-on-a-trailers-emotional-pull/"><u>[Updated] The Impact of Music on a Trailer's Emotional Pull</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-srt-file-integration-on-digital-platforms/"><u>2024 Approved Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-exclusive-list-of-elite-christian-streaming-services/"><u>2024 Approved The Exclusive List of Elite Christian Streaming Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-images-with-text-a-windowsmacos-expertise-guide/"><u>2024 Approved Transform Your Images with Text A Windows/MacOS Expertise Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uniting-voices-how-to-speak-with-your-youtube-community/"><u>2024 Approved Uniting Voices How to Speak With Your YouTube Community</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/practices-in-choosing-the-perfect-format-for-youtube-videos/"><u>Best Practices in Choosing the Perfect Format for YouTube Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-complete-circle-cinematic-mounts/"><u>In 2024, Complete Circle Cinematic Mounts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleashing-voice-windows-10-audio-basics/"><u>In 2024, Unleashing Voice Windows 10 Audio Basics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-13-mini-5-ways-to-get-into-a-locked-iphone-13-mini-drfone-by-drfone-ios/"><u>Locked Out of iPhone 13 mini? 5 Ways to get into a Locked iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/online-kosteloos-nsv-tot-mp3-konvertor-proficiat-met-movavi/"><u>Online Kosteloos NSV Tot MP3 Konvertor - Proficiat Met Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-with-immediate-discount-on-the-nvidia-rtx-nvidia-3070-special-offer-at-zdnet/"><u>Save Big with Immediate Discount on the Nvidia RTX nVIDIA 3070 - Special Offer at ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tech-trial-vlle-outlook-on-apps-for-2024/"><u>Tech Trial VLLE Outlook on Apps for 2024</u></a></li>
+</ul></div>
+

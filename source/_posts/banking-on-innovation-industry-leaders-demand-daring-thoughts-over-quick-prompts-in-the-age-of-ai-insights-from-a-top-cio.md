@@ -1,7 +1,7 @@
 ---
 title: "Banking on Innovation: Industry Leaders Demand Daring Thoughts Over Quick Prompts in the Age of AI - Insights From a Top CIO"
-date: 2024-09-18 13:50:55
-updated: 2024-09-20 10:34:53
+date: 2024-11-16T04:56:56.977Z
+updated: 2024-11-16T18:35:26.134Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -80,6 +87,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-your-step-by-step-guide-to-downloading-youtube-srt-files-effortlessly/"><u>[Updated] 2024 Approved Your Step-by-Step Guide to Downloading YouTube SRT Files Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-srt-expertise-essential-insights-for-2024/"><u>[Updated] Unlocking SRT Expertise Essential Insights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-e-importar-videos-desde-youtube-sin-costo-alguno-con-la-herramienta-de-conversion-movavi/"><u>Descargar E Importar Videos Desde YouTube Sin Costo Alguno Con La Herramienta De Conversión MOVAVI</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-home-network-a-detailed-evaluation-of-the-netgear-ac1200-wireless-expander-ex6200/"><u>Enhancing Your Home Network: A Detailed Evaluation of the Netgear AC1200 Wireless Expander (EX6200)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expert-tips-top-free-tools-to-extract-and-save-instagram-videos-windowsos-x-for-2024/"><u>Expert Tips Top Free Tools to Extract and Save Instagram Videos (Windows/OS X) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-converting-web-files-with-movavi-omzetten-online/"><u>Gratis Converting Web Files with Movavi - Omzetten Online</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c32-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C32 Phones with/without a PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instant-slideshow-creator-download-now/"><u>Instant Slideshow Creator - Download Now!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-video-editeur-dachat-transactions-protegees-en-gros-et-soldes-inedits/"><u>Movavi Vidéo Éditeur D'Achat - Transactions Protegées en Gros Et Soldes Inédits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streaming-made-simple-free-downloader-to-mp3s-now-in-2024/"><u>Streaming Made Simple Free Downloader to MP3s Now, In 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switch-your-videos-from-mp4-to-asf-seamlessly-get-started-now-no-cost-involved/"><u>Switch Your Videos From MP4 to ASF Seamlessly - Get Started Now, No Cost Involved!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wav-wma-movavi/"><u>온라인 제공: WAV-WMA 변환은 세금 지불 없이 가능하며, Movavi로!</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Tech Breakthrough: Artificial Intelligence Pioneer Ceremorphic Reveals New Chip Technology on ZDNet"
-date: 2024-09-19 15:36:46
-updated: 2024-09-20 12:36:22
+date: 2024-11-10T03:16:06.114Z
+updated: 2024-11-17T06:53:18.082Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>[Updated] 2024 Approved Easy-to-Follow Guide Leveraging Mobizen Screensaver</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-excellence-on-screen-the-top-15-in-stop-motion-cinema/"><u>[Updated] Excellence on Screen The Top 15 in Stop Motion Cinema</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-assessing-gopro-hero5-session-quality/"><u>2024 Approved Assessing GoPro Hero5 Session Quality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-audience-to-advocate-strategies-for-powerful-fb-covers/"><u>2024 Approved From Audience to Advocate Strategies for Powerful FB Covers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-for-creating-standout-instagram-collages/"><u>2024 Approved Innovative Methods for Creating Standout Instagram Collages</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-newest-innovation-unveiled-the-apple-m4-chip-launch-details-and-technical-specifications/"><u>Apple's Newest Innovation Unveiled: The Apple M4 Chip - Launch Details & Technical Specifications</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-moto-e13-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Moto E13 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-aiff-a-wmv-su-internet-utilizzando-movavi-il-processo-facile/"><u>Conversione Libera AIFF a WMV Su Internet Utilizzando Movavi - Il Processo Facile!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-un-fichier-mp2-au-format-mp4-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Un Fichier MP2 Au Format MP4 Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-selection-of-no-cost-audio-converters-for-windows-and-macos-including-web-apps-a-review-by-movavi/"><u>Discover the Ultimate Selection of No-Cost Audio Converters for Windows and macOS, Including Web Apps - A Review by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flac-to-avi-converteer-gratis-en-online-movavi-navigatie/"><u>Flac-to-Avi Converteer Gratis en Online - Movavi Navigatie</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-converter-online-de-midia-do-caf-para-mp3-pelo-movavi/"><u>Gratuito Converter Online De Mídia Do CAF Para MP3 Pelo Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-3gpp-wav/"><u>Movaviですばやく変換! 無料オンライン3GPP WAVファイル - 最適化ガイド付き</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-sizing-your-videos-perfectly-for-tiktok-on-any-device/"><u>Ultimate Guide: Sizing Your Videos Perfectly for TikTok on Any Device</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revamping Your Approach: Transforming How You Attract and Recruit Technical Expertise"
-date: 2024-09-18 14:47:15
-updated: 2024-09-20 10:30:39
+date: 2024-11-11T06:22:10.649Z
+updated: 2024-11-17T10:26:57.674Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-comprehensive-sync-protocol-for-iphone-to-snapchat-media/"><u>[New] 2024 Approved Comprehensive Sync Protocol for iPhone to Snapchat Media</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-incorporating-tracks-into-online-visual-narratives/"><u>[New] Incorporating Tracks Into Online Visual Narratives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-breaking-ground-video-capture-breakdown-for-2024/"><u>[Updated] Breaking Ground Video Capture Breakdown for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-no-more-costs-discover-best-free-camera-screen-recorder-apps/"><u>[Updated] In 2024, No More Costs? Discover Best FREE Camera Screen Recorder Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-full-potential-mac-plus-obs-plus-streamlabs/"><u>[Updated] Unlock Full Potential Mac + OBS + Streamlabs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-honor-70-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Honor 70 Lite 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unique-book-trail-showcases/"><u>In 2024, Unique Book Trail Showcases</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essence-of-chuckles-in-single-photos-for-2024/"><u>The Essence of Chuckles in Single Photos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-handbook-for-iphone-ringtone-tweaking-for-2024/"><u>The Essential Handbook for iPhone Ringtone Tweaking for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-tricks-for-transforming-videos-on-iphone-by-merging-melodies-for-2024/"><u>Three Tricks for Transforming Videos on iPhone by Merging Melodies for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring ChatGPT's Remarkable Yet Boundary-Limited Memory Capabilities: An Insightful Perspective"
-date: 2024-09-17 21:40:16
-updated: 2024-09-20 12:42:13
+date: 2024-11-15T16:55:08.013Z
+updated: 2024-11-17T08:50:03.184Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +74,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +131,19 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-jumping-from-windows-how-to-get-to-windows-11/"><u>[New] Jumping From Windows How to Get to Windows 11?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-free-tools-for-flawless-srt-conversion/"><u>[New] Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-apowersoft-masterclass-top-pc-screen-recorder-analysis/"><u>[Updated] 2024 Approved Apowersoft Masterclass Top PC Screen Recorder Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-webs-whiz-kids-10-highest-viewing-stars/"><u>[Updated] 2024 Approved Web's Whiz Kids 10 Highest Viewing Stars</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/"><u>[Updated] Top Tunes Where to Secure Soundscapes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-azure-speech-to-text-use/"><u>2024 Approved Advanced Techniques for Azure Speech to Text Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-macs-premier-mkv-player-picks/"><u>2024 Approved Mac's Premier MKV Player Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-sky-high-drone-competition-guide-plus-5-innovative-fpv-systems/"><u>2024 Approved Sky High Drone Competition Guide + 5 Innovative FPV Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-dji-phantom-4-extension-kit-list/"><u>In 2024, The Ultimate DJI Phantom 4 Extension Kit List</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-install-thrustmaster-t150-controller-software-and-drivers/"><u>Instant Install: Thrustmaster T150 Controller Software and Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/must-watch-kid-friendly-flicks-on-netflix/"><u>Must-Watch Kid-Friendly Flicks on Netflix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/polaroid-xs-100i-action-camera-review/"><u>Polaroid XS 100I Action Camera Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-data-management-5-leading-cloud-providers-for-2024/"><u>Streamlining Data Management 5 Leading Cloud Providers for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/tackling-misinformation-how-social-networks-are-evolving/"><u>Tackling Misinformation: How Social Networks Are Evolving</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-excellent-monitors-for-photo-professionals-for-2024/"><u>The Ultimate Guide to Excellent Monitors for Photo Professionals for 2024</u></a></li>
+</ul></div>
+

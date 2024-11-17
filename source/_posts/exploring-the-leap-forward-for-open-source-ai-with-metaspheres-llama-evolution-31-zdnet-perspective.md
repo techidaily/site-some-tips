@@ -1,7 +1,7 @@
 ---
 title: Exploring the Leap Forward for Open Source AI with Metasphere's Llama Evolution 3.1 - ZDNET Perspective
-date: 2024-09-18 17:43:23
-updated: 2024-09-20 12:25:27
+date: 2024-11-09T19:48:59.888Z
+updated: 2024-11-17T08:44:48.230Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -72,6 +79,19 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-platform-prowess-twitch-vs-youtube-comparison/"><u>[New] The Platform Prowess Twitch vs YouTube Comparison</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-transform-textual-treasures-ae-font-exploration/"><u>[New] Transform Textual Treasures AE Font Exploration</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-evaluating-radiant-qualities-of-hd-lighting/"><u>[Updated] 2024 Approved Evaluating Radiant Qualities of HD Lighting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-srt-to-subc-innovative-techniques-explored/"><u>[Updated] The Art of SRT to SUBC Innovative Techniques Explored</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tips-for-zoom-on-chrome-devices/"><u>[Updated] Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>[Updated] Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-teachers-guide-to-use-video-in-teaching/"><u>2024 Approved Teacher's Guide To Use Video In Teaching</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>2024 Approved The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-top-savings-premium-offers-on-acer-laptops-and-tablets-for-prime-day-237/"><u>Discover Top Savings: Premium Offers on Acer Laptops and Tablets for Prime Day 2^3_7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expanding-your-audience-on-youtube-step-by-step/"><u>Expanding Your Audience on Youtube Step by Step</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ghostly-glimpses-innovation-highlights-for-2024/"><u>Ghostly Glimpses Innovation Highlights for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210266263-9781644114513-how-to-become-a-mermaid/"><u>How to Become a Mermaid | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-establish-an-oculus-meta-headset-account-for-beginners/"><u>How To Establish An Oculus Meta Headset Account For Beginners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synopsis-of-crowd-opinions-on-vllo/"><u>In 2024, Synopsis of Crowd Opinions on VLLO</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-monetary-scope-of-mr-beasts-ventures/"><u>In 2024, The Monetary Scope of Mr. Beast’s Ventures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>In 2024, The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unbeatable-windows-chat-providers-3-1-ranked-for-2024/"><u>Unbeatable Windows Chat Providers, #3-#1 Ranked for 2024</u></a></li>
+</ul></div>
+

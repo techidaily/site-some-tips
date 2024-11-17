@@ -1,7 +1,7 @@
 ---
 title: "Rise of the Tech Heroes: How Citizen Developers Are Mastering AI with Ease - Discover Their Power!"
-date: 2024-09-18 15:10:53
-updated: 2024-09-20 12:56:33
+date: 2024-11-13T17:10:10.982Z
+updated: 2024-11-17T07:03:05.903Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-iphone-techniques-for-seamless-image-to-pdf-conversion/"><u>[Updated] 2024 Approved IPhone Techniques for Seamless Image-to-PDF Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-eliminating-vibrational-distortion-in-drone-footage/"><u>[Updated] Eliminating Vibrational Distortion in Drone Footage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-samsung-galaxy-s24-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Samsung Galaxy S24 Phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-top-2023-no-cost-live-stream-tools-cross-platform-edition/"><u>In 2024, Top 2023 No-Cost Live Stream Tools Cross-Platform Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-genuine-consumer-centric-approach-now-at-the-forefront-of-insurance-claims/"><u>Is Genuine Consumer-Centric Approach Now at the Forefront of Insurance Claims?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leverage-advanced-traffic-insights-the-power-of-cookiebot-technology-on-websites/"><u>Leverage Advanced Traffic Insights: The Power of Cookiebot Technology on Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-abbyys-text-recognition-vw-explores-enhanced-infotainment-tech/"><u>Leveraging ABBYY's Text Recognition: VW Explores Enhanced Infotainment Tech</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-advanced-website-insights-and-customized-content/"><u>Leveraging Cookiebot Technology for Advanced Website Insights and Customized Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-mental-clarity-tips-on-quieting-phones-organizing-thoughts-and-reflective-introspection-from-the-abbyy-experts/"><u>Mastering Mental Clarity: Tips on Quieting Phones, Organizing Thoughts, and Reflective Introspection From the ABBYY Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-marketplace-strategies-from-the-abbyy-ai-hub/"><u>Navigating the Marketplace: Strategies From the ABBYY AI Hub</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-through-artificial-intelligence-myths-key-takeaways-from-the-latest-abbyy-ai-summit/"><u>Navigating Through Artificial Intelligence Myths: Key Takeaways From the Latest ABBYY AI Summit</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/z7-camera-analysis-near-perfect-in-every-aspect-by-nikon/"><u>Z7 Camera Analysis: Near-Perfect in Every Aspect by Nikon</u></a></li>
+</ul></div>
+

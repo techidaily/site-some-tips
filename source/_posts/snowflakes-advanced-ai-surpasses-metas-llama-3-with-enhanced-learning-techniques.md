@@ -1,7 +1,7 @@
 ---
 title: Snowflake's Advanced AI Surpasses Meta's LLaMA-3 with Enhanced Learning Techniques
-date: 2024-09-19 18:25:59
-updated: 2024-09-20 10:30:42
+date: 2024-11-12T22:42:31.133Z
+updated: 2024-11-16T18:43:14.371Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,11 +74,37 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +143,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +195,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-unboxing-adventure-boosting-customer-delight-for-2024/"><u>[New] The Ultimate Unboxing Adventure Boosting Customer Delight for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-art-of-converting-youtube-to-interactive-animated-gifs-for-2024/"><u>[Updated] Mastering the Art of Converting YouTube to Interactive Animated GIFs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-basics-of-asmr-video-content/"><u>[Updated] Mastering the Basics of ASMR Video Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-obten-la-ultima-version-de-obs-studio-para-windows-mac-y-linux-descargar-e-instalar-facilmente/"><u>1. Obtén La Última Versión De OBS Studio Para Windows, Mac Y Linux: Descargar E Instalar Fácilmente</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-sans-frais-transformer-des-fichiers-wtv-en-mp4-via-internet-logiciel-video-movavi/"><u>Conversion Sans Frais: Transformer Des Fichiers WTV en MP4 via Internet - Logiciel Vidéo Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-leading-edge-of-editing-software-for-your-computer-exceptional-alternatives-to-desktop-inshot/"><u>Discover the Leading Edge of Editing Software for Your Computer: Exceptional Alternatives to Desktop InShot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-convertiren-van-flac-naar-avi-avi-moveave/"><u>Gratuit Online - Convertiren Van Flac Naar Avi Avi - Moveave</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>In 2024, From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/popular-selections-enjoy-these-free-movies-on-youtube-for-july-2024/"><u>Popular Selections: Enjoy These Free Movies on YouTube for July 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategies-for-adequate-lighting-in-youtube-videos-for-2024/"><u>Strategies for Adequate Lighting in YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-content-advanced-youtube-video-editing-strategies-for-2024/"><u>Streamline Content Advanced Youtube Video Editing Strategies for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transcode-audio-effortlessly-2-costless-techniques-for-changing-aud-into-mp3-format/"><u>Transcode Audio Effortlessly: 2 Costless Techniques for Changing AUD Into MP3 Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-qt-directamente-en-gifs-gratis-y-faciles-el-mejor-herramienta-online-de-movavi/"><u>Transformar Archivos QT Directamente en GIFs Gratis Y Fáciles: El Mejor Herramienta Online De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-imagens-webp-em-gifs-ferramentas-e-dicas-especializadas/"><u>Transformar Imagens WebP Em GIFs: Ferramentas E Dicas Especializadas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-jpeg-em-gif-sem-custo-com-o-conversor-da-movavi-versao-web-livre-e-gratuita/"><u>Transformar JPEG Em GIF Sem Custo Com O Conversor Da Movavi - Versão Web Livre E Gratuita</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleashing-the-best-ai-gpt-showdown-with-microsoft-and-google-bard/"><u>Unleashing the Best AI: GPT Showdown with Microsoft and Google Bard</u></a></li>
+</ul></div>
+

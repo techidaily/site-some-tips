@@ -1,7 +1,7 @@
 ---
 title: "Install the Latest Glorious 64-Bit Operating System on Your Raspberry Pi: A Step-by-Step Tutorial | ZDNET"
-date: 2024-09-17 14:14:23
-updated: 2024-09-20 12:20:19
+date: 2024-11-10T08:32:02.736Z
+updated: 2024-11-17T04:30:04.403Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -73,6 +87,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-fix-in-a-flash-rapid-recovery-techniques-for-disrupted-fb-lives/"><u>[New] Fix in a Flash Rapid Recovery Techniques for Disrupted FB Lives</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-maximize-impact-crafting-a-standout-video-ending/"><u>2024 Approved Maximize Impact Crafting a Standout Video Ending</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-success-in-live-streaming-of-cricket-matches/"><u>2024 Approved Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/changing-your-protonvpn-login-details-steps-and-security-tips/"><u>Changing Your ProtonVPN Login Details: Steps & Security Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-xr-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone XR Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/effortless-youtube-live-with-step-by-step-obs-guide-for-beginners-for-2024/"><u>Effortless YouTube Live with Step-by-Step OBS Guide for Beginners for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-wi-fi-experience-free-download-of-killer-network-driver-update-supported-on-windows-1187/"><u>Enhance Your Wi-Fi Experience: Free Download of Killer Network Driver Update Supported on Windows 11/8/7</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-s23-fe-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy S23 FE Device</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-ultimate-guide-10-budget-friendly-online-tools-to-convert-mp3s-into-text-documents/"><u>In 2024, Ultimate Guide 10 Budget-Friendly Online Tools to Convert MP3s Into Text Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/meet-vivetool-a-windows-users-guide-to-future-functionality/"><u>Meet ViVeTool: A Windows User's Guide to Future Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-srt-enhancements-maximizing-performance-on-both-platforms-for-2024/"><u>Top SRT Enhancements Maximizing Performance on Both Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-4k-potential-an-in-depth-look-at-dell-p2715q-for-2024/"><u>Unlocking 4K Potential An In-Depth Look at Dell P2715Q for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases-for-2024/"><u>Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Dyson Launches Revolutionary OnTrac Wireless Earbuds: A Bold Competitor for Apple's AirPods Pro?"
-date: 2024-11-02T01:08:01.712Z
-updated: 2024-11-07T08:51:41.975Z
+date: 2024-11-16T13:37:00.343Z
+updated: 2024-11-17T12:00:10.061Z
 tags:
   - apple
 categories:
@@ -45,22 +45,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -71,10 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -84,10 +77,10 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -95,6 +88,19 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -130,15 +136,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-complete-hand-tracking-encyclopedia/"><u>[New] The Complete Hand-Tracking Encyclopedia</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-protecting-integrity-while-boosting-your-youtube-followers-count/"><u>[Updated] 2024 Approved Protecting Integrity While Boosting Your YouTube Followers Count</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>[Updated] The Seamless Storyteller Leveraging Inshot for Elegant Transitions</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1725289937287-mp4avi/"><u>「MP4に簡単に変換できる無料AVIファイル方法」</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>2024 Approved Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-12-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 12 Without Previous Owner?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/lunch-whole-grain-wrap-filled-with-lean-turkey-breast-avocado-lettuce-tomato-and-mustard-sauce-side-of-carrot-sticks-and-hummus/"><u>Lunch: Whole Grain Wrap Filled with Lean Turkey Breast, Avocado, Lettuce, Tomato, and Mustard Sauce. Side of Carrot Sticks and Hummus.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/powerful-performance-on-screen-the-definitive-gigabyte-aorus-oled-monitor-guide-with-rich-colors-and-dynamic-range/"><u>Powerful Performance on Screen: The Definitive Gigabyte Aorus OLED Monitor Guide with Rich Colors & Dynamic Range</u></a></li>
-<li><a href="https://some-tips.techidaily.com/symbolizing-sound-designing-a-captivating-podcast-image-for-2024/"><u>Symbolizing Sound Designing a Captivating Podcast Image for 2024</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/transitioning-ebooks-how-to-change-epub-files-into-a-kindle-compatible-format/"><u>Transitioning eBooks: How to Change EPUB Files Into a Kindle-Compatible Format</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-flawless-photo-management-on-iphone-size-adjustment-basics-for-2024/"><u>[New] Flawless Photo Management on iPhone Size Adjustment Basics for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-dji-inspire-2-analysis/"><u>[New] Full Breakdown DJI Inspire 2 Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-audio-transformation-tools-unleash-voices/"><u>[New] Superior Audio Transformation Tools Unleash Voices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>[New] Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[New] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-money-potential-a-beginners-guide-on-periscope/"><u>[New] Unlocking Money Potential A Beginner's Guide on Periscope</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-step-by-step-webcam-recording-on-macbook/"><u>[Updated] 2024 Approved Step-by-Step Webcam Recording on MacBook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-mac-display-utilizing-picture-in-picture-multimedia-features/"><u>[Updated] Transform Your Mac Display Utilizing Picture in Picture Multimedia Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevating-video-post-visibility-on-fb-groups/"><u>2024 Approved Elevating Video Post Visibility on FB Groups</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-marketing-strategy/"><u>2024 Approved Unboxing Marketing Strategy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-techniques-to-access-and-disable-your-iphone-in-recovery-mode/"><u>Comprehensive Techniques to Access and Disable Your iPhone in Recovery Mode</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-time-intensive-gpsvc-hangs/"><u>Eliminating Time-Intensive GPSVC Hangs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-13-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 13?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-speed-up-your-pcs-shutdown-process-in-windows-10/"><u>How to Speed Up Your PC's Shutdown Process in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artists-blueprint-10-tips-for-podcast-cover-success/"><u>In 2024, The Artist's Blueprint 10 Tips for Podcast Cover Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-understanding-pixel-performance-from-a-start/"><u>In 2024, Understanding Pixel Performance From a Start</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-hilarity-driven-ringtones-for-laughter-lovers-for-2024/"><u>Top Picks Hilarity-Driven Ringtones for Laughter Lovers for 2024</u></a></li>
 </ul></div>
 

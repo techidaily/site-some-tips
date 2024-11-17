@@ -1,7 +1,7 @@
 ---
 title: Evolving Developer Choices Reshape Your Technology Roadmap - Can't Ignore the Shift! | ZDNet
-date: 2024-09-17 20:45:33
-updated: 2024-09-20 12:35:20
+date: 2024-11-15T01:09:35.166Z
+updated: 2024-11-17T10:59:17.352Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-guide-to-creating-engaging-video-posts/"><u>[New] The Ultimate Guide to Creating Engaging Video Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-social-media-viewing-sites-fb-1-10-for-2024/"><u>[New] Top Social Media Viewing Sites (FB) #1-10 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unrivaled-vr-sets-for-aerial-adventures/"><u>[New] Unrivaled VR Sets for Aerial Adventures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-close-up-shots-zooming-into-action-films/"><u>[Updated] In 2024, Mastering Close-Up Shots Zooming Into Action Films</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-list-empowering-film-suggestions/"><u>2024 Approved The Ultimate List Empowering Film Suggestions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-low-cost-video-compacting-tools-for-android-devices/"><u>2024 Approved Top 7 Low-Cost Video Compacting Tools for Android Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-turning-twitter-videos-into-audible-mp3s/"><u>2024 Approved Turning Twitter Videos Into Audible MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-mute-mode-in-zoom-on-windows-and-mac-audio-recovery-tips-inside/"><u>Eliminate Mute Mode in Zoom on Windows & Mac – Audio Recovery Tips Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-14-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 14 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-path-to-podcast-success-through-seo-excellence/"><u>In 2024, The Ultimate Path to Podcast Success Through SEO Excellence</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-editing-shines-with-magix-video-pro-x-for-2024/"><u>The Future of Editing Shines with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tips-and-tricks-elevating-your-images-with-text-editing-for-2024/"><u>Tips & Tricks Elevating Your Images with Text Editing for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722886510150-top-ipad-offers-and-discounts-shop-smart-today/"><u>Top iPad Offers and Discounts: Shop Smart Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trim-videos-with-flair-in-windows-11-photo-apps-for-2024/"><u>Trim Videos with Flair in Windows 11 Photo Apps for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-create-lip-sync-tiktok-videos-without-installing-any-app/"><u>Updated In 2024, Create Lip Sync TikTok Videos Without Installing Any App</u></a></li>
+<li><a href="https://fox-within.techidaily.com/when-diluting-or-concentrating-solutions-adjust-amounts-proportionally-to-keep-the-same-concentration/"><u>When Diluting or Concentrating Solutions, Adjust Amounts Proportionally to Keep the Same Concentration.</u></a></li>
+</ul></div>
+

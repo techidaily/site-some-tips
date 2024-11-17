@@ -1,7 +1,7 @@
 ---
 title: "Get Started with DevOps on a Budget: Exclusive Linux Foundation's Affordable Bootcamp - Spotted by ZDNet!"
-date: 2024-09-18 16:38:55
-updated: 2024-09-20 10:11:54
+date: 2024-11-15T13:14:32.358Z
+updated: 2024-11-16T20:48:46.931Z
 tags:
   - developer
 categories:
@@ -47,6 +47,19 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-hunt-for-heated-online-hearings/"><u>[Updated] In 2024, Hunt for Heated Online Hearings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-profiling-excellence-a-guide-to-refined-youtube-summaries/"><u>[Updated] Profiling Excellence A Guide to Refined YouTube Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversion-avi-gratuit-sur-ligne-changer-des-fichiers-wav-a-laide-de-movavi/"><u>Conversion AVI Gratuit Sur Ligne - Changer Des Fichiers WAV À L'aide De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargue-e-instale-la-nueva-aplicacion-de-conversion-virgenes-para-convertir-archivos-mkv-a-m2ts-sin-coste/"><u>Descargue E Instale La Nueva Aplicación De Conversión Vírgenes Para Convertir Archivos MKV a M2TS Sin Coste</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/discovering-cutting-edge-innovations-the-intersection-of-ai-and-process-mining-today/"><u>Discovering Cutting-Edge Innovations: The Intersection of AI and Process Mining Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-quickly-transform-wav-files-into-m4a-format-with-movavi/"><u>Free Online Tool: Quickly Transform WAV Files Into M4A Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-performance-optimization-eliminating-lag-issues/"><u>Guilty Gear Strive Performance Optimization - Eliminating Lag Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xr-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XR iOS System? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/jpg-image-te-een-gif-vervangen-gratis-met-de-kloknemers-van-movavi-online/"><u>JPG-Image Te Een Gif Vervangen Gratis Met De Kloknemers Van Movavi Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/losningarna-pa-vidaregnolligande-datorspel-tips-och-tricks-for-felaktiga-videospel/"><u>Lösningarna På Vidaregnolligande Datorspel - Tips Och Tricks För Felaktiga Videospel</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-rainbow-six-extractions-pc-game-crashes/"><u>Troubleshooting Tips for Fixing Rainbow Six Extraction's PC Game Crashes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-activating-safe-mode-on-windows-8-to-remove-problematic-graphics-card-drivers/"><u>Troubleshooting Tips: Activating Safe Mode on Windows 8 to Remove Problematic Graphics Card Drivers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-capturing-screenshots-across-all-operating-systems-with-ease/"><u>Ultimate Guide: Capturing Screenshots Across All Operating Systems with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-list-of-complimentary-windows-compatible-moviemaking-tools-choices-for-wine-1187-enthusiasts/"><u>Ultimate List of Complimentary Windows-Compatible Moviemaking Tools: Choices for Wine 11/8/7 Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-windows-10s-latest-features-with-update-kb4103429-and-kb4013418/"><u>Understanding Windows 10'S Latest Features with Update KB4103429 & KB4013418</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Programming Newcomers: Accelerate Your Learning with Top 5 Linux Utilities Recommended by Experts at ZDNet"
-date: 2024-09-17 13:44:15
-updated: 2024-09-20 11:17:57
+date: 2024-11-14T01:00:13.931Z
+updated: 2024-11-16T18:32:40.415Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +74,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-battery-selection-guide-for-uavs/"><u>[New] The Ultimate Battery Selection Guide for UAVs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-insiders-guide-to-crafting-powerful-youtube-banners/"><u>[Updated] The Insider's Guide to Crafting Powerful YouTube Banners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-insights-into-audio-memos/"><u>[Updated] The Ultimate Insights Into Audio Memos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-workflow-with-leading-tts-apps-for-mac-users/"><u>2024 Approved Streamline Your Workflow with Leading TTS Apps for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unbeatable-range-ultimate-4k-camera-rig-selection/"><u>2024 Approved Unbeatable Range Ultimate 4K Camera Rig Selection</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/jpg-jpegtiff-movavi/"><u>無成本在線JPG JPEG到TIFF格式切換 - Movavi影片編輯器指南</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/concealing-identity-select-8-highly-effective-photo-editors/"><u>Concealing Identity Select 8 Highly Effective Photo Editors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-xiaomi-redmi-k70e-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Xiaomi Redmi K70E in Minutes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-y100-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo Y100 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>In 2024, Synergistic Campaigns Brands & YouTube Hand in Hand</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-premier-livestream-networks-you-need-to-watch/"><u>In 2024, The Premier Livestream Networks You Need To Watch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximize-video-clarity-and-performance-with-winxvideo-ai-enhancement-tools/"><u>Maximize Video Clarity and Performance with Winxvideo AI Enhancement Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tying-the-story-together-expert-techniques-for-inshots-seamless-segments-for-2024/"><u>Tying the Story Together Expert Techniques for Inshot's Seamless Segments for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-chromecast-streaming-any-video-format-made-easy-updated-2023/"><u>Updated Unlock Chromecast Streaming Any Video Format Made Easy (Updated 2023)</u></a></li>
+</ul></div>
+

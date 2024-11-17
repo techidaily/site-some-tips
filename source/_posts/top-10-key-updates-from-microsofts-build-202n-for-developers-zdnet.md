@@ -1,7 +1,7 @@
 ---
 title: Top 10 Key Updates From Microsoft's Build 202N for Developers - ZDNet
-date: 2024-09-19 15:44:36
-updated: 2024-09-20 10:53:11
+date: 2024-11-10T05:04:24.606Z
+updated: 2024-11-16T21:43:42.040Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-turn-popular-tiktok-tracks-into-practical-personalized-ringtones/"><u>[New] Turn Popular TikTok Tracks Into Practical, Personalized Ringtones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-your-creativity-effective-techniques-for-crafting-podcast-scripts/"><u>[New] Unleash Your Creativity Effective Techniques for Crafting Podcast Scripts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-privacy-prowess-how-to-disconnect-on-insta/"><u>[Updated] Privacy Prowess How to Disconnect on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-complete-guide-to-drone-racing-plus-high-speed-fpv-drones/"><u>[Updated] The Complete Guide to Drone Racing + High-Speed FPV Drones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-6-premium-background-erasers-for-photo-professionals/"><u>[Updated] Unveiling 6 Premium Background Erasers for Photo Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-quick-guide-to-innovative-voice-personalization-techniques/"><u>2024 Approved The Quick Guide to Innovative Voice Personalization Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-androids-best-speed-up-your-slow-video/"><u>In 2024, Android's Best Speed Up Your Slow Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-simplify-media-handling-with-top-18-free-converters-for-windowsmacos-users/"><u>In 2024, Simplify Media Handling With Top 18 Free Converters For Windows/macOS Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-roadmap-to-fame-unleashing-instagrams-9-powerful-techniques/"><u>In 2024, The Roadmap to Fame Unleashing Instagram's #9 Powerful Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-2023-reveal-anticipated-features-pricing-launch-timeline-and-latest-buzz/"><u>IPhone 2023 Reveal: Anticipated Features, Pricing, Launch Timeline & Latest Buzz</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/new-apple-gadgets-debut-stealthily-packing-personality-discover-the-latest-from-wwdc-a-techies-guide/"><u>New Apple Gadgets Debut Stealthily, Packing Personality - Discover the Latest From WWDC: A Techie's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/win10-computers-restart-unpredictably/"><u>Win10 Computers Restart Unpredictably</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/vob-movavi/"><u>オンラインでのVOBファイル無料変換 - Movaviプロジェクト</u></a></li>
+</ul></div>
+

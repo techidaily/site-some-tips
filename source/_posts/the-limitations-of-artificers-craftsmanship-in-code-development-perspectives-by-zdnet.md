@@ -1,7 +1,7 @@
 ---
 title: The Limitations of Artificer's Craftsmanship in Code Development - Perspectives by ZDNet
-date: 2024-09-18 19:27:23
-updated: 2024-09-20 12:38:34
+date: 2024-11-16T13:31:53.653Z
+updated: 2024-11-17T07:41:41.467Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -67,11 +81,31 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-demystifying-t-series-income-streams-via-youtube-platforms/"><u>[New] In 2024, Demystifying T-Series Income Streams via YouTube Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-impact-adjusting-facebook-video-sizes-correctly/"><u>[Updated] Maximizing Impact Adjusting Facebook Video Sizes Correctly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[Updated] The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-securing-and-optimizing-virtual-meetings-with-zoom-on-windows-11/"><u>2024 Approved Securing and Optimizing Virtual Meetings with Zoom on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips/"><u>2024 Approved Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-finest-4-sites-for-tones/"><u>2024 Approved Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-y77t-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Y77t</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-craft-individual-humor-masterpieces-online/"><u>In 2024, Craft Individual Humor Masterpieces Online</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-sunset-to-silhouette-adobe-guide/"><u>In 2024, Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-nine-game-streaming-haven-explored/"><u>In 2024, Top Nine Game Streaming Haven Explored</u></a></li>
+<li><a href="https://facebook.techidaily.com/industrys-most-debated-influential-leaders/"><u>Industry's Most Debated Influential Leaders</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-synapse-seamlessly-on-windows-1110-systems/"><u>Reinstating Synapse Seamlessly on Windows 11/10 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rhythmic-resonance-the-ultimate-site-list-for-downloads-for-2024/"><u>Rhythmic Resonance The Ultimate Site List for Downloads for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-unlimited-potential-how-to-leverage-freeform-as-your-ideal-creative-strategy/"><u>Unlock Unlimited Potential: How to Leverage Freeform as Your Ideal Creative Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/value-capture-affordable-cam-options-for-2024/"><u>Value Capture Affordable Cam Options for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Taming the Chaos: Streamlining Linux & Open Source Documentation with Ease | Insights From ZDNet"
-date: 2024-09-19 11:26:49
-updated: 2024-09-20 12:42:38
+date: 2024-11-12T12:48:45.481Z
+updated: 2024-11-16T18:54:57.163Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +64,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-swift-image-adaptation-techniques-for-iphone-users/"><u>[Updated] Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-technical-journey-to-capture-snapchat-on-mobile/"><u>2024 Approved The Technical Journey to Capture Snapchat On Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweak-quick-twitter-video-preview/"><u>2024 Approved Tweak Quick Twitter Video Preview</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-world-through-360-degree-fisheye-imaging/"><u>2024 Approved Unlocking the World Through 360 Degree Fisheye Imaging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-down-the-best-starter-drone-a-syma-x5c-review/"><u>Breaking Down the Best Starter Drone – A Syma X5C Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-extracting-video-content-without-audio-on-youtube/"><u>Guide to Extracting Video Content Without Audio on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-can-i-use-twitter-archive-for-2024/"><u>How Can I Use Twitter Archive for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>In 2024, The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-free-screen-recording-in-win11/"><u>In 2024, Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-secrets-of-your-lost-iphone-x/"><u>In 2024, Unlock the Secrets of Your Lost iPhone X</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-video-impact-on-youtube-top-video-formats-for-2024/"><u>Maximizing Video Impact on YouTube – Top Video Formats for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-applying-dollar-sign-notation-in-excel-worksheets/"><u>Understanding and Applying Dollar Sign Notation in Excel Worksheets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-professional-quality-images-with-pss-3d-lut-techniques-for-2024/"><u>Unlocking Professional Quality Images with PS's 3D LUT Techniques for 2024</u></a></li>
+</ul></div>
+

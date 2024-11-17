@@ -1,7 +1,7 @@
 ---
 title: "Maximizing ROI with Generative AI: Seamlessly Merging Large Language Models Into Existing Corporate Insights - The Ultimate Guide for ZDNet Readers"
-date: 2024-09-19 23:58:59
-updated: 2024-09-20 11:21:21
+date: 2024-11-10T16:36:34.996Z
+updated: 2024-11-16T19:07:33.416Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>[New] In 2024, Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tackling-text-transformations-converting-xmlttml-for-voice-outputs/"><u>[New] Tackling Text Transformations Converting XML/TTML for Voice Outputs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-vlogging-techniques-for-stellar-gopro-content/"><u>[New] Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>[New] Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>[Updated] 2024 Approved Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-harness-the-power-of-mematic-for-notes-for-2024/"><u>[Updated] Harness the Power of Mematic for Notes for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-kid-friendly-drone-models-for-first-flights/"><u>[Updated] Top Kid-Friendly Drone Models for First Flights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-top-10-techniques-live-cricket-broadcasting/"><u>[Updated] Unveiling Top 10 Techniques Live Cricket Broadcasting</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>2024 Approved The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlock-professional-graphics-custom-templates-on-the-house/"><u>In 2024, Unlock Professional Graphics - Custom Templates on the House</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-unveils-enhanced-odyssey-and-viewflex-series-revolutionary-ai-powered-display-technology/"><u>Samsung Unveils Enhanced Odyssey & ViewFlex Series: Revolutionary AI-Powered Display Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/ultimate-virtual-reality-controller-guide/"><u>Ultimate Virtual Reality Controller Guide</u></a></li>
+</ul></div>
+

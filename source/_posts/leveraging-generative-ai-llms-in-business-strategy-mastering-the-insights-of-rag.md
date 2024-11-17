@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Generative AI LLMs in Business Strategy: Mastering the Insights of RAG"
-date: 2024-09-19 14:48:17
-updated: 2024-09-20 11:37:55
+date: 2024-11-16T05:57:15.190Z
+updated: 2024-11-16T23:43:28.651Z
 tags:
   - developer
 categories:
@@ -46,6 +46,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-glide-3-duel-illusionist-4-emerges/"><u>[Updated] 2024 Approved Glide 3 Duel Illusionist 4 Emerges</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-8-most-critical-blunders-to-elude-as-a-rookie-youtuber/"><u>2024 Approved The 8 Most Critical Blunders to Elude as a Rookie YouTuber</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-online-converter-mp3-via-movavi-autoconversao-sem-custo/"><u>Gratis Online Converter: Mp3 via Movavi - Autoconversão Sem Custo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-recover-additional-soundtracks-from-videos-on-the-internet-efficiently/"><u>How to Recover Additional Soundtracks From Videos on the Internet Efficiently</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-a-streamlined-download-process-for-youtubes-srt/"><u>In 2024, Tailoring a Streamlined Download Process for YouTube's SRT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uable-list-of-costless-photographic-and-moving-images/"><u>Invaluable List of Costless Photographic and Moving Images</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-markets-a-comprehensive-look-at-cryptocurrency-and-forex-trading-with-mt4copier-strategies/"><u>Mastering the Markets: A Comprehensive Look at Cryptocurrency and Forex Trading with MT4copier Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4-to-aac-transformation-made-simple-convert-anytime-pay-nothing/"><u>MP4 to AAC Transformation Made Simple - Convert Anytime, Pay Nothing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-wifi-from-windows-11-list/"><u>Removing Wifi From Windows 11 List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-editing-tools-for-aspiring-vloggers-seeking-dynamic-visual-impact/"><u>Top 12 Editing Tools for Aspiring Vloggers Seeking Dynamic Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-rapidamente-tus-videos-ogm-gratis-en-formatos-mov-mediante-el-servicio-en-linea-de-convertidor-de-videos-movavi/"><u>Transforma Rápidamente Tus Vídeos OGM Gratis en Formatos MOV Mediante El Servicio en Línea De Convertidor De Videos Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Research Reveals Conflicts Between AI Innovation & Agile Methodologies
-date: 2024-09-18 17:27:13
-updated: 2024-09-20 11:46:18
+date: 2024-11-09T21:19:33.605Z
+updated: 2024-11-17T14:44:47.688Z
 tags:
   - developer
 categories:
@@ -104,11 +104,36 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-one-minute-mastery-of-fades/"><u>2024 Approved One-Minute Mastery of Fades</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728501832122-aomei-backupper/"><u>如何使用AOMEI Backupper創建伺服器映像版本 - 教學課程</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyys-content-intelligence-revolutionizing-the-financial-sector-and-accounting-practices/"><u>ABBYY's Content Intelligence: Revolutionizing the Financial Sector and Accounting Practices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/alteryx-and-abbyy/"><u>Alteryx & ABBYYの新しい提携で最先端の処理洞察が革新される</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-site-engagement-with-cookiebots-advanced-data-tracking-technology/"><u>Boost Site Engagement with Cookiebot's Advanced Data Tracking Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience-with-smart-analytics/"><u>Cookiebot-Driven Personalization: Enhancing User Experience with Smart Analytics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-elevates-education-through-partnership-with-apple-technology/"><u>Mondly Elevates Education Through Partnership With Apple Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/speedy-webm-to-wav-audio-conversion-guide-for-top-sound-clarity/"><u>Speedy WebM-to-WAV Audio Conversion Guide for Top Sound Clarity</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Point-and-Click's Endgame: Embracing the Future Through Generative AI in User Interfaces | ZDNET Insights"
-date: 2024-09-17 18:46:51
-updated: 2024-09-20 11:57:10
+date: 2024-11-15T12:52:17.134Z
+updated: 2024-11-17T12:40:50.019Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -103,6 +110,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +124,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-slow-motion-in-instagram-reels/"><u>[New] In 2024, The Art of Slow Motion in Instagram Reels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-guide-to-installing-streamlabs-in-obs-mac-for-2024/"><u>[New] Step-by-Step Guide to Installing Streamlabs in OBS (Mac) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-turn-your-iphone-images-upside-down-with-precision/"><u>[New] Turn Your iPhone Images Upside Down with Precision</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-potential-through-virtualization/"><u>[Updated] 2024 Approved Unlocking Potential Through Virtualization</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-maximizing-video-clarity-in-twitter-feed/"><u>2024 Approved Maximizing Video Clarity in Twitter Feed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-notch-drones-for-professionals-our-curated-list/"><u>2024 Approved Top-Notch Drones for Professionals – Our Curated List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-storytelling-into-cinematic-art/"><u>2024 Approved Transforming Storytelling Into Cinematic Art</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-visual-identification-displaying-this-pc-icon/"><u>Improve Visual Identification: Displaying 'This PC' Icon</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-for-building-compelling-canon-time-lapses/"><u>In 2024, The Essentials for Building Compelling Canon Time-Lapses</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/smart-screenshot-assembly-leading-androidiphone-montage-aids-for-2024/"><u>Smart Screenshot Assembly Leading Android/iPhone Montage Aids for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-battle-of-accessible-viewerships-google-vs-samsung-headsets-for-2024/"><u>The Battle of Accessible Viewerships Google Vs. Samsung Headsets for 2024</u></a></li>
+</ul></div>
+

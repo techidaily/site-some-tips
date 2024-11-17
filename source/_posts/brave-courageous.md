@@ -1,7 +1,7 @@
 ---
 title: Brave - Courageous
-date: 2024-09-19 17:41:13
-updated: 2024-09-20 10:34:11
+date: 2024-11-12T10:25:18.282Z
+updated: 2024-11-17T00:45:48.620Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -73,6 +87,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -92,6 +113,19 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-overcoming-audio-glitches-with-obs-enhancements/"><u>[New] 2024 Approved Overcoming Audio Glitches with OBS Enhancements</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[New] Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elite-file-sender-mp4-to-social-for-2024/"><u>[Updated] Elite File Sender MP4 to Social for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-guide-to-producing-impactful-lifestyle-motivational-content/"><u>[Updated] In 2024, Guide to Producing Impactful Lifestyle Motivational Content</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-premium-accelerated-photo-browser-for-windows/"><u>[Updated] Premium Accelerated Photo Browser for Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-engaging-elite-videography-talent/"><u>[Updated] Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tailoring-sound-fades-within-logic-pro-settings/"><u>[Updated] Tailoring Sound Fades Within Logic Pro Settings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-gaming-consoles-vocals-today/"><u>[Updated] Transform Your Gaming Consoles' Vocals Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-techniques-for-dynamic-gifs/"><u>2024 Approved Tailored Techniques for Dynamic GIFs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-professional-video-quality-with-obs-studios-lut-functionalities/"><u>2024 Approved Unlock Professional Video Quality with OBS Studio's LUT Functionalities</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-tecno-phantom-v-fold-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Phantom V Fold Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-disappearing-cursor-in-windows-10-easily-expert-advice/"><u>How to Restore Disappearing Cursor in Windows 10 Easily - Expert Advice</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-7ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 7/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-watch-facebook-live-on-roku-for-2024/"><u>How to Watch Facebook Live on Roku for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-essential-guide-to-transferring-tunes-across-platforms/"><u>In 2024, The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur/"><u>In 2024, The Pathway to Seamless System Enhancement in macOS 11 Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>In 2024, The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/navigating-the-process-of-enlisting-videos-on-youtube-shelves-for-2024/"><u>Navigating the Process of Enlisting Videos on YouTube Shelves for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-wireless-mouse-disconnects-regularly/"><u>Windows Wireless Mouse Disconnects Regularly</u></a></li>
+</ul></div>
+

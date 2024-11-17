@@ -1,7 +1,7 @@
 ---
 title: "1. Immediate Access: How Businesses Demand Fast-Tracked AI Solutions - Insights From ZDNet"
-date: 2024-09-17 16:48:33
-updated: 2024-09-20 11:15:38
+date: 2024-11-12T17:44:18.803Z
+updated: 2024-11-17T10:20:51.163Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-shifting-gender-identity-in-online-profile-pictures/"><u>[New] 2024 Approved Shifting Gender Identity in Online Profile Pictures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-elevate-your-video-workflow-capturing-mov-files-on-windows-10/"><u>[New] In 2024, Elevate Your Video Workflow Capturing MOV Files on Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-simplify-your-path-to-youtube-short-mastery/"><u>[Updated] 2024 Approved Simplify Your Path to YouTube Short Mastery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-optimized-obs-operations-on-android-platforms/"><u>2024 Approved Optimized OBS Operations on Android Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-websites-aimed-at-enhancing-text-appearance/"><u>2024 Approved Top Websites Aimed at Enhancing Text Appearance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-strategies-for-impartiating-patient-narratives/"><u>2024 Approved Transformative Strategies for Impartiating Patient Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uhd-precision-converter-clearer-sharper-visuals/"><u>2024 Approved UHD Precision Converter Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/comprehensive-guide-to-over-12-malware-varieties-definitions-and-real-world-instances/"><u>Comprehensive Guide to Over 12 Malware Varieties: Definitions & Real-World Instances</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-download-get-your-scansnap-s1300i-scanner-software-updated-today/"><u>Effortless Download: Get Your ScanSnap S1300i Scanner Software Updated Today!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-ios-perfecting-podcast-playback/"><u>In 2024, Mastering iOS Perfecting Podcast Playback</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-mkv-players-macos-edition/"><u>In 2024, Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-a-detailed-look-at-vsco-features/"><u>In 2024, Unleash Creativity A Detailed Look at VSCO Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simplified-approach-to-download-youtube-captions-3-proven-methods-for-2024/"><u>Simplified Approach to Download YouTube Captions 3 Proven Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading-for-2024/"><u>Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-iphone-cinematography-transforming-fast-motion-into-sluggish-sequences-for-2024/"><u>The Art of iPhone Cinematography Transforming Fast Motion Into Sluggish Sequences for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
+</ul></div>
+

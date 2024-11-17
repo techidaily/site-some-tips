@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI Innovations & The Surge of Rust in Tech: Linus Torvalds on the Unmatched Importance of the Linux Kernel - Insights From a Developer Legend"
-date: 2024-09-18 15:31:34
-updated: 2024-09-20 11:47:24
+date: 2024-11-10T14:45:15.307Z
+updated: 2024-11-17T11:21:26.115Z
 tags:
   - developer
 categories:
@@ -40,6 +40,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +116,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/enhancing-intelligence-in-automation-the-synergy-of-abbyy-and-uipath/"><u>Enhancing Intelligence in Automation: The Synergy of ABBYY and UiPath</u></a></li>
+<li><a href="https://some-tips.techidaily.com/environmental-commitment-by-abbyy-over-2000-new-trees-set-for-yearly-planting-press-disclosure/"><u>Environmental Commitment by ABBYY: Over 2,000 New Trees Set for Yearly Planting - Press Disclosure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expressive-emojis-and-images-kinemaster-tips-for-2024/"><u>Expressive Emojis & Images KineMaster Tips for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/federal-tech-innovations-automating-government-with-intelligence-official-podcast/"><u>Federal Tech Innovations: Automating Government with Intelligence - Official Podcast</u></a></li>
+<li><a href="https://some-tips.techidaily.com/going-digital-with-abbyys-advanced-data-capture-tech-revolutionizing-healthcare-management/"><u>Going Digital with ABBYY's Advanced Data Capture Tech: Revolutionizing Healthcare Management</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-artificial-intelligence-is-revolutionizing-the-landscape-of-banking-and-insurance/"><u>How Artificial Intelligence Is Revolutionizing the Landscape of Banking & Insurance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-huawei-nova-y71-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Huawei Nova Y71 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895636621-imessages-unlock-the-feature-on-an-android-phone-heres-how/"><u>IMessages: Unlock the Feature on an Android Phone – Here's How!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-dall-e-with-gpt-4-for-ai-driven-visuals/"><u>Integrating DALL-E with GPT-4 for AI-Driven Visuals</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-and-generative-ai-the-definitive-resource-for-todays-guardians/"><u>Mastering ChatGPT & Generative AI: The Definitive Resource for Today's Guardians</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-smart-seo-tools-tailored-for-success/"><u>Optimize with Cookiebot: Smart SEO Tools Tailored for Success</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rank-the-best-comparative-study-of-6-hdmi-21-monitors/"><u>Rank the Best Comparative Study of 6 HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revos-role-in-user-profile-removal-on-windows-11-an-in-depth-guide/"><u>Revo's Role in User Profile Removal on Windows 11 - An In-Depth Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionize-your-websites-user-experience-using-advanced-cookieless-tracking-technology/"><u>Revolutionize Your Website's User Experience Using Advanced Cookieless Tracking Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-paperwork-next-generation-smart-document-handling-transforms-efficiency/"><u>Revolutionizing Paperwork: Next-Generation Smart Document Handling Transforms Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-the-financial-sector-how-rpa-and-nlp-offer-innovative-solutions/"><u>Revolutionizing the Financial Sector: How RPA and NLP Offer Innovative Solutions</u></a></li>
+</ul></div>
+

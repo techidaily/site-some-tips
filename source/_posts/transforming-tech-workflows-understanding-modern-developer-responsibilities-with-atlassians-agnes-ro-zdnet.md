@@ -1,7 +1,7 @@
 ---
 title: "Transforming Tech Workflows: Understanding Modern Developer Responsibilities with Atlassian’s Agnes Ro (ZDNET)"
-date: 2024-09-17 10:29:20
-updated: 2024-09-20 12:56:10
+date: 2024-11-10T16:04:12.341Z
+updated: 2024-11-16T21:39:01.194Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +70,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-request-for-full-media-sharing-viewability-via-messaging-platforms/"><u>[New] 2024 Approved Request for Full Media Sharing Viewability via Messaging Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-revenue-demystified/"><u>[New] YouTube Revenue Demystified</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-capture-attention-with-top-mobile-video-editing-software-for-snapchats/"><u>[Updated] 2024 Approved Capture Attention with Top Mobile Video Editing Software for Snapchats</u></a></li>
+<li><a href="https://some-tips.techidaily.com/descargar-y-convertir-archivos-ogm-a-formatos-de-video-en-linea-sin-coste-con-movavi/"><u>Descargar Y Convertir Archivos OGM a Formatos De Video en Línea Sin Coste Con Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortless-dvd-to-pc-conversion-mastering-ripping-on-windows-11/"><u>Effortless DVD-to-PC Conversion: Mastering Ripping on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-conversion-transforming-ogm-files-into-mpeg-format-with-ease/"><u>Free Online Conversion: Transforming OGM Files Into MPEG Format with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuito-conversor-de-webm-para-ogv-online-moviavi/"><u>Gratuito Conversor De WebM Para OGV Online - Moviávi</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-itel-p55plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P55+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services/"><u>In 2024, Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-zero-30-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Zero 30 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-aif-to-mov-file-transformation-no-cost-solution-by-movavi/"><u>Online AIF to MOV File Transformation: No Cost Solution by Movavi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-a05s-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel A05s.</u></a></li>
+</ul></div>
+

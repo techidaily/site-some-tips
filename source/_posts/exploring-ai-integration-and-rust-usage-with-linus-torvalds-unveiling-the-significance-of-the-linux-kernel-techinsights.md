@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI Integration & Rust Usage with Linus Torvalds: Unveiling the Significance of the Linux Kernel | TechInsights"
-date: 2024-09-19 11:22:17
-updated: 2024-09-20 10:13:11
+date: 2024-11-16T14:20:49.619Z
+updated: 2024-11-17T06:57:29.025Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -67,6 +81,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +101,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-podcast-perfection-best-timing-strategy/"><u>[New] Podcast Perfection Best Timing Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-art-of-sound-transition-in-logic-pro-x/"><u>[New] The Art of Sound Transition in Logic Pro X</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-live-broadcast-gaming-applications/"><u>[New] Top 10 Live Broadcast Gaming Applications</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-mac-capturing-screens-with-record-feature-for-2024/"><u>[Updated] Mastering Mac Capturing Screens with Record Feature for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-speaker-recorder-evaluation-tips/"><u>[Updated] Speaker Recorder Evaluation Tips</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-easy-win-for-pc-basic-clownfish-sound-change-guide/"><u>2024 Approved Easy-Win for PC Basic Clownfish Sound Change Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-7-nft-maker-tools-for-digital-art-tokenization/"><u>2024 Approved Top 7 NFT Maker Tools for Digital Art Tokenization</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ensuring-optimal-pet-health-an-in-depth-look-at-petsafes-automatic-weight-control-feeder/"><u>Ensuring Optimal Pet Health: An In-Depth Look at PetSafe's Automatic Weight Control Feeder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-supreme-select-iphone-customized-sound-crafting/"><u>In 2024, Supreme Select IPhone Customized Sound Crafting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997022114-poison-control-centers-can-provide-valuable-guidance-on-the-management-of-various-poisoning-scenarios/"><u>Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-90-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 90 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/realtime-av-enthusiasts-community-for-2024/"><u>RealTime AV Enthusiasts Community for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamping-your-img-messages-expert-advice-for-on-the-go-corrections/"><u>Revamping Your IMG Messages: Expert Advice for On-The-Go Corrections</u></a></li>
+</ul></div>
+

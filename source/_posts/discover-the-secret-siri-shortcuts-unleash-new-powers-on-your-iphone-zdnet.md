@@ -1,7 +1,7 @@
 ---
 title: "Discover the Secret Siri Shortcuts: Unleash New Powers on Your iPhone | ZDNet"
-date: 2024-11-05T04:19:06.635Z
-updated: 2024-11-07T01:38:57.980Z
+date: 2024-11-09T21:38:51.391Z
+updated: 2024-11-17T00:01:11.411Z
 tags:
   - apple
 categories:
@@ -31,16 +31,10 @@ Voice dictation is another voice input mode. This is most often initiated by tap
 As it turns out, though, there's an incredibly powerful voice input mode that's hidden from most users because it's turned off by default. 
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Introducing Voice Control
@@ -62,10 +56,10 @@ You can say things like "tap number" or "pan up number", "swipe left" with an it
 To find out what commands work with Voice Control, start by saying, "What can I say?" iMore has an [excellent comprehensive list of all the commands](https://www.imore.com/everything-you-can-do-voice-control-iphone-and-ipad). Just point your browser there to see all that's available. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Enabling Voice Control on your phone
@@ -75,10 +69,16 @@ Not only is Voice Control not turned on by default, but the code that runs Voice
 You'll know Voice Control is enabled when there's a little blue microphone icon at the top of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Additional features
@@ -121,24 +121,22 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-beginners-guide-to-streaming-on-fb-live-2023-for-2024/"><u>[Updated] Beginner's Guide to Streaming on FB Live, 2023 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-in-frame-multimedia-experience-on-mac/"><u>[Updated] The Ultimate Guide to In-Frame Multimedia Experience on Mac</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-instantaneous-imagery-a-step-by-step-for-quick-google-collage-photos/"><u>2024 Approved Instantaneous Imagery A Step-by-Step for Quick Google Collage Photos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-professional-tips-for-perfectly-recording-your-powerpoint-sessions/"><u>2024 Approved Professional Tips for Perfectly Recording Your PowerPoint Sessions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamline-your-video-workflow-youtube-to-mpeg-essentials/"><u>2024 Approved Streamline Your Video Workflow YouTube-to-MPEG Essentials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-2023-line-up-of-best-pro-360cameras-reviewed/"><u>2024 Approved The 2023 Line-Up of Best Pro 360°Cameras Reviewed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-podcast-blurbs-techniques-and-illustrations/"><u>2024 Approved The Art of Podcast Blurbs Techniques and Illustrations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>2024 Approved The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-video-quality-with-apple-music-addition/"><u>2024 Approved Unlock Video Quality with Apple Music Addition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>How to Bypass FRP on Infinix Zero 5G 2023 Turbo?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-a-corrupted-windows-store-cache-solutions-explored/"><u>How to Fix a Corrupted Windows Store Cache - Solutions Explored</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-nokia-xr21-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Nokia XR21 to iPad | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>In 2024, Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/revamp-your-computer-mastering-the-art-of-hard-drive-sanitization-before-resale/"><u>Revamp Your Computer: Mastering the Art of Hard Drive Sanitization Before Resale</u></a></li>
-<li><a href="https://games-able.techidaily.com/soundproof-gaming-with-xbox-series-xs/"><u>Soundproof Gaming with Xbox Series X/S</u></a></li>
-<li><a href="https://win-community.techidaily.com/top-12-essential-windows-apps-retained-and-11-unwanted-ones-discarded-in-each-fresh-setup-insights-from-zdnet/"><u>Top 12 Essential Windows Apps Retained and 11 Unwanted Ones Discarded in Each Fresh Setup: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-tips-choosing-the-right-fps-for-your-slow-motion-vids-for-2024/"><u>Top Tips Choosing the Right FPS for Your Slow Motion Vids for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/venturing-virtuality-a-review-of-lgs-360-headset-for-2024/"><u>Venturing Virtuality A Review of LG's 360 Headset for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-financial-gains-the-youtube-money-flow-from-1m-views/"><u>[New] 2024 Approved Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-art-of-shortening-videos-for-instagram-mac/"><u>[New] 2024 Approved Mastering the Art of Shortening Videos for Instagram (Mac)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-expert-techniques-for-acquiring-pristine-images-for-2024/"><u>[New] Expert Techniques for Acquiring Pristine Images for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-incorporating-secondary-shots-in-filmmaking/"><u>[New] Strategies for Incorporating Secondary Shots in Filmmaking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-trends-unveiled-excellence-in-vr-treadmills/"><u>[New] Tech Trends Unveiled Excellence in VR Treadmills</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-10-must-knows-before-elevating-systems/"><u>[New] Top 10 Must-Knows Before Elevating Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-clearer-iphone-hd-images-post-production-with-4-key-premiere-pro-fixes/"><u>2024 Approved Clearer iPhone HD Images Post-Production with 4 Key Premiere Pro Fixes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>2024 Approved How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streaming-selection-saga-choose-between-engaging-podcasts-and-youtube-channels/"><u>2024 Approved Streaming Selection Saga Choose Between Engaging Podcasts and YouTube Channels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-stabilizing-tech-for-youtube-creators-success/"><u>2024 Approved Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-periscopes-full-potential-your-ultimate-guide/"><u>2024 Approved Unveiling Periscope's Full Potential Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-ways-to-record-audio-on-windows-11-for-2024/"><u>5 Ways to Record Audio on Windows 11 for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expert-editions-selecting-high-quality-blu-ray-players-freepaid/"><u>Expert Editions Selecting High-Quality Blu-Ray Players (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/framefusion-pro-8-crafting-digital-masterpieces-for-2024/"><u>FrameFusion Pro 8 Crafting Digital Masterpieces for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-steam-servers-back-online-after-downtime/"><u>How to Get Your Steam Servers Back Online After Downtime</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-asus-proart-pa-329q-in-focus-the-comprehensive-4k-professional-display-analysis/"><u>In 2024, Asus ProArt PA 329Q in Focus – The Comprehensive 4K Professional Display Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-index-downloading-your-preferred-chime-files-for-2024/"><u>Ultimate Index Downloading Your Preferred Chime Files for 2024</u></a></li>
 </ul></div>
 

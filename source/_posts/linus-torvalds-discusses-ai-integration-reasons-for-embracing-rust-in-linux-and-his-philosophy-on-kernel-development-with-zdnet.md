@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Discusses AI Integration, Reasons for Embracing Rust in Linux, and His Philosophy on Kernel Development with ZDNet
-date: 2024-09-19 17:25:17
-updated: 2024-09-20 11:56:42
+date: 2024-11-15T20:19:03.183Z
+updated: 2024-11-16T23:37:59.262Z
 tags:
   - developer
 categories:
@@ -104,11 +104,32 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-crafting-your-signature-tone-a-comprehensive-zoom-recording-workshop/"><u>2024 Approved Crafting Your Signature Tone A Comprehensive ZOOM Recording Workshop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-top-15-snapchat-sharing-tactics-for-maximum-impact/"><u>2024 Approved Top 15 Snapchat Sharing Tactics for Maximum Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ace-audio-identification-finding-songs-easily-on-your-apple-mac-computer/"><u>Ace Audio Identification: Finding Songs Easily on Your Apple Mac Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjust-dpi-settings-for-optimal-display-performance/"><u>Adjust DPI Settings for Optimal Display Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/advancing-audio-precision-microsoft-enhances-speech-clarity-across-additional-personal-computers/"><u>Advancing Audio Precision: Microsoft Enhances Speech Clarity Across Additional Personal Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/connecting-your-playstation-5-dualsense-controller-with-windows-11-a-step-by-step-guide/"><u>Connecting Your PlayStation 5 DualSense Controller with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-windows-11-govt-version-insights-and-reasons-to-think-twice-before-choosing-it/"><u>Decoding Windows 11 Govt. Version - Insights & Reasons to Think Twice Before Choosing It.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-arc-browser-newly-released-for-windows-10-users/"><u>Download Arc Browser: Newly Released for Windows 10 Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-f14-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy F14 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-4-artificial-intelligence-verification-apps-for-educators-and-managers/"><u>Top 4 Artificial Intelligence Verification Apps for Educators and Managers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

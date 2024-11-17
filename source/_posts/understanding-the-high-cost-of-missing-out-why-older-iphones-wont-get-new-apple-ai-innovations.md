@@ -1,7 +1,7 @@
 ---
 title: "Understanding the High Cost of Missing Out: Why Older iPhones Won't Get New Apple AI Innovations"
-date: 2024-11-04T05:15:16.208Z
-updated: 2024-11-07T03:23:13.360Z
+date: 2024-11-14T05:52:05.142Z
+updated: 2024-11-16T20:32:32.655Z
 tags:
   - apple
 categories:
@@ -45,10 +45,10 @@ Advanced AI features require substantial computational power, typically provided
 Even [major AI service providers](https://www.zdnet.com/article/best-ai-chatbot/) such as OpenAI, Microsoft, and Google encounter challenges in offering dependable and quick access to LLM and Generative AI models to the general public without downtime and overcommitting resources. The shortage and cost of GPU-enabled servers make these issues worse. To maintain the rapid response times expected by its customers, Apple will need to invest substantially in servers, data centers, and edge infrastructure -- an infrastructure level it likely does not currently possess.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple's approach to Private Cloud Compute (PCC)
@@ -60,10 +60,10 @@ For the initial rollout of Apple Intelligence, the company has chosen a hybrid a
 Apple is currently focused on rolling out its [Generative AI services](https://www.zdnet.com/article/apple-unveils-on-device-ai-image-generator-for-iphone-ipad-and-mac/) to high-end devices as part of the initial phase of Apple Intelligence deployment. This allows Apple to enhance its AI capabilities and infrastructure before expanding to a wider range of devices. To bring Apple Intelligence to the rest of its ecosystem, the company will likely deploy AI-accelerated server appliances at the edge, enabling less capable devices to benefit from advanced AI features. However, this infrastructure is not yet ready for large-scale deployment, as Apple's shift towards AI development is still recent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The challenges of edge computing
@@ -77,10 +77,10 @@ While NVIDIA is a major player in the GPU server space, others include tradition
 As reported by _The Register_, Apple is [developing its own AI servers](https://www.theregister.com/2024/06/11/apple%5Fbuilt%5Fai%5Fcloud%5Fservers%5Fos/), which are expected to be more cost-effective and better integrated with its ecosystem. These servers are currently being tested in data centers for foundation model use, and a broader rollout is anticipated in 2025\. This phased approach ensures Apple can maintain high privacy, security, and user experience standards while gradually expanding its AI capabilities across its device lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Broader implications for IoT and other devices
@@ -125,18 +125,19 @@ As Apple continues developing its AI infrastructure, including potential edge co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-playlist-tiktok-hits-that-stick-in-your-memory/"><u>[New] In 2024, The Ultimate Playlist TikTok Hits that Stick in Your Memory</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>[New] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>[Updated] The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-understanding-iphones-nightlight-settings/"><u>[Updated] Understanding iPhone's Nightlight Settings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-a-scriptwriters-playbook/"><u>2024 Approved A Scriptwriter's Playbook</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-14-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 14 without App | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/aggregating-the-top-5-mac-clipping-applications/"><u>Aggregating the Top 5 Mac Clipping Applications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guia-facil-y-rapida-mejorar-tus-videos-de-android-en-seis-pases-simples-con-movavi-clips/"><u>Guía Fácil Y Rápida: Mejorar Tus Videos De Android en Seis Pases Simples Con Movavi Clips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-14-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 14 Through Google Earth?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 14 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>In 2024, Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-art-of-intense-focus-5-techniques-for-zooming-in-minecraft-for-2024/"><u>The Art of Intense Focus 5 Techniques for Zooming in Minecraft for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-moto-g04-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola Moto G04 on Windows?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-effortless-screen-saving-on-android-devices-for-2024/"><u>[New] Effortless Screen Saving on Android Devices for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-pics-on-pc-our-top-5-snipping-apps-unveiled-for-2024/"><u>[New] Perfecting Pics on PC Our Top 5 Snipping Apps Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlining-social-sessions-with-zoom-and-facebook-live-techniques/"><u>[New] Streamlining Social Sessions with ZOOM & Facebook Live Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamsavvy-exploring-alternatives-to-dacast/"><u>[New] StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor/"><u>[Updated] 2024 Approved Smile, Sob and Snicker with These IG Meme Masters of Humor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-stitch-ppt-tiles-into-video-mosaic-for-2024/"><u>[Updated] Stitch PPT Tiles Into Video Mosaic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-master-the-science-and-art-of-attention-grabbing-titles/"><u>2024 Approved Master the Science and Art of Attention-Grabbing Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-proplus-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro+ in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-12-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 12 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sound-sleuths-unite-free-beats-tracking-tools/"><u>In 2024, Sound Sleuths Unite! Free Beats-Tracking Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>In 2024, Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-vocal-changer-tools-for-digital-personalities/"><u>Prime Vocal Changer Tools for Digital Personalities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-smoothing-iphone-pics-4-methods-for-2024/"><u>The Ultimate Guide to Smoothing iPhone Pics (4 Methods) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>Unleash Speed Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
 </ul></div>
 

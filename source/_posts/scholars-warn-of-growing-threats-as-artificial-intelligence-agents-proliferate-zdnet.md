@@ -1,7 +1,7 @@
 ---
 title: Scholars Warn of Growing Threats as Artificial Intelligence Agents Proliferate | ZDNET
-date: 2024-09-17 12:59:10
-updated: 2024-09-20 11:18:56
+date: 2024-11-11T04:12:49.185Z
+updated: 2024-11-16T23:11:05.939Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-audiences-how-tos-for-effective-youtube-logo-creation-for-2024/"><u>[New] Engaging Audiences How-To's for Effective YouTube Logo Creation for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-harmonizing-social-media-twitter-plus-tumblr-videos/"><u>[Updated] In 2024, Harmonizing Social Media Twitter + Tumblr Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-personalizing-windows-11-backgrounds-easily/"><u>[Updated] Personalizing Windows 11 Backgrounds Easily</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-the-art-of-earning-through-vlogs/"><u>2024 Approved Mastering the Art of Earning Through Vlogs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-configure-remote-desktop-on-windows-11-a-step-by-step-guide/"><u>How to Configure Remote Desktop on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-enable-and-create-restore-points-in-windows-10/"><u>How to Enable and Create Restore Points in Windows 10?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-open-command-prompt-as-administrator-in-windows-11-8-and-81/"><u>How to Open Command Prompt as Administrator in Windows 11, 8 & 8.1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-stop-avg-free-edition-2015-temporarily/"><u>How to Stop AVG Free Edition 2015 Temporarily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-digital-sticky-notes-a-comprehensive-tutorial-for-microsoft-edge-users/"><u>Mastering Digital Sticky Notes: A Comprehensive Tutorial for Microsoft Edge Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/optimal-visual-snatchers-for-videos/"><u>Optimal Visual Snatchers for Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/set-up-remote-desktop-connection-rdc-in-windows-11/"><u>Set up Remote Desktop Connection (RDC) in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-15-free-video-editing-tools-for-starters-no-experience-needed/"><u>Updated In 2024, 15 Free Video Editing Tools for Starters No Experience Needed</u></a></li>
+</ul></div>
+

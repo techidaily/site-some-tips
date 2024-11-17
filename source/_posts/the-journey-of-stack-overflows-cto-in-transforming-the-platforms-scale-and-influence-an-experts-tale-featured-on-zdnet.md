@@ -1,7 +1,7 @@
 ---
 title: The Journey of Stack Overflow’s CTO in Transforming the Platform's Scale and Influence – An Expert's Tale Featured on ZDNet
-date: 2024-09-17 23:43:34
-updated: 2024-09-20 12:50:10
+date: 2024-11-13T11:59:23.546Z
+updated: 2024-11-17T06:35:17.591Z
 tags:
   - developer
 categories:
@@ -73,6 +73,19 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +93,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -103,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/xercise-innovations-6-youtube-ideas-for-movement-focused-viewers-for-2024/"><u>[New] Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-unintentional-tiktok-update-restore-past-content/"><u>[Updated] 2024 Approved Unintentional TikTok Update – Restore Past Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mini-magnate-ryan-kajis-staggering-income-from-video-platform/"><u>[Updated] Mini Magnate Ryan Kaji’s Staggering Income From Video Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversor-gratuitos-en-linea-ts-para-mp4-mediante-movavi-descargue-hoy/"><u>Conversor Gratuitos en Línea TS Para MP4 Mediante Movavi - Descargue Hoy!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-w64/"><u>Movavi W64 フリーオンラインコンバータ - 使い勝手の良さを堪能せよ</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-wi-fi-wav-m4a-online/"><u>Movavi: 무료 제공 Wi-Fi를 통해 WAV을 M4A 암호화로 전환 - Online 모바일</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamlining-the-update-process-for-accurate-tiktok-age-details-for-2024/"><u>Streamlining the Update Process for Accurate TikTok Age Details for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-list-of-rental-resources-mastering-the-modern-apartment-quest/"><u>Ultimate List of Rental Resources: Mastering the Modern Apartment Quest</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-guide-to-the-best-igtv-virtuosos/"><u>Your Guide to the Best IGTV Virtuosos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223490741-pgm-movavi/"><u>무료 온라인 PGM 교체를 위한 Movavi의 도우미 방법</u></a></li>
+</ul></div>
+

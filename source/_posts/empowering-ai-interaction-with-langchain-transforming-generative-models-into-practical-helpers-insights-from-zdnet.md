@@ -1,7 +1,7 @@
 ---
 title: "Empowering AI Interaction with LangChain: Transforming Generative Models Into Practical Helpers - Insights From ZDNet"
-date: 2024-09-19 14:19:47
-updated: 2024-09-20 11:53:46
+date: 2024-11-10T08:43:34.433Z
+updated: 2024-11-17T09:27:33.532Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-2023-roundup-premier-professionals-360-cameras/"><u>[New] In 2024, 2023 Roundup Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streaming-showdown-the-podcast-challenge-to-youtubes-dominance/"><u>[New] Streaming Showdown The Podcast Challenge to YouTube’s Dominance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-basics-of-dynamic-media-artistry/"><u>[New] The Basics of Dynamic Media Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-complete-guide-to-asus-proart-pa-329q-professionals-features/"><u>[New] The Complete Guide to Asus ProArt PA 329Q Professional's Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-composers-guide-to-imovie-soundscape/"><u>[New] The Composer's Guide to iMovie Soundscape</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-snapsplit-scrutiny/"><u>[Updated] SnapSplit Scrutiny</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-zeo-startup-showcase/"><u>[Updated] The Ultimate Zeo-Startup Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-tier-eighth-edition-of-image-blender-tool/"><u>[Updated] Top Tier Eighth Edition of Image Blender Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unparalleled-pc-sound-control/"><u>[Updated] Unparalleled PC Sound Control</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-selection-choosing-excellent-free-srt-translators/"><u>2024 Approved Ultimate Selection Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilization-of-unused-film-clips-tips-and-tricks/"><u>2024 Approved Utilization of Unused Film Clips Tips and Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/critical-business-strategies-steps-to-resolve-unlaunched-systems/"><u>Critical Business Strategies: Steps to Resolve Unlaunched Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-motorola-edge-40-neo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Motorola Edge 40 Neo Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-rapid-response-guide-to-smooth-video-audio-incorporation-with-premiere-pro/"><u>In 2024, Rapid-Response Guide to Smooth Video Audio Incorporation with Premiere Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-ready-for-high-res-our-choice-of-best-screenshot-and-recorder-apps/"><u>In 2024, Ready for High-Res Our Choice of Best Screenshot & Recorder Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-selective-picks-for-audible-transformation-technologies/"><u>In 2024, Selective Picks for Audible Transformation Technologies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-pro-tips-effortlessly-assemble-photo-collagues/"><u>IPhone Pro Tips Effortlessly Assemble Photo Collagues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-instagram-video-craftsmanship/"><u>The Art of Instagram Video Craftsmanship</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unlocking-the-secret-behind-symbol-in-folders/"><u>Unlocking the Secret Behind '?' Symbol in Folders</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Inside the Mind of Linux Creator Linus Torvalds: Embracing Rust, Managing Time & a MacBook Air Review | CNET"
-date: 2024-09-18 11:41:13
-updated: 2024-09-20 12:57:11
+date: 2024-11-14T05:35:42.709Z
+updated: 2024-11-17T12:04:58.875Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +92,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-next-gen-escapades-upcoming-best-playstation-vr-games-to-try/"><u>[Updated] Next-Gen Escapades Upcoming Best PlayStation VR Games to Try</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-yearly-selection-of-top-free-pc-graphic-artists-in-czechia-your-ultimate-guide-by-movavi/"><u>2024 Yearly Selection of Top Free PC Graphic Artists in Czechia: Your Ultimate Guide by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225420916-m1vmp4-movavi/"><u>安心してM1VをMP4に変換: お手頃価格無料オンラインツール集 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/54sh5paz44gn5l244gi44kl57eo6zug44ox44ot44kw44op44og44cq5yaz55yf44cr44oa44km44oz44ot44o844oj5oml6acg/"><u>無料で使える編集プログラム【写真】ダウンロード手順</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/analyzing-youtubes-creator-rewards-regularity-for-2024/"><u>Analyzing YouTube's Creator Rewards Regularity for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210508606-9789390030071-ancient-science-of-vastu/"><u>Ancient Science of Vastu | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/como-subir-videos-a-instagram-usando-tu-pc-tutorial-para-sistemas-windows-and-macos/"><u>Cómo Subir Vídeos a Instagram Usando Tu PC (Tutorial Para Sistemas Windows & macOS)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-5-most-reliable-iphone-gps-tools-on-the-market/"><u>Discover the 5 Most Reliable iPhone GPS Tools on the Market</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/elevate-traffic-with-these-top-11-facebook-video-tactics/"><u>Elevate Traffic with These Top 11 Facebook Video Tactics</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-poco-m6-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Poco M6 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-meilleures-utilitaires-libres-de-trace-en-2024-classement-de-movavi/"><u>Les Meilleures Utilitaires Libres De Tracé en 2024 : Classement De Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-flv-video-playback-insights-and-tools-using-the-movavi-converter/"><u>Mastering FLV Video Playback: Insights & Tools Using the Movavi Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-communication-gateway-gpt-plus-vpn/"><u>Secure Communication Gateway: GPT + VPN?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transformar-archivos-audio-m4a-al-codec-matroska-gratuito-en-linea-usando-movavi-ejemplo-perfecto/"><u>Transformar Archivos Audio M4A Al Códec Matroska Gratuito en Línea Usando Movavi - Ejemplo Perfecto</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-your-idevice-the-definitive-guide-to-fixing-paused-updates/"><u>Unsticking Your iDevice: The Definitive Guide to Fixing Paused Updates</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-and-aiff-online-movavi/"><u>WMA & AIFF 형식을 제공하는 무료 Online 스위칭 - Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225800438-ogv-mp4-movavi/"><u>オンラインで自由に利用可能な OGV から MP4 へのフリー変換ツール - Movavi</u></a></li>
+</ul></div>
+

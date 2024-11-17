@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Origins of the 2024 CrowdStrike Windows Debacle – A Historical Perspective
-date: 2024-10-31T19:56:56.531Z
-updated: 2024-11-07T08:21:11.719Z
+date: 2024-11-12T06:09:34.207Z
+updated: 2024-11-17T13:08:43.182Z
 tags:
   - apple
 categories:
@@ -51,10 +51,10 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +94,10 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +127,10 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,20 +181,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-essential-compendium-of-affordable-rich-graphics-resources-online/"><u>[New] The Essential Compendium of Affordable, Rich Graphics Resources Online</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-gamers-guide-to-boosting-pc-speed-controls/"><u>[New] The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-spotify-marketing-manual-strategies-and-tactics/"><u>[New] The Ultimate Spotify Marketing Manual Strategies and Tactics</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pinnacle-racing-experiences-best-of-the-best-for-2024/"><u>[Updated] Pinnacle Racing Experiences Best of the Best for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-top-picks-premium-iphone-tune-selectors-for-2024/"><u>[Updated] Top Picks Premium iPhone Tune Selectors for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-tier-hdr-cameras-explained-and-compared/"><u>[Updated] Top-Tier HDR Cameras Explained & Compared</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-razer-mamba-drivers-instantly-and-enhance-your-gaming-today/"><u>Download Razer Mamba Drivers Instantly & Enhance Your Gaming Today</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-quirks-of-playback-solving-frozen-photobooth-videos/"><u>In 2024, The Quirks of Playback Solving Frozen Photobooth Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-secrets-of-gopro-chrono-photography/"><u>In 2024, Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-essential-guide-to-apples-iphone-camera-evolution-in-ios-11-for-2024/"><u>The Essential Guide to Apple's iPhone Camera Evolution in iOS 11 for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-full-potential-top-9-methods-in-vr-cinematography-for-2024/"><u>Unlocking the Full Potential Top 9 Methods in VR Cinematography for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-of-moto-g-power-robust-performance-backed-by-extended-battery-life/"><u>Unveiling the Strengths of Moto G Power: Robust Performance Backed by Extended Battery Life</u></a></li>
-<li><a href="https://some-tips.techidaily.com/utilizing-netflixs-floating-window-feature-effectively-for-2024/"><u>Utilizing Netflix's Floating Window Feature Effectively for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-stepwise-process-turning-video-clocks-backward-on-snap/"><u>[New] 2024 Approved Stepwise Process Turning Video Clocks Backward on Snap</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-online-places-for-youtube-video-growth/"><u>[New] Best Online Places for YouTube Video Growth</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-critical-asmr-series-to-experience/"><u>[New] In 2024, Critical ASMR Series to Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-overload-efficiently-editing-oversized-tiktok-drafts/"><u>[New] Streamline Overload Efficiently Editing Oversized TikTok Drafts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamlined-editing-best-apps-compatible-with-macos-big-sur/"><u>[New] Streamlined Editing Best Apps Compatible with macOS Big Sur</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-quintessential-collection-of-anime-intros/"><u>[New] The Quintessential Collection of Anime Intros</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-twitter-video-tools-effortless-video-uploading/"><u>[New] Top Twitter Video Tools Effortless Video Uploading</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-selection-the-10-best-apps-for-smartphone-video-calls/"><u>[New] Ultimate Selection The 10 Best Apps for Smartphone Video Calls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-typical-podcasters-income/"><u>[New] Unveiling the Typical Podcaster's Income</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-pedagogy-through-vr-innovation/"><u>[Updated] Transforming Pedagogy Through VR Innovation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-content-game-perfectly-tailored-youtube-shorts-thumbnails/"><u>2024 Approved Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-simplified-journey-for-metaverse-personas/"><u>2024 Approved The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-perfect-gaming-experience-kinemaster-on-android/"><u>2024 Approved Unveiling the Perfect Gaming Experience KineMaster on Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-sony-xperia-10-v-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Sony Xperia 10 V is off? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>In 2024, Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-iphone-podcast-listening-experiences/"><u>In 2024, Top iPhone Podcast Listening Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unparalleled-hands-on-gear-in-the-vr-world/"><u>In 2024, Unparalleled Hands-On Gear in the VR World</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-windows-10-missing-bluetooth-problem-swiftly-and-with-simple-fixes/"><u>Resolve the 'Windows 10 Missing Bluetooth' Problem Swiftly and with Simple Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/singapore-launches-solar-panel-installation-at-airports-a-sustainable-initiative/"><u>Singapore Launches Solar Panel Installation at Airports: A Sustainable Initiative</u></a></li>
 </ul></div>
 

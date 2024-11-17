@@ -1,7 +1,7 @@
 ---
 title: Explore The 7 Most In-Demand Cybersecurity Certificates of 2022, Ranked by Industry Experts at ZDNet
-date: 2024-09-19 11:11:38
-updated: 2024-09-20 10:49:30
+date: 2024-11-10T09:44:58.376Z
+updated: 2024-11-16T16:33:17.326Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-filming-flicks-guide-for-pc-mac-smartphone-recording/"><u>[New] Filming Flicks Guide for PC, Mac, Smartphone Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pro-level-strategies-for-saving-and-recording-movs-on-windows-pcs-for-2024/"><u>[Updated] Pro-Level Strategies for Saving and Recording MOVs on Windows PCs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-self-portraits-that-talk-100-words-to-define-you-on-insta/"><u>2024 Approved Self-Portraits That Talk 100 Words to Define You on Insta</u></a></li>
+<li><a href="https://some-tips.techidaily.com/avimpeg-mpeg/"><u>線上免費移除障礙：AVI到MPEG MPEG換算工具 - 摩華維轉換器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-da-aiff-a-flac-su-internet-guida-completa-di-movavi/"><u>Conversione Gratuita Da AIFF a FLAC Su Internet: Guida Completa Di Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-di-file-audio-ad-mp3-con-aif-aiutato-da-intelligenza-artificiale-metodo-affidabile-e-facile-di-movavi/"><u>Conversione Libera Di File Audio Ad MP3 Con AIF Aiutato Da Intelligenza Artificiale - Metodo Affidabile E Facile Di Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragons-dogma-2-pc-breakdown-and-repair-tips/"><u>Dragon's Dogma 2 PC Breakdown and Repair Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/enhance-your-business-efficiency-with-movavis-customer-service-platform/"><u>Enhance Your Business Efficiency with Movavis Customer Service Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/facil-conversao-de-arquivos-raw-para-dng-gratuita-on-line-pela-inteira-com-suporte-tecnico-pelo-movavi/"><u>Fácil Conversão De Arquivos RAW Para DNG Gratuita On-Line Pela Inteira Com Suporte Técnico Pelo Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c12-plus-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-4-effective-methods-fake-gps-location-on-apple-iphone-12-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Effective Methods Fake GPS Location on Apple iPhone 12 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/intruder-alert-hiding-windows-wi-fi-ssid/"><u>Intruder Alert! Hiding Windows Wi-Fi SSID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kunt-u-wma-files-vrije-en-gratis-in-mov-omzetten-onlinemovavi/"><u>Kunt U WMA-Files Vrije en Gratis in MOV Omzetten - Onlinemovavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-archiving-made-easy-and-free-convert-arw-images-to-png-with-movavis-conversion-tools/"><u>Online Archiving Made Easy & Free: Convert ARW Images to PNG with Movavi's Conversion Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/premium-mp4-uploader-for-fb-networks-for-2024/"><u>Premium MP4 Uploader for FB Networks for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723125168419-qidi-tech-q1-pro-assessment-ignite-your-creativity-and-focus/"><u>QIDI Tech Q1 Pro Assessment - Ignite Your Creativity & Focus</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movaiv/"><u>모비 페이지에서 영상 클로닝을 위해 MOVAIV 솔루션: 무료, 쉽거리는 오븐화 - 동영상</u></a></li>
+<li><a href="https://some-tips.techidaily.com/8-windows/"><u>이상한 조각 마우스로 영역 캡처 : 8개의 무료 Windows 화면 캡쳐 프로그램을 선보여주세요!</u></a></li>
+</ul></div>
+

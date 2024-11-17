@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Hottest Programming Languages of 2023: A Comprehensive Guide by TechExpert"
-date: 2024-09-18 18:50:43
-updated: 2024-09-20 12:36:14
+date: 2024-11-15T16:44:50.037Z
+updated: 2024-11-16T16:55:13.484Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs-for-2024/"><u>[New] From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-asgardian-alliance-final-stand/"><u>[Updated] In 2024, Asgardian Alliance Final Stand</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-price-friendly-nimbus-space-wide-file-vault/"><u>2024 Approved Price-Friendly Nimbus Space Wide File Vault</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-sites-analytics-capabilities-using-cookiebot-technology/"><u>Boost Your Site's Analytics Capabilities Using Cookiebot Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-web-traffic-with-cookiebot-technology-the-smart-way-to-seo-success/"><u>Boosting Web Traffic with Cookiebot Technology – The Smart Way to SEO Success</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-based-identity-confirmation-elevated-with-trustids-integration-of-abbyy-optical-character-recognition-technology/"><u>Cloud-Based Identity Confirmation Elevated with TrustID's Integration of ABBYY Optical Character Recognition Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-experience/"><u>Cookiebot-Driven Personalization Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-personalization-enhancing-user-experience/"><u>Cookiebot-Driven Personalization: Enhancing User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-user-engagement-with-smart-analytics/"><u>Cookiebot-Driven Success: Enhancing User Engagement with Smart Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-conversion-optimization-boost-your-site-performance-easily/"><u>Cookiebot-Enabled Conversion Optimization: Boost Your Site Performance Easily!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-enhance-your-websites-performance-and-user-experience/"><u>Cookiebot-Enabled: Enhance Your Website's Performance and User Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-the-ultimate-powering-tool-for-your-digital-marketing-success/"><u>Cookiebot: The Ultimate Powering Tool for Your Digital Marketing Success</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-x50-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor X50 Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-craft-memes-with-kapwings-design-toolkit/"><u>In 2024, Craft Memes with Kapwing's Design Toolkit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-windows-identifying-top-5-cutting-tools/"><u>Mastering Windows Identifying Top 5 Cutting Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-gaming-pleasure-secure-a-trial-of-3-months-worth-of-xbox-game-pass-ultimate-at-the-low-price-of-36-discover-how-on-zdnet/"><u>Maximize Gaming Pleasure: Secure a Trial of 3 Months' Worth of Xbox Game Pass Ultimate at the Low Price of $36 - Discover How on ZDNET</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-in-subscribers-effective-youtube-campaigns/"><u>Surge in Subscribers Effective YouTube Campaigns</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/turning-down-igtv-on-insta-for-2024/"><u>Turning Down IGTV on Insta for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-online-dialogue-is-now-in-the-hands-of-social-giants/"><u>Why Online Dialogue Is Now in the Hands of Social Giants</u></a></li>
+</ul></div>
+

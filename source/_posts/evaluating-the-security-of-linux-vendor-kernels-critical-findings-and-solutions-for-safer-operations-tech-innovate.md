@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Security of Linux Vendor Kernels: Critical Findings and Solutions for Safer Operations | Tech Innovate"
-date: 2024-09-18 15:31:34
-updated: 2024-09-20 11:42:19
+date: 2024-11-12T03:32:18.663Z
+updated: 2024-11-17T06:51:30.313Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-to-reverse-video-on-instagram-complete-guide/"><u>[Updated] 2024 Approved How to Reverse Video on Instagram? [Complete Guide]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimal-strategies-for-editing-and-upgrading-youtube-profiles/"><u>[Updated] 2024 Approved Optimal Strategies for Editing and Upgrading YouTube Profiles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-simple-snippets-for-iphone-sound-capture/"><u>[Updated] 2024 Approved Simple Snippets for iPhone Sound Capture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-looping-videos-for-2024/"><u>[Updated] The Ultimate Guide to Instagram Looping Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/achieving-perfect-video-quality-with-handbrake-ideal-constant-quality-rf-settings-for-various-formats/"><u>Achieving Perfect Video Quality with HandBrake: Ideal Constant Quality RF Settings for Various Formats</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertir-imagenes-de-formato-raf-a-jpeg-sin-coste-con-movavi/"><u>Convertir Imágenes De Formato RAF a JPEG Sin Coste Con Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/public-audio-for-deep-thoughts/"><u>Public Audio for Deep Thoughts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-12-player-apps-com-suporte-a-formato-avi-descubra-o-que-e-xvid/"><u>Top 12 Player Apps Com Suporte a Formato AVI - Descubra O Que É XVID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforme-seus-videos-em-gifs-gratuitamente-on-line-usando-a-ferramenta-de-conversao-do-movavi/"><u>Transforme Seus Vídeos Em GIFs Gratuitamente On-Line Usando a Ferramenta De Conversão Do Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/trasforma-facilmente-i-tuoi-file-amr-in-mp3-con-questi-passaggi-semplici/"><u>Trasforma Facilmente I Tuoi File AMR in MP3 Con Questi Passaggi Semplici!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-premium-features-with-a-complimentary-videoeditorplus-access-claim-yours-now/"><u>Unlock Premium Features with a Complimentary VideoEditorPlus Access - Claim Yours Now!</u></a></li>
+</ul></div>
+

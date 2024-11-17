@@ -1,7 +1,7 @@
 ---
 title: "Experts Warn: Increasing Deployment of AI Systems Escalates Potential Dangers - Insights From Academia | ZDNet"
-date: 2024-09-17 12:29:33
-updated: 2024-09-20 10:23:50
+date: 2024-11-11T02:29:49.711Z
+updated: 2024-11-17T05:09:44.458Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +73,19 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -80,6 +100,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-branding-excellence-integrating-watermarks-and-logos-into-video-media/"><u>[New] In 2024, Branding Excellence Integrating Watermarks and Logos Into Video Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-leverage-popular-tiktok-hashes-for-increased-interactions/"><u>[New] Leverage Popular TikTok Hashes For Increased Interactions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-proven-methods-for-sensational-instagram-puzzle-creation/"><u>[New] Proven Methods for Sensational Instagram Puzzle Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-5-pro-level-photovideo-creators-with-soundtracks/"><u>[New] Top 5 Pro-Level Photo/Video Creators with Soundtracks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-the-future-workplace-with-vr-technology/"><u>[Updated] Crafting the Future Workplace with VR Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-digital-storefronts-for-exquisite-presentation-boxes/"><u>[Updated] Top 10 Digital Storefronts for Exquisite Presentation Boxes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-live-methods-for-quieter-track-output/"><u>2024 Approved Live Methods for Quieter Track Output</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-your-craft-smartphone-lut-enhancements/"><u>2024 Approved Master Your Craft Smartphone LUT Enhancements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-hack-for-free-swiftly-remove-red-eyes-from-iphone-photos/"><u>2024 Approved Tech Hack for Free Swiftly Remove Red Eyes From iPhone Photos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-storytellers-tips-and-techniques-to-create-engaging-narratives/"><u>ChatGPT for Storytellers: Tips and Techniques to Create Engaging Narratives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-sony-xperia-1-v-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Sony Xperia 1 V</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-editing-with-vita-a-complete-review/"><u>In 2024, The Future of Editing with Vita - A Complete Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-hot-40-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Hot 40 Pro to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/instant-identity-protection-blur-image-edges-for-2024/"><u>Instant Identity Protection Blur Image Edges for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-instructions-complete-iphone-data-removal-techniques/"><u>Step-by-Step Instructions: Complete iPhone Data Removal Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uniting-single-scenes-iphone-multi-media-magic-for-2024/"><u>Uniting Single Scenes IPhone Multi-Media Magic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-best-18-online-video-recorders-for-clear-captures-for-2024/"><u>Unveiling the Best 18 Online Video Recorders for Clear Captures for 2024</u></a></li>
+</ul></div>
+

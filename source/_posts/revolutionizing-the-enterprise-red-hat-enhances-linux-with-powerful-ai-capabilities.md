@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing the Enterprise: Red Hat Enhances Linux with Powerful AI Capabilities"
-date: 2024-09-19 14:54:56
-updated: 2024-09-20 10:14:32
+date: 2024-11-11T04:57:54.854Z
+updated: 2024-11-17T10:11:00.571Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +74,31 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +107,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +189,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-pnpdetectedfatalerror-error-on-windows-11/"><u>[Fixed] PNP_Detected_Fatal_Error Error on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mini-masterpieces-top-6-coolest-mini-houses-in-mc/"><u>[New] Mini Masterpieces Top 6 Coolest Mini-Houses in MC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-optimizing-income-a-trifecta-methodology-for-youtube-earnings-assessment/"><u>[Updated] Optimizing Income A Trifecta Methodology for YouTube Earnings Assessment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725287056236-ai/"><u>最新八大無料AI硬件改進舊照片的完美修正程式</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertissez-librement-aac-en-aiff-avec-le-service-en-ligne-gratuit-de-movavi-guide-complet-et-professionnel/"><u>Convertissez Librement AAC en AIFF Avec Le Service en Ligne Gratuit De Movavi – Guide Complet Et Professionnel</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-ultimate-list-of-13-leading-ai-art-software-picked-by-movavi/"><u>Discover the Ultimate List of 13 Leading AI Art Software Picked by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-collage-creation-discover-the-ultimate-5-methods-from-experts-at-movavi/"><u>Effortless Collage Creation: Discover the Ultimate 5 Methods From Experts at Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-lava-blaze-curve-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Lava Blaze Curve 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-video-editing-software-of-2024-how-to-pick-the-perfect-app/"><u>Top Rated Video Editing Software of 2024: How to Pick the Perfect App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/png-movivi/"><u>ウェブ上で自由に利用可能なPNG変換サービス - MoviVi</u></a></li>
+</ul></div>
+

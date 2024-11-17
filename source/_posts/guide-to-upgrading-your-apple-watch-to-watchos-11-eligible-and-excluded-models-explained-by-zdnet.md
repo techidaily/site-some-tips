@@ -1,7 +1,7 @@
 ---
 title: Guide to Upgrading Your Apple Watch to WatchOS 11 – Eligible and Excluded Models Explained by ZDNet
-date: 2024-10-31T17:21:59.167Z
-updated: 2024-11-06T16:52:03.254Z
+date: 2024-11-12T02:21:14.705Z
+updated: 2024-11-16T22:56:58.734Z
 tags:
   - apple
 categories:
@@ -52,6 +52,13 @@ The feature plays into the Apple Watch's cycle-tracking experience, so everythin
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. More widgets for your Smart Stack, including Live Activities
 
 The Smart Stack, introduced in WatchOS 10, is improving slightly with some new widgets.
@@ -62,18 +69,18 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
 
@@ -88,10 +95,10 @@ Jason Hiner/ZDNET
 With WatchOS 11, Apple is adding Check In. Originally launched in iOS 17, Check In allows you to keep track of a friend or loved one by having them confirm when they've reached their destination or have finished something like a gym session. Check In works within the Workout app and Messages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Tap to Cash for quick payments
@@ -101,10 +108,10 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
@@ -114,13 +121,6 @@ Apple is adding the Translate app to WatchOS 11, allowing you to translate in an
 ## 10\. Improved workout tracking for GPS-specific workouts
 
 Soccer, American Football, Australian Football, Outdoor Hockey, Lacrosse, Downhill Skiing, Cross Country Skiing, Snowboarding, Golf, Outdoor Rowing, and other activities are being updated in WatchOS 11 to take advantage of enhancements in GPS positioning for more accurate results. You can also view your route maps for more workout types.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 11\. Tickets in your Wallet get an upgrade
 
@@ -160,22 +160,17 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-leveraging-full-motion-video-on-iphones/"><u>[New] Leveraging Full Motion Video on iPhones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-science-behind-time-warp-visuals/"><u>[New] The Science Behind Time Warp Visuals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>[New] Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-create-internet-laughter-for-2024/"><u>[Updated] Create Internet Laughter for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>[Updated] Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-top-15-activities-perfect-for-podcast-lovers/"><u>[Updated] Top 15 Activities Perfect for Podcast Lovers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-incorporate-tunes-into-ppt-slides/"><u>2024 Approved Incorporate Tunes Into PPT Slides</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-iphones-guide-to-great-night-images/"><u>2024 Approved The Essential iPhones Guide to Great Night Images</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/downloadable-mp4-converter-tool-easily-switch-your-mov-videos-to-mp4-on-any-device-including-mac-and-windows-11/"><u>Downloadable MP4 Converter Tool - Easily Switch Your MOV Videos to MP4 on Any Device Including MAC & Windows 11</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-remedies-for-a-rogue-computer-cursor/"><u>Effortless Remedies for a Rogue Computer Cursor</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-meetings-key-strategies-with-zoom-adapter/"><u>Elevate Meetings Key Strategies with Zoom Adapter</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max with a Mask On</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-top-5-auto-translate-tools-for-2024/"><u>New How to Translate TikTok Videos Top 5 Auto Translate Tools for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-top-10-animation-tools-for-engaging-classroom-learning/"><u>New Top 10 Animation Tools for Engaging Classroom Learning</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-samsungs-picture-editor-features-and-drawbacks-for-2024/"><u>Unveiling Samsung's Picture Editor Features & Drawbacks for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-top-text-styling-portals-for-creatives-for-2024/"><u>Unveiling the Top Text Styling Portals for Creatives for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11-microsoft-enhances-file-sharing-features/"><u>Windows 11: Microsoft Enhances File Sharing Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[New] 2024 Approved The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-maximize-traffic-essential-youtube-seo-equipment/"><u>[New] Maximize Traffic - Essential YouTube SEO Equipment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[Updated] Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-captivating-ae-titles/"><u>[Updated] Innovative Techniques for Captivating AE Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-sound-guide-for-your-android-devices-customization/"><u>[Updated] The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list/"><u>[Updated] Through a Photographer's Eye Our Best 10 Lenses List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-tomtom-actioncam-2023-for-adventure-seekers/"><u>2024 Approved TomTom ActionCam 2023 for Adventure Seekers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-tutorial-from-webp-to-jpeg/"><u>2024 Approved Ultimate Tutorial From WebP to JPEG</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-helldivers-2-crashing-issues-on-windows-computers-for-a-smooth-experience/"><u>How to Fix Helldivers 2 Crashing Issues on Windows Computers for a Smooth Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-decreasing-decibels-in-logic-pro-projects-for-2024/"><u>Subtlety in Sound Decreasing Decibels in Logic Pro Projects for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unravel-facebooks-online-mysteries-what-to-expect/"><u>Unravel Facebook's Online Mysteries – What to Expect</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-5-compelling-literary-video-tts-for-2024/"><u>Unveiling 5 Compelling Literary Video TTs for 2024</u></a></li>
 </ul></div>
 

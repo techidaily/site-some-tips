@@ -1,7 +1,7 @@
 ---
 title: ZDNet's Top Picks for Excellence in Web Development Education
-date: 2024-09-19 16:38:33
-updated: 2024-09-20 10:24:37
+date: 2024-11-11T06:53:22.481Z
+updated: 2024-11-16T16:13:43.086Z
 tags:
   - developer
 categories:
@@ -67,11 +67,31 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +100,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +119,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +189,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/astering-youtube-shorts-key-facts-for-2024/"><u>[New] Mastering YouTube Shorts Key Facts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-practical-guide-to-applying-creative-commons-rights-for-2024/"><u>[Updated] A Practical Guide To Applying Creative Commons Rights for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-least-expensive-skyvault-service-for-big-files/"><u>[Updated] The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-podcast-rss-mastery/"><u>[Updated] Unveiling the Art of Podcast RSS Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creative-stories-zoom-techniques-on-snapchat/"><u>2024 Approved Unleashing Creative Stories Zoom Techniques on Snapchat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/dissective-review-of-sharex-criticism-and-substitutes/"><u>Dissective Review of ShareX Criticism & Substitutes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/friendly-competition-playing-pokemon-go-together-for-maximum-fun-and-success/"><u>Friendly Competition: Playing 'Pokémon Go' Together for Maximum Fun and Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g04-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G04 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-future-of-podcasts-starts-with-smart-name-generation/"><u>In 2024, The Future of Podcasts Starts with Smart Name Generation</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Moto G13 FRP</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tap-into-the-latest-gaming-and-app-splash-of-win11-for-2024/"><u>Tap Into the Latest Gaming and App Splash of Win11 for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-new-lens-on-sonys-s6500-bdp-features-for-2024/"><u>The New Lens on Sony’s S6500 BDP Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-visual-clarity-bypassing-background-in-photopea-for-2024/"><u>Unlocking Visual Clarity Bypassing Background in Photopea for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-rtmp-streams-overcoming-premieres-export-hurdle-for-2024/"><u>Unraveling RTMP Streams Overcoming Premiere's Export Hurdle for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/voc-mp3-voc-mp3/"><u>VOC 이미지를 MP3로 원효화하기: 무료 VOC MP3 변환 가능한 웹 시간으로!</u></a></li>
+</ul></div>
+

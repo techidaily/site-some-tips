@@ -1,7 +1,7 @@
 ---
 title: "How Meta Optimizes LLMs: The Journey Towards Compact and Efficient AI Models"
-date: 2024-09-18 16:33:40
-updated: 2024-09-20 12:50:59
+date: 2024-11-12T03:04:35.671Z
+updated: 2024-11-16T23:19:28.800Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-youtube-banner-success-a-complete-strategy/"><u>[Updated] 2024 Approved Mastering YouTube Banner Success A Complete Strategy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>[Updated] Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-abbyy-top-choice-for-everest-groups-idp-peak-matrix-evaluation/"><u>1. ABBYY: Top Choice for Everest Group's IDP Peak Matrix Evaluation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbey-jahresumsatz-steigt-um-19-in-deutschland-fur-das-jahr-2018-seo-freundliche-ubersicht/"><u>ABBEY Jahresumsatz Steigt Um 19 % in Deutschland Für Das Jahr 2018 - SEO-Freundliche Übersicht</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/accelerating-your-macbooks-performance-an-ssd-upgrade-tutorial/"><u>Accelerating Your MacBook's Performance: An SSD Upgrade Tutorial</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724313333809-cookiebot-enabled-enhance-your-websites-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics & Personalization</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-expression-explore-5-innovative-ai-text-engines/"><u>Elevate Expression: Explore 5 Innovative AI Text Engines</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-curating-tunes-a-comprehensive-guide-to-youtube-lists/"><u>In 2024, Curating Tunes A Comprehensive Guide to YouTube Lists</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme 11 5G.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-enterprise-potential-enhancing-roi-through-ai-driven-content-strategies-insights-from-the-abbyy-blog/"><u>Unlocking Enterprise Potential: Enhancing ROI Through AI-Driven Content Strategies - Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-secrets-an-in-depth-exploration-of-netflix-as-a-premium-streaming-provider/"><u>Unlocking Secrets: An In-Depth Exploration of Netflix as a Premium Streaming Provider</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-cookiebot-technology-for-improved-site-analytics-and-visitor-insights/"><u>Utilizing Cookiebot Technology for Improved Site Analytics and Visitor Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/weltweit-kooperiert-kodak-alaris-mit-abbyy-fur-die-gemeinsame-digitale-datenverarbeitung/"><u>Weltweit Kooperiert Kodak Alaris Mit Abbyy Für Die Gemeinsame Digitale Datenverarbeitung</u></a></li>
+</ul></div>
+

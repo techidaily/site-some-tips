@@ -1,7 +1,7 @@
 ---
 title: "AI Breakthroughs on the Horizon: Holding Knowledge in Your Palm with Predictions | ZDNET Exclusive"
-date: 2024-09-18 10:13:19
-updated: 2024-09-20 10:44:24
+date: 2024-11-11T04:42:30.884Z
+updated: 2024-11-17T06:23:47.607Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-effortless-techniques-for-saving-youtube-videos/"><u>[New] 2024 Approved Effortless Techniques for Saving YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-a-list-to-remember-reddits-highly-endorsed-top-threads/"><u>[Updated] A List to Remember Reddit’s Highly Endorsed Top Threads</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-guide-to-installing-inshot-on-your-windows-computer/"><u>Easy Guide to Installing InShot on Your Windows Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/exploring-movavis-collaboration-opportunities/"><u>Exploring Movavi's Collaboration Opportunities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-from-flac-to-mp3-by-movavi/"><u>Free Online Converter From FLAC to MP3 by Movavi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-guide-to-instagram-video-campaigns-strategy-and-execution/"><u>In 2024, The Ultimate Guide to Instagram Video Campaigns Strategy and Execution</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unveiling-best-live-stream-tools-for-gamers/"><u>In 2024, Unveiling Best Live-Stream Tools for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-charge-image-editing-easily-change-orf-format-using-moveavis-online-tools/"><u>No Charge Image Editing: Easily Change ORF Format Using MoveAVI's Online Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-tutorial-transforming-mp4-audio-tracks-into-mp3-files-with-the-movavi-app-on-mac-computers/"><u>Step-by-Step Tutorial: Transforming MP4 Audio Tracks Into MP3 Files with the Movavi App on Mac Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-best-free-video-to-dvd-converters-of-2024-a-comprehensive-guide/"><u>Top 7 Best Free Video-to-DVD Converters of 2024: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-audio-units-au-a-formatos-mp4-por-internet-gratis-con-movavi/"><u>Transforma Audio Units (AU) a Formatos MP4 Por Internet Gratis Con Movavi</u></a></li>
+</ul></div>
+

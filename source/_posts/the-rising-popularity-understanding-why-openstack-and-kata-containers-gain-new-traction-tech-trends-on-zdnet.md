@@ -1,7 +1,7 @@
 ---
 title: "The Rising Popularity: Understanding Why OpenStack & Kata Containers Gain New Traction | Tech Trends on ZDNet"
-date: 2024-09-17 10:37:23
-updated: 2024-09-20 11:18:32
+date: 2024-11-11T18:45:58.859Z
+updated: 2024-11-16T22:02:53.307Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +86,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dominating-viewers-spaces-channel-empire-rules/"><u>[New] 2024 Approved Dominating Viewers' Spaces Channel Empire Rules</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-prime-examples-14-dynamic-text-animations/"><u>[New] 2024 Approved Prime Examples 14 Dynamic Text Animations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-inshots-ecosystem-a-detailed-editor-app-study-for-2024/"><u>[New] InShot’s Ecosystem A Detailed Editor App Study for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-prime-6-economical-choices-for-ultra-hd-viewing-for-2024/"><u>[Updated] Prime 6 Economical Choices for Ultra HD Viewing for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breaking-down-20mb-files-timing/"><u>2024 Approved Breaking Down 20MB File's Timing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/changer-des-fichiers-mpeg-en-format-flac-gratuitement-sur-internet-guide-de-conversion-video-facile-a-suivre/"><u>Changer Des Fichiers MPEG en Format FLAC Gratuitement Sur Internet - Guide De Conversion Vidéo Facile À Suivre</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-wmv-a-ogg-online-guida-passo-passo-con-movavi/"><u>Conversione Gratuita WMV a Ogg Online: Guida Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/download-e-instalacao-do-capcut-para-windows-guia-passo-a-passo/"><u>Download E Instalação Do CapCut Para Windows - Guia Passo a Passo</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-eradicating-the-netwtw04sys-bsod-issue-in-windows-10-systems/"><u>Expert Tips: Eradicating the Netwtw04.sys BSOD Issue in Windows 10 Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-online-konverter-veer-mov-naar-gif-met-movavi/"><u>Gratis Online Konverter: Veer MOV Naar GIF Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavimp4and/"><u>Movaviのプロセス：無料でMP4ビデオを簡易編集&変換</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-bluetooth-sound-latency-issues-with-these-easy-steps/"><u>Solve Your Bluetooth Sound Latency Issues with These Easy Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/streamline-your-workflow-expert-advice-on-managing-fcpx-storage/"><u>Streamline Your Workflow Expert Advice on Managing FCPX Storage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-7-piu-ottimi-siti-web-per-scaricare-video-youtube-come-mp3-senza-costi/"><u>Top 7 Più Ottimi Siti Web per Scaricare Video YouTube Come MP3 Senza Costi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/wma-avi-movavi/"><u>무료 WMA-AVI 변환 서비스: 온라인 장치로 Movavi 프로그램 사용</u></a></li>
+</ul></div>
+

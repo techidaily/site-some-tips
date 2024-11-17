@@ -1,7 +1,7 @@
 ---
 title: Understanding Adjustments in the Data Science/AI Industry According to ZDNet Analysis
-date: 2024-09-18 12:34:40
-updated: 2024-09-20 12:33:18
+date: 2024-11-10T08:14:50.995Z
+updated: 2024-11-17T01:38:07.506Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +86,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-navigating-stock-photos-free-flawless-and-legal/"><u>[New] 2024 Approved Navigating Stock Photos Free, Flawless, and Legal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transcoding-ttml-and-ssa-into-easy-to-use-srt-format/"><u>[New] Transcoding TTML & SSA Into Easy-to-Use SRT Format</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choose-the-best-mac-livestream-software-today/"><u>[Updated] Choose the Best Mac Livestream Software Today</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>[Updated] The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-easy-path-to-great-audio-recordings-in-windows-11/"><u>2024 Approved The Easy Path to Great Audio Recordings in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/huion-graphics-tablet-pen-not-functioning-heres-how-to-resolve-it-in-no-time/"><u>Huion Graphics Tablet Pen Not Functioning? Here's How to Resolve It in No Time</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-manual-for-using-speech-recognition-in-google-documents/"><u>In 2024, The Complete Manual for Using Speech Recognition in Google Documents</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventive-measures-for-csgo-launch-woes-on-windows-11/"><u>Preventive Measures for CS:GO Launch Woes on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/professional-window-capturer-version-11-for-2024/"><u>Professional Window Capturer - Version 11 for 2024</u></a></li>
+</ul></div>
+

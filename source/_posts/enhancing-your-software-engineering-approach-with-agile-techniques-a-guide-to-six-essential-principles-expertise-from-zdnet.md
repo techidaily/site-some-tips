@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Software Engineering Approach with Agile Techniques: A Guide to Six Essential Principles | Expertise From ZDNET"
-date: 2024-09-17 16:11:30
-updated: 2024-09-20 10:56:19
+date: 2024-11-14T23:04:10.980Z
+updated: 2024-11-17T13:58:25.002Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-conquering-screen-display-challenges-with-google-meet-for-2024/"><u>[Updated] Conquering Screen Display Challenges with Google Meet for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-8-best-screen-recorders-with-no-lag/"><u>[Updated] Top 8 Best Screen Recorders with No Lag</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-6-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 6 activation lock with a professional tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/creating-and-activating-system-restore-points-on-windows-11-a-comprehensive-guide/"><u>Creating & Activating System Restore Points on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-black-screen-on-android-phones/"><u>How to Fix a Black Screen on Android Phones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-3-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 3 Phone without Google Account?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y100a-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y100A? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-oncology-center-enhances-treatment-outcomes-using-advanced-abbyy-idp-solutions/"><u>Innovative Oncology Center Enhances Treatment Outcomes Using Advanced ABBYY IDP Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/innovative-ways-to-enhance-your-websites-visibility-mastering-page-optimization/"><u>Innovative Ways to Enhance Your Website's Visibility: Mastering Page Optimization</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-art-of-fixing-ghost-recon-breakpoint-say-goodbye-to-frustrating-crashes/"><u>Master the Art of Fixing Ghost Recon: Breakpoint – Say Goodbye to Frustrating Crashes</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigate-web-with-ease-using-edges-split-screen-feature-for-2024/"><u>Navigate Web with Ease Using Edge's Split Screen Feature for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-power-boosting-traffic-and-engagement/"><u>Optimize with Cookiebot Power: Boosting Traffic and Engagement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/previsions-pour-lessor-de-la-main-doeuvre-numerique-dans-les-entreprises-plus-de-50-daugmentation-en-2021-etude-detaillee-par-abbyy/"><u>Prévisions Pour L'essor De La Main-D'oeuvre Numérique Dans Les Entreprises (Plus De 50% D'augmentation en 2021) – Étude Détaillée Par ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rapidez-au-detriment-de-la-souplesse-comment-lacceleration-du-processus-douanier-a-la-frontiere-royaume-uniue-affecte-le-commerce/"><u>Rapidez Au Détriment De La Souplesse : Comment L'accélération Du Processus Douanier À La Frontière Royaume-Uni/UE Affecte Le Commerce</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-dadoption-des-technologies-dans-lindustrie-de-lassurance-un-plan-detaille/"><u>Stratégies D'Adoption Des Technologies Dans L'Industrie De L'Assurance : Un Plan Détaillé</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamlining-success-your-ultimate-roadmap-for-synchronizing-human-resources-procedures-and-information-in-automation/"><u>Streamlining Success: Your Ultimate Roadmap for Synchronizing Human Resources, Procedures & Information in Automation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/valider-les-pieces-didentite-a-distance-grace-a-la-technologie-de-reconnaissance-optique-de-caracteres-ocr-de-abbyy-avec-le-systeme-trustid-en-nuage/"><u>Valider Les Pièces D'identité À Distance Grâce À La Technologie De Reconnaissance Optique De Caractères (OCR) De ABBYY Avec Le Système TrustID en Nuage</u></a></li>
+</ul></div>
+

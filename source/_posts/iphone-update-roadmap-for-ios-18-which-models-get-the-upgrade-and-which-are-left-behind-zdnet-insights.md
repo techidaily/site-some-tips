@@ -1,7 +1,7 @@
 ---
 title: "IPhone Update Roadmap for iOS 18: Which Models Get the Upgrade and Which Are Left Behind | ZDNet Insights"
-date: 2024-09-19 19:17:44
-updated: 2024-09-20 12:50:37
+date: 2024-11-10T14:59:38.360Z
+updated: 2024-11-17T09:58:58.352Z
 tags:
   - developer
 categories:
@@ -41,11 +41,31 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -56,6 +76,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -92,6 +119,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +189,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-sdr-to-hd-now-hdr-the-next-leap-in-editing-workflows/"><u>[New] In 2024, SDR to HD, Now HDR The Next Leap in Editing Workflows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unleash-the-power-of-stories-free-online-and-mobile-solutions/"><u>[New] In 2024, Unleash the Power of Stories – Free, Online & Mobile Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-sonic-sanctuary-the-mac-experience-for-2024/"><u>[New] Sonic Sanctuary The Mac Experience for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-vault-in-the-sky-for-every-picture-free-and-paid-alternatives-explored/"><u>[New] Vault in the Sky for Every Picture Free & Paid Alternatives Explored</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlock-fb-potential-link-your-youtube-video/"><u>[Updated] 2024 Approved Unlock FB Potential Link Your YouTube Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/"><u>[Updated] In 2024, Tips for Posting Wide Angle Photos to Facebook From Smartphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-routes-turning-pinterest-vids-into-music-files/"><u>[Updated] Ultimate Routes Turning Pinterest Vids Into Music Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-for-acquiring-flawless-photos-on-the-internet/"><u>2024 Approved Strategies for Acquiring Flawless Photos on the Internet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-tailored-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>2024 Approved Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-artisans-guide-mastering-gopro-video-editing/"><u>2024 Approved The Artisan's Guide Mastering GoPro Video Editing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-htc-u23-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your HTC U23 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-almanac-key-takeaways-from-filmora-editioning-for-2024/"><u>The Editor’s Almanac Key Takeaways From Filmora Editioning for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ticklishtunes-your-guide-to-amusing-ringtone-downloads-for-2024/"><u>TicklishTunes Your Guide to Amusing Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unravel-the-mystery-of-tempo-control-in-instagram-stories-for-2024/"><u>Unravel the Mystery of Tempo Control in Instagram Stories for 2024</u></a></li>
+</ul></div>
+

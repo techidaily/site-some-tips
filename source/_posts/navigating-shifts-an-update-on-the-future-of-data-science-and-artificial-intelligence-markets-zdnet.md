@@ -1,7 +1,7 @@
 ---
 title: "Navigating Shifts: An Update on the Future of Data Science and Artificial Intelligence Markets | ZDNet"
-date: 2024-09-17 17:24:16
-updated: 2024-09-20 10:43:25
+date: 2024-11-16T00:29:27.158Z
+updated: 2024-11-17T01:30:50.690Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-creative-edge-pushing-boundaries-in-photography/"><u>[New] 2024 Approved The Creative Edge Pushing Boundaries in Photography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[New] In 2024, Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-discover-the-best-10-top-video-translation-platforms-for-multilingual-professionals-for-2024/"><u>[Updated] Discover the Best 10 Top Video Translation Platforms for Multilingual Professionals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uipathabbyy-flexicapture/"><u>紙請求書ベースの支払い自動化 - UIPathとABBYY FlexiCapture連携で生産性向上</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-embarks-on-a-revolutionary-journey-in-organizing-documents-by-type/"><u>ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-emerges-at-the-forefront-of-process-optimization-per-new-isg-provider-lens-insights/"><u>ABBYY Emerges at the Forefront of Process Optimization, per New ISG Provider Lens™ Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-the-key-to-controlling-your-smart-home-system/"><u>ChatGPT: The Key To Controlling Your Smart Home System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-unidentified-device-errors-on-w11w10/"><u>Eliminating Unidentified Device Errors on W11/W10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-narzo-60-pro-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-vivo-y78plus-t1-edition-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Vivo Y78+ (T1) Edition to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/is-your-ipad-hot-find-out-why-and-how-to-keep-it-chill-247/"><u>Is Your iPad Hot? Find Out Why & How to Keep It Chill 24/7</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-cookiebot-technology-boost-your-sites-engagement-and-conversions/"><u>Optimized With Cookiebot Technology - Boost Your Site's Engagement and Conversions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimized-with-crawlbot-enhancing-site-traffic/"><u>Optimized with CrawlBot: Enhancing Site Traffic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/senior-software-engineer-mihajlo-mulic-joins-abbyy-team/"><u>Senior Software Engineer Mihajlo Mulic Joins ABBYY Team</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-top-10-advantages-of-leveraging-process-analytics-insights-from-the-abbyy-expert-team/"><u>The Top 10 Advantages of Leveraging Process Analytics: Insights From the ABBYY Expert Team</u></a></li>
+</ul></div>
+

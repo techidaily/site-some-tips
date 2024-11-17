@@ -1,7 +1,7 @@
 ---
 title: Leveraging Generative AI and Large Language Models (LLM) for Enhanced Business Insights - An Expert's Guide
-date: 2024-09-18 17:26:57
-updated: 2024-09-20 12:49:38
+date: 2024-11-10T20:48:41.879Z
+updated: 2024-11-17T00:33:30.017Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,11 +74,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-explore-aspect-ratios-for-stunning-video-outputs/"><u>[New] In 2024, Explore Aspect Ratios for Stunning Video Outputs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-modern-uses-of-drones-to-coming-innovations/"><u>[New] Modern Uses of Drones to Coming Innovations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-enhancing-your-file-navigation-on-windows-a-step-by-step-guide/"><u>1. Enhancing Your File Navigation on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-protecting-your-data-against-onedrive-software-glitches/"><u>1. Protecting Your Data Against OneDrive Software Glitches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cut-the-cord-migrating-playlists-with-ease/"><u>Cut the Cord Migrating Playlists with Ease</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guia-facil-para-crear-una-copia-de-windows-server-2022-en-un-disco-duro-distinto/"><u>Guía Fácil Para Crear Una Copia De Windows Server 2022 en Un Disco Duro Distinto</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-microsofts-directx-raytracing-dxr-innovation-propels-next-gen-pc-gaming-performance/"><u>How Microsoft's DirectX Raytracing (DXR) Innovation Propels Next-Gen PC Gaming Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-s23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel S23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-motorola-edge-40-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Motorola Edge 40 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-10-engaging-screen-free-mobile-games-for-android-users/"><u>In 2024, Top 10 Engaging Screen-Free Mobile Games for Android Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-search-of-quality-identifying-the-top-5-virtual-title-designers/"><u>In Search of Quality Identifying the Top 5 Virtual Title Designers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/leap-into-virtual-gatherings-xbox-zoom-mastery/"><u>Leap Into Virtual Gatherings Xbox Zoom Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/setting-up-your-preferred-mic-and-cam-in-windows-11-step-by-step-guide/"><u>Setting Up Your Preferred Mic & Cam in Windows 11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/significant-upgrade-unveiled-icloud-now-fully-functional-with-windows-os/"><u>Significant Upgrade Unveiled: ICloud Now Fully Functional with Windows OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/step-by-step-guide-concealing-your-taskbar-in-windows-10/"><u>Step-by-Step Guide: Concealing Your Taskbar in Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-optimal-key-binding-tools-on-windows-systems/"><u>Ultimate Guide to Optimal Key Binding Tools on Windows Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/upcoming-mandatory-windows-11-update-23h2-what-you-need-to-know/"><u>Upcoming Mandatory Windows 11 Update 23H2: What You Need to Know</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-is-my-apple-watch-touch-screen-not-working/"><u>Why Is My Apple Watch Touch Screen Not Working?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-microsofts-recall-functionality-works-without-artificial-intelligence-in-computers/"><u>Why Microsoft's Recall Functionality Works Without Artificial Intelligence in Computers</u></a></li>
+</ul></div>
+

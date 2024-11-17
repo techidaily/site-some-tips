@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Shifts: Potential Realignment in the Artificial Intelligence & Data Science Sector"
-date: 2024-09-17 18:34:44
-updated: 2024-09-20 10:47:11
+date: 2024-11-10T10:16:59.603Z
+updated: 2024-11-17T05:13:41.750Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>[New] Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-elevate-your-spirit-with-these-10-must-see-movies/"><u>[New] In 2024, Elevate Your Spirit with These 10 Must-See Movies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-winning-on-spotifys-ad-platform/"><u>[New] Strategies for Winning on Spotify's Ad Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-essentials-navigating-whatsapp-call-functionality/"><u>[New] The Essentials Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-11-windows-11-secrets-unveiled/"><u>[New] Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-gopro-timelapse-photography/"><u>[New] Unveiling the Secrets of GoPro Timelapse Photography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-iphone-night-snap-strategies-unveiled-for-2024/"><u>[Updated] IPhone Night Snap Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlined-playback-import-tunes-into-inshot/"><u>[Updated] Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-lg-4k-display-a-comprehensive-overview/"><u>[Updated] Ultimate LG 4K Display A Comprehensive Overview</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ranking-the-real-heavies-youtube-video-watch-hours-top-10/"><u>2024 Approved Ranking the Real Heavies YouTube Video Watch Hours Top 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>2024 Approved Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y27-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y27 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/high-end-8-cam-modifiers-for-crystal-clear-feeds/"><u>High-End 8 Cam Modifiers for Crystal Clear Feeds</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-90-gt-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor 90 GT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/power-in-a-small-package-the-leading-mini-desktops-for-gamers/"><u>Power in a Small Package: The Leading Mini Desktops for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-essential-gratuitous-lut-downloads-of-the-year-for-2024/"><u>Top 10 Essential, Gratuitous LUT Downloads of the Year for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-multi-task-efficiency-splitting-your-display-on-macos-devices/"><u>Unlocking Multi-Task Efficiency: Splitting Your Display on macOS Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveil-the-subject-background-removal-techniques-in-photopea-for-2024/"><u>Unveil the Subject Background Removal Techniques in Photopea for 2024</u></a></li>
+</ul></div>
+

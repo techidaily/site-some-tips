@@ -1,7 +1,7 @@
 ---
 title: "Exploring Enhanced AI Load Management in New Kubernetes Update: What You Need to Know"
-date: 2024-09-17 14:16:36
-updated: 2024-09-20 12:47:50
+date: 2024-11-16T04:06:33.751Z
+updated: 2024-11-16T23:53:54.100Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,19 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +137,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-a-closer-look-at-youtubes-payment-system-and-its-potential/"><u>[Updated] In 2024, A Closer Look at YouTube's Payment System and Its Potential</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-checklist-for-smooth-transitions/"><u>[Updated] The Ultimate Checklist for Smooth Transitions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-promotion-essentials/"><u>2024 Approved Metaverse Promotion Essentials</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-potential-best-video-editing-hacks/"><u>2024 Approved Unlock Your Potential Best Video Editing Hacks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-gionee-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Gionee to Protect Your Individual Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-c53-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme C53?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy A23 5G Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamlining-virtual-meetings-in-google-mail/"><u>In 2024, Streamlining Virtual Meetings in Google Mail</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/rtx-2060-super-graphics-card-latest-drivers-for-windows-11/"><u>RTX 2060 Super Graphics Card - Latest Drivers for Windows 11</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/step-by-step-tutorial-seamlessly-fusing-mp3-tracks-using-windows-11/"><u>Step-by-Step Tutorial: Seamlessly Fusing MP3 Tracks Using Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-motion-blur-free-videos-top-phones-with-ois-technology-advantage-for-2024/"><u>Unmatched Motion Blur-Free Videos Top Phones with OIS Technology Advantage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-3d-lut-magic-a-deep-dive-into-photoshop-for-2024/"><u>Unveiling 3D LUT Magic A Deep Dive Into Photoshop for 2024</u></a></li>
+</ul></div>
+

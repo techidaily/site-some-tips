@@ -1,7 +1,7 @@
 ---
 title: "1. Unveiling Ubuntu 24.04: A Rapid and Robust Security Haven for Modern Users | ZDNet"
-date: 2024-09-18 13:21:24
-updated: 2024-09-20 11:25:54
+date: 2024-11-10T14:17:19.286Z
+updated: 2024-11-16T18:46:57.155Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +79,19 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +112,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +149,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile/"><u>[New] 2024 Approved Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-superior-applications-for-image-driven-video-creation/"><u>[New] Superior Applications for Image-Driven Video Creation</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-fb-video-extractor-for-pc-mobile-and-mac/"><u>[Updated] FB Video Extractor for PC, Mobile & Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-exclusive-guide-to-best-4k-screens-for-mac-devotees/"><u>[Updated] The Exclusive Guide to Best 4K Screens for Mac Devotees</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-understanding-the-transformations-in-vegaspro-19/"><u>[Updated] Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-fourfold-path-to-blurring-iphone-images/"><u>2024 Approved The Fourfold Path to Blurring iPhone Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dx11-version-compatibility-glitches-on-wwe-2k-battlegrounds-game-console/"><u>Fix DX11 Version Compatibility Glitches on WWE 2K Battlegrounds Game Console</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/high-definition-gaming-with-lg-27ud68-monitor-review/"><u>High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-90-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor 90 Phone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-iphone-virtual-reality-games-to-beat-your-high-scores/"><u>In 2024, Top 10 iPhone Virtual Reality Games to Beat Your High Scores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-smooth-ocean-footage-proven-film-makers-methods/"><u>In 2024, Unlocking Smooth Ocean Footage Proven Film-Maker's Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/melodies-and-movements-uncovering-three-economical-methods-of-syncing-sound-with-iphone-videos-for-2024/"><u>Melodies and Movements Uncovering Three Economical Methods of Syncing Sound with iPhone Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-platforms-for-amplifying-youtube-content-for-2024/"><u>Top Platforms for Amplifying YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-of-ifunny-meme-app-usage/"><u>Unveiling the Secrets of iFunny Meme App Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-wont-miss-the-mark-in-4-key-areas-compared-to-gpt-3/"><u>Why Claude 3 Won't Miss the Mark in 4 Key Areas Compared to GPT-3</u></a></li>
+</ul></div>
+

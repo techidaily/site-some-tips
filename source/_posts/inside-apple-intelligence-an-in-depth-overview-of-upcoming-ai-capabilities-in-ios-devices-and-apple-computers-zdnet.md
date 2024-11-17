@@ -1,7 +1,7 @@
 ---
 title: "Inside Apple Intelligence: An In-Depth Overview of Upcoming AI Capabilities in iOS Devices and Apple Computers | ZDNet"
-date: 2024-11-01T02:38:51.274Z
-updated: 2024-11-07T06:17:49.324Z
+date: 2024-11-11T20:56:50.251Z
+updated: 2024-11-17T08:51:12.432Z
 tags:
   - apple
 categories:
@@ -36,6 +36,19 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What does Apple Intelligence do?
 
 Apple
@@ -55,13 +68,6 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,10 +85,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -97,6 +103,13 @@ Apple is adding natural language photo and video search to its Photos app. This 
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does systemwide AI text generation work?
 
 Apple
@@ -110,10 +123,10 @@ The same feature can help users make major edits to text, such as changing the t
 Apple devices will also get AI upgrades for recordings and transcriptions in Voice Memos and Phone, as users can quickly transcribe voice notes with AI.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Image Playground?
@@ -127,13 +140,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -218,22 +224,19 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[New] 2024 Approved Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-screenshot-expert-evaluator/"><u>[New] ScreenShot Expert Evaluator</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-action-footage-enhanced-top-mic-picks/"><u>[Updated] In 2024, Action Footage Enhanced Top Mic Picks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>[Updated] Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[Updated] The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-list-of-xsplits-equals/"><u>[Updated] The Ultimate List of Xsplit's Equals</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocked-treasures-art-without-intellectual-property-restrictions/"><u>[Updated] Unlocked Treasures Art Without Intellectual Property Restrictions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-iphone-hdr-photo-perfection/"><u>2024 Approved The Art of iPhone HDR Photo Perfection</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-zoom-services-directly-from-your-inbox-gmail-edition/"><u>2024 Approved Utilizing Zoom Services Directly From Your Inbox - Gmail Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cut-the-clutter-polishing-videos-using-enhancer-22/"><u>Cut the Clutter Polishing Videos Using Enhancer 2.2</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-ahead-with-technology-shop-the-best-snapdragon-elite-x-notebooks-enhanced-by-microsoft-copilot-availability/"><u>Get Ahead with Technology: Shop the Best Snapdragon Elite X Notebooks Enhanced by Microsoft Copilot Availability</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/h-sound-transformation-essential-ios-apps-to-convert-youtube-mp3-wise/"><u>Smooth Sound Transformation Essential iOS Apps to Convert YouTube MP3-Wise</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-snapchat-highlights-for-2024/"><u>Unlocking the Potential of Snapchat Highlights for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-using-multiple-screens-on-netflix-for-2024/"><u>Unveiling the Secrets of Using Multiple Screens on Netflix for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/virtual-filmscapes-the-future-of-entertainment-for-2024/"><u>Virtual Filmscapes The Future of Entertainment for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/vlcdvd/"><u>VLCプレーヤーで貸出用DVD再生不能の理由とそれに対する解決策</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-discovering-the-capabilities-of-bandicams-screen-capture-feature-for-2024/"><u>[New] Discovering the Capabilities of Bandicam's Screen Capture Feature for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-impact-of-weather-on-syma-x8c-performance/"><u>[New] The Impact of Weather on Syma X8C Performance</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-transform-stories-in-a-flash-free-extensions-and-mobile-magic-for-2024/"><u>[New] Transform Stories in a Flash – Free Extensions & Mobile Magic for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unleash-the-magic-of-videos-on-windows-mobile/"><u>[New] Unleash the Magic of Videos on Windows Mobile</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-mechanism-behind-cross-audio-blending/"><u>[New] Unveiling the Mechanism Behind Cross-Audio Blending</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlimited-verbal-input-processing-for-free/"><u>[Updated] Unlimited Verbal Input Processing for Free</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>2024 Approved How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-ios-podcast-acquisition/"><u>2024 Approved The Essential Guide to iOS Podcast Acquisition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-se-2020-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone SE (2020) and iPad Securely</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boosting-views-a-guide-to-effective-facebook-video-advertising-techniques/"><u>Boosting Views A Guide to Effective Facebook Video Advertising Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-oppo-k11x-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo K11x Safely | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-100-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor 100 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategy-sketches-plotting-the-market-map-for-2024/"><u>Strategy Sketches Plotting the Market Map for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshoot-like-a-pro-advanced-techniques-to-restore-windows-update-functionality-in-windows-11-and-10/"><u>Troubleshoot Like a Pro: Advanced Techniques to Restore Windows Update Functionality in Windows 11 & 10</u></a></li>
 </ul></div>
 

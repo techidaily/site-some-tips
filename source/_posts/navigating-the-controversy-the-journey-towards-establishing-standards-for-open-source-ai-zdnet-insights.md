@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Controversy: The Journey Towards Establishing Standards for Open Source AI | ZDNet Insights"
-date: 2024-09-17 15:57:30
-updated: 2024-09-20 11:20:37
+date: 2024-11-13T18:15:24.131Z
+updated: 2024-11-17T13:36:39.167Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-best-hidden-instagram-tool-for-clandestine-stories-for-2024/"><u>[New] Best Hidden Instagram Tool for Clandestine Stories for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-dissecting-dji-flyer-x20-fpv-headset-capabilities-for-2024/"><u>[New] Dissecting DJi Flyer X20 FPV Headset Capabilities for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-elevate-your-live-streaming-with-phone-webcams-and-filming-hacks-for-2024/"><u>[New] Elevate Your Live Streaming with Phone Webcams and Filming Hacks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-navigating-the-world-of-screen-capture-with-bandicam-for-2024/"><u>[New] Navigating the World of Screen Capture with Bandicam for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>[New] Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unparalleled-window-watchers-top-video-player-picks/"><u>[New] Unparalleled Window Watchers Top Video Player Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-notch-low-speed-mobile-video-tools-iosandroid/"><u>[Updated] Top-Notch Low-Speed Mobile Video Tools iOS/Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tailoring-your-video-for-optimal-instagram-impact/"><u>2024 Approved Tailoring Your Video for Optimal Instagram Impact</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-mobile-and-web-photo-booster-at-no-cost/"><u>2024 Approved Ultimate Mobile & Web Photo Booster at No Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-satirical-genius-in-the-metaverse-how-to-meme-creation/"><u>2024 Approved Unleashing Satirical Genius in the Metaverse – How-To Meme Creation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>2024 Approved Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-lava-blaze-pro-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Lava Blaze Pro 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-gt-5-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme GT 5 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-strengthening-community-wellness-with-targeted-ads/"><u>In 2024, Strengthening Community Wellness with Targeted Ads</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-thorough-review-easy-approach-to-hdr-enhancement/"><u>In 2024, Thorough Review Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>In 2024, Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-alternatives-3-best-video-sharing-sites/"><u>YouTube Alternatives 3 Best Video Sharing Sites</u></a></li>
+</ul></div>
+

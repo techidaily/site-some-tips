@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Raspberry Pi Availability Woes: Tips for Securing Your Project Despite Supply Hurdles | Tech Savvy Solutions by ZDNET"
-date: 2024-09-19 17:24:28
-updated: 2024-09-20 10:17:10
+date: 2024-11-14T07:58:27.090Z
+updated: 2024-11-17T03:17:45.810Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-first-steps-in-the-digital-dollar-youtube-earning-hacks/"><u>[New] In 2024, First Steps in the Digital Dollar - YouTube Earning Hacks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamline-your-content-5-efficient-ways-to-manipulate-vimeo-videos/"><u>[New] In 2024, Streamline Your Content 5 Efficient Ways to Manipulate Vimeo Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>[Updated] 2024 Approved How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exciting-new-enhancements-coming-soon-microsoft-improves-snipping-tool-and-paint-on-windows-11/"><u>Exciting New Enhancements Coming Soon: Microsoft Improves Snipping Tool & Paint on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guide-to-turning-off-windows-11s-built-in-security-microsoft-defender-explained/"><u>Guide to Turning Off Windows 11'S Built-In Security: Microsoft Defender Explained</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-pop-8-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Pop 8 Phone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-the-new-run0-feature-phasing-out-sudo-in-the-linux-world/"><u>Is the New Run0 Feature Phasing Out Sudo in the Linux World?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/latest-news-roundup-changes-to-netflix-subscription-options-and-improved-solutions-for-iphone-repairs/"><u>Latest News Roundup: Changes to Netflix Subscription Options & Improved Solutions for iPhone Repairs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/locating-your-apps-executable-in-no-time-a-fast-guide-for-windows-10-users/"><u>Locating Your App's Executable in No Time: A Fast Guide for Windows 10 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/maximize-productivity-convert-untapped-mac-keyboard-buttons-to-instant-shortcut-magic-using-our-simple-tool/"><u>Maximize Productivity: Convert Untapped Mac Keyboard Buttons to Instant Shortcut Magic Using Our Simple Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/migrating-applications-from-one-hard-drive-to-another-on-windows-11-a-step-by-step-guide/"><u>Migrating Applications From One Hard Drive to Another on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/no-more-local-watches-netflix-abandons-windows-offline-download-feature/"><u>No More Local Watches? Netflix Abandons Windows Offline Download Feature</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revisiting-the-eco-friendly-era-the-case-for-apples-return-to-plastic-notebook-design/"><u>Revisiting the Eco-Friendly Era: The Case for Apple's Return to Plastic Notebook Design</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/step-by-step-guide-transforming-3gp-videos-to-mp3-format-with-superior-sound-quality/"><u>Step-by-Step Guide: Transforming 3GP Videos to MP3 Format with Superior Sound Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-diagnosing-and-repairing-recurring-mouse-connectivity-problems/"><u>The Ultimate Guide to Diagnosing and Repairing Recurring Mouse Connectivity Problems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862790686-unbeatable-dell-gaming-screen-at-an-amazing-price-199/"><u>Unbeatable Dell Gaming Screen at an Amazing Price: $199</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/"><u>World of Tanks Blitz Stability Issues? Here's How to Stop the Game From Crashing</u></a></li>
+</ul></div>
+

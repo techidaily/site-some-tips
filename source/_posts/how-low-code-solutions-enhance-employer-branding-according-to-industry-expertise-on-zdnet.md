@@ -1,7 +1,7 @@
 ---
 title: How Low-Code Solutions Enhance Employer Branding, According to Industry Expertise on ZDNet
-date: 2024-09-17 16:42:58
-updated: 2024-09-20 10:41:26
+date: 2024-11-12T02:09:45.234Z
+updated: 2024-11-17T08:28:53.116Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -67,6 +74,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-websites-for-downloading-snapchat-ringtone/"><u>[New] 2024 Approved Best Websites For Downloading Snapchat Ringtone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elite-6-ad-free-android-screen-captures/"><u>[New] Elite 6 AD-Free Android Screen Captures</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>[New] The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>[New] The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-20-vlogger-themes/"><u>[New] Unlocking Creativity Top 20 Vlogger Themes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-budget-planning-for-music-video-production/"><u>[Updated] Budget Planning for Music Video Production</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-keeping-the-joyful-jokes-techniques-to-download-tweets-animated-content/"><u>[Updated] Keeping the Joyful Jokes Techniques to Download Tweets’ Animated Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-streamline-your-browsing-eliminate-youtube-ads-in-chrome-firefox-ios/"><u>[Updated] Streamline Your Browsing Eliminate YouTube Ads in Chrome, Firefox, iOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-potential-of-your-phone-individual-ringtone-creation-on-android/"><u>[Updated] Unlock the Potential of Your Phone Individual Ringtone Creation on Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elite-screen-recording-software-unlimited-recordings/"><u>2024 Approved Elite Screen Recording Software, Unlimited Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creative-edge-advanced-tips-for-shooting-with-gopro-hero5-black/"><u>2024 Approved The Creative Edge Advanced Tips for Shooting with GoPro Hero5 Black</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-potential-of-todays-drones-for-tomorrow/"><u>2024 Approved Unveiling the Potential of Today's Drones for Tomorrow</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ae-titles-for-striking-visual-impact/"><u>In 2024, Top AE Titles for Striking Visual Impact</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-optimal-sites-for-snagging-snapchat-alert-tunes/"><u>In 2024, Top Picks Optimal Sites for Snagging Snapchat Alert Tunes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-basics-of-vlogging-gear-and-software/"><u>In 2024, Unveiling the Basics of Vlogging Gear & Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-12-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 12 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/strategie-di-backup-ottimizzate-con-copia-incrementale-e-differenziale-per-windows-10-versione-11/"><u>Strategie Di Backup Ottimizzate Con Copia Incrementale E Differenziale per Windows 10, Versione 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-s-ultimate-guide-to-time-lapse-video-editing-software/"><u>Updated In 2024, S Ultimate Guide to Time-Lapse Video Editing Software</u></a></li>
+</ul></div>
+

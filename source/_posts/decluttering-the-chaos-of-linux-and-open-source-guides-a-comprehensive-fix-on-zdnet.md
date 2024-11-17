@@ -1,7 +1,7 @@
 ---
 title: "Decluttering the Chaos of Linux and Open-Source Guides: A Comprehensive Fix on ZDNet"
-date: 2024-09-19 23:52:33
-updated: 2024-09-20 11:48:49
+date: 2024-11-11T20:52:04.153Z
+updated: 2024-11-16T16:04:13.898Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -72,6 +86,19 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +150,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-overcoming-grey-screens-in-gaming-recording/"><u>[New] 2024 Approved Overcoming Grey Screens in Gaming Recording</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pinnacle-sound-selections-android-based/"><u>[New] Pinnacle Sound Selections, Android-Based</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>[New] Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-pro-tips-for-effortless-photos-and-videos-in-windows-11-for-2024/"><u>[New] Pro Tips for Effortless Photos & Videos in Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-strategies-for-effective-use-of-classroom-media/"><u>[New] Strategies for Effective Use of Classroom Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tech-savvy-guide-from-digital-to-physical-dvds-on-mac/"><u>[New] Tech Savvy Guide From Digital to Physical - DVDs on Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-6-online-communities-catering-to-the-commercial-world/"><u>[New] Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-8-best-video-conferencing-software-for-small-business-safe-and-stable-for-2024/"><u>[Updated] 8 Best Video Conferencing Software for Small Business (Safe and Stable) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unmatched-clarity-our-choice-of-the-top-10-camera-lenses/"><u>[Updated] Unmatched Clarity Our Choice of the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-creatives-handbook-obtaining-stock-visuals-for-media/"><u>2024 Approved The Creative's Handbook Obtaining Stock Visuals for Media</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-wealth-reddits-top-13-money-making-methods/"><u>2024 Approved Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-ways-to-survive-and-thrive-in-the-ai-dominated-workplace/"><u>6 Ways to Survive and Thrive in the AI-Dominated Workplace</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-12-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 12</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-android-auditory-guide-adding-personalized-sounds-and-ringtones/"><u>In 2024, The Complete Android Auditory Guide Adding Personalized Sounds and Ringtones</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-on-the-go-charging-capacity-our-top-pick-for-a-140w-multi-device-power-bank-revealed-zdnet/"><u>Maximize On-The-Go Charging Capacity! Our Top Pick for a 140W Multi-Device Power Bank Revealed | ZDNET</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-drones-indispensable-accessories-list/"><u>Maximizing Drones Indispensable Accessories List</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-beginners-guide-to-key-camera-movements-in-film-for-2024/"><u>The Beginner's Guide to Key Camera Movements in Film for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-checklist-for-crafting-dynamic-vimeo-conclusions/"><u>The Ultimate Checklist for Crafting Dynamic Vimeo Conclusions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-microsoft-edges-stability-issues-in-windows-11/"><u>Troubleshooting Microsoft Edge's Stability Issues in Windows 11</u></a></li>
+</ul></div>
+

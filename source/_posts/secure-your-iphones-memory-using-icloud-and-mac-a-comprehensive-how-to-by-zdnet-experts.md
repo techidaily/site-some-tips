@@ -1,7 +1,7 @@
 ---
 title: "Secure Your iPhone's Memory Using iCloud & Mac: A Comprehensive How-To by ZDNet Experts"
-date: 2024-11-03T21:05:50.930Z
-updated: 2024-11-07T01:29:11.876Z
+date: 2024-11-12T03:41:23.026Z
+updated: 2024-11-16T19:52:23.415Z
 tags:
   - apple
 categories:
@@ -24,6 +24,13 @@ Using a computer to back up your phone won't cost you a monthly iCloud membershi
 
 ## Here's how to back up your iPhone with iCloud
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Go to settings and tap on your name at the top
 
 Image: Maria Diaz / ZDNet
@@ -31,26 +38,32 @@ Image: Maria Diaz / ZDNet
 This option gives you access to your Apple ID, iCloud, and Purchases settings. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 2: Tap on iCloud
 
 Image: Maria Diaz / ZDNet
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 3: Go to iCloud Backup
 
 Image: Maria Diaz / ZDNet
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Enable iCloud Backup and select Back up Now
 
@@ -63,10 +76,10 @@ Tap on the toggle to enable iCloud backups, and **Back Up Now** will appear, sel
 ## Here's how to back up your iPhone on a Mac
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Connect your iPhone to the computer
@@ -106,13 +119,6 @@ Both options have their pros and cons, but I personally prefer a cloud service b
 
 Your purchased apps don't need to be backed up; that information is associated with your Apple ID, so they can be easily downloaded when you want them again. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is there another cloud service aside from iCloud?
 
 There are a lot of cloud options, but it's important to make sure you're giving your data to a trustworthy and reliable company. Personally, I use and trust [OneDrive](https://click.linksynergy.com/deeplink?id=IokOf8qagZo&mid=46107&u1=zd-d73ea0f17ea044738893319ef0f45b3d-dtp&murl=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-365%2Fonedrive%2Fonline-cloud-storage&fobs=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) instead of iCloud, since we have Office and get 1TB of OneDrive storage with our subscription.
@@ -149,22 +155,20 @@ There are a lot of cloud options, but it's important to make sure you're giving 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-pulse-of-the-population-vllo-analysis/"><u>[New] The Pulse of the Population VLLO Analysis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-premium-free-srt-translation-services/"><u>[New] Unveiling Premium Free SRT Translation Services</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-finest-zero-cost-digital-darkroom-tools/"><u>[New] Unveiling the Finest Zero-Cost Digital Darkroom Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-detailed-insight-hero4-black-operations/"><u>[Updated] Detailed Insight Hero4 Black Operations</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-easy-metaverse-character-creation/"><u>[Updated] Unlocking the Secrets to Easy Metaverse Character Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-resolving-microsoft-edge-glitches-and-errors/"><u>Effective Solutions for Resolving Microsoft Edge Glitches and Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-decrease-gpu-usage-of-dwm-in-windows-10-and-11/"><u>Effective Strategies to Decrease GPU Usage of DWM in Windows 10 and 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/eliminate-inaccurate-image-portrayal-in-online-messaging-for-2024/"><u>Eliminate Inaccurate Image Portrayal in Online Messaging for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-chatgpt-functionality-a-guide-to-browsers-and-the-added-advantage-of-plugins/"><u>Enhancing ChatGPT Functionality - A Guide to Browsers and the Added Advantage of Plugins</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts/"><u>Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-14-pro-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Pro Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-choices-full-sweep-video-recording-systems/"><u>In 2024, Top Choices Full Sweep Video Recording Systems</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-list-of-no-cost-vectors-and-design-portals-online/"><u>In 2024, Ultimate List of No-Cost Vectors and Design Portals Online</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-green-screening-on-a-mac-software-options-and-reviews/"><u>New 2024 Approved Green Screening on a Mac Software Options and Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-folder-titles-in-explorer-bar/"><u>Reinstating Folder Titles in Explorer Bar</u></a></li>
-<li><a href="https://some-tips.techidaily.com/smoothest-android-3d-video-streaming-for-2024/"><u>Smoothest Android 3D Video Streaming for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-gently-fading-audio-in-audacity-for-2024/"><u>Unraveling the Secrets to Gently Fading Audio in Audacity for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>[New] 2024 Approved Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg/"><u>[Updated] Swift Steps to Personalize Your In-Game Sonic Presence in PUBG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-straightforward-approach-to-editing-age-on-tiktok/"><u>2024 Approved The Straightforward Approach to Editing Age on TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
+<li><a href="https://win-docs.techidaily.com/dropboxs-intelligent-synchronization-malfunctioning-discover-these-6-reliable-workarounds/"><u>Dropbox's Intelligent Synchronization Malfunctioning? Discover These 6 Reliable Workarounds!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/exploring-the-best-tools-for-video-recording-a-bandicam-vs-camtasia-review/"><u>Exploring the Best Tools for Video Recording A Bandicam Vs Camtasia Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-lenovo-mouse-pad-issues-on-windows-10-8-and-7-a-complete-guide/"><u>Fix Lenovo Mouse Pad Issues on Windows 10, 8 & 7: A Complete Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-itel-a60-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Itel A60 and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-comprehensive-guide-to-crafting-great-documentary-narratives/"><u>The Comprehensive Guide to Crafting Great Documentary Narratives</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-network-transmission-power-with-vlc-for-2024/"><u>Unlocking Network Transmission Power with VLC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-smooth-authentication-on-iphone-x-mending-face-id-for-2024/"><u>Unlocking Smooth Authentication on iPhone X Mending Face ID for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-potential-of-slug-line-formats-in-screenplays-for-2024/"><u>Unlocking the Potential of Slug Line Formats in Screenplays for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/visual-extremes-enhancer-top-video-quality/"><u>Visual Extremes Enhancer Top Video Quality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/yt-cover-art-the-key-to-more-views/"><u>YT Cover Art The Key to More Views</u></a></li>
 </ul></div>
 

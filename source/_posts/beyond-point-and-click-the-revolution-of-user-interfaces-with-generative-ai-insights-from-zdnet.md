@@ -1,7 +1,7 @@
 ---
 title: "Beyond Point-and-Click: The Revolution of User Interfaces with Generative AI - Insights From ZDNet"
-date: 2024-09-18 21:47:19
-updated: 2024-09-20 11:41:39
+date: 2024-11-13T06:28:17.128Z
+updated: 2024-11-16T20:42:10.911Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-social-media-success-popular-and-secret-tiktok-emojis/"><u>[Updated] In 2024, The Ultimate Guide to Social Media Success Popular & Secret TikTok Emojis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-sunlit-shades-to-subdued-spectrum-in-photoshop/"><u>[Updated] Sunlit Shades to Subdued Spectrum in Photoshop</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-visual-clarity-bypassing-background-in-photopea/"><u>[Updated] Unlocking Visual Clarity Bypassing Background in Photopea</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tapping-into-the-funny-side-with-photos/"><u>2024 Approved Tapping Into the Funny Side with Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essentials-of-aerial-filmmaking-techniques/"><u>2024 Approved The Essentials of Aerial Filmmaking Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-science-of-choosing-music-for-movie-previews/"><u>2024 Approved The Science of Choosing Music for Movie Previews</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultra-stable-gimbals-for-mobile-and-professional-photography/"><u>2024 Approved Ultra-Stable Gimbals for Mobile & Professional Photography</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fix-fixed-no-more-obs-camera-issues-for-2024/"><u>Fix Fixed No More OBS Camera Issues for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-it-expert-tips-for-escaping-stuck-windows-setup-phase/"><u>Fixed It! Expert Tips for Escaping Stuck Windows Setup Phase</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-samsung-galaxy-f54-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Samsung Galaxy F54 5G PIN</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-your-brand-with-smart-spotify-marketing/"><u>In 2024, Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximize-iphone-screen-space-with-smaller-videos-for-2024/"><u>Maximize iPhone Screen Space with Smaller Videos for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-louder-than-the-other-discover-4-effective-ways-to-rectify-this-issue/"><u>One AirPod Louder Than the Other? Discover 4 Effective Ways to Rectify This Issue!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-5-methods-to-record-high-quality-audio-on-windows-for-2024/"><u>Top 5 Methods to Record High-Quality Audio on Windows for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/top-7-underrated-transition-sounds-for-enhanced-audio-experience-download-now/"><u>Top 7 Underrated Transition Sounds for Enhanced Audio Experience (Download Now!)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-strategies-in-drone-filmmaking-for-2024/"><u>Top Strategies in Drone Filmmaking for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/tutorial-approfondito-per-un-ripristino-efficace-dei-dati-personali/"><u>Tutorial Approfondito per Un Ripristino Efficace Dei Dati Personali</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ulteriori-ottimizzazioni-e-riparazione-immagini-ad-alta-risoluzione-con-winxvideo-intelligenza-artificiale/"><u>Ulteriori Ottimizzazioni E Riparazione Immagini Ad Alta Risoluzione Con WinXVideo Intelligenza Artificiale</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-90-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor 90 Device</u></a></li>
+</ul></div>
+

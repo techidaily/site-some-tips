@@ -1,7 +1,7 @@
 ---
 title: Navigating the Shift in Data Science & AI Sector - Insights From ZDNet
-date: 2024-09-18 17:11:29
-updated: 2024-09-20 10:22:42
+date: 2024-11-10T02:42:05.443Z
+updated: 2024-11-16T22:48:46.302Z
 tags:
   - developer
 categories:
@@ -57,6 +57,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +79,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +113,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-cloud-haven-discovering-the-quintessential-savers-for-your-files/"><u>[New] Cloud Haven Discovering the Quintessential Savers for Your Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-mac-visuals-plus-acoustics-scribing-tool/"><u>[New] In 2024, Ultimate Mac Visuals + Acoustics Scribing Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audacity-guide-creating-fluid-audio-crossfade/"><u>2024 Approved Audacity Guide Creating Fluid Audio Crossfade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726221340487-m4a-flv-movavi/"><u>無條件免費 M4A 到 FLV 過渡 - 動漫實用工具Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/break-it-down-free-techniques-to-go-frame-by-frame-on-youtube-for-2024/"><u>Break It Down Free Techniques to Go Frame by Frame on YouTube for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-gratuita-dei-file-wtv-in-mp4-online-guida-rapida-e-completa-con-movavi-video-converter/"><u>Conversione Gratuita Dei File WTV in MP4 Online: Guida Rapida E Completa Con Movavi Video Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/en-ligne-convertissez-rapidement-vos-videos-webm-en-mov-gratuitement-sur-le-site-movavi/"><u>En Ligne : Convertissez Rapidement Vos Vidéos WebM en MOV Gratuitement Sur Le Site Movavi!</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y36i Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>In 2024, Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-the-world-of-digital-photo-manipulation/"><u>In 2024, Exploring the World of Digital Photo Manipulation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-vob-files-on-pc-la-tua-guida-essenziale-ai-letti-multimedia-piu-performanti-per-sistemi-windows-e-macos/"><u>Mastering VOB Files on PC: La Tua Guida Essenziale Ai Letti Multimedia Più Performanti per Sistemi Windows E MacOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225704509-mkvmp3-movavi/"><u>MKV到MP3自由下載：使用 Movavi 電影/音頻編碼工具</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-event-viewer-issues-on-windows-11/"><u>Solving Event Viewer Issues on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726223315920-tiff-movavi/"><u>TIFFフォーマットから自由に変換! 無料オンラインツールで簡単な切り替え - Movaviプロのサポート</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-audio-video-converters-with-supported-vob-files-best-for-windows-and-macos/"><u>Top Audio-Video Converters with Supported VOB Files: Best for Windows and macOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726227593841-mp3m4v-movavi/"><u>앱에서 무료 MP3/M4V 변형: 모바일 라이브러리의 강력한 해결책 - Movavi</u></a></li>
+</ul></div>
+

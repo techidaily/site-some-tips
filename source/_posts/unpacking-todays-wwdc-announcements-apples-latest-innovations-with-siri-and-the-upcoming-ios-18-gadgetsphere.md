@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Today’s WWDC Announcements: Apple's Latest Innovations with Siri and the Upcoming iOS 18 | GadgetSphere"
-date: 2024-10-31T01:22:49.987Z
-updated: 2024-11-07T08:03:22.126Z
+date: 2024-11-14T18:29:31.270Z
+updated: 2024-11-16T18:28:44.461Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Here's a look at what's new for the 6th generation iPad Air.
 First up, [Apple is introducing](https://www.apple.com/ipad-air/) an all-new bigger size. While previous versions of the [iPad Air](https://www.zdnet.com/article/best-ipad/) only had a single size to choose from, this year's edition has an 11-inch size and a 13-inch size – the larger one giving you 30% more screen to work with. It makes the iPad slightly less portable, but the added real estate will certainly be worth the tradeoff for some.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. An M2 chip for enhanced performance
@@ -60,10 +60,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. New placement for the front camera
@@ -71,10 +71,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 It may seem minor, but the front-facing camera of the latest iPad Air is in a new spot. It's now on the landscape edge, moved from the portrait edge. Previously, you had to use the iPad in portrait mode on a video call as moving it to landscape mode distorted the picture. Now, video calls will look exactly as they do on a laptop.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Bigger base storage
@@ -115,19 +115,22 @@ The iPad Air 6 will begin shipping next week at a starting price of [$599 for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>[Updated] Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-most-advanced-websites-for-customizable-text-design/"><u>[Updated] Unveiling the Most Advanced Websites for Customizable Text Design</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-explore-these-best-5-iphone-podcast-platforms-now/"><u>2024 Approved Explore These Best 5 iPhone Podcast Platforms Now</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-creativity-with-magix-video-pro-x/"><u>2024 Approved Unleashing Creativity with Magix Video Pro X</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>2024 Approved Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-headphones-review-the-senso-choice/"><u>Affordable Headphones Review: The Senso Choice</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-graphics-output-for-enhanced-clarity/"><u>Customizing Graphics Output for Enhanced Clarity</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/embrace-the-ai-revolution-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Embrace the AI Revolution: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-zero-to-hero-a-comprehensive-guide-to-diy-projector-screen-setup/"><u>From Zero to Hero: A Comprehensive Guide to DIY Projector Screen Setup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-f15-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy F15 5G?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-haul-video-production-and-editing-techniques/"><u>In 2024, The Art of Haul Video Production and Editing Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/peak-creativity-youtube-fellowship-for-2024/"><u>Peak Creativity YouTube Fellowship for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-xiaomi-13-ultra-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Xiaomi 13 Ultra Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-media-creator-pro-no-cost-dvd-ripping-tools-for-mobile-compatibility-mp4-avi/"><u>WinX Media Creator Pro: No Cost DVD Ripping Tools for Mobile Compatibility (MP4, AVI)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-synchronized-system-apple-watch-and-mac-unlocking/"><u>[Updated] Synchronized System Apple Watch and Mac Unlocking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-from-dissonance-to-harmony-kinemasters-transition-magic/"><u>2024 Approved From Dissonance to Harmony Kinemaster’s Transition Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-comedic-potential-of-the-metaverses-vast-space/"><u>2024 Approved The Comedic Potential of the Metaverse's Vast Space</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphones-hdr-capabilities/"><u>2024 Approved Unlocking the Full Potential of iPhone's HDR Capabilities</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-vr-game-engines-of-2023/"><u>2024 Approved Unveiling the Best VR Game Engines of 2023</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazon-deal-alert-grab-your-samsung-galaxy-a35-and-score-free-true-wireless-earbuds-with-the-bundle/"><u>Amazon Deal Alert: Grab Your Samsung Galaxy A35 & Score Free True Wireless Earbuds with the Bundle!</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-defaults-20-ways-to-personalize-windows-11/"><u>Beyond Defaults: 20 Ways to Personalize Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-photoshop-techniques-for-dynamic-realistic-text/"><u>In 2024, Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-tips-to-enhance-screen-brightness-of-youtube-videos/"><u>In 2024, Tips to Enhance Screen Brightness of YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncover-clarity-a-detailed-guide-to-purging-backgrounds-with-affinity/"><u>In 2024, Uncover Clarity A Detailed Guide to Purging Backgrounds with Affinity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-how-youtube-processes-videos-after-they-are-uploaded/"><u>In 2024, Understanding How YouTube Processes Videos After They Are Uploaded</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-password-required-avoidance-on-windows-11/"><u>Mastering the Art of 'Password Required' Avoidance on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-noise-cancellation-made-easy-a-beginners-guide-to-fcpx-audio-enhancement/"><u>New Noise Cancellation Made Easy A Beginners Guide to FCPX Audio Enhancement</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-dramatic-hdr-portraits-explained-for-2024/"><u>The Art of Dramatic HDR Portraits Explained for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-of-tech-with-siri-understanding-artificial-intelligence-integration-in-upcoming-iphone-mac-and-ipad-models-zdnet/"><u>The Future of Tech with Siri: Understanding Artificial Intelligence Integration in Upcoming iPhone, Mac, and iPad Models | ZDNET</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/topnotch-recorder-for-windows-users-win-10/"><u>TopNotch Recorder for Windows Users (Win 10)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transform-ordinary-unboxings-into-viral-phenomena-on-insta-for-2024/"><u>Transform Ordinary Unboxings Into Viral Phenomena on Insta for 2024</u></a></li>
 </ul></div>
 

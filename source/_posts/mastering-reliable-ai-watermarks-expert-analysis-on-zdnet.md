@@ -1,7 +1,7 @@
 ---
 title: "Mastering Reliable AI Watermarks: Expert Analysis on ZDNet"
-date: 2024-09-19 14:46:47
-updated: 2024-09-20 10:30:28
+date: 2024-11-13T20:14:43.266Z
+updated: 2024-11-16T17:27:47.712Z
 tags:
   - developer
 categories:
@@ -81,6 +81,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-eternal-expressions-the-public-domain-collection/"><u>[New] Eternal Expressions The Public Domain Collection</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-dial-up-dislikes-flip-the-script-with-square-content-creation/"><u>[Updated] 2024 Approved Dial Up Dislikes? Flip the Script with Square Content Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>2024 Approved Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov3g2-movawi/"><u>網路直接MOV影片到3g2格式： MOVAWI转换工具</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726218616272-wma-wav-movavi/"><u>網上無限制的 WMA 到 WAV 自動轉換 - 使用 Movavi 編譯器</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726222863374-aiff-wmv-movavi/"><u>網站上無成本轉換 AIFF 到 WMV - 使用Movavi的高效方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gifjpeg-movavi/"><u>線上免費改變格式的GIF成JPEG - 透過Movavi進行簡易編譯</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-ai-chatbots-discover-the-ideal-replacements-for-chatgpt/"><u>Best AI Chatbots: Discover the Ideal Replacements for ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-mp4-files-to-mov-format-online-at-no-cost-with-movavi-converter/"><u>Convert MP4 Files to MOV Format Online at No Cost with Movavi Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-conversion-change-gsm-audio-files-into-mp4-format-with-ease/"><u>Free Online Conversion: Change GSM Audio Files Into MP4 Format with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/guida-esclusiva-alla-sovraimpressione-di-due-video-tutto-quello-che-devi-sapere-nel-2024/"><u>Guida Esclusiva Alla Sovraimpressione Di Due Video: Tutto Quello Che Devi Sapere Nel 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-craft-the-perfect-picture-on-android-with-these-5-best-apps/"><u>In 2024, Craft the Perfect Picture on Android with These 5 Best Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-an-impactful-film-short-summary/"><u>In 2024, Creating an Impactful Film Short Summary</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-most-popular-images-journey-to-meme-status/"><u>In 2024, The Most Popular Images' Journey to Meme Status</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ogg-mov-movavi-online-mp4/"><u>OGG MOV 비용 무료 변환 소프트웨어 - Movavi ONLINE 사용자가 쉽게 MP4로 전환해요</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webaviogv-movavi/"><u>Web上で無料でAVIからOGVへの変換方法 - MOVAVI</u></a></li>
+<li><a href="https://win-popular.techidaily.com/windows-11-start-button-malfunction-here-are-9-solutions-to-get-your-menus-working-again/"><u>Windows 11 Start Button Malfunction? Here Are 9 Solutions to Get Your Menus Working Again!</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/avchd-windows-1011/"><u>バリューフォーマットとAVCHD間のシームレスなデータ転送 - Windows 10/11使用者向けに最適化された方法</u></a></li>
+</ul></div>
+

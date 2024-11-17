@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Creation with Ease: Unveiling the Potential of Google's Gemini AI for Cost-Effective and Accelerated Development"
-date: 2024-09-19 15:11:56
-updated: 2024-09-20 10:33:15
+date: 2024-11-16T02:34:00.651Z
+updated: 2024-11-17T00:23:08.740Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -57,6 +64,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-pace-facebook-videos-prime-extensions-tips-and-tricks-list/"><u>[New] In 2024, Quick-Pace Facebook Videos Prime Extensions, Tips & Tricks List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-incorinasmatic-mix-sharing-songs-in-social-spaces-for-2024/"><u>[Updated] Incorinasmatic Mix Sharing Songs in Social Spaces for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-photo-to-video-with-accompaniment-sounds/"><u>2024 Approved The Art of Photo-to-Video with Accompaniment Sounds</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/are-wi-fi-mesh-networks-a-smart-investment-for-seamless-connectivity/"><u>Are Wi-Fi Mesh Networks a Smart Investment for Seamless Connectivity?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevate-your-win10-experience-new-driver-release-for-radeon-hd-6950/"><u>Elevate Your Win10 Experience: New Driver Release for Radeon HD 6950</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamline-your-viewing-the-facebook-auto-play-guide/"><u>Streamline Your Viewing The Facebook Auto-Play Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-9-methods-for-accessing-powershell-on-windows-10/"><u>Top 9 Methods for Accessing PowerShell on Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transitioning-kodi-the-shift-from-debian-packages-to-flatpak-on-linux-systems/"><u>Transitioning Kodi: The Shift From Debian Packages to Flatpak on Linux Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-selection-premium-mac-screens-and-monitors/"><u>Ultimate Selection: Premium Mac Screens and Monitors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/uncover-hidden-gems-essential-yet-overlooked-windows-shortcuts/"><u>Uncover Hidden Gems: Essential Yet Overlooked Windows Shortcuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-batch-files-a-comprehensive-guide-on-what-they-are-and-how-to-access-them/"><u>Understanding Batch Files: A Comprehensive Guide on What They Are & How To Access Them</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-13-quick-methods-to-access-windows-10-settings/"><u>Unlocking the Secrets: 13 Quick Methods to Access Windows 10 Settings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-computers-performance-download-intel-raid-driver-software-supported-by-windows-versions-11108win7/"><u>Upgrade Your Computer's Performance: Download Intel RAID Driver Software - Supported by Windows (Versions 11/10/8/^[Win7])</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-comprehensive-guide-to-all-the-top-highlights-from-apples-worldwide-developers-conference-2024/"><u>Your Comprehensive Guide to All the Top Highlights From Apple's Worldwide Developers Conference 2024</u></a></li>
+</ul></div>
+

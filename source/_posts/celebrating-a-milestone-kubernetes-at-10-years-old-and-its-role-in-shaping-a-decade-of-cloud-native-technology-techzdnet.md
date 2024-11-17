@@ -1,7 +1,7 @@
 ---
 title: "Celebrating a Milestone: Kubernetes at 10 Years Old & Its Role in Shaping a Decade of Cloud Native Technology | TechZDNet"
-date: 2024-09-17 14:52:58
-updated: 2024-09-20 10:58:17
+date: 2024-11-15T21:38:46.262Z
+updated: 2024-11-16T19:19:57.816Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-vector-graphics-101-overview-of-varieties-and-tools/"><u>[New] Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-10-top-must-have-gear-items-for-youtubers/"><u>[Updated] 10 Top Must-Have Gear Items for YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-blueprint-for-crafting-standout-podcast-titles-and-name-samples/"><u>[Updated] The Ultimate Blueprint for Crafting Standout Podcast Titles & Name Samples</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-powerful-titles/"><u>[Updated] Unveiling the Secrets of Powerful Titles</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-and-leveraging-snapchat-spotlight/"><u>2024 Approved Understanding and Leveraging Snapchat Spotlight</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-cinematic-magic-top-5-filmmaking-insights/"><u>2024 Approved Unlocking Cinematic Magic Top 5 Filmmaking Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-top-quality-hdr-camera-brands-and-models/"><u>2024 Approved Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-fixes-syncing-iphone-photos-with-computer/"><u>In 2024, Fast Fixes Syncing iPhone Photos with Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-industrys-leading-heavy-duty-drone-picks/"><u>In 2024, Industry's Leading Heavy-Duty Drone Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-parallel-circuits-the-total-capacitance-is-the-sum-of-individual-capacitances-ctotal-c1-plus-c2-plus-plus-cn/"><u>In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-audible-worth-it-4-reasons-why-you-should-get-a-membership/"><u>Is Audible Worth It? 4 Reasons Why You Should Get a Membership</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-sims-4-filming-a-comprehensive-guide/"><u>Mastering Sims 4 Filming A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-picklist-of-digital-vault-services-for-2024/"><u>Premium Picklist of Digital Vault Services for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streaming-success-easily-convert-srt-formats-for-2024/"><u>Streaming Success Easily Convert SRT Formats for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/streamlined-approach-for-customizing-snapchat-video-rate/"><u>Streamlined Approach for Customizing Snapchat Video Rate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-editors-roadmap-to-perfection-in-fcp-for-2024/"><u>The Editor's Roadmap to Perfection in FCP for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-hevc-konvertierungssoftware-fur-h265-videos-auf-windows-11-und-macos-professioneller-encoder/"><u>Top HEVC-Konvertierungssoftware Für H.265 Videos Auf Windows 11 Und macOS - Professioneller Encoder</u></a></li>
+</ul></div>
+

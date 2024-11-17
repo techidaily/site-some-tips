@@ -1,7 +1,7 @@
 ---
 title: Google's Latest AI LaMDA – More Than Meets the Eye of an Ordinary Chatbot
-date: 2024-09-19 20:28:58
-updated: 2024-09-20 10:12:24
+date: 2024-11-14T12:13:22.750Z
+updated: 2024-11-17T10:17:55.108Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -72,6 +79,13 @@ On the enterprise management side, Dev Box connection telemetry will be availabl
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>[New] 2024 Approved Backwards Viewing A New Lens for Analyzing YouTube Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-fast-and-fun-the-quick-guide-to-taking-screenshots-on-chromebook/"><u>[New] In 2024, Fast & Fun The Quick Guide to Taking Screenshots on Chromebook</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-secrets-of-facetune-a-comprehensive-review/"><u>[New] Unveiling the Secrets of Facetune A Comprehensive Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-10-best-4k-monitors/"><u>[Updated] Top 10 Best 4K Monitors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/delving-deep-into-hardware-with-toms-tech-resource-platform/"><u>Delving Deep Into Hardware with Tom's Tech Resource Platform</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-v2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic V2</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streamselect-an-alternative-to-dacast/"><u>In 2024, StreamSelect An Alternative to DaCast</u></a></li>
+<li><a href="https://win-bits.techidaily.com/onekey-recovery-understanding-the-basics-of-this-efficient-data-restoration-solution/"><u>OneKey Recovery - Understanding the Basics of This Efficient Data Restoration Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-creativity-in-editing-leveraging-storyremix-with-windows-11-photos-for-2024/"><u>Unleash Creativity in Editing Leveraging StoryRemix with Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-from-minutes-to-seconds-mastering-time-lapse-video-production-for-2024/"><u>Updated From Minutes to Seconds Mastering Time Lapse Video Production for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Emerging AI Sector Highlights Critical Need for Enhanced Transparency | ZDNet Insights
-date: 2024-09-19 21:11:33
-updated: 2024-09-20 10:58:23
+date: 2024-11-13T00:56:32.782Z
+updated: 2024-11-16T23:52:29.116Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-transformation-of-windows-10-landscape/"><u>[New] The Transformation of Windows 10 Landscape</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-choice-elite-desktop-pcs/"><u>[New] Ultimate Choice Elite Desktop PCs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-10-stabilized-video-makers/"><u>[New] Ultimate Guide to 10 Stabilized Video Makers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unlocking-color-grading-with-luts-in-pscc/"><u>[New] Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-escalate-your-channels-popularity-to-1kplus/"><u>[Updated] 2024 Approved Escalate Your Channel's Popularity to 1K+</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>[Updated] 2024 Approved The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tickle-tycoon-picture-builder/"><u>[Updated] Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-seconds-in-a-20mb-hd-video-file/"><u>2024 Approved Seconds in a 20MB HD Video File</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-uniting-fans-anime-opening-songs-showcase/"><u>2024 Approved Uniting Fans Anime Opening Songs Showcase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-powerhouses-of-vr-engine-technology/"><u>2024 Approved Unveiling the Powerhouses of VR Engine Technology</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-getac-zx10-the-ultimate-durable-and-featherlight-android-tab-for-on-the-go-adventures-techreview/"><u>Expert Analysis: Getac ZX10 - The Ultimate Durable and Featherlight Android Tab for On-the-Go Adventures | TechReview</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personal-growth-reflections-for-digital-platforms/"><u>Personal Growth Reflections for Digital Platforms</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transfer-and-protect-your-iphone-images-to-pc-with-ease-ideal-for-users-of-windows-111087/"><u>Transfer and Protect Your iPhone Images to PC with Ease - Ideal for Users of Windows 11/10/8/7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-lenovo-legion-5-pro-16ach6h-with-newest-display-and-gpu-drivers/"><u>Upgrade Your Lenovo Legion 5 Pro (16ACH6H) with Newest Display & GPU Drivers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-opting-for-ios-177-now-might-outshine-waiting-for-ios-18-expert-analysis-at-zdnet/"><u>Why Opting for IOS 17.7 Now Might Outshine Waiting for iOS 18 | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728508208948-windows-10/"><u>データを安全に移動する方法 - Windows 10 引越しツールで学ぶ具体的なアプローチ</u></a></li>
+</ul></div>
+

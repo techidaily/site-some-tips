@@ -1,7 +1,7 @@
 ---
 title: Rising Popularity of the 'Ops' Framework Amidst Escalating Challenges in Corporate Tech Environments - Insights From ZDNet
-date: 2024-09-17 17:46:29
-updated: 2024-09-20 11:22:18
+date: 2024-11-12T14:22:07.021Z
+updated: 2024-11-16T22:13:36.082Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -66,6 +80,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -111,6 +132,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-dive-into-digital-friendship-start-your-facebook-journey-for-2024/"><u>[New] Dive Into Digital Friendship Start Your Facebook Journey for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-castwatch-inspection/"><u>[Updated] 2024 Approved CastWatch Inspection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>[Updated] In 2024, Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-social-surge-amass-1k-on-ig-each-month-for-a-million-dream-for-2024/"><u>[Updated] The Ultimate Social Surge Amass 1K on IG Each Month for a Million Dream for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-the-multimedia-split-screen-experience-with-sierra-os/"><u>2024 Approved Mastering the Multimedia Split-Screen Experience with Sierra OS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1724312832646-abbyy/"><u>ABBYYが清水智人氏を日本企業界の最前線指導者として紹介</u></a></li>
+<li><a href="https://blog-min.techidaily.com/edit-and-convert-movies-rip-dvds-into-streamlined-formats-for-ios-devices/"><u>Edit & Convert Movies - Rip DVDs Into Streamlined Formats for iOS Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-xs-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone XS After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-lava-agni-2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Lava Agni 2 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-technology-the-key-to-customized-user-experience-and-seo-success/"><u>Optimize with Cookiebot Technology: The Key to Customized User Experience and SEO Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-virtual-voyages-with-jaunt-vr-for-2024/"><u>Pioneering Virtual Voyages with Jaunt VR for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/professionelle-verbesserung-mit-hilfe-digitaler-zwillingsmodelle-fur-ihr-unternehmen/"><u>Professionelle Verbesserung Mit Hilfe Digitaler Zwillingsmodelle Für Ihr Unternehmen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revamping-your-know-your-customer-approach-with-the-latest-techniques-insights-from-abbyy/"><u>Revamping Your Know-Your-Customer Approach with the Latest Techniques - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/strategies-to-enhance-page-ranking-and-web-traffic-through-seo-techniques/"><u>Strategies to Enhance Page Ranking and Web Traffic Through SEO Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-legal-processes-using-abbyys-innovative-contract-analysis-platform/"><u>Streamline Legal Processes Using ABBYY's Innovative Contract Analysis Platform</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-evolution-of-trade-finance-adaptive-strategies-for-emerging-obstacles-and-opportunities/"><u>The Evolution of Trade Finance: Adaptive Strategies for Emerging Obstacles and Opportunities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-ai-the-key-to-unlocking-iot-potential-insights-from-abbyy/"><u>Unleashing the Power of AI: The Key to Unlocking IoT Potential - Insights From ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-significant-savings-with-abbyy-discover-the-story-of-a-6m-windfall-for-a-leading-finance-firm/"><u>Unlocking Significant Savings with ABBYY: Discover the Story of a $6M Windfall for a Leading Finance Firm</u></a></li>
+</ul></div>
+

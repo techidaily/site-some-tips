@@ -1,7 +1,7 @@
 ---
 title: Apple Watch Battery Woes? Discover How Long It Really Lasts & What You Need to Know Now | ZDNET
-date: 2024-10-31T20:12:08.403Z
-updated: 2024-11-06T23:45:04.193Z
+date: 2024-11-12T11:25:54.354Z
+updated: 2024-11-17T06:13:25.791Z
 tags:
   - apple
 categories:
@@ -79,10 +79,10 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -124,16 +124,10 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -199,22 +193,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-top-15-essential-gopro-accessories-for-newbies/"><u>[New] Top 15 Essential GoPro Accessories for Newbies</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-elevate-visibility-mastering-youtube-success-tracks-for-2024/"><u>[Updated] Elevate Visibility Mastering YouTube Success Tracks for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller-for-2024/"><u>[Updated] Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-lengthening-gopros-electric-life/"><u>[Updated] Strategies for Lengthening GoPro's Electric Life</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-art-of-closer-views-on-microsoft-teams/"><u>[Updated] Unveiling the Art of Closer Views on Microsoft Teams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-youtuber-convention-guide-post-vidcon/"><u>2024 Approved The Ultimate Youtuber Convention Guide (Post-VidCon)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-christian-melodies-download-and-personalize-guide/"><u>2024 Approved Top 10 Christian Melodies Download & Personalize Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-about-samsung-unpacked-2025-when-it-happens-plus-top-gadget-reveals/"><u>All About Samsung Unpacked 2025: When It Happens + Top Gadget Reveals</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-audio-notes-essential-tips/"><u>In 2024, Mastering Audio Notes Essential Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-black-illusion-vs-silver-miracle/"><u>In 2024, The Black Illusion Vs Silver Miracle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>In 2024, The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/mastering-close-up-views-in-minecraft-for-2024/"><u>Mastering Close-Up Views in Minecraft for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-huawei-nova-y71-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Huawei Nova Y71 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/side-by-side-comparison-how-snapchats-ai-stacks-up-against-bing-chat-in-8-essential-ways-on-skype/"><u>Side by Side Comparison: How Snapchat's AI Stacks Up Against Bing Chat in 8 Essential Ways on Skype</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/sleep-inducing-screenplays-video-evaluation-for-2024/"><u>Sleep-Inducing Screenplays Video Evaluation for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-getting-started-with-snapseed-editing/"><u>Step by Step Getting Started with Snapseed Editing</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-anglers-companion-best-action-cams-for-fishing-for-2024/"><u>The Angler’s Companion Best Action Cams for Fishing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-timecodes-and-text-transformation-pro-level-srt-tutorials-for-macos/"><u>[New] In 2024, Timecodes & Text Transformation Pro-Level SRT Tutorials for macOS</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-captivate-audience-attention-with-your-yt-shorts/"><u>[Updated] 2024 Approved How to Captivate Audience Attention with Your YT Shorts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-capture-and-store-nine-excellent-windows-tools-for-animation-gifs/"><u>[Updated] Capture and Store Nine Excellent Windows Tools for Animation GIFs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-stream-to-success-obs-youtube-broadcast-basics/"><u>[Updated] In 2024, Stream to Success OBS Youtube Broadcast Basics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-powerful-path-to-flawless-photo-edits-mastering-background-eraser-use/"><u>2024 Approved The Powerful Path to Flawless Photo Edits Mastering Background Eraser Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-audio-transformation-software-magic-and-more/"><u>2024 Approved Top Audio Transformation Software Magic and More</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-telehealth-exploring-the-full-spectrum-of-virtualized-healthcare-services/"><u>Beyond Telehealth: Exploring the Full Spectrum of Virtualized Healthcare Services</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-stretching-youtube-videos-to-full-display/"><u>In 2024, Stretching YouTube Videos to Full Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>In 2024, The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-photographic-face-off-legend-sj6-vs-xiaomis-yi-kickstarter/"><u>In 2024, Ultimate Photographic Face-Off Legend SJ6 Vs. Xiaomi's Yi Kickstarter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-home-fixes-top-strategies-to-launch-your-at-home-repair-skills/"><u>Mastering Home Fixes: Top Strategies to Launch Your At-Home Repair Skills</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-6-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic 6 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

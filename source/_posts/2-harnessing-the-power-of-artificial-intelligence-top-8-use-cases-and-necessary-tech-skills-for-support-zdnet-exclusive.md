@@ -1,7 +1,7 @@
 ---
 title: "2. Harnessing the Power of Artificial Intelligence: Top 8 Use Cases and Necessary Tech Skills for Support - ZDNET Exclusive"
-date: 2024-09-17 14:57:28
-updated: 2024-09-20 11:13:21
+date: 2024-11-15T13:53:15.212Z
+updated: 2024-11-17T07:33:03.142Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -73,6 +80,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-comprehensive-directory-for-got-ringtones-download/"><u>[New] The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tips-for-prolonging-gopros-energy-stamina/"><u>[New] Tips for Prolonging GoPro's Energy Stamina</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-your-roadmap-to-earning-on-tiktok-discover-these-top-8-approaches/"><u>[New] Your Roadmap to Earning on TikTok Discover These Top 8 Approaches</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-picsart-guide-discreetly-mask-faces/"><u>[Updated] 2024 Approved Picsart Guide Discreetly Mask Faces</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-top-11-brain-boosting-trivia-shows-for-24/"><u>2024 Approved Top 11 Brain-Boosting Trivia Shows for '24</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/6-effective-methods-for-downloading-videos-from-youtube/"><u>6 Effective Methods for Downloading Videos From YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/ensuring-thumbnails-show-shorts-video-troubleshooting/"><u>Ensuring Thumbnails Show Shorts Video Troubleshooting</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-play-8t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor Play 8T Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-tackle-mathematical-questions-effectively/"><u>Is It Possible for ChatGPT to Tackle Mathematical Questions Effectively?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-guide-to-crafting-luts-in-3d-for-2024/"><u>The Complete Guide to Crafting LUTs in 3D for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-8-in-virtual-reality-gaming-for-2024/"><u>The Essential 8 in Virtual Reality Gaming for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-sound-trailblazers-guide-kicking-off-with-fade-in-techniques-for-2024/"><u>The Sound Trailblazer’s Guide Kicking Off with Fade-In Techniques for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-iphone-strategies-for-flawless-audio-downloads-for-2024/"><u>Ultimate iPhone Strategies for Flawless Audio Downloads for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultra-fast-windows-view-for-pictures-for-2024/"><u>Ultra-Fast Windows View for Pictures for 2024</u></a></li>
+</ul></div>
+

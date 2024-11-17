@@ -1,7 +1,7 @@
 ---
 title: "Tech Workforce Alert: Addressing the Crisis of Developer Burnout with Proven Company Solutions | ZDNET"
-date: 2024-09-19 15:16:28
-updated: 2024-09-20 12:49:45
+date: 2024-11-12T14:45:33.005Z
+updated: 2024-11-17T00:55:50.547Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-innovative-techniques-for-maximum-zoom-utility-on-chromebook/"><u>[New] 2024 Approved Innovative Techniques for Maximum Zoom Utility on Chromebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-expert-techniques-for-converting-xml-ssa-to-high-end-srt/"><u>[Updated] 2024 Approved Expert Techniques for Converting XML, SSA to High-End SRT</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-lightroom-guide-blending-high-dynamic-range-magic/"><u>[Updated] In 2024, Lightroom Guide Blending High Dynamic Range Magic</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-precision-in-storyboard-planning/"><u>[Updated] Precision in Storyboard Planning</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops-for-2024/"><u>[Updated] Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ai/"><u>AI 데이터에서 원통스픽셀을 만들기 위한 무료 인터넷-기반 전환 도구</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-comparison-7-zip-vs-winrar-vs-winzip-determining-the-best-archive-tool/"><u>Comprehensive Comparison: 7-Zip vs WinRAR vs WinZip - Determining the Best Archive Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-best-12-device-specific-4k-recording-solutions-with-movavi-technology/"><u>Discover the Best 12 Device-Specific 4K Recording Solutions with Movavi Technology</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/get-official-anime-series-in-mp4-format-direct-downloads-from-trusted-websites/"><u>Get Official Anime Series in MP4 Format: Direct Downloads From Trusted Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuit-online-avi-files-naar-wma-omzetten-korting-movavi/"><u>Gratuit Online AVI-Files Naar WMA Omzetten - Korting Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/m2ts-para-mkv-conversao-online-gratuita-com-a-ferramenta-de-software-movavi/"><u>M2TS Para MKV: Conversão Online Gratuita Com a Ferramenta De Software Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-oferece-uma-ferramenta-de-conversao-gratuita-flac-to-ogg-online-faca-o-upgrade/"><u>Movavi Oferece Uma Ferramenta De Conversão Gratuita FLAC to OGG Online - Faça O Upgrade!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-advanced-color-grading-techniques-using-luts/"><u>Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-gratuite-jpg-to-tiff-conversie-met-movavi-beste-praktiken-ervaren/"><u>Online Gratuite JPG-to-TIFF-Conversie Met Movavi - Beste Praktiken Ervaren!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-fixes-for-green-screen-glitches-on-mac-video-editing-platform/"><u>Quick Fixes for Green Screen Glitches on Mac Video Editing Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/steamvr-error-308-resolved-step-by-step-troubleshooting-tips-for-gamers/"><u>SteamVR Error 308 Resolved: Step-by-Step Troubleshooting Tips for Gamers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcoding-made-easy-convert-ogv-videos-to-wmv-for-free-using-movavis-web-service/"><u>Transcoding Made Easy: Convert OGV Videos to WMV for Free Using Movavi's Web Service</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Understanding ZDNet's Rigorous Cellphone Review Protocol
-date: 2024-11-02T03:26:00.064Z
-updated: 2024-11-07T01:04:46.153Z
+date: 2024-11-09T20:24:54.278Z
+updated: 2024-11-17T08:16:19.242Z
 tags:
   - apple
 categories:
@@ -35,10 +35,10 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -56,16 +56,10 @@ However, the integration of Apple Intelligence is not without challenges. The mo
 More advanced AI features, such as [Genmoji](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) for creating custom emoji, the [Image Playground](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) for on-device image creation, and ChatGPT integration, have yet to be included in the beta. Siri has received a minor UI update and a more conversational tone, but significant improvements are expected later this year. [According to Bloomberg's Mark Gurman](https://www.bloomberg.com/news/newsletters/2024-07-07/apple-watch-series-10-ultra-3-details-bigger-screens-blood-pressure-challenge-lybjqp0q), additional Apple Intelligence features will be introduced in upcoming iOS 18.1 Beta releases, with the stable version possibly arriving in October.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -84,13 +78,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -98,6 +85,13 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -116,10 +110,10 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -162,20 +156,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-social-snippets-showcase-twitters-trending-threads/"><u>[New] 2024 Approved Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-grasping-the-functionality-of-airborne-robotics/"><u>[New] Grasping the Functionality of Airborne Robotics</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-mobile-experiences-ios-and-androids-vr-hits/"><u>[New] Top Mobile Experiences IOS & Android's VR Hits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-meme-creation-at-its-peak-10-templates-unveiled/"><u>[Updated] Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-15-advanced-techniques-in-sports-broadcasting/"><u>[Updated] Unveiling 15 Advanced Techniques in Sports Broadcasting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-how-to-fade-audio-in-lumafusion/"><u>2024 Approved How To Fade Audio In Lumafusion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-new-tech-horizon-with-microsofts-hololens-review/"><u>2024 Approved The New Tech Horizon with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-understanding-the-basics-of-motion-design/"><u>2024 Approved Understanding the Basics of Motion Design</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-youtube-success-elevating-audience-count/"><u>2024 Approved YouTube Success Elevating Audience Count</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cropping-your-videos-with-windows-movie-maker-on-windows-11-a-step-by-step-guide/"><u>Cropping Your Videos with Windows Movie Maker on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-best-selling-oculus-rift-gaming-experiences/"><u>In 2024, The Best-Selling Oculus Rift Gaming Experiences</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlock-the-power-of-montage-in-digital-media/"><u>In 2024, Unlock the Power of Montage in Digital Media</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-the-art-of-superior-images-for-free/"><u>In 2024, Unlocking the Art of Superior Images for Free</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficient-backup-of-camera-roll-to-share-via-snapchat/"><u>[New] 2024 Approved Efficient Backup of Camera Roll to Share via Snapchat</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-legal-landscapes-understanding-youtube-and-cc-divergences/"><u>[New] Legal Landscapes Understanding YouTube & CC Divergences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-preferred-speech-to-text-ipad-apps-3-for-2024/"><u>[New] Preferred Speech-to-Text iPad Apps #3 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-integrate-harmony-in-media-posts-facebooks-sound-guide-for-2024/"><u>[Updated] Integrate Harmony in Media Posts Facebook's Sound Guide for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-fundamentals-of-starting-an-instantaneous-broadcast/"><u>[Updated] The Fundamentals of Starting an Instantaneous Broadcast</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-genuine-appraisal-of-recordcast-features/"><u>[Updated] The Genuine Appraisal of RecordCast Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-virtual-environments-in-cinema/"><u>2024 Approved The Art of Virtual Environments in Cinema</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-summit-elite-production-space-25/"><u>In 2024, Summit Elite Production Space 25</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>In 2024, Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-wave-riders-picks-premium-action-cameras-2023/"><u>In 2024, Wave Riders’ Picks Premium Action Cameras 2023</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solution-resolve-the-windows-update-stuck-on-0-problem/"><u>Quick Solution: Resolve the 'Windows Update Stuck on 0%' Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-for-when-msodll-is-missing-or-inaccessible/"><u>Troubleshooting Steps for When mso.dll Is Missing or Inaccessible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-choice-top-mp4-players-unveiled-for-2024/"><u>Ultimate Choice Top MP4 Players Unveiled for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlimited-audio-processing-at-zero-cost-for-2024/"><u>Unlimited Audio Processing at Zero Cost for 2024</u></a></li>
 </ul></div>
 

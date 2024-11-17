@@ -1,7 +1,7 @@
 ---
 title: "Programming Language Trends From 2016 Onwards: Insights & Implications Unveiled by ZDNet"
-date: 2024-09-17 23:53:10
-updated: 2024-09-20 12:53:50
+date: 2024-11-10T02:53:23.418Z
+updated: 2024-11-17T08:49:47.608Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/"><u>[New] 2024 Approved The Comprehensible Guide to Capturing Instagram Media via Computer Systems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-proven-methods-to-elevate-your-filmora-editing-skills/"><u>[New] Proven Methods to Elevate Your Filmora Editing Skills</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-your-visual-content-perfectly-place-icons-and-emojis-on-instagram/"><u>[Updated] Elevate Your Visual Content Perfectly Place Icons & Emojis on Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrated-activity-evaluation-guide/"><u>[Updated] Integrated Activity Evaluation Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-15-online-haven-for-your-favorite-ringtone-files/"><u>[Updated] Top 15 Online Haven for Your Favorite Ringtone Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-total-horizon-capture-versus-focused-dimensionality/"><u>[Updated] Total Horizon Capture Versus Focused Dimensionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-resource-efficient-online-photo-cropping/"><u>2024 Approved The Photographer's Resource Efficient Online Photo Cropping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-power-of-your-iphone-photo-mosaic-mastery/"><u>2024 Approved Unlock the Power of Your iPhone Photo Mosaic Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-serial-device-drivers-ch3e0g-compatible-with-windows-11/"><u>How to Install Updated Serial Device Drivers: CH3e0G Compatible with Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-blueprint-to-elevate-your-flight-with-fpv-drone-blades-for-2024/"><u>The Ultimate Blueprint to Elevate Your Flight with FPV Drone Blades for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+</ul></div>
+

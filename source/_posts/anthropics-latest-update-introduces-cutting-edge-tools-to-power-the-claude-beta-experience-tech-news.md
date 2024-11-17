@@ -1,7 +1,7 @@
 ---
 title: Anthropic's Latest Update Introduces Cutting-Edge Tools to Power the Claude Beta Experience | Tech News
-date: 2024-09-18 22:57:13
-updated: 2024-09-20 12:16:30
+date: 2024-11-11T22:04:43.599Z
+updated: 2024-11-17T15:08:15.243Z
 tags:
   - developer
 categories:
@@ -47,6 +47,13 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,27 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/balance-quality-and-quickness-with-netflix-speed-modification-tips-for-2024/"><u>Balance Quality & Quickness with Netflix Speed Modification Tips for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-for-immediate-app-termination-techniques-on-your-pc-running-windows-11/"><u>Comprehensive Tutorial for Immediate App Termination Techniques on Your PC Running Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-streaming-wars-the-digital-platform-showdown/"><u>In 2024, Streaming Wars The Digital Platform Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-inshots-potential-with-your-own-songs/"><u>In 2024, Unlocking InShot's Potential with Your Own Songs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-wifi-speed-easy-installation-of-the-new-intel-ac-3160-dual-band-network-card/"><u>Maximize WiFi Speed: Easy Installation of the New Intel AC 3160 Dual Band Network Card</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/streamline-learning-processes-with-detailed-chaptering-for-educational-youtube-videos-for-2024/"><u>Streamline Learning Processes with Detailed Chaptering for Educational YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-financial-lifeline-of-podcasting-for-2024/"><u>The Financial Lifeline of Podcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-podcasters-roadmap-to-seo-excellence-for-2024/"><u>The Podcaster’s Roadmap to SEO Excellence for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-inspirational-recruiter-playlist-for-2024/"><u>The Ultimate Inspirational Recruiter Playlist for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-toolkit-for-elevating-your-podcast-through-seo-for-2024/"><u>The Ultimate Toolkit for Elevating Your Podcast Through SEO for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/vimeo-video-converter-save-your-favorites-as-mp4-or-avi-on-pc-and-mac/"><u>Vimeo Video Converter: Save Your Favorites as MP4 or AVI on PC and Mac</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Unconventional Careers: The Emergence of Ambiguous AI-Driven Job Titles"
-date: 2024-09-19 20:49:43
-updated: 2024-09-20 10:26:49
+date: 2024-11-10T14:38:21.316Z
+updated: 2024-11-16T16:26:36.075Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-master-the-art-of-photo-display-with-best-frames/"><u>[New] Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>[New] The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-concept-to-creation-top-10-podcast-design-principles/"><u>[Updated] From Concept to Creation Top 10 Podcast Design Principles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-iphones-audio-advantages-for-podcast-lovers/"><u>[Updated] IPhone's Audio Advantages for Podcast Lovers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-fcp-tutorial-for-new-users/"><u>[Updated] Ultimate FCP Tutorial for New Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-starter-gear-for-gopro-cameras/"><u>2024 Approved Top Starter Gear for GoPro Cameras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-funny-photo-editor/"><u>2024 Approved Ultimate Funny Photo Editor</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>2024 Approved Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/dropboxhdd-4/"><u>Dropboxと外付けHDDを組み合わせた安全な保存: 4つのコツ</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enjoy-unlimited-screen-time-the-best-websites-for-free-movie-streaming-for-kids/"><u>Enjoy Unlimited Screen Time: The Best Websites for FREE Movie Streaming for Kids</u></a></li>
+<li><a href="https://fox-links.techidaily.com/high-resolution-revelations-comparing-ultrawide-and-uhd-4k-screens-for-2024/"><u>High-Resolution Revelations Comparing UltraWide and UHD 4K Screens for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-successfully-download-and-install-epson-ds-510-driver-update-for-pc-users/"><u>How to Successfully Download and Install Epson DS-510 Driver Update for PC Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-videos-with-tiktok-effects/"><u>In 2024, Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/streamline-your-videography-insta-to-mp4-made-simple-for-2024/"><u>Streamline Your Videography Insta-to-MP4 Made Simple for 2024</u></a></li>
+</ul></div>
+

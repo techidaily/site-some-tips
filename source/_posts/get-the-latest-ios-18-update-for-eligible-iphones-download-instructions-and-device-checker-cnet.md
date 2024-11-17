@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Download Instructions and Device Checker | CNET
-date: 2024-11-01T20:19:47.440Z
-updated: 2024-11-07T00:40:39.866Z
+date: 2024-11-10T04:17:39.956Z
+updated: 2024-11-17T05:50:13.489Z
 tags:
   - apple
 categories:
@@ -32,19 +32,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -54,10 +41,10 @@ Go to your iPhone's Settings and select General.
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Download and install
@@ -70,14 +57,14 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -108,6 +95,13 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -125,16 +119,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -181,20 +169,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-connectivity-sharing-youtube-and-twitter-videos-on-snapchat-for-2024/"><u>[New] Cross Platform Connectivity Sharing YouTube & Twitter Videos on Snapchat for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-mastering-photograph-dating-techniques-for-2024/"><u>[New] Mastering Photograph Dating Techniques for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-guide-to-screen-capturing-hulu-content-seamlessly/"><u>[New] Step-by-Step Guide to Screen Capturing Hulu Content Seamlessly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-quick-glitch-fix-for-podcast-broadcasts/"><u>[New] The Quick Glitch Fix for Podcast Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-creativity-top-10-insider-canva-tricks/"><u>[New] Unlocking Creativity Top 10 Insider Canva Tricks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-smoothing-iphone-pics-4-methods/"><u>[Updated] The Ultimate Guide to Smoothing iPhone Pics (4 Methods)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>[Updated] Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-rapid-tiktok-filming-techniques-to-enhance-frame-rate/"><u>2024 Approved Rapid TikTok Filming Techniques to Enhance Frame Rate</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-fundamentals-of-creating-breathtaking-canon-time-lapses/"><u>2024 Approved The Fundamentals of Creating Breathtaking Canon Time-Lapses</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/can-deleting-your-exterior-storage-device-cause-data-loss/"><u>Can Deleting Your Exterior Storage Device Cause Data Loss?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-methods-for-3d-text-illustration/"><u>Innovative Methods for 3D Text Illustration</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/integrating-external-websites-into-instagrams-ecosystem-for-2024/"><u>Integrating External Websites Into Instagram's Ecosystem for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-route-to-collecting-pictorial-frame-downloads-for-2024/"><u>The Route to Collecting Pictorial Frame Downloads for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-science-behind-whatsapp-voice-talks-for-2024/"><u>The Science Behind WhatsApp Voice Talks for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-sites-for-fetching-got-ringtone-downloads-for-2024/"><u>Top Sites for Fetching GoT Ringtone Downloads for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-lgs-virtual-frontier-a-comprehensive-vr-review/"><u>[New] In 2024, LG's Virtual Frontier A Comprehensive VR Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-prime-top-5-virtual-reality-drones/"><u>2024 Approved Prime Top 5 Virtual Reality Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-8-visual-boosts-for-online-broadcasts-for-2024/"><u>Advanced 8 Visual Boosts for Online Broadcasts for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722971127287-get-the-latest-dell-wd19-printer-drivers-installed-today/"><u>Get the Latest Dell WD19 Printer Drivers Installed Today!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevating-visuals-with-acoustic-elements/"><u>In 2024, Elevating Visuals with Acoustic Elements</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-users-manual-for-fcp-power-users/"><u>In 2024, The Complete User's Manual for FCP Power Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>In 2024, The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>In 2024, The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-fit2-the-ideal-companion-for-everyday-fitness-tracking/"><u>Samsung Galaxy Fit2: The Ideal Companion for Everyday Fitness Tracking</u></a></li>
+<li><a href="https://some-tips.techidaily.com/turning-images-into-scenes-syncing-beats-for-2024/"><u>Turning Images Into Scenes, Syncing Beats for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Programming Language Trends Over the Years: Analyzing Their Popularity Fluctuations Since 2016 and Lessons Learned | ZDNet"
-date: 2024-09-18 19:39:53
-updated: 2024-09-20 11:28:40
+date: 2024-11-16T10:27:32.946Z
+updated: 2024-11-17T00:21:33.093Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +116,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -122,6 +143,19 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/conversion-facil-y-gratuita-al-aire-libre-haga-el-cambio-de-m4a-a-vob-utilizando-movavi/"><u>Conversión Fácil Y Gratuita Al Aire Libre: Haga El Cambio De M4A a VOB Utilizando Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-storage-solutions-for-classic-gaming-with-chdmans-wisdom/"><u>Enhanced Storage Solutions for Classic Gaming with CHDMAN's Wisdom</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratitude-for-using-movavi-slideshow-creator-download-complete/"><u>Gratitude for Using Movavi Slideshow Creator – Download Complete</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-honor-magic-6-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Honor Magic 6 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-procuring-stock-visuals-for-projects/"><u>In 2024, Best Practices Procuring Stock Visuals for Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/"><u>In 2024, The Best of YT A Deep Dive Into Music Dance Clips, '23</u></a></li>
+<li><a href="https://some-tips.techidaily.com/los-mejores-programas-libres-de-corte-de-videos-que-debes-usar-en-el-ano-2024/"><u>Los Mejores Programas Libres De Corte De Vídeos Que Debes Usar en El Año 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-screen-tremors-solving-acer-display-issues/"><u>Stop Screen Tremors: Solving Acer Display Issues</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rating-amazon-fire-hd-8-affordable-tablet-with-premium-performance/"><u>Top Rating Amazon Fire HD 8 : Affordable Tablet with Premium Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visionary-visuals-best-video-cameras-of-the-year-2024/"><u>Visionary Visuals Best Video Cameras of the Year 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726228178437-aviogv-movavi/"><u>オンラインでの無料AVIからOGVへの変換 - Movavi</u></a></li>
+</ul></div>
+

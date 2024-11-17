@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Teamwork on Apple Pages: A Comprehensive Guide to iCloud Integration and Collaboration Techniques"
-date: 2024-11-02T01:10:53.327Z
-updated: 2024-11-07T02:28:55.930Z
+date: 2024-11-09T18:54:13.270Z
+updated: 2024-11-17T04:09:37.698Z
 tags:
   - apple
 categories:
@@ -36,13 +36,6 @@ Apple was expected to focus on incorporating AI into its apps to simplify users'
 
 Apple Intelligence focuses on broad-appeal AI features rather than advanced image and video generation. To do this, the company developed in-house AI models and partnered with OpenAI to power a chatbot that will integrate [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) into iOS, iPadOS, and MacOS.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What does Apple Intelligence do?
 
 Apple
@@ -62,6 +55,19 @@ Aside from these AI features, iOS 18 will include new customizable icons and int
 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Siri getting an Apple Intelligence makeover?
 
 Apple
@@ -79,10 +85,10 @@ The voice assistant will also be able to perform hundreds of new actions across 
 Apple is also upgrading Siri to understand text, allowing users to type or speak to Siri as needed. 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's new in Apple's photo editing & search?
@@ -96,6 +102,13 @@ Like the Google Pixel's Magic Eraser, Apple is giving its devices a new, AI-powe
 Apple is adding natural language photo and video search to its Photos app. This will let users enter a prompt to search for a picture, video, or even a segment of a video. Users can say, "Find a photo of that starfish we found at the beach last summer," and have their iPhone pull up a photo without having to scroll through thousands of photos to find the one.
 
 In Photos, users will also be able to give a text prompt to create Memory videos. These will be compilations of videos and photos following a description, with music suggestions from Apple Music. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does systemwide AI text generation work?
 
@@ -120,13 +133,6 @@ Apple will let users generate images using AI in Messages, Photos Notes, Keynote
 In the Notes app, for example, a new tool called Image Wand will let you circle a rough sketch and use on-device AI to have Image Playground pull ideas from the surrounding areas to generate an image. 
 
 Image Playground will be available in beta this fall, and some features will be released over the next year.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is ChatGPT coming to iPhone, iPad, and Mac?
 
@@ -157,10 +163,16 @@ Apple is leveraging what it calls Private Cloud Compute for complex tasks that r
 Depending on its complexity and system requirements, an algorithm will determine whether a task requiring AI should be processed on-device or offloaded to the cloud. Simpler tasks like a Siri request and other basic NLP tasks can be processed on-device. More complex tasks, like generating a detailed summary of a large document, will be sent to the cloud, where more robust processing can occur. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Apple Intelligence actually private and secure?
@@ -218,24 +230,20 @@ While these AI features may help drive sales of new iPhones and Macs, as a curre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-buzz-building-blueprints-igniting-interest-in-the-feed/"><u>[New] Buzz-Building Blueprints Igniting Interest in the Feed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[New] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[New] Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-mp4-player-insights/"><u>[Updated] 2024 Approved Essential MP4 Player Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-best-video-recording-gear-guide-for-2024/"><u>[Updated] Best Video Recording Gear Guide for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-quick-recovery-of-twitch-broadcasts/"><u>[Updated] The Quick Recovery of Twitch Broadcasts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[Updated] The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-image-enhancement-pivotal-pixlr-insights/"><u>2024 Approved The Art of Image Enhancement Pivotal Pixlr Insights</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-trends-in-effective-podcast-naming/"><u>2024 Approved Top 10 Trends in Effective Podcast Naming</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/1725285430130-dvd/"><u>二層DVD書き込みガイド：シンプル操作とデータ圧縮技術</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-constructing-unique-instagram-story-banners/"><u>In 2024, Constructing Unique Instagram Story Banners</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-best-voice-altering-software-for-your-virtual-persona/"><u>In 2024, The Best Voice-Altering Software for Your Virtual Persona</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-5-free-screen-recorders-on-windows-10/"><u>In 2024, Top 5 Free Screen Recorders on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/navigate-and-network-simplified-the-ultimate-guide-to-optimizing-menu-functionality-for-top-level-social-media-engagement-on-facebook-linkedin-and-youtube.m1/"><u>Navigate and Network Simplified: The Ultimate Guide to Optimizing Menu Functionality for Top-Level Social Media Engagement on Facebook, LinkedIn, and YouTube</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-dualtracksync-the-ultimate-audio-matching-solution-for-adobe-premiere-pro-users/"><u>New In 2024, DualTrackSync The Ultimate Audio Matching Solution for Adobe Premiere Pro Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-basics-of-electronic-story-craftsmanship-for-2024/"><u>The Basics of Electronic Story Craftsmanship for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-list-of-premium-androidpc-video-editors/"><u>The Ultimate List of Premium Android/PC Video Editors</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-emulating-old-hollywood-style-in-modern-videos/"><u>[New] 2024 Approved Emulating Old Hollywood Style in Modern Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-imprint-entire-online-viewport/"><u>[New] 2024 Approved Imprint Entire Online Viewport</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-strategies-softwares-versus-hardware-harmony/"><u>[New] Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-digital-tapes-a-comprehensive-recorder-roundup-for-2024/"><u>[Updated] Digital Tapes A Comprehensive Recorder Roundup for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-capturing-imagination-best-shot-tips/"><u>[Updated] The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-cloud-storage-cost-breakdown-2024-edition/"><u>[Updated] The Ultimate Cloud Storage Cost Breakdown, 2024 Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-20-essential-gopro-extras/"><u>[Updated] Top 20 Essential Gopro Extras</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-ringtones-for-game-of-thrones-enthusiasts-online-listings/"><u>[Updated] Top Ringtones for Game of Thrones Enthusiasts - Online Listings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-riders-eye-view-unveiling-23s-finest-action-camera-hats-for-bike-enthusiasts/"><u>2024 Approved The Rider's Eye View – Unveiling '23’S Finest Action Camera Hats for Bike Enthusiasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads/"><u>2024 Approved Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-7a-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel 7a to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1424553-9781780283647-the-watkins-tarot-handbook/"><u>The Watkins Tarot Handbook | Free Book</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/videovisionary-toolkit-for-2024/"><u>VideoVisionary Toolkit for 2024</u></a></li>
 </ul></div>
 

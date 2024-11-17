@@ -1,7 +1,7 @@
 ---
 title: Harnessing the Power of RAG & LLMs in Generative AI to Boost Your Company's Knowledge Base | ZDNet Strategies
-date: 2024-09-19 17:42:54
-updated: 2024-09-20 11:35:57
+date: 2024-11-09T23:12:38.124Z
+updated: 2024-11-17T06:00:19.671Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,19 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-9-complimentary-christmas-films-on-youtube/"><u>[New] Top 9 Complimentary Christmas Films on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-streaming-platforms-for-authors/"><u>[New] Ultimate Streaming Platforms for Authors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-techniques-for-straightening-aerial-video-stability/"><u>[Updated] Techniques for Straightening Aerial Video Stability</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-future-of-mobile-photography-with-xiaomis-mi-11-for-2024/"><u>[Updated] The Future of Mobile Photography with Xiaomi's Mi 11 for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-quick-windows-data-evaluation-guide/"><u>2024 Approved Quick Windows Data Evaluation Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-best-places-to-explore-vector-artwork-at-no-cost/"><u>2024 Approved Unlock the Best Places to Explore Vector Artwork at No Cost</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discovering-your-wi-fi-network-password-a-guide-for-android-and-iphone-users/"><u>Discovering Your Wi-Fi Network Password: A Guide for Android & iPhone Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-the-shark-ion-robovac-av751-excellent-dust-suction-vs-misplaced-pathfinding-issues-gadgetpundit/"><u>Expert Analysis on the Shark ION RoboVac AV751: Excellent Dust Suction Vs. Misplaced Pathfinding Issues | GadgetPundit</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c50-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Poco C50 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-yt-clip-sharing-using-your-google-id/"><u>In 2024, Expert Advice YT Clip Sharing Using Your Google ID</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-key-to-smooth-auditory-transitions/"><u>In 2024, The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-costly-speedster-swagtrons-swagboard-t1/"><u>In-Depth Analysis: The Costly Speedster, Swagtron's Swagboard T1</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-filmmaking-install-xps-media-tools-for-2024/"><u>Streamline Filmmaking Install XP's Media Tools for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-lego-star-wars-the-skywalker-sagas-stability-issues-on-pc/"><u>Troubleshooting and Fixing Lego Star Wars: The Skywalker Saga's Stability Issues on PC</u></a></li>
+</ul></div>
+

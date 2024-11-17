@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Raspberry Pi Shortage: Strategies & Solutions for Avid Tech Enthusiasts | ZDNet"
-date: 2024-09-18 23:31:46
-updated: 2024-09-20 12:10:43
+date: 2024-11-10T11:09:02.271Z
+updated: 2024-11-17T10:29:03.923Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -81,6 +95,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-delving-into-ffmpeg-unaltered-audio-extraction/"><u>[New] In 2024, Delving Into FFmpeg Unaltered Audio Extraction</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-prime-video-capturing-applications/"><u>[Updated] Prime Video Capturing Applications</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-drone-tech-leading-gimbals-ranked/"><u>[Updated] Top Drone Tech Leading Gimbals Ranked</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>2024 Approved Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-tool-transform-your-gifs-into-mkv-videos-with-ease/"><u>Free Online Tool: Transform Your GIFs Into MKV Videos with Ease</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuissimo-convertidor-ogg-e-ape-em-linha-pelo-movavi/"><u>Gratuíssimo Convertidor OGG E APE Em Linha Pelo Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-make-gmail-meetings-work-zipping-up-zoom-integrations/"><u>In 2024, How to Make Gmail Meetings Work Zipping Up Zoom Integrations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pump-up-your-viewership-with-these-proven-methods-for-2024/"><u>Pump Up Your Viewership with These Proven Methods for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-about-voice-memo/"><u>Ultimate Guide About Voice Memo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/virtueel-verwerpen-van-arw-naar-png-gratuite-online-convertitie-processen-met-movavi/"><u>Virtueel Verwerpen Van ARW Naar PNG: Gratuite Online-Convertitie-Processen Met Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vob-mjpeg-online-movavi/"><u>VOB를 무료로 MJPEG로 바꾸는 Online 도구 - Movavi</u></a></li>
+</ul></div>
+

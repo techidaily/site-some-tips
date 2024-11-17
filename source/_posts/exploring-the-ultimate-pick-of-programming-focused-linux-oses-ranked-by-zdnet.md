@@ -1,7 +1,7 @@
 ---
 title: Exploring the Ultimate Pick of Programming-Focused Linux OSes - Ranked by ZDNet
-date: 2024-09-17 19:11:38
-updated: 2024-09-20 10:48:22
+date: 2024-11-11T10:08:05.473Z
+updated: 2024-11-16T21:00:46.226Z
 tags:
   - developer
 categories:
@@ -67,11 +67,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,19 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +189,25 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-a-guide-to-facebooks-pinnacle-feature-adjustments/"><u>[New] 2024 Approved A Guide to Facebook's Pinnacle Feature Adjustments</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-best-in-class-top-8-software-turning-subtitles-into-simplified-srt-format-for-2024/"><u>[New] Best in Class Top 8 Software Turning Subtitles Into Simplified SRT Format for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-your-youtube-video-to-million-views-quickly-for-2024/"><u>[Updated] Boost Your YouTube Video to Million Views Quickly for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-of-inshots-features-and-rankings/"><u>In-Depth Analysis of InShot's Features and Rankings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mobile-scanning-and-converting-documents-to-text-with-finereader-iphones-compatible/"><u>Mobile Scanning & Converting Documents to Text with FineReader - iPhones Compatible</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-future-with-siemens-gbs-mastering-document-automation-through-abbyys-expert-insights/"><u>Navigating the Future with Siemens GBS: Mastering Document Automation Through ABBYY's Expert Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimisez-votre-tresorerie-avec-notre-checklist-des-opportunites-financeuses-abbyy/"><u>Optimisez Votre Trésorerie Avec Notre Checklist Des Opportunités Financeuses - ABBYY</u></a></li>
+<li><a href="https://some-tips.techidaily.com/optimize-with-cookiebot-elevate-your-websites-seo-performance/"><u>Optimize with Cookiebot: Elevate Your Website's SEO Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-content-file-locked-error-in-steam-tips-and-solutions/"><u>Overcoming 'Content File Locked Error' In Steam - Tips and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/pionierarbeit-von-dsgf-fur-digitalisierung-der-finanzen-partnerschaft-mit-abbyy-macht-wirkung/"><u>Pionierarbeit Von DSGF Für Digitalisierung Der Finanzen: Partnerschaft Mit ABBYY Macht Wirkung</u></a></li>
+<li><a href="https://win-tips.techidaily.com/simple-guide-setting-up-weekly-backup-tasks-in-windows-server-2012/"><u>Simple Guide: Setting Up Weekly Backup Tasks in Windows Server 2012</u></a></li>
+</ul></div>
+

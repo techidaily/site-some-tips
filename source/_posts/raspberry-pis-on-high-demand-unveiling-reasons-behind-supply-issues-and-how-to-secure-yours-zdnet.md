@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pis on High Demand: Unveiling Reasons Behind Supply Issues and How to Secure Yours | ZDNet"
-date: 2024-09-18 12:24:12
-updated: 2024-09-20 10:55:51
+date: 2024-11-16T00:07:15.542Z
+updated: 2024-11-16T20:24:23.803Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +63,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>[New] Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-vrs-elite-accessories-top-10/"><u>[Updated] 2024 Approved Unveiling VR's Elite Accessories (Top 10)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-essential-list-top-16-best-free-video-viewers/"><u>[Updated] In 2024, Essential List Top 16 Best Free Video Viewers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-hidden-reasons-behind-imovies-cuts/"><u>[Updated] The Hidden Reasons Behind iMovie’s Cuts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-for-zoom-on-chrome-devices/"><u>2024 Approved Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tuneful-texts-musical-infusion-on-whatsapp/"><u>2024 Approved Tuneful Texts Musical Infusion on WhatsApp</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>2024 Approved Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-vector-insight-for-beginners-basic-forms-and-choice-tools/"><u>2024 Approved Vector Insight for Beginners Basic Forms and Choice Tools</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/choosing-your-smartphone-iphone-vs-android-finding-the-perfect-match/"><u>Choosing Your Smartphone: IPhone Vs. Android - Finding the Perfect Match</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-agni-2-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Agni 2 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-reimagining-mobile-photoshopping-iphone-x-insights/"><u>In 2024, Reimagining Mobile Photoshopping IPhone X Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leading-cloud-storage-vendors-a-comparative-pricing-analysis-for-2024/"><u>Leading Cloud Storage Vendors A Comparative Pricing Analysis for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavis-web-based-service-convert-your-flac-music-to-free-ogg-files-instantly/"><u>Movavi's Web-Based Service: Convert Your FLAC Music to Free Ogg Files Instantly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001832250-overcoming-common-pc-glitches-in-hyperscape-expert-fixes-revealed/"><u>Overcoming Common PC Glitches in HyperScape - Expert Fixes Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/review-of-eufy-omni-s1-pro-the-futuristic-automaton-vacuum/"><u>Review of Eufy Omni S1 Pro: The Futuristic Automaton Vacuum</u></a></li>
+<li><a href="https://some-tips.techidaily.com/swinging-sparrow-suites-for-2024/"><u>Swinging Sparrow Suites for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-dvd-bd-and-cd-drives-step-by-step-guide-to-resolve-unresponsive-slot-issues/"><u>Troubleshooting DVD, BD & CD Drives: Step-by-Step Guide to Resolve Unresponsive Slot Issues</u></a></li>
+</ul></div>
+

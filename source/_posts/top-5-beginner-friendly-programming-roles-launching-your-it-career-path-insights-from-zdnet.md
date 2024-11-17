@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Beginner-Friendly Programming Roles: Launching Your IT Career Path - Insights From ZDNet"
-date: 2024-09-19 19:49:13
-updated: 2024-09-20 12:46:36
+date: 2024-11-13T01:28:15.678Z
+updated: 2024-11-16T23:59:17.833Z
 tags:
   - developer
 categories:
@@ -41,6 +41,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -56,6 +69,13 @@ We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-stud
 Developers can choose to build using what Microsoft calls a "friendly user interface" as well as through code. Developers will have access to all of Azure AI Studio's resources, including coding tools, the latest foundation models, a comprehensive AI toolchain, prompt flow orchestration, tracing and debugging, and monitoring of generative AI apps. 
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  4\. New Dev Box features 
 
@@ -93,6 +113,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +129,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +189,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-end-live-recording-mode-immediately-in-qt-app/"><u>[New] 2024 Approved End Live Recording Mode Immediately in QT App</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-protect-your-privacy-why-you-should-avoid-sharing-your-personal-email-with-businesses/"><u>1. Protect Your Privacy: Why You Should Avoid Sharing Your Personal Email with Businesses</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/august-9th-new-york-times-insight-decode-todays-424-connection-clues/"><u>August 9Th New York Times Insight: Decode Today’s #424 Connection Clues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-defy-2-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Defy 2</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-apc-back-ups-pro-1500va-exceptional-energy-capacity-and-versatile-outlet-configuration/"><u>Comprehensive Analysis of the APC Back-UPS Pro 1500VA: Exceptional Energy Capacity & Versatile Outlet Configuration</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-circular-engine-kit/"><u>In 2024, Circular Engine Kit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-revolutionary-entry-points-for-zooids/"><u>In 2024, Revolutionary Entry Points for Zooids</u></a></li>
+<li><a href="https://some-tips.techidaily.com/this-week-in-digital-discoveries-unveiling-new-windows-laptops-and-exclusive-spotify-secrets/"><u>This Week in Digital Discoveries: Unveiling New Windows Laptops and Exclusive Spotify Secrets</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/uncomplicated-blueprint-for-crafting-successful-ads-online-for-2024/"><u>Uncomplicated Blueprint for Crafting Successful Ads Online for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-behind-the-google-pixel-tablets-impressive-performance/"><u>Unveiling the Secrets Behind the Google Pixel Tablet's Impressive Performance!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-weekly-tech-update-unpacking-the-atandt-security-leak-and-exciting-releases-from-samsung/"><u>Your Weekly Tech Update: Unpacking the AT&T Security Leak & Exciting Releases From Samsung</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Three Simple Tactics to Block Unwanted Messages on iPhones, Featured
-date: 2024-11-03T03:53:50.115Z
-updated: 2024-11-06T22:04:27.427Z
+date: 2024-11-12T02:24:34.258Z
+updated: 2024-11-17T08:19:10.319Z
 tags:
   - apple
 categories:
@@ -30,6 +30,13 @@ The good news is that you can stop these text messages using a feature already i
 
 **What you'll need:** To follow this tutorial, you'll need the latest version of iOS available for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Open Settings
 
 Open the Settings app on your iPhone, scroll down until you can access Apps, and tap on the Messages option.
@@ -49,10 +56,16 @@ Scroll to the end of the Messages settings to find "Filter Unknown Senders."
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check your Messages app
@@ -78,10 +91,10 @@ The message inbox will now default to show messages from people in your contact 
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -101,13 +114,6 @@ When you do this, unknown callers will go straight to voicemail and can leave yo
 
 Remember that if someone calls you from a number that is not saved in your contacts, you may miss important calls.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I report junk messages on iPhone?
 
 The tutorial above will let you live in ignorant bliss of whoever is trying to reach you, but you can also go a step further and report messages as junk. Here's how you can report junk messages on your iPhone:
@@ -126,18 +132,18 @@ If you keep getting messages from the same sender after reporting them, you can 
 3. Tap on the Info button on the right.
 4. Select Block this caller.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why is the 'Filter Unknown Senders' option turned off?
 
 The necessity for increased vigilance in certain situations -- like deliveries and communication with certain organizations -- when someone is expecting a message, is likely why Apple turns the Filter Unknown Senders feature off by default. After all, this option is meant for iPhone users who don't want to be bothered by messages from people they don't know or scammers. It can't be on by default, given that a new iPhone is void of any contacts in the address book. 
 
 **Also: [My 4 favorite iOS 18 features make the iPhone a lot better, and more fun](https://www.zdnet.com/article/my-4-favorite-ios-18-features/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why am I getting so many spam text messages?
 
@@ -175,24 +181,17 @@ Some phone companies started flagging incoming calls as "Spam Caller" or "Scam L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-preserve-your-virtual-adventures-with-top-pc-screen-techniques-for-2024/"><u>[New] Preserve Your Virtual Adventures with Top PC Screen Techniques for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-top-streamers-choice-does-virusmix-or-wirecast-rule-the-game/"><u>[New] Top Streamers Choice Does VirusMix or WireCast Rule the Game?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>[New] Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-your-potential-with-outstanding-android-time-lapse-videos/"><u>[New] Unleash Your Potential with Outstanding Android Time-Lapse Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[Updated] The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-secrets-of-simultaneous-iphone-shots-and-videos/"><u>[Updated] Unveiling the Secrets of Simultaneous iPhone Shots & Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-perfecting-the-art-of-zooming-expert-strategies-for-snapchat-users/"><u>2024 Approved Perfecting the Art of Zooming Expert Strategies for Snapchat Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pixel-perfect-free-mobile-photography-booster/"><u>2024 Approved Pixel Perfect Free Mobile Photography Booster</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-iphone-14-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From iPhone 14? Heres the Best Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/hassle-free-methods-for-changing-dall-e-outputs-from-webp-to-widely-supported-images-formats/"><u>Hassle-Free Methods for Changing DALL-E √ Outputs From WebP to Widely-Supported Images Formats</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-navigating-tiktoks-money-making-path-in-8-key-steps/"><u>In 2024, Navigating TikTok's Money-Making Path in 8 Key Steps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-studio-vs-fraps-deciding-the-ultimate-screen-grab-software/"><u>In 2024, OBS Studio vs Fraps Deciding the Ultimate Screen Grab Software</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-flawless-inshot-edit-transitions/"><u>In 2024, The Art of Flawless Inshot Edit Transitions</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-toolkit-powerdirectors-comprehensive-24-analysis/"><u>In 2024, The Ultimate Toolkit PowerDirector's Comprehensive '24 Analysis</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-mod-video-editing-without-the-cost-top-5-free-editors/"><u>New MOD Video Editing Without the Cost Top 5 Free Editors</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlined-creativity-the-most-popular-8-mobile-apps-for-edits-for-2024/"><u>Streamlined Creativity The Most Popular 8 Mobile Apps for Edits for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streamlining-color-grading-incorenasive-guide-to-lut-integration-in-obs-for-2024/"><u>Streamlining Color Grading Incorenasive Guide to LUT Integration in OBS for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oneplus-nord-n30-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on OnePlus Nord N30 5G without backup.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-privacy-focused-tools-for-unseen-story-watching-for-2024/"><u>[Updated] Privacy-Focused Tools for Unseen Story Watching for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-breathtaking-beijing-winter-games-of-2022/"><u>[Updated] The Breathtaking Beijing Winter Games of 2022</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>[Updated] Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-evaluating-fraps-as-a-screen-grab-pro/"><u>2024 Approved Evaluating Fraps as a Screen Grab Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-laughter-logic-kapwings-humor-engine/"><u>2024 Approved Laughter Logic Kapwing's Humor Engine</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-best-at-memes-app-version/"><u>2024 Approved The Best at Memes (App Version)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-legally-sharing-tunes-on-instagram/"><u>2024 Approved The Ultimate Guide to Legally Sharing Tunes on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unleash-creativity-with-these-top-free-slideshow-templates/"><u>2024 Approved Unleash Creativity with These Top Free Slideshow Templates</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726221685208-pcx-movavi/"><u>靈活易用的網路平台 PCX格式自由轉換 - Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/evaluating-auroras-high-dynamic-range-benefits/"><u>Evaluating Aurora's High Dynamic Range Benefits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-ideal-traits-of-apple-watch-ultra-2-my-personal-perks-and-a-sweet-labor-day-discount/"><u>Exploring the Ideal Traits of Apple Watch Ultra 2 - My Personal Perks & A Sweet Labor Day Discount!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-mi-drone-4k-review-drones-vs-landscape-photography-for-2024/"><u>The Mi Drone 4K Review Drones vs Landscape Photography for 2024</u></a></li>
 </ul></div>
 

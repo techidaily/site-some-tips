@@ -1,7 +1,7 @@
 ---
 title: Child - Offspring
-date: 2024-09-19 13:18:10
-updated: 2024-09-20 12:12:59
+date: 2024-11-14T04:58:44.168Z
+updated: 2024-11-17T01:46:14.618Z
 tags:
   - developer
 categories:
@@ -41,11 +41,25 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  3\. Custom copilots using Azure AI Studio 
 
@@ -81,6 +95,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,28 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-amplify-your-imovie-with-youtube-audio-streams/"><u>[Updated] In 2024, Amplify Your iMovie with YouTube Audio Streams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-protecting-content-avoiding-premature-deletions/"><u>[Updated] In 2024, Protecting Content Avoiding Premature Deletions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-solvido-aprenda-como-executar-arquivos-mp4-no-windows-11-um-guia-passo-a-passo/"><u>1. [SOLVIDO] Aprenda Como Executar Arquivos MP4 No Windows 11: Um Guia Passo a Passo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-contrast-synchronizer/"><u>2024 Approved Radiant Contrast Synchronizer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/elevate-your-film-projects-with-new-releases-from-movavi-top-video-editor-programs-for-free/"><u>Elevate Your Film Projects with New Releases From Movavi - Top Video Editor Programs for FREE!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/enhanced-imagery-at-your-fingertits-iphone-and-androids-sticker-boost-apps/"><u>Enhanced Imagery at Your Fingertits – iPhone and Android's Sticker-Boost Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/essential-criteria-for-picking-the-perfect-energy-facility/"><u>Essential Criteria for Picking the Perfect Energy Facility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/het-aanbod-van-de-grootste-video-editors-voor-windows-los-op-het-vergeleken-met-imovie/"><u>Het Aanbod Van De Grootste Video Editors Voor Windows, Los Op Het Vergeleken Met iMovie!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-unlimited-the-ultimate-video-editing-suite-from-movavi-software/"><u>Movavi Unlimited: The Ultimate Video Editing Suite From Movavi Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/playing-srt-files-in-windowsmac-for-2024/"><u>Playing SRT Files in Windows/MAC for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/techniques-simples-pour-transformer-un-fichier-m4v-en-format-3gp-gratuitement-a-laide-de-logiciels-en-ligne-guide-decortigue/"><u>Techniques Simples Pour Transformer Un Fichier M4V en Format 3GP Gratuitement À L'Aide De Logiciels en Ligne - Guide Décortigué</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-rated-key-trackers-revealed-the-ultimate-guide/"><u>Top-Rated Key Trackers Revealed: The Ultimate Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/uninterrupted-video-experience-post-windows-10-upgrade/"><u>Uninterrupted Video Experience Post-Windows 10 Upgrade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726226290935-mp3-3g2-movavi/"><u>오픈 소스의 MP3를 원격용 3G2 형식으로 자유성 변환 - Movavi 도구</u></a></li>
+</ul></div>
+

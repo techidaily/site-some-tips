@@ -1,7 +1,7 @@
 ---
 title: "A Decade of Change: Tracking the Evolution of Programmer Preferences From 2016 to Now – Insights for Developers | ZDNet"
-date: 2024-09-19 19:43:28
-updated: 2024-09-20 10:49:16
+date: 2024-11-12T02:39:54.460Z
+updated: 2024-11-17T11:52:41.869Z
 tags:
   - developer
 categories:
@@ -40,6 +40,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  2\. GitHub Copilot extensions 
 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-mobile-relaxation-renders-idle-games/"><u>[New] 2024 Approved Top 10 Mobile Relaxation Renders (Idle Games)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-sportscasting-your-pathway-to-highlight-videos/"><u>[Updated] Sportscasting Your Pathway to Highlight Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-secrets-how-to-save-your-google-conversations/"><u>[Updated] Unveiling Secrets How to Save Your GooGle Conversations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-post-production-with-after-effects-and-luts/"><u>2024 Approved Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>2024 Approved The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-dissecting-the-ultra-clear-aesthetic-of-lgs-4k-screen/"><u>In 2024, Dissecting the Ultra-Clear Aesthetic of LG's 4K Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g34-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G34 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-rapid-revision-windows-protocol-uncovered/"><u>In 2024, Rapid Revision Windows Protocol Uncovered</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-picks-for-excellent-free-srt-translation-tools/"><u>In 2024, Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+</ul></div>
+

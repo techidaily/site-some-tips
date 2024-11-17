@@ -1,7 +1,7 @@
 ---
 title: "ZDNet Showdown: Comparing Deep Learning Explanations From Gemini Vs. GPT-4 - Who's the Winner?"
-date: 2024-09-19 10:50:27
-updated: 2024-09-20 12:16:14
+date: 2024-11-11T18:40:06.372Z
+updated: 2024-11-17T05:01:50.649Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +87,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,19 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +189,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-kazam-screen-recorder-features-guide-review/"><u>[New] 2024 Approved Kazam Screen Recorder Features| Guide| Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-obs-vs-streamlabs/"><u>[New] 2024 Approved OBS vs Streamlabs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discovering-virtual-mastery-kinemasters-android-journey/"><u>[New] Discovering Virtual Mastery KineMaster's Android Journey</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-remove-background-noise-from-your-youtube-video-for-2024/"><u>[Updated] How To Remove Background Noise From Your YouTube Video for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>[Updated] Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-handbook-audio-notes-101/"><u>[Updated] The Ultimate Handbook Audio Notes 101</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 14 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225599759-tswmv-movavi/"><u>网上免费的TS到WMV转换工具 - 掌控Movavi专业转换技术</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/captivate-crowds-secrets-to-screen-collaboration-via-social-media-for-2024/"><u>Captivate Crowds Secrets to Screen Collaboration via Social Media for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/conversione-libera-da-aac-a-mp3-guida-completa-su-movavi/"><u>Conversione Libera Da AAC a MP3: Guida Completa Su Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-videos-for-free-in-real-time-mp4-avi-to-mpg-secure-site-by-movavi/"><u>Convert Videos for Free in Real Time (MP4, AVI to MPG) - Secure Site by Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratuita-conversion-de-archivo-mp4-a-avi-online-con-movavi/"><u>Gratuita Conversión De Archivo MP4 a AVI Online Con Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/las-5-formas-mas-efectivas-de-transformar-archivos-avi-en-mp4-usando-tu-mac/"><u>Las 5 Formas Más Efectivas De Transformar Archivos AVI en MP4 Usando Tu Mac</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-transformacao-livre-webp-em-jpeg-na-web/"><u>Movavi: Transformação Livre WebP Em JPEG Na Web</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-gif-jpg/"><u>Movavi의 도구를 사용하여 GIF를 JPG으로 바꾸기 - 인터넷 공간에서 원활한 이동</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transferer-un-fichier-mp3-en-format-asf-gratuitement-online-avec-movavi/"><u>Transférer Un Fichier MP3 en Format ASF Gratuitement Online Avec Movavi</u></a></li>
+<li><a href="https://discover-data.techidaily.com/windows-10-shared-folder-access-issue-resolved-discover-tips-and-fixes/"><u>Windows 10 Shared Folder Access Issue Resolved - Discover Tips and Fixes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/aviaac-online-movavi/"><u>무료 AVI/AAC 전환기 - Online 이용하세요! Movavi</u></a></li>
+</ul></div>
+

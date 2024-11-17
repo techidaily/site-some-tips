@@ -1,7 +1,7 @@
 ---
 title: "Mastering Agility in Software Development: 6 Key Strategies for Successful Design - Insights From ZDNet"
-date: 2024-09-19 18:24:42
-updated: 2024-09-20 11:15:24
+date: 2024-11-14T12:26:03.334Z
+updated: 2024-11-17T09:50:47.601Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -92,6 +106,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,26 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-online-audio-archives-an-intuitive-guide/"><u>[Updated] Navigating Online Audio Archives An Intuitive Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-spinning-indie-podcast-hits/"><u>[Updated] The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experiencing-the-apple-studio-display-a-stylish-yet-costly-choice-for-professionals-using-mac-insights/"><u>Experiencing the Apple Studio Display: A Stylish Yet Costly Choice for Professionals Using Mac - Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-smart-8-hd-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Smart 8 HD</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-tier-pdf-visual-improvements-for-2024/"><u>Top-Tier PDF Visual Improvements for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-movavi-video-editor-eula-comprehensive-guide-for-educational-use/"><u>Understanding the Movavi Video Editor EULA: Comprehensive Guide for Educational Use</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unmatched-closure-in-cyberspace-quest-for-2024/"><u>Unmatched Closure in Cyberspace Quest for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-snapchats-prominent-personalities-highlight-for-2024/"><u>Utilizing Snapchat's Prominent Personalities Highlight for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/venture-into-virtual-reality-with-top-mobile-headsets-for-2024/"><u>Venture Into Virtual Reality with Top Mobile Headsets for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/winning-team-strategies-for-roller-champions-crossplay-on-pc-updated-guide/"><u>Winning Team Strategies for Roller Champions Crossplay on PC - Updated Guide</u></a></li>
+</ul></div>
+

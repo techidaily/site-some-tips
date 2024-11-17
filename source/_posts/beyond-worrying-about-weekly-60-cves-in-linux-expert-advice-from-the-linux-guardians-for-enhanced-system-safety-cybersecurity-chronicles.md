@@ -1,7 +1,7 @@
 ---
 title: "Beyond Worrying About Weekly 60 CVEs in Linux: Expert Advice From the Linux Guardians for Enhanced System Safety | Cybersecurity Chronicles"
-date: 2024-09-18 16:14:49
-updated: 2024-09-20 12:27:45
+date: 2024-11-12T17:25:10.098Z
+updated: 2024-11-16T17:54:06.525Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +74,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -92,6 +113,13 @@ Key features introduced at Build 2024 include a Flex Consumption Plan designed t
 For those looking for more of a deep dive, there's a lab session at Build entitled, [Build and deploy serverless apps with Azure Functions and Azure AI](https://build.microsoft.com/en-US/sessions/e3ac0469-bb5f-48ca-a578-5aa7c1436020) at 2:15 p.m. on Tuesday, May 21\. The session will be repeated on May 22 at 2:15 p.m. and May 23 at 11:00 a.m. Unfortunately, these sessions are only in Seattle and will not be available online or recorded. 
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  8\. Azure App Service new features 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-crafting-compelling-narratives-with-vo-in-powerpoint/"><u>[New] In 2024, Crafting Compelling Narratives with VO in PowerPoint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-surfings-new-era-top-cam-tech/"><u>[New] Surfing's New Era - Top Cam Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-outwit-youtube-visitors-tips-to-evade-automated-audiences/"><u>[Updated] In 2024, Outwit YouTube Visitors Tips to Evade Automated Audiences</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-unboxing-adventure-boosting-customer-delight/"><u>[Updated] In 2024, The Ultimate Unboxing Adventure Boosting Customer Delight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplifying-video-editing-with-windows-movie-maker-for-windows-8-users/"><u>[Updated] Simplifying Video Editing with Windows Movie Maker for Windows 8 Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-superior-uav-picks-to-elevate-gopro-cinematography/"><u>2024 Approved Superior UAV Picks to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-epitome-of-visual-perfection-top-10-monitors-for-mac-users/"><u>2024 Approved The Epitome of Visual Perfection - Top 10 Monitors for Mac Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-meme-artisans-guide-to-shaping-social-interaction-gifs/"><u>2024 Approved The Meme Artisan's Guide to Shaping Social Interaction (GIFs)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-role-of-non-verbal-communication-in-interviewing/"><u>2024 Approved The Role of Non-Verbal Communication in Interviewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/black-friday-extravaganza-save-big-612-forever-win10/"><u>Black Friday Extravaganza: Save Big - $6.12 Forever Win10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973672879-qualcomm-atheros-ar938x-free-driver-download-now/"><u>Qualcomm Atheros AR938X - FREE Driver Download Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782133-9781594779893-quantum-shift-in-the-global-brain/"><u>Quantum Shift in the Global Brain | Free Book</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-storytelling-with-inshots-transition-features-for-2024/"><u>Streamline Storytelling with Inshot's Transition Features for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-5-iphone-x87-photoshoot-background-swappers-for-2024/"><u>Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-enhancements-in-sonys-s6500-bdhd-player-for-2024/"><u>Unveiling Enhancements in Sony's S6500 BD/HD Player for 2024</u></a></li>
+</ul></div>
+

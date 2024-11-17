@@ -1,7 +1,7 @@
 ---
 title: "Combating Developer Burnout: Innovative Strategies Employed by Tech Firms | ZDNet"
-date: 2024-09-18 22:54:55
-updated: 2024-09-20 11:51:23
+date: 2024-11-11T07:27:31.621Z
+updated: 2024-11-17T11:03:57.716Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/tep-into-the-future-youtubes-best-vr-experiences/"><u>[New] Step Into the Future YouTube's Best VR Experiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-cinematic-zoom-effect-focus-on-film/"><u>[New] The Cinematic Zoom Effect Focus on Film</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fire-browser-revolution-top-extra-tools-to-streamline-facebook-video-downloads-on-firefox/"><u>[Updated] 2024 Approved Fire-Browser Revolution Top Extra Tools to Streamline Facebook Video Downloads on FireFox</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[Updated] 2024 Approved Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-mememolding-cutter/"><u>[Updated] MemeMolding Cutter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-8-selections-of-subtitle-editors-making-srt-on-windowsmac-a-breeze/"><u>[Updated] Top 8 Selections of Subtitle Editors Making SRT on Windows/Mac a Breeze</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-essential-guide-to-angular-video-compilation-android/"><u>2024 Approved The Essential Guide to Angular Video Compilation (Android)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-lgs-27in-widescreen-4k-display/"><u>2024 Approved The Ultimate Guide to LG's 27in Widescreen 4K Display</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>2024 Approved Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-under-100-investments-in-action-cameras-top-selections/"><u>2024 Approved Under $100 Investments in Action Cameras – Top Selections</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/comprehensive-troubleshooting-how-to-disable-safe-mode-on-your-windows-11-pc/"><u>Comprehensive Troubleshooting: How To Disable Safe Mode On Your Windows 11 PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-enabling-2fa-on-your-gmail-account/"><u>Step-by-Step Guide: Enabling 2FA on Your Gmail Account</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470364104-struggling-with-your-iphones-vpn-connection-discover-these-7-effective-fixes-now/"><u>Struggling With Your iPhone's VPN Connection? Discover These 7 Effective Fixes Now</u></a></li>
+</ul></div>
+

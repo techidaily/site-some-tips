@@ -1,7 +1,7 @@
 ---
 title: "Open Source Mandate: Swiss Federal Govt. Moves Toward Transparency in Code"
-date: 2024-09-19 12:27:35
-updated: 2024-09-20 10:29:56
+date: 2024-11-10T17:23:24.551Z
+updated: 2024-11-16T20:56:14.488Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -111,6 +125,13 @@ Microsoft announced that it's now previewing the addition of dynamic sessions. T
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  10\. Azure API Center in general availability 
 
 An API (application programming interface) is a set of defined programming calls that allows one program to use the features of another program or service. One of the ways programmers can save a lot of time is to choose powerful APIs that do a lot of the heavy lifting. For example, a programmer who wants to add some AI capabilities doesn't need to start from scratch inventing AI technology. Instead, they simply use an API, which accesses an AI service (like those we've talked about in this article) and the called service does all the heavy work. 
@@ -122,6 +143,13 @@ The problem is that there are a tremendous number of APIs. Each API used adds co
 Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed to help companies manage their APIs by providing a centralized governance, discovery, and monitoring platform. 
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  More from Build 2024 
 
@@ -155,11 +183,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/expert-guide-to-mastering-zero-cost-timer-functionality/"><u>Expert Guide to Mastering Zero Cost Timer Functionality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/expert-solutions-for-unresponsive-screen-capture-tools-overcoming-13-problems-with-movavi/"><u>Expert Solutions for Unresponsive Screen Capture Tools - Overcoming 13 Problems With Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/gratis-3gpp-inpakket-naar-3gp-online-vervangen-movavi/"><u>Gratis 3GPP-Inpakket Naar 3GP Online Vervangen - Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-preventing-google-chromes-autopilot-tabs/"><u>Guide to Preventing Google Chrome's Autopilot Tabs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-x-flip-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo X Flip Lock Screen Password</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/impeccable-console-replication-best-5-emulators/"><u>Impeccable Console Replication Best 5 Emulators</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-xs-max-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone XS Max to Computer? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/inside-the-advanced-dual-zone-technology-of-ankers-everfrost-powered-cooler-a-comprehensive-50-unit-analysis/"><u>Inside the Advanced Dual-Zone Technology of Anker's EverFrost Powered Cooler: A Comprehensive 50 Unit Analysis</u></a></li>
+<li><a href="https://some-tips.techidaily.com/kostenloze-omzetting-van-nef-naar-jpg-professioneel-online-kneus-von-movavi/"><u>Kostenloze Omzetting Van NEF Naar JPG - Professioneel Online Kneus Von Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavitiffjpeg/"><u>Movaviの無料TIFFファイルをJPEGに簡単変換 - オンラインで使えるソリューション</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-pro-17-laptop-assessment-ultimate-mobility-meets-performance/"><u>Razer Blade Pro 17 Laptop Assessment: Ultimate Mobility Meets Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transforma-tu-video-mp4-en-formato-mov-por-internet-gratuito-manteniendo-pura-calidad-pasos-faciles/"><u>Transforma Tu Vídeo MP4 en Formato MOV Por Internet Gratuito, Manteniendo Pura Calidad - Pasos Fáciles</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-ps4s-noisy-fans-understanding-and-solutions/"><u>Troubleshooting Your PS4's Noisy Fans – Understanding and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-the-distinction-between-wav-and-mp3-file-formats-a-deep-dive/"><u>Understanding the Distinction Between WAV and MP3 File Formats: A Deep Dive</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rw2-png-movavi/"><u>무료 RW2 PNG 그림을 직접 인터넷으로 변환하는 단계별 지침 – Movavi 이용</u></a></li>
+</ul></div>
+

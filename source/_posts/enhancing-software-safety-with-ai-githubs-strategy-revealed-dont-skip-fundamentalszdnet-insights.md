@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Software Safety with AI: GitHub's Strategy Revealed - Don't Skip Fundamentals![ZDNet Insights]"
-date: 2024-09-19 14:24:50
-updated: 2024-09-20 11:42:25
+date: 2024-11-11T05:03:47.932Z
+updated: 2024-11-17T12:12:52.792Z
 tags:
   - developer
 categories:
@@ -47,6 +47,19 @@ In addition to general Copilot extensions, Microsoft is announcing GitHub Copilo
 
 There is a Build breakout session on [Extending GitHub Copilot](https://build.microsoft.com/en-US/sessions/0121ee70-fd82-419f-a7ad-75bbb70cfd41). That's probably worth a look to get more details on where this all fits. Microsoft says the session will provide a "sneak peak" into the internals of GitHub Copilot. 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  3\. Custom copilots using Azure AI Studio 
 
 We [first discussed Azure AI Studio](https://www.zdnet.com/article/azure-ai-studio-takes-the-stage-at-ignite-2023-unlock-the-potential-of-azure-ai-studios-ai-toolkit/), Microsoft's all-in-one AI toolkit, at Ignite last November. Now, six months later, Azure AI Studio is generally available and allows users to build custom copilots that support custom applications like "enterprise chat, content generation, data analysis, project management, automation of routine tasks and more," according to Microsoft. 
@@ -57,6 +70,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +86,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -123,6 +150,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +189,29 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-perfect-the-cinematic-ig-look-invest-in-slowing-down/"><u>[New] 2024 Approved Perfect the Cinematic IG Look Invest in Slowing Down</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-activate-a-virtual-grid-display-for-meet-users/"><u>[New] How to Activate a Virtual Grid Display for Meet Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[New] In 2024, Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-luminance-hdr-review-is-this-a-good-choice-to-create-hdr-for-2024/"><u>[New] Luminance HDR Review Is This a Good Choice to Create HDR for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-crossfade-sounds-using-audacity/"><u>[New] The Ultimate Guide to Crossfade Sounds Using Audacity</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-apex-legends-cross-play-how-to-turn-off-cross-play-and-best-platforms-for-2024/"><u>[Updated] Apex Legends Cross-Play How to Turn Off Cross-Play and Best Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-success-enhancing-online-forms-and-data-collection-effortlessly/"><u>Cookiebot Driven Success: Enhancing Online Forms & Data Collection Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-solutions-enhancing-your-sites-performance/"><u>Cookiebot-Driven Solutions: Enhancing Your Site's Performance</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-enabled-marketing-solutions/"><u>Cookiebot-Enabled Marketing Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-your-reliable-partner-for-enhanced-website-traffic-and-analytics/"><u>Cookiebot: Your Reliable Partner for Enhanced Website Traffic and Analytics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/die-top-vorteile-von-jobs-bei-abbyy-erfolgsgeschichte-aufsteigen/"><u>Die Top-Vorteile Von Jobs Bei ABBYY - Erfolgsgeschichte Aufsteigen</u></a></li>
+<li><a href="https://some-tips.techidaily.com/efficiently-digitize-documents-scan-and-convert-with-ocr-technology-perfect-app-for-iphone-users/"><u>Efficiently Digitize Documents: Scan & Convert with OCR Technology - Perfect App for iPhone Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/effortless-conversion-of-text-from-pdfjpg-to-digital-using-iphones-ocr-scanner/"><u>Effortless Conversion of Text From PDF/JPG to Digital Using iPhone's OCR Scanner</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-11-usb-connection-problems-fixing-unknown-usb-device-port-reset-failed/"><u>Troubleshooting Windows 11 USB Connection Problems: Fixing 'Unknown USB Device (Port Reset Failed)</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Breaking Down the iPhone 15: A Must-Have Device That Even 'Pro' Users Can't Resist | Gizmodo"
-date: 2024-10-31T16:33:39.985Z
-updated: 2024-11-06T16:01:13.011Z
+date: 2024-11-09T16:00:41.439Z
+updated: 2024-11-17T10:47:35.349Z
 tags:
   - apple
 categories:
@@ -45,16 +45,16 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -73,10 +73,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -97,15 +97,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -115,13 +122,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 **Also: [iPhone 15 review: Why I recommend this model even to 'Pro' users in 2024](https://www.zdnet.com/article/iphone-15-plus-review/)**
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  2\. You're on a budget
 
@@ -165,21 +165,16 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>[New] 2024 Approved Easy Path From Spotify to YouTube Discover the Best Playlist Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing-for-2024/"><u>[New] Nailing the Perfect Shot Advanced Strategies for Instagram Video Editing for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-essentials-for-seamless-system-evolutions-for-2024/"><u>[New] The Essentials for Seamless System Evolutions for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-a-detailed-walkthrough-of-internet-radio-logging/"><u>[New] The Ultimate Guide A Detailed Walkthrough of Internet Radio Logging</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-vanguard-audio-visual-makers-virtual-showcase/"><u>[New] The Vanguard Audio-Visual Makers' Virtual Showcase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-oculus-gaming-guide-best-selling-choices/"><u>[New] Ultimate Oculus Gaming Guide Best-Selling Choices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unveiling-the-wonders-of-4k-with-benq-bl2711u-review/"><u>[New] Unveiling the Wonders of 4K with BenQ BL2711U Review</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-bridging-the-gap-with-quantum-hdr-knowledge-for-2024/"><u>[Updated] Bridging the Gap with Quantum HDR Knowledge for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-live-stream-our-picks-from-the-top-6-microphones/"><u>[Updated] Perfecting Your Live Stream Our Picks From the Top 6 Microphones</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-cinematic-dying-in-pro/"><u>2024 Approved The Art of Cinematic Dying in Pro</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/watch-list-to-download-youtube-playlist-in-minutes/"><u>From Watch List to Download YouTube Playlist in Minutes</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-4k-blade-camera-imaging/"><u>In 2024, The Ultimate Guide to 4K Blade Camera Imaging</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/monetization-mastery-guide-choosing-the-right-platform/"><u>Monetization Mastery Guide Choosing the Right Platform</u></a></li>
-<li><a href="https://solve-info.techidaily.com/titre-recherche-de-versions-anterieures-aucune-version-precedente-na-ete-trouvee-dans-les-fichiers-historiques/"><u>Titre: Recherche De Versions Antérieures : Aucune Version Précédente N'a Été Trouvée Dans Les Fichiers Historiques ?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-social-media-sounds-into-practical-mobile-alerts-for-2024/"><u>Transforming Social Media Sounds Into Practical Mobile Alerts for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-and-fixing-qualcomm-atheros-bluetooth-drivers-for-optimal-performance-on-windows-n11/"><u>Troubleshooting and Fixing Qualcomm Atheros Bluetooth Drivers for Optimal Performance on Windows N11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-tangoing-turquoise-toucan/"><u>[New] 2024 Approved Tangoing Turquoise Toucan</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-erase-effortlessly-social-media-live-on-desktop-and-phone/"><u>[New] Erase Effortlessly Social Media Live on Desktop & Phone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-extraordinary-assessment-and-alternative-choices-for-2024/"><u>[New] Extraordinary Assessment & Alternative Choices for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-win10-ultimate-screenshot-and-video-capture-kit/"><u>[Updated] Win10 Ultimate Screenshot & Video Capture Kit</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-video-discoverability-with-strategic-tagging-on-youtube/"><u>Elevating Video Discoverability with Strategic Tagging on Youtube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-beginners-guide-to-editing-content-on-windows-11/"><u>In 2024, The Beginner's Guide to Editing Content on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-filmora-editing-traits-for-fan-loyalty/"><u>In 2024, Top 10 Filmora Editing Traits for Fan Loyalty</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>In 2024, Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unveiling-the-top-7-nft-creators-for-your-artwork/"><u>In 2024, Unveiling the Top 7 NFT Creators for Your Artwork</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-x-flip-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo X Flip to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-lenovo-x260-thinkpad-driver-updates-for-windows-10-secure-your-system-now/"><u>Ultimate Guide to Lenovo X260 (ThinkPad) Driver Updates for Windows 10 - Secure Your System Now</u></a></li>
 </ul></div>
 

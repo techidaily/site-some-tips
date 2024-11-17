@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Running an Immutable Linux OS | Insights From Tech Experts
-date: 2024-09-17 13:34:15
-updated: 2024-09-20 10:57:36
+date: 2024-11-16T09:55:41.484Z
+updated: 2024-11-17T10:42:19.907Z
 tags:
   - developer
 categories:
@@ -57,6 +57,19 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +80,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -80,6 +107,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -155,11 +189,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-duplicate-your-instagram-posts/"><u>[New] 2024 Approved How to Duplicate Your Instagram Posts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-action-screen-recorder-review/"><u>[New] Action Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/onquer-youtube-searches-with-these-top-11-seo-strategies/"><u>[New] Conquer YouTube Searches with These Top 11 SEO Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-to-file-solutions-with-apowersoft/"><u>[New] Screen-to-File Solutions with Apowersoft</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-artists-chromatic-companion/"><u>[Updated] The Artist's Chromatic Companion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-thirteen-for-professional-cinematic-equipment/"><u>[Updated] Ultimate Thirteen for Professional Cinematic Equipment</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-benq-sw320-review-a-journey-to-4k/"><u>2024 Approved The Ultimate BenQ SW320 Review A Journey to 4K</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tiktok-effect-overhaul-the-two-pronged-approach/"><u>2024 Approved TikTok Effect Overhaul The Two-Pronged Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvd-zu-pc-kopieren-made-simple-professionelle-methoden-fur-benutzer-unter-windows-10-und-mac-betriebssystemen/"><u>DVD Zu PC Kopieren Made Simple: Professionelle Methoden Für Benutzer Unter Windows 10 Und Mac Betriebssystemen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-10t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tweaking-video-speed-settings-on-netflix-mobile-and-desktop-app/"><u>In 2024, Tweaking Video Speed Settings on Netflix Mobile & Desktop App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-creativity-with-our-selection-of-18-premier-cam-recording-apps/"><u>In 2024, Unleash Creativity with Our Selection of #18 Premier Cam Recording Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-access-royalty-free-clip-art-tips/"><u>In 2024, Unlocking Access Royalty-Free Clip Art Tips</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/losung-erstellen-eines-wiederherstellungslaufwerks-trotz-fehlender-daten-bei-windows-systemwiederherstellung/"><u>Lösung: Erstellen Eines Wiederherstellungslaufwerks Trotz Fehlender Daten Bei Windows-Systemwiederherstellung</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-sound-design-magix-music-makers-latest-upgrade-for-2024/"><u>The Future of Sound Design Magix Music Maker's Latest Upgrade for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Core: How to Identify Your NVIDIA GPU With Newly Released Open Source Drivers - ZDNet Analysis"
-date: 2024-09-18 18:50:47
-updated: 2024-09-20 11:44:54
+date: 2024-11-12T16:12:28.447Z
+updated: 2024-11-17T01:31:55.359Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -67,11 +74,25 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  6\. Improvements to Azure AI Search 
 
@@ -123,6 +144,13 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +183,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-your-workflow-essential-tips-to-record-on-hp-laptop/"><u>[New] 2024 Approved Streamline Your Workflow Essential Tips to Record on HP Laptop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-affordable-leading-chromeos-screen-recorders/"><u>[New] Affordable Leading ChromeOS Screen Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-reviving-old-photos-through-snapchats-memories-feature/"><u>[Updated] Reviving Old Photos Through Snapchat's Memories Feature</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[Updated] What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/webm4a-aiff-mova/"><u>無償でWeb上のM4A, AIFF形式を自動変換可能 - Movaビジュアル</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-realme-10t-5g-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Realme 10T 5G.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-sdk-innovations-for-android-the-updated-rankings-of-facebook-video-downloading-tools/"><u>In 2024, SDK Innovations for Android The Updated Rankings of Facebook Video Downloading Tools</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passer-dun-gif-a-3gp-facilement-et-sans-frais-la-methode-movavi-pour-les-videastes-en-ligne/"><u>Passer D'un GIF À 3GP Facilement Et Sans Frais : La Méthode Movavi Pour Les Vidéastes en Ligne</u></a></li>
+<li><a href="https://some-tips.techidaily.com/passo-a-passo-para-converter-audio-amr-em-formato-mp3-com-o-ajudandar-do-videoconverter-da-movavi/"><u>Passo a Passo Para Converter Áudio AMR Em Formato MP3 Com O Ajudandar Do VideoConverter Da Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/topo-12-herramientas-de-animacion-libres-y-gratuitas-para-disenadores-en-2024/"><u>Topo 12 Herramientas De Animación Libres Y Gratuitas Para Diseñadores en 2024</u></a></li>
+</ul></div>
+

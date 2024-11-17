@@ -1,7 +1,7 @@
 ---
 title: Understanding Apple's Decision to Reclassify Former Employee Titles as 'Associate'
-date: 2024-09-19 17:24:11
-updated: 2024-09-20 10:17:55
+date: 2024-11-11T14:15:36.364Z
+updated: 2024-11-17T13:41:13.618Z
 tags:
   - developer
 categories:
@@ -57,6 +57,13 @@ Developers can choose to build using what Microsoft calls a "friendly user inter
 
 By the way, "copilot" written with a lower-case "c" is used to refer to any custom copilots users build. "Copilot" written with an upper-case "C" is used to refer to Microsoft's various branded Copilot offerings. And now you know. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  4\. New Dev Box features 
 
 Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](https://www.zdnet.com/article/bolstered-dev-box-leads-developer-delights-at-microsoft-build-2023/), its coding-machine-as-a-service offering. Dev Box helps improve developer productivity by providing an on-demand coding environment along with enterprise management capabilities. This can substantially improve development workflows. 
@@ -66,6 +73,13 @@ Last year at Build 2023, [we discussed Microsoft's upcoming release of Dev Box](
 This year, Dev Box is generally available and Microsoft is adding new capabilities to its "ready-to-code" pre-configured programming environments. The company is adding team customizations and images, project-based catalogs, and an improved connection experience inside the Windows App. 
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. AI Toolkit for Visual Studio Code 
 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,33 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-the-best-editing-software-for-professional-dji-videos/"><u>[New] The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>[New] TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-spark-conversations-with-these-10-youtube-reaction-ideas/"><u>[Updated] 2024 Approved Spark Conversations with These 10 YouTube Reaction Ideas</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-income-with-proven-vimeo-advertising-strategies/"><u>[Updated] Elevate Your Income with Proven Vimeo Advertising Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-insight-screening-sweet-indulgences-for-2024/"><u>[Updated] Expert Insight Screening Sweet Indulgences for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-8-screen-recording-apps-in-windows-11-revealed/"><u>[Updated] In 2024, Top 8 Screen Recording Apps in Windows 11 Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-smart-picture-editing-using-pixlr/"><u>[Updated] The Ultimate Guide to Smart Picture Editing Using Pixlr</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-whats-in-your-wallet-from-one-million-youtube-sights/"><u>[Updated] What's In Your Wallet From One Million YouTube Sights?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tropical-tango-toucan/"><u>2024 Approved Tropical Tango Toucan</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors/"><u>2024 Approved Unpacking the Performance A Complete Guide to LG BP350 Monitors</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-sony-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Sony</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ending-the-woes-of-windows-update-error-8007000e-easy-solutions-for-speedy-success/"><u>Ending the Woes of Windows Update Error 8007000E: Easy Solutions for Speedy Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-updated-list-top-frame-addition-services-for-images/"><u>In 2024, Updated List Top Frame Addition Services for Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/microsoft-enhances-bing-with-smart-ai-responses-in-search-queries/"><u>Microsoft Enhances Bing with Smart AI Responses in Search Queries</u></a></li>
+<li><a href="https://article-tips.techidaily.com/snapedit-a-beginners-guide-to-photo-mastery-for-2024/"><u>Snapedit A Beginner's Guide to Photo Mastery for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-seamless-tutorial-for-image-background-cleanup-on-canva-for-2024/"><u>The Seamless Tutorial for Image Background Cleanup on Canva for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-the-power-to-create-personalized-whatsapp-alerts-for-2024/"><u>Unlock the Power to Create Personalized WhatsApp Alerts for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-update-to-sonys-premium-blu-ray-player-for-2024/"><u>Unveiling the Update to Sony’s Premium Blu-Ray Player for 2024</u></a></li>
+</ul></div>
+

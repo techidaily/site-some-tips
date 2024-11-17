@@ -1,7 +1,7 @@
 ---
 title: "CryoBoost Technology: ESR Unveils Qi2 MagSafe for Rapid, Cool-Charging of Apple iPhone 16 - ZDNet"
-date: 2024-10-30T21:39:25.192Z
-updated: 2024-11-06T18:17:10.306Z
+date: 2024-11-13T01:18:01.328Z
+updated: 2024-11-16T18:50:04.687Z
 tags:
   - apple
 categories:
@@ -39,10 +39,10 @@ What I really need is a dedicated travel kit for charging my gadgets, which incl
 [ZDNET RECOMMENDS ESR 3-in-1 Qi2 wireless travel charger This set is built for the road, and the foldable, compact design and included travel bag means it easily slips into a backpack or suitcase. View at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FESR-Charging-Station-Certified-Multiple%2Fdp%2FB0CW2J9XB8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd998f7c-226e-4e30-aac6-656effe038d9%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ESR 3-in-1 wireless travel charger features
@@ -81,10 +81,10 @@ In fact, it's the perfect kit for someone who is all-in with Apple gear.
 I've carried out all my usual tests on this charger, including safety tests and thermal checks, and it passed all of them with flying colors, which I would expect from a company such as ESR, which has a track record for making excellent charging tools.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -123,18 +123,20 @@ One of the standout features is the carry case, which has designated spots for e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-quiet-curator-of-online-chronicles/"><u>[New] 2024 Approved Quiet Curator of Online Chronicles</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-playspectate-screen-recorder-for-2024/"><u>[New] PlaySpectate Screen Recorder for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-recording-winners-pc-and-mac-edition/"><u>[New] Screen Recording Winners PC & Mac Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unlock-vivid-visuals-windows-hdplus-guide-to-hdr-mastery/"><u>[New] Unlock Vivid Visuals Windows HD+ Guide to HDR Mastery</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-stardew-key-highlights-from-ginger-isle/"><u>[Updated] 2024 Approved Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transferring-tactics-swiftly-send-files-to-devices/"><u>[Updated] Transferring Tactics Swiftly Send Files to Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unleash-your-audio-potential-pazeras-free-tool-review/"><u>[Updated] Unleash Your Audio Potential Pazera's Free Tool Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/becoming-an-accomplished-cio-five-key-techniques-to-elevate-your-professional-journey-guidance-by-zdnet/"><u>Becoming an Accomplished CIO: Five Key Techniques to Elevate Your Professional Journey - Guidance by ZDNET</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978074753-hassle-free-setup-for-the-latest-acer-sound-card-drivers-learn-how/"><u>Hassle-Free Setup for the Latest Acer Sound Card Drivers - Learn How</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-asus-rog-phone-7-ultimate-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Asus ROG Phone 7 Ultimate to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-gaming-displays-on-xbox-series-x-console/"><u>In 2024, Top Picks for Gaming Displays on Xbox Series X Console</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-mac-setup-for-optimal-switch-gaming/"><u>Mastering Mac Setup for Optimal Switch Gaming</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-definitive-guide-to-classic-anime-themes/"><u>[New] The Definitive Guide to Classic Anime Themes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-picks-in-the-market-for-cheap-but-high-quality-screens/"><u>[New] Top Picks in the Market for Cheap but High-Quality Screens</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>[New] Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-free-meeting-tools-ranked-your-ultimate-video-call-companion/"><u>[Updated] In 2024, Free Meeting Tools Ranked - Your Ultimate Video Call Companion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-filmora-its-10-most-attractive-features/"><u>[Updated] Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>2024 Approved The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-c300-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia C300 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-zte-nubia-z60-ultra-lock-screen-password-by-drfone-android/"><u>How to Reset your ZTE Nubia Z60 Ultra Lock Screen Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xr-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone XR Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-teaching-through-media-pro-video-editing-hacks/"><u>In 2024, Teaching Through Media Pro Video Editing Hacks</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96176859-9781635650334-living-in-a-mindful-universe/"><u>Living in a Mindful Universe | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-no-cost-vectors-and-graphic-hubs-roundup/"><u>Premium No-Cost Vectors & Graphic Hubs Roundup</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-solutions-to-incorrect-games-detection-on-discord-windows/"><u>Unveiling Solutions to Incorrect Games Detection on Discord Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Confluence of RAG, Generative AI, and Business Insight: Strategies From Tech Visionaries | ZDNet"
-date: 2024-09-18 15:24:50
-updated: 2024-09-20 10:15:20
+date: 2024-11-09T22:52:22.480Z
+updated: 2024-11-17T02:53:02.520Z
 tags:
   - developer
 categories:
@@ -41,6 +41,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  2\. GitHub Copilot extensions 
 
 In addition to general Copilot extensions, Microsoft is announcing GitHub Copilot extensions. The press release contains barely a paragraph of information, but the one extension spotlighted is GitHub Copilot for Azure, which enables coders to develop, build, troubleshoot, and deploy apps on Azure. This feature showcases, "How building in natural language with a broader range of capabilities can propel development velocity." 
@@ -67,6 +74,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -80,6 +94,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 **Also: [What is Gemini? Everything you should know about Google's new AI model](https://www.zdnet.com/article/what-is-google-gemini/)**
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  7\. New features for Azure Functions 
 
@@ -123,6 +144,19 @@ Last year at Build 2023, Microsoft previewed Azure API Center, a tool designed t
 
 Now, at Build 2024, Microsoft is announcing the general availability of the [Azure API Center](https://techcommunity.microsoft.com/t5/azure-integration-services-blog/azure-api-center-your-comprehensive-api-inventory-and-governance/ba-p/4125146), along with additional capabilities to manage generative AI deployments. These include token limit policy for managing resource allocation, import of the Azure OpenAI Service endpoints as APIs, and a load balancer. 
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  More from Build 2024 
 
 We hope you've enjoyed this lightning round of developer updates from Build. Stay tuned to ZDNET for the latest up-to-the-minute coverage of Build 2024, including even more coverage of the Redmond-based company's announcements. 
@@ -155,11 +189,30 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-youtubes-potential-with-these-top-5-video-marketing-techniques/"><u>[New] In 2024, Harness YouTube’s Potential with These #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-revealing-the-best-free-screen-capture-tools-for-your-camera/"><u>[New] Revealing the Best Free Screen Capture Tools for Your Camera</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-40-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 40</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-swf-files-effortlessly-with-movavis-no-cost-mp4-encoder-tool/"><u>Convert SWF Files Effortlessly with Movavi's No-Cost MP4 Encoder Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convertidores-webm-libres-e-instantaneos-para-cambiar-tu-animacion-gif-herramientas-por-movavi/"><u>Convertidores WebM Libres E Instantáneos Para Cambiar Tu Animación GIF - Herramientas Por Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-stellar-video-beginnings-with-free-tools-for-2024/"><u>Crafting Stellar Video Beginnings with Free Tools for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-11-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 11 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-upload-videos-from-a-computer-pc-or-mac-to-your-instagram-profile/"><u>How to Upload Videos From a Computer (PC or Mac) to Your Instagram Profile</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-reno-8t-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo Reno 8T Through Google Earth?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/les-enregistreurs-decran-n1-sans-frais-pour-windows-eb7-recommandes-par-movavi/"><u>Les Enregistreurs D'écran N°1 Sans Frais Pour Windows Eb7 Recommandés Par Movavi</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavi-3gp-mp4/"><u>Movavi: 원료 가격 3GP 파일이 바로 MP4 코어로 전환하기 위한 단순합니다!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/simova-movie-transformation-tool-securely-discounted-purchase/"><u>SiMoVa Movie Transformation Tool - Securely Discounted Purchase</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tga-a-png-gratuitamente-tramite-linnovativo-servizio-di-conversione-online-movavi/"><u>TGA a PNG Gratuitamente Tramite L'innovativo Servizio Di Conversione Online Movavi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tier-screen-quality-meets-budget-friendly-deal-on-lightweight-laptop-featured-on-zdnets-latest-offering/"><u>Top-Tier Screen Quality Meets Budget-Friendly Deal on Lightweight Laptop, Featured on ZDNet's Latest Offering!</u></a></li>
+</ul></div>
+

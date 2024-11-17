@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Smart Coding: How AI Enhances Developer Efficiency Today, Moving Past Old-School Automation Methods | Insights From ZDNET"
-date: 2024-09-18 19:57:56
-updated: 2024-09-20 11:52:51
+date: 2024-11-11T20:30:27.635Z
+updated: 2024-11-16T17:52:58.440Z
 tags:
   - developer
 categories:
@@ -73,6 +73,13 @@ Microsoft has extended Visual Studio Code with AI tool integration, giving devel
 
 From within Visual Studio Code, developers will be able to acquire and run language models, choose local and cloud compute capabilities to optimize and finetune models, and then deploy models into Azure AI Studio using container images. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  6\. Improvements to Azure AI Search 
 
 We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microsoft-announces-azure-ai-trio-at-inspire-2023-ai-vector-search-al-document-intelligence-and-whisper-model/), when Microsoft announced the capability at Inspire 2023\. The idea of AI search is that the very customizable search service uses a wide variety of AI technologies to deliver a better search experience. 
@@ -93,6 +100,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -103,6 +117,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  9\. Azure Container Apps previews dynamic sessions 
 
 Azure Container Apps is another Azure compute service that lets customers run containerized applications and microservices with automatic scaling and integrated event-driven capabilities, without managing the underlying infrastructure. This service differs from Azure App Service in that it provides a flexible environment for any containerized workload rather than being specifically tailored for web applications. 
@@ -110,6 +131,13 @@ Azure Container Apps is another Azure compute service that lets customers run co
 Microsoft announced that it's now previewing the addition of dynamic sessions. This capability enables scalable, personalized, and efficient resource management, enhancing user experiences through real time updates and secure session handling. It also helps optimize costs by aligning resource usage with actual demand. 
 
 Microsoft also announced support for Java monitoring, and a dashboard for Microsoft .NET Aspire. These are also entering preview. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  10\. Azure API Center in general availability 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-from-vertical-vistas-to-virtual-viewers-fb-live-streaming-w-dji-for-2024/"><u>[New] From Vertical Vistas to Virtual Viewers FB Live Streaming W/ DJI for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pewdiepies-paycheck-profile-a-glimpse-into-his-earnings/"><u>[New] PewDiePie’s Paycheck Profile – A Glimpse Into His Earnings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-fix-audio-loop-in-tweeted-visual-media-links/"><u>[Updated] 2024 Approved Fix Audio Loop in Tweeted Visual Media Links</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insights-into-instagram-video-constraint/"><u>[Updated] In 2024, Insights Into Instagram Video Constraint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-drone-enthusiasts-guide-to-vibration-reduction-and-image-quality/"><u>[Updated] The Drone Enthusiast's Guide to Vibration Reduction and Image Quality</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-comparison-best-tablets-that-outshine-filmoras-capabilities/"><u>[Updated] The Ultimate Comparison Best Tablets That Outshine Filmora's Capabilities</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-perfected-collage-making-blueprint/"><u>2024 Approved The Perfected Collage-Making Blueprint</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-5-ultra-hd-screens-mastering-hue-and-shade/"><u>2024 Approved Top 5 Ultra-HD Screens Mastering Hue and Shade</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoiding-common-missteps-with-autoai-tools/"><u>Avoiding Common Missteps with AutoAI Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-clear-stickers-in-video-for-2024/"><u>Comprehensive Guide to Clear Stickers in Video for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-metaverse-makeover-easy-avatar-construction/"><u>In 2024, The Metaverse Makeover Easy Avatar Construction</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-picture-narrative-craft-pro-edition/"><u>In 2024, Ultimate Picture Narrative Craft - Pro Edition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-uncomplicated-process-altering-clown-fish-voices-in-winos/"><u>In 2024, Uncomplicated Process Altering Clown Fish Voices in WinOS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-film-crafting-with-kinemaster-tools-for-2024/"><u>The Art of Film Crafting with Kinemaster Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-decades-guide-to-superior-social-media-management-smm-for-2024/"><u>The Decade's Guide to Superior Social Media Management (SMM) for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-for-your-next-shot-in-4k-reflective-tech-for-2024/"><u>Top Picks for Your Next Shot in 4K Reflective Tech for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-defender-smartscreen-temporarily-unavailable/"><u>Troubleshooting: Windows Defender SmartScreen Temporarily Unavailable</u></a></li>
+</ul></div>
+

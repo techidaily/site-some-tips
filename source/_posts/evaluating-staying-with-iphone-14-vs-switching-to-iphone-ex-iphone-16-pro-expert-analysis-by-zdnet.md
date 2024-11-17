@@ -1,7 +1,7 @@
 ---
 title: Evaluating Staying with iPhone 14 Vs. Switching to iPhone eX (iPhone 16 Pro) | Expert Analysis by ZDNET
-date: 2024-10-31T23:02:07.155Z
-updated: 2024-11-06T20:18:13.916Z
+date: 2024-11-13T14:34:26.786Z
+updated: 2024-11-17T01:37:47.250Z
 tags:
   - apple
 categories:
@@ -39,10 +39,16 @@ If you're looking to the iPhone 16 to get all the flashy AI features Apple showe
 Most of the more attractive features of Apple Intelligence that Apple showcased during [WWDC](https://www.zdnet.com/article/everything-apple-will-announce-at-wwdc-today-apple-intelligence-siri-ios-18-more/)in June are supposedly coming later in 2025, which is hardly a convincing factor to fork over more money for a new phone in September 2024\. If you're looking for features like Genmoji, Image Playground, and the [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration with Siri, you'll have to wait a few months.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Uncertainty around on-device performance
@@ -56,10 +62,10 @@ Many unknowns surround how Apple Intelligence features will perform on the [iPho
 Apple Intelligence requires at least 8GB of RAM and an A17 or M1 Apple silicon processor or newer. While the iPhone 16 lineup is expected to run on an A18 Bionic chip and between 8GB and 12GB of RAM across the four different models, concerns about how much strain the CPU will endure are valid. The new [AI capabilities can also overheat the iPhone and drain its battery quicker](https://www.zdnet.com/article/why-you-shouldnt-buy-the-iphone-16-for-apple-intelligence/), potentially reducing the device's lifecycle.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The iPhone 16 is not enough of an upgrade on its own
@@ -81,10 +87,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 But, the iPhone 16's Apple Intelligence features (when they arrive) are undoubtedly modest compared to [ChatGPT with GPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt/) and other AI tools available now. Other tools available now can do most of what Apple Intelligence promises; the difference is that the latter will run on-device and be personalized to the individual user. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. The iPhone 16 Pro is the same price as its predecessor… But is it worth it?
@@ -129,22 +135,19 @@ My Apple Intelligence-incompatible, lightning port-charging iPhone 14 Pro Max st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-clearer-views-the-top-10-online-photo-fixes/"><u>[New] Clearer Views The Top 10 Online Photo Fixes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-custom-youtube-video-speed-control-desktopmobile/"><u>[Updated] In 2024, Custom YouTube Video Speed Control (Desktop/Mobile)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-strategies-for-effective-b-roll-application/"><u>[Updated] Strategies for Effective B-Roll Application</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-quest-for-visual-excellence-can-pickup-be-the-top-photo-editor-on-android/"><u>[Updated] The Quest for Visual Excellence – Can PickUp Be the Top Photo Editor on Android?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-video-files-to-mp3-a-focused-guide-for-pinterest-users/"><u>[Updated] Transforming Video Files to MP3 A Focused Guide for Pinterest Users</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-companion-to-master-color-correction-top-11/"><u>2024 Approved The Photographer's Companion to Master Color Correction (Top 11)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/audio-enhancement-achieved-successful-driver-installation/"><u>Audio Enhancement Achieved: Successful Driver Installation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-ability-to-utilize-latest-insights-what-it-means-for-everyone-involved/"><u>ChatGPT and Its Ability to Utilize Latest Insights: What It Means for Everyone Involved</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-methods-for-installing-the-latest-microsoft-mouse-drivers-on-pc-and-laptop-windows-versions/"><u>Easy Methods for Installing the Latest Microsoft Mouse Drivers on PC and Laptop Windows Versions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/essential-examination-adobe-lightroom-for-mobile-users-for-2024/"><u>Essential Examination Adobe Lightroom for Mobile Users for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-to-turn-your-smartphone-into-a-virtual-reality-vr-headset-for-2024/"><u>How to Turn Your Smartphone Into a Virtual Reality (VR) Headset for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-the-social-maze-strategies-to-identify-and-reject-phony-connection-pleas/"><u>Navigating the Social Maze: Strategies to Identify and Reject Phony Connection Pleas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-transformative-power-of-augmented-vision-for-2024/"><u>The Transformative Power of Augmented Vision for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleashing-the-power-of-cross-platform-video-playback-software-for-2024/"><u>Unleashing the Power of Cross-Platform Video Playback Software for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-exclusive-video-editing-software-just-for-vimeo-pros/"><u>[New] In 2024, Exclusive Video Editing Software Just For Vimeo Pros</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-stand-out-from-the-noise-logo-design-for-podcast-success/"><u>[New] Stand Out From the Noise Logo Design for Podcast Success</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-audience-centric-strategies-for-top-facebook-listings/"><u>[Updated] Audience-Centric Strategies for Top Facebook Listings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-networks-generating-social-media-sensations/"><u>[Updated] In 2024, Navigating Networks Generating Social Media Sensations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-removing-photo-borders/"><u>[Updated] The Ultimate Guide to Removing Photo Borders</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transforming-images-the-art-of-applying-luts-in-pro/"><u>[Updated] Transforming Images The Art of Applying LUTs in Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-cinemagraph-guide-top-5-must-know-tactics/"><u>2024 Approved The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-toggle-the-past-the-twitch-live-trick/"><u>2024 Approved Toggle the Past The Twitch Live Trick</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>2024 Approved Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-create-gif-format-outros/"><u>In 2024, How To Create GIF Format Outros</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-all-benefits-with-fcp-downloads/"><u>In 2024, No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ricoh-theta-s-uncovered-a-complete-audit/"><u>In 2024, Ricoh Theta S Uncovered A Complete Audit</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/steps-to-solve-your-lg-printer-not-recognized-error-on-windows-10-8-and-7-platforms/"><u>Steps to Solve Your LG Printer Not Recognized Error on Windows 10, 8 & 7 Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-rated-password-security-tools-comprehensive-reviews-and-comparisons-cnet/"><u>Top Rated Password Security Tools : Comprehensive Reviews and Comparisons - CNET</u></a></li>
 </ul></div>
 

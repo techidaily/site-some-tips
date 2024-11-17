@@ -1,7 +1,7 @@
 ---
 title: Linus Torvalds Reveals Dangers of Bad Coding Practices, Faulty Hardware & Exaggerated AI Trends | Tech Insights
-date: 2024-09-19 19:45:25
-updated: 2024-09-20 11:29:16
+date: 2024-11-11T16:18:37.187Z
+updated: 2024-11-17T08:29:24.728Z
 tags:
   - developer
 categories:
@@ -104,11 +104,33 @@ Like self-driving cars, though, AI-assisted development tools are not a replacem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-earning-big-on-youtube-shorts-what-you-need-and-how-much-can-you-make/"><u>[Updated] 2024 Approved Earning Big on Youtube Shorts What You Need & How Much Can You Make?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-link-building-strategies/"><u>[Updated] Mastering YouTube Link-Building Strategies</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-ten-clandestine-corrections-for-artists/"><u>2024 Approved Top Ten Clandestine Corrections for Artists</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cnet-reviews-navigating-through-the-features-of-netgears-c3000-router-vintage-or-value/"><u>CNET Reviews: Navigating Through the Features of Netgear's C3000 Router - Vintage or Value?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-humor-with-excellent-zero-cost-memes/"><u>In 2024, Unleash Your Humor with Excellent Zero-Cost Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/live-photo-reconstruction-into-time-lapse-movies/"><u>Live Photo Reconstruction Into Time-Lapse Movies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simplifying-task-management-how-to-optimize-your-slack-alerts/"><u>Simplifying Task Management: How To Optimize Your Slack Alerts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/swipe-friendly-macbook-on-horizon-unveiling-insights-into-forecast-prices-launch-windows-and-hypothesized-hardware-details/"><u>Swipe-Friendly MacBook on Horizon? Unveiling Insights Into Forecast Prices, Launch Windows & Hypothesized Hardware Details</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-fundamentals-of-creating-dynamic-podcast-feeds-for-2024/"><u>The Fundamentals of Creating Dynamic Podcast Feeds for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-checklist-for-nfl-live-broadcasting-for-2024/"><u>The Ultimate Checklist for NFL Live Broadcasting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-liberating-tracks-with-pazeras-tools-for-2024/"><u>The Ultimate Guide to Liberating Tracks with Pazera's Tools for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210764972-9786069344255-your-future-by-numerology/"><u>Your Future by Numerology | Free Book</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

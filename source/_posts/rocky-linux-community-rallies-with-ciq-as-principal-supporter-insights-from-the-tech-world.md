@@ -1,7 +1,7 @@
 ---
 title: Rocky Linux Community Rallies with CIQ as Principal Supporter - Insights From the Tech World
-date: 2024-09-19 17:17:40
-updated: 2024-09-20 12:34:41
+date: 2024-11-16T11:06:24.173Z
+updated: 2024-11-17T03:26:00.803Z
 tags:
   - developer
 categories:
@@ -67,6 +67,13 @@ This year, Dev Box is generally available and Microsoft is adding new capabiliti
 
 On the enterprise management side, Dev Box connection telemetry will be available through the Azure Monitor, to help track performance data and system events. Developers can now automatically set their boxes to hibernate on disconnect, which could substantially reduce costs if developers regularly forget to hibernate their metered boxes before closing a connection. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  5\. AI Toolkit for Visual Studio Code 
 
 Microsoft has extended Visual Studio Code with AI tool integration, giving developers a more seamless approach to developing and deploying intelligent applications. 
@@ -81,6 +88,13 @@ We [spoke about Azure AI Search last fall](https://www.zdnet.com/article/microso
 
 These include vector and hybrid search (which uses advanced algorithms to provide more accurate and relevant search results), retrieval-augmented generation (which combines search results with generated content to improve accuracy and relevance), seamless data integrations (which allows unified search across various data sources for comprehensive results), enhanced search relevance (which improves the accuracy and relevance of search results based on user interactions), integrated vectorization (which understands the context and meaning of data for better search outcomes), and AI-powered insights and analytics (which provides insights and analytics to optimize and improve search performance). 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. New features for Azure Functions 
 
 Azure Functions is a serverless compute service that allows developers to write code without the need to manage or provision infrastructure. It's useful for building microservices, automating workflows, and managing data streams. Developers can build small, reusable code chunks that can be combined into more complex applications, all without worrying about server infrastructure. 
@@ -93,6 +107,13 @@ For those looking for more of a deep dive, there's a lab session at Build entitl
 
 Microsoft also moved Azure Functions on Azure Container Apps and the Dapr extension for Azure Functions out of preview and into general availability. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  8\. Azure App Service new features 
 
 Azure App Service has been around for [a long time](https://www.zdnet.com/article/microsofts-azure-app-service-developer-platform-now-available-on-linux/), since 2015 or so. Like Azure Functions, Azure App Service is an Azure compute service, but while Azure Functions run, well, functions, Azure App Service runs entire web apps. With Azure Functions, you pay per execution. With Azure App Service, you pay based on the number and size of the instances you use. 
@@ -102,6 +123,13 @@ The news here at Build 2024 is that Microsoft is showing three interesting new c
 **Also: [Microsoft Azure gets 'Models as a Service,' enhanced RAG offerings for enterprise generative AI](https://www.zdnet.com/article/microsoft-azure-gets-models-as-a-service-enhanced-rag-offerings-for-enterprise-generative-ai/)**
 
 Microsoft also announced that automatic scaling, availability zones, and TLS 1.3 encryption features are now in general availability. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Azure Container Apps previews dynamic sessions 
 
@@ -155,11 +183,31 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-comparing-profit-potential-dailymovement-and-youtubes-earnings/"><u>[New] Comparing Profit Potential DailyMovement and Youtube's Earnings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultra-30-review-the-virb-action-cam-for-adventurers/"><u>[New] Ultra 30 Review – The VIRB Action Cam for Adventurers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-optimizing-youtube-content-for-instagram-platforms/"><u>[Updated] Optimizing YouTube Content for Instagram Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-androids-premium-music-video-watching-apps/"><u>[Updated] The Ultimate Guide to Android's Premium Music Video Watching Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-rapid-windows-photo-examiner-for-enhanced-efficiency/"><u>2024 Approved Rapid Windows Photo Examiner for Enhanced Efficiency</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-shining-up-your-android-videos-effortlessly/"><u>2024 Approved Shining Up Your Android Videos Effortlessly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>2024 Approved Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-list-meme-design-masterpieces/"><u>2024 Approved Ultimate List Meme Design Masterpieces</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beating-bots-at-the-game-of-words-human-writers-edge/"><u>Beating Bots at the Game of Words: Human Writers' Edge</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-airdrop-working-again-swiftly-user-friendly-troubleshooting-techniques/"><u>Get Your AirDrop Working Again Swiftly: User-Friendly Troubleshooting Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-v-purse-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor V Purse Phones? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-video-impact-selecting-the-best-rank-trackers-for-youtubers/"><u>In 2024, Maximizing Video Impact Selecting the Best Rank Trackers for YouTubers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-definitive-guide-to-iphone-photomosaic-creation-collage/"><u>In 2024, The Definitive Guide to iPhone Photomosaic Creation (Collage)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unleash-your-inner-gamer-best-free-voice-change-tool-for-valorant/"><u>In 2024, Unleash Your Inner Gamer Best Free Voice Change Tool for Valorant</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-setup-integrating-disneyplus-with-your-chromecast-for-perfect-playback/"><u>Mastering the Setup: Integrating Disney+ with Your Chromecast for Perfect Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/significantly-reduce-file-size-with-winxvideo-ai-achieve-up-to-90-downsizing/"><u>Significantly Reduce File Size with WinxVideo AI: Achieve Up to 90% Downsizing!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-essential-minecraft-video-tutorials/"><u>The Essential Minecraft Video Tutorials</u></a></li>
+</ul></div>
+
